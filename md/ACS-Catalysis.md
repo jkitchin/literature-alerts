@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Dec 29 01:27:51 2024
+Created on Mon Dec 30 01:23:08 2024
 
-Found 24 results from 2024-12-22 to 2024-12-29
+Found 26 results from 2024-12-23 to 2024-12-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -265,6 +265,28 @@ OpenAlex: https://openalex.org/W4405843775
 Open access: False
     
 [Yawen Shi](https://openalex.org/A5011229071), [Xinyong Diao](https://openalex.org/A5059620811), [Na Ji](https://openalex.org/A5033986934), [Hu Ding](https://openalex.org/A5102482212), [Zongyang Ya](https://openalex.org/A5017640332), [Dong Xu](https://openalex.org/A5085263496), [Rui Wei](https://openalex.org/A5100618502), [Kejiang Cao](https://openalex.org/A5005782389), [Shengbo Zhang](https://openalex.org/A5045637364), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06344.
+    
+No abstract    
+
+    
+
+## Modulating the Selectivity of CO2 Photoreduction by Regulating the Location of PtCu in a UiO-66@ZnIn2S4 Core–Shell Nanoreactor   
+
+OpenAlex: https://openalex.org/W4405853698    
+Open access: False
+    
+[Zengrong Li](https://openalex.org/A5084432276), [Peng Wang](https://openalex.org/A5100396151), [Chun-Xia Ren](https://openalex.org/A5101430724), [Linyi Wu](https://openalex.org/A5039487548), [Yue Yao](https://openalex.org/A5103153947), [Shuxian Zhong](https://openalex.org/A5037678225), [Hongjun Lin](https://openalex.org/A5107980754), [Leihong Zhao](https://openalex.org/A5056196238), [Yijing Gao](https://openalex.org/A5037410761), [Song Bai](https://openalex.org/A5011190440), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05717.
+    
+No abstract    
+
+    
+
+## Constructing Ordered Oxophilic Tin Sites on Platinum to Achieve a High-Performance and Anti-CO Poisoning Hydrogen Oxidation Reaction under an Alkaline Electrolyte   
+
+OpenAlex: https://openalex.org/W4405867615    
+Open access: False
+    
+[Chaoyi Yang](https://openalex.org/A5104120338), [Guangqin Wang](https://openalex.org/A5051536788), [Jianchao Yue](https://openalex.org/A5081310019), [Zhifeng Dai](https://openalex.org/A5077311986), [Wei Luo](https://openalex.org/A5062213729), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06469.
     
 No abstract    
 

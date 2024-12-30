@@ -1,8 +1,8 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Dec 29 01:27:51 2024
+Created on Mon Dec 30 01:23:08 2024
 
-Found 24 results from 2024-12-22 to 2024-12-29
+Found 26 results from 2024-12-23 to 2024-12-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
 
@@ -505,6 +505,48 @@ Transition metal catalysis is crucial for the synthesis of complex molecules, wi
 OpenAlex: https://openalex.org/W4405843775 (Open access: False)
     
 [[https://openalex.org/A5011229071][Yawen Shi]], [[https://openalex.org/A5059620811][Xinyong Diao]], [[https://openalex.org/A5033986934][Na Ji]], [[https://openalex.org/A5102482212][Hu Ding]], [[https://openalex.org/A5017640332][Zongyang Ya]], [[https://openalex.org/A5085263496][Dong Xu]], [[https://openalex.org/A5100618502][Rui Wei]], [[https://openalex.org/A5005782389][Kejiang Cao]], [[https://openalex.org/A5045637364][Shengbo Zhang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06344 
+     
+No abstract    
+
+    
+
+* Modulating the Selectivity of CO2 Photoreduction by Regulating the Location of PtCu in a UiO-66@ZnIn2S4 Core–Shell Nanoreactor  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405853698
+:TOPICS: Advanced Photocatalysis Techniques, Gas Sensing Nanomaterials and Sensors, Copper-based nanomaterials and applications
+:PUBLICATION_DATE: 2024-12-27
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05717")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405853698"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405853698"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405853698"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405853698 (Open access: False)
+    
+[[https://openalex.org/A5084432276][Zengrong Li]], [[https://openalex.org/A5100396151][Peng Wang]], [[https://openalex.org/A5101430724][Chun-Xia Ren]], [[https://openalex.org/A5039487548][Linyi Wu]], [[https://openalex.org/A5103153947][Yue Yao]], [[https://openalex.org/A5037678225][Shuxian Zhong]], [[https://openalex.org/A5107980754][Hongjun Lin]], [[https://openalex.org/A5056196238][Leihong Zhao]], [[https://openalex.org/A5037410761][Yijing Gao]], [[https://openalex.org/A5011190440][Song Bai]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05717 
+     
+No abstract    
+
+    
+
+* Constructing Ordered Oxophilic Tin Sites on Platinum to Achieve a High-Performance and Anti-CO Poisoning Hydrogen Oxidation Reaction under an Alkaline Electrolyte  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405867615
+:TOPICS: Electrocatalysts for Energy Conversion, Catalytic Processes in Materials Science, Advanced battery technologies research
+:PUBLICATION_DATE: 2024-12-28
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06469")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405867615"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405867615"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405867615"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405867615 (Open access: False)
+    
+[[https://openalex.org/A5104120338][Chaoyi Yang]], [[https://openalex.org/A5051536788][Guangqin Wang]], [[https://openalex.org/A5081310019][Jianchao Yue]], [[https://openalex.org/A5077311986][Zhifeng Dai]], [[https://openalex.org/A5062213729][Wei Luo]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06469 
      
 No abstract    
 

@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 29 Dec 2024 01:27:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 01:23:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Life Cycle Assessment of Charge Carrier Mediated Electrocatalytic Reduction of Carbon Dioxide to Formic Acid</title>
-      <link>https://doi.org/10.1016/j.jece.2024.115184</link>
-      <description>Naser S. Matin, Daniel Moreno, Keemia Abad, Ayo Omosebi, Kunlei Liu, Jesse Thompson, Journal of environmental chemical engineering. 13(1)] 2024. https://openalex.org/W4405676044
-
-                No abstract</description>
-      <author>Naser S. Matin, Daniel Moreno, Keemia Abad, Ayo Omosebi, Kunlei Liu, Jesse Thompson</author>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.115184</guid>
-    </item>
-    <item>
-      <title>Integrated Electrochemically Assisted Absorbers for the Removal of Carbon Dioxide</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.145556</link>
-      <description>Fatemeh Mahmoudian, I&#241;aki Requena, Justo Lobato, Farideh Nabizadeh-Chianeh, Manuel A. Rodrigo, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4405680521
-
-                No abstract</description>
-      <author>Fatemeh Mahmoudian, I&#241;aki Requena, Justo Lobato, Farideh Nabizadeh-Chianeh, Manuel A. Rodrigo</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145556</guid>
-    </item>
     <item>
       <title>Structural Regulating of Cu&#8208;based Metallic Electrocatalysts for CO2 to C2+ Products Conversion</title>
       <link>https://doi.org/10.1002/cssc.202402184</link>
@@ -168,6 +148,16 @@
       <guid isPermaLink="true">https://doi.org/10.34133/research.0589</guid>
     </item>
     <item>
+      <title>Electrocatalytic CO2 reduction for the selective production of liquid oxygenates</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.12.022</link>
+      <description>Jiapeng Ji, Junnan Chen, Juxia Xiong, Xiaolong Zhang, Hui&#8208;Ming Cheng, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4405865361
+
+                No abstract</description>
+      <author>Jiapeng Ji, Junnan Chen, Juxia Xiong, Xiaolong Zhang, Hui&#8208;Ming Cheng</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.12.022</guid>
+    </item>
+    <item>
       <title>Towards the use of low&#8208;concentration CO2 sources by direct selective electrocatalytic reduction</title>
       <link>https://doi.org/10.1002/anie.202419775</link>
       <description>Muhammad Adib Abdillah Mahbub, Debanjan Das, Xin Wang, Guilong Lu, Martin Muhler, Wolfgang Schuhmann, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4405705838
@@ -208,6 +198,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202422775</guid>
     </item>
     <item>
+      <title>A bibliometric analysis of advances in CO2 reduction technology based on patents</title>
+      <link>https://doi.org/10.1016/j.apenergy.2024.125193</link>
+      <description>Ming-Yeah Hu, Yi Mu, Huile Jin, Applied Energy. 382(None)] 2024. https://openalex.org/W4405862519
+
+                No abstract</description>
+      <author>Ming-Yeah Hu, Yi Mu, Huile Jin</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apenergy.2024.125193</guid>
+    </item>
+    <item>
       <title>Recent advances in electrochemical CO2 reduction catalyzed by single&#8208;atom alloys</title>
       <link>https://doi.org/10.1002/cctc.202401785</link>
       <description>Wenjie Wu, Jun Long, Jianping Xiao, ChemCatChem. None(None)] 2024. https://openalex.org/W4405720683
@@ -216,6 +216,16 @@
       <author>Wenjie Wu, Jun Long, Jianping Xiao</author>
       <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202401785</guid>
+    </item>
+    <item>
+      <title>Tuning CO2 reduction selectivity via structural doping of TiO2 photocatalysts</title>
+      <link>https://doi.org/10.1016/j.jcou.2024.103008</link>
+      <description>Hana Kmentov&#225;, Miroslava Edelmannov&#225;, Zde&#328;&#283;k Ba&#271;ura, Radek Zbo&#345;il, Lucie Obalov&#225;, &#352;t&#283;p&#225;n Kment, Kamila Ko&#269;&#237;, Journal of CO2 Utilization. 91(None)] 2024. https://openalex.org/W4405866146
+
+                No abstract</description>
+      <author>Hana Kmentov&#225;, Miroslava Edelmannov&#225;, Zde&#328;&#283;k Ba&#271;ura, Radek Zbo&#345;il, Lucie Obalov&#225;, &#352;t&#283;p&#225;n Kment, Kamila Ko&#269;&#237;</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcou.2024.103008</guid>
     </item>
     <item>
       <title>Operando NMR quantifies liquid product, water crossover and carbonates for electrochemical CO2 reduction</title>
@@ -268,6 +278,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124978</guid>
     </item>
     <item>
+      <title>Zinc oxides by thermal decomposition synthesis and parameters affecting electrocatalyst activity for CO2 reduction reaction</title>
+      <link>https://doi.org/10.1016/j.oceram.2024.100733</link>
+      <description>El&#237;as Rodr&#237;guez-Jara, Margherita Cavallo, Ryosuke Nakazato, Matthias Quintelier, Keeko Matsumoto, Joke Hadermann, Jadra Mosa, Francesca Bonino, Kiyoharu Tadanaga, M. Aparicio, Nataly Carolina Rosero&#8208;Navarro, Open Ceramics. None(None)] 2024. https://openalex.org/W4405865362
+
+                No abstract</description>
+      <author>El&#237;as Rodr&#237;guez-Jara, Margherita Cavallo, Ryosuke Nakazato, Matthias Quintelier, Keeko Matsumoto, Joke Hadermann, Jadra Mosa, Francesca Bonino, Kiyoharu Tadanaga, M. Aparicio, Nataly Carolina Rosero&#8208;Navarro</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.oceram.2024.100733</guid>
+    </item>
+    <item>
       <title>Hot water flow and temperature measurement to verify CO2 emission reductions using solar water heating</title>
       <link>https://doi.org/10.1016/j.meaene.2024.100032</link>
       <description>Iv&#225;n A. Hern&#225;ndez-Robles, Deleted Journal. None(None)] 2024. https://openalex.org/W4405740962
@@ -286,6 +306,16 @@
       <author>Ziying Hu, Jinlong Wen, Yiqi Wang, Jing Chen, Can&#8208;Zhong Lu</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.162209</guid>
+    </item>
+    <item>
+      <title>DMSO catalyzed CO2 reduction with 9-BBN: selective formation of either formoxy- or methoxyborane under mild conditions and C-methylenation of indoles</title>
+      <link>https://doi.org/10.1039/d4cy01327a</link>
+      <description>Ganesan Mani, Ashok Kumar, Rohit Gupta, Vasudevan Subramaniyan, Catalysis Science &amp; Technology. None(None)] 2024. https://openalex.org/W4405859581
+
+                An efficient and selective reduction of CO2 to formoxy- and methoxyboranes under mild conditions paves the way to economically produce formic acid and methanol, which are alternative sources of energy....</description>
+      <author>Ganesan Mani, Ashok Kumar, Rohit Gupta, Vasudevan Subramaniyan</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cy01327a</guid>
     </item>
     <item>
       <title>Two-dimensional metal&#8211;organic frameworks with dual active sites for electrochemical CO2 reduction: A computational study</title>
@@ -318,14 +348,14 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5073509</guid>
     </item>
     <item>
-      <title>Morphology-/Microstructure-Regulated Nickel/Nitrogen-Co-Doped Monodisperse Hollow Carbon Spheres for Controlled Electrochemical Co2 Reduction to Syngas</title>
-      <link>https://doi.org/10.2139/ssrn.5067011</link>
-      <description>Yali Yang, Muhammad Umer, Zhenyu Sun, Reiner Anwander, Yucang Liang, No host. None(None)] 2024. https://openalex.org/W4405679724
+      <title>An integrated design method for CO2 emission reduction based on industrial metabolism:Hybrid carbon-hydrogen metallurgy manufacturing process (HCHMP)</title>
+      <link>https://doi.org/10.1016/j.jclepro.2024.144595</link>
+      <description>J. Chen, Qiang Sun, Qingshan Gong, Mengzhen Wang, Teng Hu, Zhenyu Huang, Gang Zhao, Journal of Cleaner Production. None(None)] 2024. https://openalex.org/W4405846973
 
                 No abstract</description>
-      <author>Yali Yang, Muhammad Umer, Zhenyu Sun, Reiner Anwander, Yucang Liang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5067011</guid>
+      <author>J. Chen, Qiang Sun, Qingshan Gong, Mengzhen Wang, Teng Hu, Zhenyu Huang, Gang Zhao</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jclepro.2024.144595</guid>
     </item>
     <item>
       <title>Review for "DMSO catalyzed CO2 reduction with 9-BBN: selective formation of either formoxy- or methoxyborane under mild conditions and C-methylenation of indoles"</title>
@@ -358,6 +388,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4cy01327a/v2/review1</guid>
     </item>
     <item>
+      <title>Author response for "DMSO catalyzed CO2 reduction with 9-BBN: selective formation of either formoxy- or methoxyborane under mild conditions and C-methylenation of indoles"</title>
+      <link>https://doi.org/10.1039/d4cy01327a/v2/response1</link>
+      <description>Ganesan Mani, Ashok Kumar, Rohit Gupta, Vasudevan Subramaniyan, No host. None(None)] 2024. https://openalex.org/W4405864236
+
+                No abstract</description>
+      <author>Ganesan Mani, Ashok Kumar, Rohit Gupta, Vasudevan Subramaniyan</author>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cy01327a/v2/response1</guid>
+    </item>
+    <item>
       <title>Decision letter for "DMSO catalyzed CO2 reduction with 9-BBN: selective formation of either formoxy- or methoxyborane under mild conditions and C-methylenation of indoles"</title>
       <link>https://doi.org/10.1039/d4cy01327a/v2/decision1</link>
       <description>, No host. None(None)] 2024. https://openalex.org/W4405864445
@@ -366,6 +406,26 @@
       <author/>
       <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4cy01327a/v2/decision1</guid>
+    </item>
+    <item>
+      <title>Author response for "DMSO catalyzed CO2 reduction with 9-BBN: selective formation of either formoxy- or methoxyborane under mild conditions and C-methylenation of indoles"</title>
+      <link>https://doi.org/10.1039/d4cy01327a/v3/response1</link>
+      <description>Ganesan Mani, Ashok Kumar, Rohit Gupta, Vasudevan Subramaniyan, No host. None(None)] 2024. https://openalex.org/W4405864451
+
+                No abstract</description>
+      <author>Ganesan Mani, Ashok Kumar, Rohit Gupta, Vasudevan Subramaniyan</author>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cy01327a/v3/response1</guid>
+    </item>
+    <item>
+      <title>Decision letter for "DMSO catalyzed CO2 reduction with 9-BBN: selective formation of either formoxy- or methoxyborane under mild conditions and C-methylenation of indoles"</title>
+      <link>https://doi.org/10.1039/d4cy01327a/v3/decision1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4405864503
+
+                No abstract</description>
+      <author/>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cy01327a/v3/decision1</guid>
     </item>
     <item>
       <title>Decision letter for "DMSO catalyzed CO2 reduction with 9-BBN: selective formation of either formoxy- or methoxyborane under mild conditions and C-methylenation of indoles"</title>
@@ -388,14 +448,14 @@
       <guid isPermaLink="true">https://doi.org/10.56028/aetr.12.1.900.2024</guid>
     </item>
     <item>
-      <title>The Bell Can Be Un-Rung Climate Change Can Be Undone</title>
-      <link>https://doi.org/10.14738/aivp.126.17903</link>
-      <description>William Van Brunt, Advances In Image and Video Processing. 12(6)] 2024. https://openalex.org/W4405679540
+      <title>Quantification Of Greenhouse Gas Emissions in a Cement Company and System Dynamics Modeling Toward Carbon Neutral</title>
+      <link>https://doi.org/10.23969/jcbeem.v9i1.20395</link>
+      <description>Rizky Tazkia Arethusya Harijanto, Kania Dewi, Agus Wahyudi, Journal of Community Based Environmental Engineering and Management. 9(1)] 2024. https://openalex.org/W4405860512
 
-                Commencing nearly a decade ago, the scientific literature has shown that changes in the concentration of water vapor, a greenhouse gas with a heating power 400 times greater than carbon dioxide, CO2, closely match changes in the average global temperature. The foregoing notwithstanding, while there is no correlation between changes in the average global temperature and changes in the concentration of CO2; still a large community of interests including the Intergovernmental Panel on Climate Change (IPCC), academia, agencies of government, various research institutions and enterprises, tens of thousands of scientists, public officials and policy makers which have worked for over three decades without proof, continue to assert that it is the increasing atmospheric concentration of CO2 that drives global warming. Thus, the myopic focus of this de-carbon community remains reducing carbon emissions. This is a major problem, because, while the data and the physics have clearly shown that when the global concentration of water vapor is reduced, the result is global cooling and reductions in catastrophic weather. and these relationships have not been discussed in the preeminent scientific literature. As a direct consequence, no steps to drive increased precipitation to reduce the concentration of water vapor have been undertaken. As each year passes, the size of the reduction sufficient to reverse global warming grows, thus, increasing the time necessary to effect this, whichmay take decades as annual devastation from catastrophic weather increases at a rate of $45 bn US every decade. To fight climate change, the policy must change to focus on encouraging the development of effective, efficient and sufficient means of increasing precipitation.</description>
-      <author>William Van Brunt</author>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.14738/aivp.126.17903</guid>
+                The cement industry is one of the sectors that produces carbon dioxide (CO2) emissions due to its raw material processing and energy requirements. CO2, as a greenhouse gas (GHG) emission, contributes to global warming, leading to environmental, health, and economic losses. To address these issues, Indonesia is committed to reducing GHG emissions in the industrial sector by 2050. To effectively plan for the reduction of GHG emissions generated by companies, this study aims to quantify emissions from a cement company, representing the cement industry in Indonesia, to understand the current state of the company's carbon footprint and identify feasible mitigation measures. The cement industry utilizes a GHG quantification system to calculate emissions from raw material processing, thermal energy consumption, and electricity purchases. The calculation results from a cement company are used for system dynamics modeling with Vensim PLE software for the period from 2021 to 2050, under business-as-usual (BAU) conditions with various emission reduction strategies. The results show that GHG emissions under BAU conditions with emission reduction strategies do not achieve carbon neutrality by 2050. More intensive adoption of decarbonization technologies, research on process optimization, and government policies such as carbon taxes and carbon trading are required to achieve carbon neutral goals.</description>
+      <author>Rizky Tazkia Arethusya Harijanto, Kania Dewi, Agus Wahyudi</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.23969/jcbeem.v9i1.20395</guid>
     </item>
     <item>
       <title>Gene expression changes in the seagrass Cymodocea nodosa individuals in response to aquatic acidification</title>
@@ -449,16 +509,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/en17246443</guid>
     </item>
     <item>
-      <title>Sustainable Aviation Fuels: Evaluating Environmental and Operational Impacts</title>
-      <link>https://doi.org/10.35208/ert.1531974</link>
-      <description>Caner &#304;lhan, Environmental Research and Technology. None(None)] 2024. https://openalex.org/W4405675772
-
-                Between 2013 and 2018, commercial aviation saw a 70% increase in carbon dioxide (CO2) emissions, significantly outpacing United Nations projections. This alarming trend is anticipated to continue, with emissions potentially tripling by 2050, driven by economic expansion and an increasing dependence on fossil fuels. In 2022, the aviation industry&#8217;s energy consumption reached 12.1 MJ/RTK, with projections forecasting a 2.8 to 3.9-fold increase by 2040. Without a strategic shift towards sustainable alternatives, aviation emissions are expected to reach 2,000 megatons by mid-century, posing a severe threat to global climate stability. This study emphasizes the urgent need for the aviation sector to adopt high-energy, reliable alternative fuels that can mitigate its environmental impact. A comprehensive evaluation and comparison of potential alternative fuels are presented, focusing on their energy densities, production processes, and environmental footprints. The research highlights the potential of these alternatives to meet the industry&#8217;s energy demands while significantly reducing greenhouse gas emissions. Technological advancements in fuel production and aircraft propulsion are also explored, underscoring their role in achieving meaningful emissions reductions. The study argues that integrating sustainable practices and fostering innovation within the aviation sector are critical for ensuring its long-term sustainability and resilience. By transitioning to alternative fuels and embracing new technologies, the aviation industry can not only address its environmental challenges but also lead the way in global efforts to combat climate change and achieve net-zero emissions by 2050.</description>
-      <author>Caner &#304;lhan</author>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.35208/ert.1531974</guid>
-    </item>
-    <item>
       <title>Unintended consequences: market integration and enterprise carbon emissions &#8212;&#8212;based on the analytical perspective of county-to-district reform</title>
       <link>https://doi.org/10.1080/14631377.2024.2437730</link>
       <description>Jun Liu, Shengjun Zhu, Canfei He, Yan Xu, Haoxiang Shen, Post-Communist Economies. None(None)] 2024. https://openalex.org/W4405795329
@@ -499,6 +549,16 @@
       <guid isPermaLink="true">https://doi.org/10.4103/jica.jica_23_24</guid>
     </item>
     <item>
+      <title>[N</title>
+      <link>https://doi.org/10.13227/j.hjkx.202401277</link>
+      <description>S. Y. Huang, Xiuhong Liu, Xi Cao, Junxia L&#252;, Cheng Huang, PubMed. 46(1)] 2025. https://openalex.org/W4405857066
+
+                To achieve non-carbon dioxide greenhouse gas emission reduction and control in municipal wastewater treatment plants &#65288;WWTPs&#65289;, this study conducted one-year long-term monitoring of nitrous oxide &#65288;N</description>
+      <author>S. Y. Huang, Xiuhong Liu, Xi Cao, Junxia L&#252;, Cheng Huang</author>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.13227/j.hjkx.202401277</guid>
+    </item>
+    <item>
       <title>Development of Bifunctional Catalysts for CO2 Capture and Conversion at Low Temperatures under an Electric Field</title>
       <link>https://doi.org/10.1002/cctc.202401775</link>
       <description>Keidai Tomozawa, Nao Tsunoji, Rin Suwa, Masahiro Sadakane, Tadaharu Ueda, Shuhei Ogo, ChemCatChem. None(None)] 2024. https://openalex.org/W4405711793
@@ -509,14 +569,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202401775</guid>
     </item>
     <item>
-      <title>Glaucoma in Dogs and Cats - Management with Cyclocryotherapy</title>
-      <link>https://doi.org/10.22456/1679-9216.130331</link>
-      <description>Eduardo Ghiggi, Maria Cristina Caldart de Andrade, Paula Stieven H&#252;nning, Tatiana Moreno Martinez, Rafael Kretzer Carneiro, Maria Victoria Diez Canseco Berdecio, ACTA SCIENTIAE VETERINARIAE. 51(None)] 2023. https://openalex.org/W4405706945
+      <title>Electrochemical Dicarboxylation of Vinyl Epoxide with CO2 for the Facile and Selective Synthesis of Diacids</title>
+      <link>https://doi.org/10.1002/anie.202419702</link>
+      <description>Deyong Yang, Ying Sun, Nan Feng, Yuqing Zhong, Jian Zhou, Feng Zhou, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4405868524
 
-                Background: The treatment of glaucoma often requires numerous therapeutic modalities to achieve the desired reduction in intraocular pressure (IOP). Cyclodestructive procedures or ciliary body destruction have been performed using techniques with considerable differences in efficacy and complication rates. Among these methods, cyclocryotherapy is non-invasive and simple for the management of uncontrolled glaucoma in dogs and cats. The objective of this case report is to describe the technique of carbon dioxide cyclocryotherapy to reduce intraocular pressure in dogs and cats with glaucoma.Cases: Nine canine patients and one cat with glaucoma were treated with cyclocryotherapy performed under general anaesthesia. Clinical signs patients included blepharospasm, ocular pain, episcleral congestion and ocular hypertension. The patients showed higher levels of IOP, higher than 30 mmHg. Surgical treatment with general anaesthesia was applied. The pre-anaesthesia protocol included acepromazine 0.05 mg/kg with methadone 0.2 mg/kg, followed by intravenous propofol and maintenance with isoflurane and oxygen. An ophthalmological cryocautery unit was used with carbon dioxide as the cryogenic agent and a retinal cryoprobe of 3.2 mm diameter tip for the procedure. The method used was a double cycle of freezing and thawing for 60 s in each site. The cryoprobe was centred approximately 5 mm posterior to the corneoscleral limbus over the ciliary body. The temperature of each cyclocryotherapy spot was between -60&#176;C and -80&#176;C and each site was maintained in place for 60 s; 4 to 6 spots of the double freeze-thaw cycle were made. This technique did not have any serious complications during or after the application of cryotherapy, but chemosis and hyperaemia of the bulbar conjunctiva developed. Subconjunctival anti-inflammatory steroids were injected to minimise swelling and patient discomfort. Satisfactory results were observed; in all cases, the intraocular pressure decreased, with the usual result being a cosmetic and painless eye. Discussion: Even with recent surgical and medical advances, pain and blindness are still common occurrences in glaucoma in human and veterinary practice. The cyclodestructive procedures included cyclodialysis, cyclodiathermy, cyclocryotherapy, and cyclophotocoagulation. The cryosurgery in veterinary ophthalmology has many indications for the treatment of ocular diseases and is effective at decreasing intraocular pressure in patients with persistent uncontrolled glaucoma. Cyclocryotherapy has been shown to reduce intraocular pressure in dogs, cats, rabbits and humans with normotensive and glaucomatous eyes. The application of a cryoprobe over the ciliary processes results in ablating ciliary tissue so that aqueous humour inflow is reduced to acceptable levels. In the clinical cases evaluated, there was a reduction in intraocular pressure reaching acceptable levels, with the usual result being cosmetic and painless eye. Medical therapy remains the predominant method for treating glaucoma in veterinary patients; therefore, cyclocryotherapy is an effective, simple way to lower IOP and is a reasonable treatment option for glaucoma management. Cyclocryotherapy has shown good results, with a low learning curve and it can also be repeated if necessary.Keywords: eye, canine, feline, surgery.</description>
-      <author>Eduardo Ghiggi, Maria Cristina Caldart de Andrade, Paula Stieven H&#252;nning, Tatiana Moreno Martinez, Rafael Kretzer Carneiro, Maria Victoria Diez Canseco Berdecio</author>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.22456/1679-9216.130331</guid>
+                We present a novel electrochemical dicarboxylation of epoxides with CO2, characterized by the cleavage of two C&#8211;O single bonds. Not only are vinyl epoxides viable, but cyclic carbonates also serve as effective substrates, facilitating the synthesis of E&#8208;configured adipic and octanedioic acids with high chemo&#8208;, regio&#8208;, and stereoselectivity. The synthetic practicality is further highlighted by the diverse functionalizations of the resulting multifunctional diacids. Mechanistic studies support the single&#8208;electron transfer reduction of CO2 to its radical anion, which undergoes radical addition to the vinyl moiety of epoxides. The subsequent reductive cleavage of two C&#8211;O bonds, coupled with a nucleophilic attack on CO2, culminates in the formation of the desired diacid products.</description>
+      <author>Deyong Yang, Ying Sun, Nan Feng, Yuqing Zhong, Jian Zhou, Feng Zhou</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202419702</guid>
     </item>
     <item>
       <title>The impact of driving restrictions on air pollution and public health in Beijing</title>
@@ -529,6 +589,16 @@
       <guid isPermaLink="true">https://doi.org/10.54097/pb7epv23</guid>
     </item>
     <item>
+      <title>Glaucoma in Dogs and Cats - Management with Cyclocryotherapy</title>
+      <link>https://doi.org/10.22456/1679-9216.130331</link>
+      <description>Eduardo Ghiggi, Maria Cristina Caldart de Andrade, Paula Stieven H&#252;nning, Tatiana Moreno Martinez, Rafael Kretzer Carneiro, Maria Victoria Diez Canseco Berdecio, ACTA SCIENTIAE VETERINARIAE. 51(None)] 2023. https://openalex.org/W4405706945
+
+                Background: The treatment of glaucoma often requires numerous therapeutic modalities to achieve the desired reduction in intraocular pressure (IOP). Cyclodestructive procedures or ciliary body destruction have been performed using techniques with considerable differences in efficacy and complication rates. Among these methods, cyclocryotherapy is non-invasive and simple for the management of uncontrolled glaucoma in dogs and cats. The objective of this case report is to describe the technique of carbon dioxide cyclocryotherapy to reduce intraocular pressure in dogs and cats with glaucoma.Cases: Nine canine patients and one cat with glaucoma were treated with cyclocryotherapy performed under general anaesthesia. Clinical signs patients included blepharospasm, ocular pain, episcleral congestion and ocular hypertension. The patients showed higher levels of IOP, higher than 30 mmHg. Surgical treatment with general anaesthesia was applied. The pre-anaesthesia protocol included acepromazine 0.05 mg/kg with methadone 0.2 mg/kg, followed by intravenous propofol and maintenance with isoflurane and oxygen. An ophthalmological cryocautery unit was used with carbon dioxide as the cryogenic agent and a retinal cryoprobe of 3.2 mm diameter tip for the procedure. The method used was a double cycle of freezing and thawing for 60 s in each site. The cryoprobe was centred approximately 5 mm posterior to the corneoscleral limbus over the ciliary body. The temperature of each cyclocryotherapy spot was between -60&#176;C and -80&#176;C and each site was maintained in place for 60 s; 4 to 6 spots of the double freeze-thaw cycle were made. This technique did not have any serious complications during or after the application of cryotherapy, but chemosis and hyperaemia of the bulbar conjunctiva developed. Subconjunctival anti-inflammatory steroids were injected to minimise swelling and patient discomfort. Satisfactory results were observed; in all cases, the intraocular pressure decreased, with the usual result being a cosmetic and painless eye. Discussion: Even with recent surgical and medical advances, pain and blindness are still common occurrences in glaucoma in human and veterinary practice. The cyclodestructive procedures included cyclodialysis, cyclodiathermy, cyclocryotherapy, and cyclophotocoagulation. The cryosurgery in veterinary ophthalmology has many indications for the treatment of ocular diseases and is effective at decreasing intraocular pressure in patients with persistent uncontrolled glaucoma. Cyclocryotherapy has been shown to reduce intraocular pressure in dogs, cats, rabbits and humans with normotensive and glaucomatous eyes. The application of a cryoprobe over the ciliary processes results in ablating ciliary tissue so that aqueous humour inflow is reduced to acceptable levels. In the clinical cases evaluated, there was a reduction in intraocular pressure reaching acceptable levels, with the usual result being cosmetic and painless eye. Medical therapy remains the predominant method for treating glaucoma in veterinary patients; therefore, cyclocryotherapy is an effective, simple way to lower IOP and is a reasonable treatment option for glaucoma management. Cyclocryotherapy has shown good results, with a low learning curve and it can also be repeated if necessary.Keywords: eye, canine, feline, surgery.</description>
+      <author>Eduardo Ghiggi, Maria Cristina Caldart de Andrade, Paula Stieven H&#252;nning, Tatiana Moreno Martinez, Rafael Kretzer Carneiro, Maria Victoria Diez Canseco Berdecio</author>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.22456/1679-9216.130331</guid>
+    </item>
+    <item>
       <title>How formation water impacts CO2 miscible flooding in low-permeability reservoirs</title>
       <link>https://doi.org/10.1063/5.0243596</link>
       <description>Ying Dai, Hu Jia, Zili Zhou, Hao Hu, Physics of Fluids. 36(12)] 2024. https://openalex.org/W4405829457
@@ -537,6 +607,16 @@
       <author>Ying Dai, Hu Jia, Zili Zhou, Hao Hu</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0243596</guid>
+    </item>
+    <item>
+      <title>Efficient Photoredox Co-Upcycling of CO&lt;sub&gt;2&lt;/sub&gt; and Plastic Waste by Band-Gap-Engineered Zn&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Cd&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;S Catalyst</title>
+      <link>https://doi.org/10.1021/acsmaterialslett.4c02142</link>
+      <description>Yi Zhang, Ming&#8208;Yu Qi, Marco Conte, Zi&#8208;Rong Tang, Yi&#8208;Jun Xu, ACS Materials Letters. None(None)] 2024. https://openalex.org/W4405757566
+
+                Solar-driven CO2 reduction combined with plastic waste valorization presents a versatile approach to simultaneously reset misaligned hydrocarbon resources and achieve a carbon-neutral cycle. Herein, we demonstrate a co-upcycling heterogeneous photoredox catalysis for efficient CO2 reduction to tunable syngas, integrated with polyethylene terephthalate (PET) plastic conversion for accessing acetate, over the spherical band-gap-engineered ZnxCd1&#8211;xS catalyst. The key to steering the syngas H2/CO rate is to modulate the conduction band bottom potentials of the ZnxCd1&#8211;xS photocatalysts by altering the Zn/Cd ratio, which results in syngas H2/CO production over a wide range. Moreover, controlled variations in the molar ratio of Zn/Cd regulate the electron&#8211;hole separation capability, thereby endowing Zn0.8Cd0.2S with the optimum syngas and acetate production rates. The underlying mechanistic origin of such a redox reaction involving CO2-assisted PET plastic conversion has been systematically investigated. This win-win cooperative photoredox catalysis offers a tantalizing possibility for co-upcycling of CO2 and PET into value-added feedstocks.</description>
+      <author>Yi Zhang, Ming&#8208;Yu Qi, Marco Conte, Zi&#8208;Rong Tang, Yi&#8208;Jun Xu</author>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c02142</guid>
     </item>
     <item>
       <title>Construction of stable Cu+/Cu0 sites at the fullerene/Cu(OH)F interface to boost the electroreduction of CO2 to C2+ products</title>
@@ -663,20 +743,10 @@
       <link>https://doi.org/10.1002/anie.202421149</link>
       <description>Datong Chen, Fengliang Wang, Yang Liu, Wenyuan Lyu, Xin Zhao, Ruiqi Fang, Liyu Chen, Yingwei Li, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4405721864
 
-                Electroreduction of CO2 to CO represents a highly promising way for artificial carbon cycling, but obtaining high selectivity over a wide potential window remains a challenge due to the sluggish CO generation and diffusion kinetics. Here we report an integration of long&#8208;range P modified asymmetrical bismuth atomic site on an ordered macroporous carbon skeleton with mesoporous &#8220;wall&#8221; (MW&#8208;BiN3&#8208;POMC) for efficient electroreduction of CO2. In&#8208;depth in&#8208;situ investigations with theoretical computations reveal that the incorporation of long&#8208;range P atom is able to strengthen the orbital interaction between the C 2p of CO2 and Bi 6p, thereby establishing an electronic transport bridge for the activation of CO2 molecule. Additionally, the ordered macropore with mesoporous wall effectively facilitates the diffusion of CO. As a result, MW&#8208;BiN3&#8208;POMC exhibits an ultrawide potential window of 1000 mV for high CO selectivity (&gt;90%) and a maximal CO partial current density of 414 mA cm&#8208;2. Moreover, MW&#8208;BiN3&#8208;POMC can also be employed as the cathode to integrate the solar&#8208;driven electrolytic cell (anode of Co3O4&#8208;OMC) toward CO2 reduction coupled with 5&#8208;hydroxymethylfurfural oxidation to simultaneously yield CO and 2,5&#8208;furandicarboxylic acid.</description>
+                Electroreduction of CO2 to CO represents a highly promising way for artificial carbon cycling, but obtaining high selectivity over a wide potential window remains a challenge due to the sluggish CO generation and diffusion kinetics. Here we report an integration of long-range P modified asymmetrical bismuth atomic site on an ordered macroporous carbon skeleton with mesoporous "wall" (MW-BiN3-POMC) for efficient electroreduction of CO2. In-depth in-situ investigations with theoretical computations reveal that the incorporation of long-range P atom is able to strengthen the orbital interaction between the C 2p of CO2 and Bi 6p, thereby establishing an electronic transport bridge for the activation of CO2 molecule. Additionally, the ordered macropore with mesoporous wall effectively facilitates the diffusion of CO. As a result, MW-BiN3-POMC exhibits an ultrawide potential window of 1000 mV for high CO selectivity (&gt;90%) and a maximal CO partial current density of 414 mA cm-2. Moreover, MW-BiN3-POMC can also be employed as the cathode to integrate the solar-driven electrolytic cell (anode of Co3O4-OMC) toward CO2 reduction coupled with 5-hydroxymethylfurfural oxidation to simultaneously yield CO and 2,5-furandicarboxylic acid.</description>
       <author>Datong Chen, Fengliang Wang, Yang Liu, Wenyuan Lyu, Xin Zhao, Ruiqi Fang, Liyu Chen, Yingwei Li</author>
       <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202421149</guid>
-    </item>
-    <item>
-      <title>Solar&#8208;Driven Sulfide Oxidation Paired With CO&lt;sub&gt;2&lt;/sub&gt; Reduction Based on Vacancies Engineering of Copper Selenide</title>
-      <link>https://doi.org/10.1002/smll.202411269</link>
-      <description>Zhongke Wang, Qixing Zhang, Jin Wang, Han He, San-Jiang Pan, Ying Zhao, Xiaodan Zhang, Small. None(None)] 2024. https://openalex.org/W4405700116
-
-                Abstract Photovoltaic&#8208;driven electrochemical (PV&#8208;EC) carbon dioxide reduction (CO 2 R) coupled with sulfide oxidation (SOR) can efficiently convert the solar energy into chemical energy, expanding its applications. However, developing low&#8208;cost electrocatalysts that exhibit high selectivity and efficiency for both CO 2 R and SOR remains a challenge. Herein, a bifunctional copper selenide catalyst is developed with copper vacancies (v&#8208;CuSe 2 ) for the CO 2 R&#8208;SOR. The Faradaic efficiency (FE) of 62.4% for methane at &#8722;200 mA cm &#8722;2 is achieved in the cathodic CO 2 R. In a two&#8208;electrode CO 2 R&#8208;SOR system with 16 h of long&#8208;term operation at a current density of 200 mA cm &#8722;2 , an average Faradaic efficiency of 57.2% for methane and 97.7% for sulfur powder generation is achieved at cathode and anode, respectively. Compared to the coupling of CO 2 R with oxygen evolution reaction (OER), the energy efficiency (EE) of the CO 2 R&#8208;SOR system can be increased to 22.9%. The mechanism study has found that the synergistic effect of copper vacancies and introduced Se significantly enhances the selectivity toward methane. Driven by silicon solar cells, a solar&#8208;to&#8208;methane conversion efficiency of 2% is achieved.</description>
-      <author>Zhongke Wang, Qixing Zhang, Jin Wang, Han He, San-Jiang Pan, Ying Zhao, Xiaodan Zhang</author>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202411269</guid>
     </item>
     <item>
       <title>Selective Electroreduction of CO2 to CO over Ultrawide Potential Window via Implanting Active Site with Long&#8208;Range P Regulation on Periodic Pores</title>
@@ -689,6 +759,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202421149</guid>
     </item>
     <item>
+      <title>Solar&#8208;Driven Sulfide Oxidation Paired With CO&lt;sub&gt;2&lt;/sub&gt; Reduction Based on Vacancies Engineering of Copper Selenide</title>
+      <link>https://doi.org/10.1002/smll.202411269</link>
+      <description>Zhongke Wang, Qixing Zhang, Jin Wang, Han He, San-Jiang Pan, Ying Zhao, Xiaodan Zhang, Small. None(None)] 2024. https://openalex.org/W4405700116
+
+                Abstract Photovoltaic&#8208;driven electrochemical (PV&#8208;EC) carbon dioxide reduction (CO 2 R) coupled with sulfide oxidation (SOR) can efficiently convert the solar energy into chemical energy, expanding its applications. However, developing low&#8208;cost electrocatalysts that exhibit high selectivity and efficiency for both CO 2 R and SOR remains a challenge. Herein, a bifunctional copper selenide catalyst is developed with copper vacancies (v&#8208;CuSe 2 ) for the CO 2 R&#8208;SOR. The Faradaic efficiency (FE) of 62.4% for methane at &#8722;200 mA cm &#8722;2 is achieved in the cathodic CO 2 R. In a two&#8208;electrode CO 2 R&#8208;SOR system with 16 h of long&#8208;term operation at a current density of 200 mA cm &#8722;2 , an average Faradaic efficiency of 57.2% for methane and 97.7% for sulfur powder generation is achieved at cathode and anode, respectively. Compared to the coupling of CO 2 R with oxygen evolution reaction (OER), the energy efficiency (EE) of the CO 2 R&#8208;SOR system can be increased to 22.9%. The mechanism study has found that the synergistic effect of copper vacancies and introduced Se significantly enhances the selectivity toward methane. Driven by silicon solar cells, a solar&#8208;to&#8208;methane conversion efficiency of 2% is achieved.</description>
+      <author>Zhongke Wang, Qixing Zhang, Jin Wang, Han He, San-Jiang Pan, Ying Zhao, Xiaodan Zhang</author>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202411269</guid>
+    </item>
+    <item>
       <title>Global warming potential and enviroeconomic impact of commercial flights: A pre- to post-COVID-19 analysis</title>
       <link>https://doi.org/10.1080/15567036.2024.2443036</link>
       <description>Mehmet Kadri Aky&#252;z, Energy Sources Part A Recovery Utilization and Environmental Effects. 47(1)] 2024. https://openalex.org/W4405735793
@@ -699,16 +779,6 @@
       <guid isPermaLink="true">https://doi.org/10.1080/15567036.2024.2443036</guid>
     </item>
     <item>
-      <title>Energy Efficiency in Subtropical Homes: Replacing Asbestos&#8211;Cement Roofs with Sustainable Alternatives</title>
-      <link>https://doi.org/10.3390/buildings14124082</link>
-      <description>Manuel Saba, &#211;scar E. Coronado-Hern&#225;ndez, Leydy K. Torres Gil, Buildings. 14(12)] 2024. https://openalex.org/W4405705201
-
-                This study evaluates the impact of building orientation, typology, and envelope characteristics on energy efficiency and CO2 emissions in urban dwellings in subtropical climate, with a focus on Cartagena, Colombia. North-facing dwellings consistently demonstrate superior energy performance, achieving an average efficiency increase of 4.27 &#177; 1.77% compared to south-facing counterparts. This trend is less pronounced near the equator due to the sun&#8217;s high zenith angle. Semi-detached homes exhibit 23.17 &#177; 9.83% greater energy efficiency than corner houses, attributed to reduced exterior wall exposure, which lowers energy demand and CO2 emissions by 2.16 &#177; 0.74 kg CO2/m2 annually. Significant disparities in emissions are observed across socioeconomic strata; homes in strata 3 and 4 show the lowest emissions (6.69 &#177; 1.42 kg CO2/m2 per year), while strata 5 and 6 have the highest (10.48 &#177; 1.42 kg CO2/m2 per year), due to differences in construction quality and glazing ratios. Roofing materials also play a key role, with thermoacoustic (TAC) roofs reducing emissions by up to 5.80% in lower strata compared to asbestos&#8211;cement roofs. Furthermore, sandwich panels demonstrate substantial potential, achieving CO2 emissions reductions of up to 51.6% in strata 1 and 2 south-facing median homes and a minimum saving of 9.4% in strata 5 and 6. These findings underscore the importance of integrating energy performance criteria into public housing policies, promoting construction practices that enhance sustainability and reduce greenhouse gas emissions while improving occupant comfort and property value.</description>
-      <author>Manuel Saba, &#211;scar E. Coronado-Hern&#225;ndez, Leydy K. Torres Gil</author>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/buildings14124082</guid>
-    </item>
-    <item>
       <title>Solid Solution Derived Cu Clusters on Partially Reduced CuCeO2 with Abundant Oxygen Vacancies Enable Efficient Reverse Water Gas Reaction</title>
       <link>https://doi.org/10.1002/asia.202401485</link>
       <description>Jianhong Xu, Zihao Liu, Ruoyu Zhang, Qingfeng Ge, Xinli Zhu, Chemistry - An Asian Journal. None(None)] 2024. https://openalex.org/W4405774129
@@ -717,6 +787,16 @@
       <author>Jianhong Xu, Zihao Liu, Ruoyu Zhang, Qingfeng Ge, Xinli Zhu</author>
       <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/asia.202401485</guid>
+    </item>
+    <item>
+      <title>Optimization of preventive maintenance in the design of photovoltaic plants</title>
+      <link>https://doi.org/10.35429/jad.2024.8.19.3.8</link>
+      <description>Alberto Chavira-&#193;lvarez, Eva Claudia P&#233;rez-Ortega, Mar&#237;a Del Carmen Esparza-Delgado, Revista de Arquitectura y Dise&#241;o. 8(19)] 2024. https://openalex.org/W4405862237
+
+                Two of the biggest problems worldwide are electrical energy and water, in this context the use of photovoltaic systems for the generation of electrical energy is increasingly profitable due to the constant reduction of prices in terms of the dollar watt and that supports the solution to the problem of energy supply at increasingly affordable prices. In this same scenario we have a reduction in CO2 emissions, contributing to the reduction of greenhouse gases, supporting the Kyoto protocol and the Paris agreement. On the other hand, the incorporation of ionized air for cleaning the photovoltaic modules allows the use of natural and demineralized water to be reduced to levels of around 98%, which allows us to be on par in saving solutions for this vital liquid.</description>
+      <author>Alberto Chavira-&#193;lvarez, Eva Claudia P&#233;rez-Ortega, Mar&#237;a Del Carmen Esparza-Delgado</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.35429/jad.2024.8.19.3.8</guid>
     </item>
     <item>
       <title>Hybrid Enzyme&#8208;Electrocatalyst Cascade Modified Gas&#8208;diffusion Electrodes for Methanol Formation from Carbon Dioxide</title>
@@ -749,6 +829,16 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s44344-024-00004-1</guid>
     </item>
     <item>
+      <title>Energy Efficiency in Subtropical Homes: Replacing Asbestos&#8211;Cement Roofs with Sustainable Alternatives</title>
+      <link>https://doi.org/10.3390/buildings14124082</link>
+      <description>Manuel Saba, &#211;scar E. Coronado-Hern&#225;ndez, Leydy K. Torres Gil, Buildings. 14(12)] 2024. https://openalex.org/W4405705201
+
+                This study evaluates the impact of building orientation, typology, and envelope characteristics on energy efficiency and CO2 emissions in urban dwellings in subtropical climate, with a focus on Cartagena, Colombia. North-facing dwellings consistently demonstrate superior energy performance, achieving an average efficiency increase of 4.27 &#177; 1.77% compared to south-facing counterparts. This trend is less pronounced near the equator due to the sun&#8217;s high zenith angle. Semi-detached homes exhibit 23.17 &#177; 9.83% greater energy efficiency than corner houses, attributed to reduced exterior wall exposure, which lowers energy demand and CO2 emissions by 2.16 &#177; 0.74 kg CO2/m2 annually. Significant disparities in emissions are observed across socioeconomic strata; homes in strata 3 and 4 show the lowest emissions (6.69 &#177; 1.42 kg CO2/m2 per year), while strata 5 and 6 have the highest (10.48 &#177; 1.42 kg CO2/m2 per year), due to differences in construction quality and glazing ratios. Roofing materials also play a key role, with thermoacoustic (TAC) roofs reducing emissions by up to 5.80% in lower strata compared to asbestos&#8211;cement roofs. Furthermore, sandwich panels demonstrate substantial potential, achieving CO2 emissions reductions of up to 51.6% in strata 1 and 2 south-facing median homes and a minimum saving of 9.4% in strata 5 and 6. These findings underscore the importance of integrating energy performance criteria into public housing policies, promoting construction practices that enhance sustainability and reduce greenhouse gas emissions while improving occupant comfort and property value.</description>
+      <author>Manuel Saba, &#211;scar E. Coronado-Hern&#225;ndez, Leydy K. Torres Gil</author>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/buildings14124082</guid>
+    </item>
+    <item>
       <title>Improving Solar Desalination Efficiency with Combined Techniques: Evacuated Tubes, Corrugated Fins, and Blue Metal Stones</title>
       <link>https://doi.org/10.4028/p-dj5coh</link>
       <description>Kasi S. Maheswari, K. Mayandi, S. Joe Patrick Gnanaraj, Vanthana Jeyasingh, Key engineering materials. 1006(None)] 2024. https://openalex.org/W4405819172
@@ -759,16 +849,6 @@
       <guid isPermaLink="true">https://doi.org/10.4028/p-dj5coh</guid>
     </item>
     <item>
-      <title>Magnetic CoNi@N-Doped Carbon Composite for CO&lt;sub&gt;2&lt;/sub&gt; Electrochemical Reduction to CH&lt;sub&gt;4&lt;/sub&gt; Associated with Methanol Oxidation to Methylal in an Ionic Liquid Electrolyte</title>
-      <link>https://doi.org/10.1021/acs.iecr.4c02973</link>
-      <description>Hongyan Li, Bairui Yang, Hui Kong, Jingxiang Zhao, Qinghai Cai, Industrial &amp; Engineering Chemistry Research. None(None)] 2024. https://openalex.org/W4405803097
-
-                The electrochemical reduction reaction of CO2 (CO2eRR) to high value-added chemicals in an aqueous electrolyte usually faces challenges, including sluggish oxygen evolution at the anode and the competing reaction of hydrogen evolution at the cathode. A novel CoNi@NC composite with high saturation magnetization, prepared by facile pyrolysis, was used as the cathode and a Pt sheet as the anode in an ionic liquid (IL)-methanol electrolyte to conduct the CO2eRR to produce CH4 and CO, and oxidation of methanol to generate methylal (dimethoxymethane, DMM). A magnetic CoNi alloy nanomaterial (CoNi@NC) with a nitrogen-doped carbon layer-coated structure was synthesized by a one-pot method. The system achieved an associative strategy for synchronous production of high-valued chemicals via two half-reactions at the cathode and anode, respectively. The optimal CoNi@NC composite exhibited efficient catalytic activity, obtaining an average of 54.5% faradaic efficiency (FE) for DMM within 48 h and 91.9% of momentary FE for CO and CH4 at 24 h under lower energy consumption. The electrode catalyst and ionic liquid electrolyte also exhibited good recyclability and stability in the CO2eRR. Mechanism studies indicated that magnetic CoNi alloy species served as adsorption and active sites for CO2 conversion. In addition, the carbon layer coating enhanced the stability of the CoNi alloy, and N-doping introduced surface defects on the carbon layer, thereby promoting CO2 adsorption and electrocatalytic activity. Density functional theory (DFT) calculations demonstrated that the magnetic CoNi (1 1 1) species was conducive to CO2 adsorption and activation, exhibiting high selectivity for the CO2eRR.</description>
-      <author>Hongyan Li, Bairui Yang, Hui Kong, Jingxiang Zhao, Qinghai Cai</author>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c02973</guid>
-    </item>
-    <item>
       <title>Controlled Multi-Dimensional Assembly of Calcium Carbonate Particles with Industrial By-Product Carbide Slag and CO2</title>
       <link>https://doi.org/10.3390/nano15010016</link>
       <description>Yuke Shen, Xiaoli Jiang, Tang Chengcai, Wei Ma, Jay J. Cheng, Hongxu Wang, Hongyu Zhu, Lin Zhao, Yagang Zhang, Panfeng Zhao, Nanomaterials. 15(1)] 2024. https://openalex.org/W4405810762
@@ -777,6 +857,16 @@
       <author>Yuke Shen, Xiaoli Jiang, Tang Chengcai, Wei Ma, Jay J. Cheng, Hongxu Wang, Hongyu Zhu, Lin Zhao, Yagang Zhang, Panfeng Zhao</author>
       <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/nano15010016</guid>
+    </item>
+    <item>
+      <title>Magnetic CoNi@N-Doped Carbon Composite for CO&lt;sub&gt;2&lt;/sub&gt; Electrochemical Reduction to CH&lt;sub&gt;4&lt;/sub&gt; Associated with Methanol Oxidation to Methylal in an Ionic Liquid Electrolyte</title>
+      <link>https://doi.org/10.1021/acs.iecr.4c02973</link>
+      <description>Hongyan Li, Bairui Yang, Hui Kong, Jingxiang Zhao, Qinghai Cai, Industrial &amp; Engineering Chemistry Research. None(None)] 2024. https://openalex.org/W4405803097
+
+                The electrochemical reduction reaction of CO2 (CO2eRR) to high value-added chemicals in an aqueous electrolyte usually faces challenges, including sluggish oxygen evolution at the anode and the competing reaction of hydrogen evolution at the cathode. A novel CoNi@NC composite with high saturation magnetization, prepared by facile pyrolysis, was used as the cathode and a Pt sheet as the anode in an ionic liquid (IL)-methanol electrolyte to conduct the CO2eRR to produce CH4 and CO, and oxidation of methanol to generate methylal (dimethoxymethane, DMM). A magnetic CoNi alloy nanomaterial (CoNi@NC) with a nitrogen-doped carbon layer-coated structure was synthesized by a one-pot method. The system achieved an associative strategy for synchronous production of high-valued chemicals via two half-reactions at the cathode and anode, respectively. The optimal CoNi@NC composite exhibited efficient catalytic activity, obtaining an average of 54.5% faradaic efficiency (FE) for DMM within 48 h and 91.9% of momentary FE for CO and CH4 at 24 h under lower energy consumption. The electrode catalyst and ionic liquid electrolyte also exhibited good recyclability and stability in the CO2eRR. Mechanism studies indicated that magnetic CoNi alloy species served as adsorption and active sites for CO2 conversion. In addition, the carbon layer coating enhanced the stability of the CoNi alloy, and N-doping introduced surface defects on the carbon layer, thereby promoting CO2 adsorption and electrocatalytic activity. Density functional theory (DFT) calculations demonstrated that the magnetic CoNi (1 1 1) species was conducive to CO2 adsorption and activation, exhibiting high selectivity for the CO2eRR.</description>
+      <author>Hongyan Li, Bairui Yang, Hui Kong, Jingxiang Zhao, Qinghai Cai</author>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c02973</guid>
     </item>
     <item>
       <title>Larger reductions in blood pressure during post&#8208;exercise standing, but not middle cerebral artery blood velocity, in resistance&#8208;trained versus untrained individuals</title>
@@ -819,16 +909,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202423915</guid>
     </item>
     <item>
-      <title>Nexus between Environmental Quality with Economics Growth, Renewable Energy Consumption, and Foreign Direct Investment in Vietnam: Evidence from non-linear ARDL approach</title>
-      <link>https://doi.org/10.47941/ijecop.2420</link>
-      <description>Le Phuong Nam, Pham Thanh Lan, Nguyen Manh Hieu, Nguyen Cong Tiep, Nguyen Thi Bich Hang, Louie Marie Eluriaga, International Journal of Economic Policy. 4(4)] 2024. https://openalex.org/W4405681316
-
-                Purpose: The purpose of this article is to examine the relationship between economic growth and environmental quality in Vietnam. Methodology: The research employed is the non-linear Autoregressive Distributed Lag (NARDL) approach, utilizing time-series data from 1986 to 2022. The strength of NARDL lies in its consideration of both increasing and decreasing trends in independent variables such as Economic Growth, Energy from Renewable Resources and Foreign Direct Investment (FDI) in a non-linear relationship with the dependent variable, CO2. Findings: The research findings indicate that overall economic growth is positively associated with an increase in CO2 emissions, aligning with the Environmental Kuznets Curve (EKC) theory in the first stage of the inverted U-shape. However, the EKC hypothesis is not supported in later stages, as environmental degradation persists despite economic growth. Renewable resources in primary energy have increased from 6% in 1986 to 16% in 2022, while FDI has risen from 0.03% of GDP in 1986 to 4.3% of GDP in 2021, resulting in a reduction in CO2 emissions. In other words, the Pollution Haven Hypothesis does not hold in Vietnam. With a net-zero CO2 target by 2050, Vietnam necessitates rapid, short-term changes to neutralize carbon emissions effectively in the long term. Unique Contribution to Theory, Practice and Policy: To simultaneously ensure economic growth while adhering to Vietnam's carbon neutrality objectives, followings solutions are recommended: (1) increasing the proportion of renewable energy sources and reducing fossil fuel dependency; (2) incorporating modern, environmentally friendly technologies in the industrial sector to diminish resource-intensive practices and reduce dependence on fossil fuels; (3) establishing a legal framework and conditions to attract FDI in technology-intensive sectors, thereby mitigating carbon emissions.</description>
-      <author>Le Phuong Nam, Pham Thanh Lan, Nguyen Manh Hieu, Nguyen Cong Tiep, Nguyen Thi Bich Hang, Louie Marie Eluriaga</author>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.47941/ijecop.2420</guid>
-    </item>
-    <item>
       <title>Insights of carbon footprint of tea through life cycle approach</title>
       <link>https://doi.org/10.14719/pst.5374</link>
       <description>V. Premalatha, Rangasamy Sunitha, R. Krishnaraj, R. Manimekalai, S. P. Thamaraiselvi, Sathya Ponnuraj Moorthy, R. Raveena, Desikan Ramesh, Plant Science Today. 11(sp4)] 2024. https://openalex.org/W4405729677
@@ -837,16 +917,6 @@
       <author>V. Premalatha, Rangasamy Sunitha, R. Krishnaraj, R. Manimekalai, S. P. Thamaraiselvi, Sathya Ponnuraj Moorthy, R. Raveena, Desikan Ramesh</author>
       <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.14719/pst.5374</guid>
-    </item>
-    <item>
-      <title>Electrolyte Anions Suppress Hydrogen Generation in Electrochemical CO Reduction on Cu</title>
-      <link>https://doi.org/10.1002/anie.202421196</link>
-      <description>Lee Fuller, Gong Zhang, Seonmyeong Noh, Reid C. Van Lehn, Marcel Schreier, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4405803898
-
-                In this study, we employed EC&#8208;MS to elucidate the role of halide anions in electrochemical CO2 and CO reduction. We found that the undesired hydrogen evolution reaction (HER) was significantly suppressed by the anion used. Specifically, the rates of H2 production decreased in the order KF &gt; KCl &gt; KI, meaning that I&#8722; most strongly suppressed HER. Interestingly, CO reduction products showed an inverse relationship to HER, with KI leading to the highest rate of CO reduction. By pairing our experimental findings with classical molecular dynamics simulations, we propose a mechanism wherein halide anions influence the dynamic interplay between CO reduction and HER by modulating the competition of H* and CO* for active sites on the Cu surface. We propose that this interaction is enabled by the interfacial concentration of K+ being greater in the presence of F&#8722; than in I&#8722;. Our results highlight the need to more broadly consider the properties of ions at electrocatalytic interfaces and they point to thus far underappreciated avenues to optimize hydrocarbon production while suppressing hydrogen evolution.</description>
-      <author>Lee Fuller, Gong Zhang, Seonmyeong Noh, Reid C. Van Lehn, Marcel Schreier</author>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202421196</guid>
     </item>
     <item>
       <title>Hydrogen Reduction of Iron Oxide Powder in Thin Layers</title>
@@ -859,6 +929,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c03138</guid>
     </item>
     <item>
+      <title>&#1044;&#1080;&#1085;&#1072;&#1084;&#1080;&#1082;&#1072; &#1075;&#1072;&#1079;&#1086;&#1074;&#1086;&#1081; &#1092;&#1072;&#1079;&#1099; &#1087;&#1088;&#1080; &#1073;&#1072;&#1088;&#1073;&#1086;&#1090;&#1072;&#1078;&#1077; &#1074; &#1084;&#1086;&#1088;&#1089;&#1082;&#1086;&#1081; &#1074;&#1086;&#1076;&#1077;, &#1089;&#1086;&#1076;&#1077;&#1088;&#1078;&#1072;&#1097;&#1077;&#1081; &#1087;&#1086;&#1074;&#1077;&#1088;&#1093;&#1085;&#1086;&#1089;&#1090;&#1085;&#1086;-&#1072;&#1082;&#1090;&#1080;&#1074;&#1085;&#1099;&#1077; &#1074;&#1077;&#1097;&#1077;&#1089;&#1090;&#1074;&#1072;</title>
+      <link>https://doi.org/10.37220/mit.2024.66.4.019</link>
+      <description>&#1040;.&#1053;. &#1044;&#1103;&#1076;&#1080;&#1082;, &#1044;.&#1057;. &#1052;&#1072;&#1083;&#1086;&#1074;&#1080;&#1082;, &#1052;.&#1040;. &#1050;&#1080;&#1095;&#1072;, &#1052;&#1054;&#1056;&#1057;&#1050;&#1048;&#1045; &#1048;&#1053;&#1058;&#1045;&#1051;&#1051;&#1045;&#1050;&#1058;&#1059;&#1040;&#1051;&#1068;&#1053;&#1067;&#1045; &#1058;&#1045;&#1061;&#1053;&#1054;&#1051;&#1054;&#1043;&#1048;&#1048;. 1(4(66))] 2024. https://openalex.org/W4405827186
+
+                &#1056;&#1072;&#1073;&#1086;&#1090;&#1072; &#1087;&#1086;&#1089;&#1074;&#1103;&#1097;&#1077;&#1085;&#1072; &#1074;&#1086;&#1087;&#1088;&#1086;&#1089;&#1072;&#1084; &#1084;&#1086;&#1076;&#1077;&#1083;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1084;&#1072;&#1089;&#1089;&#1086;&#1086;&#1073;&#1084;&#1077;&#1085;&#1085;&#1099;&#1093; &#1072;&#1087;&#1087;&#1072;&#1088;&#1072;&#1090;&#1086;&#1074; &#1074; &#1089;&#1086;&#1089;&#1090;&#1072;&#1074;&#1077; &#1074;&#1086;&#1079;&#1076;&#1091;&#1093;&#1086;&#1085;&#1077;&#1079;&#1072;&#1074;&#1080;&#1089;&#1080;&#1084;&#1099;&#1093; &#1101;&#1085;&#1077;&#1088;&#1075;&#1077;&#1090;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1093; &#1091;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1086;&#1082; &#1089; &#1088;&#1077;&#1072;&#1083;&#1080;&#1079;&#1072;&#1094;&#1080;&#1077;&#1081; &#1088;&#1072;&#1089;&#1090;&#1074;&#1086;&#1088;&#1077;&#1085;&#1080;&#1103; &#1076;&#1080;&#1086;&#1082;&#1089;&#1080;&#1076;&#1072; &#1091;&#1075;&#1083;&#1077;&#1088;&#1086;&#1076;&#1072; &#1074; &#1084;&#1086;&#1088;&#1089;&#1082;&#1086;&#1081; &#1074;&#1086;&#1076;&#1077; &#1084;&#1077;&#1090;&#1086;&#1076;&#1086;&#1084; &#1072;&#1073;&#1089;&#1086;&#1088;&#1073;&#1094;&#1080;&#1080;. &#1057; &#1094;&#1077;&#1083;&#1100;&#1102; &#1076;&#1086;&#1089;&#1090;&#1080;&#1078;&#1077;&#1085;&#1080;&#1103; &#1076;&#1072;&#1085;&#1085;&#1086;&#1081; &#1079;&#1072;&#1076;&#1072;&#1095;&#1080; &#1088;&#1072;&#1089;&#1089;&#1084;&#1086;&#1090;&#1088;&#1077;&#1085;&#1086; &#1085;&#1072;&#1083;&#1080;&#1095;&#1080;&#1077; &#1073;&#1080;&#1086;&#1075;&#1077;&#1085;&#1085;&#1099;&#1093; &#1087;&#1086;&#1074;&#1077;&#1088;&#1093;&#1085;&#1086;&#1089;&#1090;&#1085;&#1086;-&#1072;&#1082;&#1090;&#1080;&#1074;&#1085;&#1099;&#1093; &#1074;&#1077;&#1097;&#1077;&#1089;&#1090;&#1074; (&#1055;&#1040;&#1042;) &#1074; &#1084;&#1086;&#1088;&#1089;&#1082;&#1086;&#1081; &#1074;&#1086;&#1076;&#1077;, &#1103;&#1074;&#1083;&#1103;&#1102;&#1097;&#1080;&#1093;&#1089;&#1103; &#1087;&#1088;&#1086;&#1076;&#1091;&#1082;&#1090;&#1072;&#1084;&#1080; &#1078;&#1080;&#1079;&#1085;&#1077;&#1076;&#1077;&#1103;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1080; &#1084;&#1086;&#1088;&#1089;&#1082;&#1080;&#1093; &#1086;&#1088;&#1075;&#1072;&#1085;&#1080;&#1079;&#1084;&#1086;&#1074;. &#1053;&#1072; &#1086;&#1089;&#1085;&#1086;&#1074;&#1077; &#1083;&#1080;&#1090;&#1077;&#1088;&#1072;&#1090;&#1091;&#1088;&#1085;&#1099;&#1093; &#1076;&#1072;&#1085;&#1085;&#1099;&#1093; &#1087;&#1086; &#1088;&#1072;&#1089;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1080;&#1102; &#1073;&#1080;&#1086;&#1084;&#1072;&#1089;&#1089;&#1099; &#1074; &#1074;&#1077;&#1088;&#1093;&#1085;&#1077;&#1084; &#1089;&#1083;&#1086;&#1077; &#1052;&#1080;&#1088;&#1086;&#1074;&#1086;&#1075;&#1086; &#1086;&#1082;&#1077;&#1072;&#1085;&#1072; &#1087;&#1088;&#1077;&#1076;&#1083;&#1086;&#1078;&#1077;&#1085;&#1072; &#1079;&#1072;&#1074;&#1080;&#1089;&#1080;&#1084;&#1086;&#1089;&#1090;&#1100; &#1082;&#1086;&#1085;&#1094;&#1077;&#1085;&#1090;&#1088;&#1072;&#1094;&#1080;&#1080; &#1055;&#1040;&#1042; &#1086;&#1090; &#1088;&#1072;&#1081;&#1086;&#1085;&#1072; &#1080; &#1074;&#1099;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085;&#1086; &#1089;&#1088;&#1072;&#1074;&#1085;&#1077;&#1085;&#1080;&#1077; &#1089; &#1101;&#1082;&#1089;&#1087;&#1077;&#1088;&#1080;&#1084;&#1077;&#1085;&#1090;&#1072;&#1083;&#1100;&#1085;&#1099;&#1084;&#1080; &#1076;&#1072;&#1085;&#1085;&#1099;&#1084;&#1080;. &#1055;&#1086;&#1083;&#1091;&#1095;&#1077;&#1085;&#1099; &#1079;&#1072;&#1074;&#1080;&#1089;&#1080;&#1084;&#1086;&#1089;&#1090;&#1080; &#1085;&#1072; &#1086;&#1089;&#1085;&#1086;&#1074;&#1077; &#1092;&#1080;&#1079;&#1080;&#1082;&#1086;-&#1093;&#1080;&#1084;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1093; &#1087;&#1088;&#1086;&#1094;&#1077;&#1089;&#1089;&#1086;&#1074;, &#1074;&#1086;&#1079;&#1085;&#1080;&#1082;&#1072;&#1102;&#1097;&#1080;&#1093; &#1087;&#1088;&#1080; &#1073;&#1072;&#1088;&#1073;&#1086;&#1090;&#1072;&#1078;&#1077; &#1075;&#1072;&#1079;&#1072; &#1080; &#1072;&#1076;&#1089;&#1086;&#1088;&#1073;&#1094;&#1080;&#1080; &#1084;&#1086;&#1083;&#1077;&#1082;&#1091;&#1083; &#1073;&#1080;&#1086;&#1075;&#1077;&#1085;&#1085;&#1099;&#1093; &#1055;&#1040;&#1042; &#1085;&#1072; &#1087;&#1086;&#1074;&#1077;&#1088;&#1093;&#1085;&#1086;&#1089;&#1090;&#1080; &#1087;&#1091;&#1079;&#1099;&#1088;&#1100;&#1082;&#1072;. &#1059;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#1086;, &#1095;&#1090;&#1086; &#1085;&#1072;&#1083;&#1080;&#1095;&#1080;&#1077; &#1073;&#1080;&#1086;&#1075;&#1077;&#1085;&#1085;&#1099;&#1093; &#1055;&#1040;&#1042; &#1074; &#1084;&#1086;&#1088;&#1089;&#1082;&#1086;&#1081; &#1074;&#1086;&#1076;&#1077; &#1087;&#1088;&#1080;&#1074;&#1086;&#1076;&#1080;&#1090; &#1082; &#1089;&#1085;&#1080;&#1078;&#1077;&#1085;&#1080;&#1102; &#1082;&#1086;&#1101;&#1092;&#1092;&#1080;&#1094;&#1080;&#1077;&#1085;&#1090;&#1072; &#1087;&#1086;&#1074;&#1077;&#1088;&#1093;&#1085;&#1086;&#1089;&#1090;&#1085;&#1086;&#1075;&#1086; &#1085;&#1072;&#1090;&#1103;&#1078;&#1077;&#1085;&#1080;&#1103;, &#1095;&#1090;&#1086; &#1074; &#1089;&#1074;&#1086;&#1102; &#1086;&#1095;&#1077;&#1088;&#1077;&#1076;&#1100; &#1089;&#1085;&#1080;&#1078;&#1072;&#1077;&#1090; &#1089;&#1082;&#1086;&#1088;&#1086;&#1089;&#1090;&#1100; &#1076;&#1074;&#1080;&#1078;&#1077;&#1085;&#1080;&#1103; &#1075;&#1072;&#1079;&#1086;&#1074;&#1086;&#1081; &#1092;&#1072;&#1079;&#1099;, &#1087;&#1088;&#1080; &#1085;&#1077;&#1079;&#1085;&#1072;&#1095;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1084; &#1087;&#1086;&#1085;&#1080;&#1078;&#1077;&#1085;&#1080;&#1080; &#1082;&#1086;&#1101;&#1092;&#1092;&#1080;&#1094;&#1080;&#1077;&#1085;&#1090;&#1072; &#1084;&#1072;&#1089;&#1089;&#1086;&#1087;&#1077;&#1088;&#1077;&#1076;&#1072;&#1095;&#1080;, &#1074; &#1091;&#1089;&#1083;&#1086;&#1074;&#1080;&#1103;&#1093; &#1091;&#1074;&#1077;&#1083;&#1080;&#1095;&#1077;&#1085;&#1080;&#1103; &#1086;&#1073;&#1097;&#1077;&#1081; &#1087;&#1086;&#1074;&#1077;&#1088;&#1093;&#1085;&#1086;&#1089;&#1090;&#1080; &#1084;&#1072;&#1089;&#1089;&#1086;&#1086;&#1073;&#1084;&#1077;&#1085;&#1072;. &#1054;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1086;, &#1095;&#1090;&#1086; &#1074; &#1091;&#1089;&#1083;&#1086;&#1074;&#1080;&#1103;&#1093; &#1082;&#1086;&#1072;&#1083;&#1077;&#1089;&#1094;&#1077;&#1085;&#1094;&#1080;&#1080; &#1080; &#1076;&#1088;&#1086;&#1073;&#1083;&#1077;&#1085;&#1080;&#1103; &#1075;&#1072;&#1079;&#1086;&#1074;&#1099;&#1093; &#1087;&#1091;&#1079;&#1099;&#1088;&#1100;&#1082;&#1086;&#1074; &#1089;&#1085;&#1080;&#1078;&#1077;&#1085;&#1080;&#1077; &#1086;&#1073;&#1098;&#1077;&#1084;&#1072; &#1075;&#1072;&#1079;&#1086;&#1074;&#1099;&#1093; &#1087;&#1091;&#1079;&#1099;&#1088;&#1100;&#1082;&#1086;&#1074;, &#1074;&#1099;&#1079;&#1074;&#1072;&#1085;&#1085;&#1099;&#1081; &#1089;&#1085;&#1080;&#1078;&#1077;&#1085;&#1080;&#1077;&#1084; &#1084;&#1080;&#1085;&#1080;&#1084;&#1072;&#1083;&#1100;&#1085;&#1086;&#1075;&#1086; &#1080; &#1084;&#1072;&#1082;&#1089;&#1080;&#1084;&#1072;&#1083;&#1100;&#1085;&#1086;&#1075;&#1086; &#1076;&#1080;&#1072;&#1084;&#1077;&#1090;&#1088;&#1086;&#1074; &#1075;&#1072;&#1079;&#1086;&#1074;&#1086;&#1075;&#1086; &#1087;&#1091;&#1079;&#1099;&#1088;&#1100;&#1082;&#1072; &#1087;&#1088;&#1080;&#1074;&#1086;&#1076;&#1080;&#1090; &#1082; &#1087;&#1088;&#1077;&#1086;&#1073;&#1083;&#1072;&#1076;&#1072;&#1085;&#1080;&#1102; &#1076;&#1088;&#1086;&#1073;&#1083;&#1077;&#1085;&#1080;&#1103; &#1085;&#1072;&#1076; &#1082;&#1086;&#1072;&#1083;&#1077;&#1089;&#1094;&#1077;&#1085;&#1094;&#1080;&#1077;&#1081;, &#1095;&#1090;&#1086; &#1087;&#1088;&#1080;&#1074;&#1086;&#1076;&#1080;&#1090; &#1082; &#1091;&#1074;&#1077;&#1083;&#1080;&#1095;&#1077;&#1085;&#1080;&#1102; &#1087;&#1086;&#1074;&#1077;&#1088;&#1093;&#1085;&#1086;&#1089;&#1090;&#1080; &#1084;&#1072;&#1089;&#1089;&#1086;&#1086;&#1073;&#1084;&#1077;&#1085;&#1072; &#1087;&#1088;&#1080; &#1088;&#1086;&#1089;&#1090;&#1077; &#1095;&#1080;&#1089;&#1083;&#1072; &#1087;&#1091;&#1079;&#1099;&#1088;&#1100;&#1082;&#1086;&#1074;. The work is dedicated to the modeling of mass transfer apparatuses within air-independent power systems, focusing on the dissolution of carbon dioxide in seawater through the absorption method. To achieve this goal, the presence of biogenic surfactants in seawater, which are products of marine organisms' life activities, is considered. Based on literature data on biomass distribution in the upper layer of the World Ocean, a dependency of surfactant concentration on the region is proposed and compared with experimental data. Dependencies are derived based on the physicochemical processes that occur during gas sparging and the adsorption of biogenic surfactant molecules on the bubble surface. It is established that the presence of biogenic surfactants in seawater leads to a reduction in surface tension, which in turn decreases the velocity of the gas phase, with a slight reduction in the mass transfer coefficient, under conditions of increased overall mass transfer surface area. It is determined that under conditions of coalescence and fragmentation of gas bubbles, the reduction in gas bubble volume, caused by the decrease in minimum and maximum bubble diameters, leads to the predominance of fragmentation over coalescence, resulting in an increase in the mass transfer surface area as the number of bubbles increases.</description>
+      <author>&#1040;.&#1053;. &#1044;&#1103;&#1076;&#1080;&#1082;, &#1044;.&#1057;. &#1052;&#1072;&#1083;&#1086;&#1074;&#1080;&#1082;, &#1052;.&#1040;. &#1050;&#1080;&#1095;&#1072;</author>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.37220/mit.2024.66.4.019</guid>
+    </item>
+    <item>
       <title>Electrolyte Anions Suppress Hydrogen Generation in Electrochemical CO Reduction on Cu</title>
       <link>https://doi.org/10.1002/ange.202421196</link>
       <description>Lee Fuller, Gong Zhang, Seonmyeong Noh, Reid C. Van Lehn, Marcel Schreier, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4405803899
@@ -869,14 +949,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202421196</guid>
     </item>
     <item>
-      <title>&#1044;&#1080;&#1085;&#1072;&#1084;&#1080;&#1082;&#1072; &#1075;&#1072;&#1079;&#1086;&#1074;&#1086;&#1081; &#1092;&#1072;&#1079;&#1099; &#1087;&#1088;&#1080; &#1073;&#1072;&#1088;&#1073;&#1086;&#1090;&#1072;&#1078;&#1077; &#1074; &#1084;&#1086;&#1088;&#1089;&#1082;&#1086;&#1081; &#1074;&#1086;&#1076;&#1077;, &#1089;&#1086;&#1076;&#1077;&#1088;&#1078;&#1072;&#1097;&#1077;&#1081; &#1087;&#1086;&#1074;&#1077;&#1088;&#1093;&#1085;&#1086;&#1089;&#1090;&#1085;&#1086;-&#1072;&#1082;&#1090;&#1080;&#1074;&#1085;&#1099;&#1077; &#1074;&#1077;&#1097;&#1077;&#1089;&#1090;&#1074;&#1072;</title>
-      <link>https://doi.org/10.37220/mit.2024.66.4.019</link>
-      <description>&#1040;.&#1053;. &#1044;&#1103;&#1076;&#1080;&#1082;, &#1044;.&#1057;. &#1052;&#1072;&#1083;&#1086;&#1074;&#1080;&#1082;, &#1052;.&#1040;. &#1050;&#1080;&#1095;&#1072;, &#1052;&#1054;&#1056;&#1057;&#1050;&#1048;&#1045; &#1048;&#1053;&#1058;&#1045;&#1051;&#1051;&#1045;&#1050;&#1058;&#1059;&#1040;&#1051;&#1068;&#1053;&#1067;&#1045; &#1058;&#1045;&#1061;&#1053;&#1054;&#1051;&#1054;&#1043;&#1048;&#1048;. 1(4(66))] 2024. https://openalex.org/W4405827186
+      <title>Electrolyte Anions Suppress Hydrogen Generation in Electrochemical CO Reduction on Cu</title>
+      <link>https://doi.org/10.1002/anie.202421196</link>
+      <description>Lee Fuller, Gong Zhang, Seonmyeong Noh, Reid C. Van Lehn, Marcel Schreier, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4405803898
 
-                &#1056;&#1072;&#1073;&#1086;&#1090;&#1072; &#1087;&#1086;&#1089;&#1074;&#1103;&#1097;&#1077;&#1085;&#1072; &#1074;&#1086;&#1087;&#1088;&#1086;&#1089;&#1072;&#1084; &#1084;&#1086;&#1076;&#1077;&#1083;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1084;&#1072;&#1089;&#1089;&#1086;&#1086;&#1073;&#1084;&#1077;&#1085;&#1085;&#1099;&#1093; &#1072;&#1087;&#1087;&#1072;&#1088;&#1072;&#1090;&#1086;&#1074; &#1074; &#1089;&#1086;&#1089;&#1090;&#1072;&#1074;&#1077; &#1074;&#1086;&#1079;&#1076;&#1091;&#1093;&#1086;&#1085;&#1077;&#1079;&#1072;&#1074;&#1080;&#1089;&#1080;&#1084;&#1099;&#1093; &#1101;&#1085;&#1077;&#1088;&#1075;&#1077;&#1090;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1093; &#1091;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1086;&#1082; &#1089; &#1088;&#1077;&#1072;&#1083;&#1080;&#1079;&#1072;&#1094;&#1080;&#1077;&#1081; &#1088;&#1072;&#1089;&#1090;&#1074;&#1086;&#1088;&#1077;&#1085;&#1080;&#1103; &#1076;&#1080;&#1086;&#1082;&#1089;&#1080;&#1076;&#1072; &#1091;&#1075;&#1083;&#1077;&#1088;&#1086;&#1076;&#1072; &#1074; &#1084;&#1086;&#1088;&#1089;&#1082;&#1086;&#1081; &#1074;&#1086;&#1076;&#1077; &#1084;&#1077;&#1090;&#1086;&#1076;&#1086;&#1084; &#1072;&#1073;&#1089;&#1086;&#1088;&#1073;&#1094;&#1080;&#1080;. &#1057; &#1094;&#1077;&#1083;&#1100;&#1102; &#1076;&#1086;&#1089;&#1090;&#1080;&#1078;&#1077;&#1085;&#1080;&#1103; &#1076;&#1072;&#1085;&#1085;&#1086;&#1081; &#1079;&#1072;&#1076;&#1072;&#1095;&#1080; &#1088;&#1072;&#1089;&#1089;&#1084;&#1086;&#1090;&#1088;&#1077;&#1085;&#1086; &#1085;&#1072;&#1083;&#1080;&#1095;&#1080;&#1077; &#1073;&#1080;&#1086;&#1075;&#1077;&#1085;&#1085;&#1099;&#1093; &#1087;&#1086;&#1074;&#1077;&#1088;&#1093;&#1085;&#1086;&#1089;&#1090;&#1085;&#1086;-&#1072;&#1082;&#1090;&#1080;&#1074;&#1085;&#1099;&#1093; &#1074;&#1077;&#1097;&#1077;&#1089;&#1090;&#1074; (&#1055;&#1040;&#1042;) &#1074; &#1084;&#1086;&#1088;&#1089;&#1082;&#1086;&#1081; &#1074;&#1086;&#1076;&#1077;, &#1103;&#1074;&#1083;&#1103;&#1102;&#1097;&#1080;&#1093;&#1089;&#1103; &#1087;&#1088;&#1086;&#1076;&#1091;&#1082;&#1090;&#1072;&#1084;&#1080; &#1078;&#1080;&#1079;&#1085;&#1077;&#1076;&#1077;&#1103;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1080; &#1084;&#1086;&#1088;&#1089;&#1082;&#1080;&#1093; &#1086;&#1088;&#1075;&#1072;&#1085;&#1080;&#1079;&#1084;&#1086;&#1074;. &#1053;&#1072; &#1086;&#1089;&#1085;&#1086;&#1074;&#1077; &#1083;&#1080;&#1090;&#1077;&#1088;&#1072;&#1090;&#1091;&#1088;&#1085;&#1099;&#1093; &#1076;&#1072;&#1085;&#1085;&#1099;&#1093; &#1087;&#1086; &#1088;&#1072;&#1089;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1080;&#1102; &#1073;&#1080;&#1086;&#1084;&#1072;&#1089;&#1089;&#1099; &#1074; &#1074;&#1077;&#1088;&#1093;&#1085;&#1077;&#1084; &#1089;&#1083;&#1086;&#1077; &#1052;&#1080;&#1088;&#1086;&#1074;&#1086;&#1075;&#1086; &#1086;&#1082;&#1077;&#1072;&#1085;&#1072; &#1087;&#1088;&#1077;&#1076;&#1083;&#1086;&#1078;&#1077;&#1085;&#1072; &#1079;&#1072;&#1074;&#1080;&#1089;&#1080;&#1084;&#1086;&#1089;&#1090;&#1100; &#1082;&#1086;&#1085;&#1094;&#1077;&#1085;&#1090;&#1088;&#1072;&#1094;&#1080;&#1080; &#1055;&#1040;&#1042; &#1086;&#1090; &#1088;&#1072;&#1081;&#1086;&#1085;&#1072; &#1080; &#1074;&#1099;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085;&#1086; &#1089;&#1088;&#1072;&#1074;&#1085;&#1077;&#1085;&#1080;&#1077; &#1089; &#1101;&#1082;&#1089;&#1087;&#1077;&#1088;&#1080;&#1084;&#1077;&#1085;&#1090;&#1072;&#1083;&#1100;&#1085;&#1099;&#1084;&#1080; &#1076;&#1072;&#1085;&#1085;&#1099;&#1084;&#1080;. &#1055;&#1086;&#1083;&#1091;&#1095;&#1077;&#1085;&#1099; &#1079;&#1072;&#1074;&#1080;&#1089;&#1080;&#1084;&#1086;&#1089;&#1090;&#1080; &#1085;&#1072; &#1086;&#1089;&#1085;&#1086;&#1074;&#1077; &#1092;&#1080;&#1079;&#1080;&#1082;&#1086;-&#1093;&#1080;&#1084;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1093; &#1087;&#1088;&#1086;&#1094;&#1077;&#1089;&#1089;&#1086;&#1074;, &#1074;&#1086;&#1079;&#1085;&#1080;&#1082;&#1072;&#1102;&#1097;&#1080;&#1093; &#1087;&#1088;&#1080; &#1073;&#1072;&#1088;&#1073;&#1086;&#1090;&#1072;&#1078;&#1077; &#1075;&#1072;&#1079;&#1072; &#1080; &#1072;&#1076;&#1089;&#1086;&#1088;&#1073;&#1094;&#1080;&#1080; &#1084;&#1086;&#1083;&#1077;&#1082;&#1091;&#1083; &#1073;&#1080;&#1086;&#1075;&#1077;&#1085;&#1085;&#1099;&#1093; &#1055;&#1040;&#1042; &#1085;&#1072; &#1087;&#1086;&#1074;&#1077;&#1088;&#1093;&#1085;&#1086;&#1089;&#1090;&#1080; &#1087;&#1091;&#1079;&#1099;&#1088;&#1100;&#1082;&#1072;. &#1059;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#1086;, &#1095;&#1090;&#1086; &#1085;&#1072;&#1083;&#1080;&#1095;&#1080;&#1077; &#1073;&#1080;&#1086;&#1075;&#1077;&#1085;&#1085;&#1099;&#1093; &#1055;&#1040;&#1042; &#1074; &#1084;&#1086;&#1088;&#1089;&#1082;&#1086;&#1081; &#1074;&#1086;&#1076;&#1077; &#1087;&#1088;&#1080;&#1074;&#1086;&#1076;&#1080;&#1090; &#1082; &#1089;&#1085;&#1080;&#1078;&#1077;&#1085;&#1080;&#1102; &#1082;&#1086;&#1101;&#1092;&#1092;&#1080;&#1094;&#1080;&#1077;&#1085;&#1090;&#1072; &#1087;&#1086;&#1074;&#1077;&#1088;&#1093;&#1085;&#1086;&#1089;&#1090;&#1085;&#1086;&#1075;&#1086; &#1085;&#1072;&#1090;&#1103;&#1078;&#1077;&#1085;&#1080;&#1103;, &#1095;&#1090;&#1086; &#1074; &#1089;&#1074;&#1086;&#1102; &#1086;&#1095;&#1077;&#1088;&#1077;&#1076;&#1100; &#1089;&#1085;&#1080;&#1078;&#1072;&#1077;&#1090; &#1089;&#1082;&#1086;&#1088;&#1086;&#1089;&#1090;&#1100; &#1076;&#1074;&#1080;&#1078;&#1077;&#1085;&#1080;&#1103; &#1075;&#1072;&#1079;&#1086;&#1074;&#1086;&#1081; &#1092;&#1072;&#1079;&#1099;, &#1087;&#1088;&#1080; &#1085;&#1077;&#1079;&#1085;&#1072;&#1095;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1084; &#1087;&#1086;&#1085;&#1080;&#1078;&#1077;&#1085;&#1080;&#1080; &#1082;&#1086;&#1101;&#1092;&#1092;&#1080;&#1094;&#1080;&#1077;&#1085;&#1090;&#1072; &#1084;&#1072;&#1089;&#1089;&#1086;&#1087;&#1077;&#1088;&#1077;&#1076;&#1072;&#1095;&#1080;, &#1074; &#1091;&#1089;&#1083;&#1086;&#1074;&#1080;&#1103;&#1093; &#1091;&#1074;&#1077;&#1083;&#1080;&#1095;&#1077;&#1085;&#1080;&#1103; &#1086;&#1073;&#1097;&#1077;&#1081; &#1087;&#1086;&#1074;&#1077;&#1088;&#1093;&#1085;&#1086;&#1089;&#1090;&#1080; &#1084;&#1072;&#1089;&#1089;&#1086;&#1086;&#1073;&#1084;&#1077;&#1085;&#1072;. &#1054;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1086;, &#1095;&#1090;&#1086; &#1074; &#1091;&#1089;&#1083;&#1086;&#1074;&#1080;&#1103;&#1093; &#1082;&#1086;&#1072;&#1083;&#1077;&#1089;&#1094;&#1077;&#1085;&#1094;&#1080;&#1080; &#1080; &#1076;&#1088;&#1086;&#1073;&#1083;&#1077;&#1085;&#1080;&#1103; &#1075;&#1072;&#1079;&#1086;&#1074;&#1099;&#1093; &#1087;&#1091;&#1079;&#1099;&#1088;&#1100;&#1082;&#1086;&#1074; &#1089;&#1085;&#1080;&#1078;&#1077;&#1085;&#1080;&#1077; &#1086;&#1073;&#1098;&#1077;&#1084;&#1072; &#1075;&#1072;&#1079;&#1086;&#1074;&#1099;&#1093; &#1087;&#1091;&#1079;&#1099;&#1088;&#1100;&#1082;&#1086;&#1074;, &#1074;&#1099;&#1079;&#1074;&#1072;&#1085;&#1085;&#1099;&#1081; &#1089;&#1085;&#1080;&#1078;&#1077;&#1085;&#1080;&#1077;&#1084; &#1084;&#1080;&#1085;&#1080;&#1084;&#1072;&#1083;&#1100;&#1085;&#1086;&#1075;&#1086; &#1080; &#1084;&#1072;&#1082;&#1089;&#1080;&#1084;&#1072;&#1083;&#1100;&#1085;&#1086;&#1075;&#1086; &#1076;&#1080;&#1072;&#1084;&#1077;&#1090;&#1088;&#1086;&#1074; &#1075;&#1072;&#1079;&#1086;&#1074;&#1086;&#1075;&#1086; &#1087;&#1091;&#1079;&#1099;&#1088;&#1100;&#1082;&#1072; &#1087;&#1088;&#1080;&#1074;&#1086;&#1076;&#1080;&#1090; &#1082; &#1087;&#1088;&#1077;&#1086;&#1073;&#1083;&#1072;&#1076;&#1072;&#1085;&#1080;&#1102; &#1076;&#1088;&#1086;&#1073;&#1083;&#1077;&#1085;&#1080;&#1103; &#1085;&#1072;&#1076; &#1082;&#1086;&#1072;&#1083;&#1077;&#1089;&#1094;&#1077;&#1085;&#1094;&#1080;&#1077;&#1081;, &#1095;&#1090;&#1086; &#1087;&#1088;&#1080;&#1074;&#1086;&#1076;&#1080;&#1090; &#1082; &#1091;&#1074;&#1077;&#1083;&#1080;&#1095;&#1077;&#1085;&#1080;&#1102; &#1087;&#1086;&#1074;&#1077;&#1088;&#1093;&#1085;&#1086;&#1089;&#1090;&#1080; &#1084;&#1072;&#1089;&#1089;&#1086;&#1086;&#1073;&#1084;&#1077;&#1085;&#1072; &#1087;&#1088;&#1080; &#1088;&#1086;&#1089;&#1090;&#1077; &#1095;&#1080;&#1089;&#1083;&#1072; &#1087;&#1091;&#1079;&#1099;&#1088;&#1100;&#1082;&#1086;&#1074;. The work is dedicated to the modeling of mass transfer apparatuses within air-independent power systems, focusing on the dissolution of carbon dioxide in seawater through the absorption method. To achieve this goal, the presence of biogenic surfactants in seawater, which are products of marine organisms' life activities, is considered. Based on literature data on biomass distribution in the upper layer of the World Ocean, a dependency of surfactant concentration on the region is proposed and compared with experimental data. Dependencies are derived based on the physicochemical processes that occur during gas sparging and the adsorption of biogenic surfactant molecules on the bubble surface. It is established that the presence of biogenic surfactants in seawater leads to a reduction in surface tension, which in turn decreases the velocity of the gas phase, with a slight reduction in the mass transfer coefficient, under conditions of increased overall mass transfer surface area. It is determined that under conditions of coalescence and fragmentation of gas bubbles, the reduction in gas bubble volume, caused by the decrease in minimum and maximum bubble diameters, leads to the predominance of fragmentation over coalescence, resulting in an increase in the mass transfer surface area as the number of bubbles increases.</description>
-      <author>&#1040;.&#1053;. &#1044;&#1103;&#1076;&#1080;&#1082;, &#1044;.&#1057;. &#1052;&#1072;&#1083;&#1086;&#1074;&#1080;&#1082;, &#1052;.&#1040;. &#1050;&#1080;&#1095;&#1072;</author>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.37220/mit.2024.66.4.019</guid>
+                In this study, we employed EC&#8208;MS to elucidate the role of halide anions in electrochemical CO2 and CO reduction. We found that the undesired hydrogen evolution reaction (HER) was significantly suppressed by the anion used. Specifically, the rates of H2 production decreased in the order KF &gt; KCl &gt; KI, meaning that I&#8722; most strongly suppressed HER. Interestingly, CO reduction products showed an inverse relationship to HER, with KI leading to the highest rate of CO reduction. By pairing our experimental findings with classical molecular dynamics simulations, we propose a mechanism wherein halide anions influence the dynamic interplay between CO reduction and HER by modulating the competition of H* and CO* for active sites on the Cu surface. We propose that this interaction is enabled by the interfacial concentration of K+ being greater in the presence of F&#8722; than in I&#8722;. Our results highlight the need to more broadly consider the properties of ions at electrocatalytic interfaces and they point to thus far underappreciated avenues to optimize hydrocarbon production while suppressing hydrogen evolution.</description>
+      <author>Lee Fuller, Gong Zhang, Seonmyeong Noh, Reid C. Van Lehn, Marcel Schreier</author>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202421196</guid>
     </item>
     <item>
       <title>Trend Projections of Greenhouse Gas Emission Reduction Potentials: A Bootstrap-Based Nonparametric Efficiency Analysis</title>
@@ -919,16 +999,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/ma18010065</guid>
     </item>
     <item>
-      <title>Sustainable Energy Management in Electric Vehicles Through a Fuzzy Logic-Based Strategy</title>
-      <link>https://doi.org/10.3390/su17010089</link>
-      <description>Efe Savran, Esin Karpat, Fatih Karpat, Sustainability. 17(1)] 2024. https://openalex.org/W4405810484
-
-                The purpose of this study was to develop a fuzzy logic controller (FLC)-based energy management strategy for battery electric vehicles that enables them to reduce their energy consumption and carbon emission levels without sacrificing their performance. An electric vehicle model was developed in MATLAB/Simulink using a virtual battery and validated with real-world driving tests to save time and money. An in-depth investigation is conducted on both virtual and real vehicles to confirm the effectiveness of the proposed energy management strategy. This study shows that by using FLC-based energy management, an energy consumption advantage of 9.16% can be achieved while maintaining acceptable performance levels in real-world driving conditions. This advantage results in significant reductions annually: 1044.09 tons of CO2 emissions, USD 164,770.65 in savings for electric bus lines, and 5079 battery cycles. For European passenger electric vehicles, this corresponds to 405,657.6 tons of CO2 emissions reduced, USD 64,017,840 saved, and 5.071 battery cycles per vehicle. This strategy not only enhances energy efficiency but also contributes to long-term sustainability in public transportation systems, particularly for electric bus fleets, which play a critical role in urban mobility.</description>
-      <author>Efe Savran, Esin Karpat, Fatih Karpat</author>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su17010089</guid>
-    </item>
-    <item>
       <title>Modulating the Coordination Environment of Cu-Embedded Mo&lt;i&gt;X&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt; (&lt;i&gt;X&lt;/i&gt; = S, Se, and Te) Monolayers for Electrocatalytic Reduction of CO&lt;sub&gt;2&lt;/sub&gt; to CH&lt;sub&gt;4&lt;/sub&gt;: Unveiling the Origin of Catalytic Activity</title>
       <link>https://doi.org/10.1021/acs.langmuir.4c03564</link>
       <description>Thamarainathan Doulassiramane, R. Padmanaban, Langmuir. None(None)] 2024. https://openalex.org/W4405735995
@@ -937,6 +1007,16 @@
       <author>Thamarainathan Doulassiramane, R. Padmanaban</author>
       <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c03564</guid>
+    </item>
+    <item>
+      <title>Sustainable Energy Management in Electric Vehicles Through a Fuzzy Logic-Based Strategy</title>
+      <link>https://doi.org/10.3390/su17010089</link>
+      <description>Efe Savran, Esin Karpat, Fatih Karpat, Sustainability. 17(1)] 2024. https://openalex.org/W4405810484
+
+                The purpose of this study was to develop a fuzzy logic controller (FLC)-based energy management strategy for battery electric vehicles that enables them to reduce their energy consumption and carbon emission levels without sacrificing their performance. An electric vehicle model was developed in MATLAB/Simulink using a virtual battery and validated with real-world driving tests to save time and money. An in-depth investigation is conducted on both virtual and real vehicles to confirm the effectiveness of the proposed energy management strategy. This study shows that by using FLC-based energy management, an energy consumption advantage of 9.16% can be achieved while maintaining acceptable performance levels in real-world driving conditions. This advantage results in significant reductions annually: 1044.09 tons of CO2 emissions, USD 164,770.65 in savings for electric bus lines, and 5079 battery cycles. For European passenger electric vehicles, this corresponds to 405,657.6 tons of CO2 emissions reduced, USD 64,017,840 saved, and 5.071 battery cycles per vehicle. This strategy not only enhances energy efficiency but also contributes to long-term sustainability in public transportation systems, particularly for electric bus fleets, which play a critical role in urban mobility.</description>
+      <author>Efe Savran, Esin Karpat, Fatih Karpat</author>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/su17010089</guid>
     </item>
     <item>
       <title>EXPERIMENTAL EVALUATION OF THE EFFECTIVENESS OF CO2 APPLICATION IN A CARRAGEENAN MODEL OF INFLAMMATION: NEW PERSPECTIVES IN THE TREATMENT OF OSTEOARTHRITIS</title>
@@ -989,14 +1069,34 @@
       <guid isPermaLink="true">https://doi.org/10.24857/rgsa.v18n12-186</guid>
     </item>
     <item>
-      <title>Effects of Steam Addition to the Oxidizer on the Combustion Performance and Emissions of Coke Oven Gas: A Numerical Study</title>
-      <link>https://doi.org/10.29109/gujsc.1593650</link>
-      <description>Osman K&#252;m&#252;k, Gazi &#220;niversitesi Fen Bilimleri Dergisi Part C Tasar&#305;m ve Teknoloji. None(None)] 2024. https://openalex.org/W4405674526
+      <title>Size&#8208;adjustable High&#8208;Entropy Alloy Nanoparticles as an Efficient Platform for Electrocatalysis</title>
+      <link>https://doi.org/10.1002/anie.202423765</link>
+      <description>Huizhu Cai, Hengpan Yang, Shijie He, Da Ping Wan, Deliang Li, Xingxing Jiang, Xue Zhang, Qi Hu, Chuanxin He, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4405858797
 
-                This study investigates the effects of adding steam to the oxidizer on the combustion behavior of coke oven gas through numerical simulations. The analysis used the commercial computational fluid dynamics (CFD) software Ansys Fluent. The results obtained for the case where dry air was used as the oxidizer were compared with experimental data. The k-&#400; standard turbulence model was employed for turbulence modeling, while the PDF/Mixture Fraction combustion model and the P-1 radiation model were used for the three-dimensional numerical simulations. According to the simulation results, adding steam to the oxidizer slightly reduced the temperature of the COG. When assessing the emissions, it was observed that NOX emissions significantly decreased, while CO2 emissions showed a slight reduction. However, CO emissions were found to increase slightly. In conclusion, the study indicates that adding steam to the oxidizer significantly mitigates the high NOX emissions typically associated with using coke oven gas as an alternative fuel.</description>
-      <author>Osman K&#252;m&#252;k</author>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.29109/gujsc.1593650</guid>
+                The high entropy alloy (HEA) possesses distinctive thermal stability and electronic characteristics, which exhibits substantial potential for diverse applications in electrocatalytic reactions. However, accurately controlling the size of HEA still remains a challenge, especially for the ultrasmall HEA nanoparticles. Herein, we firstly calculate and illustrate the size impact on the electronic structure of HEA and the adsorption energies of crucial intermediates in typical electrocatalytic reactions, such as the hydrogen evolution reaction (HER), oxygen reduction reaction (ORR), CO2 electroreduction (CO2RR) and NO3&#8211; electroreduction (NO3RR). Under the guidance of theoretical calculations, we synthesize a range of ultrasmall PtRuPdCoNi HEA nanoparticles with adjustable sizes (1.7, 2.3, 3.0, and 3.9 nm) using a one&#8208;step spatially confined approach. Specifically, HEA nanoparticles with 1.7 nm size (HEA&#8208;1.7) endows a 16 mV overpotential at current density of 10 mA cm&#8722;2, yielding a mass activity of 31.9 A mgNM&#8208;1 of noble metal in HER, significantly outperforming commercial Pt/C catalyst. This strategy can also be easily applicable to other reduction reactions attributed to the richness of metal components and size adjustability, presenting a promising platform for various electrocatalytic applications as advanced catalysts.</description>
+      <author>Huizhu Cai, Hengpan Yang, Shijie He, Da Ping Wan, Deliang Li, Xingxing Jiang, Xue Zhang, Qi Hu, Chuanxin He</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202423765</guid>
+    </item>
+    <item>
+      <title>Size&#8208;adjustable High&#8208;Entropy Alloy Nanoparticles as an Efficient Platform for Electrocatalysis</title>
+      <link>https://doi.org/10.1002/ange.202423765</link>
+      <description>Huizhu Cai, Hengpan Yang, Shijie He, Da Ping Wan, Deliang Li, Xingxing Jiang, Xue Zhang, Qi Hu, Chuanxin He, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4405858796
+
+                The high entropy alloy (HEA) possesses distinctive thermal stability and electronic characteristics, which exhibits substantial potential for diverse applications in electrocatalytic reactions. However, accurately controlling the size of HEA still remains a challenge, especially for the ultrasmall HEA nanoparticles. Herein, we firstly calculate and illustrate the size impact on the electronic structure of HEA and the adsorption energies of crucial intermediates in typical electrocatalytic reactions, such as the hydrogen evolution reaction (HER), oxygen reduction reaction (ORR), CO2 electroreduction (CO2RR) and NO3&#8211; electroreduction (NO3RR). Under the guidance of theoretical calculations, we synthesize a range of ultrasmall PtRuPdCoNi HEA nanoparticles with adjustable sizes (1.7, 2.3, 3.0, and 3.9 nm) using a one&#8208;step spatially confined approach. Specifically, HEA nanoparticles with 1.7 nm size (HEA&#8208;1.7) endows a 16 mV overpotential at current density of 10 mA cm&#8722;2, yielding a mass activity of 31.9 A mgNM&#8208;1 of noble metal in HER, significantly outperforming commercial Pt/C catalyst. This strategy can also be easily applicable to other reduction reactions attributed to the richness of metal components and size adjustability, presenting a promising platform for various electrocatalytic applications as advanced catalysts.</description>
+      <author>Huizhu Cai, Hengpan Yang, Shijie He, Da Ping Wan, Deliang Li, Xingxing Jiang, Xue Zhang, Qi Hu, Chuanxin He</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202423765</guid>
+    </item>
+    <item>
+      <title>Unraveling the C&#8211;C Coupling Mechanism on Dual-Atom Catalysts for CO&lt;sub&gt;2&lt;/sub&gt;/CO Reduction Reaction: The Critical Role of CO Hydrogenation</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c03123</link>
+      <description>Minghao He, Changshuang Jiang, Huimin Yan, Guofeng Wang, Yang&#8208;Gang Wang, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4405850979
+
+                The electrochemical reduction reaction (RR) of CO to high value multicarbon products is highly desirable for carbon utilization. Dual transition metal atoms dispersed by N-doped graphene are able to be highly efficient catalysts for this process due to the synergy of the bimetallic sites for C&#8211;C coupling. In this work, we screened homonuclear dual-atom catalysts dispersed by N-doped graphene to investigate the potential in CO reduction to C2+ products by employing density functional theory calculations. We have demonstrated that the two adsorbed CO species on bimetallic sites cannot directly couple unless one of the CO molecules is hydrogenated. All the dual metal atom catalysts prefer a similar coupling mechanism, i.e., the asymmetric coupling of *CO on the bridged site and *CHO on the top site, while the Ni2 and Cu2 catalysts exhibit much better performance with moderate adsorption energies and low energy barriers. The enhanced activities are attributed to the decrease of the energy levels of *CO 2p states that weakens the metal&#8211;C bonding and thus facilitates the feasible C&#8211;C coupling with both low reaction energies and low barriers. These insights have revealed the significant role of the hydrogenation of CO species prior to the coupling step and may provide a theoretical perspective to understand the generation of C2+ products in the CO2/CORR.</description>
+      <author>Minghao He, Changshuang Jiang, Huimin Yan, Guofeng Wang, Yang&#8208;Gang Wang</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c03123</guid>
     </item>
     <item>
       <title>Optimal Allocation of Community Distributed Energy and Storage Based on Regional Autonomous Balance and Sharing Mechanism</title>
@@ -1037,16 +1137,6 @@
       <author>Przemys&#322;aw Zdyb</author>
       <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.32084/tkp.9061</guid>
-    </item>
-    <item>
-      <title>Regeneration of Ni/Al2O3 catalyst in CO2 methanation</title>
-      <link>https://doi.org/10.20527/k.v13i2.19951</link>
-      <description>Rima Melati, Robert Junaidi, Mustain Zamhari, Konversi. 13(2)] 2024. https://openalex.org/W4405669032
-
-                CO&#8322; emissions are one form of greenhouse gas (GHG) emissions that contribute to global warming. CO&#8322; contributed 175.62 million tons in 2021, impacting greenhouse gas levels. One strategy to reduce the concentration of CO&#8322; in the atmosphere is to convert CO&#8322; gas into useful chemicals. One example of this is the hydrogenation of CO&#8322; to produce methane, which can serve as an alternative to LPG. The aim of this research is to produce methane gas by developing a fixed bed reactor in a simple manner. The catalyst Ni/Al2O3 with 20 grams and five regenerations could produce CH&#8324; up to 49.73% compared to 39.06% for those with 10 grams. However, the H2 gas remaining is higher for those with 10 grams (1.454 ppm compared to 1.042 ppm). Also, The CO2 gas remaining is higher for those with 10 grams (58.18% compared to 47.92%). The results of this study can be the basis for developing energy policies, encouraging investment in clean energy technologies, and supporting the reduction of greenhouse gas emissions for energy sustainability and resilience.</description>
-      <author>Rima Melati, Robert Junaidi, Mustain Zamhari</author>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.20527/k.v13i2.19951</guid>
     </item>
     <item>
       <title>Impact of technological spillover in the EAEU area on the environment</title>
@@ -1159,14 +1249,14 @@
       <guid isPermaLink="true">https://doi.org/10.3390/agronomy14123067</guid>
     </item>
     <item>
-      <title>Perspective Chapter: The Growing Importance of Bio-Attributed Products in Reducing Greenhouse Gas Emissions</title>
-      <link>https://doi.org/10.5772/intechopen.1007807</link>
-      <description>Ivana Krklju&#353;, Peter Saling, Christian Kr&#252;ger, IntechOpen eBooks. None(None)] 2024. https://openalex.org/W4405732874
+      <title>Determination of the Minimum Alveolar Concentration (MAC) of Isoflurane and Sevoflurane in Callithrix penicillata</title>
+      <link>https://doi.org/10.22456/1679-9216.132347</link>
+      <description>Wendel Dietze, Samuel Jorge Ronchi, William Oliveira Vasques, Leonardo Henrique Hasckel da Silva Pereira, M&#244;nica Buoso de Souza, &#193;dson Costa, Aury Nunes de Moraes, ACTA SCIENTIAE VETERINARIAE. 51(None)] 2023. https://openalex.org/W4405720008
 
-                Renewable raw materials, as regenerative biobased feedstock for chemicals, have an enormous potential for reducing feedstock-related greenhouse gas emissions. Dedicated to driving the growth of bioeconomy, we continuously explore and develop building blocks for turning the bioeconomy ambition into a reality. Bio-based products are already available in the market but are limited in growth due to lack of technologies and product development costs. Alternatively, scale-up and utilization of biobased feedstocks, leveraging existing infrastructure, requires utilization of different chain-of-custody models. That is how a growing need for bio-attributed products, which provide the same quality and performance of their conventional equivalent and a proven benefit determined by the reduction of the Product Carbon Footprint in cradle-to-gate assessments, can be fulfilled. Ranging from a discussion around collaboration to drive sustainability in the chemical industry, towards current and future policy asks, we discuss about the opportunities of using different types of feedstocks and how we can accelerate industry transformation strategies by using attribution models, model biogenic CO2-uptake in a meaningful, fair, and transparent way, based on accepted and harmonized standards, such as global ISO standards. We provide reference points and statistics and address the latest and the most important bioeconomy-related aspects of bio-attribution as science is evolving.</description>
-      <author>Ivana Krklju&#353;, Peter Saling, Christian Kr&#252;ger</author>
-      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5772/intechopen.1007807</guid>
+                Background: The minimum alveolar concentration (MAC) is a measure of quantitative anesthetic potency and has become the standard index for the evaluation and comparison of volatile anesthetics, in addition to guiding dose administration. Black-tufted marmosets (Callithrix penicillata) are primates present in the clinical and surgical routine of veterinary hospitals, as well as experimental models, especially in neuroscience. Few studies have evaluated the potency of the main volatile anesthetics in this species. This study aimed to determine the MAC of isoflurane and sevoflurane in C. penicillata using the up-and-down method and to evaluate the effects of these drugs on the quality of anesthetic induction, maintenance, and recovery. Materials, Methods &amp; Results: Twenty-four animals of undetermined age were used. All marmosets were healthy according to hematological and physical evaluation. The animals were randomly divided into two groups: ISOMAC and SEVOMAC. Each animal was induced to general anesthesia in an anesthetic box with oxygen (5 L/min) and sevoflurane at 7% in the SEVOMAC group or isoflurane at 5% in the ISOMAC. Upon reaching lateral decubitus, orotracheal intubation was performed. General anesthesia was maintained with isoflurane or sevoflurane diluted in oxygen (0.8 L/min) using a non-rebreathing delivery system under spontaneous ventilation. As defined in the pilot study, the first animal from ISOMAC started the maintenance of anesthesia with 2.6% isoflurane, while the first animal in SEVOMAC received 4% sevoflurane. After finishing the instrumentation to assess heart rate, respiratory rate, systolic blood pressure, pulse oximeter oxygen saturation, end-tidal carbon dioxide concentration, and rectal temperature, a 15-minute wait to reach anesthetic equilibrium was allowed, and then an electrical noxious stimulation (50 mA and 50 Hz) was performed on the lateral aspect of the thigh (a faradic current of 3 consecutive single stimuli, followed by 2 continuous stimuli). The animals' responses to the electrical stimulus were observed. The presence of a positive response (gross movement of the limbs, head, or vocalization) or a negative response (absence of gross movements) determined the increase or reduction, respectively, of the inhalation anesthetic concentration by 10% in the subsequent marmoset. The quality of anesthetic induction and recovery from anesthesia was evaluated using a scale that measured the intensity of agitation, coughing, nausea, and vomiting. Physiological variables were recorded before (M0) and after (M1) applying the nociceptive stimulus. Isoflurane and sevoflurane MAC values in C. penicillata were 2.29 &#177; 0.10% and 3.93 &#177; 0.61% respectively. Physiological parameters, quality of anesthetic induction and recovery did not differ significantly between groups. However, isoflurane caused irritation of the airway and ocular mucous membranes, more coughing episodes, and tearing at induction. There was no difference between groups for time to extubation and recovery time to regain sternal position. Discussion: Previous studies in primates found lower MAC values for both anesthetics, except for Lemur catta. Those findings may be explained by the use of different nociceptive stimuli and the MAC determination method employed, although no differences in MAC values have been described between bracketing or up-and-down methods in human primates and dogs. It is unlikely that the stimulus and technique alone are the determining factors for the high concentration of isoflurane and sevoflurane observed in the present study since MAC was high with both halogenates, indicating that dose extrapolation from other species can lead to the wrong anesthetic dosage.</description>
+      <author>Wendel Dietze, Samuel Jorge Ronchi, William Oliveira Vasques, Leonardo Henrique Hasckel da Silva Pereira, M&#244;nica Buoso de Souza, &#193;dson Costa, Aury Nunes de Moraes</author>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.22456/1679-9216.132347</guid>
     </item>
     <item>
       <title>The Mechanism and Effects of the Digital Economy on Urban Resilience: An Empirical Test Based on 110 Cities in the Yangtze River Economic Belt</title>
@@ -1189,14 +1279,14 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c17137</guid>
     </item>
     <item>
-      <title>Determination of the Minimum Alveolar Concentration (MAC) of Isoflurane and Sevoflurane in Callithrix penicillata</title>
-      <link>https://doi.org/10.22456/1679-9216.132347</link>
-      <description>Wendel Dietze, Samuel Jorge Ronchi, William Oliveira Vasques, Leonardo Henrique Hasckel da Silva Pereira, M&#244;nica Buoso de Souza, &#193;dson Costa, Aury Nunes de Moraes, ACTA SCIENTIAE VETERINARIAE. 51(None)] 2023. https://openalex.org/W4405720008
+      <title>Perspective Chapter: The Growing Importance of Bio-Attributed Products in Reducing Greenhouse Gas Emissions</title>
+      <link>https://doi.org/10.5772/intechopen.1007807</link>
+      <description>Ivana Krklju&#353;, Peter Saling, Christian Kr&#252;ger, IntechOpen eBooks. None(None)] 2024. https://openalex.org/W4405732874
 
-                Background: The minimum alveolar concentration (MAC) is a measure of quantitative anesthetic potency and has become the standard index for the evaluation and comparison of volatile anesthetics, in addition to guiding dose administration. Black-tufted marmosets (Callithrix penicillata) are primates present in the clinical and surgical routine of veterinary hospitals, as well as experimental models, especially in neuroscience. Few studies have evaluated the potency of the main volatile anesthetics in this species. This study aimed to determine the MAC of isoflurane and sevoflurane in C. penicillata using the up-and-down method and to evaluate the effects of these drugs on the quality of anesthetic induction, maintenance, and recovery. Materials, Methods &amp; Results: Twenty-four animals of undetermined age were used. All marmosets were healthy according to hematological and physical evaluation. The animals were randomly divided into two groups: ISOMAC and SEVOMAC. Each animal was induced to general anesthesia in an anesthetic box with oxygen (5 L/min) and sevoflurane at 7% in the SEVOMAC group or isoflurane at 5% in the ISOMAC. Upon reaching lateral decubitus, orotracheal intubation was performed. General anesthesia was maintained with isoflurane or sevoflurane diluted in oxygen (0.8 L/min) using a non-rebreathing delivery system under spontaneous ventilation. As defined in the pilot study, the first animal from ISOMAC started the maintenance of anesthesia with 2.6% isoflurane, while the first animal in SEVOMAC received 4% sevoflurane. After finishing the instrumentation to assess heart rate, respiratory rate, systolic blood pressure, pulse oximeter oxygen saturation, end-tidal carbon dioxide concentration, and rectal temperature, a 15-minute wait to reach anesthetic equilibrium was allowed, and then an electrical noxious stimulation (50 mA and 50 Hz) was performed on the lateral aspect of the thigh (a faradic current of 3 consecutive single stimuli, followed by 2 continuous stimuli). The animals' responses to the electrical stimulus were observed. The presence of a positive response (gross movement of the limbs, head, or vocalization) or a negative response (absence of gross movements) determined the increase or reduction, respectively, of the inhalation anesthetic concentration by 10% in the subsequent marmoset. The quality of anesthetic induction and recovery from anesthesia was evaluated using a scale that measured the intensity of agitation, coughing, nausea, and vomiting. Physiological variables were recorded before (M0) and after (M1) applying the nociceptive stimulus. Isoflurane and sevoflurane MAC values in C. penicillata were 2.29 &#177; 0.10% and 3.93 &#177; 0.61% respectively. Physiological parameters, quality of anesthetic induction and recovery did not differ significantly between groups. However, isoflurane caused irritation of the airway and ocular mucous membranes, more coughing episodes, and tearing at induction. There was no difference between groups for time to extubation and recovery time to regain sternal position. Discussion: Previous studies in primates found lower MAC values for both anesthetics, except for Lemur catta. Those findings may be explained by the use of different nociceptive stimuli and the MAC determination method employed, although no differences in MAC values have been described between bracketing or up-and-down methods in human primates and dogs. It is unlikely that the stimulus and technique alone are the determining factors for the high concentration of isoflurane and sevoflurane observed in the present study since MAC was high with both halogenates, indicating that dose extrapolation from other species can lead to the wrong anesthetic dosage.</description>
-      <author>Wendel Dietze, Samuel Jorge Ronchi, William Oliveira Vasques, Leonardo Henrique Hasckel da Silva Pereira, M&#244;nica Buoso de Souza, &#193;dson Costa, Aury Nunes de Moraes</author>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.22456/1679-9216.132347</guid>
+                Renewable raw materials, as regenerative biobased feedstock for chemicals, have an enormous potential for reducing feedstock-related greenhouse gas emissions. Dedicated to driving the growth of bioeconomy, we continuously explore and develop building blocks for turning the bioeconomy ambition into a reality. Bio-based products are already available in the market but are limited in growth due to lack of technologies and product development costs. Alternatively, scale-up and utilization of biobased feedstocks, leveraging existing infrastructure, requires utilization of different chain-of-custody models. That is how a growing need for bio-attributed products, which provide the same quality and performance of their conventional equivalent and a proven benefit determined by the reduction of the Product Carbon Footprint in cradle-to-gate assessments, can be fulfilled. Ranging from a discussion around collaboration to drive sustainability in the chemical industry, towards current and future policy asks, we discuss about the opportunities of using different types of feedstocks and how we can accelerate industry transformation strategies by using attribution models, model biogenic CO2-uptake in a meaningful, fair, and transparent way, based on accepted and harmonized standards, such as global ISO standards. We provide reference points and statistics and address the latest and the most important bioeconomy-related aspects of bio-attribution as science is evolving.</description>
+      <author>Ivana Krklju&#353;, Peter Saling, Christian Kr&#252;ger</author>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5772/intechopen.1007807</guid>
     </item>
     <item>
       <title>Plant disease dynamics in a changing climate: impacts, molecular mechanisms, and climate-informed strategies for sustainable management</title>
@@ -1207,16 +1297,6 @@
       <author>Md. Motaher Hossain, Farjana Sultana, Mahabuba Mostafa, Humayra Ferdus, Mridula Rahman, Jesleen Rana, Sayed Shahidul Islam, Shanta Adhikary, Anamika Sannal, Md. Al Emran Hosen, Jannatun Nayeema, Nusrat Jahan Emu, Mrinmoy Kundu, Sudhangshu Kumar Biswas, LABIBA FARZANA, Md. Abdullah Al Sabbir</author>
       <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s44279-024-00144-w</guid>
-    </item>
-    <item>
-      <title>Green Economic Growth and the Performance of the Turki&#775;ye Economy</title>
-      <link>https://doi.org/10.58830/ozgur.pub570.c2327</link>
-      <description>Mustafa KARAKU&#350;, &#214;zg&#252;r Yay&#305;nlar&#305; eBooks. None(None)] 2024. https://openalex.org/W4405684008
-
-                This study examines the concept of green economic growth within the framework of T&#252;rkiye&#8217;s transition to a sustainable green economy. By outlining the historical and theoretical foundations of green economy principles, it explores T&#252;rkiye's economic, environmental, and policy transformations in the context of global green transitions. Key indicators from the 2017-2023 period are analyzed to evaluate T&#252;rkiye&#8217;s efforts in promoting renewable energy, enhancing energy efficiency, and encouraging environmentally friendly practices. The findings highlight significant progress in renewable energy investments, particularly in wind and solar power, which have enabled substantial advancements in this sector. By 2023, the share of renewable energy in total electricity generation reached 41.73%. However, challenges persist in achieving substantial reductions in CO2 emissions and improving energy efficiency. T&#252;rkiye&#8217;s development plans and national policies emphasize alignment with international standards, the promotion of green financing, and the adoption of innovative technologies. For T&#252;rkiye to achieve its green economic growth objectives, more integrated strategies and robust policy support are essential. This analysis aims to contribute to the academic literature and policymaking processes by presenting T&#252;rkiye's experiences and potential pathways in green transformation. This study aims to provide insights into T&#252;rkiye&#8217;s green transformation journey, offering valuable contributions to both academic discourse and policymaking processes by identifying key experiences and outlining potential pathways for further progress in sustainable economic development.</description>
-      <author>Mustafa KARAKU&#350;</author>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.58830/ozgur.pub570.c2327</guid>
     </item>
     <item>
       <title>Late Middle to Late Ordovician Phosphate Accumulation of the Moyero River Section (Siberia): A Record of Upwelling and Global Cooling</title>
@@ -1249,6 +1329,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/plants14010055</guid>
     </item>
     <item>
+      <title>Strategic model for integrating biogas a framework for sustainable energy integration in agro-industries</title>
+      <link>https://doi.org/10.1038/s41598-024-83181-1</link>
+      <description>Ahmad Nahwani, Soeprijanto Soeprijanto, Erwin Widodo, Scientific Reports. 14(1)] 2024. https://openalex.org/W4405865792
+
+                The framework of the methodology presented in this study is an effort to integrate and optimize the agro-industry sector, especially energy in biogas. In this study, the technique of the system in functional analysis is shown systematically to translate various energy requirements in the factory as criteria for performance and functional design to be integrated, optimized, and energy efficient. The case study results indicated that biogas power plants, with a capacity of 1.5 MW, can produce around 13,140 MWh per year. The annual return on investment (ROI) is around 37.13%. With this ROI value, the payback period is 31 months. The overall reduction of greenhouse gases is approximately 77,826 tons CO2 eq/year. The potential value of carbon trading is about USD 3,113,040 per year. This strategic model presents a novel approach by integrating biogas energy production with a customized wastewater treatment system adapted to biodigesters' effluent characteristics. It offers a sustainable, economically feasible, and scalable solution, combining resource recovery, waste minimization, and potential for carbon trading into a unified system. The novelty of this research lies in maximizing the utility of biogas plants by efficiently treating and reusing wastewater, creating a closed-loop, zero-waste process. Future research on hybrid systems integrating Biogas power plants by focusing on efficiency optimization, economic feasibility, environmental impacts, and innovative approaches like AI and blockchain could make the hybrid system a more robust, scalable, and sustainable solution. Thus, the framework based on the results of this study finds tools that can maximize and integrate energy sources, especially biogas, in the agro-industrial sector.</description>
+      <author>Ahmad Nahwani, Soeprijanto Soeprijanto, Erwin Widodo</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-83181-1</guid>
+    </item>
+    <item>
       <title>Certain biological and physical parameters of vacuum packaged fresh pork sirloin roasts</title>
       <link>https://doi.org/10.32469/10355/103624</link>
       <description>Bradley Jay Hoss, No host. None(None)] 1981. https://openalex.org/W4405723182
@@ -1279,6 +1369,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/en17246460</guid>
     </item>
     <item>
+      <title>Impacts of Climate Change on Forest Resources in Mexico: Regional Projections and Vulnerabilities</title>
+      <link>https://doi.org/10.9734/jgeesi/2024/v28i12849</link>
+      <description>Ram&#237;rez-S&#225;nchez Hermes Ulises, Fajardo-Montiel A&#237;da Lucia, Journal of Geography Environment and Earth Science International. 28(12)] 2024. https://openalex.org/W4405856516
+
+                Anthropogenic climate change can affect forest ecosystems and is one of the causes of deforestation, which leads to desertification. Deforestation is one of the main drivers of climate change due to the release of large amounts of CO2 stored in forests and jungles. Rising temperatures, decreased rainfall and drought have negative impacts on the diversity of forest species, as well as on forest ecosystem goods and services. Thus, this research focuses on climate change and its impact on Mexico's forests, evaluating deforestation and its effects on climate change and, subsequently, the effects of that climate change on forests; and the role of forests in carbon sequestration. Aims: The objective of this study is to present a set of regional temperature, precipitation, and drought projections for Mexico under the IPCC's AR6 climate change scenarios, and to estimate the potential impacts on Mexico's forest resources. Methodology: The methodology consists of obtaining a set of regional projections of temperature, precipitation, vegetation, drought and soil moisture under the conditions of the IPCC AR6 climate change scenarios for Mexico, with the changes of the aforementioned variables the vulnerability of the forestry sector in Mexico will be evaluated through models of the influence of these factors. Results: Regional models for Mexico show temperature increases ranging from 0.5 to 5 &#176;C, while the percentage change in precipitation will range from -20.3% to 13.5% depending on the scenario and period of analysis. The low soil moisture (mm), the negative changes of the NDVI and the SPEI12 show that the North, West and Baj&#237;o zones will present reductions in precipitation and temperature increase that will cause a severe deficit of soil moisture and water stress in the plants, considering these areas with scarce vegetation and the presence of semi-permanent meteorological drought. Under these scenarios, it is expected that practically the entire country will be subject to moderate droughts (Central and South) to extremely severe droughts (North) that will last and worsen between now and the end of the century. These conditions have already been recorded in Mexico's main forest areas and if adaptation and mitigation measures are not adopted, the country's forest resources are at risk. Likewise, in addition to the decrease in rainfall, it is estimated that it will be more intense with the presence of extreme events, which will increase the vulnerability of some basins throughout the country, in the Central and Northern areas with extreme drought events, while in the Southeast with floods. Conclusion: Temperate and cloud forests, xerophilous scrub and grasslands will be the most affected forest ecosystems in Mexico, to reduce the effects of climate change on forest resources, it is necessary to design and prioritize adaptation actions and implement mitigation measures that prevent the effects of climate change from intensifying in the most vulnerable regions of the country.</description>
+      <author>Ram&#237;rez-S&#225;nchez Hermes Ulises, Fajardo-Montiel A&#237;da Lucia</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.9734/jgeesi/2024/v28i12849</guid>
+    </item>
+    <item>
       <title>Advances in Neutron Stars from &lt;i&gt;Insight&lt;/i&gt;-HXMT</title>
       <link>https://doi.org/10.1142/9789819800643_0009</link>
       <description>M. Y. Ge, WORLD SCIENTIFIC eBooks. None(None)] 2024. https://openalex.org/W4405810146
@@ -1297,16 +1397,6 @@
       <author>Peng Li, Parthasakha Das</author>
       <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1108/msar-07-2024-0063</guid>
-    </item>
-    <item>
-      <title>The impact of climate change induced natural disasters on healthcare: Rethinking intravenous fluids</title>
-      <link>https://doi.org/10.1002/jhm.13578</link>
-      <description>Elizabeth Cerceo, Katherine T. Liu, Eric K. Brown, Catherine Chen, Journal of Hospital Medicine. None(None)] 2024. https://openalex.org/W4405677544
-
-                Hurricane Maria devastated Puerto Rico in 2017, wreaking havoc on the national pharmaceutical and medical supply industries, which are largely concentrated on the island.1 The impact was profound, particularly on the supply of small bags of intravenous (IV) fluids. For months afterward, hospitals across the United States struggled to obtain basic IV fluids, forcing clinicians to rethink how and when they used these products. The crisis highlighted the vulnerability of our healthcare supply chain to environmental disasters and underscored the need for more judicious use of IV fluids in the inpatient setting. In the wake of Hurricane Helene in September 2024, we find ourselves grappling with similar supply chain disruptions. By mid-October, ~86% of US physicians and providers had experienced IV fluid shortages.2 Some hospitals delayed noncritical surgeries3 and many hospitals continue to ration IV fluids until supplies return to their pre-Helene levels.4 These events, which are associated with the increasing frequency and intensity of natural disasters due to climate change, demand long-term solutions. Hospitals face numerous challenges from extreme weather across the clinical care continuum. In addition to critical supply shortages, climate change and extreme weather can affect disease patterns (e.g., heat-related illness, injury, and vector-borne illnesses), resulting in care interruptions, and delay in diagnosis and treatment. As health care providers, it is incumbent upon us to not just treat the patient in front of us, but also to do our part in resource utilization to reduce waste and decrease patient care related greenhouse gas contributions and environmental harms that spur these events. Rather than relying on reactive and temporary workarounds, such as rationing supplies or importing from less-affected regions, it is time to reassess our dependency on IV fluids. While they are a cornerstone of inpatient care, used for everything from volume resuscitation in shock to rapid medication delivery, more environmentally sustainable, evidence-based practices exist that prioritize patient safety while conserving resources. We must also address the lack of supply chain resiliency and support broader efforts to reduce healthcare's large, negative environmental impact. There is growing evidence that IV fluids are often administered unnecessarily or continued longer than clinically indicated. The proportion of hospitalized patients who can safely receive oral hydration instead of IV fluids is likely substantial, particularly in cases where oral intake is feasible and safe. For patients with infectious diarrhea, the Infectious Diseases Society of America recommends oral rehydration solutions as the first line therapy for mild to moderate dehydration.5 In patients with chronic kidney disease undergoing contrast-enhanced CT or cardiac catheterization, oral hydration was as effective as IV hydration in preventing contrast-associated acute kidney injury.6, 7 Oral rehydration for clinically stable patients with hypernatremia has demonstrated safety in pediatric populations, and could be implemented for adult inpatients.8 Avoiding low-value practices restricting oral intake can reduce the use of IV fluids. Examples include shortening pre-procedure fasting times9 and early resumption of enteral nutrition for acute pancreatitis.10 Even for patients with dysphagia, a study by Leder et al. demonstrated that 90.7% of hospitalized patients who passed a 3-ounce water swallow challenge could be advanced to oral diets without subsequent signs of aspiration.11 Many medications such as antibiotics can be administered through IV push (like cefazolin and meropenem)12 or orally (as in azithromycin or fluroquinolones) with equal efficacy.13 IV proton pump inhibitors in the setting of upper gastrointestinal bleed can be administered as infusions or intermittently as twice a day IV pushes or oral therapy after the initial 80 mg bolus, according to American College of Gastroenterology guidelines.14 Wherever fluids can be minimized, doing so provides multiple benefits including improved resource utilization and ease of nursing medication administration. Overuse in these cases is not only wasteful but also increases the risk of complications such as fluid overload, electrolyte imbalances, and prolonged hospital stays in patients with heart failure and other conditions. Moreover, the unnecessary use of IV lines increases the risk of infections and thrombophlebitis, adding to patient morbidity. Despite the evidence, excess use of IV fluids and medications remains a default practice in many hospitals. The reasons are multifaceted. Orders may be part of standard protocols, sometimes with little thought given to whether they are truly necessary. Many clinicians view IV fluid administration as a simple, low-risk intervention to "do something" for patients, especially where the clinical picture is uncertain. The complex nature of insurance reimbursements also contributes to this confusion, as the use of IV fluids and medications can be perceived as the difference between inpatient and observation status. This mindset contributes to a cycle of overuse that is difficult to break. Using IV fluids and medications more judiciously and developing better decision-making frameworks for fluid management also includes work to reduce our overall dependency on IV medications. A report by the Department of Health &amp; Human Services identified more than 25% of drug and device manufacturers are located in areas at high risk of natural hazards including flooding, tornadoes, earthquakes, and hurricanes.15 The climate change-induced disruptions caused by Hurricanes Maria and Helene offer opportunities to reevaluate our use of IV fluids. These events have forced hospitals to implement multifaceted measures aimed at conserving supplies, such as encouraging oral hydration when possible, limiting the use of IV fluids to critically ill patients, changing medications to oral equivalents, and more carefully monitoring fluid balance. From a greenhouse gas emissions perspective, the production of 500 mL of IV fluids generates about 0.5 kg of carbon dioxide equivalents (CO2e).16 If we can reduce annual usage by 25%, this could save emissions equivalent to driving a passenger car nearly 800,000 miles, or 285 trips from California to Maine in the United States. This rough estimate and other high-value care practices highlight the broader environmental benefits of simultaneously improving healthcare sustainability and potential cost reductions.17 Conservation strategies should not be seen as temporary measures but as part of a broader shift toward more mindful and evidence-based fluid management practices. Hospitals should consider implementing stricter guidelines for IV fluid administration. This includes regular reassessment of fluid needs, limiting automatic inclusion of IV fluids in admission orders, or requirements to reorder continuous IV fluids after a prespecified amount of time. Clinical decision support tools can help guide fluid management based on the patient's condition. For example, ask clinicians to consider if oral equivalents or oral hydration with fluid intake goals would be an appropriate first-line approach for patients with active diet orders. The practice of "keeping veins open" with IV fluids may also not be required as studies in the pediatric population suggest no difference between saline lock and continuous infusion on IV patency.18 As hospitalists, many of us are involved in administrative roles including resource utilization and supply chain issues as a part of process improvement and providing higher value. By taking steps now to reassess our utilization, we can create more resilient and adaptable healthcare systems better equipped to face the challenges of the future. This latest IV fluid shortage is not a supply chain anomaly. The COVID-19 pandemic is a lingering reminder that even the most basic elements of medical care are not immune to the forces of nature.19 Aside from causing severe equipment shortages, it also catapulted telehealth, once considered an aspirational next step for medicine, to the forefront of ambulatory care. Natural disasters, pandemics, and future unknown threats provide opportunities for innovation, improvement, and adoption of more sustainable practices. Rigorous and systematic research into best practices and disaster preparedness should be undertaken to inform our institutional policies and priorities given the increasing likelihood of future supply disruptions. Changing practice patterns will require more than updated guidelines and decision support tools. A cultural shift is necessary to reduce the default reliance on IV fluids and medications in inpatient care and to move to more sustainable hospital practice in general. This starts with education. Physicians, nurses, and other healthcare providers need to be trained in the risks associated with unnecessary IV fluid use and the benefits of alternative approaches. They should also be apprised of the downstream environmental harms of hospital waste and overuse and how this can adversely impact our communities and patients.20 Medical schools and residency programs should emphasize evidence-based fluid management, teaching future clinicians to carefully weigh the risks and benefits of IV fluid administration. Continuing education programs for practicing providers can also help to reinforce these principles, especially in the context of supply chain vulnerabilities and disaster preparedness. Medical societies also have a role in driving sustainable healthcare delivery through clinical practice guidelines. Members of the Medical Society Consortium on Climate and Health have committed to addressing climate change and health issues through their organizations and collectively through policy action and educational offerings. The frequent disruptions in IV fluid supplies due to climate disasters such as Hurricanes Maria and Helene highlight an urgent need to reduce overreliance on these products in the inpatient setting. We must seize this moment to promote smarter, evidence-based practices that not only conserve valuable resources but also enhance patient safety and care outcomes. This shift will require systemic changes, from updating clinical guidelines to fostering a culture that questions the routine use of IV fluids. By doing so, we can create a more resilient, patient-centered healthcare system capable of withstanding the growing pressures of climate-related disruptions (Table 1). The authors declare no conflict of interest.</description>
-      <author>Elizabeth Cerceo, Katherine T. Liu, Eric K. Brown, Catherine Chen</author>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/jhm.13578</guid>
     </item>
   </channel>
 </rss>

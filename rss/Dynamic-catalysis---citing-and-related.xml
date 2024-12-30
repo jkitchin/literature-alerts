@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 29 Dec 2024 01:27:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 01:23:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -22,7 +22,7 @@
       <link>https://doi.org/10.1021/jacs.4c13821</link>
       <description>Michael G. Allan, Rachel A. Yang, Silvia Mari&#241;o, Michael J. Gordon, Phillip Christopher, Eranda Nikolla, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4405844230
 
-                No abstract</description>
+                Designing catalysts with well-defined active sites with chemical functionality responsive to visible light has significant potential for overcoming scaling relations limiting chemical reactions over heterogeneous catalyst surfaces. Visible light can be leveraged to facilitate the removal of strongly bound species from well-defined single cationic sites (Rh) under mild conditions (323 K) when they are incorporated within a photoactive perovskite oxide (Rh-doped SrTiO3). CO, a key intermediate in many chemistries, forms stable geminal dicarbonyl Rh complexes (Rh+(CO)2), that could act as site blockers or poisons during a catalytic cycle. For the first time, we demonstrate that CO removal can occur at mild temperatures (323 K) under low-energy red light (635 nm) irradiation, which is not possible for supported isolated-site Rh catalysts (0.2 wt % Rh/&#947;-Al2O3). Photolysis of supported Rh+(CO)2 complexes (e.g., 0.2 wt % Rh/&#947;-Al2O3) has been demonstrated but is limited to high energy UV photons. Rigorous kinetic experiments elucidate disparate mechanisms for CO photodepletion from Rh-doped SrTiO3 and supported isolated site Rh/&#947;-Al2O3. CO photodepletion from supported isolated site Rh/&#947;-Al2O3 involves a direct metal to ligand charge transfer mechanism, whereas Rh-doped SrTiO3 is governed by electron&#8211;hole pair formation in the perovskite. We show that under visible, low-energy red light, surface Rh species in Rh-doped SrTiO3 introduce midgap energy states above the valence band that facilitate electronic excitations leading to surface CO removal. Isolated Rh sites in Rh-doped SrTiO3 also exhibit exceptional stability under multiple CO photodepletion cycles. Overall, incorporating single sites into photoactive perovskite oxides is an effective strategy to influence surface chemistries with visible light.</description>
       <author>Michael G. Allan, Rachel A. Yang, Silvia Mari&#241;o, Michael J. Gordon, Phillip Christopher, Eranda Nikolla</author>
       <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c13821</guid>

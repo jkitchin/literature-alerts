@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 29 Dec 2024 01:28:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 01:23:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Surficial Engineering of Cathodic Protection Strategy via P&#8208;Doped NiCuV Monolithic Electrode for Enhanced Hydrogen Evolution Reaction in Alkaline Media</title>
-      <link>https://doi.org/10.1002/adsu.202400815</link>
-      <description>Huizhen Han, Shiyi Tao, Yu Sun, Yuxin Luo, Yulian Zhao, Somnath Mukherjee, Yi Ma, Xin Bo, Zenglin Wang, Advanced Sustainable Systems. None(None)] 2024. https://openalex.org/W4405674677
-
-                Abstract The concentrated alkaline passivates the monolithic electrode for electrochemical hydrogen evolution reaction (HER) in the alkaline water electrolysis (AWE) industry. Herein, a surface engineering of cathodic protection via one&#8208;step co&#8208;electrodeposition of P into NiCuV is presented and the achieved monolithic electrode exhibits an enhanced electrochemical catalytic behavior and constant durability with a feedback potential of &#8722;0.75 V versus the reversible hydrogen electrode (RHE) under an extremely high current density of 1A cm &#8722;2 for more than 270 h in alkaline media. The strategy of cathodic protection optimises the charge density redistribution by forming a phosphate surface layer. This preserves the particular metal (alloy) phase from oxidation while also modulating the heterarchical porous structure through P incorporation. Furthermore, an anion&#8208;exchange membrane water electrolysis (AEMWE) with the NiCuVP serving as the HER catalyst and the NiFeCr LDH as the OER catalyst is constructed, which exhibits a current density of 912 mA cm &#8722;2 at 2 V at 80 &#176;C with 30 wt.% KOH electrolytes. The resultant factors for activity and durability such as the electrochemical specific area, redox behaviors and surface hydrophilicity are also systematically discussed. This research presents a practical protocol for the anticorrosion and active enhancement of AWE and AEMWE cathodes.</description>
-      <author>Huizhen Han, Shiyi Tao, Yu Sun, Yuxin Luo, Yulian Zhao, Somnath Mukherjee, Yi Ma, Xin Bo, Zenglin Wang</author>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adsu.202400815</guid>
-    </item>
-    <item>
-      <title>Synergistic role of nickel-chromium heterogeneous selenides in the efficient stabilisation of the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.178250</link>
-      <description>Li Wang, Ruixue Sun, Ting Li, Si Hui, Haoyu Luo, Gang Lv, Jifang Fu, Li Wang, Zhiqin Peng, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4405679873
-
-                No abstract</description>
-      <author>Li Wang, Ruixue Sun, Ting Li, Si Hui, Haoyu Luo, Gang Lv, Jifang Fu, Li Wang, Zhiqin Peng</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.178250</guid>
-    </item>
-    <item>
-      <title>Enhancing local CO2 availability via amorphous Bi2O3 enable efficient and stable photocatalytic C2H6 production</title>
-      <link>https://doi.org/10.1016/j.cej.2024.158854</link>
-      <description>Qingqing Chen, Jiaxin Jiang, Yan Wu, Jiaojiao Fang, Ning L&#252;, Gang Wang, Junjie Mao, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4405686146
-
-                No abstract</description>
-      <author>Qingqing Chen, Jiaxin Jiang, Yan Wu, Jiaojiao Fang, Ning L&#252;, Gang Wang, Junjie Mao</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.158854</guid>
-    </item>
-    <item>
-      <title>The Role of Effective Catalysts for Hydrogen Production: A Performance Evaluation</title>
-      <link>https://doi.org/10.1016/j.energy.2024.134257</link>
-      <description>A. Ya&#287;mur G&#246;ren, Mert Temiz, Do&#287;an Erdemir, &#304;brahim Din&#231;er, Energy. None(None)] 2024. https://openalex.org/W4405686151
-
-                No abstract</description>
-      <author>A. Ya&#287;mur G&#246;ren, Mert Temiz, Do&#287;an Erdemir, &#304;brahim Din&#231;er</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.energy.2024.134257</guid>
-    </item>
     <item>
       <title>The influence of multiple factors on the PtCo3 catalyst characteristics during the ORR process in proton exchange membrane fuel cells</title>
       <link>https://doi.org/10.1016/j.renene.2024.122263</link>
@@ -442,7 +402,7 @@
       <link>https://doi.org/10.1021/acs.jpclett.4c03123</link>
       <description>Minghao He, Changshuang Jiang, Huimin Yan, Guofeng Wang, Yang&#8208;Gang Wang, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4405850979
 
-                The electrochemical reduction reaction (RR) of CO to high value multicarbon products is highly desirable for carbon utilization. Dual transition metal atoms dispersed by N-doped graphene are able to be highly efficient catalysts for this process due to the synergy of the bimetallic sites for C-C coupling. In this work, we screened homonuclear dual-atom catalysts dispersed by N-doped graphene to investigate the potential in CO reduction to C</description>
+                The electrochemical reduction reaction (RR) of CO to high value multicarbon products is highly desirable for carbon utilization. Dual transition metal atoms dispersed by N-doped graphene are able to be highly efficient catalysts for this process due to the synergy of the bimetallic sites for C&#8211;C coupling. In this work, we screened homonuclear dual-atom catalysts dispersed by N-doped graphene to investigate the potential in CO reduction to C2+ products by employing density functional theory calculations. We have demonstrated that the two adsorbed CO species on bimetallic sites cannot directly couple unless one of the CO molecules is hydrogenated. All the dual metal atom catalysts prefer a similar coupling mechanism, i.e., the asymmetric coupling of *CO on the bridged site and *CHO on the top site, while the Ni2 and Cu2 catalysts exhibit much better performance with moderate adsorption energies and low energy barriers. The enhanced activities are attributed to the decrease of the energy levels of *CO 2p states that weakens the metal&#8211;C bonding and thus facilitates the feasible C&#8211;C coupling with both low reaction energies and low barriers. These insights have revealed the significant role of the hydrogenation of CO species prior to the coupling step and may provide a theoretical perspective to understand the generation of C2+ products in the CO2/CORR.</description>
       <author>Minghao He, Changshuang Jiang, Huimin Yan, Guofeng Wang, Yang&#8208;Gang Wang</author>
       <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c03123</guid>
@@ -458,6 +418,56 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apenergy.2024.125225</guid>
     </item>
     <item>
+      <title>Carbon-supported iron-series alloy catalysts for zinc-air batteries: A mini-review</title>
+      <link>https://doi.org/10.1016/j.mtener.2024.101785</link>
+      <description>Zhikang Wu, &#173;Jun Li&#173;, Sisi Xin, Menglin Zhou, Xuguang An, Guangzhi Hu, Materials Today Energy. None(None)] 2024. https://openalex.org/W4405854879
+
+                No abstract</description>
+      <author>Zhikang Wu, &#173;Jun Li&#173;, Sisi Xin, Menglin Zhou, Xuguang An, Guangzhi Hu</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101785</guid>
+    </item>
+    <item>
+      <title>Materiales de un &#250;nico &#225;tomo de hierro-nitr&#243;geno-carbono para la reducci&#243;n electroqu&#237;mica de ox&#237;geno y CO2</title>
+      <link>https://doi.org/10.62534/rseq.aq.2003</link>
+      <description>Jorge Torrero, Jes&#250;s Barrio, Deleted Journal. 120(4)] 2024. https://openalex.org/W4405860090
+
+                Los materiales de un &#250;nico &#225;tomo metal-nitr&#243;geno-carbono son la mejor alternativa a los catalizadores de metales preciosos en las celdas de combustible de hidr&#243;geno y los electrolizadores de CO2. Sin embargo, su s&#237;ntesis est&#225; limitada por la pir&#243;lisis a alta temperatura, lo que conlleva la formaci&#243;n de nanopart&#237;culas y resulta en un bajo n&#250;mero de sitios activos poco accesibles. Por lo tanto, las t&#233;cnicas sint&#233;ticas que permiten la coordinaci&#243;n de &#225;tomos aislados en una matriz de carbono post-pir&#243;lisis han recibido mucha atenci&#243;n. En esta perspectiva, comentamos los trabajos m&#225;s recientes en el campo de los electrocatalizadores Fe-N-C, y nos enfocamos en las t&#233;cnicas sint&#233;ticas de reemplazo de cationes Zn y Mg para evitar la agregaci&#243;n de Fe.</description>
+      <author>Jorge Torrero, Jes&#250;s Barrio</author>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.62534/rseq.aq.2003</guid>
+    </item>
+    <item>
+      <title>Acetonitrile-driven universal CO production across diverse metal catalysts</title>
+      <link>https://doi.org/10.1007/s11426-024-2416-0</link>
+      <description>Benqiang Tian, Yan Xu, Haoyang Wu, Zhong Yang, Marshet Getaye Sendeku, Haijun Xu, Yun Kuang, Jiazhan Li, Xiaoming Sun, Science China Chemistry. None(None)] 2024. https://openalex.org/W4405860289
+
+                No abstract</description>
+      <author>Benqiang Tian, Yan Xu, Haoyang Wu, Zhong Yang, Marshet Getaye Sendeku, Haijun Xu, Yun Kuang, Jiazhan Li, Xiaoming Sun</author>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11426-024-2416-0</guid>
+    </item>
+    <item>
+      <title>High-Throughput Exploration of Ti&#8211;V&#8211;Nb&#8211;Mo Carbide MXenes Using Neural Network Potentials and Their Evaluation as Catalysts for Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acsami.4c16965</link>
+      <description>Mohammed Wasay Mudassir, Sriram Goverapet Srinivasan, Mahesh Mynam, Beena Rai, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4405860570
+
+                Realization of a sustainable hydrogen economy in the future requires the development of efficient and cost-effective catalysts for its production at scale. MXenes (Mn+1Xn) are a class of 2D materials with 'n' layers of carbon or nitrogen (X) interleaved by 'n+1' layers of transition metal (M) and have emerged as promising materials for various applications including catalysts for hydrogen evolution reaction (HER). Their properties are intimately related to both their composition and their atomic structure. Recently, high entropy MXenes were synthesized, opening a vast compositional space of potentially stable and functionally superior materials. Detailed atomistic modeling enables us to systematically explore this extensive design space, which is otherwise infeasible in experiments. We have developed a Neural Network Potential (NNP) to model (TixVyNbzMop)n+1Cn MXenes (x+y+z+p = 1; n = 1,2,3) by training against Density Functional Theory (DFT) data in an active learning fashion. We then used the developed NNP to perform hybrid Monte Carlo-Molecular Dynamics (MC-MD) simulations to identify thermodynamically stable compositions and investigate the relative arrangement of transition metal atoms within and across layers. Thermodynamic stability increased with Mo content and its presence on the surface layer. We further investigated the catalytic performance of stable MXenes for the HER and observed that the center of the oxygen p-band (&#949;p) correlated well with the energy of adsorption of a hydrogen atom &#916;G(*H). Subsurface metal atoms significantly influenced the &#916;G(*H) values at the surface via both ligand and strain effects. Our work expands the space of potentially stable MXene compositions, providing targets for synthesis and their evaluation in various applications.</description>
+      <author>Mohammed Wasay Mudassir, Sriram Goverapet Srinivasan, Mahesh Mynam, Beena Rai</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c16965</guid>
+    </item>
+    <item>
+      <title>Built-in electric field induced by defected carbons adjacent to graphitic nitrogen valley for efficient oxygen reduction reaction and zinc-air batteries</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.12.021</link>
+      <description>Na Li, Tingting Ma, Huihui Wang, Jiayi Li, D.L. Qiu, Zhen Meng, Jiangdu Huang, Lijun Sui, Faming Han, Huidan Lu, Yongping Liu, Sundaram Chandrasekaran, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4405865451
+
+                No abstract</description>
+      <author>Na Li, Tingting Ma, Huihui Wang, Jiayi Li, D.L. Qiu, Zhen Meng, Jiangdu Huang, Lijun Sui, Faming Han, Huidan Lu, Yongping Liu, Sundaram Chandrasekaran</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.12.021</guid>
+    </item>
+    <item>
       <title>Activity-Drop of Hydrogen Evolution Reaction in LiNO&lt;sub&gt;3&lt;/sub&gt; Based &#8220;Hydronium-in-Salt&#8221; Acidic Electrolytes on Platinum Enables Electrochemical Nitrate Reduction</title>
       <link>https://doi.org/10.1021/jacs.4c13117</link>
       <description>Cheolmin Park, Min Young Seo, Taesung Kwon, Ji-Yoon Kim, Ki Min Nam, YongJoo Kim, Jinho Chang, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4405741914
@@ -466,6 +476,16 @@
       <author>Cheolmin Park, Min Young Seo, Taesung Kwon, Ji-Yoon Kim, Ki Min Nam, YongJoo Kim, Jinho Chang</author>
       <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c13117</guid>
+    </item>
+    <item>
+      <title>Unbiased dataset for methane dry reforming and catalyst design guidelines obtained by high-throughput experimentation and machine learning</title>
+      <link>https://doi.org/10.1016/j.jcat.2024.115930</link>
+      <description>Wentao Du, Patchanee Chammingkwan, Keisuke Takahashi, Toshiaki Taniike, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4405847595
+
+                No abstract</description>
+      <author>Wentao Du, Patchanee Chammingkwan, Keisuke Takahashi, Toshiaki Taniike</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115930</guid>
     </item>
     <item>
       <title>Machine learning prediction of materials properties from chemical composition: Status and prospects</title>

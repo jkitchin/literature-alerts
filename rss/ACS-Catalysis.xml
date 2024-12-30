@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 29 Dec 2024 01:27:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 01:23:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -246,6 +246,26 @@
       <author>Yawen Shi, Xinyong Diao, Na Ji, Hu Ding, Zongyang Ya, Dong Xu, Rui Wei, Kejiang Cao, Shengbo Zhang</author>
       <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06344</guid>
+    </item>
+    <item>
+      <title>Modulating the Selectivity of CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction by Regulating the Location of PtCu in a UiO-66@ZnIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; Core&#8211;Shell Nanoreactor</title>
+      <link>https://doi.org/10.1021/acscatal.4c05717</link>
+      <description>Zengrong Li, Peng Wang, Chun-Xia Ren, Linyi Wu, Yue Yao, Shuxian Zhong, Hongjun Lin, Leihong Zhao, Yijing Gao, Song Bai, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405853698
+
+                No abstract</description>
+      <author>Zengrong Li, Peng Wang, Chun-Xia Ren, Linyi Wu, Yue Yao, Shuxian Zhong, Hongjun Lin, Leihong Zhao, Yijing Gao, Song Bai</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05717</guid>
+    </item>
+    <item>
+      <title>Constructing Ordered Oxophilic Tin Sites on Platinum to Achieve a High-Performance and Anti-CO Poisoning Hydrogen Oxidation Reaction under an Alkaline Electrolyte</title>
+      <link>https://doi.org/10.1021/acscatal.4c06469</link>
+      <description>Chaoyi Yang, Guangqin Wang, Jianchao Yue, Zhifeng Dai, Wei Luo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405867615
+
+                No abstract</description>
+      <author>Chaoyi Yang, Guangqin Wang, Jianchao Yue, Zhifeng Dai, Wei Luo</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06469</guid>
     </item>
   </channel>
 </rss>

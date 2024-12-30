@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 29 Dec 2024 01:27:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 01:23:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Copper-cobalt diatomic bifunctional oxygen electrocatalysts based on three-dimensional porous nitrogen-doped carbon frameworks for high-performance zinc-air batteries</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.12.139</link>
-      <description>Zhaolei Ma, Ruoning Bai, Wei Yu, Guoxian Li, Chuizhou Meng, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4405669126
-
-                No abstract</description>
-      <author>Zhaolei Ma, Ruoning Bai, Wei Yu, Guoxian Li, Chuizhou Meng</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.12.139</guid>
-    </item>
-    <item>
-      <title>Mediation of Oxidation and Spin States of Fe/P&#8208;CoO&lt;sub&gt;2&lt;/sub&gt; Core&#8211;Shell Structures Catalysts for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/adfm.202418334</link>
-      <description>Hong Lv, Yuanfeng Gao, Dong&#8208;Sheng Li, Aimin Yu, Chenghua Sun, Cunman Zhang, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4405674625
-
-                Abstract Low&#8208;cost, high&#8208;performance oxygen evolution reaction (OER) catalysts are crucial for water electrolysis. Herein, the synthesis of low&#8208;cost Fe/P&#8208;CoO 2 amorphous catalyst is reported, achieving an ultralow overpotential of 260 mV at 10 mA cm &#8722;2 in 1 m KOH. Assembled Pt/C||Co 0.75 Fe 0.25 P/MWCNTs system affords a current density of 10 mA cm &#8722;2 at a cell voltage of only 1.53 V, which is much better than that of the benchmark Pt/C||RuO 2 system (1.62 V). Such performance lies ointhe electronic mediation of active sites with asymmetric Co&#8208; and Fe&#8208;coordination structures with different d&#8208;band occupancy. The combination of Fe&#8208;cationic and P&#8208;anionic coordination effectively optimizes the adsorption of OER intermediates (OH * , O * ), promoting direct O * &#9472;O * coupling and avoiding the formation of unstable OOH * intermediate. Benefiting from these advantages, Co 0.75 Fe 0.25 P/MWCNTs demonstrate excellent OER activity and stability, surpassing the benchmark RuO 2 . The proposed strategy presents a novel approach for the synthesis of cost&#8208;effective, highly efficient, and durable electrocatalysts for alkaline OER.</description>
-      <author>Hong Lv, Yuanfeng Gao, Dong&#8208;Sheng Li, Aimin Yu, Chenghua Sun, Cunman Zhang</author>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202418334</guid>
-    </item>
-    <item>
-      <title>Synergistic role of nickel-chromium heterogeneous selenides in the efficient stabilisation of the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.178250</link>
-      <description>Li Wang, Ruixue Sun, Ting Li, Si Hui, Haoyu Luo, Gang Lv, Jifang Fu, Li Wang, Zhiqin Peng, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4405679873
-
-                No abstract</description>
-      <author>Li Wang, Ruixue Sun, Ting Li, Si Hui, Haoyu Luo, Gang Lv, Jifang Fu, Li Wang, Zhiqin Peng</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.178250</guid>
-    </item>
-    <item>
-      <title>Optimizing CoFe2O4 coatings on nickel foam via Aerosol-Assisted CVD for superior electrochemical oxygen evolution Catalysis</title>
-      <link>https://doi.org/10.1016/j.jiec.2024.12.025</link>
-      <description>Muhammad Ali Ehsan, Faryal Aftab, Naseer Iqbal, Muhammad Younas, Journal of Industrial and Engineering Chemistry. None(None)] 2024. https://openalex.org/W4405680112
-
-                No abstract</description>
-      <author>Muhammad Ali Ehsan, Faryal Aftab, Naseer Iqbal, Muhammad Younas</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jiec.2024.12.025</guid>
-    </item>
-    <item>
-      <title>Phosphorus-doped nickel&#8211;cobalt layered hydroxide supported three-dimensional substrate as efficient oxygen evolution electrocatalyst</title>
-      <link>https://doi.org/10.1007/s42114-024-01164-2</link>
-      <description>Jingchun Zhang, Erin Weatherspoon, Abdullah Saad Alsubaie, Ethan Burcar, Ashley DeMerle, Zeinhom M. El&#8208;Bahy, Zhe Wang, Advanced Composites and Hybrid Materials. 8(1)] 2024. https://openalex.org/W4405684817
-
-                No abstract</description>
-      <author>Jingchun Zhang, Erin Weatherspoon, Abdullah Saad Alsubaie, Ethan Burcar, Ashley DeMerle, Zeinhom M. El&#8208;Bahy, Zhe Wang</author>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s42114-024-01164-2</guid>
-    </item>
     <item>
       <title>Two-dimensional amorphous iridium cobalt oxide for acidic oxygen evolution reaction</title>
       <link>https://doi.org/10.1039/d4cc05227g</link>
@@ -493,7 +443,7 @@
       <link>https://doi.org/10.1021/acsnano.4c11901</link>
       <description>Miao Chang, Fangyuan Cheng, Wen Zhang, Mengyi Liao, Qing Li, Chun Fang, Jiantao Han, ACS Nano. None(None)] 2024. https://openalex.org/W4405777139
 
-                Surface engineering is sought to stabilize nickel-rich layered oxide cathodes in high-energy-density lithium-ion batteries, which suffer from severe surface oxygen loss and rapid structure degradation, especially during deep delithiation at high voltages or high temperatures. Here, we propose a well-designed oxygen-constraining strategy to address the crisis of oxygen evolution. By integrating a La, Fe gradient diffusion layer and a LaFeO3 coating into the Ni-rich layered particles, along with incorporating an antioxidant binder into the electrodes, three progressive lines of defense are constructed: immobilizing the lattice oxygen at the subsurface, blocking the released oxygen at the interface, and capturing the residual singlet oxygen on the external surface. As a result, effective surface passivation, mitigated bulk and surface degradation, suppressed side reactions, and enhanced electrochemical performance are achieved, far beyond conventional single surface modification. The Ni-rich layered oxide cathodes with integrated oxygen-constraining modifications demonstrate impressive cycling stability in both half-cells and full cells, achieving stable long-term cycling even at a high cutoff voltage of 4.7 V and a high temperature of 45 &#176;C. This work provides a multilevel oxygen-constraining strategy, which can be extended to various layered oxide cathodes involving oxygen release challenges, providing an effective path for the development of high-energy-density lithium-ion batteries.</description>
+                Surface engineering is sought to stabilize nickel-rich layered oxide cathodes in high-energy-density lithium-ion batteries, which suffer from severe surface oxygen loss and rapid structure degradation, especially during deep delithiation at high voltages or high temperatures. Here, we propose a well-designed oxygen-constraining strategy to address the crisis of oxygen evolution. By integrating a La, Fe gradient diffusion layer and a LaFeO</description>
       <author>Miao Chang, Fangyuan Cheng, Wen Zhang, Mengyi Liao, Qing Li, Chun Fang, Jiantao Han</author>
       <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c11901</guid>
@@ -779,6 +729,46 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202402294</guid>
     </item>
     <item>
+      <title>Selective growth of graphdiyne-based vanadium&#8211;iridium oxide interfaces for efficient alkaline oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.chphma.2024.12.003</link>
+      <description>Yunhao Zheng, Yurui Xue, Yang Gao, Siao Chen, Si&#8211;Yi Chen, Yuliang Li, ChemPhysMater. None(None)] 2024. https://openalex.org/W4405854833
+
+                No abstract</description>
+      <author>Yunhao Zheng, Yurui Xue, Yang Gao, Siao Chen, Si&#8211;Yi Chen, Yuliang Li</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.chphma.2024.12.003</guid>
+    </item>
+    <item>
+      <title>Cation-Modulated Ni/Ni&lt;sub&gt;3&lt;/sub&gt;N Compound Heterojunctions as Highly Efficient Bifunctional Electrocatalysts for Water Splitting</title>
+      <link>https://doi.org/10.1021/acsami.4c15087</link>
+      <description>W. Z. Zhong, Qiming Sun, Lin Lv, Yong Han, Zhanghua Hong, Guohua Wang, Xiang Ao, Yuling Zhai, Tao Zhu, Xing Zhu, Hua Wang, Kongzhai Li, Zhishan Li, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4405863104
+
+                The exploration and rational design of high-performance, durable, and non-precious-metal bifunctional oxygen electrocatalysts are highly desired for the large-scale application of overall water splitting. Herein, an effective and straightforward coupling approach was developed to fabricate high-performance bifunctional OER/HER electrocatalysts based on core&#8211;shell nanostructure comprising a Ni/Ni3N core and a NiFe(OH)x shell. The as-prepared Ni/Ni3N@NiFe(OH)x-4 catalyst exhibited low overpotentials of 57 and 243 mV at 10 mA cm&#8211;2 for the HER and OER in 1.0 m KOH, respectively, superior to most bifunctional oxygen electrocatalysts reported so far. Compared to the unmodified Ni/Ni3N, the Ni/Ni3N@NiFe(OH)x-4 catalyst exhibited a 43.3-fold increase in mass activity for the OER and an 8.7-fold increase for the HER, as well as a 29.5-fold increase in intrinsic activity for the OER and a 2.6-fold increase for the HER. When employed as both the cathode and the anode of the electrolyzer for the overall water splitting reaction, its voltage was reduced to 1.58 V at 10 mA cm&#8211;2. This surface reconstruction method increased the electrochemically active surface area and enhanced the catalytic activity. Furthermore, in situ Raman spectroscopy revealed that the Fe etching reduced the onset potential for the active phase NiOOH, promoted its formation, and accelerated the reaction kinetics, thereby enhancing the overall electrocatalytic performance of the catalyst.</description>
+      <author>W. Z. Zhong, Qiming Sun, Lin Lv, Yong Han, Zhanghua Hong, Guohua Wang, Xiang Ao, Yuling Zhai, Tao Zhu, Xing Zhu, Hua Wang, Kongzhai Li, Zhishan Li</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c15087</guid>
+    </item>
+    <item>
+      <title>Partial etching of ZIF-67 nanosheets for the fabrication of S-FeOx/ZIF-67/NF electrodes enabling highly efficient oxygen evolution reaction at large current densities</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.12.402</link>
+      <description>Yun Wu, Jin-Wei Wang, Weiyi Zhang, Qiang Zhao, Jinping Li, Guang Liu, International Journal of Hydrogen Energy. 100(None)] 2024. https://openalex.org/W4405863970
+
+                No abstract</description>
+      <author>Yun Wu, Jin-Wei Wang, Weiyi Zhang, Qiang Zhao, Jinping Li, Guang Liu</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.402</guid>
+    </item>
+    <item>
+      <title>Author response for "Size-confined Co nanoparticles embedded in ultrathin carbon nanosheets for enhanced oxygen electrocatalysis in Zn-air batteries"</title>
+      <link>https://doi.org/10.1039/d4ta07845d/v2/response1</link>
+      <description>Yang Liu, Qi Yan, Fa-Yuan Ge, Xinde Duan, Tingting Wu, He&#8208;Gen Zheng, No host. None(None)] 2024. https://openalex.org/W4405864365
+
+                No abstract</description>
+      <author>Yang Liu, Qi Yan, Fa-Yuan Ge, Xinde Duan, Tingting Wu, He&#8208;Gen Zheng</author>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta07845d/v2/response1</guid>
+    </item>
+    <item>
       <title>Review for "Size-confined Co nanoparticles embedded in ultrathin carbon nanosheets for enhanced oxygen electrocatalysis in Zn-air batteries"</title>
       <link>https://doi.org/10.1039/d4ta07845d/v2/review1</link>
       <description>, No host. None(None)] 2024. https://openalex.org/W4405864375
@@ -787,6 +777,16 @@
       <author/>
       <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta07845d/v2/review1</guid>
+    </item>
+    <item>
+      <title>Enhanced Oxygen Evolution Reaction Performance of Cr-Cofe-Layered Double Hydroxide Via the Synergistic Roles of Fe Etching, Cr Doping, and Anion Intercalation</title>
+      <link>https://doi.org/10.2139/ssrn.5075155</link>
+      <description>Shuo Liu, Yufan Zhang, Ningzhao Shang, Anaclet Nsabimana, Huan Wang, No host. None(None)] 2024. https://openalex.org/W4405866980
+
+                No abstract</description>
+      <author>Shuo Liu, Yufan Zhang, Ningzhao Shang, Anaclet Nsabimana, Huan Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5075155</guid>
     </item>
     <item>
       <title>Electrolessly Deposited Cobalt&#8211;Phosphorus Coatings for Efficient Hydrogen and Oxygen Evolution Reactions</title>
@@ -843,7 +843,7 @@
       <link>https://doi.org/10.1002/chem.202403863</link>
       <description>Jala Bib Khan, Pradeep Kumar Panda, Pranjyan Dash, Chien&#8208;Te Hsieh, Chemistry - A European Journal. None(None)] 2024. https://openalex.org/W4405719634
 
-                Nano&#8208;sized high&#8208;entropy materials (HEMs) recently received more attention to researchers due to their superior electrochemical catalytic properties. HEMs comprise at least five elements with or without metals and are synthesized through solid&#8208;state reactions and solution&#8208;mediated techniques. The presence of many elements in these HEMs result in a high mixing entropy and facilitates the formation of stable solid solutions in fundamental crystal structures. Herein, Pt&#8208;free high&#8208;entropy alloys (HEAs) were synthesized through facile and straightforward pulse microwave (PM) synthesis technique, which serve as efficient electrochemical catalysts for the oxygen evolution reaction and oxygen reduction reaction. The PM synthesis method was conducted at an extremely low temperature (100 &#176;C) without any external catalytic reagents. Using this PM technique, Cr18.2Zr13.5Ti5.3Co17.8Ni8.4Cu8.5Fe28.3 and Al15.3Mn18.2Ti3.7Co23.2Ni5.9Cu5.9Fe27.8 HEAs catalysts were synthesized with superior catalytic activity towards OER and ORR and compare its activities with pure Pt catalysts. The as&#8208;prepared HEAs also display an anti&#8208;CO poisoning effect and long&#8208;term durability, as compared to pure Pt catalysts. The low&#8208;temperature PM approach not only confirms the feasibility of synthesis of noble metal&#8208;free HEAs but also validates their superior catalytic activity towards OER and ORR, which is beneficial for the development of proton exchange membrane fuel cells and proton exchange membrane water electrolysis.</description>
+                Nano-sized high-entropy materials (HEMs) recently received more attention to researchers due to their superior electrochemical catalytic properties. HEMs comprise at least five elements with or without metals and are synthesized through solid-state reactions and solution-mediated techniques. The presence of many elements in these HEMs result in a high mixing entropy and facilitates the formation of stable solid solutions in fundamental crystal structures. Herein, Pt-free high-entropy alloys (HEAs) were synthesized through facile and straightforward pulse microwave (PM) synthesis technique, which serve as efficient electrochemical catalysts for the oxygen evolution reaction and oxygen reduction reaction. The PM synthesis method was conducted at an extremely low temperature (100 &#176;C) without any external catalytic reagents. Using this PM technique, Cr18.2Zr13.5Ti5.3Co17.8Ni8.4Cu8.5Fe28.3 and Al15.3Mn18.2Ti3.7Co23.2Ni5.9Cu5.9Fe27.8 HEAs catalysts were synthesized with superior catalytic activity towards OER and ORR and compare its activities with pure Pt catalysts. The as-prepared HEAs also display an anti-CO poisoning effect and long-term durability, as compared to pure Pt catalysts. The low-temperature PM approach not only confirms the feasibility of synthesis of noble metal-free HEAs but also validates their superior catalytic activity towards OER and ORR, which is beneficial for the development of proton exchange membrane fuel cells and proton exchange membrane water electrolysis.</description>
       <author>Jala Bib Khan, Pradeep Kumar Panda, Pranjyan Dash, Chien&#8208;Te Hsieh</author>
       <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/chem.202403863</guid>
@@ -1080,6 +1080,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/s24248175</guid>
     </item>
     <item>
+      <title>Machine Learning Classification of Young Stellar Objects and Evolved Stars in the Magellanic Clouds Using the Probabilistic Random Forest Classifier</title>
+      <link>https://doi.org/10.52526/25792776-24.71.2-377</link>
+      <description>Sepideh Ghaziasgar, Mahdi Abdollahi, Atefeh Javadi, Jacco Th. van Loon, Iain McDonald, J. M. Oliveira, Habib G. Khosroshahi, Communications of the Byurakan Astrophysical Observatory. None(None)] 2024. https://openalex.org/W4405851336
+
+                The Magellanic Clouds (MCs) are excellent locations to study stellar dust emission and its contribution to galaxy evolution. Through spectral and photometric classification, MCs can serve as a unique environment for studying stellar evolution and galaxies enriched by dusty stellar point sources. We applied machine learning classifiers to spectroscopically labeled data from the Surveying the Agents of Galaxy Evolution (SAGE) project, which involved 12 multiwavelength filters and 618 stellar objects at the MCs. We classified stars into five categories: young stellar objects (YSOs), carbon-rich asymptotic giant branch (CAGB) stars, oxygen-rich AGB (OAGB) stars, red supergiants (RSG), and post-AGB (PAGB) stars. Following this, we augmented the distribution of imbalanced classes using the Synthetic Minority Oversampling Technique (SMOTE). Therefore, the Probabilistic Random Forest (PRF) classifier achieved the highest overall accuracy, reaching 89% based on the recall metric, in categorizing dusty stellar sources before and after data augmentation. In this study, SMOTE did not impact the classification accuracy for the CAGB, PAGB, and RSG categories but led to changes in the performance of the OAGB and YSO classes.</description>
+      <author>Sepideh Ghaziasgar, Mahdi Abdollahi, Atefeh Javadi, Jacco Th. van Loon, Iain McDonald, J. M. Oliveira, Habib G. Khosroshahi</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.52526/25792776-24.71.2-377</guid>
+    </item>
+    <item>
       <title>Cloud-scale elemental abundance variations and the CO-to-dust-mass
   conversion factor in M31</title>
       <link>https://doi.org/10.48550/arxiv.2412.16069</link>
@@ -1089,16 +1099,6 @@
       <author>Chloe Bosomworth, Jan Forbrich, C. J. Lada, Nelson Caldwell, Chiaki Kobayashi, S. Viaene</author>
       <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2412.16069</guid>
-    </item>
-    <item>
-      <title>Machine Learning Classification of Young Stellar Objects and Evolved Stars in the Magellanic Clouds Using the Probabilistic Random Forest Classifier</title>
-      <link>https://doi.org/10.52526/25792776-24.71.2-377</link>
-      <description>Sepideh Ghaziasgar, Mahdi Abdollahi, Atefeh Javadi, Jacco Th. van Loon, Iain McDonald, J. M. Oliveira, Habib G. Khosroshahi, Communications of the Byurakan Astrophysical Observatory. None(None)] 2024. https://openalex.org/W4405851336
-
-                The Magellanic Clouds (MCs) are excellent locations to study stellar dust emission and its contribution to galaxy evolution. Through spectral and photometric classification, MCs can serve as a unique environment for studying stellar evolution and galaxies enriched by dusty stellar point sources. We applied machine learning classifiers to spectroscopically labeled data from the Surveying the Agents of Galaxy Evolution (SAGE) project, which involved 12 multiwavelength filters and 618 stellar objects at the MCs. We classified stars into five categories: young stellar objects (YSOs), carbon-rich asymptotic giant branch (CAGB) stars, oxygen-rich AGB (OAGB) stars, red supergiants (RSG), and post-AGB (PAGB) stars. Following this, we augmented the distribution of imbalanced classes using the Synthetic Minority Oversampling Technique (SMOTE). Therefore, the Probabilistic Random Forest (PRF) classifier achieved the highest overall accuracy, reaching 89% based on the recall metric, in categorizing dusty stellar sources before and after data augmentation. In this study, SMOTE did not impact the classification accuracy for the CAGB, PAGB, and RSG categories but led to changes in the performance of the OAGB and YSO classes.</description>
-      <author>Sepideh Ghaziasgar, Mahdi Abdollahi, Atefeh Javadi, Jacco Th. van Loon, Iain McDonald, J. M. Oliveira, Habib G. Khosroshahi</author>
-      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.52526/25792776-24.71.2-377</guid>
     </item>
     <item>
       <title>Diverse Transient Chiral Dynamics in Evolutionary Distinct Photosynthetic Reaction Centers</title>
@@ -1121,6 +1121,16 @@
       <guid isPermaLink="true">https://doi.org/10.1063/5.0240023</guid>
     </item>
     <item>
+      <title>Oxidative Dissolution of Sulfide Minerals in Porous Media Under Evaporative Conditions: Multiphase Experiments and Process&#8208;Based Modeling</title>
+      <link>https://doi.org/10.1029/2024wr037317</link>
+      <description>Navid Ahmadi, Muhammad Muniruzzaman, Jacopo Cogorno, Massimo Rolle, Water Resources Research. 61(1)] 2024. https://openalex.org/W4405855142
+
+                Abstract The dissolution of sulfide minerals in subsurface porous media has important environmental implications. We investigate the oxidative dissolution of pyrite under evaporative conditions and advance a mechanistic understanding of the interactions between multiple physical processes and mineral/surface reactions. We performed a set of experiments in which initially water saturated and anoxic soil columns, containing a top layer of pyrite, are exposed to the atmosphere under no evaporation (single&#8208;phase) and natural evaporative (two&#8208;phase) conditions. The oxidative dissolution of pyrite was monitored by non&#8208;invasive high&#8208;resolution measurements of oxygen and pH. Additionally, we developed and applied a multiphase and multicomponent reactive transport model to quantitatively describe the experimental outcomes and elucidate the interplay between the physico&#8208;chemical mechanisms controlling the extent of pyrite dissolution. The results confirm that the extent of pyrite dissolution under single&#8208;phase conditions was constrained by the slow diffusive transport of oxygen in the liquid phase. In contrast, during evaporation, the evolution of fluid phases and interphase mass transfer processes imposed distinct physical constraints on the dynamics of pyrite oxidation. Initially, the invasion of the gaseous phase led to a fast delivery of high oxygen concentrations in the reactive zone and thus markedly increased pyrite oxidation and acidity/sulfate production. However, such enhanced release of reaction products was progressively limited over time as drying conditions prevailed in the reactive zone and inhibited pyrite oxidation. The transient phase displacement was also found to control the distribution of aqueous species and formation of secondary minerals by creating spatio&#8208;temporally variable redox conditions.</description>
+      <author>Navid Ahmadi, Muhammad Muniruzzaman, Jacopo Cogorno, Massimo Rolle</author>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1029/2024wr037317</guid>
+    </item>
+    <item>
       <title>Magma Ocean Evolution at Arbitrary Redox State</title>
       <link>https://doi.org/10.1029/2024je008576</link>
       <description>Harrison Nicholls, Tim Lichtenberg, Dan J. Bower, Raymond T. Pierrehumbert, Journal of Geophysical Research Planets. 129(12)] 2024. https://openalex.org/W4405736118
@@ -1129,6 +1139,16 @@
       <author>Harrison Nicholls, Tim Lichtenberg, Dan J. Bower, Raymond T. Pierrehumbert</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1029/2024je008576</guid>
+    </item>
+    <item>
+      <title>Novel Insights into Enhanced Stability of Li&#8208;Rich Layered and High&#8208;Voltage Olivine Phosphate Cathodes for Advanced Batteries through Surface Modification and Electron Structure Design</title>
+      <link>https://doi.org/10.1002/advs.202413054</link>
+      <description>Zhili Liang, Abdulaziz Baubaid, Mariusz Radtke, Maximilian Mellin, Cl&#233;ment Maheu, Sandipan Maiti, Hadar Sclar, Igor P&#237;&#353;, Silvia Nappini, Elena Magnano, Federica Bondino, Robert Winkler, Ren&#233; Hausbrand, Christian He&#223;, Lambert Alff, Boris Markovsky, Doron Aurbach, W. Jaegermann, Gennady Cherkashinin, Advanced Science. None(None)] 2024. https://openalex.org/W4405868339
+
+                Abstract The design of cathode/electrolyte interfaces in high&#8208;energy density Li&#8208;ion batteries is critical to protect the surface against undesirable oxygen release from the cathodes when batteries are charged to high voltage. However, the involvement of the engineered interface in the cationic and anionic redox reactions associated with (de&#8208;)lithiation is often ignored, mostly due to the difficulty to separate these processes from chemical/catalytic reactions at the cathode/electrolyte interface. Here, a new electron energy band diagrams concept is developed that includes the examination of the electrochemical&#8208; and ionization&#8208; potentials evolution upon batteries cycling. The approach enables to forecast the intrinsic stability of the cathodes and discriminate the reaction pathways associated with interfacial electronic charge&#8208;transfer mechanisms. Specifically, light is shed on the evolution of cationic and anionic redox in high&#8208;energy density lithium&#8208;rich 0.33Li 2 MnO 3 &#183;0.67LiNi 0.4 Co 0.2 Mn 0.4 O 2 (HE&#8208;NCM) cathodes, particularly those that undergo surface modification through SO 2 and NH 3 double&#8208;gas treatment to suppress the structural degradation. The chemical composition and energy distribution of the occupied and unoccupied electronic states at the different charging/discharging states are quantitatively estimated by using advanced spectroscopy techniques, including operando Raman spectroscopy. The concept is successfully demonstrated in designing artificial interfaces for high&#8208;voltage olivine structure cathodes enabling stable battery operation up to 5.1 V versus Li + /Li.</description>
+      <author>Zhili Liang, Abdulaziz Baubaid, Mariusz Radtke, Maximilian Mellin, Cl&#233;ment Maheu, Sandipan Maiti, Hadar Sclar, Igor P&#237;&#353;, Silvia Nappini, Elena Magnano, Federica Bondino, Robert Winkler, Ren&#233; Hausbrand, Christian He&#223;, Lambert Alff, Boris Markovsky, Doron Aurbach, W. Jaegermann, Gennady Cherkashinin</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/advs.202413054</guid>
     </item>
     <item>
       <title>Cluster Engineering in Water Catalytic Reactions: Synthesis, Structure&#8211;Activity Relationship and Mechanism</title>
@@ -1161,6 +1181,26 @@
       <guid isPermaLink="true">https://doi.org/10.3390/chemosensors13010001</guid>
     </item>
     <item>
+      <title>Size&#8208;adjustable High&#8208;Entropy Alloy Nanoparticles as an Efficient Platform for Electrocatalysis</title>
+      <link>https://doi.org/10.1002/anie.202423765</link>
+      <description>Huizhu Cai, Hengpan Yang, Shijie He, Da Ping Wan, Deliang Li, Xingxing Jiang, Xue Zhang, Qi Hu, Chuanxin He, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4405858797
+
+                The high entropy alloy (HEA) possesses distinctive thermal stability and electronic characteristics, which exhibits substantial potential for diverse applications in electrocatalytic reactions. However, accurately controlling the size of HEA still remains a challenge, especially for the ultrasmall HEA nanoparticles. Herein, we firstly calculate and illustrate the size impact on the electronic structure of HEA and the adsorption energies of crucial intermediates in typical electrocatalytic reactions, such as the hydrogen evolution reaction (HER), oxygen reduction reaction (ORR), CO2 electroreduction (CO2RR) and NO3&#8211; electroreduction (NO3RR). Under the guidance of theoretical calculations, we synthesize a range of ultrasmall PtRuPdCoNi HEA nanoparticles with adjustable sizes (1.7, 2.3, 3.0, and 3.9 nm) using a one&#8208;step spatially confined approach. Specifically, HEA nanoparticles with 1.7 nm size (HEA&#8208;1.7) endows a 16 mV overpotential at current density of 10 mA cm&#8722;2, yielding a mass activity of 31.9 A mgNM&#8208;1 of noble metal in HER, significantly outperforming commercial Pt/C catalyst. This strategy can also be easily applicable to other reduction reactions attributed to the richness of metal components and size adjustability, presenting a promising platform for various electrocatalytic applications as advanced catalysts.</description>
+      <author>Huizhu Cai, Hengpan Yang, Shijie He, Da Ping Wan, Deliang Li, Xingxing Jiang, Xue Zhang, Qi Hu, Chuanxin He</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202423765</guid>
+    </item>
+    <item>
+      <title>Size&#8208;adjustable High&#8208;Entropy Alloy Nanoparticles as an Efficient Platform for Electrocatalysis</title>
+      <link>https://doi.org/10.1002/ange.202423765</link>
+      <description>Huizhu Cai, Hengpan Yang, Shijie He, Da Ping Wan, Deliang Li, Xingxing Jiang, Xue Zhang, Qi Hu, Chuanxin He, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4405858796
+
+                The high entropy alloy (HEA) possesses distinctive thermal stability and electronic characteristics, which exhibits substantial potential for diverse applications in electrocatalytic reactions. However, accurately controlling the size of HEA still remains a challenge, especially for the ultrasmall HEA nanoparticles. Herein, we firstly calculate and illustrate the size impact on the electronic structure of HEA and the adsorption energies of crucial intermediates in typical electrocatalytic reactions, such as the hydrogen evolution reaction (HER), oxygen reduction reaction (ORR), CO2 electroreduction (CO2RR) and NO3&#8211; electroreduction (NO3RR). Under the guidance of theoretical calculations, we synthesize a range of ultrasmall PtRuPdCoNi HEA nanoparticles with adjustable sizes (1.7, 2.3, 3.0, and 3.9 nm) using a one&#8208;step spatially confined approach. Specifically, HEA nanoparticles with 1.7 nm size (HEA&#8208;1.7) endows a 16 mV overpotential at current density of 10 mA cm&#8722;2, yielding a mass activity of 31.9 A mgNM&#8208;1 of noble metal in HER, significantly outperforming commercial Pt/C catalyst. This strategy can also be easily applicable to other reduction reactions attributed to the richness of metal components and size adjustability, presenting a promising platform for various electrocatalytic applications as advanced catalysts.</description>
+      <author>Huizhu Cai, Hengpan Yang, Shijie He, Da Ping Wan, Deliang Li, Xingxing Jiang, Xue Zhang, Qi Hu, Chuanxin He</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202423765</guid>
+    </item>
+    <item>
       <title>3.08 billion-year-old crustal differentiation constrained by Sn and O isotopes of detrital cassiterite</title>
       <link>https://doi.org/10.1038/s43247-024-01971-x</link>
       <description>Ding-Yi Xiong, Xiao&#8208;Lei Wang, Axel Hofmann, Weiqiang Li, Rongqing Zhang, Teimoor Nazari-Dehkordi, Yue Guan, Shichao An, Communications Earth &amp; Environment. 5(1)] 2024. https://openalex.org/W4405701609
@@ -1169,36 +1209,6 @@
       <author>Ding-Yi Xiong, Xiao&#8208;Lei Wang, Axel Hofmann, Weiqiang Li, Rongqing Zhang, Teimoor Nazari-Dehkordi, Yue Guan, Shichao An</author>
       <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s43247-024-01971-x</guid>
-    </item>
-    <item>
-      <title>Genetic Warfare: The Plant Genome's Role in Fending Off Insect Invaders</title>
-      <link>https://doi.org/10.1002/arch.70021</link>
-      <description>Aleena Alam, Sohail Abbas, Noman Waheed, Arzlan Abbas, Weibo Qin, Jingxuan Huang, Khalid Ali Khan, Hamed A. Ghramh, Jamin Ali, Ri-Zhao Chen, Archives of Insect Biochemistry and Physiology. 117(4)] 2024. https://openalex.org/W4405826247
-
-                ABSTRACT The plant defense against insects is multiple layers of interactions. They defend through direct defense and indirect defense. Direct defenses include both physical and chemical barriers that hinder insect growth, development, and reproduction. In contrast, indirect defenses do not affect insects directly but instead suppress them by releasing volatile compounds that attract the natural enemies of herbivores. Insects overcome plant defenses by deactivating biochemical defenses, suppressing defense signaling through effectors, and altering their behavior through chemical regulation. There is always a genetic war between plants and insects. In this genetic war, plant&#8211;insect co&#8208;evolution act as both weapons and messengers. Because plants always look for new strategies to avoid insects by developing adaptation. There are molecular processes that regulate the interaction between plants and insect. Here, we examine the genes and proteins involved in plant&#8211;insect interactions and explore how their discovery has shaped the current model of the plant genome's role. Plants detect damage&#8208;associated and herbivore&#8208;associated molecular patterns through receptors, which trigger early signaling pathways involving Ca 2+ , reactive oxygen species, and MAP kinases. The specific defense mechanisms are activated through gene signaling pathways, including phytohormones, secondary metabolites, and transcription factors. Expanding plant genome approaches to unexplored dimensions in fending off insects should be a future priority in order to develop management strategies.</description>
-      <author>Aleena Alam, Sohail Abbas, Noman Waheed, Arzlan Abbas, Weibo Qin, Jingxuan Huang, Khalid Ali Khan, Hamed A. Ghramh, Jamin Ali, Ri-Zhao Chen</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/arch.70021</guid>
-    </item>
-    <item>
-      <title>Conduction Band and Defect Engineering for the Prominent Visible&#8208;Light Responsive Photocatalysts</title>
-      <link>https://doi.org/10.1002/anie.202419624</link>
-      <description>Akira Yamakata, Kosaku Kato, T. Ogawa, Kanta Ogawa, Makoto Ogawa, Daichi Kato, Chengchao Zhong, Akihide Kuwabara, Ryu Abe, Hiroshi Kageyama, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4405705834
-
-                Controlling trap depth is crucial to improve photocatalytic activity, but designing such crystal structures has been challenging. In this study, we discovered that in 2D materials like BiOCl and Bi4NbO8Cl, composed of interleaved [Bi2O2]2+ and Cl- slabs, the trap depth can be controlled by manipulating the slab stacking structure. In BiOCl, oxygen vacancies (VO) create deep electron traps, while chlorine vacancies (VCl) produce shallow traps. The depth is determined by the coordination around anion vacancies: VO forms strong &#963; bonds with Bi-6p dangling bonds below the conduction band minimum (CBM), while those around Cl are parallel, forming weak &#960;-bonding. The strong re-hybridization makes the trap depth deeper. In Bi4NbO8Cl, VCl also creates shallow traps, but VO does not produce deep traps although Bi-6p orbitals are also forming strong &#963; bonding. This difference is attributed to the difference of energy level of CBM. In both cases, CBM consists of Bi-6p orbitals extending into the Cl layers. However, these orbitals are isolated in BiOCl, but those in Bi4NbO8Cl are bonded with each other between neighboring [Bi2O2]2+ layers. This unique bonding-based CBM prevents the formation of deep electron traps, and significantly enhances H2 evolution activity by prolonging lifetime of highly reactive free electrons.</description>
-      <author>Akira Yamakata, Kosaku Kato, T. Ogawa, Kanta Ogawa, Makoto Ogawa, Daichi Kato, Chengchao Zhong, Akihide Kuwabara, Ryu Abe, Hiroshi Kageyama</author>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202419624</guid>
-    </item>
-    <item>
-      <title>Effect of pressurization on bubble dynamics of photoelectrochemical water splitting</title>
-      <link>https://doi.org/10.1063/5.0237629</link>
-      <description>Xinyi Luo, Qiang Xu, Tengfei Nie, Yonglu She, Liejin Guo, Physics of Fluids. 36(12)] 2024. https://openalex.org/W4405734653
-
-                Energy consumption of hydrogen production significantly restricts the practical application of photoelectrochemical (PEC) water splitting technology for hydrogen production, despite its vital role in addressing the energy crisis. The direct high-pressure hydrogen production technology holds promise for reducing production costs and streamlining the overall process. This paper delved into the study of bubble dynamic characteristics of PEC water splitting reaction under elevated pressure operations by coupling a photoelectrochemical system with a high-speed microscopic camera. The results prove that the bubble growth behaviors are pressure-dependent. Pressurization leads to the simultaneous evolution of multiple bubbles along with bubble slip and coalescence on the photoelectrode surface. And the bubble detachment diameter and growth period are significantly reduced, suggesting that increasing pressure is conducive to promoting bubble detachment. Analysis of the results of linear sweep voltammetry and Tafel slope shows that elevated pressure leads to more challenging bubble nucleation. Furthermore, the time coefficient and growth coefficient of the bubble growth stage are computed, revealing that the diffusion-controlled stage dominates the bubble growth process post-pressurization. A force balance model is constructed in the initial process of bubble rising, and it is found that the terminal rise velocity of bubbles decreases when pressure increases. The effect of pressure on gas density was considered to calculate the gas production rate by bubble volume and growth period, discovering that the proportion of gas products in the form of dissolved oxygen in the liquid increases significantly under high pressure.</description>
-      <author>Xinyi Luo, Qiang Xu, Tengfei Nie, Yonglu She, Liejin Guo</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0237629</guid>
     </item>
     <item>
       <title>Producing type Ia supernovae from hybrid CONe white dwarfs with main-sequence binary companions at low metallicity of Z = 0.0001</title>
@@ -1221,14 +1231,54 @@
       <guid isPermaLink="true">https://doi.org/10.20944/preprints202412.2056.v1</guid>
     </item>
     <item>
-      <title>Defect Engineering of Metal&#8208;Based Atomically Thin Materials for Catalyzing Small&#8208;Molecule Conversion Reactions</title>
-      <link>https://doi.org/10.1002/adma.202416483</link>
-      <description>Juanjuan Huo, Yuhai Dou, Chao Wu, Huakun Liu, Shixue Dou, Ding Yuan, Advanced Materials. None(None)] 2024. https://openalex.org/W4405675507
+      <title>Genetic Warfare: The Plant Genome's Role in Fending Off Insect Invaders</title>
+      <link>https://doi.org/10.1002/arch.70021</link>
+      <description>Aleena Alam, Sohail Abbas, Noman Waheed, Arzlan Abbas, Weibo Qin, Jingxuan Huang, Khalid Ali Khan, Hamed A. Ghramh, Jamin Ali, Ri-Zhao Chen, Archives of Insect Biochemistry and Physiology. 117(4)] 2024. https://openalex.org/W4405826247
 
-                Abstract Recently, metal&#8208;based atomically thin materials (M&#8208;ATMs) have experienced rapid development due to their large specific surface areas, abundant electrochemically accessible sites, attractive surface chemistry, and strong in&#8208;plane chemical bonds. These characteristics make them highly desirable for energy&#8208;related conversion reactions. However, the insufficient active sites and slow reaction kinetics leading to unsatisfactory electrocatalytic performance limited their commercial application. To address these issues, defect engineering of M&#8208;ATMs has emerged to increase the active sites, modify the electronic structure, and enhance the catalytic reactivity and stability. This review provides a comprehensive summary of defect engineering strategies for M&#8208;ATM nanostructures, including vacancy creation, heteroatom doping, amorphous phase/grain boundary generation, and heterointerface construction. Introducing recent advancements in the application of M&#8208;ATMs in electrochemical small molecule conversion reactions (e.g., hydrogen, oxygen, carbon dioxide, nitrogen, and sulfur), which can contribute to a circular economy by recycling molecules like H 2 , O 2 , CO 2 , N 2 , and S. Furthermore, a crucial link between the reconstruction of atomic&#8208;level structure and catalytic activity via analyzing the dynamic evolution of M&#8208;ATMs during the reaction process is established. The review also outlines the challenges and prospects associated with M&#8208;ATM&#8208;based catalysts to inspire further research efforts in developing high&#8208;performance M&#8208;ATMs.</description>
-      <author>Juanjuan Huo, Yuhai Dou, Chao Wu, Huakun Liu, Shixue Dou, Ding Yuan</author>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202416483</guid>
+                ABSTRACT The plant defense against insects is multiple layers of interactions. They defend through direct defense and indirect defense. Direct defenses include both physical and chemical barriers that hinder insect growth, development, and reproduction. In contrast, indirect defenses do not affect insects directly but instead suppress them by releasing volatile compounds that attract the natural enemies of herbivores. Insects overcome plant defenses by deactivating biochemical defenses, suppressing defense signaling through effectors, and altering their behavior through chemical regulation. There is always a genetic war between plants and insects. In this genetic war, plant&#8211;insect co&#8208;evolution act as both weapons and messengers. Because plants always look for new strategies to avoid insects by developing adaptation. There are molecular processes that regulate the interaction between plants and insect. Here, we examine the genes and proteins involved in plant&#8211;insect interactions and explore how their discovery has shaped the current model of the plant genome's role. Plants detect damage&#8208;associated and herbivore&#8208;associated molecular patterns through receptors, which trigger early signaling pathways involving Ca 2+ , reactive oxygen species, and MAP kinases. The specific defense mechanisms are activated through gene signaling pathways, including phytohormones, secondary metabolites, and transcription factors. Expanding plant genome approaches to unexplored dimensions in fending off insects should be a future priority in order to develop management strategies.</description>
+      <author>Aleena Alam, Sohail Abbas, Noman Waheed, Arzlan Abbas, Weibo Qin, Jingxuan Huang, Khalid Ali Khan, Hamed A. Ghramh, Jamin Ali, Ri-Zhao Chen</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/arch.70021</guid>
+    </item>
+    <item>
+      <title>Conduction Band and Defect Engineering for the Prominent Visible&#8208;Light Responsive Photocatalysts</title>
+      <link>https://doi.org/10.1002/anie.202419624</link>
+      <description>Akira Yamakata, Kosaku Kato, T. Ogawa, Kanta Ogawa, Makoto Ogawa, Daichi Kato, Chengchao Zhong, Akihide Kuwabara, Ryu Abe, Hiroshi Kageyama, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4405705834
+
+                Controlling trap depth is crucial to improve photocatalytic activity, but designing such crystal structures has been challenging. In this study, we discovered that in 2D materials like BiOCl and Bi4NbO8Cl, composed of interleaved [Bi2O2]2+ and Cl- slabs, the trap depth can be controlled by manipulating the slab stacking structure. In BiOCl, oxygen vacancies (VO) create deep electron traps, while chlorine vacancies (VCl) produce shallow traps. The depth is determined by the coordination around anion vacancies: VO forms strong &#963; bonds with Bi-6p dangling bonds below the conduction band minimum (CBM), while those around Cl are parallel, forming weak &#960;-bonding. The strong re-hybridization makes the trap depth deeper. In Bi4NbO8Cl, VCl also creates shallow traps, but VO does not produce deep traps although Bi-6p orbitals are also forming strong &#963; bonding. This difference is attributed to the difference of energy level of CBM. In both cases, CBM consists of Bi-6p orbitals extending into the Cl layers. However, these orbitals are isolated in BiOCl, but those in Bi4NbO8Cl are bonded with each other between neighboring [Bi2O2]2+ layers. This unique bonding-based CBM prevents the formation of deep electron traps, and significantly enhances H2 evolution activity by prolonging lifetime of highly reactive free electrons.</description>
+      <author>Akira Yamakata, Kosaku Kato, T. Ogawa, Kanta Ogawa, Makoto Ogawa, Daichi Kato, Chengchao Zhong, Akihide Kuwabara, Ryu Abe, Hiroshi Kageyama</author>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202419624</guid>
+    </item>
+    <item>
+      <title>Photocatalytic Oxidative Coupling of Methane to Ethane Using CO2 as a Soft Oxidant Over the Au/TiO2&#8208;Vo Nanosheets</title>
+      <link>https://doi.org/10.1002/ange.202414814</link>
+      <description>Mingyu Wu, Juncheng Zhu, Yang Wu, Siying Liu, Kai Zheng, Shumin Wang, Bangwang Li, Jing Li, Chengyuan Liu, Jun Hu, Junfa Zhu, Yongfu Sun, Yang Pan, Yi Xie, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4405868663
+
+                Herein, we first report a photocatalytic OCM using CO2 as a soft oxidant for C2H6 production under mild conditions, where an efficient photocatalyst with unique interface sites is constructed to facilitate CO2 adsorption and activation, while concurrently boosting CH4 dissociation. As a prototype, the Au quantum dots anchored on oxygen&#8208;deficient TiO2 nanosheets are fabricated, where the Au&#8208;Vo&#8208;Ti interface sites for CO2 adsorption and activation are collectively disclosed by in situ Kelvin probe force microscopy, quasi in situ X&#8208;ray photoelectron spectroscopy and theoretical calculations. Compared with single metal site, the Au&#8208;Vo&#8208;Ti interface sites exhibit the lower CO2 adsorption energy and decrease the energy barrier of the *CO2 hydrogenation step from 1.05 to 0.77 eV via Au&#8208;C and Ti&#8208;O dual&#8208;site bonding. The adsorbed CO2 reduces the energy barrier of *CH4 dissociation to *CH3 from 2.13 to 1.59 eV, contributing to CH4 oxidation. Additionally, in situ Fourier&#8208;transform infrared spectroscopy unveils the Au site facilitates ethane production by engaging in *CH3&#8208;Au interaction and accelerating CH3&#8208;CH3 coupling. Thus, the photocatalyst demonstrates a high C2H6 evolution rate of 2.60 mmol g&#8208;1 h&#8208;1 for OCM using CO2 as the soft oxidant, surpassing most of previously reported photocatalysts regardless of OCM and nonoxidative coupling of methane.</description>
+      <author>Mingyu Wu, Juncheng Zhu, Yang Wu, Siying Liu, Kai Zheng, Shumin Wang, Bangwang Li, Jing Li, Chengyuan Liu, Jun Hu, Junfa Zhu, Yongfu Sun, Yang Pan, Yi Xie</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202414814</guid>
+    </item>
+    <item>
+      <title>Effect of pressurization on bubble dynamics of photoelectrochemical water splitting</title>
+      <link>https://doi.org/10.1063/5.0237629</link>
+      <description>Xinyi Luo, Qiang Xu, Tengfei Nie, Yonglu She, Liejin Guo, Physics of Fluids. 36(12)] 2024. https://openalex.org/W4405734653
+
+                Energy consumption of hydrogen production significantly restricts the practical application of photoelectrochemical (PEC) water splitting technology for hydrogen production, despite its vital role in addressing the energy crisis. The direct high-pressure hydrogen production technology holds promise for reducing production costs and streamlining the overall process. This paper delved into the study of bubble dynamic characteristics of PEC water splitting reaction under elevated pressure operations by coupling a photoelectrochemical system with a high-speed microscopic camera. The results prove that the bubble growth behaviors are pressure-dependent. Pressurization leads to the simultaneous evolution of multiple bubbles along with bubble slip and coalescence on the photoelectrode surface. And the bubble detachment diameter and growth period are significantly reduced, suggesting that increasing pressure is conducive to promoting bubble detachment. Analysis of the results of linear sweep voltammetry and Tafel slope shows that elevated pressure leads to more challenging bubble nucleation. Furthermore, the time coefficient and growth coefficient of the bubble growth stage are computed, revealing that the diffusion-controlled stage dominates the bubble growth process post-pressurization. A force balance model is constructed in the initial process of bubble rising, and it is found that the terminal rise velocity of bubbles decreases when pressure increases. The effect of pressure on gas density was considered to calculate the gas production rate by bubble volume and growth period, discovering that the proportion of gas products in the form of dissolved oxygen in the liquid increases significantly under high pressure.</description>
+      <author>Xinyi Luo, Qiang Xu, Tengfei Nie, Yonglu She, Liejin Guo</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0237629</guid>
+    </item>
+    <item>
+      <title>Diagenesis and Reservoir Evolution of Low Permeability Sandstones: A Case Study of the Second Member of the Jurassic Sangonghe Formation, Central Junggar Basin, China</title>
+      <link>https://doi.org/10.1002/gj.5109</link>
+      <description>Zheng Cao, Hairuo Qing, Karem Azmy, Lei Zhang, Zhipeng Li, Shijie Zhu, Changcheng Han, Qing Wei, Nanxin Yin, Geological Journal. None(None)] 2024. https://openalex.org/W4405851920
+
+                ABSTRACT The low&#8208;permeability oil&#8208;bearing tuffaceous sandstones of the second member of the lower Jurassic Sangonghe Formation (J 1 s 2 ) in the Well Pen&#8208;1 west sag of the central Junggar Basin occur in a deep burial setting (&gt; 4000 m). They contain abundant oil and gas shows and hold promising exploration prospects. However, the reservoir heterogeneity is strong due to complex lithofacies and diagenesis, leading to significant productivity differences between adjacent wells. Therefore, identifying the lithofacies and diagenesis of the J 1 s 2 sandstones and elucidating their influence on the evolution of relatively high&#8208;quality reservoirs is of utmost importance for oil and gas exploration and development in this area. Samples from the Well Pen&#8208;1 west sag, representing the J 1 s 2 sandstones, were investigated utilising core and thin section observations, scanning electron microscopy, X&#8208;ray diffraction, fluid inclusions and carbon and oxygen isotope analyses. The J 1 s 2 sandstones are mainly medium&#8208; to fine&#8208;grained and moderate&#8208; to&#8208;well&#8208;sorted feldspathic litharenites and litharenites. The tuffaceous contents range from 2.6% to 25% and the authigenic clay contents, produced by diagenesis, range from 0.6% to 12%, although carbonate cements are not abundant (av. 3.1%). Four sandstone lithofacies have been identified based on mineral compositions, leading to variations in diagenetic evolution and reservoir quality. Early diagenetic events included compaction, alteration of tuffaceous matrix and feldspar, and development of smectite, chlorite, kaolinite and early calcite. Mesogenic alteration included feldspar and tuffaceous matrix dissolution, alteration of kaolinite, chlorite and illite, and precipitation of quartz, anhydrite, late calcite and ferrocalcite. The alteration of the tuffaceous matrix resulted in a complex pore&#8208;throat structure in the J 1 s 2 sandstones. The pebbly sandstone and conglomerate (SC) and fine&#8208;grained sandstone (Sm) lithofacies are generally characterised by high compaction resistance, low tuffaceous matrix and cement contents, and abundant secondary dissolution pores, and they exhibit better reservoir quality and great potential for oil and gas enrichment.</description>
+      <author>Zheng Cao, Hairuo Qing, Karem Azmy, Lei Zhang, Zhipeng Li, Shijie Zhu, Changcheng Han, Qing Wei, Nanxin Yin</author>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/gj.5109</guid>
     </item>
     <item>
       <title>Conduction Band and Defect Engineering for the Prominent Visible&#8208;Light Responsive Photocatalysts</title>
@@ -1271,34 +1321,14 @@
       <guid isPermaLink="true">https://doi.org/10.3986/ac.v53i2-3.13668</guid>
     </item>
     <item>
-      <title>Diagenesis and Reservoir Evolution of Low Permeability Sandstones: A Case Study of the Second Member of the Jurassic Sangonghe Formation, Central Junggar Basin, China</title>
-      <link>https://doi.org/10.1002/gj.5109</link>
-      <description>Zheng Cao, Hairuo Qing, Karem Azmy, Lei Zhang, Zhipeng Li, Shijie Zhu, Changcheng Han, Qing Wei, Nanxin Yin, Geological Journal. None(None)] 2024. https://openalex.org/W4405851920
+      <title>Photocatalytic Oxidative Coupling of Methane to Ethane Using CO2 as a Soft Oxidant Over the Au/TiO2&#8208;Vo Nanosheets</title>
+      <link>https://doi.org/10.1002/anie.202414814</link>
+      <description>Mingyu Wu, Juncheng Zhu, Yang Wu, Siying Liu, Kai Zheng, Shumin Wang, Bangwang Li, Jing Li, Chengyuan Liu, Jun Hu, Junfa Zhu, Yongfu Sun, Yang Pan, Yi Xie, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4405868349
 
-                ABSTRACT The low&#8208;permeability oil&#8208;bearing tuffaceous sandstones of the second member of the lower Jurassic Sangonghe Formation (J 1 s 2 ) in the Well Pen&#8208;1 west sag of the central Junggar Basin occur in a deep burial setting (&gt; 4000 m). They contain abundant oil and gas shows and hold promising exploration prospects. However, the reservoir heterogeneity is strong due to complex lithofacies and diagenesis, leading to significant productivity differences between adjacent wells. Therefore, identifying the lithofacies and diagenesis of the J 1 s 2 sandstones and elucidating their influence on the evolution of relatively high&#8208;quality reservoirs is of utmost importance for oil and gas exploration and development in this area. Samples from the Well Pen&#8208;1 west sag, representing the J 1 s 2 sandstones, were investigated utilising core and thin section observations, scanning electron microscopy, X&#8208;ray diffraction, fluid inclusions and carbon and oxygen isotope analyses. The J 1 s 2 sandstones are mainly medium&#8208; to fine&#8208;grained and moderate&#8208; to&#8208;well&#8208;sorted feldspathic litharenites and litharenites. The tuffaceous contents range from 2.6% to 25% and the authigenic clay contents, produced by diagenesis, range from 0.6% to 12%, although carbonate cements are not abundant (av. 3.1%). Four sandstone lithofacies have been identified based on mineral compositions, leading to variations in diagenetic evolution and reservoir quality. Early diagenetic events included compaction, alteration of tuffaceous matrix and feldspar, and development of smectite, chlorite, kaolinite and early calcite. Mesogenic alteration included feldspar and tuffaceous matrix dissolution, alteration of kaolinite, chlorite and illite, and precipitation of quartz, anhydrite, late calcite and ferrocalcite. The alteration of the tuffaceous matrix resulted in a complex pore&#8208;throat structure in the J 1 s 2 sandstones. The pebbly sandstone and conglomerate (SC) and fine&#8208;grained sandstone (Sm) lithofacies are generally characterised by high compaction resistance, low tuffaceous matrix and cement contents, and abundant secondary dissolution pores, and they exhibit better reservoir quality and great potential for oil and gas enrichment.</description>
-      <author>Zheng Cao, Hairuo Qing, Karem Azmy, Lei Zhang, Zhipeng Li, Shijie Zhu, Changcheng Han, Qing Wei, Nanxin Yin</author>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/gj.5109</guid>
-    </item>
-    <item>
-      <title>Reply on RC2</title>
-      <link>https://doi.org/10.5194/egusphere-2024-3052-ac1</link>
-      <description>Fatemeh Ajallooeian, No host. None(None)] 2024. https://openalex.org/W4405682918
-
-                Abstract. Developing reliable methods for quantifying past temperature changes is essential for understanding Earth's climate evolution and predicting future climatic shifts. The degree of methylation of branched tetraethers (MBT&#8217;5ME), of branched glycerol dialkyl glycerol tetraethers (brGDGTs), a group of bacterial membrane lipids, has become a widely accepted tool for lacustrine paleothermometry. To allow this, an empirical calibration was developed, based on MBT&#8217;5ME values of surface sediments across large spatial scales. As these sediments integrate variability across several years to decades, the sensitivity of MBT&#8217;5ME to seasonal and short-term environmental changes in the water column remains underexplored. Here, we present a record of brGDGTs in suspended particulate matter (SPM) from a monomictic, eutrophic temperate lake (Rotsee, Switzerland) over a 10-month period, examining both core lipids and intact polar lipids. Rotsee offers an ideal setting for this study due to its strong seasonal variations in temperature, conductivity, and dissolved oxygen caused by summer warming and associated stratification. In the oxic epilimnion, a minor increase in MBT'5ME during stratified summer months was caused by a rise in brGDGT Ia concentration. A similar increase in concentration of 6-methyl brGDGTs indicates a sensitivity to water temperature. In the seasonally anoxic hypolimnion, MBT'5ME correlated with water pH rather than temperature, suggesting that water chemistry influences this ratio, complicating its use as a temperature proxy. The production of intact polar lipid (IPL) tetraethers was observed exclusively in the anoxic hypolimnion during stratification, confirming anoxia as a key trigger for IPL tetraether production. Surface sediment samples along a depth gradient have a distinct depth-dependent distribution. Sediments below the oxic water column showed lower MBT'5ME values, likely due to the sedimentary production of brGDGTs IIa and IIIa. Sediments from seasonally anoxic areas reflected average epilimnion SPM values, suggesting the deposition of epilimnion brGDGTs into the sediments. This study of brGDGTs in Rotsee SPM and sediments thus indicates that temperature, pH and oxygen concentration impact GDGT distribution, with significant implications for using MBT'5ME as a temperature proxy in sediments from stratified lakes.</description>
-      <author>Fatemeh Ajallooeian</author>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-3052-ac1</guid>
-    </item>
-    <item>
-      <title>Reply on RC1</title>
-      <link>https://doi.org/10.5194/egusphere-2024-3052-ac2</link>
-      <description>Fatemeh Ajallooeian, No host. None(None)] 2024. https://openalex.org/W4405682870
-
-                Abstract. Developing reliable methods for quantifying past temperature changes is essential for understanding Earth's climate evolution and predicting future climatic shifts. The degree of methylation of branched tetraethers (MBT&#8217;5ME), of branched glycerol dialkyl glycerol tetraethers (brGDGTs), a group of bacterial membrane lipids, has become a widely accepted tool for lacustrine paleothermometry. To allow this, an empirical calibration was developed, based on MBT&#8217;5ME values of surface sediments across large spatial scales. As these sediments integrate variability across several years to decades, the sensitivity of MBT&#8217;5ME to seasonal and short-term environmental changes in the water column remains underexplored. Here, we present a record of brGDGTs in suspended particulate matter (SPM) from a monomictic, eutrophic temperate lake (Rotsee, Switzerland) over a 10-month period, examining both core lipids and intact polar lipids. Rotsee offers an ideal setting for this study due to its strong seasonal variations in temperature, conductivity, and dissolved oxygen caused by summer warming and associated stratification. In the oxic epilimnion, a minor increase in MBT'5ME during stratified summer months was caused by a rise in brGDGT Ia concentration. A similar increase in concentration of 6-methyl brGDGTs indicates a sensitivity to water temperature. In the seasonally anoxic hypolimnion, MBT'5ME correlated with water pH rather than temperature, suggesting that water chemistry influences this ratio, complicating its use as a temperature proxy. The production of intact polar lipid (IPL) tetraethers was observed exclusively in the anoxic hypolimnion during stratification, confirming anoxia as a key trigger for IPL tetraether production. Surface sediment samples along a depth gradient have a distinct depth-dependent distribution. Sediments below the oxic water column showed lower MBT'5ME values, likely due to the sedimentary production of brGDGTs IIa and IIIa. Sediments from seasonally anoxic areas reflected average epilimnion SPM values, suggesting the deposition of epilimnion brGDGTs into the sediments. This study of brGDGTs in Rotsee SPM and sediments thus indicates that temperature, pH and oxygen concentration impact GDGT distribution, with significant implications for using MBT'5ME as a temperature proxy in sediments from stratified lakes.</description>
-      <author>Fatemeh Ajallooeian</author>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-3052-ac2</guid>
+                Herein, we first report a photocatalytic OCM using CO2 as a soft oxidant for C2H6 production under mild conditions, where an efficient photocatalyst with unique interface sites is constructed to facilitate CO2 adsorption and activation, while concurrently boosting CH4 dissociation. As a prototype, the Au quantum dots anchored on oxygen&#8208;deficient TiO2 nanosheets are fabricated, where the Au&#8208;Vo&#8208;Ti interface sites for CO2 adsorption and activation are collectively disclosed by in situ Kelvin probe force microscopy, quasi in situ X&#8208;ray photoelectron spectroscopy and theoretical calculations. Compared with single metal site, the Au&#8208;Vo&#8208;Ti interface sites exhibit the lower CO2 adsorption energy and decrease the energy barrier of the *CO2 hydrogenation step from 1.05 to 0.77 eV via Au&#8208;C and Ti&#8208;O dual&#8208;site bonding. The adsorbed CO2 reduces the energy barrier of *CH4 dissociation to *CH3 from 2.13 to 1.59 eV, contributing to CH4 oxidation. Additionally, in situ Fourier&#8208;transform infrared spectroscopy unveils the Au site facilitates ethane production by engaging in *CH3&#8208;Au interaction and accelerating CH3&#8208;CH3 coupling. Thus, the photocatalyst demonstrates a high C2H6 evolution rate of 2.60 mmol g&#8208;1 h&#8208;1 for OCM using CO2 as the soft oxidant, surpassing most of previously reported photocatalysts regardless of OCM and nonoxidative coupling of methane.</description>
+      <author>Mingyu Wu, Juncheng Zhu, Yang Wu, Siying Liu, Kai Zheng, Shumin Wang, Bangwang Li, Jing Li, Chengyuan Liu, Jun Hu, Junfa Zhu, Yongfu Sun, Yang Pan, Yi Xie</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202414814</guid>
     </item>
     <item>
       <title>Synergistic Effects of Ruthenium and Zinc Active Sites Fine Tune the Electronic Structures of Augmented Electrocatalysis</title>
@@ -1319,6 +1349,16 @@
       <author>Melanie A. McNally, Lauren A. Lau, Simon Granak, David Hike, Xiaochen Liu, Xin Yu, Rachel Donahue, Lori B. Chibnik, J Ortiz, Alicia Che, Frances J. Northington, Kevin J. Staley</author>
       <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1101/2024.12.19.629457</guid>
+    </item>
+    <item>
+      <title>High-Throughput Exploration of Ti&#8211;V&#8211;Nb&#8211;Mo Carbide MXenes Using Neural Network Potentials and Their Evaluation as Catalysts for Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acsami.4c16965</link>
+      <description>Mohammed Wasay Mudassir, Sriram Goverapet Srinivasan, Mahesh Mynam, Beena Rai, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4405860570
+
+                Realization of a sustainable hydrogen economy in the future requires the development of efficient and cost-effective catalysts for its production at scale. MXenes (Mn+1Xn) are a class of 2D materials with 'n' layers of carbon or nitrogen (X) interleaved by 'n+1' layers of transition metal (M) and have emerged as promising materials for various applications including catalysts for hydrogen evolution reaction (HER). Their properties are intimately related to both their composition and their atomic structure. Recently, high entropy MXenes were synthesized, opening a vast compositional space of potentially stable and functionally superior materials. Detailed atomistic modeling enables us to systematically explore this extensive design space, which is otherwise infeasible in experiments. We have developed a Neural Network Potential (NNP) to model (TixVyNbzMop)n+1Cn MXenes (x+y+z+p = 1; n = 1,2,3) by training against Density Functional Theory (DFT) data in an active learning fashion. We then used the developed NNP to perform hybrid Monte Carlo-Molecular Dynamics (MC-MD) simulations to identify thermodynamically stable compositions and investigate the relative arrangement of transition metal atoms within and across layers. Thermodynamic stability increased with Mo content and its presence on the surface layer. We further investigated the catalytic performance of stable MXenes for the HER and observed that the center of the oxygen p-band (&#949;p) correlated well with the energy of adsorption of a hydrogen atom &#916;G(*H). Subsurface metal atoms significantly influenced the &#916;G(*H) values at the surface via both ligand and strain effects. Our work expands the space of potentially stable MXene compositions, providing targets for synthesis and their evaluation in various applications.</description>
+      <author>Mohammed Wasay Mudassir, Sriram Goverapet Srinivasan, Mahesh Mynam, Beena Rai</author>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c16965</guid>
     </item>
     <item>
       <title>IL-1&#946; primed mesenchymal stromal cells moderate hemorrhagic shock-induced vascular permeability</title>
