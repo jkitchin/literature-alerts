@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 30 Dec 2024 01:23:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 01:20:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>The influence of multiple factors on the PtCo3 catalyst characteristics during the ORR process in proton exchange membrane fuel cells</title>
-      <link>https://doi.org/10.1016/j.renene.2024.122263</link>
-      <description>Chuanqi Luo, Kechuang Wan, Jue Wang, Bing Li, Daijun Yang, Pingwen Ming, Cunman Zhang, Renewable Energy. None(None)] 2024. https://openalex.org/W4405695428
-
-                No abstract</description>
-      <author>Chuanqi Luo, Kechuang Wan, Jue Wang, Bing Li, Daijun Yang, Pingwen Ming, Cunman Zhang</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.renene.2024.122263</guid>
-    </item>
     <item>
       <title>Wannier-function software ecosystem for materials simulations</title>
       <link>https://doi.org/10.1103/revmodphys.96.045008</link>
@@ -466,6 +456,66 @@
       <author>Na Li, Tingting Ma, Huihui Wang, Jiayi Li, D.L. Qiu, Zhen Meng, Jiangdu Huang, Lijun Sui, Faming Han, Huidan Lu, Yongping Liu, Sundaram Chandrasekaran</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.12.021</guid>
+    </item>
+    <item>
+      <title>Construction and structural activities of single-, dual-, and triple-phase nickel phosphides for hydrogen evolution reaction in acidic and alkaline media</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.12.388</link>
+      <description>Abebe Reda Woldu, Jintao Zhang, Rui Li, Zanling Huang, Zhiyuan Wang, J. Li, Guo-Ling Li, Liangsheng Hu, International Journal of Hydrogen Energy. 100(None)] 2024. https://openalex.org/W4405870576
+
+                No abstract</description>
+      <author>Abebe Reda Woldu, Jintao Zhang, Rui Li, Zanling Huang, Zhiyuan Wang, J. Li, Guo-Ling Li, Liangsheng Hu</author>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.388</guid>
+    </item>
+    <item>
+      <title>Spin-polarized binuclear transition metal doping on g-C&#8323;N&#8324; for photocatalytic CO&#8322; reduction to C2 products: A DFT study</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114798</link>
+      <description>Xiaoyi Hu, Qingyu Li, Weiguo Li, Yixin Deng, Diwen Liu, Yanjie Zhang, Rusheng Yuan, Zuju Ma, Jiming Zhang, Rongjian Sa, Molecular Catalysis. 572(None)] 2024. https://openalex.org/W4405876574
+
+                No abstract</description>
+      <author>Xiaoyi Hu, Qingyu Li, Weiguo Li, Yixin Deng, Diwen Liu, Yanjie Zhang, Rusheng Yuan, Zuju Ma, Jiming Zhang, Rongjian Sa</author>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114798</guid>
+    </item>
+    <item>
+      <title>Design and Synthesis of PtPdNiCoMn High&#8208;Entropy Alloy Electrocatalyst for Enhanced Alkaline Hydrogen Evolution Reaction: A Theoretically Supported Predictive Design Approach</title>
+      <link>https://doi.org/10.1002/adfm.202418644</link>
+      <description>Athira Chandran M, Pritha Dutta, Prashant Singh, Ashutosh K. Singh, B. L. V. Prasad, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4405879984
+
+                Abstract Electrocatalytic hydrogen generation requires a cutting&#8208;edge, multifunctional electrocatalyst with abundant active sites to drive multielectron transfer reactions. High entropy alloys (HEA) are complex five or more&#8208;element alloy systems with high configurational entropy which makes them unique materials for next&#8208;generation electrocatalysts. Here, in this work, based on new screening guidelines for catalyst selections that combine density&#8208;functional theory calculated Gibbs formation&#8208;enthalpy with bond length and electronegativity variance, a novel HEA electrocatalyst consisting of five elements, namely, Pt, Pd, Ni, Co, and Mn is designed. By simple room temperature electrodeposition, the designed catalyst is prepared and its hydrogen evolution reaction (HER) is explored and validated through experimental and theoretical approaches. The HEA demonstrated a superior HER activity with an overpotential of 22.6 mV at &#8722;10 mA cm &#8722;2 which outperforms Pt/C commercial catalyst. No evident degradation of the material is detected even after 100 hours of continuous operation under high current density. Moreover, the HEA has shown exceptional performance in harsh electrolyte conditions such as in simulated seawater and actual seawater. Remarkably, the density&#8208;functional theory calculated small Gibbs formation&#8208;enthalpy (&#8776;0 eV) compared to Pt/C places the new HEA near the apex of Trasatti's model of Volcano plot, which is also suggestive of superior HER activity.</description>
+      <author>Athira Chandran M, Pritha Dutta, Prashant Singh, Ashutosh K. Singh, B. L. V. Prasad</author>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202418644</guid>
+    </item>
+    <item>
+      <title>A DFT study on the structural properties and CO2 electrocatalytic reduction activity of monolayer graphitic carbon nitride supported Ag/Au single atom catalysts</title>
+      <link>https://doi.org/10.1016/j.susc.2024.122692</link>
+      <description>Hui-Ling Shui, G. S. Li, Chao Fu, Dong-Heng Li, Xiaoqin Liang, Kai Li, Laicai Li, Yan Zheng, Surface Science. None(None)] 2024. https://openalex.org/W4405882115
+
+                No abstract</description>
+      <author>Hui-Ling Shui, G. S. Li, Chao Fu, Dong-Heng Li, Xiaoqin Liang, Kai Li, Laicai Li, Yan Zheng</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122692</guid>
+    </item>
+    <item>
+      <title>Efficient Bifunctional Electrocatalysts for Oxygen Evolution/Reduction Reactions in Two-Dimensional Metal&#8211;Organic Frameworks by a Constant Potential Method</title>
+      <link>https://doi.org/10.1021/acs.langmuir.4c04034</link>
+      <description>Jin Yu, Tianyun Liu, Xuefei Liu, Wei Deng, Wenjun Xiao, Yaqiong Su, Xiaosi Qi, Gang Wang, Degui Wang, Mingqiang Liu, Wu Yan, Abuduwayiti Aierken, Xuan Chen, Xu Wang, Changsong Gao, Hui Xiong, Xiangyu Wu, Jiajin Ge, Jinshun Bi, Langmuir. None(None)] 2024. https://openalex.org/W4405884135
+
+                The evolution of bifunctional catalysts for the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) catalysts that are highly active, stable, and conductive is crucial for advancing metal-air batteries and fuel cells. We have here thoroughly explored the OER and ORR performance for a category of two-dimensional (2D) metal&#8211;organic frameworks (MOFs) called TM3(HADQ)2, and Rh3(HADQ)2 exhibits a promising bifunctional OER/ORR activity, with an overpotential of 0.31 V for both OER and ORR. The d-band center (&#949;d) and crystal orbital Hamilton populations (COHP) are utilized to study the relationship between OER/ORR activity and the electronic structure of catalysts, and it is found that the elementary d-electron number (Ne) of the central TM for TM3(HADQ)2, as well as the electronegativity of the ligand TM-N4 and the intermediate O atom, are the main reason that affects the catalytic activity of OER/ORR. Additionally, Rh3(HADQ)2 can be proven through the constant potential method (CPM) and microkinetics method that it is an acidic OER/ORR bifunctional catalyst. Rh3(HADQ)2 has a high toxicity tolerance, making it a potential bifunctional catalyst. Our research contributes to both the rational design of SACs for various catalytic processes and the fabrication of bifunctional, cost-effective oxygen-electric catalysts.</description>
+      <author>Jin Yu, Tianyun Liu, Xuefei Liu, Wei Deng, Wenjun Xiao, Yaqiong Su, Xiaosi Qi, Gang Wang, Degui Wang, Mingqiang Liu, Wu Yan, Abuduwayiti Aierken, Xuan Chen, Xu Wang, Changsong Gao, Hui Xiong, Xiangyu Wu, Jiajin Ge, Jinshun Bi</author>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c04034</guid>
+    </item>
+    <item>
+      <title>A fluorinated hydrophobic metal&#8211;organic framework for CH4 purification from seven-component C1/C2/C3 hydrocarbons mixture</title>
+      <link>https://doi.org/10.1016/j.seppur.2024.131359</link>
+      <description>Tong Li, Xiaomin Li, Yong Wang, Xiaoxia Jia, Hui Chen, Yongjian Li, Jiangfeng Yang, Jinping Li, Libo Li, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4405884275
+
+                No abstract</description>
+      <author>Tong Li, Xiaomin Li, Yong Wang, Xiaoxia Jia, Hui Chen, Yongjian Li, Jiangfeng Yang, Jinping Li, Libo Li</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.131359</guid>
     </item>
     <item>
       <title>Activity-Drop of Hydrogen Evolution Reaction in LiNO&lt;sub&gt;3&lt;/sub&gt; Based &#8220;Hydronium-in-Salt&#8221; Acidic Electrolytes on Platinum Enables Electrochemical Nitrate Reduction</title>

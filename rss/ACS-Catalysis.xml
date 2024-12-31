@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 30 Dec 2024 01:23:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 01:20:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Optimizing Oxygen Vacancies through p-Band Center Modulation of Oxygen in the Li&lt;sub&gt;2&lt;/sub&gt;WO&lt;sub&gt;4&lt;/sub&gt;/Mg&lt;sub&gt;6&lt;/sub&gt;MnO&lt;sub&gt;8&lt;/sub&gt; Catalyst for Enhanced Oxidative Coupling of Methane: An Experimental and Theoretical Study</title>
-      <link>https://doi.org/10.1021/acscatal.4c06709</link>
-      <description>Rohan Singh Pal, Rubina Khatun, Jyotishman Kaishyop, Sachin Kumar Sharma, Swati Rana, Shivani Singh, Anil Chandra Kothari, Tuhin Suvra Khan, Shailendra Tripathi, Suman Sarkar, Rajaram Bal, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405697614
-
-                Herein, we demonstrate a one-pot sol&#8211;gel-assisted procedure to prepare a defect-rich Li2WO4/Mg6MnO8 catalyst having surface oxygen vacancies, which facilitates the adsorption of O2 molecules to generate active oxygen species (O2&#8211;, O22&#8211;) by incorporating Li and W into the Mg6MnO8 lattice. These active oxygen species serve as primary active sites, selectively dissociating CH4 into CH3&#8226; and promoting CH3&#8226; coupling into C2H6, while hindering excessive oxidation of CH3&#8226; into COx. Various analytical methods such as XPS, O2-TPD, EPR, CH4-TPSR, in situ DRIFTS, and in situ Raman spectroscopy studies demonstrated that surface reactive oxygen species are more active and selective than lattice oxygen toward the formation of C2 products. The controlled addition of Li and W plays a crucial role in stabilizing surface Li species through the formation of Li&#8211;O&#8211;W bonds by forming the Li2WO4 phase, ensuring stable catalyst performance up to 100 h. DOS analysis shows a positive shift in the p-band center, which effectively promotes the formation of oxygen vacancies. Analytical studies confirmed that surface active oxygen species are more active and selective than lattice oxygen in forming C2 hydrocarbons. The Li2WO4/Mg6MnO8 catalyst exhibited superior performance, achieving &#8764;82% C2 selectivity and &#8764;25% C2 yield at 700 &#176;C. We found that the stable formation of active oxygen species (O2&#8211;) and a high Mn4+/Mn3+ ratio over the surface are the key factors for achieving high C2 selectivity and yield during OCM. DFT results show that the concentration of oxygen defect sites is higher on the surface of the Li2WO4/Mg6MnO8 catalyst, which synergistically binds Li2WO4 and Mg6MnO8, in comparison with pure Mg6MnO8 surfaces. Furthermore, DFT calculations also indicate that oxygen vacancies are energetically more favorable on the surface of the Li2WO4/Mg6MnO8 catalyst rather than in its subsurface. In situ XRD and in situ Raman analysis demonstrated that Li2WO4 undergoes a reversible phase change, transitioning into a molten state at higher temperatures, potentially forming Li2O2 species that may serve as active centers during the reaction.</description>
-      <author>Rohan Singh Pal, Rubina Khatun, Jyotishman Kaishyop, Sachin Kumar Sharma, Swati Rana, Shivani Singh, Anil Chandra Kothari, Tuhin Suvra Khan, Shailendra Tripathi, Suman Sarkar, Rajaram Bal</author>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06709</guid>
-    </item>
-    <item>
-      <title>Ancestral Sequence Reconstruction Reveals Determinants of Regioselectivity in C(sp&lt;sup&gt;3&lt;/sup&gt;)-H Oxyfunctionalization Reactions by CYP505Es</title>
-      <link>https://doi.org/10.1021/acscatal.4c06260</link>
-      <description>Ana C. Ebrecht, Jasmin C. Aschenbrenner, Yosephine Gumulya, Martha S. Smit, Diederik J. Opperman, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405702888
-
-                Regioselective C&#8211;H functionalization of fatty acids and alcohols is a challenging reaction, especially in-chain/midchain hydroxylation. These hydroxy fatty acids or diols offer a synthetic route to valuable &#948;- and &#947;-lactones. Although terminal and subterminal hydroxylation of fatty acids and alcohols by cytochrome P450 monooxygenases have been extensively explored, the molecular determinants of in-chain hydroxylation are unknown. Here we performed ancestral sequence reconstruction (ASR) of the subfamily of CYP505Es, able to perform in-chain hydroxylation, together with their closest related subterminal hydroxylases. Three ancestors were resurrected, which represented the in-chain and subterminal hydroxylases, as well as their common ancestor, which displayed little regioselectivity. Mutations were introduced to investigate the divergence in regioselectivity observed in the natural evolution. Whereas subterminal hydroxylation appears to be through multiple additive mutations in the active site, in-chain hydroxylation was greatly affected by the BC-loop. ASR provides not only insight for directed evolution studies but also more promiscuous ancestors as templates for the starting point for laboratory evolution.</description>
-      <author>Ana C. Ebrecht, Jasmin C. Aschenbrenner, Yosephine Gumulya, Martha S. Smit, Diederik J. Opperman</author>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06260</guid>
-    </item>
-    <item>
-      <title>Bis(oxazoline) Iron Complexes Enable Tuning of Lewis Acidity for Catalytic Carbonyl&#8211;Olefin Metathesis</title>
-      <link>https://doi.org/10.1021/acscatal.3c04684</link>
-      <description>Jessica L. Gomez-Lopez, Ashlee J. Davis, Timothy J. McClure, Mina Son, Daniel C. Steigerwald, Rebecca B. Watson, Mu&#8208;Hyun Baik, Corinna S. Schindler, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405703780
-
-                Carbonyl&#8211;olefin metathesis reactions are powerful transformations for carbon&#8211;carbon bond formation. Despite recent progress, limitations exist that hamper the synthetic generality of the reported approaches. Catalytic systems that will enable tuning of their Lewis acidity and consequently the selective activation of specific substrate classes are expected to greatly enhance the current scope. We herein report the development of cationic iron-bis(oxazoline) complexes as powerful catalysts that enable the alteration of Lewis acidity to efficiently convert substrate types that were previously found to be incompatible with existing catalytic systems in carbonyl&#8211;olefin ring-closing metathesis.</description>
-      <author>Jessica L. Gomez-Lopez, Ashlee J. Davis, Timothy J. McClure, Mina Son, Daniel C. Steigerwald, Rebecca B. Watson, Mu&#8208;Hyun Baik, Corinna S. Schindler</author>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04684</guid>
-    </item>
-    <item>
-      <title>Tuning the Spatial Distribution and Chemical Nature of Acid Sites in MCM-22 Zeolite by Atomically Dispersed Lanthanum Species for Alkylation of 2-Methylnaphthalene</title>
-      <link>https://doi.org/10.1021/acscatal.4c07304</link>
-      <description>Yaxing Li, Xiaoyu Li, Haotian Zhang, Jiayi He, K.&#8208;X. Su, Tianxiang Chen, Ruolin Zhang, Hua&#8208;Jian Xu, Yuchao Wu, Weishen Yang, Lichen Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405706656
-
-                Rare-earth-promoted zeolites have broad applications in the petrochemical industry because modifying zeolites with rare-earth elements can remarkably improve hydrothermal stability and tune the physicochemical properties of the acid sites, resulting in substantial promotion in catalytic selectivity and long-term stability. However, for a specific reaction, it remains a challenge to elaborate the coordination environment of rare-earth elements within the zeolite structure and establish the structure&#8211;reactivity of rare-earth-promoted zeolite catalysts. In this work, we have employed multiple spectroscopy and electron microscopy techniques to elucidate the spatial location and coordination environment of atomically dispersed La species in MCM-22 concertedly. In particular, we have attempted to clarify the variation of the chemical nature of the acid sites in MCM-22 zeolite in response to the introduction of La promotor. By appropriately controlling the spatial distribution and chemical nature of the acid sites, we have obtained a La-modified MCM-22 catalyst with high activity, selectivity, and long-term stability (&gt;800 h) for alkylation of 2-methylnaphthalene with methanol for the production of 2,6-dimethyl-naphthalene under industrially relevant conditions.</description>
-      <author>Yaxing Li, Xiaoyu Li, Haotian Zhang, Jiayi He, K.&#8208;X. Su, Tianxiang Chen, Ruolin Zhang, Hua&#8208;Jian Xu, Yuchao Wu, Weishen Yang, Lichen Liu</author>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07304</guid>
-    </item>
-    <item>
-      <title>Identifying Reactive Trends in Glycerol Electro-Oxidation Using an Automated Screening Approach: 28 Ways to Electrodeposit an Au Electrocatalyst</title>
-      <link>https://doi.org/10.1021/acscatal.4c04190</link>
-      <description>Raghuram Gaddam, Zirui Wang, Yichen Li, Lauren C. Harris, Michael A. Pence, Estefan&#237;a Guerrero, Paul J. A. Kenis, Andrew A. Gewirth, Joaqu&#237;n Rodr&#237;guez&#8208;L&#243;pez, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405712743
-
-                No abstract</description>
-      <author>Raghuram Gaddam, Zirui Wang, Yichen Li, Lauren C. Harris, Michael A. Pence, Estefan&#237;a Guerrero, Paul J. A. Kenis, Andrew A. Gewirth, Joaqu&#237;n Rodr&#237;guez&#8208;L&#243;pez</author>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04190</guid>
-    </item>
     <item>
       <title>Highly Stable Subnanometric Pt Clusters in All Silica K-Doped Zeolites: Implications for the CO Oxidation Reaction</title>
       <link>https://doi.org/10.1021/acscatal.4c04758</link>
@@ -170,10 +120,10 @@
     <item>
       <title>Expeditious Synthesis of Highly Functional 4-Trifluoromethyl-Substituted Oxazoles Enabled by Cobalt(II) Metalloradical Catalysis</title>
       <link>https://doi.org/10.1021/acscatal.4c07209</link>
-      <description>Li Wang, Qingyun Duan, Baiquan Wang, Bin Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405775871
+      <description>Hang Wang, Qingyun Duan, Baiquan Wang, Bin Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405775871
 
-                No abstract</description>
-      <author>Li Wang, Qingyun Duan, Baiquan Wang, Bin Li</author>
+                A synthetic strategy for the catalytic cycloaddition of &#945;-trifluoromethyl-&#945;-diazoketones with nitriles has been achieved based on cobalt(II) metalloradical catalysis. The easily accessible starting materials, cost-effective catalyst, and experimental simplicity rendered this protocol a robust and practical approach to construct diverse functionalized 4-CF3-substituted oxazoles with high efficiency. A wide substrate scope of both &#945;-trifluoromethylated diazoketones and nitriles is amenable to this catalytic system. The high level of functional group tolerance of this protocol provides several opportunities for precise late-stage modifications of bioactive and drug-like molecules. Mechanistic experiments and spectroscopic investigations confirm the radical nature of the reaction and reveal the involvement of both monocarbene and biscarbene radical intermediates during the catalytic process.</description>
+      <author>Hang Wang, Qingyun Duan, Baiquan Wang, Bin Li</author>
       <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07209</guid>
     </item>
@@ -266,6 +216,16 @@
       <author>Chaoyi Yang, Guangqin Wang, Jianchao Yue, Zhifeng Dai, Wei Luo</author>
       <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06469</guid>
+    </item>
+    <item>
+      <title>Unlocking the Substrate Acceptance of Phenylalanine Amine Dehydrogenase Enables the Asymmetric Synthesis of Pharmaceutical &lt;i&gt;N&lt;/i&gt;-Heterocyclic Primary Amines</title>
+      <link>https://doi.org/10.1021/acscatal.4c06478</link>
+      <description>Tao Wu, Yao Nie, Jiaxing Xu, Xiaoqing Mu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405883541
+
+                No abstract</description>
+      <author>Tao Wu, Yao Nie, Jiaxing Xu, Xiaoqing Mu</author>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06478</guid>
     </item>
   </channel>
 </rss>

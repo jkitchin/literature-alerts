@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 30 Dec 2024 01:23:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 01:20:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Multiphase Computational Fluid Dynamics Modeling of Reacting Flows in Absorption Columns for Carbon Capture</title>
-      <link>https://doi.org/10.2139/ssrn.5069595</link>
-      <description>Yash Girish Shah, Amiee Jackson, Costas Tsouris, Charles Finney, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4405712305
-
-                No abstract</description>
-      <author>Yash Girish Shah, Amiee Jackson, Costas Tsouris, Charles Finney, Grigorios Panagakos</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5069595</guid>
-    </item>
   </channel>
 </rss>
