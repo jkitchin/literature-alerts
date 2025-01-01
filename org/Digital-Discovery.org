@@ -1,28 +1,28 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Tue Dec 31 01:20:21 2024
+Created on Wed Jan  1 01:27:05 2025
 
-Found 1 results from 2024-12-24 to 2024-12-31
+Found 1 results from 2024-12-25 to 2025-01-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 
-* Predicting homopolymer and copolymer solubility through machine learning  :Digital_Discovery:
+* Catalytic Resonance Theory: Forecasting the Flow of Programmable Catalytic Loops  :Digital_Discovery:
 :PROPERTIES:
-:UUID: https://openalex.org/W4405714714
+:UUID: https://openalex.org/W4405892021
 :TOPICS: Machine Learning in Materials Science
 :PUBLICATION_DATE: 2024-01-01
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00290c")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00216d")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405714714"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405714714"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405714714"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405892021"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405892021"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405892021"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4405714714 (Open access: True)
+OpenAlex: https://openalex.org/W4405892021 (Open access: True)
     
-[[https://openalex.org/A5024069532][Christopher D. Stubbs]], [[https://openalex.org/A5000294906][Yeonjoon Kim]], [[https://openalex.org/A5011355970][Ethan C. Quinn]], [[https://openalex.org/A5013215173][Raúl Pérez‐Soto]], [[https://openalex.org/A5018137652][Eugene Y.‐X. Chen]], [[https://openalex.org/A5086535232][Seonah Kim]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00290c 
+[[https://openalex.org/A5051959855][Madeline A. Murphy]], [[https://openalex.org/A5033015720][Kyle Noordhoek]], [[https://openalex.org/A5030610409][Sallye R. Gathmann]], [[https://openalex.org/A5003718847][Paul J. Dauenhauer]], [[https://openalex.org/A5065773454][Christopher J. Bartel]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00216d 
      
-Polymer solubility has applications in many important and diverse fields, including microprocessor fabrication, environmental conservation, paint formulation, and drug delivery, but it remains under-explored compared to its relative importance. This...    
+Chemical transformations on catalyst surfaces occur through series and parallel reaction pathways. These complex networks and their behavior can be most simply evaluated through a three-species surface reaction loop (A*...    
 
     

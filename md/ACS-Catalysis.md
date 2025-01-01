@@ -1,109 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Dec 31 01:20:18 2024
+Created on Wed Jan  1 01:27:04 2025
 
-Found 22 results from 2024-12-24 to 2024-12-31
+Found 17 results from 2024-12-25 to 2025-01-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Highly Stable Subnanometric Pt Clusters in All Silica K-Doped Zeolites: Implications for the CO Oxidation Reaction   
-
-OpenAlex: https://openalex.org/W4405720936    
-Open access: False
-    
-[Benjamin Bohigues](https://openalex.org/A5048986975), [Isabel Millet](https://openalex.org/A5085035152), [Patricia Concepción](https://openalex.org/A5073126664), [Avelino Corma](https://openalex.org/A5000454699), [Manuel Moliner](https://openalex.org/A5066850049), [Pedro Serna](https://openalex.org/A5074013662), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04758.
-    
-No abstract    
-
-    
-
-## Catalytic Resonance Theory: Turnover Efficiency and the Resonance Frequency   
-
-OpenAlex: https://openalex.org/W4405723598    
-Open access: False
-    
-[Jesse Canavan](https://openalex.org/A5114138320), [J. Hopkins](https://openalex.org/A5080549016), [Brandon Foley](https://openalex.org/A5070789014), [Omar Abdelrahman](https://openalex.org/A5022932212), [Paul J. Dauenhauer](https://openalex.org/A5003718847), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06623.
-    
-No abstract    
-
-    
-
-## Modulating Lattice Oxygen through an Alkaline Earth Metal Promoter for Chemical Looping Oxidative Dehydrogenation of Propane   
-
-OpenAlex: https://openalex.org/W4405724721    
-Open access: False
-    
-[Wei Wang](https://openalex.org/A5100392063), [Sai Chen](https://openalex.org/A5101865777), [Jiachen Sun](https://openalex.org/A5090810357), [Ziyi Li](https://openalex.org/A5100389139), [Xianhui Wang](https://openalex.org/A5100601687), [Yiyi Xu](https://openalex.org/A5104229893), [Zelin Wu](https://openalex.org/A5038427980), [Donglong Fu](https://openalex.org/A5069288643), [Chunlei Pei](https://openalex.org/A5100326690), [Zhi‐Jian Zhao](https://openalex.org/A5084194253), [Jinlong Gong](https://openalex.org/A5047030779), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06614.
-    
-No abstract    
-
-    
-
-## Cu-Catalyzed Diastereo- and Enantioselective Synthesis of Homopropargyl Amines Bearing All-Carbon Quaternary Stereocenters via Chirality Transfer of Hindered Allenylcopper Species   
-
-OpenAlex: https://openalex.org/W4405725214    
-Open access: False
-    
-[Jing He](https://openalex.org/A5085754149), [Wan Seok Yoon](https://openalex.org/A5088145073), [Jaesook Yun](https://openalex.org/A5037018542), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06631.
-    
-The construction of congested acyclic stereocenters with high stereoselectivity is a significant challenge in synthetic chemistry. Herein, we report an efficient method for diastereo- and enantioselective C–C coupling of 1,3-disubstituted enynes with imines for the asymmetric construction of vicinal stereogenic centers, including an all-carbon quaternary center. This coupling was accomplished by chirality transfer from axial-to-central of fully substituted axially chiral allenylcopper intermediates formed in situ from branched enynes with concomitant diastereoselective formation of an additional stereocenter in imine addition enabled by a chiral C1-symmetric N-heterocyclic carbene (NHC) copper catalyst. DFT calculations provided an enhanced understanding of the silyl effect of allenylcopper nucleophiles on reactivity and the origin of stereoselectivity. Synthetic versatility of the resulting products bearing densely functionalized groups could amplify the significance of the current method.    
-
-    
-
-## Elementary Steps, Site Requirements, and Support Effects in Methylcyclohexane Dehydrogenation Reactions on Dispersed Pd Nanoparticles   
-
-OpenAlex: https://openalex.org/W4405734974    
-Open access: False
-    
-[Zhongyao Zhang](https://openalex.org/A5011995432), [Sai Chen](https://openalex.org/A5101865777), [Trenton Otto](https://openalex.org/A5020330398), [Enrique Iglesia](https://openalex.org/A5086150545), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c07240.
-    
-No abstract    
-
-    
-
-## Synergistic Dual-Atom Catalysts on Ceria for Enhanced CO Preferential Oxidation: Insights from High-Throughput First-Principles Microkinetics   
-
-OpenAlex: https://openalex.org/W4405734978    
-Open access: False
-    
-[Zhang Liu](https://openalex.org/A5100709009), [Yanwei Wen](https://openalex.org/A5043433583), [Zhaojie Wang](https://openalex.org/A5086671763), [Limin Guo](https://openalex.org/A5063687804), [Rong Chen](https://openalex.org/A5100418999), [Aimin Zhang](https://openalex.org/A5100656435), [Bin Shan](https://openalex.org/A5084795179), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05779.
-    
-No abstract    
-
-    
-
-## ABO4 as an Active Catalyst Structure for Direct Partial CH4 Oxidation as Identified through Screening of Supported Catalysts   
-
-OpenAlex: https://openalex.org/W4405738399    
-Open access: False
-    
-[Junya Ohyama](https://openalex.org/A5023127226), [Yuriko Yoshioka](https://openalex.org/A5036471630), [Masato TSUKAMOTO](https://openalex.org/A5030581735), [Ryota Kuroki](https://openalex.org/A5034502562), [Daichi Takahashi](https://openalex.org/A5028191830), [Keisuke Awaya](https://openalex.org/A5063143560), [Masato Machida](https://openalex.org/A5013139214), [Kotaro Higashi](https://openalex.org/A5083848806), [Tomoya Uruga](https://openalex.org/A5103395202), [Naomi Kawamura](https://openalex.org/A5086036089), [Shun Nishimura](https://openalex.org/A5009715855), [Keisuke Takahashi](https://openalex.org/A5021890207), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06376.
-    
-In the present study, 76 different metal-oxide-supported-transition-metal catalysts were prepared using 11 different metal oxides (MgO, Al2O3, SiO2, TiO2, V2O5, ZrO2, Nb2O5, MoO3, Ta2O5, WO3, and La2O3) and seven 3d metals (V, Mn, Fe, Co, Ni, Cu, and Zn). The 76 supported catalysts, along with 11 single metal oxides, were screened to identify catalytically active lattice oxygen structures for the partial oxidation of CH4 to formaldehyde and methanol. Fe/MoO3, Fe/V2O5, and particularly Fe/Nb2O5 were found to be highly effective. Structural analysis of the active Fe sites in the 11 supported Fe catalysts was performed using high-energy-resolution-fluorescence-detected Fe K-edge X-ray absorption near-edge structure spectroscopy, revealing that FeNbO4, FeMoO4, and FeVO4 species in Fe/Nb2O5, Fe/MoO3, and Fe/V2O5, respectively, are responsible for their partial-oxidation activities. In contrast, Fe2O3 species formed in Fe/Al2O3, Fe/SiO2, Fe/Ta2O5, and Fe/WO3 were found to be active for complete oxidation to CO2 than partial oxidation, as were the MgFe2O4, LaFeO3, and TiFe2O5 species formed in Fe/MgO, Fe/La2O3, and Fe/TiO2, respectively, and the interstitial solid solution of Fe3+ in ZrO2 generated in Fe/ZrO2. Furthermore, while the Fe2O3 species in Fe/WO4 are ineffective for partial oxidation, FeWO4 prepared by a hydrothermal method exhibits high selectivity for partial oxidation. Additionally, previous studies have shown that CuWO4 and CuMoO4 are active for partial CH4 oxidation. Accordingly, the ABO4 structure (where A is a 3d metal and B is a group 5 or 6 metal) is indicated as a viable design basis for the development of catalysts for partial CH4 oxidation.    
-
-    
-
-## Pincer-(NHC)Mn(I) Complex-Catalyzed Selective α-Alkylation of Ketones and Nitriles Using Unactivated Alkenyl Alcohols   
-
-OpenAlex: https://openalex.org/W4405740302    
-Open access: False
-    
-[Adarsha Mandal](https://openalex.org/A5059151708), [Manoj Pradhan](https://openalex.org/A5088423569), [C.R. Mitra](https://openalex.org/A5012668077), [Srabani Nandi](https://openalex.org/A5113157959), [Biswajit Sadhu](https://openalex.org/A5042696274), [Sabuj Kundu](https://openalex.org/A5070370920), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05889.
-    
-No abstract    
-
-    
-
-## Origin of Stereoselectivity in Ring Opening Metathesis Polymerization with Cationic Molybdenum Imido Alkylidene CAAC Complexes   
-
-OpenAlex: https://openalex.org/W4405741897    
-Open access: False
-    
-[Koushani Kundu](https://openalex.org/A5058306278), [S. Haid](https://openalex.org/A5027100582), [Moritz R. Schäfer](https://openalex.org/A5007312468), [Wolfgang Frey](https://openalex.org/A5090471164), [Johannes Kästner](https://openalex.org/A5056979833), [Michael R. Buchmeiser](https://openalex.org/A5016791337), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c07610.
-    
-Stereoselective ring opening metathesis polymerization (ROMP) of enantiomerically pure 2,3-dicarbomethoxynorborn-5-ene ((+)-DCMNBE) was accomplished by the action of cationic tetra- and pentacoordinated molybdenum imido alkylidene cyclic alkyl amino carbene (CAAC) complexes that are chiral at molybdenum. The same catalysts were also utilized to perform the ROMP of 2,3-dimethoxymethylnorborn-5-ene ((+)-DMMNBE). All complexes were moderately to highly active and showed high trans-isoselectivity, offering up to 97% trans-isotactic (it) repeat units. In all cases, tetracoordinated complexes were the active species, resulting in pentacoordinated transition states. A theoretical model was elaborated using the buried volume (% Vbur) values of all ligands from single-crystal X-ray analysis together with the structures of the density functional theory (DFT) generated molybdacyclobutane intermediates. The model demonstrates the steric effects of all ligands at molybdenum on the trans-isoselectivity of the reaction, as predicted by the turnstile mechanism, and includes a positive correlation between the bulky CAAC ligand with high values of % Vbur of the other ligands and a high trans-isoselectivity. It was also successfully extended to molybdenum imido alkylidene N-heterocyclic carbene (NHC) complexes, proved to be of sufficient accuracy with a root mean squared error (RMSE) of 6.19% and was verified by Monte Carlo cross-validation (MCCV).    
-
-    
 
 ## Dopant-Tuned Restructuring Kinetic for the Formation of Heterophase-Confined Metal-Nonmetal Diatomic Sites for Efficient Oxygen Evolution Reaction   
 
@@ -243,6 +144,50 @@ OpenAlex: https://openalex.org/W4405883541
 Open access: False
     
 [Tao Wu](https://openalex.org/A5101525600), [Yao Nie](https://openalex.org/A5087324294), [Jiaxing Xu](https://openalex.org/A5103159262), [Xiaoqing Mu](https://openalex.org/A5062611477), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06478.
+    
+No abstract    
+
+    
+
+## Structural Insights into Novel Thiolases for Enhancing the Production of Tailored Biochemicals   
+
+OpenAlex: https://openalex.org/W4405892706    
+Open access: False
+    
+[Jiyeon Hong](https://openalex.org/A5103944944), [Hyeoncheol Francis Son](https://openalex.org/A5016068844), [Soyoung Park](https://openalex.org/A5100417971), [Jiyoung Park](https://openalex.org/A5000973344), [Hogyun Seo](https://openalex.org/A5048830775), [Kwang‐Hyeon Liu](https://openalex.org/A5065474597), [Kyung‐Jin Kim](https://openalex.org/A5100671815), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05635.
+    
+Thiolase is essential in the first step of synthesizing many value-added biochemicals. However, only a few feasible THLs have been reported, and a limited understanding of these enzymes has restricted their broader application in valuable production processes. In this study, biochemical and structural analysis identified the specific properties of THLs belonging to three groups for synthesizing medium- to long-chain fatty acids, polyketide, and dicarboxylic acid, represented by adipic acid. We further demonstrated that hydrolysis activity, considered a rate-limiting step in the biosynthetic process, can be alleviated through flux balance and site-directed mutagenesis. Notably, we discovered two THLs with strong biosynthetic abilities and low hydrolysis: PaTHL4, effective for medium- to long-chain fatty acids and polyketides, and PaTHL7, tailored for adipic acid production. This study provides valuable insights into tailored THLs for specific biochemical production.    
+
+    
+
+## Bioinformatics and Computationally Supported Redesign of Aspartase for β-Alanine Synthesis by Acrylic Acid Hydroamination   
+
+OpenAlex: https://openalex.org/W4405896055    
+Open access: True
+    
+[Alejandro Gran‐Scheuch](https://openalex.org/A5008894842), [Hein J. Wijma](https://openalex.org/A5040139581), [Nikolas Capra](https://openalex.org/A5032943526), [Hugo L. van Beek](https://openalex.org/A5009460713), [Miloš Trajković](https://openalex.org/A5084669242), [Kai Baldenius](https://openalex.org/A5068574859), [Michael Breuer](https://openalex.org/A5059755170), [A.M.W.H. Thunnissen](https://openalex.org/A5087468780), [Dick B. Janssen](https://openalex.org/A5076930474), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05525.
+    
+Aspartate ammonia lyases catalyze the reversible amination of fumarate to l-aspartate. Recent studies demonstrate that the thermostable enzyme from Bacillus sp. YM55–1 (AspB) can be engineered for the enantioselective production of substituted β-amino acids. This reaction would be attractive for the conversion of acrylic acid to β-alanine, which is an important building block for the preparation of bioactive compounds. Here we describe a bioinformatics and computational approach aimed at introducing the β-alanine synthesis activity. Three strategies were used: First, we redesigned the α-carboxylate binding pocket of AspB to introduce activity with the acrylic acid. Next, different template enzymes were identified by genome mining, equipped with a redesigned α-carboxylate pocket, and investigated for β-alanine synthesis, which yielded variants with better activity. Third, interactions of the SS-loop that covers the active site and harbors a catalytic serine were computationally redesigned using energy calculations to stabilize reactive conformations and thereby further increase the desired β-alanine synthesis activity. Different improved enzymes were obtained and the best variants showed kcat values with acrylic acid of at least 0.6–1.5 s–1 with KM values in the high mM range. Since the β-alanine production of wild-type enzyme was below the detection limit, this suggests that the kcat/Km was improved by at least 1000-fold. Crystal structures of the 6-fold mutant of redesigned AspB and the similarly engineered aspartase from Caenibacillus caldisaponilyticus revealed that their ligand-free structures have the SS-loop in a closed (reactive) conformation, which for wild-type AspB is only observed in the substrate-bound enzyme. AlphaFold-generated models suggest that other aspartase variants redesigned for acrylic acid hydroamination also prefer a 3D structure with the loop in a closed conformation. The combination of binding pocket redesign, genome mining, and enhanced active-site loop closure thus created effective β-alanine synthesizing variants of aspartase.    
+
+    
+
+## Monitoring Radical Intermediates in Photoactivated Palladium-Catalyzed Coupling of Aryl Halides to Arenes by an Aryl Radical Assay   
+
+OpenAlex: https://openalex.org/W4405908083    
+Open access: True
+    
+[Seb Tyerman](https://openalex.org/A5091956203), [Donald Mackay](https://openalex.org/A5109804276), [Kenneth Clark](https://openalex.org/A5010754912), [Alan R. Kennedy](https://openalex.org/A5041199149), [Craig M. Robertson](https://openalex.org/A5090644105), [Laura Evans](https://openalex.org/A5059225947), [Robert M. Edkins](https://openalex.org/A5015996956), [John A. Murphy](https://openalex.org/A5038338444), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06913.
+    
+No abstract    
+
+    
+
+## Nickel-Catalyzed Synthesis of Silaindanes via Sequential C–H Activating 1,5-Nickel Migration and C–Si Activating 1,4-Nickel Migration   
+
+OpenAlex: https://openalex.org/W4405908160    
+Open access: False
+    
+[Donghyeon Lee](https://openalex.org/A5100724475), [Ikuya Fujii](https://openalex.org/A5113249474), [Ryo Shintani](https://openalex.org/A5015816816), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06910.
     
 No abstract    
 

@@ -4,18 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 31 Dec 2024 01:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 01:27:05 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Predicting homopolymer and copolymer solubility through machine learning</title>
-      <link>https://doi.org/10.1039/d4dd00290c</link>
-      <description>Christopher D. Stubbs, Yeonjoon Kim, Ethan C. Quinn, Ra&#250;l P&#233;rez&#8208;Soto, Eugene Y.&#8208;X. Chen, Seonah Kim, Digital Discovery. None(None)] 2024. https://openalex.org/W4405714714
+      <title>Catalytic Resonance Theory: Forecasting the Flow of Programmable Catalytic Loops</title>
+      <link>https://doi.org/10.1039/d4dd00216d</link>
+      <description>Madeline A. Murphy, Kyle Noordhoek, Sallye R. Gathmann, Paul J. Dauenhauer, Christopher J. Bartel, Digital Discovery. None(None)] 2024. https://openalex.org/W4405892021
 
-                Polymer solubility has applications in many important and diverse fields, including microprocessor fabrication, environmental conservation, paint formulation, and drug delivery, but it remains under-explored compared to its relative importance. This...</description>
-      <author>Christopher D. Stubbs, Yeonjoon Kim, Ethan C. Quinn, Ra&#250;l P&#233;rez&#8208;Soto, Eugene Y.&#8208;X. Chen, Seonah Kim</author>
+                Chemical transformations on catalyst surfaces occur through series and parallel reaction pathways. These complex networks and their behavior can be most simply evaluated through a three-species surface reaction loop (A*...</description>
+      <author>Madeline A. Murphy, Kyle Noordhoek, Sallye R. Gathmann, Paul J. Dauenhauer, Christopher J. Bartel</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00290c</guid>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00216d</guid>
     </item>
   </channel>
 </rss>
