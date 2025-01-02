@@ -1,43 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Jan  1 01:27:04 2025
+Created on Thu Jan  2 01:20:04 2025
 
-Found 17 results from 2024-12-25 to 2025-01-01
+Found 16 results from 2024-12-26 to 2025-01-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Dopant-Tuned Restructuring Kinetic for the Formation of Heterophase-Confined Metal-Nonmetal Diatomic Sites for Efficient Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4405751831    
-Open access: False
-    
-[Xinyi Li](https://openalex.org/A5100370260), [Feiyan Liu](https://openalex.org/A5101964950), [Wenting Lu](https://openalex.org/A5110689502), [Huafeng Fan](https://openalex.org/A5017534802), [Meiling Xiao](https://openalex.org/A5073215457), [Xiaoqiang Cui](https://openalex.org/A5086736710), [Lu Li](https://openalex.org/A5100606021), [Xiaoxin Zou](https://openalex.org/A5046104594), [Weitao Zheng](https://openalex.org/A5108050913), [Xiao Zhao](https://openalex.org/A5058184619), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03060.
-    
-No abstract    
-
-    
-
-## The On/Off pH-Dependent Electrocatalytic Activity of the Perfluorinated Iron Phthalocyanine for the Oxygen Reduction Reaction and Electrochemical Hardness as a Reactivity Descriptor: Experimental and Theoretical Study   
-
-OpenAlex: https://openalex.org/W4405755151    
-Open access: False
-    
-[Luis Acuña-Saavedra](https://openalex.org/A5115632326), [Ana María Méndez‐Torres](https://openalex.org/A5013122167), [Gloria Cárdenas‐Jirón](https://openalex.org/A5007798531), [Rubén Oñate](https://openalex.org/A5054608379), [Benjamín Sánchez-Allende](https://openalex.org/A5115632327), [Ricardo Venegas](https://openalex.org/A5083628069), [Roberto Bernal](https://openalex.org/A5086506639), [Francisco Melo](https://openalex.org/A5079391179), [Elizabeth Imbarack](https://openalex.org/A5055888489), [José H. Zagal](https://openalex.org/A5043992472), [Ingrid Ponce](https://openalex.org/A5010033297), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06957.
-    
-No abstract    
-
-    
-
-## Expeditious Synthesis of Highly Functional 4-Trifluoromethyl-Substituted Oxazoles Enabled by Cobalt(II) Metalloradical Catalysis   
-
-OpenAlex: https://openalex.org/W4405775871    
-Open access: False
-    
-[Hang Wang](https://openalex.org/A5115695424), [Qingyun Duan](https://openalex.org/A5018335704), [Baiquan Wang](https://openalex.org/A5089813280), [Bin Li](https://openalex.org/A5100365280), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c07209.
-    
-A synthetic strategy for the catalytic cycloaddition of α-trifluoromethyl-α-diazoketones with nitriles has been achieved based on cobalt(II) metalloradical catalysis. The easily accessible starting materials, cost-effective catalyst, and experimental simplicity rendered this protocol a robust and practical approach to construct diverse functionalized 4-CF3-substituted oxazoles with high efficiency. A wide substrate scope of both α-trifluoromethylated diazoketones and nitriles is amenable to this catalytic system. The high level of functional group tolerance of this protocol provides several opportunities for precise late-stage modifications of bioactive and drug-like molecules. Mechanistic experiments and spectroscopic investigations confirm the radical nature of the reaction and reveal the involvement of both monocarbene and biscarbene radical intermediates during the catalytic process.    
-
-    
 
 ## Enhancing Acidic Water Electrolysis via Local Electronic Regulation of Ru/TiOx Catalyst with Oxygen Coordination Unsaturated Ti Sites   
 
@@ -190,5 +157,27 @@ Open access: False
 [Donghyeon Lee](https://openalex.org/A5100724475), [Ikuya Fujii](https://openalex.org/A5113249474), [Ryo Shintani](https://openalex.org/A5015816816), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06910.
     
 No abstract    
+
+    
+
+## Site-Specific Introduction of Sulfoxides and Sulfones into Polyketide Scaffolds through a Relayed Chemo-Biosynthetic Strategy   
+
+OpenAlex: https://openalex.org/W4405912420    
+Open access: False
+    
+[Jun Zhang](https://openalex.org/A5100433153), [Xiaodong Zeng](https://openalex.org/A5059787539), [Huixue Chen](https://openalex.org/A5052082332), [Yun Qian](https://openalex.org/A5034338159), [Wenya Tian](https://openalex.org/A5022926058), [Ye‐Qing Du](https://openalex.org/A5113876393), [Zhi Lin](https://openalex.org/A5101577471), [Chun Lei](https://openalex.org/A5111994677), [Zixin Deng](https://openalex.org/A5107927264), [Xudong Qu](https://openalex.org/A5018336786), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05446.
+    
+Sulfoxides and sulfones are pivotal pharmacophores and versatile functional groups in drug design; however, they are rarely found in natural products. In this study, we developed a chemo-biosynthetic strategy for the site-specific introduction of sulfoxides and sulfones into polyketide frameworks. This method involves integrating hydrophobic sulfide-extender units into the polyketide structure, followed by sequential oxidation with hydrogen peroxide to convert the sulfides into polar sulfoxides and sulfones. This approach addresses the challenge that polar groups face in being recognized by the natural hydrophobic pockets of biosynthetic enzymes. The sulfide-extender units were synthesized using a permissive acyl-CoA synthetase (UkaQFAV) and an acyl-CoA carboxylase (Arm13-ACC), which is specific to medium- to long-chain acyl-CoA substrates. The crystal structure of Arm13 was resolved to 1.6 Å, enabling the development of the mutant Arm13V157I, which exhibits significantly enhanced catalytic efficiency for short-chain acyl-CoA substrates. By incorporating these units into a deacyl antimycin (DA)-producing strain and feeding it sulfur-containing substrates, followed by oxidation, we successfully generated nine representative sulfone and sulfoxide-DAs. This work not only paves the way for the development of sulfur-containing polyketides but also provides an effective strategy for introducing polar functionalities into polyketide frameworks.    
+
+    
+
+## Redox-Activated Supersaturation of Ceria Solid Solution as a Dynamic Catalyst Enabling Low-Temperature Ethylbenzene Oxidative Dehydrogenation   
+
+OpenAlex: https://openalex.org/W4405924773    
+Open access: False
+    
+[Juping Zhang](https://openalex.org/A5029517067), [Wenpei Gao](https://openalex.org/A5029244026), [Kunran Yang](https://openalex.org/A5062190734), [Junchen Liu](https://openalex.org/A5086027530), [Yanping Zheng](https://openalex.org/A5037354460), [Kun Yang](https://openalex.org/A5087130084), [Chao Zhang](https://openalex.org/A5100460074), [Kongzhai Li](https://openalex.org/A5000215848), [Kun Zhao](https://openalex.org/A5014921770), [Hua Wang](https://openalex.org/A5100403970), [Yunfei Gao](https://openalex.org/A5053943428), [Xing Zhu](https://openalex.org/A5088345844), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05793.
+    
+Dynamic structural changes in the reactive environment often lead to catalyst deactivation in the thermal-catalysis field. Taking advantage of the dynamic changes in bulk phases, interfaces, and surface structures to design highly active catalysts is a unique but important strategy. Herein, we report a supersaturated ceria solid solution catalyst enabling a styrene yield of 91.8% over extended redox cycles at 430 °C in the redox oxidative dehydrogenation (ODH) of ethylbenzene. In-situ characterizations reveal that the oxygen anions (O2–) and transition-metal cations (Fe and Mn) reversibly shuttle through a ceria solid solution (bulk ↔ surface) in a K–Ce0.47Fe0.2Mn0.33O2−δ catalyst during the redox ODH process. The ceria solid solution acts as a dynamic transition-metal cations/oxygen reservoir, creating atomic interfaces of K–Fe–O/K–Mn–O and an oxygen gateway for efficient ethylbenzene ODH. The findings concerning the formation of a supersaturated ceria solid solution and cations, lattice oxygen migration, and the coupling between oxygen donation and catalytic reactions offer new strategies for designing high-performance dynamic catalysts.    
 
     

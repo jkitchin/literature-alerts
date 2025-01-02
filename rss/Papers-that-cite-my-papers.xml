@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Jan 2025 01:27:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 01:20:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Design Criteria for Active and Selective Catalysts in the Nitrogen Oxidation Reaction</title>
-      <link>https://doi.org/10.1021/acsphyschemau.4c00058</link>
-      <description>Muhammad Usama, Samad Razzaq, Kai S. Exner, ACS Physical Chemistry Au. None(None)] 2024. https://openalex.org/W4405746625
-
-                No abstract</description>
-      <author>Muhammad Usama, Samad Razzaq, Kai S. Exner</author>
-      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsphyschemau.4c00058</guid>
-    </item>
-    <item>
-      <title>Regulating the production distribution in Ni-Cu nanoparticle mediated nitrile hydrogenation</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.12.179</link>
-      <description>Zihan Lv, Zeng Hong, Da Ke, Chao Qian, Xinzhi Chen, Shaodong Zhou, Journal of Colloid and Interface Science. 683(None)] 2024. https://openalex.org/W4405747184
-
-                No abstract</description>
-      <author>Zihan Lv, Zeng Hong, Da Ke, Chao Qian, Xinzhi Chen, Shaodong Zhou</author>
-      <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.12.179</guid>
-    </item>
-    <item>
-      <title>The Melamine-Driven Solvation Effect Promotes Oxygen Reduction on a Platinum Catalyst: Machine Learning-Aided Free Energy Calculations</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c03437</link>
-      <description>Ryosuke Jinnouchi, Saori Minami, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4405749721
-
-                The modification of Pt surfaces with organic compounds like melamine enhances oxygen reduction reaction activity and catalyst durability. Through first-principles free energy calculations utilizing thermodynamic integration and finite-temperature molecular dynamics, enhanced by machine learning force fields for efficient sampling of nanosecond-scale interfacial water fluctuations and incorporating corrections to accurately reproduce first-principles free energies, we demonstrate that melamine destabilizes OH adsorbates, facilitating their removal and enhancing catalytic activity. Unlike alloys, where OH destabilization is driven by changes in electronic structure and surface strain, melamine disrupts hydrogen bonding between OH and interfacial water. Structural and vibrational analyses reveal that melamine alters the water solvation structure, which is evident in modified radial distribution functions and a blue shift in the O&#8211;H stretching vibrations. These findings indicate that manipulating interfacial solvation with organic compounds could be a promising approach to enhance catalytic activity without compromising durability.</description>
-      <author>Ryosuke Jinnouchi, Saori Minami</author>
-      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c03437</guid>
-    </item>
-    <item>
-      <title>Dopant-Tuned Restructuring Kinetic for the Formation of Heterophase-Confined Metal-Nonmetal Diatomic Sites for Efficient Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c03060</link>
-      <description>Xinyi Li, Feiyan Liu, Wenting Lu, Huafeng Fan, Meiling Xiao, Xiaoqiang Cui, Lu Li, Xiaoxin Zou, Weitao Zheng, Xiao Zhao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405751831
-
-                No abstract</description>
-      <author>Xinyi Li, Feiyan Liu, Wenting Lu, Huafeng Fan, Meiling Xiao, Xiaoqiang Cui, Lu Li, Xiaoxin Zou, Weitao Zheng, Xiao Zhao</author>
-      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03060</guid>
-    </item>
-    <item>
-      <title>The &lt;i&gt;On&lt;/i&gt;/&lt;i&gt;Off&lt;/i&gt; pH-Dependent Electrocatalytic Activity of the Perfluorinated Iron Phthalocyanine for the Oxygen Reduction Reaction and Electrochemical Hardness as a Reactivity Descriptor: Experimental and Theoretical Study</title>
-      <link>https://doi.org/10.1021/acscatal.4c06957</link>
-      <description>Luis Acu&#241;a-Saavedra, Ana Mar&#237;a M&#233;ndez&#8208;Torres, Gloria C&#225;rdenas&#8208;Jir&#243;n, Rub&#233;n O&#241;ate, Benjam&#237;n S&#225;nchez-Allende, Ricardo Venegas, Roberto Bernal, Francisco Melo, Elizabeth Imbarack, Jos&#233; H. Zagal, Ingrid Ponce, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405755151
-
-                No abstract</description>
-      <author>Luis Acu&#241;a-Saavedra, Ana Mar&#237;a M&#233;ndez&#8208;Torres, Gloria C&#225;rdenas&#8208;Jir&#243;n, Rub&#233;n O&#241;ate, Benjam&#237;n S&#225;nchez-Allende, Ricardo Venegas, Roberto Bernal, Francisco Melo, Elizabeth Imbarack, Jos&#233; H. Zagal, Ingrid Ponce</author>
-      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06957</guid>
-    </item>
-    <item>
-      <title>First-principles study of the influence of coexistence of Zn vacancies (VZn) and H interstices (Hi) on the photoelectrocatalytic performance of wurtzite ZnO (001) monolayer: Li/Na/K</title>
-      <link>https://doi.org/10.1016/j.vacuum.2024.113981</link>
-      <description>Gang Zhang, Qingyu Hou, Zhenchao Xu, Wen Ma, Riguleng Si, Vacuum. None(None)] 2024. https://openalex.org/W4405757090
-
-                No abstract</description>
-      <author>Gang Zhang, Qingyu Hou, Zhenchao Xu, Wen Ma, Riguleng Si</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.vacuum.2024.113981</guid>
-    </item>
-    <item>
-      <title>Accelerating photocatalytic H2O2 rate over inter-molecular Z-scheme heterojunction via dual production paths</title>
-      <link>https://doi.org/10.1016/j.jece.2024.115192</link>
-      <description>Yaodan Cao, Y. C. Zhai, Wenwen Lv, Hongyan Liu, J. Zhuo, Shouchun Ma, Maoquan Wu, Wanting Hui, Wenqi Ding, Tongjie Yao, Jiaxu Zhang, Jie Wu, Journal of environmental chemical engineering. None(None)] 2024. https://openalex.org/W4405761097
-
-                No abstract</description>
-      <author>Yaodan Cao, Y. C. Zhai, Wenwen Lv, Hongyan Liu, J. Zhuo, Shouchun Ma, Maoquan Wu, Wanting Hui, Wenqi Ding, Tongjie Yao, Jiaxu Zhang, Jie Wu</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.115192</guid>
-    </item>
-    <item>
-      <title>Two-dimensional metal&#8211;organic frameworks with dual active sites for electrochemical CO2 reduction: A computational study</title>
-      <link>https://doi.org/10.1016/j.seppur.2024.131275</link>
-      <description>Guanru Xing, Shize Liu, Jing&#8208;yao Liu, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4405775281
-
-                No abstract</description>
-      <author>Guanru Xing, Shize Liu, Jing&#8208;yao Liu</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.131275</guid>
-    </item>
-    <item>
-      <title>Designing Ru&#8211;B&#8211;Cr Moieties to Activate the Ru Site for Acidic Water Electrolysis under Industrial-Level Current Density</title>
-      <link>https://doi.org/10.1021/acs.nanolett.4c05113</link>
-      <description>Weimo Li, Linfeng Zhang, Lipo Ma, Jiawei Wang, Ruikai Qi, Yang Pang, Meijiao Xu, Chengji Zhao, Ce Wang, Mingbin Gao, Xiaofeng Lu, Nano Letters. None(None)] 2024. https://openalex.org/W4405775903
-
-                Developing highly efficient non-iridium-based active sites for acidic water splitting is still a huge challenge. Herein, unique Ru-B-Cr moieties have been constructed in RuO</description>
-      <author>Weimo Li, Linfeng Zhang, Lipo Ma, Jiawei Wang, Ruikai Qi, Yang Pang, Meijiao Xu, Chengji Zhao, Ce Wang, Mingbin Gao, Xiaofeng Lu</author>
-      <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.4c05113</guid>
-    </item>
     <item>
       <title>A computational survey of layered mixed phases Mn1&#8722;xNixPS3 for water splitting: Modulation of the band gap and the oxygen evolution reaction</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.11.364</link>
@@ -432,7 +342,7 @@
       <link>https://doi.org/10.1038/s41467-024-55116-x</link>
       <description>Haiyuan Zou, Siyan Shu, Wenqiang Yang, You&#8208;Chiuan Chu, Minglun Cheng, Hongliang Dong, Hong Liu, Fan Li, Junhui Hu, Zhenbin Wang, Wei Liu, Hao Ming Chen, Lele Duan, Nature Communications. 15(1)] 2024. https://openalex.org/W4405894806
 
-                Natural enzymes feature distinctive second spheres near their active sites, leading to exquisite catalytic reactivity. However, incumbent synthetic strategies offer limited versatility in functionalizing the second spheres of heterogeneous catalysts. Here, we prepare an enzyme-mimetic single Co&#8211;N4 atom catalyst with an elaborately configured pendant amine group in the second sphere via 1,3-dipolar cycloaddition, which switches the oxygen reduction reaction selectivity from the 4e&#8722; to the 2e&#8722; pathway under acidic conditions. Proton inventory studies and theoretical calculations reveal that the introduced pendant amine acts as a proton relay and promotes the protonation of *O2 to *OOH on the Co&#8211;N4 active site, facilitating H2O2 production. The second sphere-tailored Co&#8211;N4 sites reach optima H2O2 selectivity of 97% &#177; 1.13%, showing a 3.46-fold enhancement to bare Co&#8211;N4 catalyst (28% &#177; 1.75%). This work provides an appealed approach for enzyme-like catalyst design, bridging the gap between enzymatic and heterogeneous catalysis. Here, the authors present a Co-N4 single-atom catalyst with pendant amine group in the second sphere, which shifts the oxygen reduction reaction selectivity toward hydrogen peroxide production.</description>
+                Natural enzymes feature distinctive second spheres near their active sites, leading to exquisite catalytic reactivity. However, incumbent synthetic strategies offer limited versatility in functionalizing the second spheres of heterogeneous catalysts. Here, we prepare an enzyme-mimetic single Co-N</description>
       <author>Haiyuan Zou, Siyan Shu, Wenqiang Yang, You&#8208;Chiuan Chu, Minglun Cheng, Hongliang Dong, Hong Liu, Fan Li, Junhui Hu, Zhenbin Wang, Wei Liu, Hao Ming Chen, Lele Duan</author>
       <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-55116-x</guid>
@@ -442,7 +352,7 @@
       <link>https://doi.org/10.1038/s41467-024-55071-7</link>
       <description>Yuhan Wu, Yuying Zhao, Qixin Yuan, Hao Sun, Ao Wang, Kang Sun, Geoffrey I. N. Waterhouse, Ziyun Wang, Jingjie Wu, Jianchun Jiang, Mengmeng Fan, Nature Communications. 15(1)] 2024. https://openalex.org/W4405894857
 
-                Carbon nanomaterials show outstanding promise as electrocatalysts for hydrogen peroxide (H2O2) synthesis via the two-electron oxygen reduction reaction. However, carbon-based electrocatalysts that are capable of generating H2O2 at industrial-level current densities (&gt;300 mA cm&#8722;2) with high selectivity and long-term stability remain to be discovered. Herein, few-layer boron nanosheets are in-situ introduced into a porous carbon matrix, creating a metal-free electrocatalyst (Bn-C) with H2O2 production rates of industrial relevance in neutral or alkaline media. Bn-C maintained &gt; 95% Faradaic efficiency during a 140-hour test at 300 mA cm&#8722;2 and 0.1 V vs. RHE, and delivered a mass activity of 25.1 mol gcatalyst&#8722;1 h&#8722;1 in 1.0 M Na2SO4 using a flow cell. Theoretical simulations and experimental studies demonstrate that the superior catalytic performance originates from B atoms with adsorbed O atoms in the boron nanosheets. Bn-C outperforms all metal-based and metal-free carbon catalysts reported to date for H2O2 synthesis at industrial-level current densities. Carbon nanomaterials show promise for H2O2 synthesis, but carbon electrocatalysts with industrial-level performance and stability require more research. Here the authors report few-layer boron nanosheets for H2O2 electrochemical production with &gt; 95% Faradaic efficiency during 140-hour test at 300 mA cm-2.</description>
+                Carbon nanomaterials show outstanding promise as electrocatalysts for hydrogen peroxide (H</description>
       <author>Yuhan Wu, Yuying Zhao, Qixin Yuan, Hao Sun, Ao Wang, Kang Sun, Geoffrey I. N. Waterhouse, Ziyun Wang, Jingjie Wu, Jianchun Jiang, Mengmeng Fan</author>
       <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-55071-7</guid>
@@ -466,6 +376,86 @@
       <author>Francesco Zarantonello, Nicol&#242; Sella, Alessandro De Cassai, Giulia Aviani Fulvio, Annalisa Boscolo, Tommaso Pettenuzzo, Giulia Mormando, Paolo Navalesi</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.tacc.2024.101515</guid>
+    </item>
+    <item>
+      <title>CatFlow: An Automated Workflow for Training Machine Learning Potentials to Compute Free Energies in Dynamic Catalysis</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c05568</link>
+      <description>Yun&#8208;Pei Liu, Qiyuan Fan, Fu&#8208;Qiang Gong, Jun Cheng, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4405920772
+
+                Dynamic effects of catalysts play a crucial role in catalytic reactions, necessitating the incorporation of statistical sampling and understanding of the impact of dynamic structures in free energy calculations. However, the complexity of catalytic systems poses challenges in effectively exploring the vast configurational space effectively. In this work, we propose CatFlow, an automated workflow for training machine learning potentials (MLPs) to compute free energies of catalytic reactions. CatFlow combines constrained molecular dynamics (MD) simulation with concurrent training of MLPs and sequential calculation of free energies with well trained MLPs. By rapidly generating reliable MLPs, CatFlow facilitates rigorous free energy calculations, enabling the determination of the reaction profiles in an end-to-end manner. We showcased the capabilities of CatFlow by investigating the activation of O2 catalyzed by Pt clusters and demonstrated the effects of phase transition on the activities of the catalytic reaction. CatFlow offers an efficient and automated solution for studying the catalytic elementary reaction processes. It reduces the need for human intervention and provides researchers with a powerful tool to investigate free energies of dynamic catalysis.</description>
+      <author>Yun&#8208;Pei Liu, Qiyuan Fan, Fu&#8208;Qiang Gong, Jun Cheng</author>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05568</guid>
+    </item>
+    <item>
+      <title>Asymmetric electronic structure effects in Co9S8@FeS2 core-shell nanostructures for highly efficient overall water splitting by modulating d-p orbital hybridization</title>
+      <link>https://doi.org/10.1016/j.cej.2024.158932</link>
+      <description>W. Liu, Ziyu Teng, Bohan An, Jipeng Dong, Ning Li, Yangqin Gao, Lei Ge, Chemical Engineering Journal. 504(None)] 2024. https://openalex.org/W4405924880
+
+                No abstract</description>
+      <author>W. Liu, Ziyu Teng, Bohan An, Jipeng Dong, Ning Li, Yangqin Gao, Lei Ge</author>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.158932</guid>
+    </item>
+    <item>
+      <title>Nitrogen-doped carbon-coated Ru nanoparticles as a highly efficient and stable electrocatalyst for alkaline hydrogen oxidation reaction</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.145623</link>
+      <description>Jianchao Yue, Pengyu Han, Xinyi Yang, Xiaoqin Ma, Yu Zhang, Liqing Wu, Jianchuan Wang, Wei Luo, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4405925907
+
+                No abstract</description>
+      <author>Jianchao Yue, Pengyu Han, Xinyi Yang, Xiaoqin Ma, Yu Zhang, Liqing Wu, Jianchuan Wang, Wei Luo</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145623</guid>
+    </item>
+    <item>
+      <title>Electronic properties of two-dimensional nanocarbons formed by truxene-like building blocks</title>
+      <link>https://doi.org/10.1016/j.commatsci.2024.113622</link>
+      <description>Davi Bezerra Bastos, Eduardo Costa Gir&#227;o, Vincent Meunier, Paloma Vieira Silva, Computational Materials Science. 249(None)] 2024. https://openalex.org/W4405928498
+
+                No abstract</description>
+      <author>Davi Bezerra Bastos, Eduardo Costa Gir&#227;o, Vincent Meunier, Paloma Vieira Silva</author>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.113622</guid>
+    </item>
+    <item>
+      <title>Carbon catalysts derived from ZIF-8: Joule heating vs. furnace heating</title>
+      <link>https://doi.org/10.1016/j.carbon.2024.119982</link>
+      <description>Leo Lai, Songbo Ye, Fangzhou Liu, Fangxin She, Justin Prabowo, Jiaxiang Chen, Yeyu Deng, Hao Li, Wei Li, Yuan Chen, Carbon. None(None)] 2024. https://openalex.org/W4405930954
+
+                No abstract</description>
+      <author>Leo Lai, Songbo Ye, Fangzhou Liu, Fangxin She, Justin Prabowo, Jiaxiang Chen, Yeyu Deng, Hao Li, Wei Li, Yuan Chen</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2024.119982</guid>
+    </item>
+    <item>
+      <title>Substitutional electronegative element defects-induced modification of silicene's electronic structures as high-performance cathode material for water splitting</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.12.390</link>
+      <description>Md Iftekher Hossain, Foysal Kabir Tareq, Souman Rudra, International Journal of Hydrogen Energy. 101(None)] 2024. https://openalex.org/W4405937575
+
+                No abstract</description>
+      <author>Md Iftekher Hossain, Foysal Kabir Tareq, Souman Rudra</author>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.390</guid>
+    </item>
+    <item>
+      <title>Theoretical Insights into the Efficient Reduction of Nitrate to Ammonia on Crystalline Carbon Nitride</title>
+      <link>https://doi.org/10.1021/acsami.4c18690</link>
+      <description>Fangting Xie, Xu Cai, Yi Li, Yongfan Zhang, Wei Lin, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4405938599
+
+                No abstract</description>
+      <author>Fangting Xie, Xu Cai, Yi Li, Yongfan Zhang, Wei Lin</author>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c18690</guid>
+    </item>
+    <item>
+      <title>Ce Doping Induces Lattice Expansion of Cobalt Oxide Electrocatalyst to Achieve Efficient Proton Exchange Membrane Water Electrolysis</title>
+      <link>https://doi.org/10.1016/j.mtphys.2024.101641</link>
+      <description>Zhi Wang, Jinpeng Li, Chengdeng Wang, Jiashuai Wang, Xiangrui Chen, Jun Wu, Zhiming Bai, Yan Gao, Chen Li, Xiaoqin Yan, Materials Today Physics. None(None)] 2024. https://openalex.org/W4405940442
+
+                No abstract</description>
+      <author>Zhi Wang, Jinpeng Li, Chengdeng Wang, Jiashuai Wang, Xiangrui Chen, Jun Wu, Zhiming Bai, Yan Gao, Chen Li, Xiaoqin Yan</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtphys.2024.101641</guid>
     </item>
     <item>
       <title>Unbiased dataset for methane dry reforming and catalyst design guidelines obtained by high-throughput experimentation and machine learning</title>
