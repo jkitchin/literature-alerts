@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Thu Jan  2 01:20:06 2025
+Created on Fri Jan  3 01:20:58 2025
 
-Found 1 results from 2024-12-26 to 2025-01-02
+Found 1 results from 2024-12-27 to 2025-01-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 

@@ -4,88 +4,28 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 Jan 2025 01:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 01:21:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>A computational survey of layered mixed phases Mn1&#8722;xNixPS3 for water splitting: Modulation of the band gap and the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.11.364</link>
-      <description>Nicol&#225;s Forero-Correa, Carolina Aliaga, Evgenia Spodine, Catalina Cort&#233;s, Tatiana G&#243;mez, Javiera Cabezas-Escares, Francisco Mu&#241;oz, Carlos C&#225;rdenas, International Journal of Hydrogen Energy. 99(None)] 2024. https://openalex.org/W4405782916
+      <title>Hydrogen complexes on single-atom alloys: A combined DFT &#8211; Kinetic Monte Carlo study</title>
+      <link>https://doi.org/10.1016/j.susc.2024.122688</link>
+      <description>Emanuel Colombi Manzi, Michail Stamatakis, Giovanni Di Liberto, Gianfranco Pacchioni, Surface Science. 754(None)] 2025. https://openalex.org/W4405968337
 
                 No abstract</description>
-      <author>Nicol&#225;s Forero-Correa, Carolina Aliaga, Evgenia Spodine, Catalina Cort&#233;s, Tatiana G&#243;mez, Javiera Cabezas-Escares, Francisco Mu&#241;oz, Carlos C&#225;rdenas</author>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.11.364</guid>
+      <author>Emanuel Colombi Manzi, Michail Stamatakis, Giovanni Di Liberto, Gianfranco Pacchioni</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122688</guid>
     </item>
     <item>
-      <title>Au atomic clusters on MoS2 nanosheets for hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.105691</link>
-      <description>Jiaqi Tian, Lei Hou, Wei Pei, Xueke Yu, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4405790966
+      <title>Stress-mediated copper-molybdenum alloy enables boosted hydrogen evolution activity</title>
+      <link>https://doi.org/10.1016/j.actamat.2024.120706</link>
+      <description>Yuming Xie, Jianing Dong, Yifan Li, Xiaotian Ma, Naijie Wang, Xiangchen Meng, Yongxian Huang, Acta Materialia. None(None)] 2025. https://openalex.org/W4405969282
 
                 No abstract</description>
-      <author>Jiaqi Tian, Lei Hou, Wei Pei, Xueke Yu</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105691</guid>
-    </item>
-    <item>
-      <title>Computational studies on transition metal and nitrogen atoms co-doped fullerene as an efficient electrocatalyst for nitrate reduction to ammonia</title>
-      <link>https://doi.org/10.1007/s11224-024-02443-w</link>
-      <description>Faiza Shafiq, Lei Yang, Weihua Zhu, Structural Chemistry. None(None)] 2024. https://openalex.org/W4405795555
-
-                No abstract</description>
-      <author>Faiza Shafiq, Lei Yang, Weihua Zhu</author>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11224-024-02443-w</guid>
-    </item>
-    <item>
-      <title>Synergizing localized surface plasmon resonance and hydrogen spillover effects on AgPt NPs/d-Siloxene heterostructure for enhanced electrocatalytic hydrogen evolution</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.134178</link>
-      <description>Yixin Yang, Zhi&#8208;Xin Liao, Cuicui Du, Jun&#8208;Feng Qin, Min Hong, Xiaohua Zhang, Jinhua Chen, Fuel. 385(None)] 2024. https://openalex.org/W4405800079
-
-                No abstract</description>
-      <author>Yixin Yang, Zhi&#8208;Xin Liao, Cuicui Du, Jun&#8208;Feng Qin, Min Hong, Xiaohua Zhang, Jinhua Chen</author>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.134178</guid>
-    </item>
-    <item>
-      <title>Theoretical Study of In&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Ru&lt;sub&gt;&lt;i&gt;y&lt;/i&gt;&lt;/sub&gt; Alloys for Efficient Electrocatalytic Reduction of Nitrate to Ammonia</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c06598</link>
-      <description>Qingchao Fang, M. T. Nasir, Dimuthu Wijethunge, Xuxin Kang, Yun Han, Cheng Yan, Anthony P. O&#8217;Mullane, Hanqing Yin, Aijun Du, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4405801950
-
-                The electrochemical reduction of nitrate to ammonia is considered a feasible strategy to address the imbalance of the global nitrogen cycle by eliminating N-containing pollutants in wastewater while producing ammonia in a sustainable way. In this work, we systematically investigate the reduction of nitrate to ammonia on p-block indium (In), noble metal ruthenium (Ru), and their alloys (InRu3, In3Ru). We found that pure In and Ru candidates exhibit various performances for nitrate reduction with low limiting potentials for the potential-determining step of &#8722;0.31 V and &#8722;0.14 V, respectively. However, the incorporation of In into Ru to create alloys leads to excellent activity for the reduction of nitrate to ammonia. Ammonia production on InRu3 and In3Ru alloys demonstrates higher catalytic activity and selectivity as the byproducts of NO2 and NO can be inhibited, while the parasitic hydrogen evolution reaction (HER) can also be significantly suppressed. Our work not only proposes efficient electrocatalysts for nitrate reduction but also provides a new strategy for the rational design of alloy catalysts for improved catalytic performance.</description>
-      <author>Qingchao Fang, M. T. Nasir, Dimuthu Wijethunge, Xuxin Kang, Yun Han, Cheng Yan, Anthony P. O&#8217;Mullane, Hanqing Yin, Aijun Du</author>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c06598</guid>
-    </item>
-    <item>
-      <title>Interfacial Electrical Double Layer in Electrocatalytic Reactions: Fundamentals, Characterizations and Applications</title>
-      <link>https://doi.org/10.1016/j.actphy.2024.100041</link>
-      <description>Xueting Cao, Shuangshuang Cha, Ming Gong, Acta Physico-Chimica Sinica. None(None)] 2024. https://openalex.org/W4405802144
-
-                No abstract</description>
-      <author>Xueting Cao, Shuangshuang Cha, Ming Gong</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.actphy.2024.100041</guid>
-    </item>
-    <item>
-      <title>Unique Cu+/Cu0 active-site switches in Cu-loaded g-C3N4 nanosheets for efficient photocatalytic CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.jmst.2024.12.010</link>
-      <description>Dongxiao Wen, Nan Wang, Jiahe Peng, Tetsuro Majima, Jizhou Jiang, Journal of Material Science and Technology. None(None)] 2024. https://openalex.org/W4405802199
-
-                No abstract</description>
-      <author>Dongxiao Wen, Nan Wang, Jiahe Peng, Tetsuro Majima, Jizhou Jiang</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jmst.2024.12.010</guid>
-    </item>
-    <item>
-      <title>Mechanistic insights into the adjustable electronic buffering effect of C60 under electric fields for single-atom Cu catalysis in CO electroreduction</title>
-      <link>https://doi.org/10.1016/j.comptc.2024.115054</link>
-      <description>Lei-Xian Chen, Zi-Yang Qiu, Jing&#8208;Shuang Dang, W. P. Wang, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4405802485
-
-                No abstract</description>
-      <author>Lei-Xian Chen, Zi-Yang Qiu, Jing&#8208;Shuang Dang, W. P. Wang</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.115054</guid>
+      <author>Yuming Xie, Jianing Dong, Yifan Li, Xiaotian Ma, Naijie Wang, Xiangchen Meng, Yongxian Huang</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2024.120706</guid>
     </item>
     <item>
       <title>Redox photocatalysis CuFe-BTC for nitrate reduction and formaldehyde oxidation</title>
@@ -418,6 +358,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.113622</guid>
     </item>
     <item>
+      <title>Improved catalytic activity of non-metallic elements doped two-dimensional Hittorf's violet phosphorene for the hydrogen evolution reaction: A DFT study</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.12.423</link>
+      <description>Yi-Lin Lu, Shengjie Dong, Fangchao Cui, Kai-Cheng Zhang, Chunmei Liu, Jiesen Li, Zhuo Mao, International Journal of Hydrogen Energy. 101(None)] 2024. https://openalex.org/W4405929401
+
+                No abstract</description>
+      <author>Yi-Lin Lu, Shengjie Dong, Fangchao Cui, Kai-Cheng Zhang, Chunmei Liu, Jiesen Li, Zhuo Mao</author>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.423</guid>
+    </item>
+    <item>
       <title>Carbon catalysts derived from ZIF-8: Joule heating vs. furnace heating</title>
       <link>https://doi.org/10.1016/j.carbon.2024.119982</link>
       <description>Leo Lai, Songbo Ye, Fangzhou Liu, Fangxin She, Justin Prabowo, Jiaxiang Chen, Yeyu Deng, Hao Li, Wei Li, Yuan Chen, Carbon. None(None)] 2024. https://openalex.org/W4405930954
@@ -442,7 +392,7 @@
       <link>https://doi.org/10.1021/acsami.4c18690</link>
       <description>Fangting Xie, Xu Cai, Yi Li, Yongfan Zhang, Wei Lin, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4405938599
 
-                No abstract</description>
+                The nitrate reduction reaction (NO3RR) has emerged as a promising approach for wastewater treatment and ammonia (NH3) synthesis. Poly(triazine imide)/LiCl (PTI/LiCl), a highly crystalline carbon nitride with a well-defined structure, has shown significant potential in this field. In this study, the electronic properties and catalytic performance of PTI/LiCl for NO3RR were investigated through theoretical calculations. Band structure and projected density of states (PDOS) analyses show that the intercalation of Li+ and Cl&#8211; ions within the PTI pores enhances electronic conductivity and improves its electronic properties. The reduction of nitrate to NH3 through a series of intermediates on the PTI/LiCl (001) surface shows exothermic free energy changes for each elementary step. The catalyst demonstrates outstanding selectivity and stability, effectively suppressing the competitive hydrogen evolution reaction and byproduct formation. Charge density difference and PDOS analyses confirm the orbital interactions between absorbed NO3 and Li ions. The study highlights the potential of PTI/LiCl as a low-cost, efficient electrocatalyst for NO3RR and provides theoretical and practical insights for the design of environmentally friendly catalysts.</description>
       <author>Fangting Xie, Xu Cai, Yi Li, Yongfan Zhang, Wei Lin</author>
       <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c18690</guid>
@@ -456,6 +406,36 @@
       <author>Zhi Wang, Jinpeng Li, Chengdeng Wang, Jiashuai Wang, Xiangrui Chen, Jun Wu, Zhiming Bai, Yan Gao, Chen Li, Xiaoqin Yan</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtphys.2024.101641</guid>
+    </item>
+    <item>
+      <title>Functional Nanocarbon Hybrids in Metal Oxide Nanocomposites for Photocatalysis</title>
+      <link>https://doi.org/10.3390/photochem5010001</link>
+      <description>Paul P. Debes, Melanie Pagel, &#350;tefan Muntean, Janis He&#223;ling, Bernd Smarsly, Monika Sch&#246;nhoff, Teresa Gatti, Photochem. 5(1)] 2024. https://openalex.org/W4405946941
+
+                The textile industry is a major contributor to environmental pollution, primarily through the discharge of wastewater loaded with dyes and contaminants that disrupt natural ecosystems. This study aims to develop a hybrid material by functionalizing carbon nanodots (CNDs) with the donor-&#960;-acceptor organic dye L1 via amide coupling. By chemically modifying the surface of CNDs, we can enhance their multifunctionality and tailor their molecular composition. This innovative approach seeks to replace expensive dyes with cost-effective CNDs synthesized from citric acid and ethylenediamine using a domestic microwave oven, potentially improving the stability of the resulting hybrid. Additionally, TiO2 anatase particles were synthesized as a metal oxide platform and sensitized with both pristine materials and the CND-L1 hybrid. A range of physicochemical methods was employed to analyze the elemental, structural, and optical properties of these materials. In photocatalytic degradation tests of methyl orange, the sensitized catalysts demonstrated significantly improved efficiency compared to TiO2 alone. While CNDs exhibited good stability and enhanced L1&#8217;s stability, scavenger experiments revealed that holes and hydroxyl radicals play crucial roles in the degradation mechanism. This research underscores the promise of CND hybrids in advancing pollutant degradation technologies while reducing reliance on costly photocatalysts.</description>
+      <author>Paul P. Debes, Melanie Pagel, &#350;tefan Muntean, Janis He&#223;ling, Bernd Smarsly, Monika Sch&#246;nhoff, Teresa Gatti</author>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/photochem5010001</guid>
+    </item>
+    <item>
+      <title>Toward a Generalizable Machine-Learned Potential for Metal&#8211;Organic Frameworks</title>
+      <link>https://doi.org/10.1021/acsnano.4c12369</link>
+      <description>Yifei Yue, Saad Aldin Mohamed, N. Duane Loh, Jianwen Jiang, ACS Nano. None(None)] 2024. https://openalex.org/W4405947406
+
+                Machine-learned potentials (MLPs) have transformed the field of molecular simulations by scaling "quantum-accurate" potentials to linear time complexity. While they provide more accurate reproduction of physical properties as compared to empirical force fields, it is still computationally costly to generate their training data sets from ab initio calculations. Despite the emergence of foundational or general MLPs for organic molecules and dense materials, it is unexplored if one general MLP can be effectively developed for a wide variety of nanoporous metal&#8211;organic frameworks (MOFs) with different chemical moieties and geometric properties. Herein, by leveraging upon data-efficient equivariant MLPs, we demonstrate the possibility of developing a general MLP for nearly 3000 Zn-based MOFs. After curating a training data set comprising augmented MOF structures generated from density functional theory optimization, we validate the reliability of the general MLP in predicting accurate forces and energies when evaluated on a test set with chemically distinct MOF structures. Despite incurring slightly higher errors on structures containing rare chemical moieties, the general MLP can reliably reproduce physical (e.g., vibrational, thermodynamic, and mechanical) properties for a large sample of Zn-based MOFs. Crucially, by developing one MLP for many MOFs, the computational cost of high-throughput screening is potentially reduced by a few orders of magnitude. This enables us to predict quantum-accurate properties for notable Zn-MOFs that were previously uninvestigated via expensive theoretical calculations. To facilitate computational discovery among other families of complex chemical structures, we provide our data set and codes in the public Zenodo repository.</description>
+      <author>Yifei Yue, Saad Aldin Mohamed, N. Duane Loh, Jianwen Jiang</author>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c12369</guid>
+    </item>
+    <item>
+      <title>Molten Salt&#8208;Assisted Synthesis of Porous Precious Metal&#8208;Based Single&#8208;Atom Catalysts for Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1002/advs.202410784</link>
+      <description>Chenming Fan, Xin Gao, Pengyi Tang, Qiang Wang, Bing Li, Advanced Science. None(None)] 2024. https://openalex.org/W4405979504
+
+                Abstract Precious metal&#8208;based single&#8208;atom catalysts (PM&#8208;SACs) hosted in N&#8208;doped carbon supports have shown new opportunities to revolutionize cathodic oxygen reduction reaction (ORR). However, stabilizing the high density of PM&#8208;N x sites remains a challenge, primarily due to the inherently high free energy of isolated metal atoms, predisposing them to facile atomic agglomeration. Herein, a molten salt&#8208;assisted synthesis strategy is proposed to prepare porous PM 1 /N&#8208;C Pores (PM = Ru, Pt, and Pd) electrocatalysts with densely accessible PM&#8208;N x sites. A hierarchically porous N&#8208;doped carbon substrate (N&#8208;C Pores ), synthesized via the NaCl&#8208;assisted pyrolysis of zeolitic imidazolate framework&#8208;8, effectively improves the utilization of PM&#8208;N x sites by increased reactants accessible surface area and reduced mass transfer resistance. In accordance with theoretical calculations, the as&#8208;prepared Ru 1 /N&#8208;C Pores , featuring superior intrinsic active Ru&#8208;N 4 sites, exhibit outstanding ORR turnover frequency of 6.19 e &#8722; site &#8722;1 s &#8722;1 , and outperforms the commercial Pt/C with a 5.3&#8208;fold of mass activity (5.83 &#177; 0.61 A mg &#8722;1 ) at 0.8 V versus reversible hydrogen electrode. The commendable activity and stability of Ru 1 /N&#8208;C Pores in a real fuel cell device further affirm its practical applicability.</description>
+      <author>Chenming Fan, Xin Gao, Pengyi Tang, Qiang Wang, Bing Li</author>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/advs.202410784</guid>
     </item>
     <item>
       <title>Unbiased dataset for methane dry reforming and catalyst design guidelines obtained by high-throughput experimentation and machine learning</title>

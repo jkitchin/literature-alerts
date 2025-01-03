@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 Jan 2025 01:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 01:20:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>High Aspect Ratio Polymer Nanocarriers for Gene Delivery and Expression in Plants</title>
+      <link>https://doi.org/10.1021/acs.nanolett.4c04704</link>
+      <description>Yilin Zhang, Jinwoo Shin, Hui Sun, Hsin-Fang Chang, Michael R. Martinez, Lydia A. Perkins, Jiajun Yan, Yunteng Cao, Hairong Wang, Juan Pablo Giraldo, Krzysztof Matyjaszewski, Jen Sheen, Robert D. Tilton, Benedetto Marelli, Gregory V. Lowry, Nano Letters. None(None)] 2024. https://openalex.org/W4405949253
+
+                Plant genetic engineering methods are critical for food security and biofuel production and to enable molecular farming. Here, we elucidated how polymeric high aspect ratio nanocarriers can enable DNA delivery to Nicotiana benthamiana plants and transient expression. We demonstrated that a nanocarrier with 20 nm width, 80 nm length, and a polymer-to-DNA ratio of N/P = 3.0 afforded the most efficient DNA delivery and expression among the parameter space investigated. Additionally, we showed that polymer&#8211;DNA complexes with a moderate positive charge of &#8764;14 mV favored penetration through the cell wall and membranes with the assistance of cell wall degrading enzymes. Together, these results establish a narrow window of aspect ratios and charges of the nanocarrier&#8211;DNA complex that enables DNA delivery to plants using polymeric nanocarriers. This fundamental nanocarrier structure&#8211;function relationship informs the design of soft-material nanocarriers for nucleic acid delivery in plant cells to facilitate a wide range of plant biotechnology applications.</description>
+      <author>Yilin Zhang, Jinwoo Shin, Hui Sun, Hsin-Fang Chang, Michael R. Martinez, Lydia A. Perkins, Jiajun Yan, Yunteng Cao, Hairong Wang, Juan Pablo Giraldo, Krzysztof Matyjaszewski, Jen Sheen, Robert D. Tilton, Benedetto Marelli, Gregory V. Lowry</author>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.4c04704</guid>
+    </item>
   </channel>
 </rss>
