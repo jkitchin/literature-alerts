@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 03 Jan 2025 01:20:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 01:19:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -18,44 +18,24 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06845</guid>
     </item>
     <item>
-      <title>Mechanistic Insights into Potassium-Assistant Thermal-Catalytic Oxidation of Soot over Single-Crystalline SrTiO&lt;sub&gt;3&lt;/sub&gt; Nanotubes with Ordered Mesopores</title>
-      <link>https://doi.org/10.1021/acscatal.4c06289</link>
-      <description>Fan Fang, Fang Xu, Xue Li, Chong Chen, Nengjie Feng, Yijiao Jiang, Jun Huang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405813818
+      <title>Regulating Heteroatom Doping-Induced Embedded Pt-M Bimetallic Sites Coupled with Ce&lt;sup&gt;3+&lt;/sup&gt;-OVs for Efficient Low-Temperature Methanol Steam Reforming</title>
+      <link>https://doi.org/10.1021/acscatal.4c05507</link>
+      <description>Wei Zheng, Shengfang Shi, Fei Dong, Hekun Jia, Zhiling Chen, Bifeng Yin, ACS Catalysis. None(None)] 2025. https://openalex.org/W4405991185
 
                 No abstract</description>
-      <author>Fan Fang, Fang Xu, Xue Li, Chong Chen, Nengjie Feng, Yijiao Jiang, Jun Huang</author>
-      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06289</guid>
+      <author>Wei Zheng, Shengfang Shi, Fei Dong, Hekun Jia, Zhiling Chen, Bifeng Yin</author>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05507</guid>
     </item>
     <item>
-      <title>Comparative Study on the Effect of Ethylene Cofeeding in CO&lt;sub&gt;2&lt;/sub&gt; and CO Hydrogenation to Olefins over FeZnNa Catalyst</title>
-      <link>https://doi.org/10.1021/acscatal.4c06550</link>
-      <description>K. Zhu, Xingwu Liu, Haoyi Tang, Shuheng Tian, Junzhong Xie, Lingzhen Zeng, Tianye Wang, Hongwei Li, Meng Wang, Ding Ma, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405827567
+      <title>Hydrogen Evolution and Oxygen Reduction on OH/F-Terminated Titanium Nitride MXene Reveal the Role of the Surface Termination Group in Electrocatalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c05247</link>
+      <description>Eugenie Pranada, Bright Ngozichukwu, Ray Yoo, Denis Johnson, Mark A. Barteau, Ahmed Abdel&#8208;Wahab, Abdoulaye Djire, ACS Catalysis. None(None)] 2025. https://openalex.org/W4405994823
 
                 No abstract</description>
-      <author>K. Zhu, Xingwu Liu, Haoyi Tang, Shuheng Tian, Junzhong Xie, Lingzhen Zeng, Tianye Wang, Hongwei Li, Meng Wang, Ding Ma</author>
-      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06550</guid>
-    </item>
-    <item>
-      <title>Highly Enantioselective Construction of Oxazolidinone Rings via Enzymatic C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Amination</title>
-      <link>https://doi.org/10.1021/acscatal.4c06066</link>
-      <description>Jadab Majhi, Satyajit Roy, Anwita Chattopadhyay, Rudi Fasan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405829817
-
-                No abstract</description>
-      <author>Jadab Majhi, Satyajit Roy, Anwita Chattopadhyay, Rudi Fasan</author>
-      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06066</guid>
-    </item>
-    <item>
-      <title>Cross-Coupling Reactions with Nickel, Visible Light, and &lt;i&gt;tert&lt;/i&gt;-Butylamine as a Bifunctional Additive</title>
-      <link>https://doi.org/10.1021/acscatal.4c07185</link>
-      <description>Jonas D&#252;ker, Maximilian Philipp, Thomas Lentner, Jamie A. Cadge, Jo&#227;o E. A. Lavarda, Ruth M. Gschwind, Matthew S. Sigman, Indrajit Ghosh, Burkhard Koenig, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405831894
-
-                Transition metal catalysis is crucial for the synthesis of complex molecules, with ligands and bases playing a pivotal role in optimizing cross-coupling reactions. Despite advancements in ligand design and base selection, achieving effective synergy between these components remains challenging. We present here a general approach to nickel-catalyzed photoredox reactions employing tert-butylamine as a cost-effective bifunctional additive, acting as the base and ligand. This method proves effective for C&#8211;O and C&#8211;N bond-forming reactions with a diverse array of nucleophiles, including phenols, aliphatic alcohols, anilines, sulfonamides, sulfoximines, and imines. Notably, the protocol demonstrates significant applicability in biomolecule derivatization and facilitates sequential one-pot functionalizations. Spectroscopic investigations revealed the robustness of the dynamic catalytic system, while elucidation of structure&#8211;reactivity relationships demonstrated how computed molecular properties of both the nucleophile and electrophile correlated to reaction performance, providing a foundation for effective reaction outcome prediction.</description>
-      <author>Jonas D&#252;ker, Maximilian Philipp, Thomas Lentner, Jamie A. Cadge, Jo&#227;o E. A. Lavarda, Ruth M. Gschwind, Matthew S. Sigman, Indrajit Ghosh, Burkhard Koenig</author>
-      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07185</guid>
+      <author>Eugenie Pranada, Bright Ngozichukwu, Ray Yoo, Denis Johnson, Mark A. Barteau, Ahmed Abdel&#8208;Wahab, Abdoulaye Djire</author>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05247</guid>
     </item>
     <item>
       <title>Advances and Challenges for Catalytic Recycling and Upgrading of Real-World Mixed Plastic Waste</title>

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 03 Jan 2025 01:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 01:19:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Madeline A. Murphy, Kyle Noordhoek, Sallye R. Gathmann, Paul J. Dauenhauer, Christopher J. Bartel</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00216d</guid>
+    </item>
+    <item>
+      <title>SMARTpy: A Python Package for the Generation of Cavity Steric Molecular Descriptors and Applications to Diverse Systems</title>
+      <link>https://doi.org/10.1039/d4dd00329b</link>
+      <description>Beck R. Miller, Ryan C. Cammarota, Matthew S. Sigman, Digital Discovery. None(None)] 2024. https://openalex.org/W4406003754
+
+                Steric molecular descriptors designed for machine learning (ML) applications are critical for connecting structure-function relationships to mechanistic insight. However, many of these descriptors are not suitable for application to complex...</description>
+      <author>Beck R. Miller, Ryan C. Cammarota, Matthew S. Sigman</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00329b</guid>
     </item>
   </channel>
 </rss>

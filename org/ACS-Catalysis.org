@@ -1,8 +1,8 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Jan  3 01:20:56 2025
+Created on Sat Jan  4 01:19:24 2025
 
-Found 17 results from 2024-12-27 to 2025-01-03
+Found 15 results from 2024-12-28 to 2025-01-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
 
@@ -27,87 +27,45 @@ No abstract
 
     
 
-* Mechanistic Insights into Potassium-Assistant Thermal-Catalytic Oxidation of Soot over Single-Crystalline SrTiO3 Nanotubes with Ordered Mesopores  :ACS_Catalysis:
+* Regulating Heteroatom Doping-Induced Embedded Pt-M Bimetallic Sites Coupled with Ce3+-OVs for Efficient Low-Temperature Methanol Steam Reforming  :ACS_Catalysis:
 :PROPERTIES:
-:UUID: https://openalex.org/W4405813818
-:TOPICS: Catalysis and Oxidation Reactions, Electronic and Structural Properties of Oxides, Catalytic Processes in Materials Science
-:PUBLICATION_DATE: 2024-12-26
+:UUID: https://openalex.org/W4405991185
+:TOPICS: Catalytic Processes in Materials Science, Catalysts for Methane Reforming, Electrocatalysts for Energy Conversion
+:PUBLICATION_DATE: 2025-01-02
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06289")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05507")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405813818"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405813818"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405813818"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405991185"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405991185"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405991185"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4405813818 (Open access: False)
+OpenAlex: https://openalex.org/W4405991185 (Open access: False)
     
-[[https://openalex.org/A5022108591][Fan Fang]], [[https://openalex.org/A5002464526][Fang Xu]], [[https://openalex.org/A5100774084][Xue Li]], [[https://openalex.org/A5100348790][Chong Chen]], [[https://openalex.org/A5087055122][Nengjie Feng]], [[https://openalex.org/A5072704368][Yijiao Jiang]], [[https://openalex.org/A5015226338][Jun Huang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06289 
+[[https://openalex.org/A5101624169][Wei Zheng]], [[https://openalex.org/A5090847139][Shengfang Shi]], [[https://openalex.org/A5068536978][Fei Dong]], [[https://openalex.org/A5076254456][Hekun Jia]], [[https://openalex.org/A5107657755][Zhiling Chen]], [[https://openalex.org/A5003538933][Bifeng Yin]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c05507 
      
 No abstract    
 
     
 
-* Comparative Study on the Effect of Ethylene Cofeeding in CO2 and CO Hydrogenation to Olefins over FeZnNa Catalyst  :ACS_Catalysis:
+* Hydrogen Evolution and Oxygen Reduction on OH/F-Terminated Titanium Nitride MXene Reveal the Role of the Surface Termination Group in Electrocatalysis  :ACS_Catalysis:
 :PROPERTIES:
-:UUID: https://openalex.org/W4405827567
-:TOPICS: Catalysts for Methane Reforming, Catalytic Processes in Materials Science, Carbon dioxide utilization in catalysis
-:PUBLICATION_DATE: 2024-12-27
+:UUID: https://openalex.org/W4405994823
+:TOPICS: MXene and MAX Phase Materials, Advanced Photocatalysis Techniques, Advanced Memory and Neural Computing
+:PUBLICATION_DATE: 2025-01-02
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06550")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05247")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405827567"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405827567"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405827567"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405994823"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405994823"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405994823"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4405827567 (Open access: False)
+OpenAlex: https://openalex.org/W4405994823 (Open access: True)
     
-[[https://openalex.org/A5027001331][K. Zhu]], [[https://openalex.org/A5047354529][Xingwu Liu]], [[https://openalex.org/A5101274904][Haoyi Tang]], [[https://openalex.org/A5013792762][Shuheng Tian]], [[https://openalex.org/A5029440749][Junzhong Xie]], [[https://openalex.org/A5108837411][Lingzhen Zeng]], [[https://openalex.org/A5064261052][Tianye Wang]], [[https://openalex.org/A5100325357][Hongwei Li]], [[https://openalex.org/A5031462315][Meng Wang]], [[https://openalex.org/A5055822249][Ding Ma]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06550 
+[[https://openalex.org/A5075083911][Eugenie Pranada]], [[https://openalex.org/A5019655814][Bright Ngozichukwu]], [[https://openalex.org/A5038104345][Ray Yoo]], [[https://openalex.org/A5023017337][Denis Johnson]], [[https://openalex.org/A5031920355][Mark A. Barteau]], [[https://openalex.org/A5038398773][Ahmed Abdel‐Wahab]], [[https://openalex.org/A5021880950][Abdoulaye Djire]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c05247 
      
 No abstract    
-
-    
-
-* Highly Enantioselective Construction of Oxazolidinone Rings via Enzymatic C(sp3)–H Amination  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405829817
-:TOPICS: Synthesis and Catalytic Reactions, Catalytic C–H Functionalization Methods, Cyclopropane Reaction Mechanisms
-:PUBLICATION_DATE: 2024-12-27
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06066")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405829817"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405829817"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405829817"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405829817 (Open access: False)
-    
-[[https://openalex.org/A5007358806][Jadab Majhi]], [[https://openalex.org/A5033670609][Satyajit Roy]], [[https://openalex.org/A5068443992][Anwita Chattopadhyay]], [[https://openalex.org/A5070780837][Rudi Fasan]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06066 
-     
-No abstract    
-
-    
-
-* Cross-Coupling Reactions with Nickel, Visible Light, and tert-Butylamine as a Bifunctional Additive  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405831894
-:TOPICS: Radical Photochemical Reactions, Sulfur-Based Synthesis Techniques, Catalytic C–H Functionalization Methods
-:PUBLICATION_DATE: 2024-12-27
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c07185")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405831894"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405831894"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405831894"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405831894 (Open access: True)
-    
-[[https://openalex.org/A5092160419][Jonas Düker]], [[https://openalex.org/A5115671617][Maximilian Philipp]], [[https://openalex.org/A5115671618][Thomas Lentner]], [[https://openalex.org/A5021805782][Jamie A. Cadge]], [[https://openalex.org/A5115671619][João E. A. Lavarda]], [[https://openalex.org/A5045155782][Ruth M. Gschwind]], [[https://openalex.org/A5005862481][Matthew S. Sigman]], [[https://openalex.org/A5055386575][Indrajit Ghosh]], [[https://openalex.org/A5067475475][Burkhard Koenig]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c07185 
-     
-Transition metal catalysis is crucial for the synthesis of complex molecules, with ligands and bases playing a pivotal role in optimizing cross-coupling reactions. Despite advancements in ligand design and base selection, achieving effective synergy between these components remains challenging. We present here a general approach to nickel-catalyzed photoredox reactions employing tert-butylamine as a cost-effective bifunctional additive, acting as the base and ligand. This method proves effective for C–O and C–N bond-forming reactions with a diverse array of nucleophiles, including phenols, aliphatic alcohols, anilines, sulfonamides, sulfoximines, and imines. Notably, the protocol demonstrates significant applicability in biomolecule derivatization and facilitates sequential one-pot functionalizations. Spectroscopic investigations revealed the robustness of the dynamic catalytic system, while elucidation of structure–reactivity relationships demonstrated how computed molecular properties of both the nucleophile and electrophile correlated to reaction performance, providing a foundation for effective reaction outcome prediction.    
 
     
 
@@ -345,7 +303,7 @@ The CO2-assisted oxidative dehydrogenation (ODH) of propane is of great technica
 * Expedited Synthesis of Axially Chiral 3-Monosilyl and 3,3′-Bis-silyl Biphenols, Binaphthols, and Phosphoramidites Enabled by Catalytic Two-Fold C–H Silylation with a Traceless Acetal Directing Group  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4405963253
-:TOPICS: Axial and Atropisomeric Chirality Synthesis, Asymmetric Hydrogenation and Catalysis, Asymmetric Synthesis and Catalysis
+:TOPICS: Axial and Atropisomeric Chirality Synthesis, Asymmetric Synthesis and Catalysis, Asymmetric Hydrogenation and Catalysis
 :PUBLICATION_DATE: 2024-12-31
 :END:    
     

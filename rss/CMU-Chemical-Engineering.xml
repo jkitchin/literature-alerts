@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 03 Jan 2025 01:20:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 01:19:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Functional dynamics of G protein-coupled receptors reveal new routes for drug discovery</title>
+      <link>https://doi.org/10.1038/s41573-024-01083-3</link>
+      <description>Paolo Conflitti, Edward Lyman, Mark S.P. Sansom, Peter W. Hildebrand, Hugo Guti&#233;rrez&#8208;de&#8208;Ter&#225;n, Paolo Carloni, T. Bertie Ansell, Shuguang Yuan, Patrick Barth, Anne S. Robinson, Christopher G. Tate, David E. Gloriam, Stephan Grzesiek, Matthew T. Eddy, S.R. Prosser, Vittorio Limongelli, Nature Reviews Drug Discovery. None(None)] 2025. https://openalex.org/W4406002323
+
+                No abstract</description>
+      <author>Paolo Conflitti, Edward Lyman, Mark S.P. Sansom, Peter W. Hildebrand, Hugo Guti&#233;rrez&#8208;de&#8208;Ter&#225;n, Paolo Carloni, T. Bertie Ansell, Shuguang Yuan, Patrick Barth, Anne S. Robinson, Christopher G. Tate, David E. Gloriam, Stephan Grzesiek, Matthew T. Eddy, S.R. Prosser, Vittorio Limongelli</author>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41573-024-01083-3</guid>
+    </item>
     <item>
       <title>High Aspect Ratio Polymer Nanocarriers for Gene Delivery and Expression in Plants</title>
       <link>https://doi.org/10.1021/acs.nanolett.4c04704</link>

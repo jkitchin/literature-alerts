@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Jan  3 01:20:56 2025
+Created on Sat Jan  4 01:19:24 2025
 
-Found 17 results from 2024-12-27 to 2025-01-03
+Found 15 results from 2024-12-28 to 2025-01-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -17,47 +17,25 @@ No abstract
 
     
 
-## Mechanistic Insights into Potassium-Assistant Thermal-Catalytic Oxidation of Soot over Single-Crystalline SrTiO3 Nanotubes with Ordered Mesopores   
+## Regulating Heteroatom Doping-Induced Embedded Pt-M Bimetallic Sites Coupled with Ce3+-OVs for Efficient Low-Temperature Methanol Steam Reforming   
 
-OpenAlex: https://openalex.org/W4405813818    
+OpenAlex: https://openalex.org/W4405991185    
 Open access: False
     
-[Fan Fang](https://openalex.org/A5022108591), [Fang Xu](https://openalex.org/A5002464526), [Xue Li](https://openalex.org/A5100774084), [Chong Chen](https://openalex.org/A5100348790), [Nengjie Feng](https://openalex.org/A5087055122), [Yijiao Jiang](https://openalex.org/A5072704368), [Jun Huang](https://openalex.org/A5015226338), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06289.
+[Wei Zheng](https://openalex.org/A5101624169), [Shengfang Shi](https://openalex.org/A5090847139), [Fei Dong](https://openalex.org/A5068536978), [Hekun Jia](https://openalex.org/A5076254456), [Zhiling Chen](https://openalex.org/A5107657755), [Bifeng Yin](https://openalex.org/A5003538933), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c05507.
     
 No abstract    
 
     
 
-## Comparative Study on the Effect of Ethylene Cofeeding in CO2 and CO Hydrogenation to Olefins over FeZnNa Catalyst   
+## Hydrogen Evolution and Oxygen Reduction on OH/F-Terminated Titanium Nitride MXene Reveal the Role of the Surface Termination Group in Electrocatalysis   
 
-OpenAlex: https://openalex.org/W4405827567    
-Open access: False
-    
-[K. Zhu](https://openalex.org/A5027001331), [Xingwu Liu](https://openalex.org/A5047354529), [Haoyi Tang](https://openalex.org/A5101274904), [Shuheng Tian](https://openalex.org/A5013792762), [Junzhong Xie](https://openalex.org/A5029440749), [Lingzhen Zeng](https://openalex.org/A5108837411), [Tianye Wang](https://openalex.org/A5064261052), [Hongwei Li](https://openalex.org/A5100325357), [Meng Wang](https://openalex.org/A5031462315), [Ding Ma](https://openalex.org/A5055822249), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06550.
-    
-No abstract    
-
-    
-
-## Highly Enantioselective Construction of Oxazolidinone Rings via Enzymatic C(sp3)–H Amination   
-
-OpenAlex: https://openalex.org/W4405829817    
-Open access: False
-    
-[Jadab Majhi](https://openalex.org/A5007358806), [Satyajit Roy](https://openalex.org/A5033670609), [Anwita Chattopadhyay](https://openalex.org/A5068443992), [Rudi Fasan](https://openalex.org/A5070780837), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06066.
-    
-No abstract    
-
-    
-
-## Cross-Coupling Reactions with Nickel, Visible Light, and tert-Butylamine as a Bifunctional Additive   
-
-OpenAlex: https://openalex.org/W4405831894    
+OpenAlex: https://openalex.org/W4405994823    
 Open access: True
     
-[Jonas Düker](https://openalex.org/A5092160419), [Maximilian Philipp](https://openalex.org/A5115671617), [Thomas Lentner](https://openalex.org/A5115671618), [Jamie A. Cadge](https://openalex.org/A5021805782), [João E. A. Lavarda](https://openalex.org/A5115671619), [Ruth M. Gschwind](https://openalex.org/A5045155782), [Matthew S. Sigman](https://openalex.org/A5005862481), [Indrajit Ghosh](https://openalex.org/A5055386575), [Burkhard Koenig](https://openalex.org/A5067475475), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c07185.
+[Eugenie Pranada](https://openalex.org/A5075083911), [Bright Ngozichukwu](https://openalex.org/A5019655814), [Ray Yoo](https://openalex.org/A5038104345), [Denis Johnson](https://openalex.org/A5023017337), [Mark A. Barteau](https://openalex.org/A5031920355), [Ahmed Abdel‐Wahab](https://openalex.org/A5038398773), [Abdoulaye Djire](https://openalex.org/A5021880950), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c05247.
     
-Transition metal catalysis is crucial for the synthesis of complex molecules, with ligands and bases playing a pivotal role in optimizing cross-coupling reactions. Despite advancements in ligand design and base selection, achieving effective synergy between these components remains challenging. We present here a general approach to nickel-catalyzed photoredox reactions employing tert-butylamine as a cost-effective bifunctional additive, acting as the base and ligand. This method proves effective for C–O and C–N bond-forming reactions with a diverse array of nucleophiles, including phenols, aliphatic alcohols, anilines, sulfonamides, sulfoximines, and imines. Notably, the protocol demonstrates significant applicability in biomolecule derivatization and facilitates sequential one-pot functionalizations. Spectroscopic investigations revealed the robustness of the dynamic catalytic system, while elucidation of structure–reactivity relationships demonstrated how computed molecular properties of both the nucleophile and electrophile correlated to reaction performance, providing a foundation for effective reaction outcome prediction.    
+No abstract    
 
     
 
