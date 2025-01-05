@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 04 Jan 2025 01:19:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 01:27:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,16 @@
       <author>Beck R. Miller, Ryan C. Cammarota, Matthew S. Sigman</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00329b</guid>
+    </item>
+    <item>
+      <title>Digital Features of Chemical Elements Extracted from Local Geometries in Crystal Structures</title>
+      <link>https://doi.org/10.1039/d4dd00346b</link>
+      <description>Andrij Vasylenko, Dmytro Antypov, Sven Schewe, Luke M. Daniels, John B. Claridge, Matthew S. Dyer, Matthew J. Rosseinsky, Digital Discovery. None(None)] 2024. https://openalex.org/W4406037181
+
+                Computational modelling of materials using machine learning (ML) and historical data has become integral to materials research across physical sciences. The accuracy of predictions for material properties using computational modelling...</description>
+      <author>Andrij Vasylenko, Dmytro Antypov, Sven Schewe, Luke M. Daniels, John B. Claridge, Matthew S. Dyer, Matthew J. Rosseinsky</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00346b</guid>
     </item>
   </channel>
 </rss>
