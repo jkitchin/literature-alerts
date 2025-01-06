@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 05 Jan 2025 01:27:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 01:24:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -48,16 +48,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.vacuum.2024.114004</guid>
     </item>
     <item>
-      <title>Noble metal-free XFeCoNiCu (X=Cr, Mg, and Mn) high entropy alloys for efficient ORR/OER bifunctional catalysis</title>
-      <link>https://doi.org/10.1016/j.colsurfa.2025.136106</link>
-      <description>Qing Chen, Ling Shi, Guiping Xu, Maocong Hu, Peng Mao, Zhenhua Yao, Colloids and Surfaces A Physicochemical and Engineering Aspects. None(None)] 2025. https://openalex.org/W4405987217
-
-                No abstract</description>
-      <author>Qing Chen, Ling Shi, Guiping Xu, Maocong Hu, Peng Mao, Zhenhua Yao</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2025.136106</guid>
-    </item>
-    <item>
       <title>Graphene clusters in carbon: Structural features and magnetic properties</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.162284</link>
       <description>Harutyun Gyulasaryan, D.B. Tolchina, L. A. Avakyan, V. V. Srabionyan, &#1051;. &#1040;. &#1041;&#1091;&#1075;&#1072;&#1077;&#1074;, A. T. Kozakov, Anatoliy Nikolskiy, A.S. Mikheykin, Ilya Pankov, Arshak A. Tsaturyan, A. V. Emelyanov, Ratibor G. Chumakov, Alexander S. Mukasyan, Aram Manukyan, Applied Surface Science. None(None)] 2025. https://openalex.org/W4405987891
@@ -96,6 +86,16 @@
       <author>Simone Santucci, Milica Vasiljevic, Haiwu Zhang, Victor Buratto Tinti, Achilles Bergne, Armando Antonio Morin-Martinez, Sandeep Kumar Chaluvadi, P. Orgiani, Simone Sanna, Anton Lyksborg-Andersen, Thomas W. Hansen, Ivano E. Castelli, Nini Pryds, Vincenzo Esposito</author>
       <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-55393-6</guid>
+    </item>
+    <item>
+      <title>Noble metal-free XFeCoNiCu (X=Cr, Mg, and Mn) high entropy alloys for efficient ORR/OER bifunctional catalysis</title>
+      <link>https://doi.org/10.1016/j.colsurfa.2025.136106</link>
+      <description>Qing Chen, Ling Shi, Guiping Xu, Maocong Hu, Peng Mao, Zhenhua Yao, Colloids and Surfaces A Physicochemical and Engineering Aspects. None(None)] 2025. https://openalex.org/W4405987217
+
+                No abstract</description>
+      <author>Qing Chen, Ling Shi, Guiping Xu, Maocong Hu, Peng Mao, Zhenhua Yao</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2025.136106</guid>
     </item>
     <item>
       <title>Efficient direct formic acid electrocatalysis enabled by rare earth-doped platinum-tellurium heterostructures</title>
@@ -232,7 +232,7 @@
       <link>https://doi.org/10.1021/acs.jctc.4c01427</link>
       <description>Johannes Karwounopoulos, M. Bieniek, Zhiyi Wu, Adam L. Baskerville, Gerhard K&#246;nig, Benjamin P. Cossins, Geoffrey P. F. Wood, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4406033300
 
-                No abstract</description>
+                The development of machine-learning (ML) potentials offers significant accuracy improvements compared to molecular mechanics (MM) because of the inclusion of quantum-mechanical effects in molecular interactions. However, ML simulations are several times more computationally demanding than MM simulations, so there is a trade-off between speed and accuracy. One possible compromise are hybrid machine learning/molecular mechanics (ML/MM) approaches with mechanical embedding that treat the intramolecular interactions of the ligand at the ML level and the protein&#8211;ligand interactions at the MM level. Recent studies have reported improved protein&#8211;ligand binding free energy results based on ML/MM using ANI-2x with mechanical embedding, arguing that intramolecular interactions like torsion potentials of the ligand are often the limiting factor for accuracy. This claim is evaluated based on 108 relative binding free energy calculations for four different benchmark systems. As an alternative strategy, we also tested a tool that fits the MM dihedral potentials to the ML level of theory. Fitting was performed with the ML potentials ANI-2x and AIMNet2, and, for the benchmark system TYK2, also with quantum-mechanical calculations using &#969;B97M-D3(BJ)/def2-TZVPPD. Overall, the relative binding free energy results from MM with Open Force Field 2.2.0, MM with ML-fitted torsion potentials, and the corresponding ML/MM end-state corrected simulations show no statistically significant differences in the mean absolute errors (between 0.8 and 0.9 kcal mol&#8211;1). This can probably be explained by the usage of the same MM parameters to calculate the protein&#8211;ligand interactions. Therefore, a well-parametrized force field is on a par with simple mechanical embedding ML/MM simulations for protein&#8211;ligand binding. In terms of computational costs, the reparametrization of poor torsional potentials is preferable over employing computationally intensive ML/MM simulations of protein&#8211;ligand complexes with mechanical embedding. Also, the refitting strategy leads to lower variances of the protein&#8211;ligand binding free energy results than the ML/MM end-state corrections. For free energy corrections with ML/MM, the results indicate that better convergence and more advanced ML/MM schemes will be required for applications in computer-guided drug discovery.</description>
       <author>Johannes Karwounopoulos, M. Bieniek, Zhiyi Wu, Adam L. Baskerville, Gerhard K&#246;nig, Benjamin P. Cossins, Geoffrey P. F. Wood</author>
       <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c01427</guid>
@@ -268,34 +268,64 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202423158</guid>
     </item>
     <item>
-      <title>Built-in electric field induced by defected carbons adjacent to graphitic nitrogen valley for efficient oxygen reduction reaction and zinc-air batteries</title>
-      <link>https://doi.org/10.1016/j.jechem.2024.12.021</link>
-      <description>Na Li, Tingting Ma, Huihui Wang, Jiayi Li, D.L. Qiu, Zhen Meng, Jiangdu Huang, Lijun Sui, Faming Han, Huidan Lu, Yongping Liu, Sundaram Chandrasekaran, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4405865451
+      <title>ViPErLEED package I: Calculation of &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;&lt;mml:mrow&gt;&lt;mml:mi&gt;I&lt;/mml:mi&gt;&lt;mml:mo&gt;(&lt;/mml:mo&gt;&lt;mml:mi&gt;V&lt;/mml:mi&gt;&lt;mml:mo&gt;)&lt;/mml:mo&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt; curves and structural optimization</title>
+      <link>https://doi.org/10.1103/physrevresearch.7.013005</link>
+      <description>Florian Kraushofer, Alexander M. Imre, Giada Franceschi, Tilman Ki&#223;linger, Erik Rheinfrank, Michael Schmid, Ulrike Diebold, Lutz Hammer, Michele Riva, Physical Review Research. 7(1)] 2025. https://openalex.org/W4406048601
 
-                No abstract</description>
-      <author>Na Li, Tingting Ma, Huihui Wang, Jiayi Li, D.L. Qiu, Zhen Meng, Jiangdu Huang, Lijun Sui, Faming Han, Huidan Lu, Yongping Liu, Sundaram Chandrasekaran</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.12.021</guid>
+                Low-energy electron diffraction (LEED) is a widely used technique in surface-science laboratories. Yet, it is rarely used to its full potential. The quantitative information about the surface structure, contained in the modulation of the intensities of the diffracted beams as a function of incident electron energy, LEED I(V), is underutilized. To acquire these data, only minor adjustments would be required in most experimental setups, but existing analysis software is cumbersome to use and often computationally inefficient. The ViPErLEED (Vienna package for Erlangen LEED) project lowers these barriers, introducing a combined solution for user-friendly data acquisition, extraction, and computational analysis. These parts are discussed in three separate publications. Here, the focus is on the computational part of ViPErLEED, which performs highly automated LEED-I(V) calculations and structural optimizations. Minimal user input is required, and the functionality is significantly enhanced compared to existing solutions. Computation is performed by embedding the existing Erlangen tensor-LEED package (). ViPErLEED manages additional parallelization, monitors convergence, and processes all input and output. This makes LEED I(V) more accessible to new users while minimizing the potential for errors and the manual labor. Added functionalities include intelligent structure-dependent defaults for most calculation parameters, automatic detection of bulk and surface symmetries and their relationship, automated search procedures that preserve the symmetry and speed up convergence, adjustments to the code to handle larger systems than before, as well as parallelization and optimization. Modern file formats are used as input and output, and there is a direct interface to the atomic simulation environment (ASE) package. The software is implemented primarily in (version &#8805;3.7) and provided as an open-source package (GNU GPLv3 or any later version). A structure determination of the &#945;-Fe2O3(11&#175;02)&#8722;(1&#215;1) surface is presented as an example for the application of the software. Published by the American Physical Society 2025</description>
+      <author>Florian Kraushofer, Alexander M. Imre, Giada Franceschi, Tilman Ki&#223;linger, Erik Rheinfrank, Michael Schmid, Ulrike Diebold, Lutz Hammer, Michele Riva</author>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevresearch.7.013005</guid>
     </item>
     <item>
-      <title>Construction and structural activities of single-, dual-, and triple-phase nickel phosphides for hydrogen evolution reaction in acidic and alkaline media</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.12.388</link>
-      <description>Abebe Reda Woldu, Jintao Zhang, Rui Li, Zanling Huang, Zhiyuan Wang, J. Li, Guo-Ling Li, Liangsheng Hu, International Journal of Hydrogen Energy. 100(None)] 2024. https://openalex.org/W4405870576
+      <title>Engineering structure-activity relationships in rhodium-based catalysts for Electrocatalysis</title>
+      <link>https://doi.org/10.1016/j.ccr.2024.216418</link>
+      <description>Juan Bai, Jun Mei, Ting Liao, Ziqi Sun, Coordination Chemistry Reviews. 528(None)] 2025. https://openalex.org/W4406053679
 
                 No abstract</description>
-      <author>Abebe Reda Woldu, Jintao Zhang, Rui Li, Zanling Huang, Zhiyuan Wang, J. Li, Guo-Ling Li, Liangsheng Hu</author>
-      <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.388</guid>
+      <author>Juan Bai, Jun Mei, Ting Liao, Ziqi Sun</author>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.216418</guid>
     </item>
     <item>
-      <title>Spin-polarized binuclear transition metal doping on g-C&#8323;N&#8324; for photocatalytic CO&#8322; reduction to C2 products: A DFT study</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114798</link>
-      <description>Xiaoyi Hu, Qingyu Li, Weiguo Li, Yixin Deng, Diwen Liu, Yanjie Zhang, Rusheng Yuan, Zuju Ma, Jiming Zhang, Rongjian Sa, Molecular Catalysis. 572(None)] 2024. https://openalex.org/W4405876574
+      <title>Understanding the promotional role of Pd in oxidative alcohol coupling reactions over dilute PdAu alloys</title>
+      <link>https://doi.org/10.1016/j.jcat.2025.115942</link>
+      <description>Oluwatofunmi O. Akinsanya, Deep M. Patel, C. R. O'Connor, Marta Perx&#233;s Perich, Jessi E. S. van der Hoeven, C. Reece, Luke T. Roling, Nathaniel M. Eagan, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4406057237
 
                 No abstract</description>
-      <author>Xiaoyi Hu, Qingyu Li, Weiguo Li, Yixin Deng, Diwen Liu, Yanjie Zhang, Rusheng Yuan, Zuju Ma, Jiming Zhang, Rongjian Sa</author>
-      <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114798</guid>
+      <author>Oluwatofunmi O. Akinsanya, Deep M. Patel, C. R. O'Connor, Marta Perx&#233;s Perich, Jessi E. S. van der Hoeven, C. Reece, Luke T. Roling, Nathaniel M. Eagan</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.115942</guid>
+    </item>
+    <item>
+      <title>Atomically Dispersed Metal&#8211;Nitrogen&#8211;Carbon Catalysts for Acidic Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acsami.4c16972</link>
+      <description>Xiang Ao, Haoran Wang, Xia Zhang, Chundong Wang, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4406058102
+
+                No abstract</description>
+      <author>Xiang Ao, Haoran Wang, Xia Zhang, Chundong Wang</author>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c16972</guid>
+    </item>
+    <item>
+      <title>Cross-scale covariance for material property prediction</title>
+      <link>https://doi.org/10.1038/s41524-024-01453-w</link>
+      <description>Benjamin A. Jasperson, Ilia Nikiforov, Amit Samanta, Fei Zhou, Ellad B. Tadmor, Vincenzo Lordi, Vasily V. Bulatov, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4406060145
+
+                A simulation can stand its ground against an experiment only if its prediction uncertainty is known. The unknown accuracy of interatomic potentials (IPs) is a major source of prediction uncertainty, severely limiting the use of large-scale classical atomistic simulations in a wide range of scientific and engineering applications. Here we explore covariance between predictions of metal plasticity, from 178 large-scale (~108 atoms) molecular dynamics (MD) simulations, and a variety of indicator properties computed at small-scales (&#8804;102 atoms). All simulations use the same 178 IPs. In a manner similar to statistical studies in public health, we analyze correlations of strength with indicators, identify the best predictor properties, and build a cross-scale "strength-on-predictors" regression model. This model is then used to estimate regression error over the statistical pool of IPs. Small-scale predictors found to be highly covariant with strength are computed using expensive quantum-accurate calculations and used to predict flow strength, within the statistical error bounds established in our study.</description>
+      <author>Benjamin A. Jasperson, Ilia Nikiforov, Amit Samanta, Fei Zhou, Ellad B. Tadmor, Vincenzo Lordi, Vasily V. Bulatov</author>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01453-w</guid>
+    </item>
+    <item>
+      <title>Doping La into NiFe LDH/NiS heterostructure achieving high-current-density oxygen evolution for anion exchange membrane water electrolysis</title>
+      <link>https://doi.org/10.1016/j.cej.2024.157526</link>
+      <description>Qi Song, Kangnan Li, Zhenhua Cao, Mi Yang, Qian Kong, Gang He, Hongyu Liu, Qian Qiao, Liangzhong Yao, Yufan Wang, Xiaoping Dai, Xin Zhang, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4406069455
+
+                No abstract</description>
+      <author>Qi Song, Kangnan Li, Zhenhua Cao, Mi Yang, Qian Kong, Gang He, Hongyu Liu, Qian Qiao, Liangzhong Yao, Yufan Wang, Xiaoping Dai, Xin Zhang</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.157526</guid>
     </item>
     <item>
       <title>Design and Synthesis of PtPdNiCoMn High&#8208;Entropy Alloy Electrocatalyst for Enhanced Alkaline Hydrogen Evolution Reaction: A Theoretically Supported Predictive Design Approach</title>
@@ -516,6 +546,16 @@
       <author>Chenming Fan, Xin Gao, Pengyi Tang, Qiang Wang, Bing Li</author>
       <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/advs.202410784</guid>
+    </item>
+    <item>
+      <title>Efficient Sampling for Machine Learning Electron Density and Its Response in Real Space</title>
+      <link>https://doi.org/10.1021/acs.jctc.4c01355</link>
+      <description>Chaoqiang Feng, Yaolong Zhang, Bin Jiang, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4406051705
+
+                Electron density is a fundamental quantity that can in principle determine all ground state electronic properties of a given system. Although machine learning (ML) models for electron density based on either an atom-centered basis or a real-space grid have been proposed, the demand for a number of high-order basis functions or grid points is enormous. In this work, we propose an efficient grid-point sampling strategy that combines targeted sampling favoring a large density and a screening of grid points associated with linearly independent atomic features. This new sampling strategy is integrated with a field-induced recursively embedded atom neural network model to develop a real-space grid-based ML model for the electron density and its response to an electric field. This approach is applied to a QM9 molecular data set, a H2O/Pt(111) interfacial system, an Au(100) electrode, and an Au nanoparticle under an electric field. The number of training points is found to be much smaller than previous models, while yielding comparably accurate predictions for the electron density of the entire grid. The resultant machine-learned electron density model enables us to properly partition partial charge onto each atom and analyze the charge variation upon proton transfer in the H2O/Pt(111) system. The machine-learning electronic response model allows us to predict charge transfer and the electrostatic potential change induced by an electric field applied to an Au(100) electrode or an Au nanoparticle.</description>
+      <author>Chaoqiang Feng, Yaolong Zhang, Bin Jiang</author>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c01355</guid>
     </item>
     <item>
       <title>Boosting engineering strategies for plastic hydrocracking applications: a machine learning-based multi-objective optimization framework</title>

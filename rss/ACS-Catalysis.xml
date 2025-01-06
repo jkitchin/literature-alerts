@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 05 Jan 2025 01:26:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 01:24:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -166,16 +166,6 @@
       <author>Xuan Luo, Bingbing Li, Tongming Su, Xinling Xie, Zuzeng Qin, Hongbing Ji</author>
       <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05427</guid>
-    </item>
-    <item>
-      <title>Constructing Ordered Oxophilic Tin Sites on Platinum to Achieve a High-Performance and Anti-CO Poisoning Hydrogen Oxidation Reaction under an Alkaline Electrolyte</title>
-      <link>https://doi.org/10.1021/acscatal.4c06469</link>
-      <description>Chaoyi Yang, Guangqin Wang, Jianchao Yue, Zhifeng Dai, Wei Luo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405867615
-
-                No abstract</description>
-      <author>Chaoyi Yang, Guangqin Wang, Jianchao Yue, Zhifeng Dai, Wei Luo</author>
-      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06469</guid>
     </item>
     <item>
       <title>Unlocking the Substrate Acceptance of Phenylalanine Amine Dehydrogenase Enables the Asymmetric Synthesis of Pharmaceutical &lt;i&gt;N&lt;/i&gt;-Heterocyclic Primary Amines</title>

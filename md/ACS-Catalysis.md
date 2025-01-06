@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Jan  5 01:26:58 2025
+Created on Mon Jan  6 01:24:21 2025
 
-Found 26 results from 2024-12-29 to 2025-01-05
+Found 25 results from 2024-12-30 to 2025-01-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -177,17 +177,6 @@ OpenAlex: https://openalex.org/W4406037985
 Open access: False
     
 [Xuan Luo](https://openalex.org/A5003893515), [Bingbing Li](https://openalex.org/A5100375960), [Tongming Su](https://openalex.org/A5031230952), [Xinling Xie](https://openalex.org/A5101045882), [Zuzeng Qin](https://openalex.org/A5082617917), [Hongbing Ji](https://openalex.org/A5034228364), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c05427.
-    
-No abstract    
-
-    
-
-## Constructing Ordered Oxophilic Tin Sites on Platinum to Achieve a High-Performance and Anti-CO Poisoning Hydrogen Oxidation Reaction under an Alkaline Electrolyte   
-
-OpenAlex: https://openalex.org/W4405867615    
-Open access: False
-    
-[Chaoyi Yang](https://openalex.org/A5104120338), [Guangqin Wang](https://openalex.org/A5051536788), [Jianchao Yue](https://openalex.org/A5081310019), [Zhifeng Dai](https://openalex.org/A5077311986), [Wei Luo](https://openalex.org/A5062213729), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06469.
     
 No abstract    
 
