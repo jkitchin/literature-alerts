@@ -1,31 +1,10 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Mon Jan  6 01:24:23 2025
+Created on Tue Jan  7 01:21:37 2025
 
-Found 3 results from 2024-12-30 to 2025-01-06
+Found 2 results from 2024-12-31 to 2025-01-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
-
-* Catalytic Resonance Theory: Forecasting the Flow of Programmable Catalytic Loops  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405892021
-:TOPICS: Machine Learning in Materials Science
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00216d")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405892021"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405892021"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405892021"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405892021 (Open access: True)
-    
-[[https://openalex.org/A5051959855][Madeline A. Murphy]], [[https://openalex.org/A5033015720][Kyle Noordhoek]], [[https://openalex.org/A5030610409][Sallye R. Gathmann]], [[https://openalex.org/A5003718847][Paul J. Dauenhauer]], [[https://openalex.org/A5065773454][Christopher J. Bartel]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00216d 
-     
-Chemical transformations on catalyst surfaces occur through series and parallel reaction pathways. These complex networks and their behavior can be most simply evaluated through a three-species surface reaction loop (A*...    
-
-    
 
 * SMARTpy: A Python Package for the Generation of Cavity Steric Molecular Descriptors and Applications to Diverse Systems  :Digital_Discovery:
 :PROPERTIES:

@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Jan  6 01:24:21 2025
+Created on Tue Jan  7 01:21:34 2025
 
-Found 25 results from 2024-12-30 to 2025-01-06
+Found 22 results from 2024-12-31 to 2025-01-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -179,39 +179,6 @@ Open access: False
 [Xuan Luo](https://openalex.org/A5003893515), [Bingbing Li](https://openalex.org/A5100375960), [Tongming Su](https://openalex.org/A5031230952), [Xinling Xie](https://openalex.org/A5101045882), [Zuzeng Qin](https://openalex.org/A5082617917), [Hongbing Ji](https://openalex.org/A5034228364), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c05427.
     
 No abstract    
-
-    
-
-## Unlocking the Substrate Acceptance of Phenylalanine Amine Dehydrogenase Enables the Asymmetric Synthesis of Pharmaceutical N-Heterocyclic Primary Amines   
-
-OpenAlex: https://openalex.org/W4405883541    
-Open access: False
-    
-[Tao Wu](https://openalex.org/A5101525600), [Yao Nie](https://openalex.org/A5087324294), [Jiaxing Xu](https://openalex.org/A5103159262), [Xiaoqing Mu](https://openalex.org/A5062611477), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06478.
-    
-N-Heterocyclic primary amines are highly valuable and recurrent synthons in the pharmaceutical industry. Amine dehydrogenase (AmDH)-catalyzed direct asymmetric reductive amination of the readily available N-heterocyclic ketones represents a promising approach for synthesizing N-heterocyclic primary amines. However, the limited substrate acceptance of AmDHs restricts their application in reductive amination. In this endeavor, we unlocked the substrate acceptance of phenylalanine amine dehydrogenase from Bacillus badius (F-BbAmDH) to access a panel of N-Boc-substituted heterocyclic ketones with a broad range of structural features. Based on the combination of a reverse substrate design strategy and structural-guided steric hindrance mutagenesis, two active F-BbAmDH mutants with expanded N-heterocyclic ketone specificity toward N-Boc-3-piperidone were generated, and two rounds of additional iterative site mutagenesis further increased the catalytic activity by 143.4-fold. The optimal triple mutant M3-2 displayed a significantly extended scope of N-Boc-substituted heterocyclic ketones, and its practical asymmetric synthesis performance was confirmed in the gram-scale synthesis of the key intermediate of alogliptin, (R)-1-Boc-3-piperidinamine, achieving >99% ee, 86% conversion, and 80% (4.0 g) isolated yield. This work lays the foundation for the biocatalytic synthesis of structurally diverse N-heterocyclic primary amines and gives referable guidance for engineering oxidoreductases sharing an analogous pocket into versatile biocatalysts.    
-
-    
-
-## Structural Insights into Novel Thiolases for Enhancing the Production of Tailored Biochemicals   
-
-OpenAlex: https://openalex.org/W4405892706    
-Open access: False
-    
-[Jiyeon Hong](https://openalex.org/A5103944944), [Hyeoncheol Francis Son](https://openalex.org/A5016068844), [Soyoung Park](https://openalex.org/A5100417971), [Jiyoung Park](https://openalex.org/A5000973344), [Hogyun Seo](https://openalex.org/A5048830775), [Kwang‐Hyeon Liu](https://openalex.org/A5065474597), [Kyung‐Jin Kim](https://openalex.org/A5100671815), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05635.
-    
-Thiolase is essential in the first step of synthesizing many value-added biochemicals. However, only a few feasible THLs have been reported, and a limited understanding of these enzymes has restricted their broader application in valuable production processes. In this study, biochemical and structural analysis identified the specific properties of THLs belonging to three groups for synthesizing medium- to long-chain fatty acids, polyketide, and dicarboxylic acid, represented by adipic acid. We further demonstrated that hydrolysis activity, considered a rate-limiting step in the biosynthetic process, can be alleviated through flux balance and site-directed mutagenesis. Notably, we discovered two THLs with strong biosynthetic abilities and low hydrolysis: PaTHL4, effective for medium- to long-chain fatty acids and polyketides, and PaTHL7, tailored for adipic acid production. This study provides valuable insights into tailored THLs for specific biochemical production.    
-
-    
-
-## Bioinformatics and Computationally Supported Redesign of Aspartase for β-Alanine Synthesis by Acrylic Acid Hydroamination   
-
-OpenAlex: https://openalex.org/W4405896055    
-Open access: True
-    
-[Alejandro Gran‐Scheuch](https://openalex.org/A5008894842), [Hein J. Wijma](https://openalex.org/A5040139581), [Nikolas Capra](https://openalex.org/A5032943526), [Hugo L. van Beek](https://openalex.org/A5009460713), [Miloš Trajković](https://openalex.org/A5084669242), [Kai Baldenius](https://openalex.org/A5068574859), [Michael Breuer](https://openalex.org/A5059755170), [A.M.W.H. Thunnissen](https://openalex.org/A5087468780), [Dick B. Janssen](https://openalex.org/A5076930474), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05525.
-    
-Aspartate ammonia lyases catalyze the reversible amination of fumarate to l-aspartate. Recent studies demonstrate that the thermostable enzyme from Bacillus sp. YM55–1 (AspB) can be engineered for the enantioselective production of substituted β-amino acids. This reaction would be attractive for the conversion of acrylic acid to β-alanine, which is an important building block for the preparation of bioactive compounds. Here we describe a bioinformatics and computational approach aimed at introducing the β-alanine synthesis activity. Three strategies were used: First, we redesigned the α-carboxylate binding pocket of AspB to introduce activity with the acrylic acid. Next, different template enzymes were identified by genome mining, equipped with a redesigned α-carboxylate pocket, and investigated for β-alanine synthesis, which yielded variants with better activity. Third, interactions of the SS-loop that covers the active site and harbors a catalytic serine were computationally redesigned using energy calculations to stabilize reactive conformations and thereby further increase the desired β-alanine synthesis activity. Different improved enzymes were obtained and the best variants showed kcat values with acrylic acid of at least 0.6–1.5 s–1 with KM values in the high mM range. Since the β-alanine production of wild-type enzyme was below the detection limit, this suggests that the kcat/Km was improved by at least 1000-fold. Crystal structures of the 6-fold mutant of redesigned AspB and the similarly engineered aspartase from Caenibacillus caldisaponilyticus revealed that their ligand-free structures have the SS-loop in a closed (reactive) conformation, which for wild-type AspB is only observed in the substrate-bound enzyme. AlphaFold-generated models suggest that other aspartase variants redesigned for acrylic acid hydroamination also prefer a 3D structure with the loop in a closed conformation. The combination of binding pocket redesign, genome mining, and enhanced active-site loop closure thus created effective β-alanine synthesizing variants of aspartase.    
 
     
 

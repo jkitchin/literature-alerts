@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Jan  6 01:24:32 2025
+Created on Tue Jan  7 01:21:45 2025
 
-Found 56 results from 2024-12-30 to 2025-01-06
+Found 51 results from 2024-12-31 to 2025-01-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967)
@@ -336,17 +336,6 @@ No abstract
 
     
 
-## Atomically Dispersed Metal–Nitrogen–Carbon Catalysts for Acidic Oxygen Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4406058102    
-Open access: False
-    
-[Xiang Ao](https://openalex.org/A5006383256), [Haoran Wang](https://openalex.org/A5100324834), [Xia Zhang](https://openalex.org/A5100461897), [Chundong Wang](https://openalex.org/A5031825962), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.4c16972.
-    
-No abstract    
-
-    
-
 ## Cross-scale covariance for material property prediction   
 
 OpenAlex: https://openalex.org/W4406060145    
@@ -369,100 +358,34 @@ No abstract
 
     
 
-## Design and Synthesis of PtPdNiCoMn High‐Entropy Alloy Electrocatalyst for Enhanced Alkaline Hydrogen Evolution Reaction: A Theoretically Supported Predictive Design Approach   
+## Polarization switching-controlled oxygen evolution and reduction reactions for ferroelectric single-atom catalysts   
 
-OpenAlex: https://openalex.org/W4405879984    
-Open access: True
-    
-[Athira Chandran M](https://openalex.org/A5092561555), [Pritha Dutta](https://openalex.org/A5006129727), [Prashant Singh](https://openalex.org/A5046800198), [Ashutosh K. Singh](https://openalex.org/A5069999052), [B. L. V. Prasad](https://openalex.org/A5026043667), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202418644.
-    
-Abstract Electrocatalytic hydrogen generation requires a cutting‐edge, multifunctional electrocatalyst with abundant active sites to drive multielectron transfer reactions. High entropy alloys (HEA) are complex five or more‐element alloy systems with high configurational entropy which makes them unique materials for next‐generation electrocatalysts. Here, in this work, based on new screening guidelines for catalyst selections that combine density‐functional theory calculated Gibbs formation‐enthalpy with bond length and electronegativity variance, a novel HEA electrocatalyst consisting of five elements, namely, Pt, Pd, Ni, Co, and Mn is designed. By simple room temperature electrodeposition, the designed catalyst is prepared and its hydrogen evolution reaction (HER) is explored and validated through experimental and theoretical approaches. The HEA demonstrated a superior HER activity with an overpotential of 22.6 mV at −10 mA cm −2 which outperforms Pt/C commercial catalyst. No evident degradation of the material is detected even after 100 hours of continuous operation under high current density. Moreover, the HEA has shown exceptional performance in harsh electrolyte conditions such as in simulated seawater and actual seawater. Remarkably, the density‐functional theory calculated small Gibbs formation‐enthalpy (≈0 eV) compared to Pt/C places the new HEA near the apex of Trasatti's model of Volcano plot, which is also suggestive of superior HER activity.    
-
-    
-
-## A DFT study on the structural properties and CO2 electrocatalytic reduction activity of monolayer graphitic carbon nitride supported Ag/Au single atom catalysts   
-
-OpenAlex: https://openalex.org/W4405882115    
+OpenAlex: https://openalex.org/W4406069716    
 Open access: False
     
-[Hui-Ling Shui](https://openalex.org/A5081679759), [G. S. Li](https://openalex.org/A5111287909), [Chao Fu](https://openalex.org/A5002675645), [Dong-Heng Li](https://openalex.org/A5089677738), [Xiaoqin Liang](https://openalex.org/A5047708304), [Kai Li](https://openalex.org/A5100399913), [Laicai Li](https://openalex.org/A5024867236), [Yan Zheng](https://openalex.org/A5035956405), Surface Science. None(None)] 2024.https://doi.org/10.1016/j.susc.2024.122692.
+[Wenqing Li](https://openalex.org/A5100621743), [Hongyu Zhang](https://openalex.org/A5100412599), [Ruoyan Xu](https://openalex.org/A5102627674), [Xingxing Jiang](https://openalex.org/A5005640447), [Haiyu Meng](https://openalex.org/A5003717796), [Xiong‐Xiong Xue](https://openalex.org/A5069243251), [Shengli Zhang](https://openalex.org/A5100413426), Chemical Engineering Journal. None(None)] 2025.https://doi.org/10.1016/j.cej.2025.159247.
     
 No abstract    
 
     
 
-## Efficient Bifunctional Electrocatalysts for Oxygen Evolution/Reduction Reactions in Two-Dimensional Metal–Organic Frameworks by a Constant Potential Method   
+## Screening van der Waals transition metal carbo-selenide MXenes as efficient electrocatalysts for hydrogen evolution reaction   
 
-OpenAlex: https://openalex.org/W4405884135    
+OpenAlex: https://openalex.org/W4406074415    
 Open access: False
     
-[Jin Yu](https://openalex.org/A5046288711), [Tianyun Liu](https://openalex.org/A5039870914), [Xuefei Liu](https://openalex.org/A5056992365), [Wei Deng](https://openalex.org/A5115605011), [Wenjun Xiao](https://openalex.org/A5101412948), [Yaqiong Su](https://openalex.org/A5013121247), [Xiaosi Qi](https://openalex.org/A5065577097), [Gang Wang](https://openalex.org/A5100367479), [Degui Wang](https://openalex.org/A5082240190), [Mingqiang Liu](https://openalex.org/A5109111223), [Wu Yan](https://openalex.org/A5100321768), [Abuduwayiti Aierken](https://openalex.org/A5072051258), [Xuan Chen](https://openalex.org/A5100446804), [Xu Wang](https://openalex.org/A5103281189), [Changsong Gao](https://openalex.org/A5085544847), [Hui Xiong](https://openalex.org/A5008609086), [Xiangyu Wu](https://openalex.org/A5069600216), [Jiajin Ge](https://openalex.org/A5102387908), [Jinshun Bi](https://openalex.org/A5061172070), Langmuir. None(None)] 2024.https://doi.org/10.1021/acs.langmuir.4c04034.
-    
-The evolution of bifunctional catalysts for the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) catalysts that are highly active, stable, and conductive is crucial for advancing metal-air batteries and fuel cells. We have here thoroughly explored the OER and ORR performance for a category of two-dimensional (2D) metal–organic frameworks (MOFs) called TM3(HADQ)2, and Rh3(HADQ)2 exhibits a promising bifunctional OER/ORR activity, with an overpotential of 0.31 V for both OER and ORR. The d-band center (εd) and crystal orbital Hamilton populations (COHP) are utilized to study the relationship between OER/ORR activity and the electronic structure of catalysts, and it is found that the elementary d-electron number (Ne) of the central TM for TM3(HADQ)2, as well as the electronegativity of the ligand TM-N4 and the intermediate O atom, are the main reason that affects the catalytic activity of OER/ORR. Additionally, Rh3(HADQ)2 can be proven through the constant potential method (CPM) and microkinetics method that it is an acidic OER/ORR bifunctional catalyst. Rh3(HADQ)2 has a high toxicity tolerance, making it a potential bifunctional catalyst. Our research contributes to both the rational design of SACs for various catalytic processes and the fabrication of bifunctional, cost-effective oxygen-electric catalysts.    
-
-    
-
-## A fluorinated hydrophobic metal–organic framework for CH4 purification from seven-component C1/C2/C3 hydrocarbons mixture   
-
-OpenAlex: https://openalex.org/W4405884275    
-Open access: False
-    
-[Tong Li](https://openalex.org/A5100359016), [Xiaomin Li](https://openalex.org/A5100422222), [Yong Wang](https://openalex.org/A5045699803), [Xiaoxia Jia](https://openalex.org/A5101162310), [Hui Chen](https://openalex.org/A5100334212), [Yongjian Li](https://openalex.org/A5100779228), [Jiangfeng Yang](https://openalex.org/A5052719721), [Jinping Li](https://openalex.org/A5100603460), [Libo Li](https://openalex.org/A5100705153), Separation and Purification Technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.131359.
+[Chen Zhou](https://openalex.org/A5049133739), [Renfei Cheng](https://openalex.org/A5061312649), [Junchao Wang](https://openalex.org/A5020902466), [Min Zhao](https://openalex.org/A5085960809), [Lijun Ren](https://openalex.org/A5100950753), [Tao Hu](https://openalex.org/A5001755416), [Xiaohui Wang](https://openalex.org/A5100410747), [Chunxian Guo](https://openalex.org/A5082531689), International Journal of Hydrogen Energy. 101(None)] 2025.https://doi.org/10.1016/j.ijhydene.2024.12.295.
     
 No abstract    
 
     
 
-## Hydrogen Evolution Reaction in Borophene: Puckering Mechanism and the Role of Coordination Number   
+## Mesoporous Co-MoS2 with sulfur vacancies: A bifunctional electrocatalyst for enhanced water-splitting reactions in alkaline media   
 
-OpenAlex: https://openalex.org/W4405893138    
-Open access: True
-    
-[Yi Sheng Ng](https://openalex.org/A5020594707), [Jin‐Cheng Zheng](https://openalex.org/A5070732533), ACS Omega. None(None)] 2024.https://doi.org/10.1021/acsomega.4c08031.
-    
-Using the free energy of hydrogen adsorption (ΔGH) as the indicator, five borophene phases are previously shown to possess high catalytic activity for the hydrogen evolution reaction (HER). On these borophene phases, we investigate the role of the coordination number (CN = 4, 5, 6) of the adsorption sites and the puckering of the adsorption site. CN is discovered to have a profound effect on the ΔGH distribution, charge, and puckering height (h) of adsorption sites. Employing bonding indicators, we investigated the puckering mechanism. An increase in h directly increases the bond order and bond strength of the adsorption bond, but the associated energy cost of bond stretching hinders further puckering. The occupation and localization of σ orbitals determine the strength of local σ bonds─the key factors determining h. External biaxial strain is revealed to monotonically modulate the 2s character in local σ bonds, thus affecting bond stretchability, altering h and ΔGH subsequently. These insights are valuable for borophene-based HER applications and provide an analytical framework for the adsorption on 2D materials.    
-
-    
-
-## Pt nanoparticles supported on in-situ growth titanium dioxide nanowire arrays with oxygen vacancies for hydrogen evolution reaction   
-
-OpenAlex: https://openalex.org/W4405894299    
+OpenAlex: https://openalex.org/W4406074619    
 Open access: False
     
-[Shipeng Wang](https://openalex.org/A5062314622), [Le Sang](https://openalex.org/A5039102274), [Zipan Jiao](https://openalex.org/A5113354142), [Feiyan Zhang](https://openalex.org/A5074592118), [Yingde Wang](https://openalex.org/A5088326586), [Benhua Xu](https://openalex.org/A5100943757), [Peng Zhang](https://openalex.org/A5100364064), [Bingxin Liu](https://openalex.org/A5016275070), [Yunsi Wang](https://openalex.org/A5017142913), [Yongcheng Li](https://openalex.org/A5101515356), [Riming Hu](https://openalex.org/A5019628107), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.162257.
-    
-No abstract    
-
-    
-
-## Steering acidic oxygen reduction selectivity of single-atom catalysts through the second sphere effect   
-
-OpenAlex: https://openalex.org/W4405894806    
-Open access: True
-    
-[Haiyuan Zou](https://openalex.org/A5037340591), [Siyan Shu](https://openalex.org/A5108925592), [Wenqiang Yang](https://openalex.org/A5029181893), [You‐Chiuan Chu](https://openalex.org/A5052774133), [Minglun Cheng](https://openalex.org/A5091760648), [Hongliang Dong](https://openalex.org/A5073773805), [Hong Liu](https://openalex.org/A5073317013), [Fan Li](https://openalex.org/A5030842098), [Junhui Hu](https://openalex.org/A5101443520), [Zhenbin Wang](https://openalex.org/A5037685122), [Wei Liu](https://openalex.org/A5100431845), [Hao Ming Chen](https://openalex.org/A5073478852), [Lele Duan](https://openalex.org/A5047901288), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-55116-x.
-    
-Natural enzymes feature distinctive second spheres near their active sites, leading to exquisite catalytic reactivity. However, incumbent synthetic strategies offer limited versatility in functionalizing the second spheres of heterogeneous catalysts. Here, we prepare an enzyme-mimetic single Co-N    
-
-    
-
-## Electrochemically synthesized H2O2 at industrial-level current densities enabled by in situ fabricated few-layer boron nanosheets   
-
-OpenAlex: https://openalex.org/W4405894857    
-Open access: True
-    
-[Yuhan Wu](https://openalex.org/A5088154305), [Yuying Zhao](https://openalex.org/A5024596775), [Qixin Yuan](https://openalex.org/A5053486146), [Hao Sun](https://openalex.org/A5016031066), [Ao Wang](https://openalex.org/A5100759956), [Kang Sun](https://openalex.org/A5074427178), [Geoffrey I. N. Waterhouse](https://openalex.org/A5044592235), [Ziyun Wang](https://openalex.org/A5100744706), [Jingjie Wu](https://openalex.org/A5071139658), [Jianchun Jiang](https://openalex.org/A5056292660), [Mengmeng Fan](https://openalex.org/A5002633288), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-55071-7.
-    
-Carbon nanomaterials show outstanding promise as electrocatalysts for hydrogen peroxide (H    
-
-    
-
-## Theoretical investigation of structural and electronic properties and water splitting electrocatalytic performance of TM-decorated (TM = Mn, Fe, Co, and Ni) biphenylene monolayers   
-
-OpenAlex: https://openalex.org/W4405895627    
-Open access: False
-    
-[Seifollah Jalili](https://openalex.org/A5081971255), [Faezeh Taravat](https://openalex.org/A5115702535), [Atena Pakzadiyan](https://openalex.org/A5080078505), Structural Chemistry. None(None)] 2024.https://doi.org/10.1007/s11224-024-02444-9.
+[Hongmei Wu](https://openalex.org/A5083421845), [Yao Zhang](https://openalex.org/A5009865106), [Baoshan Liu](https://openalex.org/A5004038189), [Jing Liu](https://openalex.org/A5090731696), [Liping Zhao](https://openalex.org/A5012575364), [Peng Zhang](https://openalex.org/A5100364027), [Lian Gao](https://openalex.org/A5100784204), Journal of Colloid and Interface Science. None(None)] 2025.https://doi.org/10.1016/j.jcis.2025.01.017.
     
 No abstract    
 
@@ -608,6 +531,28 @@ Open access: True
 [Chenming Fan](https://openalex.org/A5048036566), [Xin Gao](https://openalex.org/A5101580415), [Pengyi Tang](https://openalex.org/A5089337725), [Qiang Wang](https://openalex.org/A5100366940), [Bing Li](https://openalex.org/A5100600073), Advanced Science. None(None)] 2024.https://doi.org/10.1002/advs.202410784 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202410784)).
     
 Abstract Precious metal‐based single‐atom catalysts (PM‐SACs) hosted in N‐doped carbon supports have shown new opportunities to revolutionize cathodic oxygen reduction reaction (ORR). However, stabilizing the high density of PM‐N x sites remains a challenge, primarily due to the inherently high free energy of isolated metal atoms, predisposing them to facile atomic agglomeration. Herein, a molten salt‐assisted synthesis strategy is proposed to prepare porous PM 1 /N‐C Pores (PM = Ru, Pt, and Pd) electrocatalysts with densely accessible PM‐N x sites. A hierarchically porous N‐doped carbon substrate (N‐C Pores ), synthesized via the NaCl‐assisted pyrolysis of zeolitic imidazolate framework‐8, effectively improves the utilization of PM‐N x sites by increased reactants accessible surface area and reduced mass transfer resistance. In accordance with theoretical calculations, the as‐prepared Ru 1 /N‐C Pores , featuring superior intrinsic active Ru‐N 4 sites, exhibit outstanding ORR turnover frequency of 6.19 e − site −1 s −1 , and outperforms the commercial Pt/C with a 5.3‐fold of mass activity (5.83 ± 0.61 A mg −1 ) at 0.8 V versus reversible hydrogen electrode. The commendable activity and stability of Ru 1 /N‐C Pores in a real fuel cell device further affirm its practical applicability.    
+
+    
+
+## Atomically Dispersed Metal–Nitrogen–Carbon Catalysts for Acidic Oxygen Reduction Reaction   
+
+OpenAlex: https://openalex.org/W4406058102    
+Open access: False
+    
+[Xiang Ao](https://openalex.org/A5006383256), [Haoran Wang](https://openalex.org/A5100324834), [Xia Zhang](https://openalex.org/A5100461897), [Chundong Wang](https://openalex.org/A5031825962), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.4c16972.
+    
+Designing efficient and cost-effective electrocatalysts toward oxygen reduction reaction (ORR) under demanding acidic environments plays a critical role in advancing proton exchange membrane fuel cells (PEMFCs). Metal–nitrogen–carbon (M–N–C) catalysts with atomically dispersed metals have gained attention for their affordability, excellent catalytic performance, and distinctive features including consistent active sites and high atomic utilization. Over the past decade, significant achievements have been made in this field. This review offers a comprehensive summary of the latest developments in atomically dispersed M–N–C catalysts for ORR in acidic environments along with their applications in PEMFCs. The ORR mechanisms, PEMFC configuration, and operational principles are presented first, followed by an in-depth discussion of strategies to improve the activity and stability of the PEMFC using atomically dispersed M–N–C catalysts at the cathode. Lastly, this review highlights the unresolved challenges and proposes future research pathways for advancing high-performance atomically dispersed M–N–C catalysts and PEMFCs.    
+
+    
+
+## High content Fe(III) electrocatalyst for the oxygen reduction and evolution reactions. Spectroscopic, electrochemical, and theoretical insights   
+
+OpenAlex: https://openalex.org/W4406074461    
+Open access: False
+    
+[César Zúñiga Loyola](https://openalex.org/A5034766631), [Andrea Zitolo](https://openalex.org/A5069516295), [Nicolás Troncoso](https://openalex.org/A5030442630), [Jesus Carrasco](https://openalex.org/A5012064200), [Sergio Choque](https://openalex.org/A5010338759), [Gabriel Abarca](https://openalex.org/A5090964221), [José H. Zagal](https://openalex.org/A5102982945), [Walter Orellana](https://openalex.org/A5052977806), [Federico Tasca](https://openalex.org/A5014552784), International Journal of Hydrogen Energy. 101(None)] 2025.https://doi.org/10.1016/j.ijhydene.2024.12.385.
+    
+No abstract    
 
     
 

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 06 Jan 2025 01:24:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 01:21:37 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Catalytic Resonance Theory: Forecasting the Flow of Programmable Catalytic Loops</title>
-      <link>https://doi.org/10.1039/d4dd00216d</link>
-      <description>Madeline A. Murphy, Kyle Noordhoek, Sallye R. Gathmann, Paul J. Dauenhauer, Christopher J. Bartel, Digital Discovery. None(None)] 2024. https://openalex.org/W4405892021
-
-                Chemical transformations on catalyst surfaces occur through series and parallel reaction pathways. These complex networks and their behavior can be most simply evaluated through a three-species surface reaction loop (A*...</description>
-      <author>Madeline A. Murphy, Kyle Noordhoek, Sallye R. Gathmann, Paul J. Dauenhauer, Christopher J. Bartel</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00216d</guid>
-    </item>
     <item>
       <title>SMARTpy: A Python Package for the Generation of Cavity Steric Molecular Descriptors and Applications to Diverse Systems</title>
       <link>https://doi.org/10.1039/d4dd00329b</link>

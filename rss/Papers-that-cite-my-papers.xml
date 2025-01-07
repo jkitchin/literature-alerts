@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 06 Jan 2025 01:24:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 01:21:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -298,16 +298,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.115942</guid>
     </item>
     <item>
-      <title>Atomically Dispersed Metal&#8211;Nitrogen&#8211;Carbon Catalysts for Acidic Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acsami.4c16972</link>
-      <description>Xiang Ao, Haoran Wang, Xia Zhang, Chundong Wang, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4406058102
-
-                No abstract</description>
-      <author>Xiang Ao, Haoran Wang, Xia Zhang, Chundong Wang</author>
-      <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c16972</guid>
-    </item>
-    <item>
       <title>Cross-scale covariance for material property prediction</title>
       <link>https://doi.org/10.1038/s41524-024-01453-w</link>
       <description>Benjamin A. Jasperson, Ilia Nikiforov, Amit Samanta, Fei Zhou, Ellad B. Tadmor, Vincenzo Lordi, Vasily V. Bulatov, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4406060145
@@ -328,94 +318,34 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.157526</guid>
     </item>
     <item>
-      <title>Design and Synthesis of PtPdNiCoMn High&#8208;Entropy Alloy Electrocatalyst for Enhanced Alkaline Hydrogen Evolution Reaction: A Theoretically Supported Predictive Design Approach</title>
-      <link>https://doi.org/10.1002/adfm.202418644</link>
-      <description>Athira Chandran M, Pritha Dutta, Prashant Singh, Ashutosh K. Singh, B. L. V. Prasad, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4405879984
-
-                Abstract Electrocatalytic hydrogen generation requires a cutting&#8208;edge, multifunctional electrocatalyst with abundant active sites to drive multielectron transfer reactions. High entropy alloys (HEA) are complex five or more&#8208;element alloy systems with high configurational entropy which makes them unique materials for next&#8208;generation electrocatalysts. Here, in this work, based on new screening guidelines for catalyst selections that combine density&#8208;functional theory calculated Gibbs formation&#8208;enthalpy with bond length and electronegativity variance, a novel HEA electrocatalyst consisting of five elements, namely, Pt, Pd, Ni, Co, and Mn is designed. By simple room temperature electrodeposition, the designed catalyst is prepared and its hydrogen evolution reaction (HER) is explored and validated through experimental and theoretical approaches. The HEA demonstrated a superior HER activity with an overpotential of 22.6 mV at &#8722;10 mA cm &#8722;2 which outperforms Pt/C commercial catalyst. No evident degradation of the material is detected even after 100 hours of continuous operation under high current density. Moreover, the HEA has shown exceptional performance in harsh electrolyte conditions such as in simulated seawater and actual seawater. Remarkably, the density&#8208;functional theory calculated small Gibbs formation&#8208;enthalpy (&#8776;0 eV) compared to Pt/C places the new HEA near the apex of Trasatti's model of Volcano plot, which is also suggestive of superior HER activity.</description>
-      <author>Athira Chandran M, Pritha Dutta, Prashant Singh, Ashutosh K. Singh, B. L. V. Prasad</author>
-      <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202418644</guid>
-    </item>
-    <item>
-      <title>A DFT study on the structural properties and CO2 electrocatalytic reduction activity of monolayer graphitic carbon nitride supported Ag/Au single atom catalysts</title>
-      <link>https://doi.org/10.1016/j.susc.2024.122692</link>
-      <description>Hui-Ling Shui, G. S. Li, Chao Fu, Dong-Heng Li, Xiaoqin Liang, Kai Li, Laicai Li, Yan Zheng, Surface Science. None(None)] 2024. https://openalex.org/W4405882115
+      <title>Polarization switching-controlled oxygen evolution and reduction reactions for ferroelectric single-atom catalysts</title>
+      <link>https://doi.org/10.1016/j.cej.2025.159247</link>
+      <description>Wenqing Li, Hongyu Zhang, Ruoyan Xu, Xingxing Jiang, Haiyu Meng, Xiong&#8208;Xiong Xue, Shengli Zhang, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4406069716
 
                 No abstract</description>
-      <author>Hui-Ling Shui, G. S. Li, Chao Fu, Dong-Heng Li, Xiaoqin Liang, Kai Li, Laicai Li, Yan Zheng</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122692</guid>
+      <author>Wenqing Li, Hongyu Zhang, Ruoyan Xu, Xingxing Jiang, Haiyu Meng, Xiong&#8208;Xiong Xue, Shengli Zhang</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.159247</guid>
     </item>
     <item>
-      <title>Efficient Bifunctional Electrocatalysts for Oxygen Evolution/Reduction Reactions in Two-Dimensional Metal&#8211;Organic Frameworks by a Constant Potential Method</title>
-      <link>https://doi.org/10.1021/acs.langmuir.4c04034</link>
-      <description>Jin Yu, Tianyun Liu, Xuefei Liu, Wei Deng, Wenjun Xiao, Yaqiong Su, Xiaosi Qi, Gang Wang, Degui Wang, Mingqiang Liu, Wu Yan, Abuduwayiti Aierken, Xuan Chen, Xu Wang, Changsong Gao, Hui Xiong, Xiangyu Wu, Jiajin Ge, Jinshun Bi, Langmuir. None(None)] 2024. https://openalex.org/W4405884135
-
-                The evolution of bifunctional catalysts for the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) catalysts that are highly active, stable, and conductive is crucial for advancing metal-air batteries and fuel cells. We have here thoroughly explored the OER and ORR performance for a category of two-dimensional (2D) metal&#8211;organic frameworks (MOFs) called TM3(HADQ)2, and Rh3(HADQ)2 exhibits a promising bifunctional OER/ORR activity, with an overpotential of 0.31 V for both OER and ORR. The d-band center (&#949;d) and crystal orbital Hamilton populations (COHP) are utilized to study the relationship between OER/ORR activity and the electronic structure of catalysts, and it is found that the elementary d-electron number (Ne) of the central TM for TM3(HADQ)2, as well as the electronegativity of the ligand TM-N4 and the intermediate O atom, are the main reason that affects the catalytic activity of OER/ORR. Additionally, Rh3(HADQ)2 can be proven through the constant potential method (CPM) and microkinetics method that it is an acidic OER/ORR bifunctional catalyst. Rh3(HADQ)2 has a high toxicity tolerance, making it a potential bifunctional catalyst. Our research contributes to both the rational design of SACs for various catalytic processes and the fabrication of bifunctional, cost-effective oxygen-electric catalysts.</description>
-      <author>Jin Yu, Tianyun Liu, Xuefei Liu, Wei Deng, Wenjun Xiao, Yaqiong Su, Xiaosi Qi, Gang Wang, Degui Wang, Mingqiang Liu, Wu Yan, Abuduwayiti Aierken, Xuan Chen, Xu Wang, Changsong Gao, Hui Xiong, Xiangyu Wu, Jiajin Ge, Jinshun Bi</author>
-      <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c04034</guid>
-    </item>
-    <item>
-      <title>A fluorinated hydrophobic metal&#8211;organic framework for CH4 purification from seven-component C1/C2/C3 hydrocarbons mixture</title>
-      <link>https://doi.org/10.1016/j.seppur.2024.131359</link>
-      <description>Tong Li, Xiaomin Li, Yong Wang, Xiaoxia Jia, Hui Chen, Yongjian Li, Jiangfeng Yang, Jinping Li, Libo Li, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4405884275
+      <title>Screening van der Waals transition metal carbo-selenide MXenes as efficient electrocatalysts for hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.12.295</link>
+      <description>Chen Zhou, Renfei Cheng, Junchao Wang, Min Zhao, Lijun Ren, Tao Hu, Xiaohui Wang, Chunxian Guo, International Journal of Hydrogen Energy. 101(None)] 2025. https://openalex.org/W4406074415
 
                 No abstract</description>
-      <author>Tong Li, Xiaomin Li, Yong Wang, Xiaoxia Jia, Hui Chen, Yongjian Li, Jiangfeng Yang, Jinping Li, Libo Li</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.131359</guid>
+      <author>Chen Zhou, Renfei Cheng, Junchao Wang, Min Zhao, Lijun Ren, Tao Hu, Xiaohui Wang, Chunxian Guo</author>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.295</guid>
     </item>
     <item>
-      <title>Hydrogen Evolution Reaction in Borophene: Puckering Mechanism and the Role of Coordination Number</title>
-      <link>https://doi.org/10.1021/acsomega.4c08031</link>
-      <description>Yi Sheng Ng, Jin&#8208;Cheng Zheng, ACS Omega. None(None)] 2024. https://openalex.org/W4405893138
-
-                Using the free energy of hydrogen adsorption (&#916;GH) as the indicator, five borophene phases are previously shown to possess high catalytic activity for the hydrogen evolution reaction (HER). On these borophene phases, we investigate the role of the coordination number (CN = 4, 5, 6) of the adsorption sites and the puckering of the adsorption site. CN is discovered to have a profound effect on the &#916;GH distribution, charge, and puckering height (h) of adsorption sites. Employing bonding indicators, we investigated the puckering mechanism. An increase in h directly increases the bond order and bond strength of the adsorption bond, but the associated energy cost of bond stretching hinders further puckering. The occupation and localization of &#963; orbitals determine the strength of local &#963; bonds&#9472;the key factors determining h. External biaxial strain is revealed to monotonically modulate the 2s character in local &#963; bonds, thus affecting bond stretchability, altering h and &#916;GH subsequently. These insights are valuable for borophene-based HER applications and provide an analytical framework for the adsorption on 2D materials.</description>
-      <author>Yi Sheng Ng, Jin&#8208;Cheng Zheng</author>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c08031</guid>
-    </item>
-    <item>
-      <title>Pt nanoparticles supported on in-situ growth titanium dioxide nanowire arrays with oxygen vacancies for hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.162257</link>
-      <description>Shipeng Wang, Le Sang, Zipan Jiao, Feiyan Zhang, Yingde Wang, Benhua Xu, Peng Zhang, Bingxin Liu, Yunsi Wang, Yongcheng Li, Riming Hu, Applied Surface Science. None(None)] 2024. https://openalex.org/W4405894299
+      <title>Mesoporous Co-MoS2 with sulfur vacancies: A bifunctional electrocatalyst for enhanced water-splitting reactions in alkaline media</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.01.017</link>
+      <description>Hongmei Wu, Yao Zhang, Baoshan Liu, Jing Liu, Liping Zhao, Peng Zhang, Lian Gao, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4406074619
 
                 No abstract</description>
-      <author>Shipeng Wang, Le Sang, Zipan Jiao, Feiyan Zhang, Yingde Wang, Benhua Xu, Peng Zhang, Bingxin Liu, Yunsi Wang, Yongcheng Li, Riming Hu</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.162257</guid>
-    </item>
-    <item>
-      <title>Steering acidic oxygen reduction selectivity of single-atom catalysts through the second sphere effect</title>
-      <link>https://doi.org/10.1038/s41467-024-55116-x</link>
-      <description>Haiyuan Zou, Siyan Shu, Wenqiang Yang, You&#8208;Chiuan Chu, Minglun Cheng, Hongliang Dong, Hong Liu, Fan Li, Junhui Hu, Zhenbin Wang, Wei Liu, Hao Ming Chen, Lele Duan, Nature Communications. 15(1)] 2024. https://openalex.org/W4405894806
-
-                Natural enzymes feature distinctive second spheres near their active sites, leading to exquisite catalytic reactivity. However, incumbent synthetic strategies offer limited versatility in functionalizing the second spheres of heterogeneous catalysts. Here, we prepare an enzyme-mimetic single Co-N</description>
-      <author>Haiyuan Zou, Siyan Shu, Wenqiang Yang, You&#8208;Chiuan Chu, Minglun Cheng, Hongliang Dong, Hong Liu, Fan Li, Junhui Hu, Zhenbin Wang, Wei Liu, Hao Ming Chen, Lele Duan</author>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-55116-x</guid>
-    </item>
-    <item>
-      <title>Electrochemically synthesized H2O2 at industrial-level current densities enabled by in situ fabricated few-layer boron nanosheets</title>
-      <link>https://doi.org/10.1038/s41467-024-55071-7</link>
-      <description>Yuhan Wu, Yuying Zhao, Qixin Yuan, Hao Sun, Ao Wang, Kang Sun, Geoffrey I. N. Waterhouse, Ziyun Wang, Jingjie Wu, Jianchun Jiang, Mengmeng Fan, Nature Communications. 15(1)] 2024. https://openalex.org/W4405894857
-
-                Carbon nanomaterials show outstanding promise as electrocatalysts for hydrogen peroxide (H</description>
-      <author>Yuhan Wu, Yuying Zhao, Qixin Yuan, Hao Sun, Ao Wang, Kang Sun, Geoffrey I. N. Waterhouse, Ziyun Wang, Jingjie Wu, Jianchun Jiang, Mengmeng Fan</author>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-55071-7</guid>
-    </item>
-    <item>
-      <title>Theoretical investigation of structural and electronic properties and water splitting electrocatalytic performance of TM-decorated (TM = Mn, Fe, Co, and Ni) biphenylene monolayers</title>
-      <link>https://doi.org/10.1007/s11224-024-02444-9</link>
-      <description>Seifollah Jalili, Faezeh Taravat, Atena Pakzadiyan, Structural Chemistry. None(None)] 2024. https://openalex.org/W4405895627
-
-                No abstract</description>
-      <author>Seifollah Jalili, Faezeh Taravat, Atena Pakzadiyan</author>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11224-024-02444-9</guid>
+      <author>Hongmei Wu, Yao Zhang, Baoshan Liu, Jing Liu, Liping Zhao, Peng Zhang, Lian Gao</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.01.017</guid>
     </item>
     <item>
       <title>Identifying and Analyzing Extremely Productive Authors in Intensive Care Medicine: A scientometric analysis</title>
@@ -546,6 +476,26 @@
       <author>Chenming Fan, Xin Gao, Pengyi Tang, Qiang Wang, Bing Li</author>
       <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/advs.202410784</guid>
+    </item>
+    <item>
+      <title>Atomically Dispersed Metal&#8211;Nitrogen&#8211;Carbon Catalysts for Acidic Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acsami.4c16972</link>
+      <description>Xiang Ao, Haoran Wang, Xia Zhang, Chundong Wang, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4406058102
+
+                Designing efficient and cost-effective electrocatalysts toward oxygen reduction reaction (ORR) under demanding acidic environments plays a critical role in advancing proton exchange membrane fuel cells (PEMFCs). Metal&#8211;nitrogen&#8211;carbon (M&#8211;N&#8211;C) catalysts with atomically dispersed metals have gained attention for their affordability, excellent catalytic performance, and distinctive features including consistent active sites and high atomic utilization. Over the past decade, significant achievements have been made in this field. This review offers a comprehensive summary of the latest developments in atomically dispersed M&#8211;N&#8211;C catalysts for ORR in acidic environments along with their applications in PEMFCs. The ORR mechanisms, PEMFC configuration, and operational principles are presented first, followed by an in-depth discussion of strategies to improve the activity and stability of the PEMFC using atomically dispersed M&#8211;N&#8211;C catalysts at the cathode. Lastly, this review highlights the unresolved challenges and proposes future research pathways for advancing high-performance atomically dispersed M&#8211;N&#8211;C catalysts and PEMFCs.</description>
+      <author>Xiang Ao, Haoran Wang, Xia Zhang, Chundong Wang</author>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c16972</guid>
+    </item>
+    <item>
+      <title>High content Fe(III) electrocatalyst for the oxygen reduction and evolution reactions. Spectroscopic, electrochemical, and theoretical insights</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.12.385</link>
+      <description>C&#233;sar Z&#250;&#241;iga Loyola, Andrea Zitolo, Nicol&#225;s Troncoso, Jesus Carrasco, Sergio Choque, Gabriel Abarca, Jos&#233; H. Zagal, Walter Orellana, Federico Tasca, International Journal of Hydrogen Energy. 101(None)] 2025. https://openalex.org/W4406074461
+
+                No abstract</description>
+      <author>C&#233;sar Z&#250;&#241;iga Loyola, Andrea Zitolo, Nicol&#225;s Troncoso, Jesus Carrasco, Sergio Choque, Gabriel Abarca, Jos&#233; H. Zagal, Walter Orellana, Federico Tasca</author>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.385</guid>
     </item>
     <item>
       <title>Efficient Sampling for Machine Learning Electron Density and Its Response in Real Space</title>

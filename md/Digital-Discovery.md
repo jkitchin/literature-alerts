@@ -1,21 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Mon Jan  6 01:24:23 2025
+Created on Tue Jan  7 01:21:37 2025
 
-Found 3 results from 2024-12-30 to 2025-01-06
+Found 2 results from 2024-12-31 to 2025-01-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## Catalytic Resonance Theory: Forecasting the Flow of Programmable Catalytic Loops   
-
-OpenAlex: https://openalex.org/W4405892021    
-Open access: True
-    
-[Madeline A. Murphy](https://openalex.org/A5051959855), [Kyle Noordhoek](https://openalex.org/A5033015720), [Sallye R. Gathmann](https://openalex.org/A5030610409), [Paul J. Dauenhauer](https://openalex.org/A5003718847), [Christopher J. Bartel](https://openalex.org/A5065773454), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00216d.
-    
-Chemical transformations on catalyst surfaces occur through series and parallel reaction pathways. These complex networks and their behavior can be most simply evaluated through a three-species surface reaction loop (A*...    
-
-    
 
 ## SMARTpy: A Python Package for the Generation of Cavity Steric Molecular Descriptors and Applications to Diverse Systems   
 
