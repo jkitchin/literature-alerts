@@ -4,9 +4,39 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 07 Jan 2025 01:21:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 01:21:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Bioinspired Molecular Catalyst for Photocatalytic Semihydrogenation of Acetylene with Water as a Proton Source</title>
+      <link>https://doi.org/10.1021/acscatal.4c04763</link>
+      <description>Yangguang Hu, Song Wang, Zifan Jiang, Wanbing Gong, Aobo Chen, Qiaoxi Liu, Guangyu Liu, Zhiqiang Shen, Jingxiang Low, Jun Ma, Jun Jiang, Chao Gao, Yujie Xiong, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406025784
+
+                Selective semihydrogenation of acetylene to ethylene in ethylene-rich gas streams is a significant industrial process for obtaining high-quality polyethylene products. The conventional thermal hydrogenation route requires high temperature (&gt;100 &#176;C), excess H2, and noble metal Pd to achieve satisfactory conversion efficiency. Therefore, the development of a more efficient and economical low-energy method for acetylene semihydrogenation is greatly desired yet challenging. Here, we report a noble-metal-free molecular system consisting of a bioinspired [CoII(N4S2)](ClO4)2 catalyst and a copper photosensitizer, which achieves photocatalytic semihydrogenation of acetylene to ethylene with over 96% selectivity and 96&#8211;99.9% conversion under ambient conditions for both pure acetylene and industrially relevant ethylene cofeed (containing 1% acetylene) conditions using water as a proton source. In addition, our catalytic system in deuterium oxide exhibits ability for deuterated ethylene production, which is an important building block for various deuterated polyolefins and chemicals.</description>
+      <author>Yangguang Hu, Song Wang, Zifan Jiang, Wanbing Gong, Aobo Chen, Qiaoxi Liu, Guangyu Liu, Zhiqiang Shen, Jingxiang Low, Jun Ma, Jun Jiang, Chao Gao, Yujie Xiong</author>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04763</guid>
+    </item>
+    <item>
+      <title>Mechanistic Insights into Nitrile and Alkyne Covalent Inhibitors of the SARS-CoV-2 Main Protease</title>
+      <link>https://doi.org/10.1021/acscatal.4c06020</link>
+      <description>Ashim Nandi, Mojgan Asadi, Aoxuan Zhang, Zhen T. Chu, Arieh Warshel, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406091634
+
+                The treatment of SARS-CoV-2 can be accomplished by effective suppression of its 3CL protease (3CLpro), also known as the main protease (Mpro) and nonstructural protein 5 (nsp5). Covalent inhibitors can irreversibly and selectively disable the protease, particularly when they are highly exothermic. Herein we investigated the distinct kinetic behaviors exhibited by two covalently linked SARS-CoV-2 inhibitors. One of these inhibitors features a nitrile reactive group, while the other has this group replaced by an alkyne group, a less reactive electrophile. Our investigations involve the assessment of the free energy surfaces of the key feasible mechanisms: that is, direct and water-assisted mechanisms involved in the rate-determining proton-transfer nucleophilic attack step through the utilization of both ab initio and empirical valence bond (EVB) simulations. The calculated free energy profiles show that substituting the nitrile group with alkyne increases the chemical barrier but leads to very exothermic reaction energy and is an irreversible process as opposed to nitrile, which is moderately exothermic and reversible. We also examine the time dependence of IC50 inhibition by applying an innovative kinetic simulation approach, which is particularly important in studies of covalent inhibitors with a very exothermic bonding step. Our computational approach provides a good agreement between the calculated and observed values of the time dependence results for the nitrile and alkyne inhibitors. Our approach, which is rather unique in combining calculations of the chemical barriers and the binding energy is likely to be very effective in studies of the effectiveness of other covalent inhibitors related cases.</description>
+      <author>Ashim Nandi, Mojgan Asadi, Aoxuan Zhang, Zhen T. Chu, Arieh Warshel</author>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06020</guid>
+    </item>
+    <item>
+      <title>Inducing Cu Charge Redistribution by Modulating Proximity with Zr(OH)&lt;sub&gt;4&lt;/sub&gt; for Selective Synthesis of Imines and Secondary Amines with Stoichiometric Benzyl Alcohol and Nitrobenzene</title>
+      <link>https://doi.org/10.1021/acscatal.4c05785</link>
+      <description>Jie Song, Chunxia Che, Yiwei Dai, Jiaheng Qin, Cong Yang, Ziqiu Chen, Kexin Ma, Yuhui Han, Yu Long, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406093746
+
+                No abstract</description>
+      <author>Jie Song, Chunxia Che, Yiwei Dai, Jiaheng Qin, Cong Yang, Ziqiu Chen, Kexin Ma, Yuhui Han, Yu Long</author>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05785</guid>
+    </item>
     <item>
       <title>Triethoxysilane-Catalyzed Single and Sequential Regioselective Hydroboration of Terminal Alkynes: Sustainable Access to &lt;i&gt;E&lt;/i&gt;-Alkenylboronate and Alkyl &lt;i&gt;Gem&lt;/i&gt;-Diboronate Esters by Non-Covalent Interactions</title>
       <link>https://doi.org/10.1021/acscatal.4c06845</link>
@@ -108,16 +138,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05657</guid>
     </item>
     <item>
-      <title>Bioinspired Molecular Catalyst for Photocatalytic Semihydrogenation of Acetylene with Water as a Proton Source</title>
-      <link>https://doi.org/10.1021/acscatal.4c04763</link>
-      <description>Yangguang Hu, Song Wang, Zifan Jiang, Wanbing Gong, Aobo Chen, Qiaoxi Liu, Guangyu Liu, Zhiqiang Shen, Jingxiang Low, Jun Ma, Jun Jiang, Chao Gao, Yujie Xiong, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406025784
-
-                No abstract</description>
-      <author>Yangguang Hu, Song Wang, Zifan Jiang, Wanbing Gong, Aobo Chen, Qiaoxi Liu, Guangyu Liu, Zhiqiang Shen, Jingxiang Low, Jun Ma, Jun Jiang, Chao Gao, Yujie Xiong</author>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04763</guid>
-    </item>
-    <item>
       <title>Dynamic Kinetic Reductive Grignard-Type Addition for the Construction of Axial and Central Chirality</title>
       <link>https://doi.org/10.1021/acscatal.4c07172</link>
       <description>Ya-Ping Shao, Yong&#8208;Min Liang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406028498
@@ -166,46 +186,6 @@
       <author>Xuan Luo, Bingbing Li, Tongming Su, Xinling Xie, Zuzeng Qin, Hongbing Ji</author>
       <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05427</guid>
-    </item>
-    <item>
-      <title>Monitoring Radical Intermediates in Photoactivated Palladium-Catalyzed Coupling of Aryl Halides to Arenes by an Aryl Radical Assay</title>
-      <link>https://doi.org/10.1021/acscatal.4c06913</link>
-      <description>Seb Tyerman, Donald Mackay, Kenneth Clark, Alan R. Kennedy, Craig M. Robertson, Laura Evans, Robert M. Edkins, John A. Murphy, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405908083
-
-                No abstract</description>
-      <author>Seb Tyerman, Donald Mackay, Kenneth Clark, Alan R. Kennedy, Craig M. Robertson, Laura Evans, Robert M. Edkins, John A. Murphy</author>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06913</guid>
-    </item>
-    <item>
-      <title>Nickel-Catalyzed Synthesis of Silaindanes via Sequential C&#8211;H Activating 1,5-Nickel Migration and C&#8211;Si Activating 1,4-Nickel Migration</title>
-      <link>https://doi.org/10.1021/acscatal.4c06910</link>
-      <description>Donghyeon Lee, Ikuya Fujii, Ryo Shintani, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405908160
-
-                No abstract</description>
-      <author>Donghyeon Lee, Ikuya Fujii, Ryo Shintani</author>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06910</guid>
-    </item>
-    <item>
-      <title>Site-Specific Introduction of Sulfoxides and Sulfones into Polyketide Scaffolds through a Relayed Chemo-Biosynthetic Strategy</title>
-      <link>https://doi.org/10.1021/acscatal.4c05446</link>
-      <description>Jun Zhang, Xiaodong Zeng, Huixue Chen, Yun Qian, Wenya Tian, Ye&#8208;Qing Du, Zhi Lin, Chun Lei, Zixin Deng, Xudong Qu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405912420
-
-                Sulfoxides and sulfones are pivotal pharmacophores and versatile functional groups in drug design; however, they are rarely found in natural products. In this study, we developed a chemo-biosynthetic strategy for the site-specific introduction of sulfoxides and sulfones into polyketide frameworks. This method involves integrating hydrophobic sulfide-extender units into the polyketide structure, followed by sequential oxidation with hydrogen peroxide to convert the sulfides into polar sulfoxides and sulfones. This approach addresses the challenge that polar groups face in being recognized by the natural hydrophobic pockets of biosynthetic enzymes. The sulfide-extender units were synthesized using a permissive acyl-CoA synthetase (UkaQFAV) and an acyl-CoA carboxylase (Arm13-ACC), which is specific to medium- to long-chain acyl-CoA substrates. The crystal structure of Arm13 was resolved to 1.6 &#197;, enabling the development of the mutant Arm13V157I, which exhibits significantly enhanced catalytic efficiency for short-chain acyl-CoA substrates. By incorporating these units into a deacyl antimycin (DA)-producing strain and feeding it sulfur-containing substrates, followed by oxidation, we successfully generated nine representative sulfone and sulfoxide-DAs. This work not only paves the way for the development of sulfur-containing polyketides but also provides an effective strategy for introducing polar functionalities into polyketide frameworks.</description>
-      <author>Jun Zhang, Xiaodong Zeng, Huixue Chen, Yun Qian, Wenya Tian, Ye&#8208;Qing Du, Zhi Lin, Chun Lei, Zixin Deng, Xudong Qu</author>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05446</guid>
-    </item>
-    <item>
-      <title>Redox-Activated Supersaturation of Ceria Solid Solution as a Dynamic Catalyst Enabling Low-Temperature Ethylbenzene Oxidative Dehydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.4c05793</link>
-      <description>Juping Zhang, Wenpei Gao, Kunran Yang, Junchen Liu, Yanping Zheng, Kun Yang, Chao Zhang, Kongzhai Li, Kun Zhao, Hua Wang, Yunfei Gao, Xing Zhu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405924773
-
-                Dynamic structural changes in the reactive environment often lead to catalyst deactivation in the thermal-catalysis field. Taking advantage of the dynamic changes in bulk phases, interfaces, and surface structures to design highly active catalysts is a unique but important strategy. Herein, we report a supersaturated ceria solid solution catalyst enabling a styrene yield of 91.8% over extended redox cycles at 430 &#176;C in the redox oxidative dehydrogenation (ODH) of ethylbenzene. In-situ characterizations reveal that the oxygen anions (O2&#8211;) and transition-metal cations (Fe and Mn) reversibly shuttle through a ceria solid solution (bulk &#8596; surface) in a K&#8211;Ce0.47Fe0.2Mn0.33O2&#8722;&#948; catalyst during the redox ODH process. The ceria solid solution acts as a dynamic transition-metal cations/oxygen reservoir, creating atomic interfaces of K&#8211;Fe&#8211;O/K&#8211;Mn&#8211;O and an oxygen gateway for efficient ethylbenzene ODH. The findings concerning the formation of a supersaturated ceria solid solution and cations, lattice oxygen migration, and the coupling between oxygen donation and catalytic reactions offer new strategies for designing high-performance dynamic catalysts.</description>
-      <author>Juping Zhang, Wenpei Gao, Kunran Yang, Junchen Liu, Yanping Zheng, Kun Yang, Chao Zhang, Kongzhai Li, Kun Zhao, Hua Wang, Yunfei Gao, Xing Zhu</author>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05793</guid>
     </item>
     <item>
       <title>Elucidating the Reaction Mechanism and Deactivation of CO&lt;sub&gt;2&lt;/sub&gt;-Assisted Propane Oxidative Dehydrogenation over VO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;/TiO&lt;sub&gt;2&lt;/sub&gt; Catalysts: A Multiple Operando Spectroscopic Study</title>

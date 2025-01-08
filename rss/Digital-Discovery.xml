@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 07 Jan 2025 01:21:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 01:21:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,26 @@
       <author>Andrij Vasylenko, Dmytro Antypov, Sven Schewe, Luke M. Daniels, John B. Claridge, Matthew S. Dyer, Matthew J. Rosseinsky</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00346b</guid>
+    </item>
+    <item>
+      <title>Advancing Predictive Toxicology: Overcoming Hurdles and Shaping the Future</title>
+      <link>https://doi.org/10.1039/d4dd00257a</link>
+      <description>Sara Masarone, Katie V Victoria Beckwith, Matthew Wilkinson, Shreshth Tuli, Amy Lane, S Windsor, Jordan Lane, Layla Hosseini-Gerami, Digital Discovery. None(None)] 2024. https://openalex.org/W4406085336
+
+                Modern drug discovery projects are plagued with high failure rate many of which have safety as the underlying cause. The drug discovery process involves selecting the right compounds from a...</description>
+      <author>Sara Masarone, Katie V Victoria Beckwith, Matthew Wilkinson, Shreshth Tuli, Amy Lane, S Windsor, Jordan Lane, Layla Hosseini-Gerami</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00257a</guid>
+    </item>
+    <item>
+      <title>Multi-objective Bayesian Optimization: A Case Study in Material Extrusion</title>
+      <link>https://doi.org/10.1039/d4dd00281d</link>
+      <description>Jay I. Myung, James R. Deneault, Jorge Chang, Inhan Kang, Benji Maruyama, Mark A. Pitt, Digital Discovery. None(None)] 2024. https://openalex.org/W4406087434
+
+                Autonomous experimentation is a rapidly growing approach to materials science research. Machine learning can assist in improving the efficiency and capability of experimentation with algorithms that adaptively identify optimal design...</description>
+      <author>Jay I. Myung, James R. Deneault, Jorge Chang, Inhan Kang, Benji Maruyama, Mark A. Pitt</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00281d</guid>
     </item>
   </channel>
 </rss>
