@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 08 Jan 2025 01:21:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 01:20:48 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Yangguang Hu, Song Wang, Zifan Jiang, Wanbing Gong, Aobo Chen, Qiaoxi Liu, Guangyu Liu, Zhiqiang Shen, Jingxiang Low, Jun Ma, Jun Jiang, Chao Gao, Yujie Xiong</author>
       <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04763</guid>
+    </item>
+    <item>
+      <title>Issue Editorial Masthead</title>
+      <link>https://doi.org/10.1021/csv015i001_1883750</link>
+      <description>, ACS Catalysis. 15(1)] 2025. https://openalex.org/W4406037752
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv015i001_1883750</guid>
     </item>
     <item>
       <title>Mechanistic Insights into Nitrile and Alkyne Covalent Inhibitors of the SARS-CoV-2 Main Protease</title>
@@ -36,6 +46,26 @@
       <author>Jie Song, Chunxia Che, Yiwei Dai, Jiaheng Qin, Cong Yang, Ziqiu Chen, Kexin Ma, Yuhui Han, Yu Long</author>
       <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05785</guid>
+    </item>
+    <item>
+      <title>AuCu Nanodendrite for Enhancing Electrocatalytic Nitrate Reduction Applications via Two-stage Microfluidic Fabrication Strategy</title>
+      <link>https://doi.org/10.1021/acscatal.4c06559</link>
+      <description>Hengyuan Liu, Yongqi Jia, Xintong Huang, Yingzhe Liu, Qiang Yang, Zhuo Chen, Jianhong Xu, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406115611
+
+                No abstract</description>
+      <author>Hengyuan Liu, Yongqi Jia, Xintong Huang, Yingzhe Liu, Qiang Yang, Zhuo Chen, Jianhong Xu</author>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06559</guid>
+    </item>
+    <item>
+      <title>C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Carboxylation via Carbene/Photoredox Cooperative Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c06791</link>
+      <description>Cullen R. Schull, Jing Cao, Sophia R. Mitton-Fry, Mara Mrksich, Karl A. Scheidt, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406119626
+
+                No abstract</description>
+      <author>Cullen R. Schull, Jing Cao, Sophia R. Mitton-Fry, Mara Mrksich, Karl A. Scheidt</author>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06791</guid>
     </item>
     <item>
       <title>Triethoxysilane-Catalyzed Single and Sequential Regioselective Hydroboration of Terminal Alkynes: Sustainable Access to &lt;i&gt;E&lt;/i&gt;-Alkenylboronate and Alkyl &lt;i&gt;Gem&lt;/i&gt;-Diboronate Esters by Non-Covalent Interactions</title>
@@ -186,26 +216,6 @@
       <author>Xuan Luo, Bingbing Li, Tongming Su, Xinling Xie, Zuzeng Qin, Hongbing Ji</author>
       <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05427</guid>
-    </item>
-    <item>
-      <title>Elucidating the Reaction Mechanism and Deactivation of CO&lt;sub&gt;2&lt;/sub&gt;-Assisted Propane Oxidative Dehydrogenation over VO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;/TiO&lt;sub&gt;2&lt;/sub&gt; Catalysts: A Multiple Operando Spectroscopic Study</title>
-      <link>https://doi.org/10.1021/acscatal.4c04900</link>
-      <description>Leon Schumacher, Kathrin Hofmann, Christian He&#223;, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405944424
-
-                The CO2-assisted oxidative dehydrogenation (ODH) of propane is of great technical importance and enables the use (and thus removal from the atmosphere) of CO2, a greenhouse gas, in a value-adding process. Supported vanadium oxide (VOx) catalysts are a promising alternative to more active but toxic chromium oxide catalysts. Despite its common use, TiO2 has not been investigated as a support material for VOx in the CO2&#8211;ODH of propane. In this study, we elucidate the interaction between titania (P25) and vanadia in the reaction mechanism by analyzing the reaction network and investigating the catalyst using X-ray diffraction (XRD), multiwavelength Raman, UV&#8211;vis and diffuse reflectance IR Fourier transform (DRIFT) spectroscopy. Besides direct and indirect ODH reaction pathways, propane dry reforming (PDR) is identified as a side reaction, which is more prominent on bare titania. The presence of VOx enhances the stability and the selectivity toward propylene by participating in the redox cycle, activating CO2 and leading to a higher rate of regeneration. Additionally, VOx catalyzes the conversion of anatase to rutile, which facilitates CO2 activation, thereby leading to an encapsulation of vanadium. At higher loadings, reducible VOx oligomers are present on the surface, facilitating some PDR, but less than on bare P25. As the main deactivation mechanisms of the catalyst system, we propose the reduction of the titania lattice and the consumption of vanadium, while carbon formation appears to be less relevant. Our results highlight the importance of analyzing the CO2&#8211;ODH reaction network and applying a multispectroscopic approach to obtain a detailed mechanistic understanding of CO2-assisted propane ODH over supported VOx catalysts.</description>
-      <author>Leon Schumacher, Kathrin Hofmann, Christian He&#223;</author>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04900</guid>
-    </item>
-    <item>
-      <title>Expedited Synthesis of Axially Chiral 3-Monosilyl and 3,3&#8242;-Bis-silyl Biphenols, Binaphthols, and Phosphoramidites Enabled by Catalytic Two-Fold C&#8211;H Silylation with a Traceless Acetal Directing Group</title>
-      <link>https://doi.org/10.1021/acscatal.4c05927</link>
-      <description>Hiep H. Nguyen, Suman Das Adhikary, Yao Chung Chang, Peter Zotor, Junha Jeon, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405963253
-
-                The design and development of supporting ligands have significantly propelled the discovery of new catalytic reactions and the improvement of existing ones. Among these, axially chiral biphenols and 1,1&#8242;-binaphthalene-2,2&#8242;-diol (BINOL) are some of the most privileged ligands used in a wide array of enantioselective reactions. Despite the well-established benefits of structural modifications to biphenol and BINOL scaffolds, particularly at their 3,3&#8242;-positions&#9472;for enhancing reactivity and stereofidelity in catalytic asymmetric transformations&#9472;only a limited number of 3,3&#8242;-bis-functionalized biphenols and BINOLs are currently available. Here, we report a unified strategy to rapidly access a range of axially chiral 3-monosilyl and 3,3&#8242; bis-silyl-substituted and biphenols and BINOLs as well as their corresponding 3-monosilyl and 3,3&#8242; bis-silyl BINOL-based phosphoramidites. This approach involves traceless acetal-directed, catalytic two-fold C&#8211;H silylation of axially chiral biaryls, coupled with selective monoprotodesilylation, expanding the versatility of catalytic C&#8211;H functionalization in ligand design and development. Scope studies on the augmentation of the topological space of potentially stereoselectivity-amplifying 3,3&#8242;-bis-silyl substituents in axially chiral biphenols and BINOLs were achieved through C&#8211;H silylation of biphenols and BINOLs using various dihydrosilanes, as well as the derivatization of 3,3&#8242;-silanes, leading to functionalized silane-substituted biphenols and BINOLs. Lastly, the phosphoramidation of newly synthesized 3-monosilyl and 3,3&#8242; bis-silyl BINOL and biphenols with dichlorophosphinamine provided a series of 3-monosilyl and 3,3&#8242; bis-silyl BINOL-based phosphoramidites. The efficiency of this synthetic approach is underscored by its short synthetic steps, expedited reaction times, and minimal purification, making it versatile for the synthesis of a wide array of organosilicon-functionalized axially chiral biaryls and phosphoramidites.</description>
-      <author>Hiep H. Nguyen, Suman Das Adhikary, Yao Chung Chang, Peter Zotor, Junha Jeon</author>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05927</guid>
     </item>
   </channel>
 </rss>

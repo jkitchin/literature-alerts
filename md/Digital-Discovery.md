@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Wed Jan  8 01:21:20 2025
+Created on Thu Jan  9 01:20:51 2025
 
-Found 4 results from 2025-01-01 to 2025-01-08
+Found 5 results from 2025-01-02 to 2025-01-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -47,5 +47,16 @@ Open access: True
 [Jay I. Myung](https://openalex.org/A5102873424), [James R. Deneault](https://openalex.org/A5050665356), [Jorge Chang](https://openalex.org/A5029447474), [Inhan Kang](https://openalex.org/A5115779106), [Benji Maruyama](https://openalex.org/A5102919383), [Mark A. Pitt](https://openalex.org/A5108277937), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00281d.
     
 Autonomous experimentation is a rapidly growing approach to materials science research. Machine learning can assist in improving the efficiency and capability of experimentation with algorithms that adaptively identify optimal design...    
+
+    
+
+## A Novel Approach to Protein Chemical Shifts Prediction from Sequence Using Protein Language Model   
+
+OpenAlex: https://openalex.org/W4406117605    
+Open access: True
+    
+[He Zhu](https://openalex.org/A5061526273), [Lidan Hu](https://openalex.org/A5029798705), [Yang Yu](https://openalex.org/A5009888534), [Z Chen](https://openalex.org/A5111586026), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00367e.
+    
+Chemical shifts are crucial parameters in protein Nuclear Magnetic Resonance (NMR) experiments. Specifically, Chemical shifts of backbone atoms are essential for determining the constraints in protein structure analysis. Despite their...    
 
     

@@ -1,8 +1,8 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Wed Jan  8 01:21:20 2025
+Created on Thu Jan  9 01:20:51 2025
 
-Found 4 results from 2025-01-01 to 2025-01-08
+Found 5 results from 2025-01-02 to 2025-01-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 
@@ -87,5 +87,26 @@ OpenAlex: https://openalex.org/W4406087434 (Open access: True)
 [[https://openalex.org/A5102873424][Jay I. Myung]], [[https://openalex.org/A5050665356][James R. Deneault]], [[https://openalex.org/A5029447474][Jorge Chang]], [[https://openalex.org/A5115779106][Inhan Kang]], [[https://openalex.org/A5102919383][Benji Maruyama]], [[https://openalex.org/A5108277937][Mark A. Pitt]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00281d 
      
 Autonomous experimentation is a rapidly growing approach to materials science research. Machine learning can assist in improving the efficiency and capability of experimentation with algorithms that adaptively identify optimal design...    
+
+    
+
+* A Novel Approach to Protein Chemical Shifts Prediction from Sequence Using Protein Language Model  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406117605
+:TOPICS: Machine Learning in Bioinformatics, Protein Structure and Dynamics, Fractal and DNA sequence analysis
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00367e")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406117605"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406117605"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406117605"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406117605 (Open access: True)
+    
+[[https://openalex.org/A5061526273][He Zhu]], [[https://openalex.org/A5029798705][Lidan Hu]], [[https://openalex.org/A5009888534][Yang Yu]], [[https://openalex.org/A5111586026][Z Chen]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00367e 
+     
+Chemical shifts are crucial parameters in protein Nuclear Magnetic Resonance (NMR) experiments. Specifically, Chemical shifts of backbone atoms are essential for determining the constraints in protein structure analysis. Despite their...    
 
     

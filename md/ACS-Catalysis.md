@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Jan  8 01:21:18 2025
+Created on Thu Jan  9 01:20:48 2025
 
-Found 20 results from 2025-01-01 to 2025-01-08
+Found 21 results from 2025-01-02 to 2025-01-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -14,6 +14,17 @@ Open access: False
 [Yangguang Hu](https://openalex.org/A5068438745), [Song Wang](https://openalex.org/A5115602084), [Zifan Jiang](https://openalex.org/A5057575735), [Wanbing Gong](https://openalex.org/A5024035040), [Aobo Chen](https://openalex.org/A5072596068), [Qiaoxi Liu](https://openalex.org/A5013832329), [Guangyu Liu](https://openalex.org/A5063171821), [Zhiqiang Shen](https://openalex.org/A5018116732), [Jingxiang Low](https://openalex.org/A5013361199), [Jun Ma](https://openalex.org/A5034779317), [Jun Jiang](https://openalex.org/A5100619997), [Chao Gao](https://openalex.org/A5063814734), [Yujie Xiong](https://openalex.org/A5087717847), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c04763.
     
 Selective semihydrogenation of acetylene to ethylene in ethylene-rich gas streams is a significant industrial process for obtaining high-quality polyethylene products. The conventional thermal hydrogenation route requires high temperature (>100 °C), excess H2, and noble metal Pd to achieve satisfactory conversion efficiency. Therefore, the development of a more efficient and economical low-energy method for acetylene semihydrogenation is greatly desired yet challenging. Here, we report a noble-metal-free molecular system consisting of a bioinspired [CoII(N4S2)](ClO4)2 catalyst and a copper photosensitizer, which achieves photocatalytic semihydrogenation of acetylene to ethylene with over 96% selectivity and 96–99.9% conversion under ambient conditions for both pure acetylene and industrially relevant ethylene cofeed (containing 1% acetylene) conditions using water as a proton source. In addition, our catalytic system in deuterium oxide exhibits ability for deuterated ethylene production, which is an important building block for various deuterated polyolefins and chemicals.    
+
+    
+
+## Issue Editorial Masthead   
+
+OpenAlex: https://openalex.org/W4406037752    
+Open access: True
+    
+, ACS Catalysis. 15(1)] 2025.https://doi.org/10.1021/csv015i001_1883750.
+    
+No abstract    
 
     
 
@@ -34,6 +45,28 @@ OpenAlex: https://openalex.org/W4406093746
 Open access: False
     
 [Jie Song](https://openalex.org/A5100649077), [Chunxia Che](https://openalex.org/A5100935179), [Yiwei Dai](https://openalex.org/A5079399790), [Jiaheng Qin](https://openalex.org/A5050284480), [Cong Yang](https://openalex.org/A5101335462), [Ziqiu Chen](https://openalex.org/A5086843496), [Kexin Ma](https://openalex.org/A5101650068), [Yuhui Han](https://openalex.org/A5041314524), [Yu Long](https://openalex.org/A5091099530), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c05785.
+    
+No abstract    
+
+    
+
+## AuCu Nanodendrite for Enhancing Electrocatalytic Nitrate Reduction Applications via Two-stage Microfluidic Fabrication Strategy   
+
+OpenAlex: https://openalex.org/W4406115611    
+Open access: False
+    
+[Hengyuan Liu](https://openalex.org/A5101430705), [Yongqi Jia](https://openalex.org/A5111006289), [Xintong Huang](https://openalex.org/A5016306575), [Yingzhe Liu](https://openalex.org/A5078704875), [Qiang Yang](https://openalex.org/A5101776247), [Zhuo Chen](https://openalex.org/A5100345056), [Jianhong Xu](https://openalex.org/A5034331950), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06559.
+    
+No abstract    
+
+    
+
+## C(sp3)–H Carboxylation via Carbene/Photoredox Cooperative Catalysis   
+
+OpenAlex: https://openalex.org/W4406119626    
+Open access: False
+    
+[Cullen R. Schull](https://openalex.org/A5027788561), [Jing Cao](https://openalex.org/A5101499747), [Sophia R. Mitton-Fry](https://openalex.org/A5096740287), [Mara Mrksich](https://openalex.org/A5108998163), [Karl A. Scheidt](https://openalex.org/A5041041100), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06791.
     
 No abstract    
 
@@ -201,27 +234,5 @@ Open access: False
 [Xuan Luo](https://openalex.org/A5003893515), [Bingbing Li](https://openalex.org/A5100375960), [Tongming Su](https://openalex.org/A5031230952), [Xinling Xie](https://openalex.org/A5101045882), [Zuzeng Qin](https://openalex.org/A5082617917), [Hongbing Ji](https://openalex.org/A5034228364), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c05427.
     
 No abstract    
-
-    
-
-## Elucidating the Reaction Mechanism and Deactivation of CO2-Assisted Propane Oxidative Dehydrogenation over VOx/TiO2 Catalysts: A Multiple Operando Spectroscopic Study   
-
-OpenAlex: https://openalex.org/W4405944424    
-Open access: False
-    
-[Leon Schumacher](https://openalex.org/A5045824959), [Kathrin Hofmann](https://openalex.org/A5048343148), [Christian Heß](https://openalex.org/A5028546703), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04900.
-    
-The CO2-assisted oxidative dehydrogenation (ODH) of propane is of great technical importance and enables the use (and thus removal from the atmosphere) of CO2, a greenhouse gas, in a value-adding process. Supported vanadium oxide (VOx) catalysts are a promising alternative to more active but toxic chromium oxide catalysts. Despite its common use, TiO2 has not been investigated as a support material for VOx in the CO2–ODH of propane. In this study, we elucidate the interaction between titania (P25) and vanadia in the reaction mechanism by analyzing the reaction network and investigating the catalyst using X-ray diffraction (XRD), multiwavelength Raman, UV–vis and diffuse reflectance IR Fourier transform (DRIFT) spectroscopy. Besides direct and indirect ODH reaction pathways, propane dry reforming (PDR) is identified as a side reaction, which is more prominent on bare titania. The presence of VOx enhances the stability and the selectivity toward propylene by participating in the redox cycle, activating CO2 and leading to a higher rate of regeneration. Additionally, VOx catalyzes the conversion of anatase to rutile, which facilitates CO2 activation, thereby leading to an encapsulation of vanadium. At higher loadings, reducible VOx oligomers are present on the surface, facilitating some PDR, but less than on bare P25. As the main deactivation mechanisms of the catalyst system, we propose the reduction of the titania lattice and the consumption of vanadium, while carbon formation appears to be less relevant. Our results highlight the importance of analyzing the CO2–ODH reaction network and applying a multispectroscopic approach to obtain a detailed mechanistic understanding of CO2-assisted propane ODH over supported VOx catalysts.    
-
-    
-
-## Expedited Synthesis of Axially Chiral 3-Monosilyl and 3,3′-Bis-silyl Biphenols, Binaphthols, and Phosphoramidites Enabled by Catalytic Two-Fold C–H Silylation with a Traceless Acetal Directing Group   
-
-OpenAlex: https://openalex.org/W4405963253    
-Open access: False
-    
-[Hiep H. Nguyen](https://openalex.org/A5057084692), [Suman Das Adhikary](https://openalex.org/A5107376498), [Yao Chung Chang](https://openalex.org/A5111332695), [Peter Zotor](https://openalex.org/A5115732211), [Junha Jeon](https://openalex.org/A5004384865), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05927.
-    
-The design and development of supporting ligands have significantly propelled the discovery of new catalytic reactions and the improvement of existing ones. Among these, axially chiral biphenols and 1,1′-binaphthalene-2,2′-diol (BINOL) are some of the most privileged ligands used in a wide array of enantioselective reactions. Despite the well-established benefits of structural modifications to biphenol and BINOL scaffolds, particularly at their 3,3′-positions─for enhancing reactivity and stereofidelity in catalytic asymmetric transformations─only a limited number of 3,3′-bis-functionalized biphenols and BINOLs are currently available. Here, we report a unified strategy to rapidly access a range of axially chiral 3-monosilyl and 3,3′ bis-silyl-substituted and biphenols and BINOLs as well as their corresponding 3-monosilyl and 3,3′ bis-silyl BINOL-based phosphoramidites. This approach involves traceless acetal-directed, catalytic two-fold C–H silylation of axially chiral biaryls, coupled with selective monoprotodesilylation, expanding the versatility of catalytic C–H functionalization in ligand design and development. Scope studies on the augmentation of the topological space of potentially stereoselectivity-amplifying 3,3′-bis-silyl substituents in axially chiral biphenols and BINOLs were achieved through C–H silylation of biphenols and BINOLs using various dihydrosilanes, as well as the derivatization of 3,3′-silanes, leading to functionalized silane-substituted biphenols and BINOLs. Lastly, the phosphoramidation of newly synthesized 3-monosilyl and 3,3′ bis-silyl BINOL and biphenols with dichlorophosphinamine provided a series of 3-monosilyl and 3,3′ bis-silyl BINOL-based phosphoramidites. The efficiency of this synthetic approach is underscored by its short synthetic steps, expedited reaction times, and minimal purification, making it versatile for the synthesis of a wide array of organosilicon-functionalized axially chiral biaryls and phosphoramidites.    
 
     
