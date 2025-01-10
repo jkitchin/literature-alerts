@@ -1,11 +1,32 @@
 #+TITLE: water splitting
 Description: water splitting papers
-Created on Thu Jan  9 01:20:38 2025
+Created on Fri Jan 10 01:22:58 2025
 
-Found 102 results from 2025-01-02 to 2025-01-09
+Found 124 results from 2025-01-03 to 2025-01-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution]]
+
+* Dynamic Redox Induced Localized Charge Accumulation Accelerating Proton Exchange Membrane Electrolysis  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405997932
+:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Advanced battery technologies research
+:PUBLICATION_DATE: 2025-01-02
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adma.202405447")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405997932"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405997932"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405997932"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405997932 (Open access: True)
+    
+[[https://openalex.org/A5023217658][Bin Chang]], [[https://openalex.org/A5020343764][Yuanfu Ren]], [[https://openalex.org/A5057745808][Nan Mu]], [[https://openalex.org/A5033564313][Shouwei Zuo]], [[https://openalex.org/A5101864882][Chen Zou]], [[https://openalex.org/A5101933146][Wei Zhou]], [[https://openalex.org/A5044962971][Linrui Wen]], [[https://openalex.org/A5075040259][Hua Bing Tao]], [[https://openalex.org/A5004123938][Weijia Zhou]], [[https://openalex.org/A5011908616][Zhiping Lai]], [[https://openalex.org/A5066077114][Yoji Kobayashi]], [[https://openalex.org/A5019144758][Huabin Zhang]], Advanced Materials. None(None)] 2025. https://doi.org/10.1002/adma.202405447 
+     
+The sluggish anodic oxygen evolution reaction (OER) in proton exchange membrane (PEM) electrolysis necessitates applied bias to facilitate electron transfer as well as bond cleavage and formation. Traditional electrocatalysis focuses on analyzing the effects of electron transfer, while the role of charge accumulation induced by the applied overpotential has not been thoroughly investigated. To explore the influence mechanism of bias-driven charge accumulation, capacitive Mn is incorporated into IrO    
+
+    
 
 * Tracking the correlation between spintronic structure and oxygen evolution reaction mechanism of cobalt-ruthenium-based electrocatalyst  :water_splitting:
 :PROPERTIES:
@@ -196,6 +217,27 @@ No abstract
 
     
 
+* Tuning the Oxygen Vacancies Properties in B-Tio2 Photocatalyst Induced by Rare-Earth Decorating (Re: Nd, Sm, EU, Er, Tm)  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406086218
+:TOPICS: Advanced Photocatalysis Techniques, Catalytic Processes in Materials Science, TiO2 Photocatalysis and Solar Cells
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.5084087")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406086218"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406086218"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406086218"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406086218 (Open access: False)
+    
+[[https://openalex.org/A5059142864][Yanzi Wang]], [[https://openalex.org/A5081031788][Jianan Dai]], [[https://openalex.org/A5101226881][Jing Ma]], [[https://openalex.org/A5072765678][Tengyue Zhang]], [[https://openalex.org/A5108965014][Zili Liang]], [[https://openalex.org/A5086259394][Liangsheng Qiang]], [[https://openalex.org/A5100716022][Rui Liu]], [[https://openalex.org/A5011366219][Shu‐Hao Chang]], No host. None(None)] 2025. https://doi.org/10.2139/ssrn.5084087 
+     
+Enhancing the properties of titanium dioxide (TiO₂) through modification with rare earth metals has become a significant area of research. This study focuses on synthesizing hollow core-shell nanostructured RE-B-TiO₂ (RE: Nd, Sm, Eu, Er, Tm) catalysts using solvothermal technology and evaluating their visible-light catalytic efficiency in degrading tetracycline hydrochloride (TCH) and generating H₂. Findings indicate that rare earth element doping enhances oxygen vacancies, minimizes electron-hole recombination, improves electron transfer rates in hollow TiO₂ structures, and broadens light absorption from ultraviolet to visible ranges. Under visible light, the Er-B-TiO₂ catalyst achieved a 93.2% TCH degradation rate after 120 min. Upon further examination of the effects of catalyst dosage, initial pH, various anions, TCH concentration, and different antibiotics, it was found that pH levels and specific anions significantly impacted the photocatalytic degradation of TCH. An strong absorption band of visible light is achieved in RE-B-TiO₂ by intentionally introducing oxygen vacancies, leading to active photochemical oxidation under visible light. Density Functional Theory (DFT) calculations and HPLC-MS analyses helped outline the photodegradation pathway and mechanism, while Toxicity predictions indicated a progressive reduction in toxicity during TCH degradation. The enhanced photocatalytic performance is attributed to a slight band gap reduction resulting from the RE 4f-level introduction, offering a promising strategy for designing high-performance photocatalysts.    
+
+    
+
 * Enhanced reconstruction of RuCoNiCuMn high entropy MOF for excellent alkaline oxygen evolution reaction  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4406086882
@@ -238,6 +280,48 @@ No abstract
 
     
 
+* Wood‐Inspired Electrode for Sustainable Electrocatalytic Energy Conversion  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406101616
+:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Conducting polymers and applications
+:PUBLICATION_DATE: 2025-01-06
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smm2.1326")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406101616"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406101616"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406101616"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406101616 (Open access: True)
+    
+[[https://openalex.org/A5057640019][Weijia Guo]], [[https://openalex.org/A5107950755][Yawen Wang]], [[https://openalex.org/A5108874928][Shunyu Shen]], [[https://openalex.org/A5024017574][Han Wang]], [[https://openalex.org/A5102896596][Kai Shao]], [[https://openalex.org/A5042726689][Zhenjie Wang]], [[https://openalex.org/A5033120372][Yao Shi]], [[https://openalex.org/A5084861037][Caicai Li]], [[https://openalex.org/A5100357312][Qingfeng Sun]], [[https://openalex.org/A5028386144][Huiqiao Li]], SmartMat. 6(1)] 2025. https://doi.org/10.1002/smm2.1326 
+     
+ABSTRACT Electrocatalysis plays a central role in electrochemical energy storage and conversion systems, providing a number of sustainable processes for future technologies. As a green, renewable, and abundant natural polymer material, the unique structure and physicochemical properties of wood and its derivatives provide a unique application advantage in the field of electrocatalysis, which has aroused intense attention from researchers. At present, researchers have developed many wood‐based catalytic electrodes by taking advantage of the anisotropic hierarchical porous structure of wood and abundant active functional groups on the cell wall surface of wood. Here, a comprehensive review of recent progress in the design and synthesis of wood‐inspired electrodes for electrocatalytic reactions is summarized. Starting from the role and importance of the electrocatalytic process in the whole energy conversion system, this review highlights the composition and structure of wood, analyzes the mechanisms of electrocatalytic hydrogen evolution reaction (HER), oxygen evolution reaction (OER), urea oxidation reaction (UOR), and oxygen reduction reaction (ORR), and discusses the structure‐activity relationship between the structural properties and electrochemical activity of wood‐inspired electrodes. Finally, the opportunities, challenges, and future directions in the application of wood and its derivatives in the field of electrocatalysis are prospected.    
+
+    
+
+* Transition metal atoms embedded in monolayer C13N3 as OER/ORR bifunctional electrocatalysts  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406107125
+:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Electrochemical Analysis and Applications
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4cy01160k")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406107125"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406107125"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406107125"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406107125 (Open access: False)
+    
+[[https://openalex.org/A5010295790][Xiaoxue Yu]], [[https://openalex.org/A5100958080][Junkai Xu]], [[https://openalex.org/A5055096182][Yunhao Wang]], [[https://openalex.org/A5021115574][Jianjun Fang]], [[https://openalex.org/A5086578535][Xian-Fang Yue]], [[https://openalex.org/A5061185825][Breno R. L. Galvão]], [[https://openalex.org/A5060866469][Jing Li]], Catalysis Science & Technology. None(None)] 2025. https://doi.org/10.1039/d4cy01160k 
+     
+Developing bifunctional electrocatalysts for efficiently catalyzing the oxygen evolution/reduction reaction (OER/ORR) is essential for water electrolysis and other processes. Herein, we have investigated the OER and ORR performance of monolayered...    
+
+    
+
 * Ligands Defect Engineered NH2-MIL-88B(Fe) for Efficient Oxygen Evolution Reaction in alkaline seawater  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4406110150
@@ -256,48 +340,6 @@ OpenAlex: https://openalex.org/W4406110150 (Open access: False)
 [[https://openalex.org/A5102688148][Dongling Xie]], [[https://openalex.org/A5100457994][Jianan Wang]], [[https://openalex.org/A5010637539][Bo Huang]], [[https://openalex.org/A5111982257][Yiyi Yang]], [[https://openalex.org/A5041582832][Dunmin Lin]], [[https://openalex.org/A5101089075][Chenggang Xu]], [[https://openalex.org/A5104805178][Fengyu Xie]], CrystEngComm. None(None)] 2025. https://doi.org/10.1039/d4ce00968a 
      
 Rational design of viable routes to develop affordable and efficient oxygen evolution reaction (OER) catalysts is essential for advancing electrochemical water splitting, yet significant challenges remain, particularly in seawater. Here,...    
-
-    
-
-* Oxygen Edge‐Sharing Strategy in P2‐Type Na0.67MnO2 Cathodes: Synergistic Enhancement of Intercalation Kinetics and Air Stability  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406111156
-:TOPICS: Advancements in Battery Materials, Advanced Battery Materials and Technologies, Supercapacitor Materials and Fabrication
-:PUBLICATION_DATE: 2025-01-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adfm.202420682")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406111156"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406111156"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406111156"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406111156 (Open access: True)
-    
-[[https://openalex.org/A5062043883][Yuanming Liu]], [[https://openalex.org/A5100437632][Shiyu Wang]], [[https://openalex.org/A5064073927][Weijie Fu]], [[https://openalex.org/A5041204496][Shuyun Yao]], [[https://openalex.org/A5081392288][Yingjie Ji]], [[https://openalex.org/A5101698919][Jingxian Li]], [[https://openalex.org/A5089513430][Lanlan Shi]], [[https://openalex.org/A5115595460][Xiaojun Wang]], [[https://openalex.org/A5009865163][Feike Zhang]], [[https://openalex.org/A5100378741][H. J. Yang]], [[https://openalex.org/A5108941009][Ruilong Liu]], [[https://openalex.org/A5074075605][Jiangzhou Xie]], [[https://openalex.org/A5021414632][Zhiyu Yang]], [[https://openalex.org/A5055699044][Yi‐Ming Yan]], Advanced Functional Materials. None(None)] 2025. https://doi.org/10.1002/adfm.202420682  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202420682][pdf]])
-     
-Abstract Mn‐based layered oxides have garnered significant attention as cathode materials for energy storage due to their environmental benignity and high theoretical specific capacity. However, practical applications remain constrained by sluggish Na + intercalation kinetics and poor structural stability. In this study, it is engineered that the Mn‐O‐B unit through an oxygen edge‐sharing strategy to modulate Mn─O covalency in P2‐type Na 0.67 MnO 2 , thereby achieving high specific capacity and structural stability. Both experimental results and density functional theory (DFT) calculations reveal that increased TM‐O covalency facilitates Na + diffusion in P2‐type Na 0.67 MnO 2 while simultaneously enhancing air stability. The as‐prepared P2‐type Na 0.67 MnB 0.05 O 2 exhibits a specific capacitance of 452 F g −1 at 1 A g −1 , maintaining 96.75% capacity retention after 8800 cycles. This work elucidates the critical role of oxygen edge‐sharing in optimizing interactions between transition metal and oxygen atoms, establishing a relationship between Mn─O structure and functional properties. These findings advance the development of high‐performance energy storage technologies.    
-
-    
-
-* Cocktail Effect of 4d/5d Band Twisted High‐Entropy Alloys on Carbon Nanotube for Hydrazine Splitting  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406112406
-:TOPICS: Electrocatalysts for Energy Conversion, Catalytic Processes in Materials Science, Advanced Photocatalysis Techniques
-:PUBLICATION_DATE: 2025-01-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202410304")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406112406"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406112406"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406112406"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406112406 (Open access: True)
-    
-[[https://openalex.org/A5016216424][Chae Eun Park]], [[https://openalex.org/A5034642303][Jayaraman Theerthagiri]], [[https://openalex.org/A5061555018][V. Maheskumar]], [[https://openalex.org/A5087525540][Anuj Kumar]], [[https://openalex.org/A5114045424][Gyoung Hwa Jeong]], [[https://openalex.org/A5067975222][Myong Yong Choi]], Small. None(None)] 2025. https://doi.org/10.1002/smll.202410304  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202410304][pdf]])
-     
-Abstract Herein, multi‐walled carbon nanotubes (CNT) embedded with RuPdIrPtAu‐high entropy alloys (HEA) via pulsed laser irradiation in liquids are successfully fabricated. The resultant composite synergistically enhances hydrazine oxidation reaction (HzOR)‐boosted water electrolysis. Notably, HEA with ≈2–5 nm size, are uniformly distributed across the surface of the CNTs. An optimized HEA/CNT‐10 demonstrates exceptional performance in oxygen and hydrogen evolution reactions (OER and HER), depicted by ultralow overpotentials of 30.7 and 330 mV at 10 mA cm −2 , respectively. By replacing OER with HzOR, HEA/CNT‐10 needs a lower potential of 0.1 V to accomplish 10 mA cm −2 , as compared to OER (1.56 V vs. RHE). Moreover, the hydrazine splitting electrolyzer desirable a small voltage of 0.242 V to attain 10 mA cm −2 , while maintaining exceptional stability. Experimental and DFT studies validate the cocktail effects and role of multiple metal‐sites in HEA/CNT‐10, which significantly enhance the efficiency of parallel HER||HzOR processes, highlighting its potential in energy‐efficient, hydrogen production. In situ Raman probe indicated the configuration of an acidic environment, monitoring of H 3 O + , during HER, despite the basic conditions. This is attributed to the dominance of the Heyrovsky step, facilitated by the high catalytic activity of the HEA, coupled with protonation of the CNT surface.    
 
     
 
@@ -322,10 +364,31 @@ No abstract
 
     
 
+* Rational Design of Bimetal Nanoparticles Anchored Hierarchical Carbon Nanospheres with Abundant Active Sites for High-Performance Liquid/Flexible Zinc-Air Batteries  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406117188
+:TOPICS: Advanced battery technologies research, Electrocatalysts for Energy Conversion, Supercapacitor Materials and Fabrication
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.5085813")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406117188"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406117188"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406117188"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406117188 (Open access: False)
+    
+[[https://openalex.org/A5113223519][Dingsheng Yuan]], [[https://openalex.org/A5076094820][Li-Juan Peng]], [[https://openalex.org/A5003613305][Dan Zhu]], [[https://openalex.org/A5025294397][Ruchun Li]], No host. None(None)] 2025. https://doi.org/10.2139/ssrn.5085813 
+     
+The development of highly active bifunctional electrocatalysts is crucial to the sluggish oxygen reduction reaction/oxygen evolution reaction (ORR/OER) for efficient wearable Zn–air batteries (ZAB). The Fe-Nx-C moieties anchored on carbon supports emerge as a desirable alternative as ORR catalysts but its OER activity suffers from low catalytic performance and stability. Herein, a N-doped carbon-encapsulated Fe3C and MnO nanoparticles composite (FeMn-NC) was developed using a simple one-step pyrolysis of the self-sacrificial template. The obtained FeMn-NC possess a hierarchical porous structure with a large specific surface area and rich pyridinic N, which are favorable for the exposure of the active sites. The introduction of the Fe3C/MnO interface can regulate the charge redistribution to promote ORR/OER kinetics, which is confirmed by theoretical calculations. The obtained FeMn-NC exhibits an excellent bifunctional ORR/OER activity in alkaline electrolytes.The assembled liquid ZAB with the FeMn-NC as the cathode can achieve ultrahigh specific capacity of 831.7 mAh g-1 and charge-discharged stability up to 800 h at 10 mA cm⁻² (2400 cycles). Furthermore, the corresponding flexible solid-state ZAB provides a stable open-circuit voltage of 1.50 V and a specific capacity of 676.1 mAh g−1 at 1.0 mA cm-2 with good cycling stability. This work offers a simple strategy to synthesize hierarchical porous materials with highly active bifunctional properties, which can be applied in other electrochemical energy devices.    
+
+    
+
 * Zn3(PO4)2·4H2O/TiO2 Structure for Superior Oxygen Evolution Reaction and Energy Storage Applications  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4406118645
-:TOPICS: Catalytic Processes in Materials Science, Electrocatalysts for Energy Conversion, Polyoxometalates: Synthesis and Applications
+:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Supercapacitor Materials and Fabrication
 :PUBLICATION_DATE: 2025-01-06
 :END:    
     
@@ -337,7 +400,7 @@ No abstract
 
 OpenAlex: https://openalex.org/W4406118645 (Open access: True)
     
-[[https://openalex.org/A5049907108][Mohammad Wahiduzzaman Khan]], [[https://openalex.org/A5081819393][Ritu Raj]], [[https://openalex.org/A5038124824][Mange Ram]], [[https://openalex.org/A5006437209][Anju Rani]], [[https://openalex.org/A5022029107][Krishna Kanta Haldar]], Energy Storage. 7(1)] 2025. https://doi.org/10.1002/est2.70112  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/est2.70112][pdf]])
+[[https://openalex.org/A5049907108][Mohammad Wahiduzzaman Khan]], [[https://openalex.org/A5081819393][Ritu Raj]], [[https://openalex.org/A5038124824][Mange Ram]], [[https://openalex.org/A5006437209][Anju Rani]], [[https://openalex.org/A5022029107][Krishna Kanta Haldar]], Energy Storage. 7(1)] 2025. https://doi.org/10.1002/est2.70112 
      
 ABSTRACT In this study, we present the synthesis and characterization of a high‐performance Zn 3 (PO 4 ) 2 ·4H₂O/TiO 2 nanocomposite, designed as a versatile electrocatalyst for advanced energy storage and conversion applications. The synthesis of the Zn 3 (PO 4 ) 2 ·4H₂O/TiO 2 nanocomposite was confirmed using various sophisticated analytical techniques such as powder x‐ray diffraction, FTIR, UV spectroscopy, FESEM imaging, EDX, and XPS etc. Notably, the nanocomposite demonstrates exceptional performance in the oxygen evolution reaction (OER), with a low overpotential of 250 mV at a current density of 50 mV/cm 2 and a Tafel slope of 129 mV/dec, indicating superior kinetics. Furthermore, it demonstrates a specific capacitance of 112 F/g at a scan rate of 20 mV/s and remarkable cyclic stability, retaining 91% capacitance over 1000 cycles in supercapacitor applications. Additionally, in a practical application, the nanocomposite successfully powered a red light‐emitting diode (LED) for 11 min. The combined effect of Zn 3 (PO 4 ) 2 ·4H₂O 2 and TiO 2 contributes to its outstanding electrochemical properties. This makes it a promising candidate for sustainable energy solutions, with the potential to enhance the efficiency and durability of energy storage and conversion systems.    
 
@@ -364,24 +427,276 @@ Amorphous MOFs (a-MOFs) could be highly promising cocatalysts of 3-D α-Fe 2 O 3
 
     
 
-* N-containing biochar-wrapped Co nanoparticles supported on N-doped graphitic carbon for efficient alkaline oxygen and hydrogen evolution reactions  :water_splitting:
+* Comparison of In Situ and Postsynthetic Formation of MOF-Carbon Composites as Electrocatalysts for the Alkaline Oxygen Evolution Reaction (OER)  :water_splitting:
 :PROPERTIES:
-:UUID: https://openalex.org/W4405982537
-:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Catalytic Processes in Materials Science
-:PUBLICATION_DATE: 2025-01-02
+:UUID: https://openalex.org/W4406126560
+:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Advanced battery technologies research
+:PUBLICATION_DATE: 2025-01-07
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.12.488")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/molecules30020208")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405982537"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405982537"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405982537"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406126560"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406126560"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406126560"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4405982537 (Open access: False)
+OpenAlex: https://openalex.org/W4406126560 (Open access: True)
     
-[[https://openalex.org/A5017869126][Ming Zhong]], [[https://openalex.org/A5100355823][Yang Liu]], [[https://openalex.org/A5100394952][Jing Chen]], [[https://openalex.org/A5102010367][Jinrong Zhang]], [[https://openalex.org/A5112479714][Jiahui Cao]], [[https://openalex.org/A5100415560][Weiping Li]], [[https://openalex.org/A5103278928][Bitao Su]], International Journal of Hydrogen Energy. 101(None)] 2025. https://doi.org/10.1016/j.ijhydene.2024.12.488 
+[[https://openalex.org/A5032550080][Linda Sondermann]], [[https://openalex.org/A5115068741][Laura Maria Voggenauer]], [[https://openalex.org/A5014038933][Annette Vollrath]], [[https://openalex.org/A5021173043][Till Strothmann]], [[https://openalex.org/A5090644272][Christoph Janiak]], Molecules. 30(2)] 2025. https://doi.org/10.3390/molecules30020208  ([[https://www.mdpi.com/1420-3049/30/2/208/pdf?version=1736234680][pdf]])
+     
+Mixed-metal nickel-iron, NixFe materials draw attention as affordable earth-abundant electrocatalysts for the oxygen evolution reaction (OER). Here, nickel and mixed-metal nickel-iron metal–organic framework (MOF) composites with the carbon materials ketjenblack (KB) or carbon nanotubes (CNT) were synthesized in situ in a one-pot solvothermal reaction. As a direct comparison to these in situ synthesized composites, the neat MOFs were postsynthetically mixed by grinding with KB or CNT, to generate physical mixture composites. The in situ and postsynthetic MOF/carbon samples were comparatively tested as (pre-)catalysts for the OER, and most of them outperformed the RuO2 benchmark. Depending on the carbon material and metal ratio, the in situ or postsynthetic composites performed better, showing that the method to generate the composite can influence the OER activity. The best material Ni5Fe-CNT was synthesized in situ and achieved an overpotential (η) of 301 mV (RuO2 η = 354 mV), a Tafel slope (b) of 58 mV/dec (RuO2 b = 91 mV/dec), a charge transfer resistance (Rct) of 7 Ω (RuO2 Rct = 39 Ω), and a faradaic efficiency (FE) of 95% (RuO2 FE = 91%). Structural changes in the materials could be seen through a stability test in the alkaline electrolyte, and chronopotentiometry over 12 h showed that the derived electrocatalysts and RuO2 have good stability.    
+
+    
+
+* Polymetallic Sulfides Based on Co-Bdc/Nf for High Efficient Oxygen Evolution Reaction  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406126664
+:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Perovskite Materials and Applications
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.5085458")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406126664"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406126664"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406126664"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406126664 (Open access: False)
+    
+[[https://openalex.org/A5001822170][Nana Gao]], [[https://openalex.org/A5003055263][Zhengyuan Liu]], [[https://openalex.org/A5038221249][Yaqiong Gong]], No host. None(None)] 2025. https://doi.org/10.2139/ssrn.5085458 
      
 No abstract    
+
+    
+
+* Nabh4 Modified Cobalt Gallium Bimetallic Hydroxide Nanosheets: A High-Performance Amorphous Electrocatalyst for Oxygen Evolution Reaction  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406126816
+:TOPICS: Electrocatalysts for Energy Conversion, Conducting polymers and applications, Semiconductor materials and interfaces
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.5085451")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406126816"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406126816"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406126816"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406126816 (Open access: False)
+    
+[[https://openalex.org/A5031211710][Fangping Wang]], [[https://openalex.org/A5059804178][Yuee Zhao]], [[https://openalex.org/A5115793971][Guizhen Xian]], [[https://openalex.org/A5102624294][Shiyan Zhao]], [[https://openalex.org/A5033332677][Haidong Yang]], No host. None(None)] 2025. https://doi.org/10.2139/ssrn.5085451 
+     
+No abstract    
+
+    
+
+* Differentiated Modulating the Electronic Structure of NiFe@Ni/Fe‐MnOx via Phase Transformation Engineering to Synergy Promote Bifunctional Water Splitting Reactions  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406127033
+:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Electrochemical Analysis and Applications
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202410752")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406127033"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406127033"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406127033"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406127033 (Open access: True)
+    
+[[https://openalex.org/A5101974442][Min Feng]], [[https://openalex.org/A5102708905][Yu Tang]], [[https://openalex.org/A5100446622][Zhimin Li]], [[https://openalex.org/A5103066866][Zhengfu Zhang]], [[https://openalex.org/A5115600891][Chengping Li]], [[https://openalex.org/A5069813616][Rui Bao]], [[https://openalex.org/A5102780947][Jianhong Yi]], [[https://openalex.org/A5005362151][Jiangzhao Chen]], [[https://openalex.org/A5100639868][Jinsong Wang]], Small. None(None)] 2025. https://doi.org/10.1002/smll.202410752  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202410752][pdf]])
+     
+Abstract Modulating electronic structure to balance the requirement of both hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) is crucial for developing bifunctional catalysts. Herein, phase transformation engineering is utilized to separately regulate catalyst structure, and the designed NiFe@Ni/Fe‐MnOOH schottky heterojunction exhibits remarkable bifunctional electrocatalytic activity with low overpotentials of 19 and 230 mV at 10 mA cm −2 for HER and OER in 1M KOH, respectively. Meanwhile, an anion‐exchange membrane water electrolyzer employing NiFe@Ni/Fe‐MnOOH as electrodes shows low voltages of 1.487/1.953 V at 10/1000 mA cm −2 , and operating over 200 h at 1000 mA cm −2 . Combining theoretical calculations and experiments reveal that phase transformation engineering can differentially regulate the active phases of HER/OER. In the HER, Ni/Fe‐MnOOH and metallic NiFe act as the *OH and *H acceptors respectively to accelerates the water dissociation and subsequent Heyrovsky/Tafel step. While in the OER, the significant Jahn‐Teller effect of Mn 3+ induces the surface reconstruction from Ni/Fe‐MnOOH to Ni/Fe‐MnO 2 . The formative high value Mn 4+ can modify the M‐O hybridization and activate the lattice oxygen mechanism, which is pivotal for breaking the restriction of volcanic relationship and reducing OER overpotential. These findings provide valuable design guidelines for high‐performance multi‐functional electrocatalysts via phase transformation engineering.    
+
+    
+
+* Construction Three-Dimensional Fe-Based Electrodes for Oxygen Evolution at Large Current Density  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406128382
+:TOPICS: Electrochemical Analysis and Applications, Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.5085359")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406128382"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406128382"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406128382"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406128382 (Open access: False)
+    
+[[https://openalex.org/A5110521068][Shuai Niu]], [[https://openalex.org/A5109764333][Feng Wu]], [[https://openalex.org/A5100669587][Jing Zhang]], [[https://openalex.org/A5002713029][Tao Luo]], [[https://openalex.org/A5101982625][Ying Yuan]], [[https://openalex.org/A5110473169][Jing Guo]], [[https://openalex.org/A5100641960][Hao Luo]], No host. None(None)] 2025. https://doi.org/10.2139/ssrn.5085359 
+     
+No abstract    
+
+    
+
+* Cobalt/cobalt phosphide/nitrogen-doped carbon derived from zeolitic imidazolate framework-11@zeolitic imidazolate framework-12 core-shell structure as efficient electrocatalyst for oxygen evolution reaction  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406133976
+:TOPICS: Electrocatalysts for Energy Conversion, Electrochemical Analysis and Applications, Fuel Cells and Related Materials
+:PUBLICATION_DATE: 2025-01-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2025.01.014")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406133976"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406133976"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406133976"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406133976 (Open access: False)
+    
+[[https://openalex.org/A5111406613][Chen-Han Lin]], [[https://openalex.org/A5112691665][Yin-Chen Lin]], [[https://openalex.org/A5111553777][Chia‐Lin Yeh]], [[https://openalex.org/A5048323885][L. Lin]], [[https://openalex.org/A5051193004][Kuo‐Chuan Ho]], International Journal of Hydrogen Energy. 101(None)] 2025. https://doi.org/10.1016/j.ijhydene.2025.01.014 
+     
+No abstract    
+
+    
+
+* Recent Advances and Perspectives on Coupled Water Electrolysis for Energy‐Saving Hydrogen Production  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406146049
+:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Ammonia Synthesis and Nitrogen Reduction
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/advs.202411964")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406146049"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406146049"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406146049"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406146049 (Open access: True)
+    
+[[https://openalex.org/A5100357063][Jiachen Li]], [[https://openalex.org/A5032920387][Yuqiang Ma]], [[https://openalex.org/A5111048732][Xiaogang Mu]], [[https://openalex.org/A5056101783][Xuanjun Wang]], [[https://openalex.org/A5100421387][Yang Li]], [[https://openalex.org/A5100781770][Haixia Ma]], [[https://openalex.org/A5077700652][Zhengxiao Guo]], Advanced Science. None(None)] 2025. https://doi.org/10.1002/advs.202411964 
+     
+Abstract Overall water splitting (OWS) to produce hydrogen has attracted large attention in recent years due to its ecological‐friendliness and sustainability. However, the efficiency of OWS has been forced by the sluggish kinetics of the four‐electron oxygen evolution reaction (OER). The replacement of OER by alternative electrooxidation of small molecules with more thermodynamically favorable potentials may fundamentally break the limitation and achieve hydrogen production with low energy consumption, which may also be accompanied by the production of more value‐added chemicals than oxygen or by electrochemical degradation of pollutants. This review critically assesses the latest discoveries in the coupled electrooxidation of various small molecules with OWS, including alcohols, aldehydes, amides, urea, hydrazine, etc. Emphasis is placed on the corresponding electrocatalyst design and related reaction mechanisms (e.g., dual hydrogenation and N–N bond breaking of hydrazine and C═N bond regulation in urea splitting to inhibit hazardous NCO − and NO − productions, etc.), along with emerging alternative electrooxidation reactions (electrooxidation of tetrazoles, furazans, iodide, quinolines, ascorbic acid, sterol, trimethylamine, etc.). Some new decoupled electrolysis and self‐powered systems are also discussed in detail. Finally, the potential challenges and prospects of coupled water electrolysis systems are highlighted to aid future research directions.    
+
+    
+
+* Efficient bifunctional V‐doped NiCoP/Ni2P electrocatalysts for overall water splitting achieved through a simple heterointerfaces construction strategy  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406146246
+:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Electrochemical Analysis and Applications
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cctc.202402006")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406146246"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406146246"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406146246"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406146246 (Open access: True)
+    
+[[https://openalex.org/A5086175448][Zhong-Hang Xing]], [[https://openalex.org/A5023830542][Wenfang Cai]], [[https://openalex.org/A5068754949][Yun‐Hai Wang]], [[https://openalex.org/A5100632573][Qing‐Yun Chen]], ChemCatChem. None(None)] 2025. https://doi.org/10.1002/cctc.202402006 
+     
+Developing efficient bifunctional electrocatalyst with oxygen evolution reaction (OER) and hydrogen evolution reaction (HER) is imperative for water electrolysis. Herein, the construction of heterointerfaces was achieved through the simple phosphating treatment, and a unique chrysanthemum‐like V‐doped NiCoP/Ni2P/NF was synthesized for the efficient water splitting. The prepared V‐doped NiCoP/Ni2P/NF demonstrated favorable bifunctional catalytic performance, requiring low overpotentials of 82 mV and 245 mV to achieve current densities of 10 mA cm−2 for the HER and OER, respectively. At a current density of 50 mA cm‐2, the cell voltage for overall water splitting (OWS) is only 1.66 V, with no significant degradation after 60 hours of operation. The characterization and DFT calculations revealed that the heterointerfaces between NiCoP and Ni2P significantly enhanced the catalytic performance by facilitating electron transfer and optimizing charge distribution. Vanadium doping further changed the electronic properties at the interfaces and optimized the adsorption of intermediates. Due to the synergistic effect of heterointerfaces and vanadium doping, V‐doped NiCoP/Ni2P/NF exhibited excellent bifunctional properties, with more reaction sites, high conductivity, and stability. This strategy could open up new possibilities for designing high‐performance catalysts for renewable energy production and sustainable hydrogen generation.    
+
+    
+
+* Deciphering the Radial Ligand Effect of Biomimetic Amino Acid toward Stable Alkaline Oxygen Evolution  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406151000
+:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Advanced battery technologies research
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.inorgchem.4c04889")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406151000"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406151000"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406151000"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406151000 (Open access: False)
+    
+[[https://openalex.org/A5100417869][Jianye Wang]], [[https://openalex.org/A5041959505][Zengxuan Chen]], [[https://openalex.org/A5101054004][Xiaojing Lin]], [[https://openalex.org/A5086671763][Zhaojie Wang]], [[https://openalex.org/A5100373719][Xiaodong Chen]], [[https://openalex.org/A5012325229][Xingheng Zhang]], [[https://openalex.org/A5100419489][Jiao Li]], [[https://openalex.org/A5100619677][Jinpeng Liu]], [[https://openalex.org/A5100406615][Siyuan Liu]], [[https://openalex.org/A5002382898][Shuxian Wei]], [[https://openalex.org/A5089901400][Daofeng Sun]], [[https://openalex.org/A5004933770][Xiaoqing Lü]], Inorganic Chemistry. None(None)] 2025. https://doi.org/10.1021/acs.inorgchem.4c04889 
+     
+No abstract    
+
+    
+
+* Deciphering pH Mismatching at the Electrified Electrode–Electrolyte Interface towards Understanding Intrinsic Water Molecule Oxidation Kinetics  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406151168
+:TOPICS: Electrocatalysts for Energy Conversion, Electrochemical Analysis and Applications, Advanced battery technologies research
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202419823")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406151168"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406151168"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406151168"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406151168 (Open access: True)
+    
+[[https://openalex.org/A5100415827][Miao Wang]], [[https://openalex.org/A5051138648][Ken Sakaushi]], Angewandte Chemie International Edition. None(None)] 2025. https://doi.org/10.1002/anie.202419823  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.202419823][pdf]])
+     
+Abstract Unveiling the key influencing factors towards electrode/electrolyte interface control is a long‐standing challenge for a better understanding of microscopic electrode kinetics, which is indispensable to building up guiding principles for designer electrocatalysts with desirable functionality. Herein, we exemplify the oxygen evolution reaction (OER) via water molecule oxidation with the iridium dioxide electrocatalyst and uncovered the significant mismatching effect of pH between local electrode surface and bulk electrolyte: the intrinsic OER activity under acidic or near‐neutral condition was deciphered to be identical by adjusting this pH mismatching. This result indicates that the local pH effect at the electrified solid–liquid interface plays the main role in the “fake” OER performance. This local pH effect on the OER electrode process is further verified by integrating a wide spectrum of analytical approaches. This study will accelerate the understanding of the local proton‐induced effect on electrode interface processes and the development of advanced electrochemical activity.    
+
+    
+
+* Deciphering pH Mismatching at the Electrified Electrode–Electrolyte Interface towards Understanding Intrinsic Water Molecule Oxidation Kinetics  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406151788
+:TOPICS: Electrocatalysts for Energy Conversion, Electrochemical Analysis and Applications, Advanced battery technologies research
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202419823")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406151788"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406151788"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406151788"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406151788 (Open access: True)
+    
+[[https://openalex.org/A5100415827][Miao Wang]], [[https://openalex.org/A5051138648][Ken Sakaushi]], Angewandte Chemie. None(None)] 2025. https://doi.org/10.1002/ange.202419823  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ange.202419823][pdf]])
+     
+Abstract Unveiling the key influencing factors towards electrode/electrolyte interface control is a long‐standing challenge for a better understanding of microscopic electrode kinetics, which is indispensable to building up guiding principles for designer electrocatalysts with desirable functionality. Herein, we exemplify the oxygen evolution reaction (OER) via water molecule oxidation with the iridium dioxide electrocatalyst and uncovered the significant mismatching effect of pH between local electrode surface and bulk electrolyte: the intrinsic OER activity under acidic or near‐neutral condition was deciphered to be identical by adjusting this pH mismatching. This result indicates that the local pH effect at the electrified solid–liquid interface plays the main role in the “fake” OER performance. This local pH effect on the OER electrode process is further verified by integrating a wide spectrum of analytical approaches. This study will accelerate the understanding of the local proton‐induced effect on electrode interface processes and the development of advanced electrochemical activity.    
+
+    
+
+* Eco-Friendly Synthesis of Rod-Like Hydroxyapatite on Spherical Carbon: A Dual-Function Composite for Selective Cobalt Removal and Enhanced Oxygen Evolution Reaction  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406160939
+:TOPICS: Catalytic Processes in Materials Science, Nanomaterials for catalytic reactions, Electrochemical Analysis and Applications
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jhazmat.2025.137164")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406160939"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406160939"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406160939"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406160939 (Open access: False)
+    
+[[https://openalex.org/A5101908609][Ali Mohammadi]], [[https://openalex.org/A5113177511][Santosh Kumar Tamang]], [[https://openalex.org/A5084755666][Muruganantham Rethinasabapathy]], [[https://openalex.org/A5026280033][Kugalur Shanmugam Ranjith]], [[https://openalex.org/A5025894131][Moein Safarkhani]], [[https://openalex.org/A5056881391][Cheol Hwan Kwak]], [[https://openalex.org/A5042309997][Changhyun Roh]], [[https://openalex.org/A5059396262][Yun Suk Huh]], [[https://openalex.org/A5000724215][Youngkyu Han]], Journal of Hazardous Materials. None(None)] 2025. https://doi.org/10.1016/j.jhazmat.2025.137164 
+     
+No abstract    
+
+    
+
+* Highly Dispersed Ni-Fe Active Sites on Fullerene based Electron Buffer to boost Oxygen Evolution Reaction  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406162345
+:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Electrochemical Analysis and Applications
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4ta06990k")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406162345"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406162345"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406162345"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406162345 (Open access: False)
+    
+[[https://openalex.org/A5008743951][Qin Tang]], [[https://openalex.org/A5073418500][Lingyue Wang]], [[https://openalex.org/A5083367823][Shenglong Zhang]], [[https://openalex.org/A5100784176][Pengfei Xue]], [[https://openalex.org/A5112138769][Yuye Zhang]], [[https://openalex.org/A5100402161][Hongbo Li]], [[https://openalex.org/A5081430760][Dongdong Zhu]], Journal of Materials Chemistry A. None(None)] 2025. https://doi.org/10.1039/d4ta06990k 
+     
+It is critical to develop highly efficient electrocatalysts for water splitting to achieve energy-saving hydrogen production. Recently, fullerene-based electrocatalysts have been widely reported for cathodic hydrogen evolution reaction (HER), while...    
 
     
 
@@ -445,27 +760,6 @@ OpenAlex: https://openalex.org/W4405997900 (Open access: False)
 [[https://openalex.org/A5006156225][Ruihe Tang]], [[https://openalex.org/A5030388543][Xiaona Yuan]], [[https://openalex.org/A5051475674][Wenxin Yang]], [[https://openalex.org/A5048262602][Haiyan Zhang]], [[https://openalex.org/A5108768390][Yan Lu]], [[https://openalex.org/A5087866064][Renjie Zhang]], Small. None(None)] 2025. https://doi.org/10.1002/smll.202410264 
      
 Abstract The dual‐site electrocatalysts formed by metal single atoms combines with metal nanoparticles represent a promising strategy to enhance both oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) performance. Herein, defect engineering is applied to dual‐site ORR and OER electrocatalysts. Its design, synthesis, structural properties, and catalytic performance experimentally and theoretically are insightfully studied for the single‐atomic Fe─N 4 and the adjacent Fe 7 Co 3 nanoalloy (FeCo NA ) as dual‐site loading on nitrogen‐doped graphene aerogel (Fe─N/FeCo@NGA). The high‐density dual‐sites, together with the good electronic conductivity of NGA, synergistically improve the electronic structure for superior electrocatalytic activity. The half‐wave potential of Fe─N/FeCo@NGA in ORR is 0.92 V and the overpotential of it in OER is 1.58 V. Corresponding all‐solid‐state Zn‐air battery demonstrates a peak power density of 147.6 mW cm −2 and charge/discharge durability for over 140 h. Theoretical calculations reveal that the single‐atomic Fe‐N 4 and FeCo NA dual‐site on the skeleton defect optimized NGA, further refine the local electronic structure, modulating the tensile force on the O─O bond in * OOH intermediate, leading to its spontaneous dissociation and facilitating a significantly reduced energy barrier. This work takes a promising shortcut in the application of defect engineering for the development of highly efficient dual‐site bifunctional oxygen electrocatalysts with single atoms.    
-
-    
-
-* Dynamic Redox Induced Localized Charge Accumulation Accelerating Proton Exchange Membrane Electrolysis  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405997932
-:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Fuel Cells and Related Materials
-:PUBLICATION_DATE: 2025-01-02
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adma.202405447")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405997932"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405997932"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405997932"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405997932 (Open access: False)
-    
-[[https://openalex.org/A5023217658][Bin Chang]], [[https://openalex.org/A5020343764][Yuanfu Ren]], [[https://openalex.org/A5057745808][Nan Mu]], [[https://openalex.org/A5033564313][Shouwei Zuo]], [[https://openalex.org/A5101864882][Chen Zou]], [[https://openalex.org/A5101933146][Wei Zhou]], [[https://openalex.org/A5044962971][Linrui Wen]], [[https://openalex.org/A5075040259][Hua Bing Tao]], [[https://openalex.org/A5004123938][Weijia Zhou]], [[https://openalex.org/A5011908616][Zhiping Lai]], [[https://openalex.org/A5066077114][Yoji Kobayashi]], [[https://openalex.org/A5019144758][Huabin Zhang]], Advanced Materials. None(None)] 2025. https://doi.org/10.1002/adma.202405447 
-     
-Abstract The sluggish anodic oxygen evolution reaction (OER) in proton exchange membrane (PEM) electrolysis necessitates applied bias to facilitate electron transfer as well as bond cleavage and formation. Traditional electrocatalysis focuses on analyzing the effects of electron transfer, while the role of charge accumulation induced by the applied overpotential has not been thoroughly investigated. To explore the influence mechanism of bias‐driven charge accumulation, capacitive Mn is incorporated into IrO 2 to regulate the local electronic structure and the adsorption behavior. The applied bias triggers dynamic redox reactions at the active sites, which introduce local charge accumulation on the surface of electrocatalyst. Under bias, Mn oxidation induced a noticeable pseudocapacitance in the pre‐OER region, promoting the OER kinetics of iridium sites. Meanwhile, the increased oxygen vacancy formation energy further prevents the lattice oxygen activation. The PEM electrolyzer, equipped with optimal materials as an anode, operates at a low driving voltage of 1.637 V under 2.0 A cm −2 , maintaining stable performance for over 800 h with a low degradation rate (19.4 µV h −1 ). This work provides insights into the performance of metal oxide catalysts in acidic environments and offers forward‐looking strategies for enhancing the catalytic performance through dynamic redox induced capacitive behavior.    
 
     
 
@@ -889,48 +1183,6 @@ No abstract
 
     
 
-* Constructing Neuron-like Structured NiS2/MOF Composites with Enhanced Regulation of Electron Transport and Active Sites for Oxygen Evolution  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405974844
-:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Fuel Cells and Related Materials
-:PUBLICATION_DATE: 2024-12-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/molecules30010080")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405974844"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405974844"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405974844"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405974844 (Open access: True)
-    
-[[https://openalex.org/A5077996867][Yanli Guo]], [[https://openalex.org/A5111047389][Di Zhou]], [[https://openalex.org/A5077445375][Yanyan Huang]], [[https://openalex.org/A5046392867][Xiaolong Song]], [[https://openalex.org/A5071575481][Wei He]], Molecules. 30(1)] 2024. https://doi.org/10.3390/molecules30010080 
-     
-Constructing fast electron transfer pathways and abundant electro-active sites is an effective strategy to improve the oxygen evolution reaction (OER) performance of catalysts. Herein, structural engineering and dual-phase engineering were employed to construct a NiS2 nanoparticle-encapsulated MOF configured with a pseudo-neuronal structure (NiS2/MOF/HT). It was found that the pseudo-neuronal structure, constructed with a carbon nanohorn (CNH) and carbon nanotube (CNT), provided fast electron transfer pathways and abundant exposed active sites. Moreover, the NiS2/MOF/HT composite obtained via partial vulcanization not only inherited the pseudo-neuronal structure but also prevented the aggregation and growth of NiS2 particles. NiS2/MOF composites provide various active sites. With the combination of the promotion of electronic transfer and enrichment of electro-active sites (NiS2, MOF), NiS2/MOF/HT showed excellent performance, whose overpotential at 25 mA cm−2 was reduced by 19.5% compared with MOF/HT.    
-
-    
-
-* Preparation and Performance of Nickel-Doped La0.5Sr0.5CoO3-δ Perovskite Materials for Alkaline Oxygen Evolution in Water Splitting  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405980123
-:TOPICS: Advancements in Solid Oxide Fuel Cells, Catalytic Processes in Materials Science, Magnetic and transport properties of perovskites and related materials
-:PUBLICATION_DATE: 2024-12-31
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.20944/preprints202412.2581.v1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405980123"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405980123"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405980123"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405980123 (Open access: True)
-    
-[[https://openalex.org/A5025956629][Bangfeng Zong]], [[https://openalex.org/A5109489327][Xiao Jun Pan]], [[https://openalex.org/A5100453743][Lifang Zhang]], [[https://openalex.org/A5017756673][Bo Wei]], [[https://openalex.org/A5058266988][Xiaoyan Feng]], [[https://openalex.org/A5101650976][Miao Guo]], [[https://openalex.org/A5047947649][Duanhao Cao]], [[https://openalex.org/A5100979046][Feng Ye]], No host. None(None)] 2024. https://doi.org/10.20944/preprints202412.2581.v1 
-     
-Perovskites exhibit catalytic properties on the oxygen evolution reaction in water electrolysis. Elemental doping by specific preparation methods is a good strategy to obtain highly catalytical active perovskite catalysts. In this work, La0.5Sr0.5Co1-xNixO3-δ perovskite materials doped with different ratios of nickel were successfully synthesized by the sol-gel method. The electrochemical measurement results show that in 1 M KOH solution, La0.5Sr0.5Co0.8Ni0.2O3-δ prepared by the sol-gel method requires only a low overpotential of 213 mV to reach 10 mA cm-2, which is significantly lower than that of La0.5Sr0.5Co0.8Ni0.2O3-δ prepared by the hydrothermal method for the increasing about 45.24 % (389 @ 10 mA cm-2). In addition, La0.5Sr0.5Co0.8Ni0.2O3-δ by the sol-gel method can be kept stable in alkaline medium tested for 30 h without degradation. This indicates that the prepared La0.5Sr0.5Co0.8Ni0.2O3-δ has better OER performance. The SEM results shows that layer structured La0.5Sr0.5Co0.8Ni0.2O3-δ by the sol-gel method has more surface pores with a pore diameter of about 0.362 μm than spherical granular structured La0.5Sr0.5Co0.8Ni0.2O3-δ by the hydrothermal method. XPS results reveal that the crystal lattice of La0.5Sr0.5Co0.8Ni0.2O3-δ by nickel doping is lengthened and the electronic configuration of Co also is changed by the sol-gel preparation process. The improved electrocatalytic performance of La0.5Sr0.5Co0.8Ni0.2O3-δ may be attributed to the pore structure formed with providing more active sites during the sol-gel process and the improved oxygen mobility with Ni doping by the sol-gel method. The doping strategy by the sol-gel method provides valuable insights for optimizing perovskite catalytic properties.    
-
-    
-
 * Review for "Metastable State Structure Promotes Surface Reconstruction of Spinel NiFe2O4 for Efficient Oxygen Evolution Reaction"  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4406064935
@@ -1288,6 +1540,27 @@ No abstract
 
     
 
+* Insights into the photosynthesis process  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406142614
+:TOPICS: Water Quality Monitoring and Analysis
+:PUBLICATION_DATE: 2023-01-17
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.59783/aire.2023.18")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406142614"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406142614"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406142614"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406142614 (Open access: False)
+    
+[[https://openalex.org/A5093848071][Blanka Balyi]], [[https://openalex.org/A5007597484][Nela Marinović]], [[https://openalex.org/A5092126630][Nataša Nikolić-Lukovska]], AIDASCO Reviews. 1(1)] 2023. https://doi.org/10.59783/aire.2023.18 
+     
+In this Review, some fascinating and essential concepts of photosynthesis were described. There is much information about photosynthesis, which is widely known, considering the importance of this process. However, there is also a range of information about photosynthesis that is unknown and not often mentioned. Photosynthesis is the name given to the set of biochemical reactions that change carbon dioxide and water into sugar, glucose, and oxygen. Sunlight is often harnessed by chlorophyll, which is green because it reflects green light. This Review will give a deeper insight into some parts of the photosynthesis process.    
+
+    
+
 * Photoelectrochemical behavior of WO3 and TiO2 films modified with cobalt-based oxygen evolution catalyst  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4406095564
@@ -1414,6 +1687,132 @@ No abstract
 
     
 
+* Elucidation of the Electrocatalytic Function of Composite Metal Carbides Co<sub>3</sub>W<sub>3</sub>C and Co<sub>3</sub>Mo<sub>3</sub>C with Oxygen Reduction and Oxygen Evolution Reactions  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406159303
+:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Catalytic Processes in Materials Science
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5796/electrochemistry.24-00123")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406159303"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406159303"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406159303"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406159303 (Open access: True)
+    
+[[https://openalex.org/A5114442378][Ikki Yanagimoto]], [[https://openalex.org/A5102054866][Masashi Wada]], [[https://openalex.org/A5001488454][Satoko Takase]], [[https://openalex.org/A5113950624][Toshiyuki Takizawa]], [[https://openalex.org/A5019250083][Youichi Shimizu]], Electrochemistry. None(None)] 2025. https://doi.org/10.5796/electrochemistry.24-00123  ([[https://www.jstage.jst.go.jp/article/electrochemistry/advpub/0/advpub_24-00123/_pdf][pdf]])
+     
+Metal-air secondary batteries have attracted attention as a next-generation energy storage system due to their high energy density and environmentally friendly characteristics.However, it is important to develop a catalyst that can rapidly promote both the oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER).We have found that Co3W3C and Co3Mo3C composite metal carbides prepared by a wet method have high bifunctional electrode performance, but the mechanism of action has not been elucidated.In this study, we comprehensively evaluated the adsorption behavior of oxygen molecules and surface hydroxyl groups, the charge density difference, and the effects of surface structure and chemical composition on catalytic activity by combining DFT (density functional theory) calculations and instrumental analysis.In particular, we found that Co3Mo3C optimizes the adsorption of oxygen molecules by metal compositing, contributing to the improvement of electrode catalytic performance.    
+
+    
+
+* Review for "<i>In situ</i> controllably self-assembled amorphous Co-TDPAT MOFs as superior cocatalysts of α-Fe<sub>2</sub>O<sub>3</sub> nanosheet arrays for highly efficient and ultrastable photoelectrochemical oxygen evolution"  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406170086
+:TOPICS: Advanced Photocatalysis Techniques, Electrocatalysts for Energy Conversion, Copper-based nanomaterials and applications
+:PUBLICATION_DATE: 2024-12-30
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4ta07843h/v2/review1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406170086"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406170086"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406170086"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406170086 (Open access: False)
+    
+, No host. None(None)] 2024. https://doi.org/10.1039/d4ta07843h/v2/review1 
+     
+No abstract    
+
+    
+
+* Review for "<i>In situ</i> controllably self-assembled amorphous Co-TDPAT MOFs as superior cocatalysts of α-Fe<sub>2</sub>O<sub>3</sub> nanosheet arrays for highly efficient and ultrastable photoelectrochemical oxygen evolution"  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406170150
+:TOPICS: Advanced Photocatalysis Techniques, Electrocatalysts for Energy Conversion, Copper-based nanomaterials and applications
+:PUBLICATION_DATE: 2024-11-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4ta07843h/v1/review2")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406170150"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406170150"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406170150"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406170150 (Open access: False)
+    
+, No host. None(None)] 2024. https://doi.org/10.1039/d4ta07843h/v1/review2 
+     
+No abstract    
+
+    
+
+* Review for "<i>In situ</i> controllably self-assembled amorphous Co-TDPAT MOFs as superior cocatalysts of α-Fe<sub>2</sub>O<sub>3</sub> nanosheet arrays for highly efficient and ultrastable photoelectrochemical oxygen evolution"  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406170151
+:TOPICS: Advanced Photocatalysis Techniques, Electrocatalysts for Energy Conversion, Copper-based nanomaterials and applications
+:PUBLICATION_DATE: 2024-11-21
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4ta07843h/v1/review1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406170151"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406170151"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406170151"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406170151 (Open access: False)
+    
+, No host. None(None)] 2024. https://doi.org/10.1039/d4ta07843h/v1/review1 
+     
+No abstract    
+
+    
+
+* Decision letter for "<i>In situ</i> controllably self-assembled amorphous Co-TDPAT MOFs as superior cocatalysts of α-Fe<sub>2</sub>O<sub>3</sub> nanosheet arrays for highly efficient and ultrastable photoelectrochemical oxygen evolution"  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406169724
+:TOPICS: Advanced Photocatalysis Techniques, Electrocatalysts for Energy Conversion, Advanced Nanomaterials in Catalysis
+:PUBLICATION_DATE: 2024-11-26
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4ta07843h/v1/decision1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406169724"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406169724"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406169724"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406169724 (Open access: False)
+    
+, No host. None(None)] 2024. https://doi.org/10.1039/d4ta07843h/v1/decision1 
+     
+No abstract    
+
+    
+
+* Decision letter for "<i>In situ</i> controllably self-assembled amorphous Co-TDPAT MOFs as superior cocatalysts of α-Fe<sub>2</sub>O<sub>3</sub> nanosheet arrays for highly efficient and ultrastable photoelectrochemical oxygen evolution"  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406170174
+:TOPICS: Advanced Photocatalysis Techniques, Electrocatalysts for Energy Conversion, Advanced Nanomaterials in Catalysis
+:PUBLICATION_DATE: 2025-01-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4ta07843h/v2/decision1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406170174"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406170174"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406170174"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406170174 (Open access: False)
+    
+, No host. None(None)] 2025. https://doi.org/10.1039/d4ta07843h/v2/decision1 
+     
+No abstract    
+
+    
+
 * Review for "<i>In situ</i> controllably self-assembled amorphous Co-TDPAT MOFs as superior cocatalysts of α-Fe<sub>2</sub>O<sub>3</sub> nanosheet arrays for highly efficient and ultrastable photoelectrochemical oxygen evolution"  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4406158323
@@ -1519,27 +1918,6 @@ Replacing the sluggish oxygen evolution reaction with ethanol oxidation can redu
 
     
 
-* Transition metal atoms embedded in monolayer C13N3 as OER/ORR bifunctional electrocatalysts  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406107125
-:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Ammonia Synthesis and Nitrogen Reduction
-:PUBLICATION_DATE: 2025-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4cy01160k")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406107125"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406107125"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406107125"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406107125 (Open access: False)
-    
-[[https://openalex.org/A5010295790][Xiaoxue Yu]], [[https://openalex.org/A5100958080][Junkai Xu]], [[https://openalex.org/A5055096182][Yunhao Wang]], [[https://openalex.org/A5021115574][Jianjun Fang]], [[https://openalex.org/A5086578535][Xian-Fang Yue]], [[https://openalex.org/A5061185825][Breno R. L. Galvão]], [[https://openalex.org/A5060866469][Jing Li]], Catalysis Science & Technology. None(None)] 2025. https://doi.org/10.1039/d4cy01160k 
-     
-Developing bifunctional electrocatalysts for efficiently catalyzing the oxygen evolution/reduction reaction (OER/ORR) is essential for water electrolysis and other processes. Herein, we have investigated the OER and ORR performance of monolayered...    
-
-    
-
 * Electrocatalytic aldehyde oxidation: An emerging anodic reaction for efficient electrolytic systems  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4406108597
@@ -1558,6 +1936,27 @@ OpenAlex: https://openalex.org/W4406108597 (Open access: False)
 [[https://openalex.org/A5101495759][Fen Hu]], [[https://openalex.org/A5041466091][Peng‐Yuan Wang]], [[https://openalex.org/A5110377278][Z. Lü]], [[https://openalex.org/A5100437927][Kai Chen]], [[https://openalex.org/A5065348929][Yichun Ding]], [[https://openalex.org/A5100382444][Wang Li]], [[https://openalex.org/A5080926762][Zhenhai Wen]], Sustainable Energy & Fuels. None(None)] 2025. https://doi.org/10.1039/d4se01515k 
      
 Conventional electrolytic systems (e.g., water electrolysis), which rely on the anodic oxygen evolution reaction (OER), are hindered by sluggish anodic kinetics and high energy demands. Electrocatalytic aldehyde oxidation, which has...    
+
+    
+
+* A self-supported nickel pseudo-intermetallic alloy electrocatalyst for overall water splitting  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406143605
+:TOPICS: Electrocatalysts for Energy Conversion, Ammonia Synthesis and Nitrogen Reduction, Fuel Cells and Related Materials
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.xcrp.2024.102369")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406143605"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406143605"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406143605"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406143605 (Open access: True)
+    
+[[https://openalex.org/A5034091626][Naznin Shaikh]], [[https://openalex.org/A5048992491][Supriya Sau]], [[https://openalex.org/A5061641811][Sagar Mitra]], [[https://openalex.org/A5036632599][Indrajit Mukhopadhyay]], [[https://openalex.org/A5056974839][Abhijit Ray]], Cell Reports Physical Science. None(None)] 2025. https://doi.org/10.1016/j.xcrp.2024.102369 
+     
+Highlights•Self-supported, binder-free Ni surface alloy bifunctional electrocatalyst for hydrogen•Electrodes with industrial current density at low applied electrical bias•No significant loss of current after 30 h of testingSummaryDeveloping non-noble electrocatalysts for efficient water splitting remains a significant challenge. This study reports a selenized intermetallic-like surface alloy, Ni0.91Mo0.09, directly grown on Ni foam (NF), as a highly active electrode. A hierarchical stack of Ni3Se4/Ni0.91Mo0.09 interfaces is fabricated on porous NF (NiMoSe/NF) through Se diffusion into an electrodeposited (Ni-Mo) alloy via rapid thermal annealing. Experimental studies, supported by theoretical calculations, reveal that these interfaces provide abundant active sites, optimize hydrogen and oxygen absorption free energy, and facilitate efficient electron transfer for hydrogen evolution reaction and oxygen evolution reaction. The porous structure enhances mass transport, further boosting performance. The Ni3Se4/Ni0.91Mo0.09@NF heterostructure achieves 50 and 100 mA cm⁻2 at overpotentials of 62 and 116 mV for hydrogen evolution and 208 and 348 mV for oxygen evolution, respectively, in 0.5 M H₂SO₄, with stability over 60 h of continuous H₂ evolution.Graphical abstract    
 
     
 
@@ -1582,24 +1981,24 @@ Heterogenous single-atom catalysts (SACs) are reminescent of homogenous catalyst
 
     
 
-* Wood‐Inspired Electrode for Sustainable Electrocatalytic Energy Conversion  :water_splitting:
+* Approaching Theoretical Limit of Ta3N5 Photoanode via Photothermal‐Accelerating Kinetics with Full‐Spectrum Utilization  :water_splitting:
 :PROPERTIES:
-:UUID: https://openalex.org/W4406101616
-:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Supercapacitor Materials and Fabrication
-:PUBLICATION_DATE: 2025-01-06
+:UUID: https://openalex.org/W4406133714
+:TOPICS: Advanced Photocatalysis Techniques, Machine Learning in Materials Science, 2D Materials and Applications
+:PUBLICATION_DATE: 2025-01-07
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smm2.1326")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/eem2.12868")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406101616"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406101616"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406101616"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406133714"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406133714"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406133714"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4406101616 (Open access: True)
+OpenAlex: https://openalex.org/W4406133714 (Open access: True)
     
-[[https://openalex.org/A5057640019][Weijia Guo]], [[https://openalex.org/A5107950755][Yawen Wang]], [[https://openalex.org/A5108874928][Shunyu Shen]], [[https://openalex.org/A5024017574][Han Wang]], [[https://openalex.org/A5102896596][Kai Shao]], [[https://openalex.org/A5042726689][Zhenjie Wang]], [[https://openalex.org/A5033120372][Yao Shi]], [[https://openalex.org/A5084861037][Caicai Li]], [[https://openalex.org/A5100357312][Qingfeng Sun]], [[https://openalex.org/A5028386144][Huiqiao Li]], SmartMat. 6(1)] 2025. https://doi.org/10.1002/smm2.1326  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smm2.1326][pdf]])
+[[https://openalex.org/A5100330551][Yi Liu]], [[https://openalex.org/A5100646513][Yanwei Zhang]], [[https://openalex.org/A5100411058][Yicheng Wang]], [[https://openalex.org/A5100999884][Xiaopeng Zhan]], [[https://openalex.org/A5024598808][Peng‐Fei Sui]], [[https://openalex.org/A5015800353][Jing‐Li Luo]], [[https://openalex.org/A5083543918][Chenyu Xu]], Energy & environment materials. None(None)] 2025. https://doi.org/10.1002/eem2.12868 
      
-ABSTRACT Electrocatalysis plays a central role in electrochemical energy storage and conversion systems, providing a number of sustainable processes for future technologies. As a green, renewable, and abundant natural polymer material, the unique structure and physicochemical properties of wood and its derivatives provide a unique application advantage in the field of electrocatalysis, which has aroused intense attention from researchers. At present, researchers have developed many wood‐based catalytic electrodes by taking advantage of the anisotropic hierarchical porous structure of wood and abundant active functional groups on the cell wall surface of wood. Here, a comprehensive review of recent progress in the design and synthesis of wood‐inspired electrodes for electrocatalytic reactions is summarized. Starting from the role and importance of the electrocatalytic process in the whole energy conversion system, this review highlights the composition and structure of wood, analyzes the mechanisms of electrocatalytic hydrogen evolution reaction (HER), oxygen evolution reaction (OER), urea oxidation reaction (UOR), and oxygen reduction reaction (ORR), and discusses the structure‐activity relationship between the structural properties and electrochemical activity of wood‐inspired electrodes. Finally, the opportunities, challenges, and future directions in the application of wood and its derivatives in the field of electrocatalysis are prospected.    
+Tantalum nitride is widely considered as a promising photoanode material for its suitable band structure as well as the high theoretical conversion efficiency in solar water splitting. However, it is limited to inefficient photoinduced electron–hole pair separation and interfacial dynamics in the photoelectrochemical oxygen evolution reaction. Herein, multiple layers including Ti x Si y and NiFeCoO x were fabricated based on band engineering to regulate tandem electric states for efficient transfer of energy carriers. Besides, photothermal local surface plasmon resonance was introduced to accelerate the kinetics of photoelectrochemical reactions at the interface when the special Ag nanoparticles were loaded to extend the absorbance to near infrared light. Consequently, a recordable photocurrent density of 12.73 mA cm −2 has been achieved at 1.23 V versus RHE, approaching a theoretical limit of the tantalum nitride photoanode with full‐spectrum solar utilization. Meanwhile, compared to the applied bias photon‐to‐current efficiency of 1.36% without photothermal factor, a high applied bias photon‐to‐current efficiency of 2.27% could be raised by applying local surface plasmon resonance to photoelectrochemical oxygen evolution reaction. The efficient design could maximize the use of solar light via the classification of spectrum and, therefore, may spark more innovative ideas for the future design and development of the next‐generation photoelectrode.    
 
     
 
@@ -1687,24 +2086,87 @@ Abstract The bi‐transition‐metal interstitial compounds (BTMICs) are promisi
 
     
 
-* The Main Features of Global Photosynthesis and its Evolution in the Global Carbon Turnover  :water_splitting:
+* Hierarchical Spin‐Polarized Nanosheet Array for Boosting Ampere‐Level Water Oxidation Under Magnetic Field  :water_splitting:
 :PROPERTIES:
-:UUID: https://openalex.org/W4405983114
-:TOPICS: Atmospheric and Environmental Gas Dynamics, Hydrocarbon exploration and reservoir analysis, Global Energy and Sustainability Research
-:PUBLICATION_DATE: 2023-03-31
+:UUID: https://openalex.org/W4406126967
+:TOPICS: Electrocatalysts for Energy Conversion, ZnO doping and properties, Solar-Powered Water Purification Methods
+:PUBLICATION_DATE: 2025-01-07
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.47363/jeesr/2023(5)191")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adfm.202420810")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405983114"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405983114"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405983114"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406126967"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406126967"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406126967"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4405983114 (Open access: False)
+OpenAlex: https://openalex.org/W4406126967 (Open access: True)
     
-[[https://openalex.org/A5039187273][A. A. Ivlev]], Journal of Earth and Environmental Sciences Research. None(None)] 2023. https://doi.org/10.47363/jeesr/2023(5)191 
+[[https://openalex.org/A5089754581][Haifan Li]], [[https://openalex.org/A5058029021][Quan Quan]], [[https://openalex.org/A5102818049][Hongliang Dong]], [[https://openalex.org/A5101259088][Yuxuan Zhang]], [[https://openalex.org/A5055591385][Pengshan Xie]], [[https://openalex.org/A5100319456][Dong Chen]], [[https://openalex.org/A5100758011][Di Yin]], [[https://openalex.org/A5032822838][Chun‐Yuen Wong]], [[https://openalex.org/A5010200444][Johnny C. Ho]], Advanced Functional Materials. None(None)] 2025. https://doi.org/10.1002/adfm.202420810  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202420810][pdf]])
      
-Global photosynthesis is the key element of the recently proposed global carbon cycle model. It describes an integral action of ensemble of photosynthesizing organisms in large systems, like biosphere and global carbon cycle. At least two main features associated with the participation of global photosynthesis in large systems, differs it from conventional photosynthesis of individual organism. The first is the cyclic character of the photosynthesis evolution, and the second is spontaneous striving of global photosynthesis to the ecological compensation point that brings the carbon cycle to a stationary state. It is shown that the conventional photosynthesis equation should be modified to describe this process in the biosphere and in the global carbon cycle. The terms “living matter” and “sedimentary organic carbon” were used as an analog of biomass in the equation of global photosynthesis. Corresponding changes were made to describe the second product of global photosynthesis-atmospheric oxygen. Considering that the global carbon cycle reached the ecological compensation point that occurred in the Miocene, when the further accumulation of oxygen in the atmosphere and sedimentary organic matter in the earth’s crust ended, the obtained approximate equations of photosynthesis were used to estimate the world’s potential oil resources. To test the predictive capability of the model we compared the above characteristic with its analogue, the world’s initial summary resources, calculated by independent geological methods. In spite of various assumptions a surprising proximity was found. It evidences that the model itself and underlying physical foundations are realistic and can be used as approximation in solving different problems in geology, evolution, climatology and related fields of knowledge.    
+Abstract The spin‐polarization strategy by manipulating magnetic electrocatalysts can promote the spin‐sensitive oxygen evolution reaction (OER) while developing efficient spin‐polarized materials toward ampere‐level OER is still challenging. Herein, a hierarchical inter‐doped (Ru‐Ni)O x nanosheet array in situ grown on nickel foam is designed, which exhibits a distinguished overpotential of 286 mV at 1 A cm −2 under 0.4 T magnetic field and a steady lifespan of 200 h at the ampere current density (i.e., 1 A cm −2 ), outperforming most reported state‐of‐art spin‐selective OER catalysts in alkaline electrolytes Integrating intrinsic and interfacial spin‐polarization on the inter‐doped (Ru‐Ni)O x nanosheet array can significantly boost the catalytic activity for ampere‐level OER under a magnetic field. Specifically, the spin‐aligned Ru sites optimize the rate‐determined O─O coupling step to reduce the thermodynamic barrier of OER. Meanwhile, the charge transfer kinetics is promoted due to the accelerating spin‐selective electron transfer via spin pinning at the ferromagnetic‐antiferromagnetic interface. The design of a hierarchical spin‐polarized structure that integrates intrinsic and interfacial spin‐polarization strategies provides an additional route to developing a spin‐polarized OER catalyst capable of serving ampere current densities.    
+
+    
+
+* Linkage Regulation of β-Ketoamine Covalent Organic Frameworks for Boosting Photocatalytic Overall Water Splitting  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406134747
+:TOPICS: Advanced Photocatalysis Techniques, Covalent Organic Framework Applications, Perovskite Materials and Applications
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsami.4c20472")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406134747"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406134747"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406134747"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406134747 (Open access: False)
+    
+[[https://openalex.org/A5038899371][Yiwen Yang]], [[https://openalex.org/A5104085433][Hong‐Da Ren]], [[https://openalex.org/A5100778118][Hanyu Zhang]], [[https://openalex.org/A5100637217][Yingnan Zhao]], [[https://openalex.org/A5068598777][Huaqiao Tan]], [[https://openalex.org/A5049368936][Zhongling Lang]], ACS Applied Materials & Interfaces. None(None)] 2025. https://doi.org/10.1021/acsami.4c20472 
+     
+Two dimensional β-ketoamine covalent organic frameworks (2D TP-COFs) are one category of promising metal-free catalysts for photocatalytic overall water splitting (OWS) because of their unusual stability and versatile electronic/optical properties. However, none of the currently reported TP-COFs can accomplish the hydrogen evolution (HER) and oxygen evolution reactions (OER) simultaneously without adding any sacrificial agents and cocatalysts. To address this challenging issue, we rationally designed 23 2D TP-COFs by regulating the linkage groups and comprehensively evaluated their OWS activity by using the first-principles method. First, the electronic band structure calculations at the HSE06 level reveal that the band gap can be reasonably adjusted with values ranging from 1.67–3.16 eV. Among these 23 systems, 10 TP-COFs are realized to match well with both the chemical potentials of H2/H+ and O2/H2O, which are capable of visible-light-driven OWS from an electronic perspective. Further thermal activity results on OWS demonstrate that only Hep-BDA (heptazine-aniline) and Bpy-4 (bipyrimidinamine) based COFs can satisfy the completely spontaneous of HER and OER under light irradiation and neutral conditions. Importantly, the calculated small exciton binding energies and high carrier mobility for Hep-BDA and Bpy-4 TP-COFs propose they are potentially applied in photocatalytic OWS. We also achieved the theoretical energy conversion efficiency of Hep-BDA can reach as high as 13.01%. Because there are very few successful applications of TP-COFs on OWS, this theoretical work not only offers valuable insights and innovative ideas for the exploration of novel metal-free photocatalysts for OWS but also supplies a direction for the development of new TP-COF derivatives.    
+
+    
+
+* Coupling Nitrate‐to‐Ammonia Conversion and Sulfion Oxidation Reaction Over Hierarchical Porous Spinel MFe2O4 (M═Ni, Co, Fe, Mn) in Wastewater  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406127030
+:TOPICS: Advanced Photocatalysis Techniques, Ammonia Synthesis and Nitrogen Reduction, Nanomaterials for catalytic reactions
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202411317")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406127030"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406127030"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406127030"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406127030 (Open access: True)
+    
+[[https://openalex.org/A5112876905][Junyang Ding]], [[https://openalex.org/A5101817102][Lang Zhang]], [[https://openalex.org/A5101464799][Zihao Wei]], [[https://openalex.org/A5100374911][Zhifeng Wang]], [[https://openalex.org/A5100318555][Qian Liu]], [[https://openalex.org/A5053355651][Guangzhi Hu]], [[https://openalex.org/A5100525122][Jun Luo]], [[https://openalex.org/A5067268817][Xijun Liu]], Small. None(None)] 2025. https://doi.org/10.1002/smll.202411317  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202411317][pdf]])
+     
+Abstract The construction of coupled electrolysis systems utilizing renewable energy sources for electrocatalytic nitrate reduction and sulfion oxidation reactions (NO 3 RR and SOR), is considered a promising approach for environmental remediation, ammonia production, and sulfur recovery. Here, a simple chemical dealloying method is reported to fabricate a hierarchical porous multi‐metallic spinel MFe 2 O 4 (M═Ni, Co, Fe, Mn) dual‐functional electrocatalysts consisting of Mn‐doped porous NiFe 2 O 4 /CoFe 2 O 4 heterostructure networks and Ni/Co/Mn co‐doped Fe 3 O 4 nanosheet networks. The excellent NO 3 RR with high NH 3 Faradaic efficiency of 95.2% at ‐0.80 V versus reversible hydrogen electrode (vs RHE) and NH 3 yield rate of 608.9 µmol h −1 cm −2 at −1.60 V vs RHE, and impressive SOR performance (100 mA cm −2@0.98 V vs RHE) is achieved for MFe 2 O 4 . Key intermediates such as * NO, * NH 2 , and NH 3 are identified in the NO 3 RR process by in situ Fourier transform infrared spectroscopy (in situ FTIR). The MFe 2 O 4 ‐assembled two‐electrode coupling system (NO 3 RR||SOR) shows an ultra‐low cell voltage of 1.14 V at 10 mA cm −2 , much lower than the NO 3 RR||OER (oxygen evolution reaction, 10 mA cm −2@2.62 V), simultaneously achieving two expected targets of value‐added ammonia generation and sulfur recovery, and also demonstrating high durability of 18 h. This work also demonstrates the great potential of spinel ferrite‐based catalysts for environmental remediation.    
+
+    
+
+* Work-biased path-sampling calculations of chemical potentials: Principles and applications to uranium oxide  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406153043
+:TOPICS: Thermal and Kinetic Analysis, Molten salt chemistry and electrochemical processes, Machine Learning in Materials Science
+:PUBLICATION_DATE: 2025-01-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0229575")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406153043"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406153043"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406153043"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406153043 (Open access: False)
+    
+[[https://openalex.org/A5041063347][Orane Barbour]], [[https://openalex.org/A5045984853][Jean-Paul Crocombette]], [[https://openalex.org/A5115803240][Theo Beigbedder]], [[https://openalex.org/A5034893508][Julien Tranchida]], [[https://openalex.org/A5049539941][Manuel Athènes]], The Journal of Chemical Physics. 162(2)] 2025. https://doi.org/10.1063/5.0229575 
+     
+We present the work-biased path-sampling scheme to calculate chemical potentials in atomic scale simulations. This scheme is based on a series of chained insertion and deletion paths from N to N + 1 to N atom systems, the sampling being performed on the paths themselves rather than on the final configurations. Equations for parallel path generations as well as geometrically biased insertions or deletions are presented. We then present two applications of our approach for the uranium dioxide crystal. The first is a test case validation of our approach for the insertion of a Xe atom in UO2. The second explores the relationship between cluster structure stability and oxygen chemical potential in overstoichiometric UO2+x oxide as a function of temperature from 800 to 2000 K and composition, from UO2 to UO2.16, using two different empirical potentials. We find that the evolution of the oxygen chemical potential is irregular, with dips for specific numbers of added oxygen atoms. Five oxygen clusters are stable at 800 K and are associated with strong dips in the chemical potential values. At intermediate temperatures, clusters of four and five oxygen atoms compete in stability. They become unstable at the highest temperatures, and the evolution of the chemical potential is then monotonous with composition.    
 
     
 
@@ -1729,24 +2191,24 @@ High-capacity power battery can be attained through the elevation of the cut-off
 
     
 
-* Nematode-Trapping FungusArthrobotrys oligosporais Hungry for COQ7 to Alleviate Environmentally Triggered Iron Overload  :water_splitting:
+* Cocktail Effect of 4d/5d Band Twisted High‐Entropy Alloys on Carbon Nanotube for Hydrazine Splitting  :water_splitting:
 :PROPERTIES:
-:UUID: https://openalex.org/W4405975783
-:TOPICS: Nematode management and characterization studies, Protist diversity and phylogeny, Microbial Fuel Cells and Bioremediation
-:PUBLICATION_DATE: 2024-12-27
+:UUID: https://openalex.org/W4406112406
+:TOPICS: Electrocatalysts for Energy Conversion, Hydrogen Storage and Materials, High Entropy Alloys Studies
+:PUBLICATION_DATE: 2025-01-05
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1101/2024.12.24.630212")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202410304")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405975783"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405975783"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405975783"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406112406"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406112406"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406112406"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4405975783 (Open access: True)
+OpenAlex: https://openalex.org/W4406112406 (Open access: True)
     
-[[https://openalex.org/A5102351316][Qunfu Wu]], [[https://openalex.org/A5061459827][Jiao Zhou]], [[https://openalex.org/A5086202598][Donglou Wang]], [[https://openalex.org/A5115736753][Songhan Xue]], [[https://openalex.org/A5100435355][Ling Li]], [[https://openalex.org/A5026252895][Li Wu]], [[https://openalex.org/A5114197809][Junxian Yan]], [[https://openalex.org/A5038269864][Xue‐Mei Niu]], bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024. https://doi.org/10.1101/2024.12.24.630212 
+[[https://openalex.org/A5016216424][Chae Eun Park]], [[https://openalex.org/A5034642303][Jayaraman Theerthagiri]], [[https://openalex.org/A5061555018][V. Maheskumar]], [[https://openalex.org/A5087525540][Anuj Kumar]], [[https://openalex.org/A5114045424][Gyoung Hwa Jeong]], [[https://openalex.org/A5067975222][Myong Yong Choi]], Small. None(None)] 2025. https://doi.org/10.1002/smll.202410304 
      
-Abstract Choosing the right and appropriate amount of substances in a changing environment is essential for the growth and survival of all species. We found that elevated oxygen levels significantly enhanced the iron-rich trapping devices of a nematode-trapping fungus (NTF), Arthrobotrys oligospora . Interestingly, genomic analysis revealed that all NTFs lacked coq7 , a key gene involved in ubiquinol (UQ) biosynthesis and iron chelation. Notably, A. oligospora utilizes UQ instead of UQ for low-aerobic respiration. Transcriptional, metabolic, mutational, and phenotypic analyses revealed that A. oligospora produces a chemotaxonomic class of highly oxygenated arthrobotrins with characteristics similar to UQ skeleton, for high-aerobic respiration. Disruption of arthrobotrin biosynthesis in the Δ art mutant not only enhanced UQ biosynthesis, but also triggered trapping device formation and nematicidal activity under elevated oxygen conditions. The addition of UQ to both wild-type and Δ art mutants strongly inhibited trapping device development. Remarkably, the iron-rich trapping devices preferentially capture N2 nematodes harboring iron-chelating COQ7 with ferritin properties. Time-calibrated evolutionary analyses, combined with geological data, indicated that the NTF ancestor lost the coq7 gene after acquiring the arthrobotrin biosynthetic gene cluster during the "superoligotrophy" period, characterized by dramatic shifts in global oxygen levels and temperature changes. Our results demonstrate that oxygen is a critical factor in inducing iron overload, highlighting the origin and role of coq7 loss in the evolution of predatory behavior of NTFs. Our finding that NTFs capture nematodes for iron chelation therapy, rather than for food, explains a long standing debate about the limited carnivorous ability of trapping devices.    
+Herein, multi-walled carbon nanotubes (CNT) embedded with RuPdIrPtAu-high entropy alloys (HEA) via pulsed laser irradiation in liquids are successfully fabricated. The resultant composite synergistically enhances hydrazine oxidation reaction (HzOR)-boosted water electrolysis. Notably, HEA with ≈2-5 nm size, are uniformly distributed across the surface of the CNTs. An optimized HEA/CNT-10 demonstrates exceptional performance in oxygen and hydrogen evolution reactions (OER and HER), depicted by ultralow overpotentials of 30.7 and 330 mV at 10 mA cm    
 
     
 
@@ -1816,7 +2278,7 @@ The origin of complex life and the evolution of terrestrial ecosystems are funda
 * The value of returning a sample of the Martian atmosphere  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4406110845
-:TOPICS: Planetary Science and Exploration, Space Science and Extraterrestrial Life, Astro and Planetary Science
+:TOPICS: Planetary Science and Exploration, Astro and Planetary Science, Space Exploration and Technology
 :PUBLICATION_DATE: 2025-01-06
 :END:    
     
@@ -1828,30 +2290,30 @@ The origin of complex life and the evolution of terrestrial ecosystems are funda
 
 OpenAlex: https://openalex.org/W4406110845 (Open access: True)
     
-[[https://openalex.org/A5013267088][T. D. Swindle]], [[https://openalex.org/A5014800301][Andreas Pack]], [[https://openalex.org/A5035578260][S. P. Schwenzer]], [[https://openalex.org/A5051840540][Edward Young]], Proceedings of the National Academy of Sciences. 122(2)] 2025. https://doi.org/10.1073/pnas.2404258121  ([[https://www.pnas.org/doi/pdf/10.1073/pnas.2404258121][pdf]])
+[[https://openalex.org/A5013267088][T. D. Swindle]], [[https://openalex.org/A5014800301][Andreas Pack]], [[https://openalex.org/A5035578260][S. P. Schwenzer]], [[https://openalex.org/A5051840540][Edward Young]], Proceedings of the National Academy of Sciences. 122(2)] 2025. https://doi.org/10.1073/pnas.2404258121 
      
 The elemental and isotopic abundances of major species in the Martian atmosphere have been determined, but analyses often lack sufficient precision, and those of minor and trace species are frequently not well known. Many important questions about the evolution and current state of Mars require the kind of knowledge that can be gained from analysis of a returned sample of the Martian atmosphere. Key target species include the noble gases, nitrogen, and various species containing carbon, hydrogen, and oxygen, such as methane. More detailed analyses will no doubt provide measurements of other species that will allow insights of their own. These volatiles can constrain the origin of the Martian atmosphere, exchange of volatiles between the surface and interior, polar processes, and (in the case of methane) the possibility of extant biology on Mars.    
 
     
 
-* On improved inorganic gas‐sensing characteristics of microwave‐treated tungsten oxide quantum dots at room temperature  :water_splitting:
+* Review of cancer cell volatile organic compounds: their metabolism and evolution  :water_splitting:
 :PROPERTIES:
-:UUID: https://openalex.org/W4405971363
-:TOPICS: Gas Sensing Nanomaterials and Sensors, Transition Metal Oxide Nanomaterials, ZnO doping and properties
-:PUBLICATION_DATE: 2025-01-01
+:UUID: https://openalex.org/W4406129860
+:TOPICS: Advanced Chemical Sensor Technologies, Metabolomics and Mass Spectrometry Studies, Genomics, phytochemicals, and oxidative stress
+:PUBLICATION_DATE: 2025-01-07
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1111/ijac.15033")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3389/fmolb.2024.1499104")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405971363"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405971363"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405971363"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406129860"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406129860"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406129860"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4405971363 (Open access: True)
+OpenAlex: https://openalex.org/W4406129860 (Open access: True)
     
-[[https://openalex.org/A5085993183][M. Salot]], [[https://openalex.org/A5034825257][K. Santhy]], [[https://openalex.org/A5076210087][Venkata Ramesh Naganaboina]], [[https://openalex.org/A5005811349][Shiv Govind Singh]], [[https://openalex.org/A5113500806][A K Pramanick]], [[https://openalex.org/A5109589881][D. Mandal]], [[https://openalex.org/A5115734953][G. Avasthi]], [[https://openalex.org/A5011002931][S. K. Chaudhury]], International Journal of Applied Ceramic Technology. None(None)] 2025. https://doi.org/10.1111/ijac.15033 
+[[https://openalex.org/A5101660125][Takeshi Furuhashi]], [[https://openalex.org/A5003144035][Kanako Toda]], [[https://openalex.org/A5060741375][Wolfram Weckwerth]], Frontiers in Molecular Biosciences. 11(None)] 2025. https://doi.org/10.3389/fmolb.2024.1499104  ([[https://www.frontiersin.org/journals/molecular-biosciences/articles/10.3389/fmolb.2024.1499104/pdf][pdf]])
      
-Abstract Tungsten oxide (WO 3 ) based metal oxide semiconductor material has been conventionally used for sensing inorganic gases at elevated temperatures. However, in this study, the gas sensing performance of tungsten oxide‐based sensors is evaluated at room temperature. In this study, WO 3 quantum dots (QDs) are synthesized via the electrochemical method, followed by a microwave treatment to dehydrate them. The newly developed process is relatively less expensive and offers the flexibility to alter the structure in terms of phase, size, shape, and vacancy concentration. It is observed that electrochemical process parameters play an important role in phase evolution and control the oxygen vacancy concentration in the powder, which are essential for enhancing its gas sensing characteristics. Results showed an enhanced gas‐sensing ability of WO 3 QDs at room temperature toward inorganic gases, such as CO, NO 2 , NH 3 , and H 2 when subjected to microwave treatment. The enhanced gas‐sensing performance of microwave‐treated WO 3 QDs is attributed to its smaller size and high oxygen vacancy concentration. The minimum limit of detection values for CO, NO 2 , NH 3 , and H 2 at room temperature using microwave‐treated hydrated tungsten oxide QDs were 4.60, 1.5, 0.35, and 10.25 ppm, respectively.    
+Cancer is ranked as the top cause of premature mortality. Volatile organic compounds (VOCs) are produced from catalytic peroxidation by reactive oxygen species (ROS) and have become a highly attractive non-invasive cancer screening approach. For future clinical applications, however, the correlation between cancer hallmarks and cancer-specific VOCs requires further study. This review discusses and compares cellular metabolism, signal transduction as well as mitochondrial metabolite translocation in view of cancer evolution and the basic biology of VOCs production. Certain cancerous characteristics as well as the origin of the ROS removal system date back to procaryotes and early eukaryotes and share commonalities with non-cancerous proliferative cells. This calls for future studies on metabolic cross talks and regulation of the VOCs production pathway.    
 
     
 
@@ -1918,27 +2380,6 @@ Introduction Although relatively uncommon, osteoradionecrosis (ORN) remains a se
 
     
 
-* Regime Shifts in Holocene Paleohydrology as Recorded by Asian Speleothems  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405980450
-:TOPICS: Geology and Paleoclimatology Research, Pleistocene-Era Hominins and Archaeology, Archaeology and ancient environmental studies
-:PUBLICATION_DATE: 2025-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1029/2024pa004974")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405980450"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405980450"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405980450"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405980450 (Open access: True)
-    
-[[https://openalex.org/A5087242117][Alexander James]], [[https://openalex.org/A5003142845][Jun Hu]], [[https://openalex.org/A5081876907][Julien Emile‐Geay]], [[https://openalex.org/A5006511237][J. W. Partin]], [[https://openalex.org/A5068704226][Nick Scroxton]], [[https://openalex.org/A5050313397][Nishant Malik]], [[https://openalex.org/A5092276628][Yuan Gao]], Paleoceanography and Paleoclimatology. 40(1)] 2025. https://doi.org/10.1029/2024pa004974 
-     
-Abstract Speleothem oxygen isotope records offer unique insights into Asian Monsoon evolution, with their precise chronologies used to identify abrupt climatic events. However, individual records are sometimes used to draw broad conclusions about global climate, without considering the dynamical context in which they exist. We present a robust framework for assessing the regional significance, and hence the potential global significance, of paleoclimate events, using the proposed Meghalayan age onset (associated with the “4.2 ka event”) as a case study. Analyzing 14 well‐dated speleothem oxygen isotope records from the SISAL v3 database and recent literature, we investigate the regional coherency of rapid shifts in Asian paleohydrology, which is the regional center of action for the proposed event, over the Holocene. Three robust methods fail to detect spatially coherent variability consistent with a 4.2 ka event across Asia, either because none exists or because it is of insufficient magnitude. In contrast, the 8.2 ka event is expressed in most records that resolve it. The absence of a clear isotopic excursion across this data set suggests that the “4.2 ka megadrought” was not global, with important implications for archeology and geochronology. This casts doubt on the proposal that the 4.2 ka event marks the onset of a new geologic age. We do, however, observe support for a gradual isotopic enrichment between 3.9 and 3.6 ka, followed by partial recovery—consistent with the “Double Drying” hypothesis and possibly related to changes in El Niño‐Southern Oscillation variability.    
-
-    
-
 * Effect of FLASH dose-rate and oxygen concentration in the production of H2O2 in cellular-like media versus water: a Monte Carlo track-structure study  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4406024564
@@ -1999,27 +2440,6 @@ OpenAlex: https://openalex.org/W4406049044 (Open access: False)
 [[https://openalex.org/A5067879649][Hang Yan]], [[https://openalex.org/A5018468610][Ze-Xian Deng]], [[https://openalex.org/A5102326503][Xue-Qing Yu]], [[https://openalex.org/A5108542024][Yanling Xiong]], [[https://openalex.org/A5110146728][Qun Zhu]], [[https://openalex.org/A5113977518][Ding Zhang]], [[https://openalex.org/A5010390259][Can‐Li Song]], [[https://openalex.org/A5047969879][Xucun Ma]], [[https://openalex.org/A5100558022][Qi-Kun Xue]], Physical review. B./Physical review. B. 111(3)] 2025. https://doi.org/10.1103/physrevb.111.035405 
      
 We report transport measurements of infinite-layer cuprate Sr1−xEuxCuO2+y films with controlled electron (by trivalent europium) and hole (by interstitial apical oxygen) carriers grown on SrTiO3(001) with molecular beam epitaxy. An unusual enhancement of superconductivity upon the moderate coexistence of electron and hole carriers in the films is found, which spans over the whole superconducting phase diagram and becomes more prominent in the underdoped regime. The superconductivity exhibits a two-dimensional nature with a thickness of approximately 5.2 nm, irrespective of the varying carriers, confirmed by angle-resolved magnetoresistance measurements and the Berezinskii-Kosterlitz-Thouless transition. Nevertheless, the coexisting electron and hole carriers enlarge the thermal activation energy of vortex motion that deviates obviously from the usual logarithmic evolution with the magnetic field. Our results offer a promising perspective to understand and enhance the high-temperature superconductivity in cuprates. locked icon locked icon locked icon locked icon locked icon locked icon locked icon locked icon Physics Subject Headings (PhySH)MagnetoresistanceSuperconductivityCupratesSuperconductorsThin filmsResistivity measurements    
-
-    
-
-* Enhancing Hydrogen Evolution Reaction Activity through Interface Charge Transfer in Two-Dimensional CdSe/CdS Core/Shell Nanoplatelets–Two-Dimensional MoS2 Nanosheets Composites  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405985385
-:TOPICS: Advanced Photocatalysis Techniques, Chalcogenide Semiconductor Thin Films, Quantum Dots Synthesis And Properties
-:PUBLICATION_DATE: 2025-01-02
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.energyfuels.4c05452")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405985385"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405985385"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405985385"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405985385 (Open access: False)
-    
-[[https://openalex.org/A5068749939][Anusri Medda]], [[https://openalex.org/A5022351799][Rathindranath Biswas]], [[https://openalex.org/A5058839174][Soubhik Ghosh]], [[https://openalex.org/A5022029107][Krishna Kanta Haldar]], [[https://openalex.org/A5007549985][Amitava Patra]], Energy & Fuels. None(None)] 2025. https://doi.org/10.1021/acs.energyfuels.4c05452 
-     
-The 2D CdSe/CdS core/shell nanoplatelets (NPLs) have recently emerged as a new class of promising photocatalysts for hydrogen generation. Here, we have synthesized 2D/2D composites of CdSe/CdS core/shell nanoplatelets with MoS2 nanosheets for photocatalytic water splitting where hydrogen (H2) and oxygen (O2) evolution rates are 221.4 (909.7 μmol·g–1) and 114.8 μmol·g–1·h–1 (461.1 μmol·g–1), respectively, under 360 nm laser irradiation. Notably, an extraordinary external quantum efficiency (EQE) of 76.12% is obtained. The interfacial charge transfer dynamics are elucidated through steady-state and time-resolved spectroscopic techniques. Furthermore, ultrafast transient absorption spectroscopy demonstrates delayed recovery kinetics, corroborating the enhanced charge separation and transfer processes within the composite structure. The underlying mechanisms of the enhanced photocatalytic behavior elucidate the role of the 2D/2D interface. The synergistic integration of CdSe/CdS NPLs with MoS2 NSs results in an extended light absorption range, improved charge separation, and increased availability of catalytic active sites, collectively contributing to superior photocatalytic performance.    
 
     
 
@@ -2107,6 +2527,27 @@ T Coronae Borealis (T CrB) is a symbiotic recurrent nova with an 80-year recurre
 
     
 
+* Ambipolar doping of a charge-transfer insulator in the Emery model  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406142806
+:TOPICS: Physics of Superconductivity and Magnetism, Organic and Molecular Conductors Research, Quantum and electron transport phenomena
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1103/physrevb.111.045117")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406142806"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406142806"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406142806"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406142806 (Open access: True)
+    
+[[https://openalex.org/A5030577416][G. Sordi]], [[https://openalex.org/A5106113025][G. L. Reaney]], [[https://openalex.org/A5024084107][Nicolas Kowalski]], [[https://openalex.org/A5037338833][P. Sémon]], [[https://openalex.org/A5047325183][A.–M. S. Tremblay]], Physical review. B./Physical review. B. 111(4)] 2025. https://doi.org/10.1103/physrevb.111.045117 
+     
+Understanding the similarities and differences between adding or removing electrons from a charge-transfer insulator may provide insights about the origin of the electron-hole asymmetry found in cuprates. Here we study with cellular dynamical mean-field theory the Emery model set in the charge-transfer insulator regime, and dope it with either electrons or holes. We consider the normal state only and focus on the doping evolution of the orbital character of the dopants and on the nature of the doping-driven transition. Regarding the orbital character of the dopants, we found an electron-hole asymmetry: doped electrons mostly enter the copper orbitals, whereas doped holes mostly enter the oxygen orbitals. Regarding the nature of the doping-driven transition, we found no qualitative electron-hole asymmetry: On either electron or hole doping, there is a two-stage transition from a charge-transfer insulator to a strongly correlated pseudogap and then to a metal. This shows that a strongly correlated pseudogap is an emergent feature of doped correlated insulators in two dimensions, in qualitative agreement with recent experiments on ambipolar Sr1−xLaxCuO2+y cuprate films. Our results indicate that merely doping with holes or electrons a charge-transfer insulator is not sufficient for explaining the electron-hole asymmetry observed in the normal state phase diagram of cuprates. Our work reinforces the view that actual hole-doped cuprates are more correlated than their electron-doped counterparts. Published by the American Physical Society 2025    
+
+    
+
 * Dangerous Area Evolution and Coal Spontaneous Combustion Prevention Method Induced by Air Leakage in Goaf of Ultra-Long Working Face  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4406070613
@@ -2128,23 +2569,44 @@ Coal spontaneous combustion in goaf seriously affects the safety of mine product
 
     
 
-* Timing is everything: complex (a)synchrony of heart–muscle interactions during exercise  :water_splitting:
+* Adaptation of global primary production model to the Greenland Sea conditions: parameterization and monitoring for 1998-2022  :water_splitting:
 :PROPERTIES:
-:UUID: https://openalex.org/W4405981341
-:TOPICS: Heart Rate Variability and Autonomic Control, Cardiovascular and exercise physiology, Functional Brain Connectivity Studies
-:PUBLICATION_DATE: 2025-01-01
+:UUID: https://openalex.org/W4406151632
+:TOPICS: Marine and coastal ecosystems, Arctic and Antarctic ice dynamics, Methane Hydrates and Related Phenomena
+:PUBLICATION_DATE: 2025-01-07
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1113/jp287967")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3389/fmars.2024.1491180")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405981341"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405981341"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405981341"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406151632"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406151632"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406151632"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4405981341 (Open access: True)
+OpenAlex: https://openalex.org/W4406151632 (Open access: True)
     
-[[https://openalex.org/A5077234041][Sean P. Langan]], The Journal of Physiology. None(None)] 2025. https://doi.org/10.1113/jp287967 
+[[https://openalex.org/A5090300789][Alexandra Cherkasheva]], [[https://openalex.org/A5093299830][Rustam Manurov]], [[https://openalex.org/A5075548720][Piotr Kowalczuk]], [[https://openalex.org/A5034237028][Alexandra Loginova]], [[https://openalex.org/A5041934300][Monika Zabłocka]], [[https://openalex.org/A5058547138][Astrid Bracher]], Frontiers in Marine Science. 11(None)] 2025. https://doi.org/10.3389/fmars.2024.1491180  ([[https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1491180/pdf][pdf]])
      
-Exercise requires physiological adjustments to defend regulatory variables. Oxygen delivery is augmented to support metabolic rate, inactive tissues vasoconstrict to maintain blood pressure, the vasculature dilates to support convective heat transfer, cardiovascular reflexes maintain perfusion and arterial pressure, etc. At the whole-body level, the result is the sustainment of power output until metabolic demand outpaces oxygen supply. While numerous tissues are involved during exercise, it is fair to say that the cardiorespiratory and musculoskeletal systems dominate: the former as the contractile units driving locomotion and the latter as driving oxygen transport required for energy provision. Thus, it would make sense that there is a physiological link between muscle and cardiac activity, such that they exhibit temporal coordination to achieve efficient movement. During concentric muscle contractions intramuscular pressure transiently impedes flow, followed by hyperaemia during relaxation due to an increased pressure gradient across the muscle vasculature. Theoretically, coupling of muscle contraction with cardiac rhythms (cardio-locomotor coupling) dissociates the peaks of intramuscular and arterial pressure occurring at the same time, promoting greater blood flow in muscle and decreasing cardiac afterload. Natural entrainment of heart rate (HR) and cadence occurs during running (Kirby et al., 1989), and coaching foot strikes to occur during diastole is haemodynamically beneficial. However, previous investigations used surrogates of muscle activity (foot strike) and measured only snapshots of exercise responses (i.e. stroke volume at specified time points). This is a broader limitation of physiology in general where, due to historical inertia and methodological limitations, our data sometimes fail to capture the human body as a non-linear dynamic network by relying on isolated/static measures to explain complex physiology. When viewed as a complex adaptive system, the outcomes (e.g. aerobic performance) cannot be solely determined by one component (e.g. cardiac output or mitochondrial content) (Balague et al., 2020). Even higher-level isolated variables such as running economy, which represents several individual physiological characteristics (biomechanics, muscle and tendon properties, bioenergetics), is not sufficient by itself to explain performance. Complex networks (e.g. a city) are made up of individual nodes/components (businesses, homes, people) that interact through various connections/linkages (transportation systems, relationships). The collective behaviour of the city (its economy or flow of resources and information) cannot be determined by an individual component but how all the nodes interact. Seminal work by Bashan et al. (2012) introduced the field of Network Physiology as the human organism exemplifies the integration of multiple systems to achieve an outcome. The authors showed substantial connectivity between and within the brain and periphery during sleep, and importantly, how these connections facilitated the emergence of basic physiological conditions (transition from deep to light sleep) (Bashan et al., 2012). Globally, the field focuses on how hierarchically structured organ systems interact and adapt in real time to achieve, and transition between, different physiological states (e.g. sleep/wake, rest/exercise, health/disease), relying on continuous streams of data from areas of interest. In this issue of the Journal of Physiology, Garcia-Retortillo and Ivanov studied heart–muscle coupling during exhaustive exercise through a Network Physiology framework (Garcia-Retortillo & Ch Ivanov, 2024). Their study comprehensively analysed the cardiomuscular network, its dynamic function during exercise and its relationship to fatigue. Two important methodological points differentiating this study from previous work were the use of EMG (compared to cadence) coupled with ECG and cross-correlation analyses of instantaneous EMG and ECG signals to visualize network evolution over time. The exercise protocol was relatively simple: participants performed two sets of bodyweight squats at a specified tempo (3 s eccentric/3 s concentric) until exhaustion, separated by 5 min (acute and residual fatigue). Electrodes for EMG were placed on both quadriceps and erector spinae. Decomposition of EMG spectral power signals allowed grouping into 10 different frequency bands, ranging from 10–29.5 Hz (F1) up to 205–224.5 Hz (F10), with the rationale of correspondence to muscle fibre types (type I: F1–F2; type IIa: F3–F7; type IIx: F8–F10). Cardio-muscle synchrony was determined with cross-correlations between HR (ECG) and EMG frequency bands (negative correlation = −1, positive correlation = 1), and then link strength was determined between each heart–muscle pair, resulting in >17,000 links given their sample size, exercise bouts and number of EMG locations. Essentially, link strength represents the degree of coupling observed (higher link strength = better coupling). The variability of the coupling in relation to time was further assessed by analysing the first and last third of each bout. In essence, the temporal variability (analysed at short and large time scales) would allow for the identification of the transition between sustainability and fatigue (synchrony and asynchrony). Both EMG and ECG activity were periodized into 6 s windows corresponding to the exercise tempo, with their signals virtually overlapping one another in the first half of exercise, with greater synchrony in the quadriceps than the erector spinae. Muscle activity and EMG spectral band amplitude increased progressively with fatigue, reflecting the need for higher threshold motor unit recruitment to meet the physical demand. There was also a non-linear decline in respiratory sinus arrhythmia amplitude, probably pointing to cardiovascular reflex-driven increased ventilatory demands with accumulating fatigue. As a result, HR spectral power declined with fatigue due to cardiac sympathetic activity. Remarkably, regardless of HR or EMG amplitude throughout exercise, the peaks of spectral power consistently occurred at 0.15 Hz, aligning with exercise tempo (1 squat/6 s = 0.15). Thus, EMG and ECG signals always retained their periodicity in regard to the prescribed tempo, but they fell out of sync with each other when fatigue set in. In general, link strengths between EMG and ECG signals were far stronger in the lower frequency bands, indicating the heart may be more fine-tuned with oxidative muscle fibre activity. However, as fatigue accumulated, link strength was degraded more in the low-frequency bands and the fibre type-specific link strength differences were lost. Overall link strength was reduced by ∼45 (quadriceps) to 60% (low back) compared to the non-fatigued state. During exercise bout 2 (residual fatigue), coupling strength was reduced in all frequency bands, but much more in the F6–F10 range (type IIa–IIx), exemplifying the lack of fatigue resistance in these fibres. A more frequent and earlier onset of negative cross-correlation (link strength) values was more prevalent in the higher versus lower frequency bands during exercise bouts 1 and 2. In one subject, the cross-correlation in the F10 band was almost fully negative from the first contraction onwards (fig. 6A in the paper). Accumulation of fatigue reduced the probability of positive cross-correlations (positive = better coupling) across all linkages by 20% and increased the probability of anti-correlations by ∼40%; residual fatigue further worsened these coupling probabilities. Collectively, using advanced analytical methods, the authors were able to precisely quantify how heart and muscle signals interact. Further, they demonstrate (1) its strength between different muscles and fibre types, (2) that decreased coupling relates to parasympathetic withdrawal and neuromuscular fatigue, and importantly (3) the dynamic changes over time (on a time scale of a few seconds) from the fresh to fatigued state, within and between exercise bouts. Reductionist studies have helped to explain exercise physiology mechanistically (e.g. training-induced muscle mitochondrial quality control). However, exercise involves several layers of interacting systems contributing to whole-body outcomes and isolated molecular analyses are only one facet of a larger organization. It is precisely this fact that 'exercise in a pill' remains elusive – exercise is truly an integrative phenomenon that cannot be represented or replicated by focusing on one component. While advances in molecular biology and -omics technology have been profound, by definition these methods confine exercise to a single restrained level of analysis, ignoring or overlooking the complexity of observations observed in the field (Balague et al., 2020). Molecular studies of course have an upside but may stall progress for bigger translational questions (Joyner, 2011). Placing more onus on the Network Physiology of exercise and how it complements previous methods may be an avenue to accelerate our understanding of what reductionism can provide. The unique methods and results from Garcia-Retortillo and Ch Ivanov (2024) open the door to a wide range of new research and complement previous seminal work, extending the cardio-locomotor coupling concept. Mortensen et al. (2013) showed improving muscle oxidative capacity alone favourably influences cardiac responses to exercise and improves exercise intolerance. Inherent in these findings is the role of skeletal muscle afferents in cardiac autonomic control, where heightened metaboreflex sensitivity precipitates fatigue, dyspnoea and adrenergic activation, but is modifiable by training (Aimo et al., 2021). Postural and orthostatic challenges during exercise can also influence sympathetic outflow via the baroreflex. Recently, a more crude coupling concept, the ratio of internal (%HRmax) and external workload (% of critical speed, CS) (Smyth et al., 2022), was effectively applied in an analysis of >80,000 marathon runners. Low versus high 'decouplers' ran faster by 0.3 m/s on average, experienced decoupling onset ∼14 km later (33 vs. 19 km) and ran at a higher fraction of CS (88 vs. 82%). Collectively, the cardiomuscular network is an integrator of inputs regulating cardiac sympathetic activity, with its temporal resolution precisely defining the deviation from homeostasis and onset/presence of fatigue. Further, the progressive recruitment of type II fibres is one proposed mediator of the V ̇ O 2 ${{\dot{V}}_{{{{\mathrm{O}}}_{\mathrm{2}}}}}$ slow component (and thus fatigue). Indeed, activity in higher EMG frequency bands temporally aligned with fatigue and cardiac sympathetic activity, indicating a loss of efficiency and suggesting better synchrony with type I fibres. The latter finding is quite profound, emphasizing muscle activity rather than cadence per se is a crucial component of the network, shedding light on another feature of the intensity–duration relationship. Fibre-specific synchrony may also have a teleological underpinning given the unique capacity of Homo sapiens for slow-twitch endurance activity. Many sport-related phenomena will probably not be resolved by further increasing our capability to measure biological molecules but by incorporating new laws of physiological regulation (Bartsch et al., 2015). Prime examples include the mechanistic basis of fatigue, which are still debated (Westerblad, 2016), and overtraining syndrome. In both cases a bottom-up model (molecules transmitting information 'up' to affect the whole body) has often been assumed. Fatigue involves various physiological (molecules, cells and organs) and psychological (motivation and stress) factors and develops across disparate time scales. Overtraining is a complex disorder of non-functional coupling between systems, and current biomarkers (e.g. hormones and HR variability) are alone inadequate for its detection. Quantifying physiological coupling between diverse systems may be a superior strategy to isolated tests and has already been demonstrated for detecting autonomic dysfunction (Balague et al., 2020; Da Silva et al., 2023). Accepting the multifactorial origin of these states, greater measurement accuracy can be achieved shifting from a microscopic to mesoscopic approach (Balague et al., 2022). Through Network Physiology, mesoscopic variables can be identified (e.g. coupling) which operate at a higher organizational level, integrate multiple levels of physiological systems and allow for various directions of causal interactions between systems (bottom-up, top-down, horizontal, circular causality, etc.) (Balague et al., 2022). It makes sense to use integrated methods to measure integrated phenomena. Importantly, these variables capture the effect of what is occurring cellularly but constrain the microscopic fluctuations. For instance, heart–muscle link strength in the current study (Garcia-Retortillo & Ch Ivanov, 2024) may be strengthened by increased muscle perfusion, but in this context it is not relevant to know whether the perfusion was caused by microscopic fluctuations in nitric oxide or prostaglandins (known vasodilators). Hence a major question to tackle in the future is how to re-compose previously decomposed physiological mechanisms of exercise and fatigue (Balague et al., 2022). This new model of physiological analysis and cardiomuscular synchrony opens the door for new ideas involving its trainability, application to training prescription, modification by disease and extreme environments, recovery from asynchrony to synchrony, changes during work rate transitions and alignment with other endurance parameters. It is likely that stronger network connectivity, complexity and diversity is a feature of high 'resilience' or 'durability' in athletes (Smyth et al., 2022) and by extension the general population, making these metrics relevant. The growing body of work in the Network Physiology field suggests it can be applied to nearly all health and disease states, and the future of its application to exercise may lead us to novel findings that are unattainable by traditional methods. The views, opinions and/or findings contained in this article are the private view of the author and are not to be construed as an official United States Department of the Army position, or decision, unless so designated by other official documentation. Approved for public release, distribution unlimited. Citations of commercial organizations and trade names in this report do not constitute an official U.S. Department of the Army endorsement or approval of the products or services of these organizations. Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article. None declared. S.L.: Conception or design of the work, drafting the work or revising it critically for important intellectual content, final approval of the version to be published, and agreement to be accountable for all aspects of the work. None.    
+Phytoplankton are responsible for releasing half of the world’s oxygen and for removing large amounts of carbon dioxide from surface waters. Despite many studies on the topic conducted in the past decades, we are still far from a good understanding of ongoing rapid changes in the Arctic Ocean and how they will affect phytoplankton and the whole ecosystem. An example is the difference in net primary production modelling estimates, which differ twice globally and fifty times when only the Arctic region is considered. Here, we aim to improve the quality of Greenland Sea primary production estimates, by testing different versions of primary production model against in situ data and then calculating regional estimates and trends for 1998-2022 for those performing best. As a baseline, we chose the commonly used global primary production model and tested it with different combinations of empirical relationships and input data. Local empirical relationships were taken from measurements by the literature and derived from the unpublished data of Institute of Oceanology of Polish Academy of Sciences across the Fram Strait. For validation, we took historical net primary production 14 C data from literature and added to it our own gross primary production O 2 measurements. Field data showed good agreement between primary production measured with 14 C and O 2 evolution methods. From all the model setups, those including local chlorophyll a profile and local absorption spectrum best reproduced in situ data. Our modelled regional annual primary production estimates are equal to 346 TgC/year for the Nordic Seas region and 342 TgC/year for the Greenland Sea sector of the Arctic defined as 45°W-15°E, 66°33′N-90°N. These values are higher than those previously reported. Monthly values show a seasonal cycle with less monthly variability than previously reported. No significant increase or decrease in primary production was observed when studying regionally averaged trends. The accuracy of the selected here model setups to reproduce the field data in terms of Root Mean Square Difference is better than in the related Arctic studies. The improved primary production estimates strengthen researchers’ ability to assess carbon flux and understand biogeochemical processes in the Greenland Sea.    
+
+    
+
+* The ancestral architecture of the immune system in simplest animals  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406128604
+:TOPICS: Aquaculture disease management and microbiota, Invertebrate Immune Response Mechanisms, Zebrafish Biomedical Research Applications
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3389/fimmu.2024.1529836")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406128604"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406128604"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406128604"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406128604 (Open access: True)
+    
+[[https://openalex.org/A5001078771][Daria Y. Romanova]], [[https://openalex.org/A5032640541][Leonid L. Moroz]], Frontiers in Immunology. 15(None)] 2025. https://doi.org/10.3389/fimmu.2024.1529836  ([[https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1529836/pdf][pdf]])
+     
+~520 million years ago, the long biogeochemical history of our planet Earth resulted in a biodiversity burst. The rapid diversification of animals known as the Cambrian explosion (Mangano et al., 2014;Ahang et al., 2022;) transformed planetary ecosystems with novel habitats and food chains (Vannier et al., 2005(Vannier et al., ,2007)). However, this emergence of Paleozoic biodiversity (Harper et al., 2020) is still mysterious due to limited information about basal metazoans and their immune systems.The representatives of the phylum Placozoa with the simplest known body plan attract the attention of ecological physiologists seeking to understand integrative responses to environmental stress, often associated with climate changes, temperature, and oxygen levels, including complex symbiotic relationships over eons (Rognov, 2009;Sperling and Vinther, 2010;Spelling et al., 2013;Pruss and Gill, 2024). The simplicity of the cellular architecture in placozoans might correlate with a relatively small genome of 106 Mb (Srivastava et al., 2008). Placozoa do not have nervous and muscle systems or organs (Schulze, 1883;Rassat and Ruthmann, 1979;Malakhov, 1990;Smith et al., 2014). Still, these animals have an alternative integrating system of effector cells and a number of secretory cells that, by acting on the ciliated epithelium, control locomotion (Armon et al., 2018). In this architecture, the tetraploid fiber cell type, with a significantly high DNA context, is of utmost interest since these cells potentially perform three integrative functions (Behrendt and Ruthmann, 1986): (i) making a distributed functional network of the middle and epithelial layers (analogous to neurons), (ii) immune protection and growth control of endosymbiotic bacteria (immunity), and (iii) dynamic contractile functions (analogous to muscles) in responses to chemical environment and pH.The combination of all three functions within one cell type is relatively rare, even in other basal metazoan lineages such as comb jellies, sponges, and cnidarians. Here, we summarize the role of systemic and cellular functions as a unique window to illuminate the origins of immune architecture in early animals using a top-down approach, from organisms to cells to molecules, including novel insights into the critical master regulators of systemic immune responses.There is evidence for four distinct systemic immunity responses in Placozoa: (1) population aging, often associated with (2) infection; (3) resistance to radiation (next section); and (4) feeding, including interactions with pathogens and endosymbiosis. Below, we summarize the features of each of these responses.Population aging under long-term cultivation conditions is associated with various disease-like stages (Romanova et al., 2022). It includes the development of abnormal morphological changes (e.g., highly elongated body shapes) and the characteristic appearance of spherical formations on the upper epithelium with occasional rupture of the upper and middle layers. All of these can be reversed by fresh seawater and a dense substrate of microalgae as juvenilization (Romanova et al., 2022). The 'spheres' are analogs of the encapsulation of larger foreign objects for non-specific protection. If unfavored conditions are not changed, placozoan populations are transformed into the deterioration stage of irreversible spherical formations and death without a chance of recovery.Animals from the 'sick', with abundant spheres, population decrease locomotion and exploratory behaviors, as well as stop asexual reproduction. The 'spheres' with cavities consist of dorsal epithelium, fiber cells with multiple intracellular bacteria, and, probably, adjacent to the dorsal layer with 'shiny' cells containing large lipophilic inclusions with autofluorescent granules of unclear etiology but without bacteria (Romanova et al., 2022, Fig.7h-k). Animals can shed 'infected cells' encapsulated by the upper epithelium. Besides, there are morphological differences between the fiber cells of animals with endosymbionts (control) and ampicillin-treated animals (Romanova et al., 2022) without bacteria. This may indicate the ability to control the reproduction of bacterial endosymbionts by the complementary activation of phagocytosis and digest bacteria as a systemic innate immunity mechanism. Combined, this dynamic organismal-level architecture provided a landscape for exploring cellular and molecular innovations in the Placozoa lineage, potentially with cross-kingdom signaling between bacterial and their hosts.The process of shaping spherical formations involves the shiny cells of the upper epithelium (potentially releasing toxins (Jakson and Buss, 2009)) and the middle layer cells, represented by the fiber cells (Fig. 1A). The fiber cells represent the unique cell type associated with both integrative immune and feeding functions (Mayorova et al., 2021). The Gruber-Vodicka group (Berndt et al., 2024) showed multiple new organelles with lysozymes in Trichoplax -lysozymes as widespread components of metazoan immune and digestive enzymes (Mukherjee and Moroz, 2024). These enzymes provide antibacterial protection by hydrolyzing the peptide glycans of bacterial cell walls and participating in the digestion process. Interestingly, it was in the fiber cells that endosymbiotic Rickettsiales bacteria were originally found in H1 and H2 haplotypes (Driscoll et al., 2013;Kamm et al., 2019).Cellular immunity caused by phagocytosis (discovered by Metchnikov, 1892; Thiemann and Ruthmann, 1990) is the most ancient and common mechanism across eukaryotes; it includes chemotaxis, attachment of a foreign agent to the phagocyte membrane, and intracellular lysis. Chemoattractants can be signaling molecules from bacterial microorganisms, a change in the gradient of nitric oxide (NO) and related redox species (Moroz et al., 2020a), or a change in the amino acid composition (Moroz et al., 2020b). As a result of multifunctionality, fiber cell type is characterized by the presence of a massive mitochondrial cluster (Grell et al., 1991;Smith et al., 2014;Romanova et al., 2021), which may indicate high-energy costs for metabolic processes.In addition, fiber cells have exceptional intercellular contacts, found only in this cell type (Grell and Ruthman, 1991), which join all fiber cells into a network within the middle layer (Moroz and Romanova, 2022), and with multiple vesicles in the extracellular space (Moroz,Romanova,Kohn,2021). Thus, these are also neural-like cells that establish physiological connectivity from the middle to the dorsal layers (Moroz et al., 2021;Romanova et al., 2021;Moroz and Romanova, 2022). This 'network' can enable systemic immunity responses by immobilizing and consuming bacteria. Consequently, fiber cells are not fixed in their position and can be mobile as a result of chemoattraction, and be contractable.The Trichoplax ventral layer is formed by cell types with adherent junctions, which tightly hold cells facing biofilm substrates. The opposite is true for the dorsal layer, where the cells are elastic (Armon et al., 2018). Such epithelia are evolutionary innovative structures to protect early metazoans against bacterial infection as inherent parts of innate immunity system architectures.Opsonization, with the formation of distinct compartments, had been observed inside fiber cells (Romanova et al., 2021;Moroz et al., 2021;Romanova et al., 2022;Moroz and Romanova, 2022), and we detected bacteria in lysosomes. In some cases, bacterial cells were located in the perinuclear space (Romanova et al., 2021, Fig.5a), in close proximity to the cell nucleus. However, these are isolated cases with only 3-5% of the total number of fiber cells with bacteria. But the question remains openwhy do bacteria need such close proximity to the nucleus? Is this a metabolic symbiosis?MOLECULAR LEVEL OF IMMUNITY Distinctive insights into placozoan immunity were obtained by Fortunato et al. (2021), who exposed Trichoplax to a range of X-ray doses from 143.6 to 332.5 Gy. Surprisingly, placozoans can survive and restore their populations even after 218.6 Gy exposure with immune-related adaptive morphology -the appearance of spherical formations (Fortunato et al., 2021, Fig.3), which is similar to those shown in the description 'diseased' in animals (Romanova et al., 2022).Transcriptome analyses after 2 hrs of exposure of animals to a dose of 218.6 Gy revealed a cascade of inducible genes coupled with genome-wide immunity responses, including genes responsible for protection against double-strand breaks, such as RAD52, LIG4, DCLRE1C, RECQL5, XRCC6. Other radiation-induced genes (such as POLB, POLL and LIG3) also control various DNA repair mechanisms (Fortunato et al., 2021).Presumed immune regulatory gene networks of Toll-like receptors and scavenger receptors have been identified (Kamm et al., 2019). However, these authors did not find a homolog for the nuclear factor kappa B gene. In contrast, Porifera and Cnidaria have a complete homolog of the NF-κB gene (Gauthier and Degnan, 2008;Song et al., 2012). It raises the question of whether placozoans have a highly modified/truncated NF-κB (Kamm et al., 2019) or represent an ancestral stage before the acquisition of this transcription factor in immunity mechanisms.We performed a genome screening and found partial similarity of the human NF-κB gene with the TriadITZ_000500 gene of the H1 haplotype with a large divergence between their sequences. AlphaFold2 reliably reconstructs the three-dimensional architecture of these protein orthologs across phyla. Intriguingly, both proteins from Placozoa and Chordata are mirror images of each other with preservation in Trichoplax all functional domains necessary for the activity of the NF-κB (Fig. 1B). This finding illuminates the remarkable parallelism, modularity, and perhaps convergent evolution of immunity master regulators.What might be ancestral immunity architecture? Why does the simplest, a three-layer animal of one millimeter in size, employs the astonishing diversity of immune-related genes? Trichoplax genome encodes 5 genes of interleukins, 4 interferons, a number of immunoglobulins, two classes of the main histocompatibility complex, secretins, tetraspannins, and other genes necessary for intercellular information transmission from cell to cell, as in the canonical chordate immune system. According to single-cell transcriptomics (Sebe-Pedros et al., 2018), their expression is not cluster-specific, suggesting a broad distribution of innate immunity functions across cell populations in Placozoa.More likely, this situation reflects a great ancestral diversity of immune molecular toolkits as a result of a long history of holozoan-bacterial interactions. The early origins of multifunctional cell types with subsequent division of labor in large tetraploid fiber cells with elongated processes are morphologically and functionally similar to neurons and dendritic cells of the vertebrate immune system as well as muscle cells. These cells developed a powerful mitochondrial cluster and the largest nucleus among all Trichoplax cell types. Combined, these traits are associated with the omnipresence of bacteria both as food sources and pathogens with a dual role of bioenergetically demanding phagocytosis. Bacteria encapsulation might also be an ancestral immune strategy by making 'shells' of the 'friend-or-foe' recognition system with the recruitment of opsonin-like genes (Bang, 1975;Lackie, 1980;Bayne, 1990;Musser et al., 2021).Finally, fiber cells might be viewed as functional analogs of interneurons, with distributed connectivity and their localization uniting all cell layers.They forma highly distributed 'network' created by long processes of fiber cells for more efficient and rapid intercellular communications, integrating neural, hormonal, and contractive integrative systems. It would not be surprising if fiber cells were excitable with low-frequency oscillations (e.g., 100-150 ms) capable of secretion and chemical connectivity (Moroz et al., 2021).In sum, the multifunctionality of fiber cells can be the main operational module of the immune system for Placozoa and likely an example of exaptation for other emerging properties as dynamic links between immune and neural functions, which are responsible for organism-level integration. We would not be surprised if fiber cells could have epigenetic machinery for immune 'cellular memory' as the predecessor of acquired immunity.    
 
     

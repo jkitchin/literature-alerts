@@ -1,8 +1,8 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Jan  9 01:20:48 2025
+Created on Fri Jan 10 01:23:06 2025
 
-Found 21 results from 2025-01-02 to 2025-01-09
+Found 30 results from 2025-01-03 to 2025-01-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
 
@@ -132,24 +132,213 @@ No abstract
 
     
 
-* Triethoxysilane-Catalyzed Single and Sequential Regioselective Hydroboration of Terminal Alkynes: Sustainable Access to E-Alkenylboronate and Alkyl Gem-Diboronate Esters by Non-Covalent Interactions  :ACS_Catalysis:
+* Efficient Synthesis of Glycodiversified Nucleoside Analogues by a Thermophilic Promiscuous Glycosyltransferase  :ACS_Catalysis:
 :PROPERTIES:
-:UUID: https://openalex.org/W4405973307
-:TOPICS: Organoboron and organosilicon chemistry, Chemical Synthesis and Analysis, Asymmetric Hydrogenation and Catalysis
-:PUBLICATION_DATE: 2025-01-01
+:UUID: https://openalex.org/W4406124998
+:TOPICS: Biochemical and Molecular Research, Carbohydrate Chemistry and Synthesis, HIV/AIDS drug development and treatment
+:PUBLICATION_DATE: 2025-01-06
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06845")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06506")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405973307"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405973307"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405973307"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406124998"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406124998"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406124998"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4405973307 (Open access: False)
+OpenAlex: https://openalex.org/W4406124998 (Open access: False)
     
-[[https://openalex.org/A5111032542][Harleen Kaur]], [[https://openalex.org/A5037730598][Himani Ahuja]], [[https://openalex.org/A5016064847][Rebeca Arévalo]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06845 
+[[https://openalex.org/A5054920721][Zhuqing Wang]], [[https://openalex.org/A5100462957][Jiahui Li]], [[https://openalex.org/A5062410995][Xueyun Wang]], [[https://openalex.org/A5060620859][Bo Jin]], [[https://openalex.org/A5084841107][Liwei Zhou]], [[https://openalex.org/A5102383496][Zili Zhao]], [[https://openalex.org/A5020709314][Meijia Gu]], [[https://openalex.org/A5036190073][Xuemin Song]], [[https://openalex.org/A5100684692][Jiahong Wang]], [[https://openalex.org/A5100781047][Zixin Deng]], [[https://openalex.org/A5025332853][Shuwen Wu]], [[https://openalex.org/A5100601494][Zhengyu Zhang]], [[https://openalex.org/A5100628712][Wenqing Chen]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06506 
      
 No abstract    
+
+    
+
+* Dynamic Catalysis Multiscale Simulations for Nonoxidative Coupling of Methane Using Light and Heat  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406125357
+:TOPICS: Catalysis and Oxidation Reactions, Catalytic Processes in Materials Science, Catalysts for Methane Reforming
+:PUBLICATION_DATE: 2025-01-06
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04312")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406125357"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406125357"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406125357"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406125357 (Open access: True)
+    
+[[https://openalex.org/A5016788814][Juganta K. Roy]], [[https://openalex.org/A5076027956][Mona Abdelgaid]], [[https://openalex.org/A5041128128][Henrik Grönbeck]], [[https://openalex.org/A5066394844][Giannis Mpourmpakis]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c04312  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c04312?ref=article_openPDF][pdf]])
+     
+Methane (CH4) activation and conversion under mild reaction conditions are a great challenge for the chemical industry. Photocatalysis is attractive for activating inert C–H bonds of CH4 at room temperature. Specifically, photocatalytic nonoxidative coupling of CH4 (NOCM) is a promising process to produce ethane (C2-hydrocarbon) and H2. Different oxide-based photocatalysts have been used for room-temperature NOCM, and TiO2 is a potential photocatalyst with a bandgap that can capture photons in the UV region. However, a fundamental understanding of the NOCM mechanism on TiO2 is still missing. Herein, we apply multiscale modeling, combining density functional theory (DFT) calculations with kinetic Monte Carlo (kMC) simulations to investigate the photocatalytic NOCM on a rutile TiO2(110) surface. DFT calculations revealed that the photogenerated holes mediate the homolytic activation of CH4 via the formation of methyl radicals with an activation barrier that is 70% lower than that of the conventional thermocatalytic route. The generated methyl radicals further recombine to form ethane. The detailed reaction pathway energetics investigated with DFT-based kMC simulations revealed that ethane can be formed at 315.15 K, but the dissociated hydrogens poison the catalyst surface. Further thermocatalytic simulations revealed that increasing the temperature by thermal heating (ca. 690.15 K) facilitated H2 formation and catalyst regeneration. Importantly, we demonstrate how photo- and thermocatalytic modes can be combined, facilitating NOCM on TiO2 and a route to enable dynamic catalysis simulations through multiscale modeling, opening alternative avenues in computational catalyst discovery.    
+
+    
+
+* Modeling-Assisted Elucidation of the Organosolv Lignin Depolymerization: Lessons Learned from β-Ether Cleavage over Ni/C  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406125366
+:TOPICS: Lignin and Wood Chemistry, Enzyme-mediated dye degradation, Catalysis and Hydrodesulfurization Studies
+:PUBLICATION_DATE: 2025-01-06
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06058")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406125366"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406125366"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406125366"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406125366 (Open access: True)
+    
+[[https://openalex.org/A5092077882][Tina Ročnik Kozmelj]], [[https://openalex.org/A5025438862][Edita Jasiukaitytė-Grojzdek]], [[https://openalex.org/A5010167321][Matej Huš]], [[https://openalex.org/A5034183968][Miha Grilc]], [[https://openalex.org/A5015913196][Blaž Likozar]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06058  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c06058?ref=article_openPDF][pdf]])
+     
+No abstract    
+
+    
+
+* Pt–Co Single-Atom Alloy toward Furfural Hydrogenation–Rearrangement Tandem Reaction in the Aqueous Phase  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406125406
+:TOPICS: Nanomaterials for catalytic reactions, Catalysis and Hydrodesulfurization Studies, Catalysis for Biomass Conversion
+:PUBLICATION_DATE: 2025-01-06
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c07190")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406125406"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406125406"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406125406"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406125406 (Open access: False)
+    
+[[https://openalex.org/A5101608723][Yuanjing Zhang]], [[https://openalex.org/A5053929645][Guanyi Zhang]], [[https://openalex.org/A5036334968][Quandong Hou]], [[https://openalex.org/A5108994830][Shiquan Zhao]], [[https://openalex.org/A5110969177][Si Wang]], [[https://openalex.org/A5023534280][Enze Xu]], [[https://openalex.org/A5100436007][Lei Wang]], [[https://openalex.org/A5100333386][Xin Zhang]], [[https://openalex.org/A5100448864][Feng Li]], [[https://openalex.org/A5017313282][Yusen Yang]], [[https://openalex.org/A5084055697][Min Wei]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c07190 
+     
+No abstract    
+
+    
+
+* Catalytic Conversion of Carbon Dioxide to Propylene Carbonate: Catalyst Design and Industrialization Progress  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406133755
+:TOPICS: Carbon dioxide utilization in catalysis, CO2 Reduction Techniques and Catalysts, Carbon Dioxide Capture Technologies
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06638")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406133755"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406133755"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406133755"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406133755 (Open access: False)
+    
+[[https://openalex.org/A5043504784][Jun Wu]], [[https://openalex.org/A5071717370][Yaxuan Du]], [[https://openalex.org/A5016185530][Xiejun Wang]], [[https://openalex.org/A5101054008][Fuying Zhao]], [[https://openalex.org/A5091774768][Mingxuan Zhu]], [[https://openalex.org/A5089996806][Jing Ma]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06638 
+     
+No abstract    
+
+    
+
+* Dearomative 1,4-Difunctionalization of Non-Activated Arenes Enabled by Boryl Radical-Mediated Halogen-Atom Transfer  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406134178
+:TOPICS: Radical Photochemical Reactions, Catalytic C–H Functionalization Methods, Oxidative Organic Chemistry Reactions
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06628")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406134178"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406134178"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406134178"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406134178 (Open access: False)
+    
+[[https://openalex.org/A5102960771][Chengliang Deng]], [[https://openalex.org/A5068084181][Hao Wu]], [[https://openalex.org/A5100359830][Sheng Li]], [[https://openalex.org/A5100369852][Chen Li]], [[https://openalex.org/A5067983689][Xiaozu Liu]], [[https://openalex.org/A5101625362][Peijun Liu]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06628 
+     
+No abstract    
+
+    
+
+* Structural Insights into the N–N Bond-Formation Mechanism of the Heme-Dependent Piperazate Synthase KtzT  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406140994
+:TOPICS: Enzyme Structure and Function, Biochemical and Molecular Research, Metal-Catalyzed Oxygenation Mechanisms
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06124")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406140994"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406140994"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406140994"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406140994 (Open access: False)
+    
+[[https://openalex.org/A5103428648][Yunyun Yang]], [[https://openalex.org/A5009011499][Yanling Li]], [[https://openalex.org/A5008396710][Licheng Yao]], [[https://openalex.org/A5043256081][Kaoshan Dai]], [[https://openalex.org/A5101163632][Xiaolong Fu]], [[https://openalex.org/A5112965800][Aoyue Ge]], [[https://openalex.org/A5101646732][Jian‐Wen Huang]], [[https://openalex.org/A5017609052][Rey‐Ting Guo]], [[https://openalex.org/A5100629596][Chun‐Chi Chen]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06124 
+     
+No abstract    
+
+    
+
+* Homolytic versus Heterolytic Methane Hydroxylation in Copper Zeolites  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406141889
+:TOPICS: Catalytic Processes in Materials Science, Catalysis and Oxidation Reactions, Zeolite Catalysis and Synthesis
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06246")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406141889"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406141889"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406141889"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406141889 (Open access: False)
+    
+[[https://openalex.org/A5017511441][Quan Manh Phung]], [[https://openalex.org/A5002069874][Takeshi Yanai]], [[https://openalex.org/A5079720980][Dieter Plessers]], [[https://openalex.org/A5045224053][Bert F. Sels]], [[https://openalex.org/A5020359281][Robert A. Schoonheydt]], [[https://openalex.org/A5043852315][Kristine Pierloot]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06246 
+     
+No abstract    
+
+    
+
+* Highly Efficient Rutile TiO2 Endowed by Electron-Capturing Center and Plasma Effect for Enhanced Solar Water Splitting  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406143470
+:TOPICS: Solar-Powered Water Purification Methods, TiO2 Photocatalysis and Solar Cells, Advanced Photocatalysis Techniques
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04380")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406143470"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406143470"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406143470"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406143470 (Open access: False)
+    
+[[https://openalex.org/A5004458229][Xin Tao]], [[https://openalex.org/A5040762208][Yihai Zhou]], [[https://openalex.org/A5071718089][Meng Pan]], [[https://openalex.org/A5101710542][Shenghui Liu]], [[https://openalex.org/A5074136896][Yong Zhou]], [[https://openalex.org/A5069416690][Renchun Yang]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c04380 
+     
+No abstract    
+
+    
+
+* An Asynchronous, Concerted Mechanism for Cytochrome P450-Catalyzed Dehydrogenation: A Combined Deuterium Labeling and QM/MM Study  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406155163
+:TOPICS: Chemical Reactions and Isotopes, Pharmacogenetics and Drug Metabolism, Epigenetics and DNA Methylation
+:PUBLICATION_DATE: 2025-01-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06278")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406155163"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406155163"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406155163"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406155163 (Open access: False)
+    
+[[https://openalex.org/A5029487868][Alicia M. Kirk]], [[https://openalex.org/A5021830895][Jeanette E. Stok]], [[https://openalex.org/A5020026543][Siew Hoon Wong]], [[https://openalex.org/A5018514154][Tom Coleman]], [[https://openalex.org/A5022601733][Victoria L. Challinor]], [[https://openalex.org/A5061456185][Joel N. Herring]], [[https://openalex.org/A5059039218][J.B. Bruning]], [[https://openalex.org/A5057319709][Paul V. Bernhardt]], [[https://openalex.org/A5027128497][Stephen G. Bell]], [[https://openalex.org/A5000188305][Elizabeth H. Krenske]], [[https://openalex.org/A5018549180][James J. De Voss]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06278 
+     
+Cytochromes P450 (P450s) commonly catalyze hydroxylation but can also be responsible for dehydrogenation reactions, important in drug metabolism and biosynthesis; the mechanism of the latter transformation remains poorly understood. The well-characterized bacterial CYP199A4 catalyzes both hydroxylation and dehydrogenation of p-alkylbenzoic acids and thus provides an ideal model system in which to investigate the mechanism of P450-catalyzed aliphatic dehydrogenation. Through use of enantioselectively deuterated probes, metabolite analysis, protein crystallography, molecular dynamics simulations and QM/MM (ONIOM) modeling, CYP199A4-catalyzed dehydrogenation was found to be completely enantioselective and postulated to occur through an asynchronous proton coupled electron transfer. No definitive evidence of a cationic intermediate was uncovered but instead, the positioning of the substrate was postulated to be key in directing the chemoselectivity of the reaction i.e., dehydrogenation versus hydroxylation. This knowledge could be exploited to control dehydrogenation in other P450s and helps explain the common occurrence of P450-desaturated drug metabolites alongside hydroxylated ones.    
 
     
 

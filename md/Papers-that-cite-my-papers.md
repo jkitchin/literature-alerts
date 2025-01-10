@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Jan  9 01:21:02 2025
+Created on Fri Jan 10 01:23:21 2025
 
-Found 49 results from 2025-01-02 to 2025-01-09
+Found 57 results from 2025-01-03 to 2025-01-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967)
@@ -17,12 +17,23 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176)
 
-## Proposing lithium pump mechanism for observing Ag-Li two-phase interface reaction of in-situ Li-O2 battery by two-step method   
+## Graphene clusters in carbon: Structural features and magnetic properties   
 
-OpenAlex: https://openalex.org/W4405985659    
+OpenAlex: https://openalex.org/W4405987891    
 Open access: False
     
-[Yixuan Wen](https://openalex.org/A5083512232), [Qizhen He](https://openalex.org/A5109533829), [Shuaijun Ding](https://openalex.org/A5112990444), [Wei Zhou](https://openalex.org/A5100636968), [Lei Deng](https://openalex.org/A5015857422), [Liqiang Zhang](https://openalex.org/A5100459440), [Tongde Shen](https://openalex.org/A5056972265), [Qingxiang Yang](https://openalex.org/A5103415092), [Peng Jia](https://openalex.org/A5103276726), [Yuqing Qiao](https://openalex.org/A5022382536), Journal of Colloid and Interface Science. 683(None)] 2025.https://doi.org/10.1016/j.jcis.2024.12.222.
+[Harutyun Gyulasaryan](https://openalex.org/A5086914144), [D.B. Tolchina](https://openalex.org/A5014930112), [L. A. Avakyan](https://openalex.org/A5044779956), [V. V. Srabionyan](https://openalex.org/A5085616241), [Л. А. Бугаев](https://openalex.org/A5067745969), [A. T. Kozakov](https://openalex.org/A5047010832), [Anatoliy Nikolskiy](https://openalex.org/A5083122288), [A.S. Mikheykin](https://openalex.org/A5013088038), [Ilya Pankov](https://openalex.org/A5039041883), [Arshak A. Tsaturyan](https://openalex.org/A5001431263), [A. V. Emelyanov](https://openalex.org/A5034121563), [Ratibor G. Chumakov](https://openalex.org/A5042461914), [Alexander S. Mukasyan](https://openalex.org/A5010771909), [Aram Manukyan](https://openalex.org/A5013729207), Applied Surface Science. 687(None)] 2025.https://doi.org/10.1016/j.apsusc.2024.162284.
+    
+No abstract    
+
+    
+
+## Screened Ni3 single-cluster catalyst supported on graphidyne for high-performance electrocatalytic NO reduction to NH3: A computational study   
+
+OpenAlex: https://openalex.org/W4406011996    
+Open access: False
+    
+[Tingyu Yan](https://openalex.org/A5101409543), [Siyao Wang](https://openalex.org/A5114152789), [Simone Lang](https://openalex.org/A5110108047), [Zhongxu Wang](https://openalex.org/A5101402696), [Shiru Lin](https://openalex.org/A5114152790), [Jingxiang Zhao](https://openalex.org/A5011941921), Journal of Colloid and Interface Science. 683(None)] 2025.https://doi.org/10.1016/j.jcis.2024.12.243.
     
 No abstract    
 
@@ -88,7 +99,7 @@ No abstract
 OpenAlex: https://openalex.org/W4406101616    
 Open access: True
     
-[Weijia Guo](https://openalex.org/A5057640019), [Yawen Wang](https://openalex.org/A5107950755), [Shunyu Shen](https://openalex.org/A5108874928), [Han Wang](https://openalex.org/A5024017574), [Kai Shao](https://openalex.org/A5102896596), [Zhenjie Wang](https://openalex.org/A5042726689), [Yao Shi](https://openalex.org/A5033120372), [Caicai Li](https://openalex.org/A5084861037), [Qingfeng Sun](https://openalex.org/A5100357312), [Huiqiao Li](https://openalex.org/A5028386144), SmartMat. 6(1)] 2025.https://doi.org/10.1002/smm2.1326 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smm2.1326)).
+[Weijia Guo](https://openalex.org/A5057640019), [Yawen Wang](https://openalex.org/A5107950755), [Shunyu Shen](https://openalex.org/A5108874928), [Han Wang](https://openalex.org/A5024017574), [Kai Shao](https://openalex.org/A5102896596), [Zhenjie Wang](https://openalex.org/A5042726689), [Yao Shi](https://openalex.org/A5033120372), [Caicai Li](https://openalex.org/A5084861037), [Qingfeng Sun](https://openalex.org/A5100357312), [Huiqiao Li](https://openalex.org/A5028386144), SmartMat. 6(1)] 2025.https://doi.org/10.1002/smm2.1326.
     
 ABSTRACT Electrocatalysis plays a central role in electrochemical energy storage and conversion systems, providing a number of sustainable processes for future technologies. As a green, renewable, and abundant natural polymer material, the unique structure and physicochemical properties of wood and its derivatives provide a unique application advantage in the field of electrocatalysis, which has aroused intense attention from researchers. At present, researchers have developed many wood‐based catalytic electrodes by taking advantage of the anisotropic hierarchical porous structure of wood and abundant active functional groups on the cell wall surface of wood. Here, a comprehensive review of recent progress in the design and synthesis of wood‐inspired electrodes for electrocatalytic reactions is summarized. Starting from the role and importance of the electrocatalytic process in the whole energy conversion system, this review highlights the composition and structure of wood, analyzes the mechanisms of electrocatalytic hydrogen evolution reaction (HER), oxygen evolution reaction (OER), urea oxidation reaction (UOR), and oxygen reduction reaction (ORR), and discusses the structure‐activity relationship between the structural properties and electrochemical activity of wood‐inspired electrodes. Finally, the opportunities, challenges, and future directions in the application of wood and its derivatives in the field of electrocatalysis are prospected.    
 
@@ -110,9 +121,9 @@ This study examines the structure and properties of NiMo-C coatings synthesized 
 OpenAlex: https://openalex.org/W4406112104    
 Open access: True
     
-[Mehmet Emin Kılıç](https://openalex.org/A5089190548), [P. Jena](https://openalex.org/A5004635120), Small. None(None)] 2025.https://doi.org/10.1002/smll.202409289 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202409289)).
+[Mehmet Emin Kılıç](https://openalex.org/A5089190548), [P. Jena](https://openalex.org/A5004635120), Small. None(None)] 2025.https://doi.org/10.1002/smll.202409289.
     
-Abstract Single‐atom catalysts are the focus of studies for over a decade due to their enhanced reactivity at smaller sizes. However, they have limitations as they offer only one active site, which may not be sufficient for reactions requiring the co‐adsorption of multiple reactants. Additionally, atoms can migrate on a substrate and coalesce, resulting in decreased reactivity. Here, an alternate path, a single‐superatom catalyst is provided. Superatoms are clusters of atoms that mimic the chemistry of atoms even if they do not contain a single atom whose chemistry they mimic. Motivated by an experimental paper on the photoelectron‐spectroscopy of negatively charged ions where ZrO is found to mimic properties of a Pd atom, first the reaction of Pd and ZrO with small molecules in the gas‐phase is studied and found that ZrO not only mimics the chemistry of Pd, but is able to activate these molecules more strongly than Pd. A detailed first‐principles study of CO 2 reduction (CO 2 ‐RR) and hydrogen evolution reactions (HER) on Pd and ZrO supported on graphene, Au(111), and Cu(111) surfaces shows that superatoms are indeed superior catalysts. The ability to design numerous superatoms by varying size and composition offers a promising new paradigm for catalyst design and synthesis.    
+Single-atom catalysts are the focus of studies for over a decade due to their enhanced reactivity at smaller sizes. However, they have limitations as they offer only one active site, which may not be sufficient for reactions requiring the co-adsorption of multiple reactants. Additionally, atoms can migrate on a substrate and coalesce, resulting in decreased reactivity. Here, an alternate path, a single-superatom catalyst is provided. Superatoms are clusters of atoms that mimic the chemistry of atoms even if they do not contain a single atom whose chemistry they mimic. Motivated by an experimental paper on the photoelectron-spectroscopy of negatively charged ions where ZrO is found to mimic properties of a Pd atom, first the reaction of Pd and ZrO with small molecules in the gas-phase is studied and found that ZrO not only mimics the chemistry of Pd, but is able to activate these molecules more strongly than Pd. A detailed first-principles study of CO    
 
     
 
@@ -182,23 +193,122 @@ Owing to their synergistic interactions, dual-atom catalysts (DACs) with well-de
 
     
 
+## Discovery and Characterization of a Metastable Cubic Interstitial Nickel–Carbon System with an Expanded Lattice   
+
+OpenAlex: https://openalex.org/W4406125409    
+Open access: True
+    
+[Albert Gili](https://openalex.org/A5053701354), [Martin Kunz](https://openalex.org/A5103472146), [Daniel Gaissmaier](https://openalex.org/A5079487335), [Christoph Jung](https://openalex.org/A5003531671), [Timo Jacob](https://openalex.org/A5066960989), [Thomas Lunkenbein](https://openalex.org/A5031421689), [Walid Hetaba](https://openalex.org/A5028926617), [Kassiogé Dembélé](https://openalex.org/A5022544450), [Sören Selve](https://openalex.org/A5083154124), [Reinhard Schomaecker](https://openalex.org/A5021619062), [Aleksander Gurlo](https://openalex.org/A5017456440), [Maged F. Bekheet](https://openalex.org/A5019609005), ACS Nano. None(None)] 2025.https://doi.org/10.1021/acsnano.4c15300 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsnano.4c15300?ref=article_openPDF)).
+    
+No abstract    
+
+    
+
+## Computational Screening and Design of Metal-Organic Frameworks for CO2 Separation from Flue Gas   
+
+OpenAlex: https://openalex.org/W4406126000    
+Open access: True
+    
+[Xiuling Jiao](https://openalex.org/A5047695454), [Aiping Chen](https://openalex.org/A5058347557), Applied and Computational Engineering. 123(1)] 2025.https://doi.org/10.54254/2755-2721/2025.19579 ([pdf](https://www.ewadirect.com/proceedings/ace/article/view/19579/pdf)).
+    
+Rising CO2 levels, largely from flue gas emissions, are a significant contributor to global climate change. Adsorption using Metal-Organic Frameworks (MOFs) offers a promising solution for CO2 capture due to their high surface area, tunable porosity, and selectivity. To streamline the discovery of efficient MOFs, we developed a high-throughput virtual screening (HTVS) pipeline by integrating Grand-Canonical Monte Carlo (GCMC) simulations, molecular modeling and machine learning. We screened a filtered subset of the CoREMOF database and a user-defined hypothetical MOF bank to identify candidates with high CO2 adsorption capacity and selectivity. This approach yielded several high-performing MOFs, including five from the CoREMOF dataset and a new structure from the hypothetical bank exceeding the performance of existing MOFs. Our findings highlight the complex relationship between MOF geometries and CO2 capture performance, emphasizing the importance of features like open metal sites and pore geometry. This computational framework accelerates MOF discovery and provides valuable insights for experimental synthesis. Future work will focus on expanding the hypothetical MOF dataset, improving simulation accuracy, and employing advanced optimization techniques to enhance the screening process.    
+
+    
+
+## Single-atom Tungsten Anchoring on Monolayer T-C3N2 as a Promising Nitrogen Reduction Electrocatalyst: A combined DFT and Machine Learning Study   
+
+OpenAlex: https://openalex.org/W4406126959    
+Open access: False
+    
+[Yunxia Liang](https://openalex.org/A5102874682), [Chengwei Yang](https://openalex.org/A5110969461), [Liangshi Wang](https://openalex.org/A5046129653), [Hongxia Yan](https://openalex.org/A5043502459), [Jinli Zhang](https://openalex.org/A5100706289), [Wentao Wang](https://openalex.org/A5100394150), [Guixian Ge](https://openalex.org/A5019544231), Surfaces and Interfaces. None(None)] 2025.https://doi.org/10.1016/j.surfin.2025.105764.
+    
+No abstract    
+
+    
+
+## Rationally Designed Air Electrode Boosting Electrochemical Performance of Protonic Ceramic Cells   
+
+OpenAlex: https://openalex.org/W4406127006    
+Open access: True
+    
+[Chunmei Tang](https://openalex.org/A5049507054), [Baoyin Yuan](https://openalex.org/A5083173126), [Xiaohan Zhang](https://openalex.org/A5100431074), [Fangyuan Zheng](https://openalex.org/A5046558293), [Qingwen Su](https://openalex.org/A5113264328), [Ling Meng](https://openalex.org/A5059006078), [Lei Du](https://openalex.org/A5050325200), [Dongxiang Luo](https://openalex.org/A5040680446), [Yoshitaka Aoki](https://openalex.org/A5076705671), [Ning Wang](https://openalex.org/A5100387097), [Siyu Ye](https://openalex.org/A5010821432), Advanced Energy Materials. None(None)] 2025.https://doi.org/10.1002/aenm.202402654 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aenm.202402654)).
+    
+Abstract Protonic ceramic cells (PCCs) have gained significant attention as a promising electrochemical device for hydrogen production and power generation at intermediate temperatures. However, the lack of high‐performance air electrodes, specifically in terms of proton conduction ability, has severely hindered the improvement of electrochemical performances for PCCs. In this study, a high‐efficiency air electrode La 0.8 Ba 0.2 CoO 3 (LBC) is rationally designed and researched by a machine‐learning model and density functional theory (DFT) calculation, which boosts the performances of PCCs. Specifically, an elements‐property map for designing high‐efficiency oxides is created by predicting and studying the proton uptake ability of La 1– x A′ x BO 3 (A′ = Na, K, Ca, Mg, Ba, Cu, etc.) by an eXtreme Gradient Boosting model. PCC with LBC air electrode yields high current destiny in electrolysis mode (1.72 A cm −2 at 600 °C) and power density in fuel cell mode (1.00 W cm −2 at 600 °C). In addition, an ultra‐low air electrode reaction resistance (0.03 Ω cm 2 at 600 °C) is achieved, because LBC can significantly facilitate the formation of O 2 * . This work not only reports an effective air electrode but also presents a new avenue for the rational design of air electrodes for PCCs.    
+
+    
+
+## Cobalt/cobalt phosphide/nitrogen-doped carbon derived from zeolitic imidazolate framework-11@zeolitic imidazolate framework-12 core-shell structure as efficient electrocatalyst for oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4406133976    
+Open access: False
+    
+[Chen-Han Lin](https://openalex.org/A5111406613), [Yin-Chen Lin](https://openalex.org/A5112691665), [Chia‐Lin Yeh](https://openalex.org/A5111553777), [L. Lin](https://openalex.org/A5048323885), [Kuo‐Chuan Ho](https://openalex.org/A5051193004), International Journal of Hydrogen Energy. 101(None)] 2025.https://doi.org/10.1016/j.ijhydene.2025.01.014.
+    
+No abstract    
+
+    
+
+## Linkage Regulation of β-Ketoamine Covalent Organic Frameworks for Boosting Photocatalytic Overall Water Splitting   
+
+OpenAlex: https://openalex.org/W4406134747    
+Open access: False
+    
+[Yiwen Yang](https://openalex.org/A5038899371), [Hong‐Da Ren](https://openalex.org/A5104085433), [Hanyu Zhang](https://openalex.org/A5100778118), [Yingnan Zhao](https://openalex.org/A5100637217), [Huaqiao Tan](https://openalex.org/A5068598777), [Zhongling Lang](https://openalex.org/A5049368936), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.4c20472.
+    
+Two dimensional β-ketoamine covalent organic frameworks (2D TP-COFs) are one category of promising metal-free catalysts for photocatalytic overall water splitting (OWS) because of their unusual stability and versatile electronic/optical properties. However, none of the currently reported TP-COFs can accomplish the hydrogen evolution (HER) and oxygen evolution reactions (OER) simultaneously without adding any sacrificial agents and cocatalysts. To address this challenging issue, we rationally designed 23 2D TP-COFs by regulating the linkage groups and comprehensively evaluated their OWS activity by using the first-principles method. First, the electronic band structure calculations at the HSE06 level reveal that the band gap can be reasonably adjusted with values ranging from 1.67–3.16 eV. Among these 23 systems, 10 TP-COFs are realized to match well with both the chemical potentials of H2/H+ and O2/H2O, which are capable of visible-light-driven OWS from an electronic perspective. Further thermal activity results on OWS demonstrate that only Hep-BDA (heptazine-aniline) and Bpy-4 (bipyrimidinamine) based COFs can satisfy the completely spontaneous of HER and OER under light irradiation and neutral conditions. Importantly, the calculated small exciton binding energies and high carrier mobility for Hep-BDA and Bpy-4 TP-COFs propose they are potentially applied in photocatalytic OWS. We also achieved the theoretical energy conversion efficiency of Hep-BDA can reach as high as 13.01%. Because there are very few successful applications of TP-COFs on OWS, this theoretical work not only offers valuable insights and innovative ideas for the exploration of novel metal-free photocatalysts for OWS but also supplies a direction for the development of new TP-COF derivatives.    
+
+    
+
+## Deciphering the Radial Ligand Effect of Biomimetic Amino Acid toward Stable Alkaline Oxygen Evolution   
+
+OpenAlex: https://openalex.org/W4406151000    
+Open access: False
+    
+[Jianye Wang](https://openalex.org/A5100417869), [Zengxuan Chen](https://openalex.org/A5041959505), [Xiaojing Lin](https://openalex.org/A5101054004), [Zhaojie Wang](https://openalex.org/A5086671763), [Xiaodong Chen](https://openalex.org/A5100373719), [Xingheng Zhang](https://openalex.org/A5012325229), [Jiao Li](https://openalex.org/A5100419489), [Jinpeng Liu](https://openalex.org/A5100619677), [Siyuan Liu](https://openalex.org/A5100406615), [Shuxian Wei](https://openalex.org/A5002382898), [Daofeng Sun](https://openalex.org/A5089901400), [Xiaoqing Lü](https://openalex.org/A5004933770), Inorganic Chemistry. None(None)] 2025.https://doi.org/10.1021/acs.inorgchem.4c04889.
+    
+No abstract    
+
+    
+
+## MoS2-confined Rh-Zn atomic pair boosts photo-driven methane carbonylation to acetic acid   
+
+OpenAlex: https://openalex.org/W4406153476    
+Open access: True
+    
+[Yanan Li](https://openalex.org/A5100372484), [Chenguang Liu](https://openalex.org/A5100348052), [Jun Mao](https://openalex.org/A5115588790), [Meng Gao](https://openalex.org/A5077544107), [Yunlong Zhang](https://openalex.org/A5100410610), [Qiao Zhao](https://openalex.org/A5063984072), [Meng Liu](https://openalex.org/A5100940320), [Yao Song](https://openalex.org/A5030440991), [Jingting Hu](https://openalex.org/A5101518198), [Wangwang Zhang](https://openalex.org/A5090952476), [Rui Huang](https://openalex.org/A5078462246), [Wu Zhou](https://openalex.org/A5077976698), [Kaifeng Wu](https://openalex.org/A5030581701), [Wei Liu](https://openalex.org/A5100431810), [Liang Yu](https://openalex.org/A5100692990), [Xiaoju Cui](https://openalex.org/A5109482903), [Dehui Deng](https://openalex.org/A5022049240), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-024-54061-z.
+    
+Direct carbonylation of CH4 to CH3COOH provides a promising pathway for upgrading of natural gas to transportable liquid chemicals, in which high-efficiency CH4 activation and controllable C–C coupling are both critical but challenging. Herein, we report that highly efficient photo-driven carbonylation of CH4 with CO and O2 to CH3COOH is achieved over MoS2-confined Rh-Zn atomic-pair in conjunction with TiO2. It delivers a high CH3COOH productivity of 152.0 μmol gcat.−1 h−1 and turnover frequency of 62.0 h−1 with a superior selectivity of 96.5%, outperforming previous photocatalytic CH4 carbonylation processes. Mechanistic investigations disclose the key effect of Rh-Zn synergy in combination with photo-excited electrons from TiO2 for CH3COOH formation. The active OH species produced from O2 photoreduction on the Zn site through proton-coupled electron transfer promotes CH4 dissociation to CH3 species, which then facilely couples with adsorbed CO on the adjacent Rh site forming the key CH3CO intermediate for CH3COOH formation. The authors report a catalyst featuring Rh-Zn dual sites in a MoS2 lattice integrated with TiO2 for the photocatalytic carbonylation of CH4 with CO and O2 to CH3COOH with a high productivity of 152.0 μmol gcat.−1 h−1 and selectivity of 96.5%.    
+
+    
+
+## Rationalizing the “anomalous” electrochemical Stark shift of CO at Pt(111) through vibrational spectroscopy and density-functional theory calculations   
+
+OpenAlex: https://openalex.org/W4406160174    
+Open access: False
+    
+[Elias Diesen](https://openalex.org/A5024392336), [Mehmet Ugur Coskun](https://openalex.org/A5114559486), [S. Díaz-Coello](https://openalex.org/A5034581806), [Vanessa J. Bukas](https://openalex.org/A5067052874), [Julia Kunze‐Liebhäuser](https://openalex.org/A5021025452), [Karsten Reuter](https://openalex.org/A5024866637), Surface Science. None(None)] 2025.https://doi.org/10.1016/j.susc.2025.122694.
+    
+No abstract    
+
+    
+
+## Amorphous/crystalline NiZr heterojunction nanorods for alkaline hydrogen evolution reaction prepared by magnetron sputtering   
+
+OpenAlex: https://openalex.org/W4406161078    
+Open access: False
+    
+[Jinsen Tian](https://openalex.org/A5027829469), [Junhao Qin](https://openalex.org/A5068158119), [Han Zhang](https://openalex.org/A5100399276), [Mingwei Tang](https://openalex.org/A5044082682), [Jing Wu](https://openalex.org/A5101492452), [Jiahua Zhu](https://openalex.org/A5024790419), [Jun Shen](https://openalex.org/A5033121105), Journal of Alloys and Compounds. None(None)] 2025.https://doi.org/10.1016/j.jallcom.2025.178575.
+    
+No abstract    
+
+    
+
 ## B-doped CoN4-Based catalysts as efficient Electrocatalysts for ORR/OER/HER with low overpotentials: Density functional theory studies   
 
 OpenAlex: https://openalex.org/W4405986441    
 Open access: False
     
 [Zeliang Ju](https://openalex.org/A5111279697), [X.Y. Zhang](https://openalex.org/A5035271390), [Yong Wang](https://openalex.org/A5047504462), [Chengfeng Yin](https://openalex.org/A5063210349), [Qingxin Kang](https://openalex.org/A5019864544), Vacuum. None(None)] 2025.https://doi.org/10.1016/j.vacuum.2024.114004.
-    
-No abstract    
-
-    
-
-## Graphene clusters in carbon: Structural features and magnetic properties   
-
-OpenAlex: https://openalex.org/W4405987891    
-Open access: False
-    
-[Harutyun Gyulasaryan](https://openalex.org/A5086914144), [D.B. Tolchina](https://openalex.org/A5014930112), [L. A. Avakyan](https://openalex.org/A5044779956), [V. V. Srabionyan](https://openalex.org/A5085616241), [Л. А. Бугаев](https://openalex.org/A5067745969), [A. T. Kozakov](https://openalex.org/A5047010832), [Anatoliy Nikolskiy](https://openalex.org/A5083122288), [A.S. Mikheykin](https://openalex.org/A5013088038), [Ilya Pankov](https://openalex.org/A5039041883), [Arshak A. Tsaturyan](https://openalex.org/A5001431263), [A. V. Emelyanov](https://openalex.org/A5034121563), [Ratibor G. Chumakov](https://openalex.org/A5042461914), [Alexander S. Mukasyan](https://openalex.org/A5010771909), [Aram Manukyan](https://openalex.org/A5013729207), Applied Surface Science. None(None)] 2025.https://doi.org/10.1016/j.apsusc.2024.162284.
     
 No abstract    
 
@@ -212,17 +322,6 @@ Open access: True
 [Dalal Alalaiwat](https://openalex.org/A5074346685), [Ezzat Khan](https://openalex.org/A5073262167), ChemEngineering. 9(1)] 2025.https://doi.org/10.3390/chemengineering9010003 ([pdf](https://www.mdpi.com/2305-7084/9/1/3/pdf?version=1735786397)).
     
 Power plants are one of the main sources emitting the CO2 that is responsible for climate change consequences. Post-combustion carbon capture (PCC), particularly using an aqueous solution, is highly recommended to be used as a mitigation solution to reduce the emissions of CO2 from power plants. Although PCC is a promising solution, the process still needs further development to reduce the energy demand for solvent regeneration. This paper reviews the challenges related to the post-combustion processes and finds the correlations between selected variables addressed by several researchers. Moreover, this study provides valuable insights into the factors influencing the reduction in energy demand and efficiency penalties. The research findings highlight the importance of considering two key drivers during the design of the PCC process. These are the absorber temperature and the type and amount of the selected solvent. Indeed, statistical analyses show that there is a correlation between the identified drivers’ values and the energy demand of solvent regeneration.    
-
-    
-
-## Hierarchically Meso-Macroporous N-Doped Carbon Embedded with CoFe-Based Composite for the Oxygen Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4405984071    
-Open access: True
-    
-[Yu-Lin Li](https://openalex.org/A5111892255), [Yanna Guo](https://openalex.org/A5086172960), [Norihito Ebato](https://openalex.org/A5024514746), [Yusuke Yamauchi](https://openalex.org/A5037509120), [Yoshiyuki Sugahara](https://openalex.org/A5029531350), ACS electrochemistry.. None(None)] 2025.https://doi.org/10.1021/acselectrochem.4c00056.
-    
-Remarkable oxygen reduction reaction (ORR) electrocatalysts have been prepared by assembling bimetallic CoFe nanoparticles on hierarchically meso-macroporous N-doped carbon nanospheres. Metal–nitrogen–carbon catalysts are emerging as promising alternatives to Pt/C for ORR; however, their performance is limited by the low density and accessibility of active metal sites. The present hierarchically structured meso-macroporous N-doped carbon provides abundant exposed sites for active metal species. The bimetallic CoFe nanoparticles, in turn, significantly increase the total density of active catalytic sites for ORR. Consequently, the optimized CoFe nanoparticles embedded in meso-macroporous N-doped carbon (CoFe@MesoMacroNC) deliver superior ORR activities in both alkali and acidic media, achieving half-wave potentials of 0.943 V vs RHE and 0.811 V vs RHE, respectively. In addition, when CoFe@MesoMacroNC is used in a Zn–air battery, it shows a higher power density of 155 mW cm–2 as compared with that of commercial Pt/C (137 mW cm–2) as well as better stability.    
 
     
 
@@ -256,17 +355,6 @@ Open access: True
 [Xin Lin](https://openalex.org/A5101529805), [Shize Geng](https://openalex.org/A5060619773), [Xianglong Du](https://openalex.org/A5031032156), [Feiteng Wang](https://openalex.org/A5077039142), [Xu Zhang](https://openalex.org/A5102798378), [Fang Xiao](https://openalex.org/A5104076757), [Zhengyi Xiao](https://openalex.org/A5113128704), [Yucheng Wang](https://openalex.org/A5100410456), [Jun Cheng](https://openalex.org/A5006197715), [Zhifeng Zheng](https://openalex.org/A5080512995), [Xiaoqing Huang](https://openalex.org/A5073869073), [Lingzheng Bu](https://openalex.org/A5000123768), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-024-55612-0.
     
 The lack of high-efficiency platinum (Pt)-based nanomaterials remains a formidable and exigent challenge in achieving high formic acid oxidation reaction (FAOR) and membrane electrode assembly (MEA) catalysis for direct formic acid fuel cell (DFAFC) technology. Herein, we report 16 Pt-based heterophase nanotrepang with rare earth (RE)-doped face-centered cubic Pt (fcc-Pt) and trigonal Pt-tellurium (t-PtTe2) configurations ((RE-Pt)-PtTe2 HPNT). Yttrium (Y) is identified as the optimal dopant, existing as single sites and clusters on the surface. The (Y-Pt)-PtTe2 HPNT/C demonstrates the superior mass and specific activities of 6.4 A mgPt−1 and 5.4 mA cm-2, outperforming commercial Pt/C by factors of 49.2 and 25.7, respectively. Additionally, it achieves a normalized MEA power density of 485.9 W gPt−1, tripling that of Pt/C. Density functional theory calculations further reveal that Y doping enhances HCOO* intermediate adsorption and suppresses CO intermediate formation, thereby promoting FAOR kinetics. This work highlights the role of RE metals in heterostructure regulation of Pt-based anodic nanomaterials for achieving the efficient direct formic acid electrocatalysis. Developing advanced Pt-based anodic catalysts is vital for direct formic acid fuel cell technology. Here, the authors present a synergistic amalgamation strategy to design diverse heterostructures, introducing a class of Pt-based catalysts with promising potential for practical applications.    
-
-    
-
-## Screened Ni3 single-cluster catalyst supported on graphidyne for high-performance electrocatalytic NO reduction to NH3: A computational study   
-
-OpenAlex: https://openalex.org/W4406011996    
-Open access: False
-    
-[Tingyu Yan](https://openalex.org/A5101409543), [Siyao Wang](https://openalex.org/A5114152789), [Simone Lang](https://openalex.org/A5110108047), [Zhongxu Wang](https://openalex.org/A5101402696), [Shiru Lin](https://openalex.org/A5114152790), [Jingxiang Zhao](https://openalex.org/A5011941921), Journal of Colloid and Interface Science. None(None)] 2025.https://doi.org/10.1016/j.jcis.2024.12.243.
-    
-No abstract    
 
     
 
@@ -501,17 +589,6 @@ No abstract
 
     
 
-## Molten Salt‐Assisted Synthesis of Porous Precious Metal‐Based Single‐Atom Catalysts for Oxygen Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4405979504    
-Open access: True
-    
-[Chenming Fan](https://openalex.org/A5048036566), [Xin Gao](https://openalex.org/A5101580415), [Pengyi Tang](https://openalex.org/A5089337725), [Qiang Wang](https://openalex.org/A5100366940), [Bing Li](https://openalex.org/A5100600073), Advanced Science. None(None)] 2024.https://doi.org/10.1002/advs.202410784 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202410784)).
-    
-Abstract Precious metal‐based single‐atom catalysts (PM‐SACs) hosted in N‐doped carbon supports have shown new opportunities to revolutionize cathodic oxygen reduction reaction (ORR). However, stabilizing the high density of PM‐N x sites remains a challenge, primarily due to the inherently high free energy of isolated metal atoms, predisposing them to facile atomic agglomeration. Herein, a molten salt‐assisted synthesis strategy is proposed to prepare porous PM 1 /N‐C Pores (PM = Ru, Pt, and Pd) electrocatalysts with densely accessible PM‐N x sites. A hierarchically porous N‐doped carbon substrate (N‐C Pores ), synthesized via the NaCl‐assisted pyrolysis of zeolitic imidazolate framework‐8, effectively improves the utilization of PM‐N x sites by increased reactants accessible surface area and reduced mass transfer resistance. In accordance with theoretical calculations, the as‐prepared Ru 1 /N‐C Pores , featuring superior intrinsic active Ru‐N 4 sites, exhibit outstanding ORR turnover frequency of 6.19 e − site −1 s −1 , and outperforms the commercial Pt/C with a 5.3‐fold of mass activity (5.83 ± 0.61 A mg −1 ) at 0.8 V versus reversible hydrogen electrode. The commendable activity and stability of Ru 1 /N‐C Pores in a real fuel cell device further affirm its practical applicability.    
-
-    
-
 ## Atomically Dispersed Metal–Nitrogen–Carbon Catalysts for Acidic Oxygen Reduction Reaction   
 
 OpenAlex: https://openalex.org/W4406058102    
@@ -542,6 +619,17 @@ Open access: False
 [Chaoqiang Feng](https://openalex.org/A5057001247), [Yaolong Zhang](https://openalex.org/A5003345957), [Bin Jiang](https://openalex.org/A5019157263), Journal of Chemical Theory and Computation. None(None)] 2025.https://doi.org/10.1021/acs.jctc.4c01355.
     
 Electron density is a fundamental quantity that can in principle determine all ground state electronic properties of a given system. Although machine learning (ML) models for electron density based on either an atom-centered basis or a real-space grid have been proposed, the demand for a number of high-order basis functions or grid points is enormous. In this work, we propose an efficient grid-point sampling strategy that combines targeted sampling favoring a large density and a screening of grid points associated with linearly independent atomic features. This new sampling strategy is integrated with a field-induced recursively embedded atom neural network model to develop a real-space grid-based ML model for the electron density and its response to an electric field. This approach is applied to a QM9 molecular data set, a H2O/Pt(111) interfacial system, an Au(100) electrode, and an Au nanoparticle under an electric field. The number of training points is found to be much smaller than previous models, while yielding comparably accurate predictions for the electron density of the entire grid. The resultant machine-learned electron density model enables us to properly partition partial charge onto each atom and analyze the charge variation upon proton transfer in the H2O/Pt(111) system. The machine-learning electronic response model allows us to predict charge transfer and the electrostatic potential change induced by an electric field applied to an Au(100) electrode or an Au nanoparticle.    
+
+    
+
+## SurFF: Universal Model for Surface Exposure and Synthesizability Across Intermetallic Crystals   
+
+OpenAlex: https://openalex.org/W4406127231    
+Open access: True
+    
+[Xiaonan Wang](https://openalex.org/A5100410939), [Jun Yin](https://openalex.org/A5100606500), [Honghao Chen](https://openalex.org/A5043761004), [Ju Qiu](https://openalex.org/A5088875628), [Wentao Li](https://openalex.org/A5084396019), [Peng He](https://openalex.org/A5085779032), [Jiali Li](https://openalex.org/A5108050269), [Iftekhar A. Karimi](https://openalex.org/A5045849005), Research Square (Research Square). None(None)] 2025.https://doi.org/10.21203/rs.3.rs-4863775/v1 ([pdf](https://www.researchsquare.com/article/rs-4863775/latest.pdf)).
+    
+Abstract Catalysts are crucial in industrial processes, significantly enhancing reaction efficiency. With approximately 90% of industrial reactions occurring on surfaces, the role of heterogeneous catalysts is paramount. Accurate surface exposure prediction is vital for heterogeneous catalyst design but is hindered by the high costs of experimental and computational methods. Here, we introduce a universal force field-based model for predicting surface exposure and synthesizability (SurFF) across intermetallic crystals, essential materials for heterogeneous catalysts. We created a comprehensive intermetallic surface database using a data-efficient active learning method and high-throughput density functional theory (DFT) calculations, encompassing 12,553 unique surfaces and 344,200 single points. SurFF achieves DFT-level precision with a prediction error of 3.0 meV/Å² and enables large-scale surface exposure prediction, an impractical task for DFT methods, through a 105-fold acceleration. Validation against computational and experimental data both shows strong alignment. We applied SurFF for large-scale predictions on over 6,000 intermetallic crystals, providing valuable data for the community. Demonstrating transferability to diverse crystal properties, SurFF is a robust tool for advancing catalyst design, representing a significant step toward large-scale catalyst discovery models.    
 
     
 
