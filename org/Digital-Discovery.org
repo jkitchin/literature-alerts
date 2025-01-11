@@ -1,31 +1,10 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Fri Jan 10 01:23:10 2025
+Created on Sat Jan 11 01:21:32 2025
 
-Found 5 results from 2025-01-03 to 2025-01-10
+Found 6 results from 2025-01-04 to 2025-01-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
-
-* SMARTpy: A Python Package for the Generation of Cavity Steric Molecular Descriptors and Applications to Diverse Systems  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406003754
-:TOPICS: Computational Drug Discovery Methods, Various Chemistry Research Topics, Machine Learning in Materials Science
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00329b")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406003754"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406003754"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406003754"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406003754 (Open access: True)
-    
-[[https://openalex.org/A5111090728][Beck R. Miller]], [[https://openalex.org/A5078332329][Ryan C. Cammarota]], [[https://openalex.org/A5005862481][Matthew S. Sigman]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00329b 
-     
-Steric molecular descriptors designed for machine learning (ML) applications are critical for connecting structure-function relationships to mechanistic insight. However, many of these descriptors are not suitable for application to complex...    
-
-    
 
 * Digital Features of Chemical Elements Extracted from Local Geometries in Crystal Structures  :Digital_Discovery:
 :PROPERTIES:
@@ -108,5 +87,47 @@ OpenAlex: https://openalex.org/W4406117605 (Open access: True)
 [[https://openalex.org/A5061526273][He Zhu]], [[https://openalex.org/A5029798705][Lidan Hu]], [[https://openalex.org/A5009888534][Yang Yu]], [[https://openalex.org/A5111586026][Z Chen]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00367e 
      
 Chemical shifts are crucial parameters in protein Nuclear Magnetic Resonance (NMR) experiments. Specifically, Chemical shifts of backbone atoms are essential for determining the constraints in protein structure analysis. Despite their...    
+
+    
+
+* Active learning driven prioritisation of compounds from on-demand libraries targeting the SARS-CoV-2 main protease  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406183574
+:TOPICS: Computational Drug Discovery Methods, Innovative Microfluidic and Catalytic Techniques Innovation, Chemical Synthesis and Analysis
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00343h")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406183574"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406183574"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406183574"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406183574 (Open access: True)
+    
+[[https://openalex.org/A5019524985][Ben Cree]], [[https://openalex.org/A5072069360][M. Bieniek]], [[https://openalex.org/A5055699398][Siddique Amin]], [[https://openalex.org/A5085494254][Akane Kawamura]], [[https://openalex.org/A5003390204][D. J. A. Cole]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00343h 
+     
+FEgrow is an open-source software package for building congeneric series of compounds in protein binding pockets. For a given ligand core and receptor structure, it employs hybrid machine learning /...    
+
+    
+
+* ULaMDyn: Enhancing Excited-State Dynamics Analysis Through Streamlined Unsupervised Learning  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406185387
+:TOPICS: Neural Networks and Reservoir Computing
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00374h")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406185387"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406185387"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406185387"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406185387 (Open access: True)
+    
+[[https://openalex.org/A5030672372][Max Pinheiro]], [[https://openalex.org/A5028291925][Matheus de Oliveira Bispo]], [[https://openalex.org/A5103262101][Rafael S. Mattos]], [[https://openalex.org/A5053469126][Mariana T. do Casal]], [[https://openalex.org/A5008689563][Bidhan Chandra Garain]], [[https://openalex.org/A5059174675][Josene M. Toldo]], [[https://openalex.org/A5033401595][Saikat Mukherjee]], [[https://openalex.org/A5079154451][Mario Barbatti]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00374h 
+     
+The analysis of nonadiabatic molecular dynamics (NAMD) data presents significant challenges due to its high dimensionality and complexity. To address these issues, we introduce ULaMDyn, a Pythonbased, open-source package designed...    
 
     

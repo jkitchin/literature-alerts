@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Jan 10 01:23:07 2025
+Created on Sat Jan 11 01:21:31 2025
 
-Found 2 results from 2025-01-03 to 2025-01-10
+Found 1 results from 2025-01-04 to 2025-01-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -24,26 +24,5 @@ OpenAlex: https://openalex.org/W4406105576 (Open access: True)
 [[https://openalex.org/A5041685684][Neil M. Donahue]], Environmental Science Atmospheres. None(None)] 2025. https://doi.org/10.1039/d4ea90048k 
      
 Editor-in-Chief Neil Donahue reflects on the fourth year of Environmental Science: Atmospheres and looks ahead at the plans for year 5.    
-
-    
-
-* Functional dynamics of G protein-coupled receptors reveal new routes for drug discovery  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406002323
-:TOPICS: Receptor Mechanisms and Signaling, Neuropeptides and Animal Physiology, Mass Spectrometry Techniques and Applications
-:PUBLICATION_DATE: 2025-01-02
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41573-024-01083-3")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406002323"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406002323"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406002323"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406002323 (Open access: False)
-    
-[[https://openalex.org/A5051016065][Paolo Conflitti]], [[https://openalex.org/A5049584163][Edward Lyman]], [[https://openalex.org/A5041718990][Mark S.P. Sansom]], [[https://openalex.org/A5070831090][Peter W. Hildebrand]], [[https://openalex.org/A5005325174][Hugo Gutiérrez‐de‐Terán]], [[https://openalex.org/A5043471682][Paolo Carloni]], [[https://openalex.org/A5032644017][T. Bertie Ansell]], [[https://openalex.org/A5022513985][Shuguang Yuan]], [[https://openalex.org/A5023385915][Patrick Barth]], [[https://openalex.org/A5053252662][Anne S. Robinson]], [[https://openalex.org/A5087200267][Christopher G. Tate]], [[https://openalex.org/A5008546272][David E. Gloriam]], [[https://openalex.org/A5079674718][Stephan Grzesiek]], [[https://openalex.org/A5003615572][Matthew T. Eddy]], [[https://openalex.org/A5027730134][S.R. Prosser]], [[https://openalex.org/A5026034661][Vittorio Limongelli]], Nature Reviews Drug Discovery. None(None)] 2025. https://doi.org/10.1038/s41573-024-01083-3 
-     
-No abstract    
 
     

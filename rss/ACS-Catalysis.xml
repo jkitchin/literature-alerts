@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Jan 2025 01:23:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 01:21:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Bioinspired Molecular Catalyst for Photocatalytic Semihydrogenation of Acetylene with Water as a Proton Source</title>
-      <link>https://doi.org/10.1021/acscatal.4c04763</link>
-      <description>Yangguang Hu, Song Wang, Zifan Jiang, Wanbing Gong, Aobo Chen, Qiaoxi Liu, Guangyu Liu, Zhiqiang Shen, Jingxiang Low, Jun Ma, Jun Jiang, Chao Gao, Yujie Xiong, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406025784
-
-                Selective semihydrogenation of acetylene to ethylene in ethylene-rich gas streams is a significant industrial process for obtaining high-quality polyethylene products. The conventional thermal hydrogenation route requires high temperature (&gt;100 &#176;C), excess H2, and noble metal Pd to achieve satisfactory conversion efficiency. Therefore, the development of a more efficient and economical low-energy method for acetylene semihydrogenation is greatly desired yet challenging. Here, we report a noble-metal-free molecular system consisting of a bioinspired [CoII(N4S2)](ClO4)2 catalyst and a copper photosensitizer, which achieves photocatalytic semihydrogenation of acetylene to ethylene with over 96% selectivity and 96&#8211;99.9% conversion under ambient conditions for both pure acetylene and industrially relevant ethylene cofeed (containing 1% acetylene) conditions using water as a proton source. In addition, our catalytic system in deuterium oxide exhibits ability for deuterated ethylene production, which is an important building block for various deuterated polyolefins and chemicals.</description>
-      <author>Yangguang Hu, Song Wang, Zifan Jiang, Wanbing Gong, Aobo Chen, Qiaoxi Liu, Guangyu Liu, Zhiqiang Shen, Jingxiang Low, Jun Ma, Jun Jiang, Chao Gao, Yujie Xiong</author>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04763</guid>
-    </item>
     <item>
       <title>Issue Editorial Masthead</title>
       <link>https://doi.org/10.1021/csv015i001_1883750</link>
@@ -42,7 +32,7 @@
       <link>https://doi.org/10.1021/acscatal.4c05785</link>
       <description>Jie Song, Chunxia Che, Yiwei Dai, Jiaheng Qin, Cong Yang, Ziqiu Chen, Kexin Ma, Yuhui Han, Yu Long, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406093746
 
-                No abstract</description>
+                The one-pot synthesis of amines from benzyl alcohol (BA) and nitrobenzene (NB) represents a step-economic method. However, reported works typically require more than 3 equiv of BA to complete the transfer hydrogenation of NB, and few studies can achieve selective synthesis of imines and secondary amines. In our previous work, Zr(OH)4 demonstrated both hydrogenation and dehydrogenation capabilities. Building on this, another component Cu was introduced to enhance its catalytic performance for catalyzing coupling reaction between stoichiometric BA and NB under a H2 atmosphere. The physical hybrid catalyst Cu + Zr(OH)4 selectively produced imines, while the supported catalyst Cu/Zr(OH)4 yielded secondary amines. Characterization and mechanism experiments revealed that modulating the proximity between Cu and Zr(OH)4 leads to (1) different adsorption abilities of the catalyst for N-benzylideneaniline (NBA) and (2) interactions between Zr(OH)4 and Cu in close contact, which stabilized the electronic structure of Cu forming more Cu+/Cu0 ion pairs with strong H2 activation ability. This work presents a catalyst design strategy and offers an approach for the selective preparation of N-benzylideneaniline and N-benzylaniline.</description>
       <author>Jie Song, Chunxia Che, Yiwei Dai, Jiaheng Qin, Cong Yang, Ziqiu Chen, Kexin Ma, Yuhui Han, Yu Long</author>
       <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05785</guid>
@@ -168,104 +158,64 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06278</guid>
     </item>
     <item>
-      <title>Regulating Heteroatom Doping-Induced Embedded Pt-M Bimetallic Sites Coupled with Ce&lt;sup&gt;3+&lt;/sup&gt;-OVs for Efficient Low-Temperature Methanol Steam Reforming</title>
-      <link>https://doi.org/10.1021/acscatal.4c05507</link>
-      <description>Wei Zheng, Shengfang Shi, Fei Dong, Hekun Jia, Zhiling Chen, Bifeng Yin, ACS Catalysis. None(None)] 2025. https://openalex.org/W4405991185
+      <title>A New Look at Catalyst Surfaces at Work: Introducing Mixed Isotope Operando Infrared Spectroscopy (MIOIRS)</title>
+      <link>https://doi.org/10.1021/acscatal.4c06308</link>
+      <description>Matteo Monai, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406170106
+
+                This Perspective focuses on the characterization of supported metal catalysts by operando and CO infrared (IR) spectroscopy. CO IR spectroscopy is a powerful technique for probing catalyst surfaces and is used to identify single-atom catalysts, estimate metal surface availability to the gas phase, and measure catalyst Lewis acidity. However, the interpretation of CO IR spectra on metal surfaces is not trivial and is influenced by dipole&#8211;dipole interactions among CO molecules at medium to high coverage. Such a phenomenon results in spectral distortions, such as intensity transfer among IR bands, the appearance of spurious bands, and shifts in band position. Dipole&#8211;dipole interactions were widely investigated and understood from the 1950s to 1990s, but the implications for operando spectroscopy have been seemingly overlooked in the literature, with a few exceptions. Inspired by seminal studies in the field, I propose here the use of mixed isotopic streams, such as diluted 13CO in 12CO, to reduce dipole coupling effects and retrieve more information from operando IR spectra in reactions involving CO, such as CO oxidation or hydrogenation reactions. Similarly, mixed 13CO2/12CO2 streams may be applied in CO2 hydrogenation, where adsorbed CO is commonly observed. The proposed name of the technique is Mixed Isotope Operando IR Spectroscopy, MIOIRS. In this Perspective, I will first summarize the nature of dipole&#8211;dipole interactions in adsorbed CO layers and their effects on CO IR spectra. Then, I will briefly describe how diluted isotopic mixtures of CO can partially break the coupling among adsorbates and reduce spectral distortion. In both sections, I will give a few showcases of the implications of vibrational coupling in the characterization of heterogeneous catalysts. Finally, I will discuss the possible implications of MIOIRS for the detection and quantification of defect and surface sites on metal nanoparticles, the characterization of bimetallic nanoparticles surfaces, and the kinetics of CO intermediates adsorbed on different active sites. Notably, MIOIRS may be expanded to other reactions in which adsorbates have strong permanent dipoles, such as in self-catalytic reduction for NOx abatement.</description>
+      <author>Matteo Monai</author>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06308</guid>
+    </item>
+    <item>
+      <title>New Insights into the Roles of Surface and Lattice Hydrogen in Electrocatalytic Hydrogen Oxidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c06133</link>
+      <description>Pengcheng Zhao, Li Deng, Chang Sun, Xiang Li, Xiaoyu Tian, Zhuo Li, Wenchao Sheng, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406183003
 
                 No abstract</description>
-      <author>Wei Zheng, Shengfang Shi, Fei Dong, Hekun Jia, Zhiling Chen, Bifeng Yin</author>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05507</guid>
+      <author>Pengcheng Zhao, Li Deng, Chang Sun, Xiang Li, Xiaoyu Tian, Zhuo Li, Wenchao Sheng</author>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06133</guid>
     </item>
     <item>
-      <title>Hydrogen Evolution and Oxygen Reduction on OH/F-Terminated Titanium Nitride MXene Reveal the Role of the Surface Termination Group in Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c05247</link>
-      <description>Eugenie Pranada, Bright Ngozichukwu, Ray Yoo, Denis Johnson, Mark A. Barteau, Ahmed Abdel&#8208;Wahab, Abdoulaye Djire, ACS Catalysis. None(None)] 2025. https://openalex.org/W4405994823
+      <title>Decorating Cu Nanoparticles with Pd Clusters for Enhanced Nitrile Electro-Hydrogenation to Primary Amines by Effective Hydrogen Spillover</title>
+      <link>https://doi.org/10.1021/acscatal.4c06206</link>
+      <description>Peipei Zhu, Mingzhu Shi, Bing Wu, Xunfan Liao, Mengning Ding, Longbin Li, Yiwang Chen, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406187801
 
                 No abstract</description>
-      <author>Eugenie Pranada, Bright Ngozichukwu, Ray Yoo, Denis Johnson, Mark A. Barteau, Ahmed Abdel&#8208;Wahab, Abdoulaye Djire</author>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05247</guid>
+      <author>Peipei Zhu, Mingzhu Shi, Bing Wu, Xunfan Liao, Mengning Ding, Longbin Li, Yiwang Chen</author>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06206</guid>
     </item>
     <item>
-      <title>Dehydrogenase versus Oxidase Function: The Interplay between Substrate Binding and Flavin Microenvironment</title>
-      <link>https://doi.org/10.1021/acscatal.4c05944</link>
-      <description>Teresa Benedetta Guerriere, Alessandro Vancheri, Ilaria Ricotti, Stefano A. Serapian, Daniel Eggerichs, Dirk Tischler, Giorgio Colombo, Mar&#237;a Laura Mascotti, Marco W. Fraaije, Andrea Mattevi, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406017818
+      <title>Reactions of Surface Peroxides Contribute to Rates and Selectivities for C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt; Epoxidation on Silver</title>
+      <link>https://doi.org/10.1021/acscatal.4c06945</link>
+      <description>Ching&#8208;Tien Chen, Anna Sviripa, Sandeep Verma, Christopher Paolucci, David W. Flaherty, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406196996
 
-                Redox enzymes, mostly equipped with metal or organic cofactors, can vary their reactivity with oxygen by orders of magnitude. Understanding how oxygen reactivity is controlled by the protein milieu remains an open issue, with broad implications for mechanistic enzymology and enzyme design. Here, we address this problem by focusing on a widespread group of flavoenzymes that oxidize phenolic compounds derived from microbial lignin degradation, using either oxygen or cytochrome c as an electron acceptor. A comprehensive phylogenetic analysis revealed conserved amino acid motifs in the flavin-binding site. Using a combination of kinetic, mutagenesis, structural, and computational methods, we examined the role of these residues. Our results demonstrate that subtle and localized changes in the flavin environment can drastically impact oxygen reactivity. These effects are afforded through the creation or blockade of pathways for oxygen diffusion. Substrate binding plays a crucial role by potentially obstructing oxygen access to the flavin, thus influencing the enzyme's reactivity. The switch between oxidase and dehydrogenase functionalities is thereby achieved through targeted, site-specific amino acid replacements that finely tune the microenvironment around the flavin. Our findings explain how very similar enzymes can exhibit distinct functional properties, operating as oxidases or dehydrogenases. They further provide valuable insights for the rational design and engineering of enzymes with tailored functions.</description>
-      <author>Teresa Benedetta Guerriere, Alessandro Vancheri, Ilaria Ricotti, Stefano A. Serapian, Daniel Eggerichs, Dirk Tischler, Giorgio Colombo, Mar&#237;a Laura Mascotti, Marco W. Fraaije, Andrea Mattevi</author>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05944</guid>
+                Partial oxidation of ethylene over silver catalysts produces more than 30 million metric tons of ethylene oxide (EO) annually. However, the form of active silver surfaces, reactive oxygen species, and dominant pathways of this chemical reaction remains controversial despite decades of research. Here, we use operando Raman spectroscopy and transient kinetic measurements to demonstrate that higher coverages of peroxide species, present only upon Ag oxide surfaces that form in situ, correlate with greater selectivities to EO. Ab initio calculations reveal that the reconstructed Ag oxides preferentially stabilize diatomic oxygen species (peroxide and superoxide) under relevant conditions, and these species contribute to the selective formation of EO. The dominant reaction pathways change with surface coverages; however, bound O2 consistently activates by reaction with C2H4, and products form subsequently through peroxo- and oxometallacycle surface complexes. Taken together, density functional theory calculations and kinetic and transient experimental measurements show that the formation of peroxide intermediates requires oxidation of the Ag surface (via subsurface oxygen), and an increase in surface peroxides coincides with the highest EO selectivity for the unpromoted Ag catalyst. These findings suggest that the promoters ubiquitous for ethylene epoxidation (e.g., chlorine, transition metals, and alkali metals) may succeed by oxidation of Ag and increasing coverages of peroxides at industrial conditions.</description>
+      <author>Ching&#8208;Tien Chen, Anna Sviripa, Sandeep Verma, Christopher Paolucci, David W. Flaherty</author>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06945</guid>
     </item>
     <item>
-      <title>Poly(triazine imide) Crystals for Efficient CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction: Surface Pyridine Nitrogen Dominates the Performance</title>
-      <link>https://doi.org/10.1021/acscatal.4c06685</link>
-      <description>Feng Liu, Jing Deng, Bo Su, Kang&#8208;Shun Peng, Kunlong Liu, Xiahui Lin, Sung&#8208;Fu Hung, Xiong Chen, Xue Feng Lu, Yuanxing Fang, Guigang Zhang, Sibo Wang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406018026
-
-                Polymeric carbon nitrides (PCNs), usually the melon phase, have been extensively applied as photocatalysts for CO2 reduction; however, their performance is still unsatisfactory. The condensed allotrope, namely, poly(triazine imide) (PTI) with extended conjugation and a crystallized structure, indeed holds more favorable compositional and structural advantages for photocatalytic CO2 reduction but remains to be fully exploited. Herein, hexagonal prism-shaped PTI crystals were synthesized and developed as a high-performance photocatalyst for CO2 reduction. With Co(bpy)32+ as a cocatalyst, the PTI crystals exhibit a CO evolution rate of 44 &#956;mol h&#8211;1 (i.e., 1467 &#956;mol g&#8211;1 h&#8211;1) with 93% selectivity, markedly superior to that of the melon counterpart. Moreover, PTI crystals manifest an apparent quantum efficiency of 12.9% at 365 nm, representing the state-of-the-art value by PCN photocatalysts for CO2-to-CO reduction without using noble metals. The surface pyridine N species of PTI are exposed as active sites to dominate CO2 activation and conversion, which, together with the high crystallinity to facilitate charge separation and transport, endows high CO2 reduction efficiency. In situ diffuse reflectance infrared Fourier transform spectroscopy determines the key intermediates during the CO2 reduction reaction and, consequently, constructs the possible reaction mechanism.</description>
-      <author>Feng Liu, Jing Deng, Bo Su, Kang&#8208;Shun Peng, Kunlong Liu, Xiahui Lin, Sung&#8208;Fu Hung, Xiong Chen, Xue Feng Lu, Yuanxing Fang, Guigang Zhang, Sibo Wang</author>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06685</guid>
-    </item>
-    <item>
-      <title>Biocatalytic Efficient and Enantiocomplementary Synthesis of 3-Hydroxy-3-hydroxymethyloxindoles by Combining Halohydrin Dehalogenase and Epoxide Hydrolase</title>
-      <link>https://doi.org/10.1021/acscatal.4c07482</link>
-      <description>Run&#8208;Ping Miao, Haixia Zhang, Ke L&#252;, Taotao Lu, Huihui Wang, Yong&#8208;Zheng Chen, Nan&#8208;Wei Wan, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406020045
+      <title>Pendant Catechol Group Improves the Performance of Iron Porphyrin CO&lt;sub&gt;2&lt;/sub&gt; Reduction Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c05531</link>
+      <description>Ana Sonea, Jeffrey J. Warren, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406199451
 
                 No abstract</description>
-      <author>Run&#8208;Ping Miao, Haixia Zhang, Ke L&#252;, Taotao Lu, Huihui Wang, Yong&#8208;Zheng Chen, Nan&#8208;Wei Wan</author>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07482</guid>
+      <author>Ana Sonea, Jeffrey J. Warren</author>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05531</guid>
     </item>
     <item>
-      <title>Construction of Highly Active Fe&lt;sub&gt;5&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;&#8211;FeCo Interfacial Sites for Oriented Synthesis of Light Olefins from CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.4c06001</link>
-      <description>Teng Li, Heng Zhao, Lisheng Guo, Guangbo Liu, Jinhu Wu, Tao Xing, Tao Li, Qiang Liu, Jiancai Sui, Yitong Han, Jiaming Liang, Yingluo He, Noritatsu Tsubaki, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406021378
+      <title>Hydrogen-Assisted Dissociation of N&lt;sub&gt;2&lt;/sub&gt;: Prevalence and Consequences for Ammonia Synthesis on Supported Ru Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c06966</link>
+      <description>Yukun Bai, Yuanbao Zhang, Jianhua Hu, Li Jiang, Shaolong Wan, Jingdong Lin, Yong Wang, Shuai Wang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406201945
 
-                The hydrogenation of CO2 into high-value chemistry is seen as one of the viable strategies for solving the energy crisis of the future. Light olefins have attracted considerable attention as basic feedstocks in the industry. In this work, a series of Fe&#8211;Co bimetallic active site catalysts were constructed by a typical sol&#8211;gel strategy. The synergistic regulation layout of the Fe&#8211;Co bimetallic active site catalyst constructed highly active interfaces and exhibited high conversion (56.9%) of CO2, low CO selectivity (3.6%), high selectivity (40.5%) of light olefins, and remarkable light olefins yield (22.2%). The results of the associated characterization analysis indicate that the high activity interfaces formed by the synergistic regulation layout of the Fe&#8211;Co bimetallic active sites are the fundamental reason for the high yield of light olefins. The high activity interfaces formed by the introduction of cobalt drive the RWGS reaction forward (Le Chatelier's Principle), which further enhances the CO2 conversion. In addition, the dynamic evolution of the physical phase structure, elemental composition and valence, CO2 and H2 adsorption ability, and the formation process of light olefins during the reaction of Fe&#8211;Co bimetallic catalysts were analyzed by in situ DRIFT spectra and other characterizations, and a potential mechanism for the high selectivity of CO2 hydrogenation to light olefins is further proposed. This work provides an effective and rational design strategy for the synergistic regulation layout of Fe&#8211;Co bimetals with highly active interfaces to promote efficient hydrogenation of CO2 for the oriented synthesis of light olefins.</description>
-      <author>Teng Li, Heng Zhao, Lisheng Guo, Guangbo Liu, Jinhu Wu, Tao Xing, Tao Li, Qiang Liu, Jiancai Sui, Yitong Han, Jiaming Liang, Yingluo He, Noritatsu Tsubaki</author>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06001</guid>
-    </item>
-    <item>
-      <title>Highly Active and Stable Al-Doped NiFe Self-Supported Oxygen Evolution Reaction Electrode for Alkaline Water Electrolysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c04393</link>
-      <description>Byung&#8208;Jo Lee, Sang&#8208;Mun Jung, Guoliang Yu, Hyun-Yup Kim, Jaesub Kwon, Kyu&#8208;Su Kim, Jaeik Kwak, Wooseok Lee, Dong Hyeon Mok, Seoin Back, Yong&#8208;Tae Kim, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406022367
-
-                Alkaline water electrolysis (AWE), a predominant technology for large-scale industrial hydrogen production, faces limitations in commercialization owing to the inadequate catalytic activity and stability of oxygen evolution reaction (OER) electrocatalysts. This study introduces a NiFeAl self-supported electrode characterized by high activity and stability for the OER and outlines a rational design strategy for NiFe (oxy)hydroxide-based self-supported electrodes. The introduction of Al, a ternary dopant with relatively low electronegativity and a small ionic radius, into the NiFe electrode effectively controls the adsorption energy of O-intermediates and facilitates the deprotonation of adsorbed OH*, thereby accelerating the OER. Remarkably, the NiFeAl self-supported electrode demonstrates approximately 50% enhanced operational activity (0.71 A cm&#8211;2 at 1.8 V) compared to NiFe alongside exceptional stability (&gt;72 h at 0.6 A cm&#8211;2) in OER within an AWE single cell. These findings highlight the significant potential of the NiFeAl electrode for application in AWE for efficient, large-scale hydrogen production.</description>
-      <author>Byung&#8208;Jo Lee, Sang&#8208;Mun Jung, Guoliang Yu, Hyun-Yup Kim, Jaesub Kwon, Kyu&#8208;Su Kim, Jaeik Kwak, Wooseok Lee, Dong Hyeon Mok, Seoin Back, Yong&#8208;Tae Kim</author>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04393</guid>
-    </item>
-    <item>
-      <title>Advancing the Synthesis for Perdeuterated Small Organic Chemicals via Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c06353</link>
-      <description>Bj&#248;rt &#211;lad&#243;ttir Joensen, Qiucheng Xu, Kasper Enemark&#8208;Rasmussen, Victoria L. Frankland, Arun Prakash Periasamy, John R. Varcoe, Ib Chorkendorff, Brian Seger, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406025115
-
-                High deuteration yields are difficult to attain with conventional chemical synthesis methods. In this work, we demonstrate that deuterated chemicals can be produced using electrochemical CO2 reduction in the presence of D2O. The absence of H2O enables deuteration yields over 99% for products such as ethanol-d6 and formate-d. With a D2O solvent, the competing D2 evolution reaction is completely suppressed at low current densities while being kept &lt;10% at a higher 300 mA/cm2.</description>
-      <author>Bj&#248;rt &#211;lad&#243;ttir Joensen, Qiucheng Xu, Kasper Enemark&#8208;Rasmussen, Victoria L. Frankland, Arun Prakash Periasamy, John R. Varcoe, Ib Chorkendorff, Brian Seger</author>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06353</guid>
-    </item>
-    <item>
-      <title>Boosting the Water Gas Shift Reaction Rate on Au Nanocatalysts through Collaborative Synthesis of Warm and Cold Plasmas</title>
-      <link>https://doi.org/10.1021/acscatal.4c05657</link>
-      <description>Ye-Cheng Li, Xiaosong Li, Jinglin Liu, Bin Zhu, Guanghui Zhang, Dongdong Liu, Wei Liu, Xinwen Guo, Ai&#8208;Min Zhu, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406025145
-
-                TiO2-supported Au nanocatalysts are highly attractive for the water gas shift (WGS) reaction due to their high catalytic activity at low temperatures. Herein, the (Au/TiO2&#8211;x)OP catalyst synthesized by the combination of warm and cold plasmas exhibits a high WGS reaction rate of 1.63 mol&#183;gAu&#8211;1&#183;h&#8211;1 at 120 &#176;C, being one of the highest WGS rates among Au/TiO2 catalysts. The warm plasma generates a large amount of oxygen vacancies, while the cold plasma treatment generates small Au nanoparticles and interfacial sites. The (Au/TiO2&#8211;x)OP catalyst features two kinds of abundant active sites including Au&#948;+-O&#948;&#8722;-Ti4+ and Au0-Ov-Ti3+, which accelerate the WGS reaction simultaneously along the intermediate and redox reaction pathways, respectively.</description>
-      <author>Ye-Cheng Li, Xiaosong Li, Jinglin Liu, Bin Zhu, Guanghui Zhang, Dongdong Liu, Wei Liu, Xinwen Guo, Ai&#8208;Min Zhu</author>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05657</guid>
-    </item>
-    <item>
-      <title>Dynamic Kinetic Reductive Grignard-Type Addition for the Construction of Axial and Central Chirality</title>
-      <link>https://doi.org/10.1021/acscatal.4c07172</link>
-      <description>Ya-Ping Shao, Yong&#8208;Min Liang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406028498
-
-                This study describes a photoredox/cobalt dual-catalyzed asymmetric Grignard-type addition reaction, enabling the synthesis of axially chiral hexatomic (six&#8211;six) N-heterobiaryls bearing the extra chiral secondary alcohol unit via an efficient dynamic kinetic asymmetric transformation of racemic N-heterobiaryl triflate substrates. The conversion facilitated via both photoredox and classical reductive reaction conditions exhibits good functional group tolerance, a broad substrate scope, and satisfactory stereoselectivity. Furthermore, control experiments and density functional theory calculations provide preliminary mechanistic insights.</description>
-      <author>Ya-Ping Shao, Yong&#8208;Min Liang</author>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07172</guid>
+                No abstract</description>
+      <author>Yukun Bai, Yuanbao Zhang, Jianhua Hu, Li Jiang, Shaolong Wan, Jingdong Lin, Yong Wang, Shuai Wang</author>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06966</guid>
     </item>
     <item>
       <title>Developing Dual-Atom Catalysts with Tunable Electron Synergistic Effect via Photoinduced Ligand Exchange Strategy</title>

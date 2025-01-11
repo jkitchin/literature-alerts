@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Jan 2025 01:23:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 01:21:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Unveiling the Oxidation Mechanisms of High&#8208;entropy Carbides Through Atomic&#8208;scale Dynamic Observation</title>
-      <link>https://doi.org/10.1002/adma.202417846</link>
-      <description>Lei Zhuang, Zihao Wen, Yiwen Liu, Jing Yang, Hulei Yu, Yanhui Chu, Advanced Materials. None(None)] 2025. https://openalex.org/W4405994380
-
-                Abstract Understanding the behavior of high&#8208;entropy carbides (HECs) under oxygen&#8208;containing environments is of particular importance for their promising applications in structural components, catalysis, and energy&#8208;related fields. Herein, the structural evolution of (Ta, Ti, Cr, Nb)C (HEC&#8208;1) nanoparticles (NPs) is tracked in situ during the oxidation at the atomic scale by using an open&#8208;cell environmental aberration&#8208;corrected scanning transmission electron microscope. Three key stages are clearly discerned during the oxidation of HEC&#8208;1 NPs at the atomic level below 900 &#176;C: i) increased amorphization of HEC&#8208;1 NPs from 300 to 500 &#176;C due to the energetically favorable formation of carbon vacancies and substitution of carbon with oxygen atoms; ii) nucleation and subsequent growth of locally ordered nanocluster intermediates within the generated amorphous oxides from 500 to 800 &#176;C; and iii) final one&#8208;step crystallization of non&#8208;equimolar MeO 2 and Me 2 O 5 (Me = metallic elements, Ta, Ti, Cr, and Nb) high&#8208;entropy oxides above 800 &#176;C, accompanied with the reduction in atomic defects. This result is further confirmed by theoretical calculations that these observed high&#8208;entropy oxide phases are thermodynamically preferable to generate above 830 &#176;C. The study provides direct evidence of the ordered&#8211;disordered&#8211;ordered structural transition of HECs during oxidation.</description>
-      <author>Lei Zhuang, Zihao Wen, Yiwen Liu, Jing Yang, Hulei Yu, Yanhui Chu</author>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202417846</guid>
-    </item>
   </channel>
 </rss>

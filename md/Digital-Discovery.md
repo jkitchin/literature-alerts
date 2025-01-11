@@ -1,21 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Fri Jan 10 01:23:10 2025
+Created on Sat Jan 11 01:21:32 2025
 
-Found 5 results from 2025-01-03 to 2025-01-10
+Found 6 results from 2025-01-04 to 2025-01-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## SMARTpy: A Python Package for the Generation of Cavity Steric Molecular Descriptors and Applications to Diverse Systems   
-
-OpenAlex: https://openalex.org/W4406003754    
-Open access: True
-    
-[Beck R. Miller](https://openalex.org/A5111090728), [Ryan C. Cammarota](https://openalex.org/A5078332329), [Matthew S. Sigman](https://openalex.org/A5005862481), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00329b.
-    
-Steric molecular descriptors designed for machine learning (ML) applications are critical for connecting structure-function relationships to mechanistic insight. However, many of these descriptors are not suitable for application to complex...    
-
-    
 
 ## Digital Features of Chemical Elements Extracted from Local Geometries in Crystal Structures   
 
@@ -58,5 +47,27 @@ Open access: True
 [He Zhu](https://openalex.org/A5061526273), [Lidan Hu](https://openalex.org/A5029798705), [Yang Yu](https://openalex.org/A5009888534), [Z Chen](https://openalex.org/A5111586026), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00367e.
     
 Chemical shifts are crucial parameters in protein Nuclear Magnetic Resonance (NMR) experiments. Specifically, Chemical shifts of backbone atoms are essential for determining the constraints in protein structure analysis. Despite their...    
+
+    
+
+## Active learning driven prioritisation of compounds from on-demand libraries targeting the SARS-CoV-2 main protease   
+
+OpenAlex: https://openalex.org/W4406183574    
+Open access: True
+    
+[Ben Cree](https://openalex.org/A5019524985), [M. Bieniek](https://openalex.org/A5072069360), [Siddique Amin](https://openalex.org/A5055699398), [Akane Kawamura](https://openalex.org/A5085494254), [D. J. A. Cole](https://openalex.org/A5003390204), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00343h.
+    
+FEgrow is an open-source software package for building congeneric series of compounds in protein binding pockets. For a given ligand core and receptor structure, it employs hybrid machine learning /...    
+
+    
+
+## ULaMDyn: Enhancing Excited-State Dynamics Analysis Through Streamlined Unsupervised Learning   
+
+OpenAlex: https://openalex.org/W4406185387    
+Open access: True
+    
+[Max Pinheiro](https://openalex.org/A5030672372), [Matheus de Oliveira Bispo](https://openalex.org/A5028291925), [Rafael S. Mattos](https://openalex.org/A5103262101), [Mariana T. do Casal](https://openalex.org/A5053469126), [Bidhan Chandra Garain](https://openalex.org/A5008689563), [Josene M. Toldo](https://openalex.org/A5059174675), [Saikat Mukherjee](https://openalex.org/A5033401595), [Mario Barbatti](https://openalex.org/A5079154451), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00374h.
+    
+The analysis of nonadiabatic molecular dynamics (NAMD) data presents significant challenges due to its high dimensionality and complexity. To address these issues, we introduce ULaMDyn, a Pythonbased, open-source package designed...    
 
     
