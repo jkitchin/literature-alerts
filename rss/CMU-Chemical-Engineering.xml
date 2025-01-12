@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 Jan 2025 01:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 01:35:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Neil M. Donahue</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ea90048k</guid>
+    </item>
+    <item>
+      <title>Generalized Disjunctive Programming</title>
+      <link>https://doi.org/10.1007/978-3-030-54621-2_203-1</link>
+      <description>Ignacio E. Grossmann, Encyclopedia of Optimization. None(None)] 2024. https://openalex.org/W4406232675
+
+                No abstract</description>
+      <author>Ignacio E. Grossmann</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-030-54621-2_203-1</guid>
     </item>
   </channel>
 </rss>

@@ -1,21 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Sat Jan 11 01:21:32 2025
+Created on Sun Jan 12 01:35:13 2025
 
-Found 6 results from 2025-01-04 to 2025-01-11
+Found 6 results from 2025-01-05 to 2025-01-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## Digital Features of Chemical Elements Extracted from Local Geometries in Crystal Structures   
-
-OpenAlex: https://openalex.org/W4406037181    
-Open access: True
-    
-[Andrij Vasylenko](https://openalex.org/A5053274067), [Dmytro Antypov](https://openalex.org/A5062223660), [Sven Schewe](https://openalex.org/A5041836791), [Luke M. Daniels](https://openalex.org/A5021303389), [John B. Claridge](https://openalex.org/A5089917898), [Matthew S. Dyer](https://openalex.org/A5091597124), [Matthew J. Rosseinsky](https://openalex.org/A5054755054), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00346b.
-    
-Computational modelling of materials using machine learning (ML) and historical data has become integral to materials research across physical sciences. The accuracy of predictions for material properties using computational modelling...    
-
-    
 
 ## Advancing Predictive Toxicology: Overcoming Hurdles and Shaping the Future   
 
@@ -69,5 +58,16 @@ Open access: True
 [Max Pinheiro](https://openalex.org/A5030672372), [Matheus de Oliveira Bispo](https://openalex.org/A5028291925), [Rafael S. Mattos](https://openalex.org/A5103262101), [Mariana T. do Casal](https://openalex.org/A5053469126), [Bidhan Chandra Garain](https://openalex.org/A5008689563), [Josene M. Toldo](https://openalex.org/A5059174675), [Saikat Mukherjee](https://openalex.org/A5033401595), [Mario Barbatti](https://openalex.org/A5079154451), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00374h.
     
 The analysis of nonadiabatic molecular dynamics (NAMD) data presents significant challenges due to its high dimensionality and complexity. To address these issues, we introduce ULaMDyn, a Pythonbased, open-source package designed...    
+
+    
+
+## AI Agents in Chemical Research: GVIM - An Intelligent Research Assistant System   
+
+OpenAlex: https://openalex.org/W4406236141    
+Open access: True
+    
+[Kangyong Ma](https://openalex.org/A5027882101), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00398e.
+    
+This work utilizes collected and organized instructional data from the field of chemical science to fine-tune mainstream open-source large language models. To objectively evaluate the performance of the fine-tuned models,...    
 
     

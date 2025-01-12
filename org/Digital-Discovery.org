@@ -1,31 +1,10 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Sat Jan 11 01:21:32 2025
+Created on Sun Jan 12 01:35:13 2025
 
-Found 6 results from 2025-01-04 to 2025-01-11
+Found 6 results from 2025-01-05 to 2025-01-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
-
-* Digital Features of Chemical Elements Extracted from Local Geometries in Crystal Structures  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406037181
-:TOPICS: Machine Learning in Materials Science, Geochemistry and Geologic Mapping, Mineral Processing and Grinding
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00346b")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406037181"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406037181"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406037181"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406037181 (Open access: True)
-    
-[[https://openalex.org/A5053274067][Andrij Vasylenko]], [[https://openalex.org/A5062223660][Dmytro Antypov]], [[https://openalex.org/A5041836791][Sven Schewe]], [[https://openalex.org/A5021303389][Luke M. Daniels]], [[https://openalex.org/A5089917898][John B. Claridge]], [[https://openalex.org/A5091597124][Matthew S. Dyer]], [[https://openalex.org/A5054755054][Matthew J. Rosseinsky]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00346b 
-     
-Computational modelling of materials using machine learning (ML) and historical data has become integral to materials research across physical sciences. The accuracy of predictions for material properties using computational modelling...    
-
-    
 
 * Advancing Predictive Toxicology: Overcoming Hurdles and Shaping the Future  :Digital_Discovery:
 :PROPERTIES:
@@ -129,5 +108,26 @@ OpenAlex: https://openalex.org/W4406185387 (Open access: True)
 [[https://openalex.org/A5030672372][Max Pinheiro]], [[https://openalex.org/A5028291925][Matheus de Oliveira Bispo]], [[https://openalex.org/A5103262101][Rafael S. Mattos]], [[https://openalex.org/A5053469126][Mariana T. do Casal]], [[https://openalex.org/A5008689563][Bidhan Chandra Garain]], [[https://openalex.org/A5059174675][Josene M. Toldo]], [[https://openalex.org/A5033401595][Saikat Mukherjee]], [[https://openalex.org/A5079154451][Mario Barbatti]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00374h 
      
 The analysis of nonadiabatic molecular dynamics (NAMD) data presents significant challenges due to its high dimensionality and complexity. To address these issues, we introduce ULaMDyn, a Pythonbased, open-source package designed...    
+
+    
+
+* AI Agents in Chemical Research: GVIM - An Intelligent Research Assistant System  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406236141
+:TOPICS: Scientific Computing and Data Management, Advanced Data Processing Techniques, Semantic Web and Ontologies
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00398e")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406236141"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406236141"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406236141"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406236141 (Open access: True)
+    
+[[https://openalex.org/A5027882101][Kangyong Ma]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00398e 
+     
+This work utilizes collected and organized instructional data from the field of chemical science to fine-tune mainstream open-source large language models. To objectively evaluate the performance of the fine-tuned models,...    
 
     

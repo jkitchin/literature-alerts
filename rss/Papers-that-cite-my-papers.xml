@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 Jan 2025 01:21:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 01:35:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Scalable synthesis of Cu-cluster catalysts via spark ablation for the electrochemical conversion of CO2 to acetaldehyde</title>
-      <link>https://doi.org/10.1038/s44160-024-00705-3</link>
-      <description>Cedric David Koolen, Jack K. Pedersen, Bernardus Zijlstra, Maximilian Winzely, Jie Zhang, Tobias Pfeiffer, Wilbert L. Vrijburg, Mo Li, Ayush Agarwal, Zohreh Akbari, Yasemen Kuddusi, Juan Herranz, &#1054;lga V. Safonova, A. Schmidt&#8208;Ott, Wen Luo, A. ZUETTEL, Nature Synthesis. None(None)] 2025. https://openalex.org/W4406036475
-
-                No abstract</description>
-      <author>Cedric David Koolen, Jack K. Pedersen, Bernardus Zijlstra, Maximilian Winzely, Jie Zhang, Tobias Pfeiffer, Wilbert L. Vrijburg, Mo Li, Ayush Agarwal, Zohreh Akbari, Yasemen Kuddusi, Juan Herranz, &#1054;lga V. Safonova, A. Schmidt&#8208;Ott, Wen Luo, A. ZUETTEL</author>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s44160-024-00705-3</guid>
-    </item>
     <item>
       <title>Unveiling electronic constraints on basal planes of 2D transition metal chalcogenides for optimizing hydrogen evolution catalysis: A theoretical analysis</title>
       <link>https://doi.org/10.1016/j.commatsci.2025.113658</link>
@@ -338,84 +328,64 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162352</guid>
     </item>
     <item>
-      <title>Synthesis of La&lt;sub&gt;2&lt;/sub&gt;NiMnO&lt;sub&gt;6&lt;/sub&gt; Double Perovskite as a Highly Selective Electrocatalyst for Oxygen Reduction to Hydrogen Peroxide in Electrochemical Energy Conversion</title>
-      <link>https://doi.org/10.1021/acsaem.4c02469</link>
-      <description>Mohammad Imran Hossain, Syed Abdul Monim, Zannatul Mumtarin Moushumy, Neamul H. Khansur, Iqbal Mahmud, Mostafizur Rahaman, Ali Aldalbahi, Shakhawat H. Firoz, Mohammad A. Hasnat, ACS Applied Energy Materials. None(None)] 2025. https://openalex.org/W4406031911
+      <title>Disclosure of the hydrogen evolution mechanism on [FeFe]-hydrogenases-inspired molecular catalysts &#8211; a DFT study</title>
+      <link>https://doi.org/10.1071/ch24137</link>
+      <description>Siyao Qiu, Aimin Yu, Cheng E. Sun, Australian Journal of Chemistry. 78(1)] 2025. https://openalex.org/W4406211325
 
-                Oxygen reduction reaction (ORR), a key process in sustainable energy conversion, utilizing a perovskite catalyst to achieve higher currents at lower overpotentials along with the production of value-added product hydrogen peroxide (H2O2), serves the dual functionality of both energy production and a green route for H2O2 generation. Here, we report the synthesis of a highly efficient double perovskite La2NiMnO6 (LNMO), achieved through the incorporation of two transition metals, Ni and Mn, in the perovskite structure, and explore its activity for ORR. During ORR at a rotation rate of 1600 rpm in 1.0 M NaOH, LNMO exhibits an onset potential of 0.75 V (corresponding to a current density of 0.1 mA cm&#8211;2) and a Tafel slope of 95 mV dec&#8211;1, achieving over 88% H2O2 selectivity and 73% faradaic efficiency across a wide potential range of 0.2&#8211;0.6 V vs RHE. Characterization techniques including OCP, EIS, ICP-OES, XRD, XPS, FE-SEM, and FTIR confirmed the successful preparation of LNMO and its catalytic activity. The kinetic investigation unveiled by the transfer coefficient (&#945;) demonstrated that ORR on the LNMO surface followed a stepwise mechanism, involving an overall two irreversible electron transfer steps, where the first electron transfer was the rate-determining step. The analyses further revealed a diffusion-limited process for ORR accompanied by first-order kinetics with a standard rate constant (k0) of 3.97 &#215; 10&#8211;3 cm s&#8211;1 and a formal potential (E0) value of 0.96 V vs RHE. Finally, a stability test via chronoamperometry showed that LNMO outperformed the Pt/C catalyst.</description>
-      <author>Mohammad Imran Hossain, Syed Abdul Monim, Zannatul Mumtarin Moushumy, Neamul H. Khansur, Iqbal Mahmud, Mostafizur Rahaman, Ali Aldalbahi, Shakhawat H. Firoz, Mohammad A. Hasnat</author>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c02469</guid>
+                The FeFe bio-inspired molecular catalysts that mimic the [FeFe] hydrogenases have been widely studied. However, the hydrogen evolution mechanism on the molecular catalysts is still not fully understood. In this work, the theoretical calculation was linked with experimental catalytic performance to reveal the possible reaction mechanism of FeFe molecular catalysts. The Density Functional Theory (DFT) calculations on the FeFe molecular catalysts exhibited a good match with the experimental overpotential data, with a R2 of 0.592. The detailed DFT study indicated that the first H+/e&#8722; injection was the largest thermodynamic impediment in the whole hydrogen evolution reaction (HER) cycle which follows a proton transfer &#8211; electron transfer (PT-ET) mechanism. The injected hydrogen binds to the bridging position between FeFe centre (&#181;-H) and then transfers to a terminal hydrogen on Fe (t-H). Later, the t-H combines with the second injected hydrogen to form a H2 molecule which is then released from the catalyst. The effect of different ligands on HER was also studied. It was found that different ligands around the FeFe centre could significantly change the PT and ET energy, and some could provide additional binding sites for protons.</description>
+      <author>Siyao Qiu, Aimin Yu, Cheng E. Sun</author>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1071/ch24137</guid>
     </item>
     <item>
-      <title>Evaluation of Machine Learning/Molecular Mechanics End-State Corrections with Mechanical Embedding to Calculate Relative Protein&#8211;Ligand Binding Free Energies</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c01427</link>
-      <description>Johannes Karwounopoulos, M. Bieniek, Zhiyi Wu, Adam L. Baskerville, Gerhard K&#246;nig, Benjamin P. Cossins, Geoffrey P. F. Wood, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4406033300
+      <title>Photocatalytic asymmetric C-C coupling for CO2 reduction on dynamically reconstructed Ru&#948;+-O/Ru0-O sites</title>
+      <link>https://doi.org/10.1038/s41467-025-55885-z</link>
+      <description>Hongguang Zhang, Asfaw G. Yohannes, Heng Zhao, Li Zheng, Yejun Xiao, Xi Cheng, Hui Wang, Zhangkang Li, Samira Siahrostami, Md Golam Kibria, Jinguang Hu, Nature Communications. 16(1)] 2025. https://openalex.org/W4406218936
 
-                The development of machine-learning (ML) potentials offers significant accuracy improvements compared to molecular mechanics (MM) because of the inclusion of quantum-mechanical effects in molecular interactions. However, ML simulations are several times more computationally demanding than MM simulations, so there is a trade-off between speed and accuracy. One possible compromise are hybrid machine learning/molecular mechanics (ML/MM) approaches with mechanical embedding that treat the intramolecular interactions of the ligand at the ML level and the protein&#8211;ligand interactions at the MM level. Recent studies have reported improved protein&#8211;ligand binding free energy results based on ML/MM using ANI-2x with mechanical embedding, arguing that intramolecular interactions like torsion potentials of the ligand are often the limiting factor for accuracy. This claim is evaluated based on 108 relative binding free energy calculations for four different benchmark systems. As an alternative strategy, we also tested a tool that fits the MM dihedral potentials to the ML level of theory. Fitting was performed with the ML potentials ANI-2x and AIMNet2, and, for the benchmark system TYK2, also with quantum-mechanical calculations using &#969;B97M-D3(BJ)/def2-TZVPPD. Overall, the relative binding free energy results from MM with Open Force Field 2.2.0, MM with ML-fitted torsion potentials, and the corresponding ML/MM end-state corrected simulations show no statistically significant differences in the mean absolute errors (between 0.8 and 0.9 kcal mol&#8211;1). This can probably be explained by the usage of the same MM parameters to calculate the protein&#8211;ligand interactions. Therefore, a well-parametrized force field is on a par with simple mechanical embedding ML/MM simulations for protein&#8211;ligand binding. In terms of computational costs, the reparametrization of poor torsional potentials is preferable over employing computationally intensive ML/MM simulations of protein&#8211;ligand complexes with mechanical embedding. Also, the refitting strategy leads to lower variances of the protein&#8211;ligand binding free energy results than the ML/MM end-state corrections. For free energy corrections with ML/MM, the results indicate that better convergence and more advanced ML/MM schemes will be required for applications in computer-guided drug discovery.</description>
-      <author>Johannes Karwounopoulos, M. Bieniek, Zhiyi Wu, Adam L. Baskerville, Gerhard K&#246;nig, Benjamin P. Cossins, Geoffrey P. F. Wood</author>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c01427</guid>
+                Solar-driven CO2 reduction to value-added C2 chemicals is thermodynamically challenging due to multiple complicated steps. The design of active sites and structures for photocatalysts is necessary to improve solar energy efficiency. In this work, atomically dispersed Ru-O sites in RuxIn2-xO3 are constructed by interior lattice anchoring of Ru. This results in the dynamic reconstruction of Ru&#948;+-O/Ru0-O sites upon photoexcitation, which facilitates the CO2 activation, *CO intermediates adsorption, and C-C coupling as demonstrated by varied in situ techniques. A SiO2 core in RuxIn2-xO3/SiO2 construction further enhances the solar energy utilization and individual RuxIn2-xO3 nanocrystals dispersion for photocatalytic CO2 reduction reaction. It results in the maximum ethanol production rate up to 31.6 &#956;mol/g/h with over 90% selectivity. DFT simulation reveals that the C2 dimer formation primarily underwent an asymmetric *CO-*CHO coupling route via a low-energy precedence ladder of *CHO. This work provides an insightful understanding of active sites with dynamic reconstruction towards asymmetric C-C coupling for CO2RR at the atomic scale. Understanding the role of atomic sites in photocatalytic CO2 reduction remains challenging. This study provides insights into dynamic Ru&#948;+-O/Ru0-O pair reconstruction and explores approaches to enhancing intermediate regulation and asymmetric *CO-*CHO coupling for producing C2+ products.</description>
+      <author>Hongguang Zhang, Asfaw G. Yohannes, Heng Zhao, Li Zheng, Yejun Xiao, Xi Cheng, Hui Wang, Zhangkang Li, Samira Siahrostami, Md Golam Kibria, Jinguang Hu</author>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-55885-z</guid>
     </item>
     <item>
-      <title>Developing Dual-Atom Catalysts with Tunable Electron Synergistic Effect via Photoinduced Ligand Exchange Strategy</title>
-      <link>https://doi.org/10.1021/acscatal.4c06059</link>
-      <description>Yamei Pang, Xu Zhang, Pengfei Li, Guang&#8208;Jie Xia, Xupeng Zong, Yichang Liu, Dan Qu, Kun Zheng, Li An, Xiayan Wang, Zaicheng Sun, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406037761
+      <title>Engineering highly selective NO3RR electrocatalysts: Integrating 2D materials with Nb-doped TiN for sustainable ammonia synthesis</title>
+      <link>https://doi.org/10.1016/j.seppur.2025.131524</link>
+      <description>Guoning Feng, Yujie Sun, Ling Ren, Zehui Fang, Xin Chen, Rongjian Sa, Qiaohong Li, Chenghua Sun, Zuju Ma, Separation and Purification Technology. None(None)] 2025. https://openalex.org/W4406229862
 
                 No abstract</description>
-      <author>Yamei Pang, Xu Zhang, Pengfei Li, Guang&#8208;Jie Xia, Xupeng Zong, Yichang Liu, Dan Qu, Kun Zheng, Li An, Xiayan Wang, Zaicheng Sun</author>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06059</guid>
-    </item>
-    <item>
-      <title>Comprehensive Insight Into Electronic Modulation of Rare&#8208;Earth Elements for Enhancing Electrocatalytic Performance of Atomically Dispersed Materials</title>
-      <link>https://doi.org/10.1002/adfm.202423158</link>
-      <description>Yanhui Cao, Xuerong Zheng, Yida Deng, Wenbin Hu, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4406038908
-
-                Abstract Atomically dispersed materials have been a thriving research field due to their maximum atomic utilization and remarkable performance in energy conversion and storage systems. Owing to the large atomic radius, strong oxophilicity, and unique electronic properties, rare&#8208;earth (RE) elements have been widely investigated as oxide carriers and promoters in atomically dispersed materials to manipulate and regulate the electronic structure of active species. Single&#8208;atom state with an adjustable coordination environment on the N&#8208;doped carbon endows RE metals with special electronic states and outstanding catalytic performances. A thorough comprehension of the electronic modulation mechanism of RE elements paves the way for the construction of advanced RE&#8208;based electrocatalysts with high activity, stability, and selectivity. This review provides a widespread insight into the roles of RE elements in modulating the electronic properties of atomically dispersed materials combined with the structure&#8211;performance relationship in electrocatalysis processes. The characteristic physical and chemical properties of RE elements are highlighted, and the synthetic strategy of RE&#8208;based atomically dispersed materials is discussed. Finally, a summary and perspectives for rational design and development of highly efficient RE&#8208;based catalysts are proposed. This review aims to provide a guideline for promoting the rational and effective utilization of RE elements in advanced functional materials.</description>
-      <author>Yanhui Cao, Xuerong Zheng, Yida Deng, Wenbin Hu</author>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202423158</guid>
-    </item>
-    <item>
-      <title>ViPErLEED package I: Calculation of &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;&lt;mml:mrow&gt;&lt;mml:mi&gt;I&lt;/mml:mi&gt;&lt;mml:mo&gt;(&lt;/mml:mo&gt;&lt;mml:mi&gt;V&lt;/mml:mi&gt;&lt;mml:mo&gt;)&lt;/mml:mo&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt; curves and structural optimization</title>
-      <link>https://doi.org/10.1103/physrevresearch.7.013005</link>
-      <description>Florian Kraushofer, Alexander M. Imre, Giada Franceschi, Tilman Ki&#223;linger, Erik Rheinfrank, Michael Schmid, Ulrike Diebold, Lutz Hammer, Michele Riva, Physical Review Research. 7(1)] 2025. https://openalex.org/W4406048601
-
-                Low-energy electron diffraction (LEED) is a widely used technique in surface-science laboratories. Yet, it is rarely used to its full potential. The quantitative information about the surface structure, contained in the modulation of the intensities of the diffracted beams as a function of incident electron energy, LEED I(V), is underutilized. To acquire these data, only minor adjustments would be required in most experimental setups, but existing analysis software is cumbersome to use and often computationally inefficient. The ViPErLEED (Vienna package for Erlangen LEED) project lowers these barriers, introducing a combined solution for user-friendly data acquisition, extraction, and computational analysis. These parts are discussed in three separate publications. Here, the focus is on the computational part of ViPErLEED, which performs highly automated LEED-I(V) calculations and structural optimizations. Minimal user input is required, and the functionality is significantly enhanced compared to existing solutions. Computation is performed by embedding the existing Erlangen tensor-LEED package (). ViPErLEED manages additional parallelization, monitors convergence, and processes all input and output. This makes LEED I(V) more accessible to new users while minimizing the potential for errors and the manual labor. Added functionalities include intelligent structure-dependent defaults for most calculation parameters, automatic detection of bulk and surface symmetries and their relationship, automated search procedures that preserve the symmetry and speed up convergence, adjustments to the code to handle larger systems than before, as well as parallelization and optimization. Modern file formats are used as input and output, and there is a direct interface to the atomic simulation environment (ASE) package. The software is implemented primarily in (version &#8805;3.7) and provided as an open-source package (GNU GPLv3 or any later version). A structure determination of the &#945;-Fe2O3(11&#175;02)&#8722;(1&#215;1) surface is presented as an example for the application of the software. Published by the American Physical Society 2025</description>
-      <author>Florian Kraushofer, Alexander M. Imre, Giada Franceschi, Tilman Ki&#223;linger, Erik Rheinfrank, Michael Schmid, Ulrike Diebold, Lutz Hammer, Michele Riva</author>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevresearch.7.013005</guid>
-    </item>
-    <item>
-      <title>Engineering structure-activity relationships in rhodium-based catalysts for Electrocatalysis</title>
-      <link>https://doi.org/10.1016/j.ccr.2024.216418</link>
-      <description>Juan Bai, Jun Mei, Ting Liao, Ziqi Sun, Coordination Chemistry Reviews. 528(None)] 2025. https://openalex.org/W4406053679
-
-                No abstract</description>
-      <author>Juan Bai, Jun Mei, Ting Liao, Ziqi Sun</author>
-      <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.216418</guid>
-    </item>
-    <item>
-      <title>Understanding the promotional role of Pd in oxidative alcohol coupling reactions over dilute PdAu alloys</title>
-      <link>https://doi.org/10.1016/j.jcat.2025.115942</link>
-      <description>Oluwatofunmi O. Akinsanya, Deep M. Patel, C. R. O'Connor, Marta Perx&#233;s Perich, Jessi E. S. van der Hoeven, C. Reece, Luke T. Roling, Nathaniel M. Eagan, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4406057237
-
-                No abstract</description>
-      <author>Oluwatofunmi O. Akinsanya, Deep M. Patel, C. R. O'Connor, Marta Perx&#233;s Perich, Jessi E. S. van der Hoeven, C. Reece, Luke T. Roling, Nathaniel M. Eagan</author>
+      <author>Guoning Feng, Yujie Sun, Ling Ren, Zehui Fang, Xin Chen, Rongjian Sa, Qiaohong Li, Chenghua Sun, Zuju Ma</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.115942</guid>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2025.131524</guid>
     </item>
     <item>
-      <title>Cross-scale covariance for material property prediction</title>
-      <link>https://doi.org/10.1038/s41524-024-01453-w</link>
-      <description>Benjamin A. Jasperson, Ilia Nikiforov, Amit Samanta, Fei Zhou, Ellad B. Tadmor, Vincenzo Lordi, Vasily V. Bulatov, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4406060145
+      <title>Organic electrolyte cations promote non-aqueous CO2 reduction by mediating interfacial electric fields</title>
+      <link>https://doi.org/10.1038/s41929-024-01278-2</link>
+      <description>Jon-Marc McGregor, Jay T. Bender, Amanda Schramm Petersen, Louise M. Ca&#241;ada, Jan Rossmeisl, Joan F. Brennecke, Joaquin Resasco, Nature Catalysis. None(None)] 2025. https://openalex.org/W4406231824
 
-                A simulation can stand its ground against an experiment only if its prediction uncertainty is known. The unknown accuracy of interatomic potentials (IPs) is a major source of prediction uncertainty, severely limiting the use of large-scale classical atomistic simulations in a wide range of scientific and engineering applications. Here we explore covariance between predictions of metal plasticity, from 178 large-scale (~108 atoms) molecular dynamics (MD) simulations, and a variety of indicator properties computed at small-scales (&#8804;102 atoms). All simulations use the same 178 IPs. In a manner similar to statistical studies in public health, we analyze correlations of strength with indicators, identify the best predictor properties, and build a cross-scale "strength-on-predictors" regression model. This model is then used to estimate regression error over the statistical pool of IPs. Small-scale predictors found to be highly covariant with strength are computed using expensive quantum-accurate calculations and used to predict flow strength, within the statistical error bounds established in our study.</description>
-      <author>Benjamin A. Jasperson, Ilia Nikiforov, Amit Samanta, Fei Zhou, Ellad B. Tadmor, Vincenzo Lordi, Vasily V. Bulatov</author>
-      <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01453-w</guid>
+                No abstract</description>
+      <author>Jon-Marc McGregor, Jay T. Bender, Amanda Schramm Petersen, Louise M. Ca&#241;ada, Jan Rossmeisl, Joan F. Brennecke, Joaquin Resasco</author>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01278-2</guid>
+    </item>
+    <item>
+      <title>Inverse catalysts: tuning the composition and structure of oxide clusters through the metal support</title>
+      <link>https://doi.org/10.1038/s41524-024-01507-z</link>
+      <description>L. Kempen, Mie Andersen, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4406233749
+
+                Computational modeling of metal&#8211;oxide interfaces is challenging due to the large search space of compositions and structures and the complexity of catalyst materials under operating conditions in general. In this work, we develop an efficient structure search workflow to discover chemically unique and relevant nanocluster geometries of inverse catalysts and apply it to ZnyOx and InyOx on Cu(111), Pd(111), and Au(111). We show that the workflow is successful in obtaining a large range of chemically distinct structures. Structural geometry trends are identified, including stable motifs such as tripod, rhombus, and pyramidal motifs. Using ab initio thermodynamics, we explore the in situ stability of the structures, including single-atom alloys, at a range of oxygen availabilities. This approach allows us to find trends such as the susceptibility to oxidation of the different systems and the range of stability of different cluster motifs. Our analysis highlights the importance of taking the diversity of sites exposed by metal&#8211;oxide interfaces into account in catalyst design studies.</description>
+      <author>L. Kempen, Mie Andersen</author>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01507-z</guid>
+    </item>
+    <item>
+      <title>Engineering Metal Nanoclusters at the Atomic Level for Effective Electrocatalysis</title>
+      <link>https://doi.org/10.1002/smm2.1317</link>
+      <description>Chuan Mu, Zhihe Liu, Qiaofeng Yao, Qian He, Jianping Xie, SmartMat. 6(1)] 2025. https://openalex.org/W4406234847
+
+                ABSTRACT With the advances of nanochemistry in the past several decades, a diverse set of nanomaterials has been developed as electrocatalysts with enhanced activity, selectivity, and durability for electrocatalytic reactions. However, it has remained as a long challenge to systematically understand the mechanism of electrocatalytic reactions, which involves multiple protons&#8208;coupled electron transfer processes and varied products at the atomic level, intrinsically because of the complexity and polydispersity of the traditional nanomaterials. By sharp contrast, ligand&#8208;protected metal nanoclusters (NCs) possess atomically precise structures and abundant active sites, facilitating their applications as effective model electrocatalysts for revealing the mechanism of electrocatalytic reactions. This review summarizes recent progress in atom&#8208;level engineering of metal NCs as model catalysts for electrocatalytic reactions. Specifically, we first discuss the effects of metal composition engineering, including doping and size effects, on the electrocatalytic performance of metal NCs. Then similar electrocatalytic discussion extends to ligand effects of metal NCs, where ligand type and coverage engineering are deciphered. Moreover, we discuss how the overall charge and morphology of NCs modify their electrocatalytic performance. The fundamental and methodological insights summarized in this review should serve as useful references guiding the future development of effective metal electrocatalysts in diverse sectors of industry.</description>
+      <author>Chuan Mu, Zhihe Liu, Qiaofeng Yao, Qian He, Jianping Xie</author>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smm2.1317</guid>
     </item>
     <item>
       <title>Doping La into NiFe LDH/NiS heterostructure achieving high-current-density oxygen evolution for anion exchange membrane water electrolysis</title>
@@ -458,16 +428,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.01.017</guid>
     </item>
     <item>
-      <title>Atomically Dispersed Metal&#8211;Nitrogen&#8211;Carbon Catalysts for Acidic Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acsami.4c16972</link>
-      <description>Xiang Ao, Haoran Wang, Xia Zhang, Chundong Wang, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4406058102
-
-                Designing efficient and cost-effective electrocatalysts toward oxygen reduction reaction (ORR) under demanding acidic environments plays a critical role in advancing proton exchange membrane fuel cells (PEMFCs). Metal&#8211;nitrogen&#8211;carbon (M&#8211;N&#8211;C) catalysts with atomically dispersed metals have gained attention for their affordability, excellent catalytic performance, and distinctive features including consistent active sites and high atomic utilization. Over the past decade, significant achievements have been made in this field. This review offers a comprehensive summary of the latest developments in atomically dispersed M&#8211;N&#8211;C catalysts for ORR in acidic environments along with their applications in PEMFCs. The ORR mechanisms, PEMFC configuration, and operational principles are presented first, followed by an in-depth discussion of strategies to improve the activity and stability of the PEMFC using atomically dispersed M&#8211;N&#8211;C catalysts at the cathode. Lastly, this review highlights the unresolved challenges and proposes future research pathways for advancing high-performance atomically dispersed M&#8211;N&#8211;C catalysts and PEMFCs.</description>
-      <author>Xiang Ao, Haoran Wang, Xia Zhang, Chundong Wang</author>
-      <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c16972</guid>
-    </item>
-    <item>
       <title>High content Fe(III) electrocatalyst for the oxygen reduction and evolution reactions. Spectroscopic, electrochemical, and theoretical insights</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.12.385</link>
       <description>C&#233;sar Z&#250;&#241;iga Loyola, Andrea Zitolo, Nicol&#225;s Troncoso, Jesus Carrasco, Sergio Choque, Gabriel Abarca, Jos&#233; H. Zagal, Walter Orellana, Federico Tasca, International Journal of Hydrogen Energy. 101(None)] 2025. https://openalex.org/W4406074461
@@ -488,14 +448,14 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c04163</guid>
     </item>
     <item>
-      <title>Efficient Sampling for Machine Learning Electron Density and Its Response in Real Space</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c01355</link>
-      <description>Chaoqiang Feng, Yaolong Zhang, Bin Jiang, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4406051705
+      <title>Recent Advances on Carbon Capture and Electrochemical CO2 Reduction with Amphiphile Surfactants and Polymers</title>
+      <link>https://doi.org/10.1016/j.jece.2025.115394</link>
+      <description>Fentahun Wondu Dagnaw, Ruiqi Li, Yilin Xie, Qing&#8208;Xiao Tong, Jing&#8208;Xin Jian, Journal of environmental chemical engineering. None(None)] 2025. https://openalex.org/W4406213677
 
-                Electron density is a fundamental quantity that can in principle determine all ground state electronic properties of a given system. Although machine learning (ML) models for electron density based on either an atom-centered basis or a real-space grid have been proposed, the demand for a number of high-order basis functions or grid points is enormous. In this work, we propose an efficient grid-point sampling strategy that combines targeted sampling favoring a large density and a screening of grid points associated with linearly independent atomic features. This new sampling strategy is integrated with a field-induced recursively embedded atom neural network model to develop a real-space grid-based ML model for the electron density and its response to an electric field. This approach is applied to a QM9 molecular data set, a H2O/Pt(111) interfacial system, an Au(100) electrode, and an Au nanoparticle under an electric field. The number of training points is found to be much smaller than previous models, while yielding comparably accurate predictions for the electron density of the entire grid. The resultant machine-learned electron density model enables us to properly partition partial charge onto each atom and analyze the charge variation upon proton transfer in the H2O/Pt(111) system. The machine-learning electronic response model allows us to predict charge transfer and the electrostatic potential change induced by an electric field applied to an Au(100) electrode or an Au nanoparticle.</description>
-      <author>Chaoqiang Feng, Yaolong Zhang, Bin Jiang</author>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c01355</guid>
+                No abstract</description>
+      <author>Fentahun Wondu Dagnaw, Ruiqi Li, Yilin Xie, Qing&#8208;Xiao Tong, Jing&#8208;Xin Jian</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2025.115394</guid>
     </item>
     <item>
       <title>SurFF: Universal Model for Surface Exposure and Synthesizability Across Intermetallic Crystals</title>
