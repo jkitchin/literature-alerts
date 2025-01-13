@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Jan 2025 01:35:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 01:25:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -100,11 +100,11 @@
     <item>
       <title>Anchoring ordered PtZn nanoparticles on MOF-derived carbon support for efficient oxygen reduction reaction in proton exchange membrane fuel cells</title>
       <link>https://doi.org/10.1016/j.cej.2025.159350</link>
-      <description>KwangHo Lee, Eoyoon Lee, HyunWoo Chang, JeongHan Roh, SangJae Lee, Junu Bak, YongKeun Kwon, Hyung Chul Ham, EunAe Cho, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4406117532
+      <description>KwangHo Lee, Eoyoon Lee, HyunWoo Chang, JeongHan Roh, SangJae Lee, Junu Bak, YongKeun Kwon, Hyung Chul Ham, EunAe Cho, Chemical Engineering Journal. 505(None)] 2025. https://openalex.org/W4406117532
 
                 No abstract</description>
       <author>KwangHo Lee, Eoyoon Lee, HyunWoo Chang, JeongHan Roh, SangJae Lee, Junu Bak, YongKeun Kwon, Hyung Chul Ham, EunAe Cho</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.159350</guid>
     </item>
     <item>
@@ -388,54 +388,94 @@
       <guid isPermaLink="true">https://doi.org/10.1002/smm2.1317</guid>
     </item>
     <item>
-      <title>Doping La into NiFe LDH/NiS heterostructure achieving high-current-density oxygen evolution for anion exchange membrane water electrolysis</title>
-      <link>https://doi.org/10.1016/j.cej.2024.157526</link>
-      <description>Qi Song, Kangnan Li, Zhenhua Cao, Mi Yang, Qian Kong, Gang He, Hongyu Liu, Qian Qiao, Liangzhong Yao, Yufan Wang, Xiaoping Dai, Xin Zhang, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4406069455
+      <title>Nonprecious Triple-Atom Catalysts with Ultrahigh Activity for Electrochemical Reduction of Nitrate to Ammonia: A DFT Screening</title>
+      <link>https://doi.org/10.1021/acsami.4c17726</link>
+      <description>Xiangyi Zhou, Mohsen Tamtaji, Weijun Zhou, William A. Goddard, GuanHua Chen, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4406242426
 
-                No abstract</description>
-      <author>Qi Song, Kangnan Li, Zhenhua Cao, Mi Yang, Qian Kong, Gang He, Hongyu Liu, Qian Qiao, Liangzhong Yao, Yufan Wang, Xiaoping Dai, Xin Zhang</author>
+                Electrochemical nitrate reduction to ammonia (NO3RR) is promising to not only tackle environmental issues caused by nitrate but also produce ammonia at room temperatures. However, two critical challenges are the lack of effective electrocatalysts and the understanding of related reaction mechanisms. To overcome these challenges, we employed first-principles calculations to thoroughly study the performance and mechanisms of triple-atom catalysts (TACs) composed of transition metals (including 27 homonuclear TACs and 4 non-noble bimetallic TACs) anchored on N-doped carbon (NC). We found five promising candidates possessing not only thermodynamic and electrochemical stability, but also high activity and selectivity for ammonia production. Among them, non-noble homonuclear Ni3@NC TAC show high activity with low theoretical limiting potential of &#8722;0.31 VRHE. Surprisingly, bimetallic Co2Ni@NC, Co2Cu@NC, and Fe2Ni@NC TACs show ultrahigh activity with theoretical limiting potentials of 0.00 VRHE, without a potential determining step in the whole reaction pathways, representing the best theoretical activity been reported up to date. These promising candidates are facilitated by circumventing the limit of scaling relationships, a well-known obstacle for single-atom catalysts. This study indicates that designing suitable TACs can be a promising strategy for efficiently electro-catalyzing NO3RR and breaking the limit of the scaling relationship.</description>
+      <author>Xiangyi Zhou, Mohsen Tamtaji, Weijun Zhou, William A. Goddard, GuanHua Chen</author>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c17726</guid>
+    </item>
+    <item>
+      <title>Bimetallic Selenide NiCo&#8208;Se/CFP as Effective Oxygen Evolution Reaction Electrocatalyst for Electrocatalytic Water Splitting</title>
+      <link>https://doi.org/10.1002/slct.202405201</link>
+      <description>Yajie Guo, Mengwei Wang, Cong Zhang, Kelun Jia, F. Niu, Ke Wang, ChemistrySelect. 10(2)] 2025. https://openalex.org/W4406243837
+
+                Abstract The industrial application of green hydrogen production from water electrolysis strongly depends on the invention of low&#8208;cost, highly&#8208;active, and stable nonprecious electrocatalysts for an oxygen evolution reaction (OER). In this work, a two&#8208;step process is developed to prepare a NiCo&#8208;Se/CFP bimetallic electrocatalyst by a low&#8208;temperature selenization of NiCo&#8208;PBA precursors electro&#8208;deposited on carbon fibre paper. The NiCo&#8208;Se/CFP bimetallic electrocatalyst exhibits good catalytic activity for the OER, with an overpotential of 307 mV at 10 mA cm &#8722;2 , and a Tafel slope of only 39.94 mV dec &#8722;1 in 1 M KOH. The steady current density and well&#8208;preserved microscopic morphology during the 20 h electrolysis proves its outstanding stability. The high inherent activity of the electrocatalyst is attributed to the 3D porous structure, the synergistic effects of Ni, and Co active components doping, and low&#8208;temperature selenization. The results provide an insightful reference for further improving composition and structure design while investigating nonprecious metal electrocatalysts.</description>
+      <author>Yajie Guo, Mengwei Wang, Cong Zhang, Kelun Jia, F. Niu, Ke Wang</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.157526</guid>
+      <guid isPermaLink="true">https://doi.org/10.1002/slct.202405201</guid>
     </item>
     <item>
-      <title>Polarization switching-controlled oxygen evolution and reduction reactions for ferroelectric single-atom catalysts</title>
-      <link>https://doi.org/10.1016/j.cej.2025.159247</link>
-      <description>Wenqing Li, Hongyu Zhang, Ruoyan Xu, Xingxing Jiang, Haiyu Meng, Xiong&#8208;Xiong Xue, Shengli Zhang, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4406069716
+      <title>Valence Electron: A Descriptor of Spinel Sulfides for Sulfur Reduction Catalysis</title>
+      <link>https://doi.org/10.1002/adma.202418090</link>
+      <description>Zihan Shen, Pengfei Song, Wen Xie, Leonhard Tannesia, Kai Tang, Yuanmiao Sun, Shibo Xi, Zhichuan J. Xu, Advanced Materials. None(None)] 2025. https://openalex.org/W4406247049
+
+                Abstract Catalysts are essential for achieving high&#8208;performance lithium&#8211;sulfur batteries. The precise design and regulation of catalytic sites to strengthen their efficiency and robustness remains challenging. In this study, spinel sulfides and catalyst design principles through element doping are investigated. This research highlights the distinct role of lattice sulfur sites in lithium polysulfide conversion and emphasizes the differences in catalytic activity between metal and anion sites. The valence electron model as a descriptor can characterize catalytic performance, guiding the design of a (FeCo) 3 (PS) 4 catalyst co&#8208;doped with cation and anion. The (FeCo) 3 (PS) 4 exhibits the highest catalytic performance among spinel catalysts to data, particularly under high sulfur loading conditions. It achieves an initial specific capacity of 1205.9 mAh g &#8722;1 (6.1 mAh cm &#8722;2 ) at a sulfur loading of 5 mg cm &#8722;2 and 1192.7 mAh g &#8722;1 (11.9 mAh cm &#8722;2 ) at 10 mg cm &#8722;2 , demonstrating excellent electrocatalytic performance.</description>
+      <author>Zihan Shen, Pengfei Song, Wen Xie, Leonhard Tannesia, Kai Tang, Yuanmiao Sun, Shibo Xi, Zhichuan J. Xu</author>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202418090</guid>
+    </item>
+    <item>
+      <title>Promotion or inhibition? The effects of adsorbed oxygen species on methane activation over dilute alloys</title>
+      <link>https://doi.org/10.1016/j.apsusc.2025.162358</link>
+      <description>Shuyun Zhou, Xin-Ying Lin, Juan Li, Rong Jiang, Sen Lin, Applied Surface Science. None(None)] 2025. https://openalex.org/W4406269143
 
                 No abstract</description>
-      <author>Wenqing Li, Hongyu Zhang, Ruoyan Xu, Xingxing Jiang, Haiyu Meng, Xiong&#8208;Xiong Xue, Shengli Zhang</author>
+      <author>Shuyun Zhou, Xin-Ying Lin, Juan Li, Rong Jiang, Sen Lin</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.159247</guid>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162358</guid>
     </item>
     <item>
-      <title>Screening van der Waals transition metal carbo-selenide MXenes as efficient electrocatalysts for hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.12.295</link>
-      <description>Chen Zhou, Renfei Cheng, Junchao Wang, Min Zhao, Lijun Ren, Tao Hu, Xiaohui Wang, Chunxian Guo, International Journal of Hydrogen Energy. 101(None)] 2025. https://openalex.org/W4406074415
+      <title>Carbon-modified multicomponent-doped Cr2O3 oxide: An efficient and ultra stable electrocatalyst for oxygen evolution reaction and water splitting</title>
+      <link>https://doi.org/10.1016/j.jelechem.2025.118937</link>
+      <description>Zeyu Jin, Yuelin Wang, Linshan Zhu, Jingzi Zhang, Xi Lin, Journal of Electroanalytical Chemistry. None(None)] 2025. https://openalex.org/W4406270045
 
                 No abstract</description>
-      <author>Chen Zhou, Renfei Cheng, Junchao Wang, Min Zhao, Lijun Ren, Tao Hu, Xiaohui Wang, Chunxian Guo</author>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.295</guid>
-    </item>
-    <item>
-      <title>Mesoporous Co-MoS2 with sulfur vacancies: A bifunctional electrocatalyst for enhanced water-splitting reactions in alkaline media</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.01.017</link>
-      <description>Hongmei Wu, Yao Zhang, Baoshan Liu, Jing Liu, Liping Zhao, Peng Zhang, Lian Gao, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4406074619
-
-                No abstract</description>
-      <author>Hongmei Wu, Yao Zhang, Baoshan Liu, Jing Liu, Liping Zhao, Peng Zhang, Lian Gao</author>
+      <author>Zeyu Jin, Yuelin Wang, Linshan Zhu, Jingzi Zhang, Xi Lin</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.01.017</guid>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2025.118937</guid>
     </item>
     <item>
-      <title>High content Fe(III) electrocatalyst for the oxygen reduction and evolution reactions. Spectroscopic, electrochemical, and theoretical insights</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.12.385</link>
-      <description>C&#233;sar Z&#250;&#241;iga Loyola, Andrea Zitolo, Nicol&#225;s Troncoso, Jesus Carrasco, Sergio Choque, Gabriel Abarca, Jos&#233; H. Zagal, Walter Orellana, Federico Tasca, International Journal of Hydrogen Energy. 101(None)] 2025. https://openalex.org/W4406074461
+      <title>Precise Modulation of Moni4/Moo2 Nanowires Via a Ternary Nicofe Complex for Enhanced Electrochemical Overall Water Splitting</title>
+      <link>https://doi.org/10.2139/ssrn.5093560</link>
+      <description>Peng Zuo, Fanfan Liu, Fuyan Zhao, Xiaofei Zhang, Yun Li, Kaiqin Xu, Fang Xiaowei, Zhiwei Zhang, Yun Shen, Jinyun Liu, Yefeng Liu, No host. None(None)] 2025. https://openalex.org/W4406275085
+
+                Developing clean and renewable energy technologies requires the design of efficient bifunctional catalysts that do not rely on inert metals for electrochemical water splitting. This study introduced a novel three-step strategy to fabricate NiCoFe-modified MoNi4/MoO2 nanowires supported on nickel foam substrates (denoted as NiCoFe-MoNi4/MoO2/NF), which demonstrate excellent catalytic performance with an impressively low overpotential of just 13 mV at 10 mA&#183;cm&#8211;2 current density for the hydrogen evolution reaction (HER) and 230 mV at 50 mA&#183;cm&#8211;2 for the oxygen evolution reaction (OER). Notably, its performance greatly exceeded that of many noble-metal catalysts, requiring only 1.51 V for overall water splitting at 50 mA&#183;cm&#8211;2 current density. The exceptional catalytic efficiency is ascribed to the unique one-dimensional (1D) nanostructure and the synergistic interactions between the NiCoFe complex and the MoNi4/MoO2 framework, which improve mass transfer, increase active site exposure, and enhance intrinsic catalytic activity. The incorporation of cobalt (Co) and iron (Fe) into the ternary complex significantly enhanced the efficiencies of both HER and OER, offering a promising route for developing high-performance, low-cost bifunctional electrocatalysts and advancing sustainable energy conversion technologies.</description>
+      <author>Peng Zuo, Fanfan Liu, Fuyan Zhao, Xiaofei Zhang, Yun Li, Kaiqin Xu, Fang Xiaowei, Zhiwei Zhang, Yun Shen, Jinyun Liu, Yefeng Liu</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5093560</guid>
+    </item>
+    <item>
+      <title>Screening of single-atomic catalysts loaded on two-dimensional transition metal dichalcogenides for electrocatalytic oxygen reduction via high throughput ab initio calculations</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.01.060</link>
+      <description>Hao Sun, Liyao Gao, Yizhe Li, Qingzhen Xu, Yaping Li, Wenjun Liu, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4406276034
 
                 No abstract</description>
-      <author>C&#233;sar Z&#250;&#241;iga Loyola, Andrea Zitolo, Nicol&#225;s Troncoso, Jesus Carrasco, Sergio Choque, Gabriel Abarca, Jos&#233; H. Zagal, Walter Orellana, Federico Tasca</author>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.385</guid>
+      <author>Hao Sun, Liyao Gao, Yizhe Li, Qingzhen Xu, Yaping Li, Wenjun Liu</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.01.060</guid>
+    </item>
+    <item>
+      <title>Research progress on NiCo-LDH electrocatalysts for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.01.035</link>
+      <description>Yubo Zhang, Zhe Zhang, Xiaoxuan Zhang, Jinsheng Li, Rui Guo, International Journal of Hydrogen Energy. 102(None)] 2025. https://openalex.org/W4406279417
+
+                No abstract</description>
+      <author>Yubo Zhang, Zhe Zhang, Xiaoxuan Zhang, Jinsheng Li, Rui Guo</author>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.01.035</guid>
+    </item>
+    <item>
+      <title>Theoretical prediction of metal-doped high C/N-ratio C N3 (x=7, 10, 13, 19) as single-atom catalysts for CO2RR</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114808</link>
+      <description>Haoyang Qiu, Huohai Yang, Qigang Chen, Manxi Leng, Xu Yang, Xin Chen, Molecular Catalysis. 573(None)] 2025. https://openalex.org/W4406280512
+
+                No abstract</description>
+      <author>Haoyang Qiu, Huohai Yang, Qigang Chen, Manxi Leng, Xu Yang, Xin Chen</author>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114808</guid>
     </item>
     <item>
       <title>Insights into the Impact of Trace SO&lt;sub&gt;2&lt;/sub&gt; on Amine Absorbents for Chemical Absorption of CO&lt;sub&gt;2&lt;/sub&gt;</title>

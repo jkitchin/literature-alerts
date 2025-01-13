@@ -1,10 +1,21 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Sun Jan 12 01:35:13 2025
+Created on Mon Jan 13 01:25:00 2025
 
-Found 6 results from 2025-01-05 to 2025-01-12
+Found 10 results from 2025-01-06 to 2025-01-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
+
+## Does one need to polish electrodes in an eight pattern? Automation provides the answer   
+
+OpenAlex: https://openalex.org/W4406246894    
+Open access: True
+    
+[Naruki Yoshikawa](https://openalex.org/A5019451422), [Gun Deniz Akkoc](https://openalex.org/A5030325510), [Sergio Pablo‐García](https://openalex.org/A5024019148), [Yang Cao](https://openalex.org/A5075998492), [Han Hao](https://openalex.org/A5091838472), [Alán Aspuru‐Guzik](https://openalex.org/A5071495561), Digital Discovery. None(None)] 2025.https://doi.org/10.1039/d4dd00323c.
+    
+Automation of electrochemical measurements can accelerate the discovery of new electroactive materials.    
+
+    
 
 ## Advancing Predictive Toxicology: Overcoming Hurdles and Shaping the Future   
 
@@ -69,5 +80,38 @@ Open access: True
 [Kangyong Ma](https://openalex.org/A5027882101), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00398e.
     
 This work utilizes collected and organized instructional data from the field of chemical science to fine-tune mainstream open-source large language models. To objectively evaluate the performance of the fine-tuned models,...    
+
+    
+
+## Automated computational workflows for muon spin spectroscopy   
+
+OpenAlex: https://openalex.org/W4406242505    
+Open access: True
+    
+[Ifeanyi John Onuorah](https://openalex.org/A5010550416), [Miki Bonacci](https://openalex.org/A5037070211), [Muhammad Maikudi Isah](https://openalex.org/A5003221861), [Marcello Mazzani](https://openalex.org/A5089472015), [R. De Renzi](https://openalex.org/A5084296689), [Giovanni Pizzi](https://openalex.org/A5012427316), [Pietro Bonfà](https://openalex.org/A5018328574), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00314d.
+    
+Positive muon spin rotation and relaxation spectroscopy is a well established experimental technique for studying materials. It provides a local probe that generally complements scattering techniques in the study of...    
+
+    
+
+## General Data Management Workflow to Process Tabular Data in Automated and High-throughput Heterogeneous Catalysis Research   
+
+OpenAlex: https://openalex.org/W4406248117    
+Open access: True
+    
+[Erwin Lam](https://openalex.org/A5073457373), [Tanguy Maury](https://openalex.org/A5114490831), [Stefan Preiss](https://openalex.org/A5063881861), [Yuhui Hou](https://openalex.org/A5022762260), [Hannes Frey](https://openalex.org/A5003189899), [Caterina Barillari](https://openalex.org/A5060271697), [Paco Laveille](https://openalex.org/A5088716942), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00350k.
+    
+Data management and processing are crucial steps to implement streamlined and standardized data workflows for automated and high-throughput laboratories. Electronic laboratory notebooks (ELNs) have proven to be effective to manage...    
+
+    
+
+## Predicting hydrogen atom transfer energy barriers using Gaussian process regression   
+
+OpenAlex: https://openalex.org/W4406276896    
+Open access: True
+    
+[E. A. Ulanov](https://openalex.org/A5073745178), [Ghulām Qādir](https://openalex.org/A5045362682), [Kai Riedmiller](https://openalex.org/A5010766564), [Pascal Friederich](https://openalex.org/A5052771582), [Frauke Gräter](https://openalex.org/A5054677759), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00174e.
+    
+Predicting reaction barriers for arbitrary configurations based on only a limited set of density functional theory (DFT) calculations would render the design of catalysts or the simulation of reactions within...    
 
     

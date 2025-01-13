@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Jan 2025 01:35:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 01:25:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Does one need to polish electrodes in an eight pattern? Automation provides the answer</title>
+      <link>https://doi.org/10.1039/d4dd00323c</link>
+      <description>Naruki Yoshikawa, Gun Deniz Akkoc, Sergio Pablo&#8208;Garc&#237;a, Yang Cao, Han Hao, Al&#225;n Aspuru&#8208;Guzik, Digital Discovery. None(None)] 2025. https://openalex.org/W4406246894
+
+                Automation of electrochemical measurements can accelerate the discovery of new electroactive materials.</description>
+      <author>Naruki Yoshikawa, Gun Deniz Akkoc, Sergio Pablo&#8208;Garc&#237;a, Yang Cao, Han Hao, Al&#225;n Aspuru&#8208;Guzik</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00323c</guid>
+    </item>
     <item>
       <title>Advancing Predictive Toxicology: Overcoming Hurdles and Shaping the Future</title>
       <link>https://doi.org/10.1039/d4dd00257a</link>
@@ -66,6 +76,36 @@
       <author>Kangyong Ma</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00398e</guid>
+    </item>
+    <item>
+      <title>Automated computational workflows for muon spin spectroscopy</title>
+      <link>https://doi.org/10.1039/d4dd00314d</link>
+      <description>Ifeanyi John Onuorah, Miki Bonacci, Muhammad Maikudi Isah, Marcello Mazzani, R. De Renzi, Giovanni Pizzi, Pietro Bonf&#224;, Digital Discovery. None(None)] 2024. https://openalex.org/W4406242505
+
+                Positive muon spin rotation and relaxation spectroscopy is a well established experimental technique for studying materials. It provides a local probe that generally complements scattering techniques in the study of...</description>
+      <author>Ifeanyi John Onuorah, Miki Bonacci, Muhammad Maikudi Isah, Marcello Mazzani, R. De Renzi, Giovanni Pizzi, Pietro Bonf&#224;</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00314d</guid>
+    </item>
+    <item>
+      <title>General Data Management Workflow to Process Tabular Data in Automated and High-throughput Heterogeneous Catalysis Research</title>
+      <link>https://doi.org/10.1039/d4dd00350k</link>
+      <description>Erwin Lam, Tanguy Maury, Stefan Preiss, Yuhui Hou, Hannes Frey, Caterina Barillari, Paco Laveille, Digital Discovery. None(None)] 2024. https://openalex.org/W4406248117
+
+                Data management and processing are crucial steps to implement streamlined and standardized data workflows for automated and high-throughput laboratories. Electronic laboratory notebooks (ELNs) have proven to be effective to manage...</description>
+      <author>Erwin Lam, Tanguy Maury, Stefan Preiss, Yuhui Hou, Hannes Frey, Caterina Barillari, Paco Laveille</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00350k</guid>
+    </item>
+    <item>
+      <title>Predicting hydrogen atom transfer energy barriers using Gaussian process regression</title>
+      <link>https://doi.org/10.1039/d4dd00174e</link>
+      <description>E. A. Ulanov, Ghul&#257;m Q&#257;dir, Kai Riedmiller, Pascal Friederich, Frauke Gr&#228;ter, Digital Discovery. None(None)] 2024. https://openalex.org/W4406276896
+
+                Predicting reaction barriers for arbitrary configurations based on only a limited set of density functional theory (DFT) calculations would render the design of catalysts or the simulation of reactions within...</description>
+      <author>E. A. Ulanov, Ghul&#257;m Q&#257;dir, Kai Riedmiller, Pascal Friederich, Frauke Gr&#228;ter</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00174e</guid>
     </item>
   </channel>
 </rss>

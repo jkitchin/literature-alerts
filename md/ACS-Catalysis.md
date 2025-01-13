@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Jan 12 01:35:11 2025
+Created on Mon Jan 13 01:24:58 2025
 
-Found 27 results from 2025-01-05 to 2025-01-12
+Found 29 results from 2025-01-06 to 2025-01-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -57,7 +57,7 @@ Open access: False
     
 [Zhuqing Wang](https://openalex.org/A5054920721), [Jiahui Li](https://openalex.org/A5100462957), [Xueyun Wang](https://openalex.org/A5062410995), [Bo Jin](https://openalex.org/A5060620859), [Liwei Zhou](https://openalex.org/A5084841107), [Zili Zhao](https://openalex.org/A5102383496), [Meijia Gu](https://openalex.org/A5020709314), [Xuemin Song](https://openalex.org/A5036190073), [Jiahong Wang](https://openalex.org/A5100684692), [Zixin Deng](https://openalex.org/A5100781047), [Shuwen Wu](https://openalex.org/A5025332853), [Zhengyu Zhang](https://openalex.org/A5100601494), [Wenqing Chen](https://openalex.org/A5100628712), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06506.
     
-No abstract    
+3′-O-β-Glucosyl purine-related nucleosides are actinobacterial natural products with intricate structures, in which the glucosyl attachment to a nucleoside scaffold is governed by a glycosyltransferase. However, the molecular logic and engineered application of the glycosyltransferase have nearly remained unexplored. Here, we report the discovery, characterization, and exploitation of the thermophilic glycosyltransferase ScaGT. We uncover that ScaGT and its homologue AvpGT indicate prominent promiscuity against both sugar donors and a variety of nucleosides. Remarkably, we have solved the ternary complex structure of AvpGT, unveiling that it employs an unpreceded "twin-tyrosine gate" mechanism for substrate recognition and promiscuity, and we have also realized directed biosynthesis of diversified purine nucleoside analogues with unexpectedly enhanced titer via introduction of the external scaGT or avpGT. Moreover, we reveal that 3′-O-β-glucosyl ribavirin exhibits significantly enhanced antiviral activities, thereof showing its promising application potentials. Finally, we have further achieved the gram-scale production of 3′-O-β-glucosyl ribavirin by both biocatalytic and fermentation-feeding strategies. These findings expand the biochemical repertoire regarding glycosyltransferase reactions and provide the basis for rapid mining and rational engineering of more related glycosyltransferases toward synthetic biology applications.    
 
     
 
@@ -99,9 +99,9 @@ No abstract
 OpenAlex: https://openalex.org/W4406133755    
 Open access: False
     
-[Jun Wu](https://openalex.org/A5043504784), [Yaxuan Du](https://openalex.org/A5071717370), [Xiejun Wang](https://openalex.org/A5016185530), [Fuying Zhao](https://openalex.org/A5101054008), [Mingxuan Zhu](https://openalex.org/A5091774768), [Jing Ma](https://openalex.org/A5089996806), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06638.
+[Jun Wu](https://openalex.org/A5100696276), [Yaxuan Du](https://openalex.org/A5071717370), [Xiejun Wang](https://openalex.org/A5016185530), [Fuying Zhao](https://openalex.org/A5101054008), [Mingxuan Zhu](https://openalex.org/A5091774768), [Jing Ma](https://openalex.org/A5089996806), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06638.
     
-No abstract    
+Converting CO2 into valuable chemicals is an effective way to alleviate the high level of global CO2. The cycloaddition reaction of CO2 and propylene oxide (PO) has atomic economy and has the advantage of environmental friendliness compared with the traditional phosgene method of propylene carbonate (PC). Due to the chemical inertness of CO2, catalysts are needed to make the reaction proceed smoothly. Through rational design, a multifunctional catalyst that combines the activation sites and attack sites of PO and the adsorption sites of CO2 can be formed. At the same time, the use of harmful substances can be reduced by catalyst design, making the catalytic process more environmentally friendly. In this work, we discuss the research progress of the synthesis of PC from CO2 and PO. Starting from the reaction mechanism, the catalytic system of the reaction is summarized from the perspective of catalyst design. In homogeneous catalysts, the focus is on the effect of catalyst composition on catalytic performance. In heterogeneous catalysts, the focus is on the process of heterogenization (preparation methods), including supported, confined, and polymerized heterogeneous catalysts. In addition, the promising photocatalysis and biomass catalysis are especially introduced. Finally, in order to make the experimental results move toward industrial production, several problems existing in the industrialization are discussed, including production equipment, the influence of the CO2 source, and product/catalyst separation.    
 
     
 
@@ -222,7 +222,7 @@ Open access: False
     
 [Yukun Bai](https://openalex.org/A5102283975), [Yuanbao Zhang](https://openalex.org/A5078898024), [Jianhua Hu](https://openalex.org/A5100781690), [Li Jiang](https://openalex.org/A5101444480), [Shaolong Wan](https://openalex.org/A5039790894), [Jingdong Lin](https://openalex.org/A5045372639), [Yong Wang](https://openalex.org/A5100424488), [Shuai Wang](https://openalex.org/A5100328291), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06966.
     
-No abstract    
+Understanding the roles of coadsorbates on crowded catalytic surfaces is critical to optimizing industrial catalysts that are generally employed under high-pressure conditions. For ammonia synthesis from N2 hydrogenation (i.e., the Haber–Bosch process), it is well-known that supported Ru catalysts tend to be highly covered by atomic H species, while the impact of these H species on N2 activation is still under controversy. Herein, kinetic assessment, isotopic labeling experiments, and in situ spectroscopic characterization were combined to investigate the mechanism of ammonia synthesis on Ru/CeO2 catalysts with their structure tuned via thermal treatments. Our experimental approaches reveal that the dominant H* surface species limit the availability of vacant Ru sites for the widely proposed direct N2 dissociation route but instead lead to the prevalence of the H-assisted N2 dissociation route with the N–N cleavage in N2H* intermediates as a kinetically relevant step. Effects of Ru particle size and Ru–CeO2 interaction on the catalytic activity were kinetically deconvoluted in accordance with this H-assisted mechanism, unveiling their decisive influences on intrinsic activity and surface coverage, respectively. Driven by these fundamental insights gained from the working conditions, superior ammonia formation rates were achieved for supported Ru catalysts via optimizing Ru particle size and metal–support interaction collaboratively.    
 
     
 
@@ -233,7 +233,7 @@ Open access: False
     
 [Tonghui Zhao](https://openalex.org/A5037064171), [Guangjin Wang](https://openalex.org/A5102751314), [Dongdong Xiao](https://openalex.org/A5101846257), [Min Young Song](https://openalex.org/A5103217976), [Yanmin Hu](https://openalex.org/A5050705685), [Tingting Chao](https://openalex.org/A5017926967), [Yapeng Li](https://openalex.org/A5100404467), [Zedong Zhang](https://openalex.org/A5035786530), [Yun Lu](https://openalex.org/A5019388394), [Mingxing Gong](https://openalex.org/A5022215689), [Tao Shen](https://openalex.org/A5100611244), [Deli Wang](https://openalex.org/A5100780460), [Huile Jin](https://openalex.org/A5060906740), [Dingsheng Wang](https://openalex.org/A5042841794), [Wei Chen](https://openalex.org/A5100344483), [Yadong Li](https://openalex.org/A5100348455), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06546.
     
-No abstract    
+Electronic perturbation induced by the microenvironment regulation adjacent to the FeN4 sites anchored on metal–N–C materials will accelerate its oxygen reduction reaction (ORR) kinetics. Herein, we report a fine-tuning in the charge configuration of FeN4 sites through a defect-rich N/S-doped carbon nest derived from the chemically cross-linked pyrrole/thiophene copolymer (CCPPT) with a sp3-hybridized cross-linker. Compared with the pyrrole/thiophene copolymer (PPT) without the cross-linker, CCPPT with a knitted three-dimensional (3D) network delivers higher defect density and ∼2-fold sulfur retention after pyrolysis. The structural characterizations combined with theoretical calculations suggest that adjacent vacancy defects (Cvd) and FeN4/S2 moiety together induce the charge redistribution of the FeN4 sites on the resultant CC-Fe1/NSC from CCPPT, reducing the adsorption strength of the oxygen-containing intermediates and the energy barrier of ORR. As expected, CC-Fe1/NSC shows an impressive half-wave potential of ∼0.91 V vs reversible hydrogen electrode (RHE), surpassing both the PPT-derived Fe1/NSC (0.88 V) and the commercial Pt/C (0.86 V). This work provides a distinctive path to manipulate the adjacent microenvironment of the single-atom catalysts toward ORR or even beyond.    
 
     
 
@@ -298,6 +298,28 @@ OpenAlex: https://openalex.org/W4406219626
 Open access: False
     
 [Jiamei Wei](https://openalex.org/A5109719922), [Peng Gao](https://openalex.org/A5059142323), [Shen Wang](https://openalex.org/A5100377078), [Yue Ma](https://openalex.org/A5091735030), [Dong Cao](https://openalex.org/A5001966929), [Daojian Cheng](https://openalex.org/A5006520119), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06822.
+    
+No abstract    
+
+    
+
+## Electrocatalytic CO2 Reduction to Methanol on Pt(111) Modified with a Pd Monolayer   
+
+OpenAlex: https://openalex.org/W4406259351    
+Open access: True
+    
+[Aleksandra Wawrzyniak](https://openalex.org/A5036920326), [Marc T. M. Koper](https://openalex.org/A5028485156), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c05442.
+    
+Electrochemical carbon dioxide (CO2) conversion to value-added, highly reduced chemicals such as methanol (CH3OH) is a promising possibility for producing renewable fuel and simultaneous CO2 recycling. However, this process remains a challenge, with only a few selective electrocatalysts known. Here, we present a study of a palladium monolayer on a platinum (111) single crystal (PdML/Pt(111)) as an electrocatalyst for CO2 conversion to CH3OH. A custom-made setup was employed in order to detect and quantify gaseous and liquid CO2 reduction products in sufficient concentrations despite the limitations of working with a single-crystalline electrode. Under ambient reaction conditions, a Faradaic efficiency (FE) of 1.5% at −0.9 V vs reversible hydrogen electrode (RHE) was obtained while using CO2 as the reactant. Other reaction intermediates, carbon monoxide (CO) and formaldehyde (HCHO) were subsequently used as reactants, leading to FEs of 1.8 and 2.5%, respectively, whereas formic acid is not reduced. The corresponding mechanism concluded from our work is compared to the literature. The electrocatalyst introduced here, with a highly well-defined structure for CO2 conversion to CH3OH, opens up possibilities for further catalytic explorations.    
+
+    
+
+## Access to Axially Chiral Biaryl Benzylamines via Ancestral Enzyme-Enabled Reductive Amination Desymmetrization   
+
+OpenAlex: https://openalex.org/W4406275770    
+Open access: False
+    
+[W. Jim Zheng](https://openalex.org/A5091809743), [Xinxin Zhu](https://openalex.org/A5101960257), [Zheng Zhu](https://openalex.org/A5111379905), [Teng Yang](https://openalex.org/A5066817609), [Lian Zheng](https://openalex.org/A5108445153), [Rui Pan](https://openalex.org/A5100638023), [Shenlin Wang](https://openalex.org/A5033002485), [Lixin Zhang](https://openalex.org/A5008977627), [Qi Chen](https://openalex.org/A5100340174), [Jian-He Xu](https://openalex.org/A5102188430), [Yongtao Xie](https://openalex.org/A5113822396), [Gao‐Wei Zheng](https://openalex.org/A5026230284), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06881.
     
 No abstract    
 
