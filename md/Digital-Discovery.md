@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Mon Jan 13 01:25:00 2025
+Created on Tue Jan 14 01:17:57 2025
 
-Found 10 results from 2025-01-06 to 2025-01-13
+Found 8 results from 2025-01-07 to 2025-01-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -14,28 +14,6 @@ Open access: True
 [Naruki Yoshikawa](https://openalex.org/A5019451422), [Gun Deniz Akkoc](https://openalex.org/A5030325510), [Sergio Pablo‐García](https://openalex.org/A5024019148), [Yang Cao](https://openalex.org/A5075998492), [Han Hao](https://openalex.org/A5091838472), [Alán Aspuru‐Guzik](https://openalex.org/A5071495561), Digital Discovery. None(None)] 2025.https://doi.org/10.1039/d4dd00323c.
     
 Automation of electrochemical measurements can accelerate the discovery of new electroactive materials.    
-
-    
-
-## Advancing Predictive Toxicology: Overcoming Hurdles and Shaping the Future   
-
-OpenAlex: https://openalex.org/W4406085336    
-Open access: True
-    
-[Sara Masarone](https://openalex.org/A5106116916), [Katie V Victoria Beckwith](https://openalex.org/A5115778167), [Matthew Wilkinson](https://openalex.org/A5044945207), [Shreshth Tuli](https://openalex.org/A5024179661), [Amy Lane](https://openalex.org/A5048039923), [S Windsor](https://openalex.org/A5020144175), [Jordan Lane](https://openalex.org/A5082455051), [Layla Hosseini-Gerami](https://openalex.org/A5085528183), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00257a.
-    
-Modern drug discovery projects are plagued with high failure rate many of which have safety as the underlying cause. The drug discovery process involves selecting the right compounds from a...    
-
-    
-
-## Multi-objective Bayesian Optimization: A Case Study in Material Extrusion   
-
-OpenAlex: https://openalex.org/W4406087434    
-Open access: True
-    
-[Jay I. Myung](https://openalex.org/A5102873424), [James R. Deneault](https://openalex.org/A5050665356), [Jorge Chang](https://openalex.org/A5029447474), [Inhan Kang](https://openalex.org/A5115779106), [Benji Maruyama](https://openalex.org/A5102919383), [Mark A. Pitt](https://openalex.org/A5108277937), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00281d.
-    
-Autonomous experimentation is a rapidly growing approach to materials science research. Machine learning can assist in improving the efficiency and capability of experimentation with algorithms that adaptively identify optimal design...    
 
     
 

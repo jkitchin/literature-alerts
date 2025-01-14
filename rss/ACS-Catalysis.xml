@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Jan 2025 01:24:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 01:17:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -110,10 +110,10 @@
     <item>
       <title>Structural Insights into the N&#8211;N Bond-Formation Mechanism of the Heme-Dependent Piperazate Synthase KtzT</title>
       <link>https://doi.org/10.1021/acscatal.4c06124</link>
-      <description>Yunyun Yang, Yanling Li, Licheng Yao, Kaoshan Dai, Xiaolong Fu, Aoyue Ge, Jian&#8208;Wen Huang, Rey&#8208;Ting Guo, Chun&#8208;Chi Chen, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406140994
+      <description>Yunyun Yang, Yanling Li, Licheng Yao, Kaoshan Dai, Xiaolong Fu, Anming Ge, Jian&#8208;Wen Huang, Rey&#8208;Ting Guo, Chun&#8208;Chi Chen, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406140994
 
-                No abstract</description>
-      <author>Yunyun Yang, Yanling Li, Licheng Yao, Kaoshan Dai, Xiaolong Fu, Aoyue Ge, Jian&#8208;Wen Huang, Rey&#8208;Ting Guo, Chun&#8208;Chi Chen</author>
+                N&#8211;N bond formation plays a critical role in the synthesis of organic compounds and has broad applications in producing dyes, pharmaceuticals, and functional materials. However, N&#8211;N bond formation is challenging due to the nucleophilicity of nitrogen. Here, we determined the crystal structures of a heme-dependent enzyme, KtzT, which catalyzes the cyclization of l-N5-hydroxyornithine (l-N5-OH-Orn) to yield l-piperazate (l-piz) by linking two intramolecular nitrogen atoms. The complex structure of KtzTC197A with l-N5-OH-Orn reveals the substrate-interaction network, validated through mutagenesis experiments. Notably, the N5 atom of the substrate directly coordinates with the heme iron, precluding oxygen binding. This supports prior knowledge that KtzT catalyzes an oxygen-independent reaction. Intriguingly, the substrate exhibits two distinct conformations in our crystals. Based on the distance between the intramolecular nitrogen atoms and the product accommodation pose in the KtzTC197A/l-piz structure, conformation 2 is likely the productive pose, while the more extended conformation 1 may be a transient state facilitating entry into the catalytic tunnel. A potential catalytic pathway is also proposed. These findings offer structural insights for developing bio- and metal-catalyzed methods for N&#8211;N bond formation.</description>
+      <author>Yunyun Yang, Yanling Li, Licheng Yao, Kaoshan Dai, Xiaolong Fu, Anming Ge, Jian&#8208;Wen Huang, Rey&#8208;Ting Guo, Chun&#8208;Chi Chen</author>
       <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06124</guid>
     </item>
@@ -292,7 +292,7 @@
       <link>https://doi.org/10.1021/acscatal.4c06881</link>
       <description>W. Jim Zheng, Xinxin Zhu, Zheng Zhu, Teng Yang, Lian Zheng, Rui Pan, Shenlin Wang, Lixin Zhang, Qi Chen, Jian-He Xu, Yongtao Xie, Gao&#8208;Wei Zheng, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406275770
 
-                No abstract</description>
+                Axially chiral biaryl benzylamines are present in numerous natural products, pharmaceuticals, chiral ligands, and catalysts. However, the direct catalytic synthesis of these functional molecules using a robust strategy remains a formidable challenge. Reductive amination desymmetrization of biaryl dialdehydes offers a powerful approach for the construction of axially chiral biaryl benzylamines but suffers from extensive undesirable side reactions. Herein, we engineered ancestral imine reductases to enable reductive amination desymmetrization of biaryl dialdehydes, allowing the construction of a wide range of axially chiral biaryl benzylamines with up to 99% conversion and 99% enantiomeric excess (ee). The ratio of the product to byproducts was up to 97:3 and over 90:10 in most cases. This work presents an alternative strategy for accessing axially chiral biaryl benzylamines and will stimulate the development of associated bioactive molecules and catalysts/ligands.</description>
       <author>W. Jim Zheng, Xinxin Zhu, Zheng Zhu, Teng Yang, Lian Zheng, Rui Pan, Shenlin Wang, Lixin Zhang, Qi Chen, Jian-He Xu, Yongtao Xie, Gao&#8208;Wei Zheng</author>
       <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06881</guid>

@@ -1,8 +1,8 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Mon Jan 13 01:25:00 2025
+Created on Tue Jan 14 01:17:57 2025
 
-Found 10 results from 2025-01-06 to 2025-01-13
+Found 8 results from 2025-01-07 to 2025-01-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 
@@ -24,48 +24,6 @@ OpenAlex: https://openalex.org/W4406246894 (Open access: True)
 [[https://openalex.org/A5019451422][Naruki Yoshikawa]], [[https://openalex.org/A5030325510][Gun Deniz Akkoc]], [[https://openalex.org/A5024019148][Sergio Pablo‐García]], [[https://openalex.org/A5075998492][Yang Cao]], [[https://openalex.org/A5091838472][Han Hao]], [[https://openalex.org/A5071495561][Alán Aspuru‐Guzik]], Digital Discovery. None(None)] 2025. https://doi.org/10.1039/d4dd00323c 
      
 Automation of electrochemical measurements can accelerate the discovery of new electroactive materials.    
-
-    
-
-* Advancing Predictive Toxicology: Overcoming Hurdles and Shaping the Future  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406085336
-:TOPICS: Computational Drug Discovery Methods, Animal testing and alternatives
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00257a")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406085336"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406085336"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406085336"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406085336 (Open access: True)
-    
-[[https://openalex.org/A5106116916][Sara Masarone]], [[https://openalex.org/A5115778167][Katie V Victoria Beckwith]], [[https://openalex.org/A5044945207][Matthew Wilkinson]], [[https://openalex.org/A5024179661][Shreshth Tuli]], [[https://openalex.org/A5048039923][Amy Lane]], [[https://openalex.org/A5020144175][S Windsor]], [[https://openalex.org/A5082455051][Jordan Lane]], [[https://openalex.org/A5085528183][Layla Hosseini-Gerami]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00257a 
-     
-Modern drug discovery projects are plagued with high failure rate many of which have safety as the underlying cause. The drug discovery process involves selecting the right compounds from a...    
-
-    
-
-* Multi-objective Bayesian Optimization: A Case Study in Material Extrusion  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406087434
-:TOPICS: Manufacturing Process and Optimization, Advanced Multi-Objective Optimization Algorithms, Injection Molding Process and Properties
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00281d")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406087434"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406087434"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406087434"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406087434 (Open access: True)
-    
-[[https://openalex.org/A5102873424][Jay I. Myung]], [[https://openalex.org/A5050665356][James R. Deneault]], [[https://openalex.org/A5029447474][Jorge Chang]], [[https://openalex.org/A5115779106][Inhan Kang]], [[https://openalex.org/A5102919383][Benji Maruyama]], [[https://openalex.org/A5108277937][Mark A. Pitt]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00281d 
-     
-Autonomous experimentation is a rapidly growing approach to materials science research. Machine learning can assist in improving the efficiency and capability of experimentation with algorithms that adaptively identify optimal design...    
 
     
 
