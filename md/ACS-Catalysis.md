@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Jan 14 01:17:54 2025
+Created on Wed Jan 15 01:19:22 2025
 
-Found 29 results from 2025-01-07 to 2025-01-14
+Found 26 results from 2025-01-08 to 2025-01-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Mechanistic Insights into Nitrile and Alkyne Covalent Inhibitors of the SARS-CoV-2 Main Protease   
-
-OpenAlex: https://openalex.org/W4406091634    
-Open access: False
-    
-[Ashim Nandi](https://openalex.org/A5010387708), [Mojgan Asadi](https://openalex.org/A5046676481), [Aoxuan Zhang](https://openalex.org/A5001140607), [Zhen T. Chu](https://openalex.org/A5110110180), [Arieh Warshel](https://openalex.org/A5088665303), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06020.
-    
-The treatment of SARS-CoV-2 can be accomplished by effective suppression of its 3CL protease (3CLpro), also known as the main protease (Mpro) and nonstructural protein 5 (nsp5). Covalent inhibitors can irreversibly and selectively disable the protease, particularly when they are highly exothermic. Herein we investigated the distinct kinetic behaviors exhibited by two covalently linked SARS-CoV-2 inhibitors. One of these inhibitors features a nitrile reactive group, while the other has this group replaced by an alkyne group, a less reactive electrophile. Our investigations involve the assessment of the free energy surfaces of the key feasible mechanisms: that is, direct and water-assisted mechanisms involved in the rate-determining proton-transfer nucleophilic attack step through the utilization of both ab initio and empirical valence bond (EVB) simulations. The calculated free energy profiles show that substituting the nitrile group with alkyne increases the chemical barrier but leads to very exothermic reaction energy and is an irreversible process as opposed to nitrile, which is moderately exothermic and reversible. We also examine the time dependence of IC50 inhibition by applying an innovative kinetic simulation approach, which is particularly important in studies of covalent inhibitors with a very exothermic bonding step. Our computational approach provides a good agreement between the calculated and observed values of the time dependence results for the nitrile and alkyne inhibitors. Our approach, which is rather unique in combining calculations of the chemical barriers and the binding energy is likely to be very effective in studies of the effectiveness of other covalent inhibitors related cases.    
-
-    
-
-## Inducing Cu Charge Redistribution by Modulating Proximity with Zr(OH)4 for Selective Synthesis of Imines and Secondary Amines with Stoichiometric Benzyl Alcohol and Nitrobenzene   
-
-OpenAlex: https://openalex.org/W4406093746    
-Open access: False
-    
-[Jie Song](https://openalex.org/A5100649077), [Chunxia Che](https://openalex.org/A5100935179), [Yiwei Dai](https://openalex.org/A5079399790), [Jiaheng Qin](https://openalex.org/A5050284480), [Cong Yang](https://openalex.org/A5101335462), [Ziqiu Chen](https://openalex.org/A5086843496), [Kexin Ma](https://openalex.org/A5101650068), [Yuhui Han](https://openalex.org/A5041314524), [Yu Long](https://openalex.org/A5091099530), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c05785.
-    
-The one-pot synthesis of amines from benzyl alcohol (BA) and nitrobenzene (NB) represents a step-economic method. However, reported works typically require more than 3 equiv of BA to complete the transfer hydrogenation of NB, and few studies can achieve selective synthesis of imines and secondary amines. In our previous work, Zr(OH)4 demonstrated both hydrogenation and dehydrogenation capabilities. Building on this, another component Cu was introduced to enhance its catalytic performance for catalyzing coupling reaction between stoichiometric BA and NB under a H2 atmosphere. The physical hybrid catalyst Cu + Zr(OH)4 selectively produced imines, while the supported catalyst Cu/Zr(OH)4 yielded secondary amines. Characterization and mechanism experiments revealed that modulating the proximity between Cu and Zr(OH)4 leads to (1) different adsorption abilities of the catalyst for N-benzylideneaniline (NBA) and (2) interactions between Zr(OH)4 and Cu in close contact, which stabilized the electronic structure of Cu forming more Cu+/Cu0 ion pairs with strong H2 activation ability. This work presents a catalyst design strategy and offers an approach for the selective preparation of N-benzylideneaniline and N-benzylaniline.    
-
-    
-
-## AuCu Nanodendrite for Enhancing Electrocatalytic Nitrate Reduction Applications via Two-stage Microfluidic Fabrication Strategy   
-
-OpenAlex: https://openalex.org/W4406115611    
-Open access: False
-    
-[Hengyuan Liu](https://openalex.org/A5101430705), [Yongqi Jia](https://openalex.org/A5111006289), [Xintong Huang](https://openalex.org/A5016306575), [Yingzhe Liu](https://openalex.org/A5078704875), [Qiang Yang](https://openalex.org/A5101776247), [Zhuo Chen](https://openalex.org/A5100345056), [Jianhong Xu](https://openalex.org/A5034331950), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06559.
-    
-No abstract    
-
-    
-
-## C(sp3)–H Carboxylation via Carbene/Photoredox Cooperative Catalysis   
-
-OpenAlex: https://openalex.org/W4406119626    
-Open access: False
-    
-[Cullen R. Schull](https://openalex.org/A5027788561), [Jing Cao](https://openalex.org/A5101499747), [Sophia R. Mitton-Fry](https://openalex.org/A5096740287), [Mara Mrksich](https://openalex.org/A5108998163), [Karl A. Scheidt](https://openalex.org/A5041041100), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06791.
-    
-No abstract    
-
-    
 
 ## Efficient Synthesis of Glycodiversified Nucleoside Analogues by a Thermophilic Promiscuous Glycosyltransferase   
 
@@ -145,7 +101,7 @@ Open access: False
     
 [Xin Tao](https://openalex.org/A5004458229), [Yihai Zhou](https://openalex.org/A5040762208), [Meng Pan](https://openalex.org/A5071718089), [Shenghui Liu](https://openalex.org/A5101710542), [Yong Zhou](https://openalex.org/A5074136896), [Renchun Yang](https://openalex.org/A5069416690), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c04380.
     
-No abstract    
+Although a deep electron trap of rutile TiO2 has been proven recently, studies on how to reduce its influences have not been reported. To inhibit the deep electron trap and long-living hole of rutile TiO2, a remarkable nanorod photocatalyst, TiO2(R)-NiCu, with an electron-capturing center and plasma center, is developed. Using the remarkable nanorod photocatalyst, the photocatalytic hydrogen evolution rate can reach 24.4 mmol·g–1·h–1, which is 61 times that of the reference catalyst. The experimental and theoretical simulation shows that Ni, as the electron-capturing center, can transfer the electrons in the electron trap, while Cu, as the plasma center, can supply hot electrons to the conduction band and stimulate them to recombine with holes. The synergistic effect of Ni and Cu inhibits the deep electron trap and long-living hole of rutile TiO2 and enhances the charge transfer efficiency, resulting in significantly improved photocatalytic activity.    
 
     
 
@@ -322,5 +278,16 @@ Open access: False
 [W. Jim Zheng](https://openalex.org/A5091809743), [Xinxin Zhu](https://openalex.org/A5101960257), [Zheng Zhu](https://openalex.org/A5111379905), [Teng Yang](https://openalex.org/A5066817609), [Lian Zheng](https://openalex.org/A5108445153), [Rui Pan](https://openalex.org/A5100638023), [Shenlin Wang](https://openalex.org/A5033002485), [Lixin Zhang](https://openalex.org/A5008977627), [Qi Chen](https://openalex.org/A5100340174), [Jian-He Xu](https://openalex.org/A5102188430), [Yongtao Xie](https://openalex.org/A5113822396), [Gao‐Wei Zheng](https://openalex.org/A5026230284), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06881.
     
 Axially chiral biaryl benzylamines are present in numerous natural products, pharmaceuticals, chiral ligands, and catalysts. However, the direct catalytic synthesis of these functional molecules using a robust strategy remains a formidable challenge. Reductive amination desymmetrization of biaryl dialdehydes offers a powerful approach for the construction of axially chiral biaryl benzylamines but suffers from extensive undesirable side reactions. Herein, we engineered ancestral imine reductases to enable reductive amination desymmetrization of biaryl dialdehydes, allowing the construction of a wide range of axially chiral biaryl benzylamines with up to 99% conversion and 99% enantiomeric excess (ee). The ratio of the product to byproducts was up to 97:3 and over 90:10 in most cases. This work presents an alternative strategy for accessing axially chiral biaryl benzylamines and will stimulate the development of associated bioactive molecules and catalysts/ligands.    
+
+    
+
+## Pd-Catalyzed Dehydrogenation Enhanced by Charge Transfer from MoOx Promoter   
+
+OpenAlex: https://openalex.org/W4406317251    
+Open access: False
+    
+[Byung Gwan Park](https://openalex.org/A5010584378), [Jihyeon Lee](https://openalex.org/A5001170097), [Yoojin Lee](https://openalex.org/A5100657005), [Hyeongeon Lee](https://openalex.org/A5028501194), [Jueun Kim](https://openalex.org/A5101563699), [Eonu Nam](https://openalex.org/A5068765684), [Jong‐Seong Bae](https://openalex.org/A5101771881), [Jeong Woo Han](https://openalex.org/A5033014275), [Kwangjin An](https://openalex.org/A5034804943), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c04684.
+    
+No abstract    
 
     

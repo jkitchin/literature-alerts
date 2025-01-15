@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Tue Jan 14 01:17:57 2025
+Created on Wed Jan 15 01:19:25 2025
 
-Found 8 results from 2025-01-07 to 2025-01-14
+Found 7 results from 2025-01-08 to 2025-01-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -14,17 +14,6 @@ Open access: True
 [Naruki Yoshikawa](https://openalex.org/A5019451422), [Gun Deniz Akkoc](https://openalex.org/A5030325510), [Sergio Pablo‐García](https://openalex.org/A5024019148), [Yang Cao](https://openalex.org/A5075998492), [Han Hao](https://openalex.org/A5091838472), [Alán Aspuru‐Guzik](https://openalex.org/A5071495561), Digital Discovery. None(None)] 2025.https://doi.org/10.1039/d4dd00323c.
     
 Automation of electrochemical measurements can accelerate the discovery of new electroactive materials.    
-
-    
-
-## A Novel Approach to Protein Chemical Shifts Prediction from Sequence Using Protein Language Model   
-
-OpenAlex: https://openalex.org/W4406117605    
-Open access: True
-    
-[He Zhu](https://openalex.org/A5061526273), [Lidan Hu](https://openalex.org/A5029798705), [Yang Yu](https://openalex.org/A5009888534), [Z Chen](https://openalex.org/A5111586026), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00367e.
-    
-Chemical shifts are crucial parameters in protein Nuclear Magnetic Resonance (NMR) experiments. Specifically, Chemical shifts of backbone atoms are essential for determining the constraints in protein structure analysis. Despite their...    
 
     
 

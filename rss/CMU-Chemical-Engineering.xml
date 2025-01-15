@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 14 Jan 2025 01:17:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 01:19:23 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>&lt;i&gt;Environmental Science: Atmospheres&lt;/i&gt; five years on</title>
-      <link>https://doi.org/10.1039/d4ea90048k</link>
-      <description>Neil M. Donahue, Environmental Science Atmospheres. None(None)] 2025. https://openalex.org/W4406105576
-
-                Editor-in-Chief Neil Donahue reflects on the fourth year of Environmental Science: Atmospheres and looks ahead at the plans for year 5.</description>
-      <author>Neil M. Donahue</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ea90048k</guid>
-    </item>
     <item>
       <title>Generalized Disjunctive Programming</title>
       <link>https://doi.org/10.1007/978-3-030-54621-2_203-1</link>

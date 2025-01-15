@@ -1,8 +1,8 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Tue Jan 14 01:17:57 2025
+Created on Wed Jan 15 01:19:25 2025
 
-Found 8 results from 2025-01-07 to 2025-01-14
+Found 7 results from 2025-01-08 to 2025-01-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 
@@ -24,27 +24,6 @@ OpenAlex: https://openalex.org/W4406246894 (Open access: True)
 [[https://openalex.org/A5019451422][Naruki Yoshikawa]], [[https://openalex.org/A5030325510][Gun Deniz Akkoc]], [[https://openalex.org/A5024019148][Sergio Pablo‐García]], [[https://openalex.org/A5075998492][Yang Cao]], [[https://openalex.org/A5091838472][Han Hao]], [[https://openalex.org/A5071495561][Alán Aspuru‐Guzik]], Digital Discovery. None(None)] 2025. https://doi.org/10.1039/d4dd00323c 
      
 Automation of electrochemical measurements can accelerate the discovery of new electroactive materials.    
-
-    
-
-* A Novel Approach to Protein Chemical Shifts Prediction from Sequence Using Protein Language Model  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406117605
-:TOPICS: Machine Learning in Bioinformatics, Protein Structure and Dynamics, Fractal and DNA sequence analysis
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00367e")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406117605"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406117605"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406117605"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406117605 (Open access: True)
-    
-[[https://openalex.org/A5061526273][He Zhu]], [[https://openalex.org/A5029798705][Lidan Hu]], [[https://openalex.org/A5009888534][Yang Yu]], [[https://openalex.org/A5111586026][Z Chen]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00367e 
-     
-Chemical shifts are crucial parameters in protein Nuclear Magnetic Resonance (NMR) experiments. Specifically, Chemical shifts of backbone atoms are essential for determining the constraints in protein structure analysis. Despite their...    
 
     
 

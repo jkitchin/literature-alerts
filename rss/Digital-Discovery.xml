@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 14 Jan 2025 01:17:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 01:19:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,16 +16,6 @@
       <author>Naruki Yoshikawa, Gun Deniz Akkoc, Sergio Pablo&#8208;Garc&#237;a, Yang Cao, Han Hao, Al&#225;n Aspuru&#8208;Guzik</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00323c</guid>
-    </item>
-    <item>
-      <title>A Novel Approach to Protein Chemical Shifts Prediction from Sequence Using Protein Language Model</title>
-      <link>https://doi.org/10.1039/d4dd00367e</link>
-      <description>He Zhu, Lidan Hu, Yang Yu, Z Chen, Digital Discovery. None(None)] 2024. https://openalex.org/W4406117605
-
-                Chemical shifts are crucial parameters in protein Nuclear Magnetic Resonance (NMR) experiments. Specifically, Chemical shifts of backbone atoms are essential for determining the constraints in protein structure analysis. Despite their...</description>
-      <author>He Zhu, Lidan Hu, Yang Yu, Z Chen</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00367e</guid>
     </item>
     <item>
       <title>Active learning driven prioritisation of compounds from on-demand libraries targeting the SARS-CoV-2 main protease</title>
