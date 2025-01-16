@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Wed Jan 15 01:19:25 2025
+Created on Thu Jan 16 01:18:46 2025
 
-Found 7 results from 2025-01-08 to 2025-01-15
+Found 8 results from 2025-01-09 to 2025-01-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -80,5 +80,16 @@ Open access: True
 [E. A. Ulanov](https://openalex.org/A5073745178), [Ghulām Qādir](https://openalex.org/A5045362682), [Kai Riedmiller](https://openalex.org/A5010766564), [Pascal Friederich](https://openalex.org/A5052771582), [Frauke Gräter](https://openalex.org/A5054677759), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00174e.
     
 Predicting reaction barriers for arbitrary configurations based on only a limited set of density functional theory (DFT) calculations would render the design of catalysts or the simulation of reactions within...    
+
+    
+
+## Optimising Digital Twin Laboratories with Conversational AIs: Enhancing Immersive Training and Simulation through Virtual Reality   
+
+OpenAlex: https://openalex.org/W4406335943    
+Open access: True
+    
+[Mae Taylor](https://openalex.org/A5038366184), [Zaid Muwaffak](https://openalex.org/A5067813766), [Matthew R. Penny](https://openalex.org/A5019069308), [Blanka R. Szulc](https://openalex.org/A5112217546), [Steven R. Brown](https://openalex.org/A5023120183), [Andy Merritt](https://openalex.org/A5066005230), [Stephen T. Hilton](https://openalex.org/A5061175078), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00330f.
+    
+Digital twin laboratories, accessible through low-cost, portable virtual reality (VR) headsets, have become a powerful tool in chemical education and research collaboration. These immersive digital environments replicate physical laboratories, offering...    
 
     

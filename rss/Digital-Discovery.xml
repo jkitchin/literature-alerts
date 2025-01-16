@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Jan 2025 01:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 01:18:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -76,6 +76,16 @@
       <author>E. A. Ulanov, Ghul&#257;m Q&#257;dir, Kai Riedmiller, Pascal Friederich, Frauke Gr&#228;ter</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00174e</guid>
+    </item>
+    <item>
+      <title>Optimising Digital Twin Laboratories with Conversational AIs: Enhancing Immersive Training and Simulation through Virtual Reality</title>
+      <link>https://doi.org/10.1039/d4dd00330f</link>
+      <description>Mae Taylor, Zaid Muwaffak, Matthew R. Penny, Blanka R. Szulc, Steven R. Brown, Andy Merritt, Stephen T. Hilton, Digital Discovery. None(None)] 2024. https://openalex.org/W4406335943
+
+                Digital twin laboratories, accessible through low-cost, portable virtual reality (VR) headsets, have become a powerful tool in chemical education and research collaboration. These immersive digital environments replicate physical laboratories, offering...</description>
+      <author>Mae Taylor, Zaid Muwaffak, Matthew R. Penny, Blanka R. Szulc, Steven R. Brown, Andy Merritt, Stephen T. Hilton</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00330f</guid>
     </item>
   </channel>
 </rss>

@@ -1,120 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Jan 15 01:19:22 2025
+Created on Thu Jan 16 01:18:45 2025
 
-Found 26 results from 2025-01-08 to 2025-01-15
+Found 19 results from 2025-01-09 to 2025-01-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Efficient Synthesis of Glycodiversified Nucleoside Analogues by a Thermophilic Promiscuous Glycosyltransferase   
-
-OpenAlex: https://openalex.org/W4406124998    
-Open access: False
-    
-[Zhuqing Wang](https://openalex.org/A5054920721), [Jiahui Li](https://openalex.org/A5100462957), [Xueyun Wang](https://openalex.org/A5062410995), [Bo Jin](https://openalex.org/A5060620859), [Liwei Zhou](https://openalex.org/A5084841107), [Zili Zhao](https://openalex.org/A5102383496), [Meijia Gu](https://openalex.org/A5020709314), [Xuemin Song](https://openalex.org/A5036190073), [Jiahong Wang](https://openalex.org/A5100684692), [Zixin Deng](https://openalex.org/A5100781047), [Shuwen Wu](https://openalex.org/A5025332853), [Zhengyu Zhang](https://openalex.org/A5100601494), [Wenqing Chen](https://openalex.org/A5100628712), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06506.
-    
-3′-O-β-Glucosyl purine-related nucleosides are actinobacterial natural products with intricate structures, in which the glucosyl attachment to a nucleoside scaffold is governed by a glycosyltransferase. However, the molecular logic and engineered application of the glycosyltransferase have nearly remained unexplored. Here, we report the discovery, characterization, and exploitation of the thermophilic glycosyltransferase ScaGT. We uncover that ScaGT and its homologue AvpGT indicate prominent promiscuity against both sugar donors and a variety of nucleosides. Remarkably, we have solved the ternary complex structure of AvpGT, unveiling that it employs an unpreceded "twin-tyrosine gate" mechanism for substrate recognition and promiscuity, and we have also realized directed biosynthesis of diversified purine nucleoside analogues with unexpectedly enhanced titer via introduction of the external scaGT or avpGT. Moreover, we reveal that 3′-O-β-glucosyl ribavirin exhibits significantly enhanced antiviral activities, thereof showing its promising application potentials. Finally, we have further achieved the gram-scale production of 3′-O-β-glucosyl ribavirin by both biocatalytic and fermentation-feeding strategies. These findings expand the biochemical repertoire regarding glycosyltransferase reactions and provide the basis for rapid mining and rational engineering of more related glycosyltransferases toward synthetic biology applications.    
-
-    
-
-## Dynamic Catalysis Multiscale Simulations for Nonoxidative Coupling of Methane Using Light and Heat   
-
-OpenAlex: https://openalex.org/W4406125357    
-Open access: True
-    
-[Juganta K. Roy](https://openalex.org/A5016788814), [Mona Abdelgaid](https://openalex.org/A5076027956), [Henrik Grönbeck](https://openalex.org/A5041128128), [Giannis Mpourmpakis](https://openalex.org/A5066394844), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c04312 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c04312?ref=article_openPDF)).
-    
-Methane (CH4) activation and conversion under mild reaction conditions are a great challenge for the chemical industry. Photocatalysis is attractive for activating inert C–H bonds of CH4 at room temperature. Specifically, photocatalytic nonoxidative coupling of CH4 (NOCM) is a promising process to produce ethane (C2-hydrocarbon) and H2. Different oxide-based photocatalysts have been used for room-temperature NOCM, and TiO2 is a potential photocatalyst with a bandgap that can capture photons in the UV region. However, a fundamental understanding of the NOCM mechanism on TiO2 is still missing. Herein, we apply multiscale modeling, combining density functional theory (DFT) calculations with kinetic Monte Carlo (kMC) simulations to investigate the photocatalytic NOCM on a rutile TiO2(110) surface. DFT calculations revealed that the photogenerated holes mediate the homolytic activation of CH4 via the formation of methyl radicals with an activation barrier that is 70% lower than that of the conventional thermocatalytic route. The generated methyl radicals further recombine to form ethane. The detailed reaction pathway energetics investigated with DFT-based kMC simulations revealed that ethane can be formed at 315.15 K, but the dissociated hydrogens poison the catalyst surface. Further thermocatalytic simulations revealed that increasing the temperature by thermal heating (ca. 690.15 K) facilitated H2 formation and catalyst regeneration. Importantly, we demonstrate how photo- and thermocatalytic modes can be combined, facilitating NOCM on TiO2 and a route to enable dynamic catalysis simulations through multiscale modeling, opening alternative avenues in computational catalyst discovery.    
-
-    
-
-## Modeling-Assisted Elucidation of the Organosolv Lignin Depolymerization: Lessons Learned from β-Ether Cleavage over Ni/C   
-
-OpenAlex: https://openalex.org/W4406125366    
-Open access: True
-    
-[Tina Ročnik Kozmelj](https://openalex.org/A5092077882), [Edita Jasiukaitytė-Grojzdek](https://openalex.org/A5025438862), [Matej Huš](https://openalex.org/A5010167321), [Miha Grilc](https://openalex.org/A5034183968), [Blaž Likozar](https://openalex.org/A5015913196), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06058 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c06058?ref=article_openPDF)).
-    
-No abstract    
-
-    
-
-## Pt–Co Single-Atom Alloy toward Furfural Hydrogenation–Rearrangement Tandem Reaction in the Aqueous Phase   
-
-OpenAlex: https://openalex.org/W4406125406    
-Open access: False
-    
-[Yuanjing Zhang](https://openalex.org/A5101608723), [Guanyi Zhang](https://openalex.org/A5053929645), [Quandong Hou](https://openalex.org/A5036334968), [Shiquan Zhao](https://openalex.org/A5108994830), [Si Wang](https://openalex.org/A5110969177), [Enze Xu](https://openalex.org/A5023534280), [Lei Wang](https://openalex.org/A5100436007), [Xin Zhang](https://openalex.org/A5100333386), [Feng Li](https://openalex.org/A5100448864), [Yusen Yang](https://openalex.org/A5017313282), [Min Wei](https://openalex.org/A5084055697), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c07190.
-    
-No abstract    
-
-    
-
-## Catalytic Conversion of Carbon Dioxide to Propylene Carbonate: Catalyst Design and Industrialization Progress   
-
-OpenAlex: https://openalex.org/W4406133755    
-Open access: False
-    
-[Jun Wu](https://openalex.org/A5100696276), [Yaxuan Du](https://openalex.org/A5071717370), [Xiejun Wang](https://openalex.org/A5016185530), [Fuying Zhao](https://openalex.org/A5101054008), [Mingxuan Zhu](https://openalex.org/A5091774768), [Jing Ma](https://openalex.org/A5089996806), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06638.
-    
-Converting CO2 into valuable chemicals is an effective way to alleviate the high level of global CO2. The cycloaddition reaction of CO2 and propylene oxide (PO) has atomic economy and has the advantage of environmental friendliness compared with the traditional phosgene method of propylene carbonate (PC). Due to the chemical inertness of CO2, catalysts are needed to make the reaction proceed smoothly. Through rational design, a multifunctional catalyst that combines the activation sites and attack sites of PO and the adsorption sites of CO2 can be formed. At the same time, the use of harmful substances can be reduced by catalyst design, making the catalytic process more environmentally friendly. In this work, we discuss the research progress of the synthesis of PC from CO2 and PO. Starting from the reaction mechanism, the catalytic system of the reaction is summarized from the perspective of catalyst design. In homogeneous catalysts, the focus is on the effect of catalyst composition on catalytic performance. In heterogeneous catalysts, the focus is on the process of heterogenization (preparation methods), including supported, confined, and polymerized heterogeneous catalysts. In addition, the promising photocatalysis and biomass catalysis are especially introduced. Finally, in order to make the experimental results move toward industrial production, several problems existing in the industrialization are discussed, including production equipment, the influence of the CO2 source, and product/catalyst separation.    
-
-    
-
-## Dearomative 1,4-Difunctionalization of Non-Activated Arenes Enabled by Boryl Radical-Mediated Halogen-Atom Transfer   
-
-OpenAlex: https://openalex.org/W4406134178    
-Open access: False
-    
-[Chengliang Deng](https://openalex.org/A5102960771), [Hao Wu](https://openalex.org/A5068084181), [Sheng Li](https://openalex.org/A5100359830), [Chen Li](https://openalex.org/A5100369852), [Xiaozu Liu](https://openalex.org/A5067983689), [Peijun Liu](https://openalex.org/A5101625362), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06628.
-    
-No abstract    
-
-    
-
-## Structural Insights into the N–N Bond-Formation Mechanism of the Heme-Dependent Piperazate Synthase KtzT   
-
-OpenAlex: https://openalex.org/W4406140994    
-Open access: False
-    
-[Yunyun Yang](https://openalex.org/A5103428648), [Yanling Li](https://openalex.org/A5009011499), [Licheng Yao](https://openalex.org/A5008396710), [Kaoshan Dai](https://openalex.org/A5043256081), [Xiaolong Fu](https://openalex.org/A5101163632), [Anming Ge](https://openalex.org/A5112965800), [Jian‐Wen Huang](https://openalex.org/A5101646732), [Rey‐Ting Guo](https://openalex.org/A5017609052), [Chun‐Chi Chen](https://openalex.org/A5100629596), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06124.
-    
-N–N bond formation plays a critical role in the synthesis of organic compounds and has broad applications in producing dyes, pharmaceuticals, and functional materials. However, N–N bond formation is challenging due to the nucleophilicity of nitrogen. Here, we determined the crystal structures of a heme-dependent enzyme, KtzT, which catalyzes the cyclization of l-N5-hydroxyornithine (l-N5-OH-Orn) to yield l-piperazate (l-piz) by linking two intramolecular nitrogen atoms. The complex structure of KtzTC197A with l-N5-OH-Orn reveals the substrate-interaction network, validated through mutagenesis experiments. Notably, the N5 atom of the substrate directly coordinates with the heme iron, precluding oxygen binding. This supports prior knowledge that KtzT catalyzes an oxygen-independent reaction. Intriguingly, the substrate exhibits two distinct conformations in our crystals. Based on the distance between the intramolecular nitrogen atoms and the product accommodation pose in the KtzTC197A/l-piz structure, conformation 2 is likely the productive pose, while the more extended conformation 1 may be a transient state facilitating entry into the catalytic tunnel. A potential catalytic pathway is also proposed. These findings offer structural insights for developing bio- and metal-catalyzed methods for N–N bond formation.    
-
-    
-
-## Homolytic versus Heterolytic Methane Hydroxylation in Copper Zeolites   
-
-OpenAlex: https://openalex.org/W4406141889    
-Open access: False
-    
-[Quan Manh Phung](https://openalex.org/A5017511441), [Takeshi Yanai](https://openalex.org/A5002069874), [Dieter Plessers](https://openalex.org/A5079720980), [Bert F. Sels](https://openalex.org/A5045224053), [Robert A. Schoonheydt](https://openalex.org/A5020359281), [Kristine Pierloot](https://openalex.org/A5043852315), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06246.
-    
-Oxygen-activated copper zeolites are capable of selectively converting methane to methanol at mild conditions, using a mono-oxygen bridged Cu(II) site [CuOCu]2+ as the active core. Based on previous DFT reports on the [CuOCu]2+ + CH4 reaction a general consensus was reached concerning the methane oxidation mechanism, where the rate-limiting step involves homolytic C–H bond cleavage to form [Cu(OH)Cu]2+ with a physisorbed •CH3. An alternative possibility, i.e. heterolytic H-abstraction passing through a four-center transition state to give an intermediate with a Cu–CH3 bond, was given consideration only in a few recent DFT studies, but was found less favorable than radical C–H activation. In this contribution methane-to-methanol conversion by Cu–CHA is investigated using large cluster models and employing either DFT, with an extensive list of 97 functionals, or the high-level correlated DMRG/cu(4)-CASPT2 method. In all cases homolytic C–H dissociation most favorably proceeds via a (S = 1) transition state TS1r, whereas the transition state of heterolytic H-abstraction, TS1n, has an (S = 0) ground state. The DMRG/cu(4)-CASPT2 results convincingly point to the heterolytic route, with a calculated activation enthalpy of 12.3 kcal/mol, as compared to 21.1 kcal/mol for homolytic C–H dissociation. In contrast, the results obtained with DFT are strongly functional dependent. Conform with previous DFT studies, homolytic H-abstraction is preferred by the B3LYP functional (almost exclusively used in previous cluster model studies). However, many other functionals, hybrid meta-GGA functionals in particular, agree with DMRG/cu(4)-CASPT2 on heterolytic C–H activation. The present results reopen the debate on the general validity of the radical rebound mechanism for methane hydroxylation by a [CuOCu]2+ core in copper zeolites and also highlight the need for caution when relying on a specific DFT functional to elucidate oxidation reaction mechanisms in metal-based catalytic systems.    
-
-    
-
-## Highly Efficient Rutile TiO2 Endowed by Electron-Capturing Center and Plasma Effect for Enhanced Solar Water Splitting   
-
-OpenAlex: https://openalex.org/W4406143470    
-Open access: False
-    
-[Xin Tao](https://openalex.org/A5004458229), [Yihai Zhou](https://openalex.org/A5040762208), [Meng Pan](https://openalex.org/A5071718089), [Shenghui Liu](https://openalex.org/A5101710542), [Yong Zhou](https://openalex.org/A5074136896), [Renchun Yang](https://openalex.org/A5069416690), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c04380.
-    
-Although a deep electron trap of rutile TiO2 has been proven recently, studies on how to reduce its influences have not been reported. To inhibit the deep electron trap and long-living hole of rutile TiO2, a remarkable nanorod photocatalyst, TiO2(R)-NiCu, with an electron-capturing center and plasma center, is developed. Using the remarkable nanorod photocatalyst, the photocatalytic hydrogen evolution rate can reach 24.4 mmol·g–1·h–1, which is 61 times that of the reference catalyst. The experimental and theoretical simulation shows that Ni, as the electron-capturing center, can transfer the electrons in the electron trap, while Cu, as the plasma center, can supply hot electrons to the conduction band and stimulate them to recombine with holes. The synergistic effect of Ni and Cu inhibits the deep electron trap and long-living hole of rutile TiO2 and enhances the charge transfer efficiency, resulting in significantly improved photocatalytic activity.    
-
-    
-
-## An Asynchronous, Concerted Mechanism for Cytochrome P450-Catalyzed Dehydrogenation: A Combined Deuterium Labeling and QM/MM Study   
-
-OpenAlex: https://openalex.org/W4406155163    
-Open access: False
-    
-[Alicia M. Kirk](https://openalex.org/A5029487868), [Jeanette E. Stok](https://openalex.org/A5021830895), [Siew Hoon Wong](https://openalex.org/A5020026543), [Tom Coleman](https://openalex.org/A5018514154), [Victoria L. Challinor](https://openalex.org/A5022601733), [Joel N. Herring](https://openalex.org/A5061456185), [J.B. Bruning](https://openalex.org/A5059039218), [Paul V. Bernhardt](https://openalex.org/A5057319709), [Stephen G. Bell](https://openalex.org/A5027128497), [Elizabeth H. Krenske](https://openalex.org/A5000188305), [James J. De Voss](https://openalex.org/A5018549180), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06278.
-    
-Cytochromes P450 (P450s) commonly catalyze hydroxylation but can also be responsible for dehydrogenation reactions, important in drug metabolism and biosynthesis; the mechanism of the latter transformation remains poorly understood. The well-characterized bacterial CYP199A4 catalyzes both hydroxylation and dehydrogenation of p-alkylbenzoic acids and thus provides an ideal model system in which to investigate the mechanism of P450-catalyzed aliphatic dehydrogenation. Through use of enantioselectively deuterated probes, metabolite analysis, protein crystallography, molecular dynamics simulations and QM/MM (ONIOM) modeling, CYP199A4-catalyzed dehydrogenation was found to be completely enantioselective and postulated to occur through an asynchronous proton coupled electron transfer. No definitive evidence of a cationic intermediate was uncovered but instead, the positioning of the substrate was postulated to be key in directing the chemoselectivity of the reaction i.e., dehydrogenation versus hydroxylation. This knowledge could be exploited to control dehydrogenation in other P450s and helps explain the common occurrence of P450-desaturated drug metabolites alongside hydroxylated ones.    
-
-    
 
 ## A New Look at Catalyst Surfaces at Work: Introducing Mixed Isotope Operando Infrared Spectroscopy (MIOIRS)   
 
@@ -233,7 +123,7 @@ Open access: False
     
 [Zhi‐Huan Peng](https://openalex.org/A5007641634), [Ping Huang](https://openalex.org/A5074407812), [Ao-Long Li](https://openalex.org/A5018210433), [Mingkai Yang](https://openalex.org/A5109707826), [Zhikang Li](https://openalex.org/A5101696409), [Yuanyuan Li](https://openalex.org/A5100384450), [Qin Shi](https://openalex.org/A5100568209), [Jiating Cai](https://openalex.org/A5090758772), [Shengdong Wang](https://openalex.org/A5028576201), [Zhi Zhou](https://openalex.org/A5035680195), [Wei Yi](https://openalex.org/A5089356883), [Hui Gao](https://openalex.org/A5038199259), [Zhongyi Zeng](https://openalex.org/A5001623372), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06594.
     
-No abstract    
+The electrochemical methods for asymmetric indolization are still elusive and pose a significant challenge. Taking advantage of 2-alkynylanilines as electrochemically compatible indolyl equivalents, we herein represent a mild and highly enantioselective electrocatalytic process for tandem C–H indolization to form 2,3′-biindolyl atropisomers along with hydrogen evolution reaction. Integrated experimental and computational mechanistic studies revealed that a sequential C–H metalation/nucleophilic cyclization/reductive elimination/anodic oxidation sequence involving a RhIII–RhI–RhIII catalytic cycle accounts for the established transformation.    
 
     
 
@@ -289,5 +179,38 @@ Open access: False
 [Byung Gwan Park](https://openalex.org/A5010584378), [Jihyeon Lee](https://openalex.org/A5001170097), [Yoojin Lee](https://openalex.org/A5100657005), [Hyeongeon Lee](https://openalex.org/A5028501194), [Jueun Kim](https://openalex.org/A5101563699), [Eonu Nam](https://openalex.org/A5068765684), [Jong‐Seong Bae](https://openalex.org/A5101771881), [Jeong Woo Han](https://openalex.org/A5033014275), [Kwangjin An](https://openalex.org/A5034804943), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c04684.
     
 No abstract    
+
+    
+
+## Water-Controlled Coking Dynamics during High-Pressure Methanol-to-Olefins Reaction over SAPO-34   
+
+OpenAlex: https://openalex.org/W4406321093    
+Open access: False
+    
+[Chengwei Zhang](https://openalex.org/A5100767831), [Xinqiang Wu](https://openalex.org/A5100910751), [Yanan Zhang](https://openalex.org/A5101614675), [Li Wang](https://openalex.org/A5100336102), [Yan Jin](https://openalex.org/A5057612246), [Mingbin Gao](https://openalex.org/A5014923308), [Mao Ye](https://openalex.org/A5100682785), [Yingxu Wei](https://openalex.org/A5058202114), [Zhongmin Liu](https://openalex.org/A5100660725), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06239.
+    
+No abstract    
+
+    
+
+## Substrate Promiscuity Engineering of ScALDO Enables a Versatile Minimized Enzyme Cascade for Efficient Utilization of Various Sugars   
+
+OpenAlex: https://openalex.org/W4406327422    
+Open access: False
+    
+[Shiming Tang](https://openalex.org/A5086542659), [Z Y Zhang](https://openalex.org/A5015884379), [Daocheng Liao](https://openalex.org/A5069042619), [Ying Lin](https://openalex.org/A5110074404), [Yuan‐Yuan Huang](https://openalex.org/A5052443619), [Suiping Zheng](https://openalex.org/A5073266499), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c07497.
+    
+No abstract    
+
+    
+
+## Evolutionary Specialization of a Promiscuous Designer Enzyme   
+
+OpenAlex: https://openalex.org/W4406328950    
+Open access: True
+    
+[Reuben B. Leveson‐Gower](https://openalex.org/A5022469888), [Laura Tiessler‐Sala](https://openalex.org/A5043880857), [H.J. Rozeboom](https://openalex.org/A5005328052), [A.M.W.H. Thunnissen](https://openalex.org/A5087468780), [Jean‐Didier Maréchal](https://openalex.org/A5076914476), [Gérard Roelfes](https://openalex.org/A5032880385), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06409 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c06409?ref=article_openPDF)).
+    
+The evolution of a promiscuous enzyme for its various activities often results in catalytically specialized variants. This is an important natural mechanism to ensure the proper functioning of natural metabolic networks. It also acts as both a curse and blessing for enzyme engineers, where enzymes that have undergone directed evolution may exhibit exquisite selectivity at the expense of a diminished overall catalytic repertoire. We previously performed two independent directed evolution campaigns on a promiscuous designer enzyme that leverages the unique properties of a noncanonical amino acid (ncAA) para-aminophenylalanine (pAF) as catalytic residue, resulting in two evolved variants which are both catalytically specialized. Here, we combine mutagenesis, crystallography, and computation to reveal the molecular basis of the specialization phenomenon. In one evolved variant, an unexpected change in quaternary structure biases substrate dynamics to promote enantioselective catalysis, while the other demonstrates synergistic cooperation between natural side chains and the pAF residue to form semisynthetic catalytic machinery.    
 
     
