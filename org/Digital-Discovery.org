@@ -1,8 +1,8 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Thu Jan 16 01:18:46 2025
+Created on Fri Jan 17 01:18:33 2025
 
-Found 8 results from 2025-01-09 to 2025-01-16
+Found 7 results from 2025-01-10 to 2025-01-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 
@@ -24,48 +24,6 @@ OpenAlex: https://openalex.org/W4406246894 (Open access: True)
 [[https://openalex.org/A5019451422][Naruki Yoshikawa]], [[https://openalex.org/A5030325510][Gun Deniz Akkoc]], [[https://openalex.org/A5024019148][Sergio Pablo‐García]], [[https://openalex.org/A5075998492][Yang Cao]], [[https://openalex.org/A5091838472][Han Hao]], [[https://openalex.org/A5071495561][Alán Aspuru‐Guzik]], Digital Discovery. None(None)] 2025. https://doi.org/10.1039/d4dd00323c 
      
 Automation of electrochemical measurements can accelerate the discovery of new electroactive materials.    
-
-    
-
-* Active learning driven prioritisation of compounds from on-demand libraries targeting the SARS-CoV-2 main protease  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406183574
-:TOPICS: Computational Drug Discovery Methods, Innovative Microfluidic and Catalytic Techniques Innovation, Chemical Synthesis and Analysis
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00343h")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406183574"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406183574"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406183574"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406183574 (Open access: True)
-    
-[[https://openalex.org/A5019524985][Ben Cree]], [[https://openalex.org/A5072069360][M. Bieniek]], [[https://openalex.org/A5055699398][Siddique Amin]], [[https://openalex.org/A5085494254][Akane Kawamura]], [[https://openalex.org/A5003390204][D. J. A. Cole]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00343h 
-     
-FEgrow is an open-source software package for building congeneric series of compounds in protein binding pockets. For a given ligand core and receptor structure, it employs hybrid machine learning /...    
-
-    
-
-* ULaMDyn: Enhancing Excited-State Dynamics Analysis Through Streamlined Unsupervised Learning  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406185387
-:TOPICS: Neural Networks and Reservoir Computing
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00374h")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406185387"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406185387"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406185387"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406185387 (Open access: True)
-    
-[[https://openalex.org/A5030672372][Max Pinheiro]], [[https://openalex.org/A5028291925][Matheus de Oliveira Bispo]], [[https://openalex.org/A5103262101][Rafael S. Mattos]], [[https://openalex.org/A5053469126][Mariana T. do Casal]], [[https://openalex.org/A5008689563][Bidhan Chandra Garain]], [[https://openalex.org/A5059174675][Josene M. Toldo]], [[https://openalex.org/A5033401595][Saikat Mukherjee]], [[https://openalex.org/A5079154451][Mario Barbatti]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00374h 
-     
-The analysis of nonadiabatic molecular dynamics (NAMD) data presents significant challenges due to its high dimensionality and complexity. To address these issues, we introduce ULaMDyn, a Pythonbased, open-source package designed...    
 
     
 
@@ -171,5 +129,26 @@ OpenAlex: https://openalex.org/W4406335943 (Open access: True)
 [[https://openalex.org/A5038366184][Mae Taylor]], [[https://openalex.org/A5067813766][Zaid Muwaffak]], [[https://openalex.org/A5019069308][Matthew R. Penny]], [[https://openalex.org/A5112217546][Blanka R. Szulc]], [[https://openalex.org/A5023120183][Steven R. Brown]], [[https://openalex.org/A5066005230][Andy Merritt]], [[https://openalex.org/A5061175078][Stephen T. Hilton]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00330f 
      
 Digital twin laboratories, accessible through low-cost, portable virtual reality (VR) headsets, have become a powerful tool in chemical education and research collaboration. These immersive digital environments replicate physical laboratories, offering...    
+
+    
+
+* A multi-robot-multi-task scheduling system for autonomous chemistry laboratories  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406371854
+:TOPICS: Advanced Control Systems Optimization, Scheduling and Optimization Algorithms
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00313f")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406371854"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406371854"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406371854"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406371854 (Open access: True)
+    
+[[https://openalex.org/A5032730117][Junyi Zhou]], [[https://openalex.org/A5101916360][Man Luo]], [[https://openalex.org/A5053751282][Linjiang Chen]], [[https://openalex.org/A5077458151][Qing Zhu]], [[https://openalex.org/A5007425194][Shan Jiang]], [[https://openalex.org/A5100412164][Fei Zhang]], [[https://openalex.org/A5031221880][Weiwei Shang]], [[https://openalex.org/A5100619997][Jun Jiang]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00313f 
+     
+We present a multi-robot-multi-task scheduling system designed for autonomous chemistry laboratories to enhance the efficiency of executing complex chemical experiments. Building on the herein formulated and developed scheduling algorithms and...    
 
     

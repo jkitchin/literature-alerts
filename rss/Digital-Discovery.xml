@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Jan 2025 01:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 01:18:33 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,26 +16,6 @@
       <author>Naruki Yoshikawa, Gun Deniz Akkoc, Sergio Pablo&#8208;Garc&#237;a, Yang Cao, Han Hao, Al&#225;n Aspuru&#8208;Guzik</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00323c</guid>
-    </item>
-    <item>
-      <title>Active learning driven prioritisation of compounds from on-demand libraries targeting the SARS-CoV-2 main protease</title>
-      <link>https://doi.org/10.1039/d4dd00343h</link>
-      <description>Ben Cree, M. Bieniek, Siddique Amin, Akane Kawamura, D. J. A. Cole, Digital Discovery. None(None)] 2024. https://openalex.org/W4406183574
-
-                FEgrow is an open-source software package for building congeneric series of compounds in protein binding pockets. For a given ligand core and receptor structure, it employs hybrid machine learning /...</description>
-      <author>Ben Cree, M. Bieniek, Siddique Amin, Akane Kawamura, D. J. A. Cole</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00343h</guid>
-    </item>
-    <item>
-      <title>ULaMDyn: Enhancing Excited-State Dynamics Analysis Through Streamlined Unsupervised Learning</title>
-      <link>https://doi.org/10.1039/d4dd00374h</link>
-      <description>Max Pinheiro, Matheus de Oliveira Bispo, Rafael S. Mattos, Mariana T. do Casal, Bidhan Chandra Garain, Josene M. Toldo, Saikat Mukherjee, Mario Barbatti, Digital Discovery. None(None)] 2024. https://openalex.org/W4406185387
-
-                The analysis of nonadiabatic molecular dynamics (NAMD) data presents significant challenges due to its high dimensionality and complexity. To address these issues, we introduce ULaMDyn, a Pythonbased, open-source package designed...</description>
-      <author>Max Pinheiro, Matheus de Oliveira Bispo, Rafael S. Mattos, Mariana T. do Casal, Bidhan Chandra Garain, Josene M. Toldo, Saikat Mukherjee, Mario Barbatti</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00374h</guid>
     </item>
     <item>
       <title>AI Agents in Chemical Research: GVIM - An Intelligent Research Assistant System</title>
@@ -86,6 +66,16 @@
       <author>Mae Taylor, Zaid Muwaffak, Matthew R. Penny, Blanka R. Szulc, Steven R. Brown, Andy Merritt, Stephen T. Hilton</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00330f</guid>
+    </item>
+    <item>
+      <title>A multi-robot-multi-task scheduling system for autonomous chemistry laboratories</title>
+      <link>https://doi.org/10.1039/d4dd00313f</link>
+      <description>Junyi Zhou, Man Luo, Linjiang Chen, Qing Zhu, Shan Jiang, Fei Zhang, Weiwei Shang, Jun Jiang, Digital Discovery. None(None)] 2024. https://openalex.org/W4406371854
+
+                We present a multi-robot-multi-task scheduling system designed for autonomous chemistry laboratories to enhance the efficiency of executing complex chemical experiments. Building on the herein formulated and developed scheduling algorithms and...</description>
+      <author>Junyi Zhou, Man Luo, Linjiang Chen, Qing Zhu, Shan Jiang, Fei Zhang, Weiwei Shang, Jun Jiang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00313f</guid>
     </item>
   </channel>
 </rss>

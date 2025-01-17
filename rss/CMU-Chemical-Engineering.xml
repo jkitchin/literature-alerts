@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Jan 2025 01:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 01:18:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>New Library-Based Methods for Nontargeted Compound Identification by GC-EI-MS</title>
+      <link>https://doi.org/10.1021/jasms.4c00451</link>
+      <description>Deborah McGlynn, Lindsay D. Yee, H. Martin Garraffo, Lewis Y. Geer, Tytus D. Mak, Yuri A. Mirokhin, Dmitrii V. Tchekhovskoi, Coty N. Jen, A. H. Goldstein, Anthony J. Kearsley, Stephen E. Stein, Journal of the American Society for Mass Spectrometry. None(None)] 2025. https://openalex.org/W4406375656
+
+                While gas chromatography mass spectrometry (GC-MS) has long been used to identify compounds in complex mixtures, this process is often subjective and time-consuming and leaves a large fraction of seemingly good-quality spectra unidentified. In this work, we describe a set of new mass spectral library-based methods to assist compound identification in complex mixtures. These methods employ mass spectral uniqueness and compound ubiquity of library entries alongside noise reduction and automated comparison of retention indices to library compounds. As a test data set, we used a publicly available electron ionization mass spectrometry data set consisting of 4833 spectra of particulate organic compounds emitted by combustion of wildland fuels. In the present work, spectra in this data set were first identified using the NIST 2023 EI-MS Library and associated batch process identification software (NIST MS PepSearch) using retention-index corrected Identity Search scoring. Resulting identifications and related information were then employed to parametrize other factors that correlate with identification. A method for identifying compounds absent from but related to those present in mass spectral libraries using the Hybrid Similarity Search is illustrated. Nevertheless, some 90% of the spectra remain unidentified. Through comparison of unidentified to identified mass spectra in this data set, a new simple measure, namely median relative abundance, was developed for evaluating the likelihood of identification.</description>
+      <author>Deborah McGlynn, Lindsay D. Yee, H. Martin Garraffo, Lewis Y. Geer, Tytus D. Mak, Yuri A. Mirokhin, Dmitrii V. Tchekhovskoi, Coty N. Jen, A. H. Goldstein, Anthony J. Kearsley, Stephen E. Stein</author>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jasms.4c00451</guid>
+    </item>
     <item>
       <title>Generalized Disjunctive Programming</title>
       <link>https://doi.org/10.1007/978-3-030-54621-2_203-1</link>
@@ -16,6 +26,16 @@
       <author>Ignacio E. Grossmann</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/978-3-030-54621-2_203-1</guid>
+    </item>
+    <item>
+      <title>Code and Data Repository for Scalable Parallel Nonlinear Optimization with PyNumero and Parapint</title>
+      <link>https://doi.org/10.1287/ijoc.2023.1272.cd</link>
+      <description>Jose S. Rodriguez, Robert Parker, Carl D. Laird, Bethany L. Nicholson, John Daniel Siirola, Michael Bynum, INFORMS journal on computing. None(None)] 2023. https://openalex.org/W4406365235
+
+                PyNumero is a package for developing parallel algorithms for nonlinear programs (NLPs).</description>
+      <author>Jose S. Rodriguez, Robert Parker, Carl D. Laird, Bethany L. Nicholson, John Daniel Siirola, Michael Bynum</author>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1287/ijoc.2023.1272.cd</guid>
     </item>
   </channel>
 </rss>

@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Thu Jan 16 01:18:46 2025
+Created on Fri Jan 17 01:18:33 2025
 
-Found 8 results from 2025-01-09 to 2025-01-16
+Found 7 results from 2025-01-10 to 2025-01-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -14,28 +14,6 @@ Open access: True
 [Naruki Yoshikawa](https://openalex.org/A5019451422), [Gun Deniz Akkoc](https://openalex.org/A5030325510), [Sergio Pablo‐García](https://openalex.org/A5024019148), [Yang Cao](https://openalex.org/A5075998492), [Han Hao](https://openalex.org/A5091838472), [Alán Aspuru‐Guzik](https://openalex.org/A5071495561), Digital Discovery. None(None)] 2025.https://doi.org/10.1039/d4dd00323c.
     
 Automation of electrochemical measurements can accelerate the discovery of new electroactive materials.    
-
-    
-
-## Active learning driven prioritisation of compounds from on-demand libraries targeting the SARS-CoV-2 main protease   
-
-OpenAlex: https://openalex.org/W4406183574    
-Open access: True
-    
-[Ben Cree](https://openalex.org/A5019524985), [M. Bieniek](https://openalex.org/A5072069360), [Siddique Amin](https://openalex.org/A5055699398), [Akane Kawamura](https://openalex.org/A5085494254), [D. J. A. Cole](https://openalex.org/A5003390204), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00343h.
-    
-FEgrow is an open-source software package for building congeneric series of compounds in protein binding pockets. For a given ligand core and receptor structure, it employs hybrid machine learning /...    
-
-    
-
-## ULaMDyn: Enhancing Excited-State Dynamics Analysis Through Streamlined Unsupervised Learning   
-
-OpenAlex: https://openalex.org/W4406185387    
-Open access: True
-    
-[Max Pinheiro](https://openalex.org/A5030672372), [Matheus de Oliveira Bispo](https://openalex.org/A5028291925), [Rafael S. Mattos](https://openalex.org/A5103262101), [Mariana T. do Casal](https://openalex.org/A5053469126), [Bidhan Chandra Garain](https://openalex.org/A5008689563), [Josene M. Toldo](https://openalex.org/A5059174675), [Saikat Mukherjee](https://openalex.org/A5033401595), [Mario Barbatti](https://openalex.org/A5079154451), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00374h.
-    
-The analysis of nonadiabatic molecular dynamics (NAMD) data presents significant challenges due to its high dimensionality and complexity. To address these issues, we introduce ULaMDyn, a Pythonbased, open-source package designed...    
 
     
 
@@ -91,5 +69,16 @@ Open access: True
 [Mae Taylor](https://openalex.org/A5038366184), [Zaid Muwaffak](https://openalex.org/A5067813766), [Matthew R. Penny](https://openalex.org/A5019069308), [Blanka R. Szulc](https://openalex.org/A5112217546), [Steven R. Brown](https://openalex.org/A5023120183), [Andy Merritt](https://openalex.org/A5066005230), [Stephen T. Hilton](https://openalex.org/A5061175078), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00330f.
     
 Digital twin laboratories, accessible through low-cost, portable virtual reality (VR) headsets, have become a powerful tool in chemical education and research collaboration. These immersive digital environments replicate physical laboratories, offering...    
+
+    
+
+## A multi-robot-multi-task scheduling system for autonomous chemistry laboratories   
+
+OpenAlex: https://openalex.org/W4406371854    
+Open access: True
+    
+[Junyi Zhou](https://openalex.org/A5032730117), [Man Luo](https://openalex.org/A5101916360), [Linjiang Chen](https://openalex.org/A5053751282), [Qing Zhu](https://openalex.org/A5077458151), [Shan Jiang](https://openalex.org/A5007425194), [Fei Zhang](https://openalex.org/A5100412164), [Weiwei Shang](https://openalex.org/A5031221880), [Jun Jiang](https://openalex.org/A5100619997), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00313f.
+    
+We present a multi-robot-multi-task scheduling system designed for autonomous chemistry laboratories to enhance the efficiency of executing complex chemical experiments. Building on the herein formulated and developed scheduling algorithms and...    
 
     

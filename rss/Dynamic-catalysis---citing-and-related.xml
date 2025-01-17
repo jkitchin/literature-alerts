@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Jan 2025 01:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 01:18:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Applying the Sabatier Principle to Decipher the Surface-Structure-Dependent Catalysis of Different Starch Granules by Pullulanase</title>
+      <link>https://doi.org/10.1021/jacsau.4c00932</link>
+      <description>Yu Wang, Yu Tian, Andrew Philip Rennison, Andreas Blennow, Peter Westh, Birte Svensson, Marie Sofie M&#248;ller, JACS Au. None(None)] 2025. https://openalex.org/W4406361386
+
+                Interfacial enzyme catalysis is widespread in both nature and industry. Granular starch is a sustainable and abundant raw material for which a rigorous correlation of the surface structure with enzymatic degradation is lacking. Here pullulanase-catalyzed debranching of 12 granular starches varying in amylopectin contents and branch chain contents and lengths is shown to present a biphasic relationship characteristic of the Sabatier principle. Introducing normalization of the specific rate (v0/E0) by a substrate-dependent constant C, related to the Arrhenius prefactor of kcat, reveals that optimal activity according to the Sabatier principle occurs at moderate substrate binding strength. The density of pullulanase attack sites (kin&#915;max), determined using combined conventional and inverse Michaelis&#8211;Menten kinetics, was increased by branching enzyme treatment. Medium kin&#915;max and branch chain length conferred the highest activity depending on substrate load. Correlation analysis demonstrated that starch granular crystallinity, surface order, and average branch chain length influence the enzymatic degradation by affecting the C constant. Therefore, C should be considered together with the enzyme binding strength to understand the degradation of starch granules. The Sabatier principle could serve as a diagnostic tool to characterize enzyme performance on substrates having different surface structures and guide rational modification of granular starches for specific purposes.</description>
+      <author>Yu Wang, Yu Tian, Andrew Philip Rennison, Andreas Blennow, Peter Westh, Birte Svensson, Marie Sofie M&#248;ller</author>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacsau.4c00932</guid>
+    </item>
   </channel>
 </rss>

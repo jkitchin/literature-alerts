@@ -1,136 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Jan 16 01:18:45 2025
+Created on Fri Jan 17 01:18:29 2025
 
-Found 19 results from 2025-01-09 to 2025-01-16
+Found 16 results from 2025-01-10 to 2025-01-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* A New Look at Catalyst Surfaces at Work: Introducing Mixed Isotope Operando Infrared Spectroscopy (MIOIRS)  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406170106
-:TOPICS: Catalytic Processes in Materials Science, Catalysis and Oxidation Reactions, Catalysts for Methane Reforming
-:PUBLICATION_DATE: 2025-01-08
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06308")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406170106"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406170106"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406170106"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406170106 (Open access: True)
-    
-[[https://openalex.org/A5004127604][Matteo Monai]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06308 
-     
-This Perspective focuses on the characterization of supported metal catalysts by operando and CO infrared (IR) spectroscopy. CO IR spectroscopy is a powerful technique for probing catalyst surfaces and is used to identify single-atom catalysts, estimate metal surface availability to the gas phase, and measure catalyst Lewis acidity. However, the interpretation of CO IR spectra on metal surfaces is not trivial and is influenced by dipole–dipole interactions among CO molecules at medium to high coverage. Such a phenomenon results in spectral distortions, such as intensity transfer among IR bands, the appearance of spurious bands, and shifts in band position. Dipole–dipole interactions were widely investigated and understood from the 1950s to 1990s, but the implications for operando spectroscopy have been seemingly overlooked in the literature, with a few exceptions. Inspired by seminal studies in the field, I propose here the use of mixed isotopic streams, such as diluted 13CO in 12CO, to reduce dipole coupling effects and retrieve more information from operando IR spectra in reactions involving CO, such as CO oxidation or hydrogenation reactions. Similarly, mixed 13CO2/12CO2 streams may be applied in CO2 hydrogenation, where adsorbed CO is commonly observed. The proposed name of the technique is Mixed Isotope Operando IR Spectroscopy, MIOIRS. In this Perspective, I will first summarize the nature of dipole–dipole interactions in adsorbed CO layers and their effects on CO IR spectra. Then, I will briefly describe how diluted isotopic mixtures of CO can partially break the coupling among adsorbates and reduce spectral distortion. In both sections, I will give a few showcases of the implications of vibrational coupling in the characterization of heterogeneous catalysts. Finally, I will discuss the possible implications of MIOIRS for the detection and quantification of defect and surface sites on metal nanoparticles, the characterization of bimetallic nanoparticles surfaces, and the kinetics of CO intermediates adsorbed on different active sites. Notably, MIOIRS may be expanded to other reactions in which adsorbates have strong permanent dipoles, such as in self-catalytic reduction for NOx abatement.    
-
-    
-
-* New Insights into the Roles of Surface and Lattice Hydrogen in Electrocatalytic Hydrogen Oxidation  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406183003
-:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Catalytic Processes in Materials Science
-:PUBLICATION_DATE: 2025-01-08
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06133")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406183003"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406183003"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406183003"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406183003 (Open access: False)
-    
-[[https://openalex.org/A5054938102][Pengcheng Zhao]], [[https://openalex.org/A5101841629][Li Deng]], [[https://openalex.org/A5067485627][Chang Sun]], [[https://openalex.org/A5100674281][Xiang Li]], [[https://openalex.org/A5101433644][Xiaoyu Tian]], [[https://openalex.org/A5090464557][Zhuo Li]], [[https://openalex.org/A5035964409][Wenchao Sheng]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06133 
-     
-No abstract    
-
-    
-
-* Decorating Cu Nanoparticles with Pd Clusters for Enhanced Nitrile Electro-Hydrogenation to Primary Amines by Effective Hydrogen Spillover  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406187801
-:TOPICS: Nanomaterials for catalytic reactions, Ammonia Synthesis and Nitrogen Reduction, Advanced Photocatalysis Techniques
-:PUBLICATION_DATE: 2025-01-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06206")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406187801"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406187801"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406187801"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406187801 (Open access: False)
-    
-[[https://openalex.org/A5101524851][Peipei Zhu]], [[https://openalex.org/A5103175383][Mingzhu Shi]], [[https://openalex.org/A5025223993][Bing Wu]], [[https://openalex.org/A5016300822][Xunfan Liao]], [[https://openalex.org/A5026978305][Mengning Ding]], [[https://openalex.org/A5088447996][Longbin Li]], [[https://openalex.org/A5079785501][Yiwang Chen]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06206 
-     
-The H2O-participating electrochemical hydrogenation (ECH) of benzonitrile represents a mild and efficient method for benzylamine synthesis, but the kinetics and Faraday efficiency are still limited. Herein, the developed Pd clusters dispersed Cu nanoparticles encapsulated in porous carbon (Pdn-Cu@C) achieves efficient ECH of benzonitrile (C6H5CN) to benzylamines (C6H5CH2NH2). In situ infrared spectroscopy and theoretical studies reveal that the Pd/Cu interface functions as the active site for active hydrogen (*H) generated by H2O dissociation, enhances the adsorption of C6H5CN, and weakens the adsorption of C6H5CH2NH2. Moreover, the Gibbs free energy barriers for *H spillover are much lower than that of *H self-coupling. As expected, Pdn-Cu@C exhibits efficient electro-hydrogenation of C6H5CN with the conversion of 97.42%, a high C6H5CH2NH2 selectivity of 97.21%, and Faradaic efficiency of 92.10% under a specific voltage. This finding blazes a feasible trail to suppress the competitive *H self-coupling and offers insights for multistep protonation ECH reactions.    
-
-    
-
-* Reactions of Surface Peroxides Contribute to Rates and Selectivities for C2H4 Epoxidation on Silver  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406196996
-:TOPICS: Catalytic Processes in Materials Science, Catalysis and Oxidation Reactions, Advanced Photocatalysis Techniques
-:PUBLICATION_DATE: 2025-01-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06945")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406196996"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406196996"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406196996"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406196996 (Open access: True)
-    
-[[https://openalex.org/A5060751897][Ching‐Tien Chen]], [[https://openalex.org/A5039715757][Anna Sviripa]], [[https://openalex.org/A5061073595][Sandeep Verma]], [[https://openalex.org/A5034428503][Christopher Paolucci]], [[https://openalex.org/A5062793974][David W. Flaherty]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06945 
-     
-Partial oxidation of ethylene over silver catalysts produces more than 30 million metric tons of ethylene oxide (EO) annually. However, the form of active silver surfaces, reactive oxygen species, and dominant pathways of this chemical reaction remains controversial despite decades of research. Here, we use operando Raman spectroscopy and transient kinetic measurements to demonstrate that higher coverages of peroxide species, present only upon Ag oxide surfaces that form in situ, correlate with greater selectivities to EO. Ab initio calculations reveal that the reconstructed Ag oxides preferentially stabilize diatomic oxygen species (peroxide and superoxide) under relevant conditions, and these species contribute to the selective formation of EO. The dominant reaction pathways change with surface coverages; however, bound O2 consistently activates by reaction with C2H4, and products form subsequently through peroxo- and oxometallacycle surface complexes. Taken together, density functional theory calculations and kinetic and transient experimental measurements show that the formation of peroxide intermediates requires oxidation of the Ag surface (via subsurface oxygen), and an increase in surface peroxides coincides with the highest EO selectivity for the unpromoted Ag catalyst. These findings suggest that the promoters ubiquitous for ethylene epoxidation (e.g., chlorine, transition metals, and alkali metals) may succeed by oxidation of Ag and increasing coverages of peroxides at industrial conditions.    
-
-    
-
-* Pendant Catechol Group Improves the Performance of Iron Porphyrin CO2 Reduction Catalysts  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406199451
-:TOPICS: CO2 Reduction Techniques and Catalysts, Metal-Catalyzed Oxygenation Mechanisms, Electrocatalysts for Energy Conversion
-:PUBLICATION_DATE: 2025-01-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05531")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406199451"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406199451"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406199451"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406199451 (Open access: False)
-    
-[[https://openalex.org/A5032471432][Ana Sonea]], [[https://openalex.org/A5000268359][Jeffrey J. Warren]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c05531 
-     
-No abstract    
-
-    
-
-* Hydrogen-Assisted Dissociation of N2: Prevalence and Consequences for Ammonia Synthesis on Supported Ru Catalysts  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406201945
-:TOPICS: Ammonia Synthesis and Nitrogen Reduction, Caching and Content Delivery, Nanomaterials for catalytic reactions
-:PUBLICATION_DATE: 2025-01-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06966")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406201945"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406201945"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406201945"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406201945 (Open access: False)
-    
-[[https://openalex.org/A5102283975][Yukun Bai]], [[https://openalex.org/A5078898024][Yuanbao Zhang]], [[https://openalex.org/A5100781690][Jianhua Hu]], [[https://openalex.org/A5101444480][Li Jiang]], [[https://openalex.org/A5039790894][Shaolong Wan]], [[https://openalex.org/A5045372639][Jingdong Lin]], [[https://openalex.org/A5100424488][Yong Wang]], [[https://openalex.org/A5100328291][Shuai Wang]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06966 
-     
-Understanding the roles of coadsorbates on crowded catalytic surfaces is critical to optimizing industrial catalysts that are generally employed under high-pressure conditions. For ammonia synthesis from N2 hydrogenation (i.e., the Haber–Bosch process), it is well-known that supported Ru catalysts tend to be highly covered by atomic H species, while the impact of these H species on N2 activation is still under controversy. Herein, kinetic assessment, isotopic labeling experiments, and in situ spectroscopic characterization were combined to investigate the mechanism of ammonia synthesis on Ru/CeO2 catalysts with their structure tuned via thermal treatments. Our experimental approaches reveal that the dominant H* surface species limit the availability of vacant Ru sites for the widely proposed direct N2 dissociation route but instead lead to the prevalence of the H-assisted N2 dissociation route with the N–N cleavage in N2H* intermediates as a kinetically relevant step. Effects of Ru particle size and Ru–CeO2 interaction on the catalytic activity were kinetically deconvoluted in accordance with this H-assisted mechanism, unveiling their decisive influences on intrinsic activity and surface coverage, respectively. Driven by these fundamental insights gained from the working conditions, superior ammonia formation rates were achieved for supported Ru catalysts via optimizing Ru particle size and metal–support interaction collaboratively.    
-
-    
 
 * Manipulating the Adjacent Microenvironment of Atomically Dispersed FeN4 Sites via Cross-Link-Induced 3D Carbon Nest for Efficient Oxygen Reduction  :ACS_Catalysis:
 :PROPERTIES:
@@ -402,5 +276,68 @@ OpenAlex: https://openalex.org/W4406328950 (Open access: True)
 [[https://openalex.org/A5022469888][Reuben B. Leveson‐Gower]], [[https://openalex.org/A5043880857][Laura Tiessler‐Sala]], [[https://openalex.org/A5005328052][H.J. Rozeboom]], [[https://openalex.org/A5087468780][A.M.W.H. Thunnissen]], [[https://openalex.org/A5076914476][Jean‐Didier Maréchal]], [[https://openalex.org/A5032880385][Gérard Roelfes]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06409  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c06409?ref=article_openPDF][pdf]])
      
 The evolution of a promiscuous enzyme for its various activities often results in catalytically specialized variants. This is an important natural mechanism to ensure the proper functioning of natural metabolic networks. It also acts as both a curse and blessing for enzyme engineers, where enzymes that have undergone directed evolution may exhibit exquisite selectivity at the expense of a diminished overall catalytic repertoire. We previously performed two independent directed evolution campaigns on a promiscuous designer enzyme that leverages the unique properties of a noncanonical amino acid (ncAA) para-aminophenylalanine (pAF) as catalytic residue, resulting in two evolved variants which are both catalytically specialized. Here, we combine mutagenesis, crystallography, and computation to reveal the molecular basis of the specialization phenomenon. In one evolved variant, an unexpected change in quaternary structure biases substrate dynamics to promote enantioselective catalysis, while the other demonstrates synergistic cooperation between natural side chains and the pAF residue to form semisynthetic catalytic machinery.    
+
+    
+
+* Cobalt-Catalyzed Chemoselective π–σ–π-Type Tandem Reductive Coupling to Access Isoquinolines via Carbocobaltation of Nitriles  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406362720
+:TOPICS: Catalytic C–H Functionalization Methods, Asymmetric Hydrogenation and Catalysis, Asymmetric Synthesis and Catalysis
+:PUBLICATION_DATE: 2025-01-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c07667")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406362720"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406362720"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406362720"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406362720 (Open access: False)
+    
+[[https://openalex.org/A5101914712][Ling Tang]], [[https://openalex.org/A5062198941][Xueyu Liu]], [[https://openalex.org/A5079813515][Xintong Wang]], [[https://openalex.org/A5019669761][Xianmao Liu]], [[https://openalex.org/A5091731103][Xinmiao Huang]], [[https://openalex.org/A5109305406][Ni Qian]], [[https://openalex.org/A5033493491][Chen He]], [[https://openalex.org/A5046378812][Gen Luo]], [[https://openalex.org/A5033059956][Yuanhong Ma]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c07667 
+     
+No abstract    
+
+    
+
+* Helix Zipper Regulating Formolase Activity  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406362725
+:TOPICS: Catalysis for Biomass Conversion, Biofuel production and bioconversion, Polysaccharides and Plant Cell Walls
+:PUBLICATION_DATE: 2025-01-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c07452")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406362725"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406362725"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406362725"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406362725 (Open access: False)
+    
+[[https://openalex.org/A5082358402][Zijian Tan]], [[https://openalex.org/A5006700378][Zijing Tang]], [[https://openalex.org/A5048429495][Hongli Wei]], [[https://openalex.org/A5008388530][R.‐H. Zhang]], [[https://openalex.org/A5045529274][Ling Sun]], [[https://openalex.org/A5100687142][Weidong Liu]], [[https://openalex.org/A5100325550][Haifeng Liu]], [[https://openalex.org/A5021560784][Leilei Zhu]], [[https://openalex.org/A5111789957][Yanhe Ma]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c07452 
+     
+No abstract    
+
+    
+
+* Optimizing Ethylene Production through Enhanced Monomolecular β-Scission in Confined Catalytic Cracking of Olefin  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406369344
+:TOPICS: Catalysis and Oxidation Reactions, Zeolite Catalysis and Synthesis, Catalysts for Methane Reforming
+:PUBLICATION_DATE: 2025-01-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05323")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406369344"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406369344"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406369344"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406369344 (Open access: False)
+    
+[[https://openalex.org/A5050433829][Yanfen Zuo]], [[https://openalex.org/A5100328598][Lei Ye]], [[https://openalex.org/A5077860557][Wenjie Yang]], [[https://openalex.org/A5070734356][Bo Peng]], [[https://openalex.org/A5100345438][Jing Zhang]], [[https://openalex.org/A5055699375][Xingtian Shu]], [[https://openalex.org/A5075305513][Youhao Xu]], [[https://openalex.org/A5075262049][Jichang Liu]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c05323 
+     
+No abstract    
 
     
