@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Jan 2025 01:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 01:16:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Surface S-Doped Nanostructured RuO&lt;sub&gt;2&lt;/sub&gt; and Its Anion Passivating Effect for Efficient Overall Seawater Splitting</title>
-      <link>https://doi.org/10.1021/acsnano.4c14851</link>
-      <description>Yu Liu, Wu Lu, Yong Wang, Le&#8208;Wei Shen, Ge Tian, Lianmeng Cui, Ling Qin, Liang Zhou, Yuexing Zhang, Federico Rosei, Xiaoyu Yang, ACS Nano. None(None)] 2025. https://openalex.org/W4406204831
-
-                Electrolysis of seawater for hydrogen (H2) production to harvest clean energy is an appealing approach. In this context, there is an urgent need for catalysts with high activity and durability. RuO2 electrocatalysts have shown efficient activity in the hydrogen and oxygen evolution reactions (HER and OER), but they still suffer from poor stability. Herein, surface S-doped nanostructured RuO2 (S-RuO2) is rationally fabricated for efficient overall seawater splitting. Doping with S enhances the activity (overpotentials of 25 mV for the HER and 243 mV for the OER), long-term durability (1000 h at 100 mA cm&#8211;2), and achieves nearly 100% Faraday efficiency (FE). Moreover, the S-RuO2-based anion exchange membrane seawater electrolyzer requires 2.01 V to reach 1.0 A cm&#8211;2 under demanding industrial conditions. Experimental analysis and theoretical calculations indicate that surface S introduction could lower the valence state of Ru, thereby conferring enhanced activity and stability. Furthermore, the nanostructured S-RuO2 electrocatalyst is highly protected by the S-doped surface, which repels Cl&#8211; in alkaline seawater. This investigation presents a feasible strategy for designing RuO2-based seawater splitting catalysts with both high performance and good resistance to anodic corrosion.</description>
-      <author>Yu Liu, Wu Lu, Yong Wang, Le&#8208;Wei Shen, Ge Tian, Lianmeng Cui, Ling Qin, Liang Zhou, Yuexing Zhang, Federico Rosei, Xiaoyu Yang</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c14851</guid>
-    </item>
-    <item>
-      <title>Review for "Big pyridyl Schiff base &#960;-conjugated skeleton based cobalt/iron metal complexes: a bimetallic electrocatalyst for oxygen evolution reaction"</title>
-      <link>https://doi.org/10.1039/d4tc04325a/v2/review1</link>
-      <description>, No host. None(None)] 2025. https://openalex.org/W4406206683
-
-                No abstract</description>
-      <author/>
-      <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4tc04325a/v2/review1</guid>
-    </item>
-    <item>
-      <title>An In&#8208;depth Study of the Fe&#8208;Se System at the Nanoscale Reveals Remarkable Results on the Electrocatalytic Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/ejic.202400743</link>
-      <description>Dinesh Singh, Monika Ghalawat, Pankaj Poddar, European Journal of Inorganic Chemistry. None(None)] 2025. https://openalex.org/W4406209376
-
-                A catalyst for an electrocatalytic oxygen evolution reaction (OER) is a key component of the large&#8208;scale storage of renewable energy through the conversion of water into oxygen and hydrogen. Iron&#8208;based selenide materials are currently being considered as potential options for electrocatalytic oxygen evolution reaction (OER) because of their, widespread availability, inexpensive cost, and outstanding performance. In this study, we employed a thermal decomposition method to synthesize all stable phases of the Fe&#8208;Se system, including Fe7Se8, Fe3Se4, FeSe2, and FeSe. Additionally, we slurry&#8208;coated these phases onto a 3D nickel foam substrate. The prepared three&#8208;dimensional electrodes of Fe7Se8, Fe3Se4, FeSe2, and FeSe exhibit remarkably low overpotentials of 270, 276, 299, and 289 mV at a current density of 50 mA/cm2 for OER. In addition, the catalytic activity for OER is also tested on glassy carbon electrodes to compare its performance with the Ni&#8208;foam 3D substrate. The Fe7Se8 phase in the Fe&#8208;Se system exhibits the highest catalytic activity towards OER on both substrates due to variations in the Fe2+/Fe3+ ratio and the presence of Fe vacancies (cation vacancies) within the crystal lattice. Moreover, a faradaic efficiency of 98% was exhibited by Fe7Se8 for the oxygen evolution reaction (OER).</description>
-      <author>Dinesh Singh, Monika Ghalawat, Pankaj Poddar</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ejic.202400743</guid>
-    </item>
-    <item>
-      <title>Vs2-Incorporated Nis/Nis2/Zn-Doped Nimoo4 Nanosheet Arrays on Nickel Foam with Multiphase Heterointerface as Highly Efficient Alkaline Electrocatalysts for Overall Water Splitting</title>
-      <link>https://doi.org/10.2139/ssrn.5091049</link>
-      <description>Lina Jia, Gaohui Du, Qingmei Su, Huayv Li, Shixian Chen, Bingshe Xu, No host. None(None)] 2025. https://openalex.org/W4406210180
-
-                Exploring and developing highly active and low-cost transition metal-based electrocatalysts for hydrogen evolution reaction (HER), oxygen evolution reaction (OER) and overall water splitting in alkaline media is greatly significant for achieving large-scale applications of sustainable clean energy. Herein, we reported the preparation of VS2/NiSx-Zn-NiMoO4 porous nanosheet arrays grown on nickel foam (NF) with rich multiphase interfacial structures via transition metal doping and sulfurization, and its electrocatalytic properties of HER, OER and overall water splitting were studied. The doping of the NiMoO4 host material with transition metal cations (Zn2+) optimizes its electronic structure and generates abundant active sites, thus accelerating the OER reaction kinetics. The formation of transition metal nickel-based sulfides (NiS and NiS2) is beneficial for improving the conductivity of the material. Meanwhile, the introduction of VS2 also promotes the adsorption and transport efficiency of intermediate hydrogen atoms, thereby enhancing HER activity. The multiphase interfaces in VS2/NiSx-Zn-NiMoO4 nanosheets synergistically modulated NiMoO4, which fully utilized the advantages of each material to accelerate electron transfer and induce synergistic catalytic effects to achieve excellent electrocatalytic performance. When VS2/NiSx-Zn-NiMoO4/NF was used as catalyst for HER and OER in an alkaline solution, it required only 162 and 118 mV overpotential at 100 mA cm-2, respectively. Furthermore, the water electrolyser system constructed by using it as the cathode and anode showed excellent performance, requiring only 1.60 V cell voltage to reach 100 mA cm-2 and showing excellent stability. This work provides a new perspective for the application of transition metal molybdates in highly efficient electrocatalysts for alkaline water splitting through reasonable structural optimization.</description>
-      <author>Lina Jia, Gaohui Du, Qingmei Su, Huayv Li, Shixian Chen, Bingshe Xu</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5091049</guid>
-    </item>
-    <item>
-      <title>Preparation and Electrochemical Oxygen Evolution Performance of Er-Mof/Femoo4/Nf</title>
-      <link>https://doi.org/10.2139/ssrn.5090999</link>
-      <description>Luo Zhao, Wang Li, Hao Xu, Zikang Wang, Daxiang Yang, Yuping Liu, Xiaoqin Liao, Ming Nie, No host. None(None)] 2025. https://openalex.org/W4406210274
-
-                No abstract</description>
-      <author>Luo Zhao, Wang Li, Hao Xu, Zikang Wang, Daxiang Yang, Yuping Liu, Xiaoqin Liao, Ming Nie</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5090999</guid>
-    </item>
-    <item>
-      <title>Polyphenol-metal coordination derived high-entropy alloy as bifunctional oxygen electrocatalyst for Zn-air batteries</title>
-      <link>https://doi.org/10.1007/s12598-024-03065-1</link>
-      <description>Mengdi Hao, Qin Li, Jong-Won Sun, Liu Deng, Hualong Yu, Rui Liu, Rare Metals. None(None)] 2025. https://openalex.org/W4406214563
-
-                No abstract</description>
-      <author>Mengdi Hao, Qin Li, Jong-Won Sun, Liu Deng, Hualong Yu, Rui Liu</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12598-024-03065-1</guid>
-    </item>
-    <item>
-      <title>Lattice Oxygen Redox Dynamics in Zeolite&#8208;Encapsulated CsPbBr&lt;sub&gt;3&lt;/sub&gt; Perovskite OER Electrocatalysts</title>
-      <link>https://doi.org/10.1002/advs.202412679</link>
-      <description>Xiangrong Ren, Yiyue Zhai, Na Yang, Bolun Wang, Shengzhong Liu, Advanced Science. None(None)] 2025. https://openalex.org/W4406222609
-
-                Abstract Understanding the oxygen evolution reaction (OER) mechanism is pivotal for improving the overall efficiency of water electrolysis. Despite methylammonium lead halide perovskites (MAPbX 3 ) have shown promising OER performance due to their soft&#8208;lattice nature that allows lattice&#8208;oxygen oxidation of active &#945;&#8208;PbO 2 layer surface, the role of A&#8208;site MA or X&#8208;site elements in the electrochemical reconstruction and OER mechanisms has yet to be explored. Here, it is demonstrated that the OER mechanism of perovskite@zeolite composites is intrinsically dominated by the A&#8208;site group of lead&#8208;halide perovskites, while the type of X&#8208;site halogen is crucial for the reconstruction kinetics of the composites. Using CsPbBr x I 3&#8208; x @AlPO&#8208;5 ( x = 0, 1, 2, 3) as a model OER catalyst, it is found that the CsPbBr 3 @AlPO&#8208;5 behaves oxygen&#8208;intercalation pseudocapacitance during surface restructuring due to absence of halogen&#8208;ion migration and phase separation in the CsPbBr 3 , achieving a larger diffusion rate of OH &#8722; within the core&#8208;shell structure. Moreover, distinct from the single&#8208;metal&#8208;site mechanism of MAPbBr 3 @AlPO&#8208;5, experimental and theoretical investigations reveal that the soft lattice nature of CsPbBr 3 triggers the oxygen&#8208;vacancy&#8208;site mechanism via the CsPbBr 3 /&#945;&#8208;PbO 2 interface, resulting in excellent OER performance. Owing to the variety and easy tailoring of lead&#8208;halide perovskite compositions, these findings pave a way for the development of novel perovskite@zeolite type catalysts for efficient oxygen electrocatalysis.</description>
-      <author>Xiangrong Ren, Yiyue Zhai, Na Yang, Bolun Wang, Shengzhong Liu</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/advs.202412679</guid>
-    </item>
-    <item>
-      <title>Introducing Sulfur in VNi-Layered Double Hydroxide Enables Efficient Electrocatalytic Oxidation of Benzylamine with High Current Densities</title>
-      <link>https://doi.org/10.1021/acsami.4c20149</link>
-      <description>Baghendra Singh, Rakesh Kumar, Neetu Verma, Apparao Draksharapu, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4406225746
-
-                The replacement of the thermodynamically unfavorable anodic oxygen evolution reaction (OER) with a more favorable organic oxidation reaction, such as the anodic oxidation of benzylamine, has garnered significant interest in hybrid water electrolyzer cells. This approach promises the production of value-added chemicals alongside hydrogen fuel generation, improving overall energy efficiency. However, achieving high current density for benzylamine oxidation without interference from OER remains a challenge, limiting the practical efficiency of the electrolyzer cell. In this study, we investigated a room temperature method for sulfur introduction in VNi-layered double hydroxide (LDH) catalyst and its application for electrocatalytic benzylamine oxidation. The S-introduction in VNi-LDH was found to modulate the electronic states of nickel and vanadium, increasing the number of active sites, electrochemical surface area, and charge transfer properties. The resulting S-VNi-LDH catalyst achieved a high current density of 400 mA cm&#8211;2 at only 1.39 V vs RHE potential for benzylamine oxidation, avoiding interference from oxygen evolution. The catalyst demonstrated 100% selectivity (Faradaic Efficiency = 98.6%) for the conversion of benzylamine into benzonitrile within 2.5 h of the reaction. In a two-electrode electrolysis system, S-VNi-LDH achieved a current density of 400 mA cm&#8211;2 at a cell voltage of 1.50 V when OER was substituted with benzylamine oxidation. The S-VNi-LDH showed energy consumption of 4.67 kWh/m3 H2 for OER and 1.31 kWh/m3 H2 during benzylamine oxidation, indicating a high energy efficiency with exceptional stability over five cycles, maintaining 98.6 &#177; 0.4% FE and consistent voltage. The S-VNi-LDH also oxidized various amines, including substituted benzylamines and secondary amines, achieving high conversion (95&#8211;97%) and faradaic efficiency (85.8&#8211;98%). This study presents an eco-friendly, room-temperature method for S-doping in VNi-LDH, which out performed the reported catalysts in the literature.</description>
-      <author>Baghendra Singh, Rakesh Kumar, Neetu Verma, Apparao Draksharapu</author>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c20149</guid>
-    </item>
-    <item>
-      <title>Continuous-flow electrooxidation for scalable biomass upgrading over copper-supported CoFe Prussian blue analogues</title>
-      <link>https://doi.org/10.20517/cs.2024.37</link>
-      <description>Bowen Zhang, Tian&#8208;Tian Xiao, Cejun Hu, Ziwei Liu, Peng Chen, Zhengyu Zhao, Dingxiang Lai, Jinming Huang, Hongwei Zhang, Xiaojun Bao, Pei Pei Yuan, Chemical Synthesis. 5(1)] 2025. https://openalex.org/W4406227756
-
-                Electrochemical biomass upgrading is a promising substitute for oxygen evolution reaction (OER) to generate valuable chemicals in conjunction with hydrogen generation. Pursuing highly efficient and durable electrocatalysts for significant concentration levels (&#8805; 50 mM) of biomass electrooxidation remains an enduring challenge. Herein, we introduce a robust Cu-supported CoFe Prussian blue analogue (CoFe PBA/CF) electrocatalyst, adept at facilitating high-concentration (50 mM) 5-hydroxymethylfurfural (HMF) oxidation into 2,5-furandicarboxylic acid (FDCA), achieving an exceptional HMF conversion (100%) with a notable FDCA yield of 98.4%. The influence of copper substrate and adsorption energy are therefore discussed. Impressively, the CoFe PBA/CF electrode sustains considerable durability in a continuous-flow electrochemical reactor designed for consecutive FDCA production, showcasing FDCA yields of 100/94% at flow rates of 0.4/0.8 mL&#183;min-1 over 60 h&#8217; uninterrupted electrolysis. This work provides a promising strategy to develop highly efficient and robust electrocatalysts for the consecutive production of high-value products coupled with green H2 production.</description>
-      <author>Bowen Zhang, Tian&#8208;Tian Xiao, Cejun Hu, Ziwei Liu, Peng Chen, Zhengyu Zhao, Dingxiang Lai, Jinming Huang, Hongwei Zhang, Xiaojun Bao, Pei Pei Yuan</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.20517/cs.2024.37</guid>
-    </item>
-    <item>
-      <title>Optimizing electronic synergy of atomically dispersed dual-metal sites for high-efficiency Oxygen Evolution/Reduction Reaction</title>
-      <link>https://doi.org/10.1039/d4cc05706f</link>
-      <description>Yue Wang, Caihong Feng, Ziang Shang, Xintong Li, Chao Ma, Guanzhen Chen, Ying Zhao, Shaoheng Wu, Yunhu Han, Chemical Communications. None(None)] 2025. https://openalex.org/W4406227995
-
-                We reported an exogenous nitrogen-doped method to synthesize a bifunctional electrocatalyst with oxygen reduction and evolution reaction activity. This electrocatalyst display excellent ORR (E1/2 = 0.9 V vs. RHE) and...</description>
-      <author>Yue Wang, Caihong Feng, Ziang Shang, Xintong Li, Chao Ma, Guanzhen Chen, Ying Zhao, Shaoheng Wu, Yunhu Han</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cc05706f</guid>
-    </item>
     <item>
       <title>Bimetallic Selenide NiCo&#8208;Se/CFP as Effective Oxygen Evolution Reaction Electrocatalyst for Electrocatalytic Water Splitting</title>
       <link>https://doi.org/10.1002/slct.202405201</link>
@@ -668,26 +568,6 @@
       <guid isPermaLink="true">https://doi.org/10.1063/5.0242496</guid>
     </item>
     <item>
-      <title>Review for "Big pyridyl Schiff base &#960;-conjugated skeleton based cobalt/iron metal complexes: a bimetallic electrocatalyst for oxygen evolution reaction"</title>
-      <link>https://doi.org/10.1039/d4tc04325a/v1/review1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4406206988
-
-                No abstract</description>
-      <author/>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4tc04325a/v1/review1</guid>
-    </item>
-    <item>
-      <title>Review for "Big pyridyl Schiff base &#960;-conjugated skeleton based cobalt/iron metal complexes: a bimetallic electrocatalyst for oxygen evolution reaction"</title>
-      <link>https://doi.org/10.1039/d4tc04325a/v1/review2</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4406207155
-
-                No abstract</description>
-      <author/>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4tc04325a/v1/review2</guid>
-    </item>
-    <item>
       <title>Engineering surface sulfur vacancies of cobalt-doped nickel sulfide arrays induced by Ar plasma treatment to promote oxygen evolution reaction</title>
       <link>https://doi.org/10.1016/j.ijhydene.2025.01.059</link>
       <description>Kai Peng, Peng Cui, Fang Miao, International Journal of Hydrogen Energy. 102(None)] 2025. https://openalex.org/W4406341246
@@ -696,46 +576,6 @@
       <author>Kai Peng, Peng Cui, Fang Miao</author>
       <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.01.059</guid>
-    </item>
-    <item>
-      <title>Decision letter for "Big pyridyl Schiff base &#960;-conjugated skeleton based cobalt/iron metal complexes: a bimetallic electrocatalyst for oxygen evolution reaction"</title>
-      <link>https://doi.org/10.1039/d4tc04325a/v1/decision1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4406206708
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4tc04325a/v1/decision1</guid>
-    </item>
-    <item>
-      <title>Author response for "Big pyridyl Schiff base &#960;-conjugated skeleton based cobalt/iron metal complexes: a bimetallic electrocatalyst for oxygen evolution reaction"</title>
-      <link>https://doi.org/10.1039/d4tc04325a/v2/response1</link>
-      <description>Yuwei Dong, Mingyu Wu, Yu Ren, Zhou Yu, Zhao Zhen, No host. None(None)] 2024. https://openalex.org/W4406207003
-
-                No abstract</description>
-      <author>Yuwei Dong, Mingyu Wu, Yu Ren, Zhou Yu, Zhao Zhen</author>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4tc04325a/v2/response1</guid>
-    </item>
-    <item>
-      <title>Review for "Big pyridyl Schiff base &#960;-conjugated skeleton based cobalt/iron metal complexes: a bimetallic electrocatalyst for oxygen evolution reaction"</title>
-      <link>https://doi.org/10.1039/d4tc04325a/v2/review2</link>
-      <description>, No host. None(None)] 2025. https://openalex.org/W4406206666
-
-                No abstract</description>
-      <author/>
-      <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4tc04325a/v2/review2</guid>
-    </item>
-    <item>
-      <title>Decision letter for "Big pyridyl Schiff base &#960;-conjugated skeleton based cobalt/iron metal complexes: a bimetallic electrocatalyst for oxygen evolution reaction"</title>
-      <link>https://doi.org/10.1039/d4tc04325a/v2/decision1</link>
-      <description>, No host. None(None)] 2025. https://openalex.org/W4406206678
-
-                No abstract</description>
-      <author/>
-      <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4tc04325a/v2/decision1</guid>
     </item>
     <item>
       <title>A general concept toward the in situ encapsulation of metal sites in a microporous Si-C-O-N-based matrix to stimulate superior oxygen evolution reaction activity (invited conference)</title>
@@ -858,16 +698,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/slct.202405336</guid>
     </item>
     <item>
-      <title>Induction of Nanoscale Magnetic Ordering in Non&#8208;Ferrous Layered Double Hydroxides: Stabilizing Spintronic Electrocatalysis</title>
-      <link>https://doi.org/10.1002/smll.202412021</link>
-      <description>Sakshi Kansal, Rahul Ravindran, Alok Kumar Srivastava, Amreesh Chandra, Small. None(None)] 2025. https://openalex.org/W4406381670
-
-                Abstract Inducing magnetic ordering in a non&#8208;ferrous layered double hydroxides (LDHs) instigates higher spin polarization, which leads to enhanced efficiency during oxygen evolution reaction (OER). In nano&#8208;sized magnetic materials, the concept of elongated grains drives domain alignment under the application of an external magnetic field. Hence, near the solid electrode interface, modified magnetohydrodynamics (MHD) positively impacts the electrocatalytic ability of non&#8208;ferrous nanocatalysts. Consequently, significant improvement in the water&#8208;splitting kinetics can be obtained by using even low magnetic fields. At 100 Gauss, 20% and 10% decrement in the overpotential is reported for OER and hydrogen evolution reaction (HER), respectively. Density functional theory (DFT) calculations are also presented to explain the thermodynamics of the HER/OER processes. It is established that the Gibbs energy of the process can reduce the exchange energy barrier by using dopant like cobalt. The additional cobalt metal active site have the highest probability for adsorption of reactive intermediates during HER and OER, which results in higher efficiencies.</description>
-      <author>Sakshi Kansal, Rahul Ravindran, Alok Kumar Srivastava, Amreesh Chandra</author>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202412021</guid>
-    </item>
-    <item>
       <title>N-Doped activated carbon derived from water hyacinth for ultra-stable metal-free bifunctional electrode for zinc-air battery</title>
       <link>https://doi.org/10.4314/bcse.v39i3.14</link>
       <description>Assegid Ergete, Yongfa Huang, Jiawei Zhou, Teklewold Getachew, Asmamaw Taye, Ruidong Xia, Emmanuel I. Iwuoha, Xinwen Peng, Shimelis Admassie, Bulletin of the Chemical Society of Ethiopia. 39(3)] 2024. https://openalex.org/W4406243109
@@ -876,6 +706,16 @@
       <author>Assegid Ergete, Yongfa Huang, Jiawei Zhou, Teklewold Getachew, Asmamaw Taye, Ruidong Xia, Emmanuel I. Iwuoha, Xinwen Peng, Shimelis Admassie</author>
       <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.4314/bcse.v39i3.14</guid>
+    </item>
+    <item>
+      <title>Induction of Nanoscale Magnetic Ordering in Non&#8208;Ferrous Layered Double Hydroxides: Stabilizing Spintronic Electrocatalysis</title>
+      <link>https://doi.org/10.1002/smll.202412021</link>
+      <description>Sakshi Kansal, Rahul Ravindran, Alok Kumar Srivastava, Amreesh Chandra, Small. None(None)] 2025. https://openalex.org/W4406381670
+
+                Abstract Inducing magnetic ordering in a non&#8208;ferrous layered double hydroxides (LDHs) instigates higher spin polarization, which leads to enhanced efficiency during oxygen evolution reaction (OER). In nano&#8208;sized magnetic materials, the concept of elongated grains drives domain alignment under the application of an external magnetic field. Hence, near the solid electrode interface, modified magnetohydrodynamics (MHD) positively impacts the electrocatalytic ability of non&#8208;ferrous nanocatalysts. Consequently, significant improvement in the water&#8208;splitting kinetics can be obtained by using even low magnetic fields. At 100 Gauss, 20% and 10% decrement in the overpotential is reported for OER and hydrogen evolution reaction (HER), respectively. Density functional theory (DFT) calculations are also presented to explain the thermodynamics of the HER/OER processes. It is established that the Gibbs energy of the process can reduce the exchange energy barrier by using dopant like cobalt. The additional cobalt metal active site have the highest probability for adsorption of reactive intermediates during HER and OER, which results in higher efficiencies.</description>
+      <author>Sakshi Kansal, Rahul Ravindran, Alok Kumar Srivastava, Amreesh Chandra</author>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202412021</guid>
     </item>
     <item>
       <title>Efficient Catalysis for Zinc&#8211;Air Batteries by Multiwalled Carbon Nanotubes&#8208;Crosslinked Carbon Dodecahedra Embedded with Co&#8211;Fe Nanoparticles</title>
@@ -968,16 +808,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202419978</guid>
     </item>
     <item>
-      <title>The Tiara Nickel Cluster Story from Theory to Catalytic Applications</title>
-      <link>https://doi.org/10.1021/prechem.4c00087</link>
-      <description>Piracha Sanwal, Xinrui Gu, Yifei Zhang, Gao Li, Precision Chemistry. None(None)] 2025. https://openalex.org/W4406207307
-
-                As a transition material between bulk materials and individual atoms, nickel clusters have interesting electrical and structural characteristics that could make them useful as catalysts. To examine the catalytic efficiency of nickel clusters in different applications, this Review combines experimental techniques with density functional theory (DFT). Researchers have shown that nickel clusters can activate and alter tiny molecules like CO, NO, and H2 through DFT studies that delve deeply into their electronic structures, adsorption mechanisms, and stability. These findings lay the groundwork for the development of effective catalysts for various processes. Nickel clusters considerably improve the hydrogen evolution reaction (HER), indicating their promise for renewable energy conversion. Furthermore, electrocatalysis for the oxygen evolution reaction (OER) showcases the electrochemical performance of nickel clusters, demonstrating their stability and efficiency. The adaptability of nickel clusters is further demonstrated by their use in nitrogen reduction to ammonia. Experimental data confirm that these clusters are good catalysts for this crucial industrial activity. Hydrocarbon reforming and pollutant degradation are two areas in which research has shown that nickel clusters can be useful in thermal reactions. X-ray absorption spectroscopy (XAS) and environmental transmission electron microscopy (ETEM) are examples of in situ characterization techniques that support theoretical predictions by providing real-time insights into the structural alterations and active sites of nickel clusters during these processes. Preparing the way for future research and practical applications in energy and environmental technologies, this thorough study highlights the great potential of nickel clusters in constructing sustainable and efficient catalytic systems.</description>
-      <author>Piracha Sanwal, Xinrui Gu, Yifei Zhang, Gao Li</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/prechem.4c00087</guid>
-    </item>
-    <item>
       <title>Ferroelectric Polarization&#8208;Induced Performance Enhancements in BiFeO&lt;sub&gt;3&lt;/sub&gt;/BiVO&lt;sub&gt;4&lt;/sub&gt; Photoanodes for Photoelectrochemical Water Splitting</title>
       <link>https://doi.org/10.1002/adfm.202417651</link>
       <description>Michael Gunawan, Owen Bowdler, Yingtang Zhou, Xueqing Fang, Qi Zhang, Yasuhiro Sakamoto, Kaiwen Sun, Denny Gunawan, Shery L. Y. Chang, Rose Amal, V. Nagarajan, Jason Scott, Judy N. Hart, Cui Ying Toe, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4406371334
@@ -1048,16 +878,6 @@
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-3nnbx-v2</guid>
     </item>
     <item>
-      <title>Evolution of the Hydrothermal Fluids Inferred from the Occurrence and Isotope Characteristics of the Carbonate Minerals at the Pogo Gold Deposit, Alaska, USA</title>
-      <link>https://doi.org/10.3390/min15010067</link>
-      <description>Y. Morishita, Jamie R. Rogers, Minerals. 15(1)] 2025. https://openalex.org/W4406328344
-
-                Pogo is identified as a deep-seated, intrusion-related gold deposit. Carbonate minerals have a close spatial relationship to hydrothermal gold mineralization in all of its principal ore zones. The carbon and oxygen isotopic ratios of carbonate minerals (siderite, ankerite, and calcite) present within the deposit illustrate the isotopic evolution of the ore-forming fluid. The initial hydrothermal fluid phase is interpreted to be magmatic in origin. The fluid evolution was characterized by a gradual decrease in &#948;18O and a slight increase in &#948;13C with decreasing temperature. The dominant carbon-bearing species was CO2, with methane introduced sporadically. Siderite is associated with early-stage mineralization and occurs with ankerite in main-stage ore assemblages. Calcite is recognized in the later stages of mineralization. Gold in the Pogo deposit occurs as native gold, Au-Bi-Te minerals, inclusions in sulfide minerals, or as &#8220;invisible gold&#8221;. The latter is found in pyrite, chalcopyrite, arsenopyrite, and quartz, based on ion microprobe analysis. The presence of invisible gold in these minerals has significant metallurgical implications for gold processing at the Pogo mine.</description>
-      <author>Y. Morishita, Jamie R. Rogers</author>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/min15010067</guid>
-    </item>
-    <item>
       <title>Application of Time Series Analysis on Kinetic Monte Carlo Simulations of Hyperthermal Oxidation of Graphite</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c07175</link>
       <description>Sharon Edward, Moon&#8208;ki Choi, Harley T. Johnson, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4406245536
@@ -1066,6 +886,16 @@
       <author>Sharon Edward, Moon&#8208;ki Choi, Harley T. Johnson</author>
       <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07175</guid>
+    </item>
+    <item>
+      <title>Evolution of the Hydrothermal Fluids Inferred from the Occurrence and Isotope Characteristics of the Carbonate Minerals at the Pogo Gold Deposit, Alaska, USA</title>
+      <link>https://doi.org/10.3390/min15010067</link>
+      <description>Y. Morishita, Jamie R. Rogers, Minerals. 15(1)] 2025. https://openalex.org/W4406328344
+
+                Pogo is identified as a deep-seated, intrusion-related gold deposit. Carbonate minerals have a close spatial relationship to hydrothermal gold mineralization in all of its principal ore zones. The carbon and oxygen isotopic ratios of carbonate minerals (siderite, ankerite, and calcite) present within the deposit illustrate the isotopic evolution of the ore-forming fluid. The initial hydrothermal fluid phase is interpreted to be magmatic in origin. The fluid evolution was characterized by a gradual decrease in &#948;18O and a slight increase in &#948;13C with decreasing temperature. The dominant carbon-bearing species was CO2, with methane introduced sporadically. Siderite is associated with early-stage mineralization and occurs with ankerite in main-stage ore assemblages. Calcite is recognized in the later stages of mineralization. Gold in the Pogo deposit occurs as native gold, Au-Bi-Te minerals, inclusions in sulfide minerals, or as &#8220;invisible gold&#8221;. The latter is found in pyrite, chalcopyrite, arsenopyrite, and quartz, based on ion microprobe analysis. The presence of invisible gold in these minerals has significant metallurgical implications for gold processing at the Pogo mine.</description>
+      <author>Y. Morishita, Jamie R. Rogers</author>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/min15010067</guid>
     </item>
     <item>
       <title>Oxygen-Passivated Sulfur Vacancies in Monolayer MoS&lt;sub&gt;2&lt;/sub&gt; for Enhanced Piezoelectricity</title>
@@ -1088,16 +918,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/w17020211</guid>
     </item>
     <item>
-      <title>Post&#8208;Degradation Recovery of CsPbI&lt;sub&gt;3&lt;/sub&gt; Quantum Dot Solar Cells</title>
-      <link>https://doi.org/10.1002/smll.202409709</link>
-      <description>Julius Brunner, Angelika Wrzesi&#324;ska&#8208;Lashkova, Lucas Scalon, Robson Ferrari Muniz, Anatol Prudnikau, Darius Pohl, Markus L&#246;ffler, Fabian Paulus, Yana Vaynzof, Small. None(None)] 2025. https://openalex.org/W4406226647
-
-                Abstract The stability of perovskite quantum dot solar cells is one of the key challenges of this technology. This study reveals the unique degradation behavior of cesium lead triiodide (CsPbI 3 ) quantum dot solar cells. For the first time, it is shown that the oxygen&#8208;induced degradation and performance loss of CsPbI 3 quantum dot photovoltaic devices can be reversed by exposing the degraded samples to humidity, allowing the performance to recover and even surpass the initial performance. By careful characterization and analysis throughout the degradation and recovery process, the underlying physical and chemical mechanisms that govern the evolution of the device performance could be identified. It is shown that the ligand shell of the quantum dots, rather than the instability of the semiconducting material itself, is the driving factor in these mechanisms. This highlights the important role of surface chemistry and ligand design in enhancing perovskite quantum dot photovoltaics.</description>
-      <author>Julius Brunner, Angelika Wrzesi&#324;ska&#8208;Lashkova, Lucas Scalon, Robson Ferrari Muniz, Anatol Prudnikau, Darius Pohl, Markus L&#246;ffler, Fabian Paulus, Yana Vaynzof</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202409709</guid>
-    </item>
-    <item>
       <title>Polythiophene-Based Nonmetal Electrocatalyst with Biocompatibility to Boost Efficient CO&lt;sub&gt;2&lt;/sub&gt; Conversion</title>
       <link>https://doi.org/10.1021/cbe.4c00156</link>
       <description>Xiaojun Bian, Ye Yang, Sulin Ni, Bin Yang, Yang Hou, Lecheng Lei, Min Yao, Zhongjian Li, Chem &amp; Bio Engineering. None(None)] 2025. https://openalex.org/W4406323927
@@ -1118,16 +938,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/plants14020208</guid>
     </item>
     <item>
-      <title>Guidelines for Accurate and Precise Stable Isotope Analysis of Calcite, Dolomite, and Magnesite Using a Carbonate Device for Continuous Flow&#8208;Isotope Ratio Mass Spectrometry (CF&#8208;IRMS)</title>
-      <link>https://doi.org/10.1002/rcm.9958</link>
-      <description>Soujung Kim, Sang&#8208;Tae Kim, Martin Knyf, Rapid Communications in Mass Spectrometry. 39(5)] 2025. https://openalex.org/W4406216816
-
-                ABSTRACT Rationale Carbonate minerals are one of the most popular samples for an automated sample preparation system for CF&#8208;IRMS, such as GasBench II and iso FLOW, but no standardized analytical protocols exist. This study gives guidelines on optimal analytic conditions for carbon and oxygen isotope analysis of Ca&#8211;Mg carbonates when using the carbonate&#8211;phosphoric acid reaction method. Methods Calcite (CaCO 3 &#8211;McMaster Carrara), dolomite (CaMg(CO 3 ) 2 &#8211;MRSI Dolomite), and magnesite (MgCO 3 &#8211;ROM Brazil Magnesite) with two grain size fractions (&lt; 74 and 149&#8211;250 &#956;m) were reacted with 103% (specific gravity of 1.92) phosphoric acid under He atmosphere in 12&#8208;mL borosilicate glass vials to examine the full &#948; 13 C and &#948; 18 O evolution of acid&#8208;liberated CO 2 for an extended reaction time of up to 12&#8211;30 days at 25&#176;C and up to 3&#8211;7 days at 72&#176;C. Results At 25&#176;C, the optimal reaction time of calcite is 1 day for both grain size fractions while the optimal reaction time of 2&#8211;10 day is suggested for dolomite with a grain size of &lt; 74 &#956;m. At 72&#176;C, 30&#8208;min to 12&#8208;h or 45&#8208;min to 12&#8208;h reaction is optimal for calcite with &lt; 74&#8208;&#956;m or 149&#8208; to 250&#8208;&#956;m grain size fraction, respectively, whereas dolomite requires 12&#8208;h to 1&#8208;day reaction for both grain size fractions. The only optimal condition for magnesite is 6&#8211;7 days of reaction with &lt; 74&#8208;&#956;m grain size at 72&#176;C. Conclusions To determine precise and accurate &#948; 13 C and &#948; 18 O values of a carbonate mineral using the carbonate&#8211;phosphoric acid reaction method, an optimal reaction time must be assessed for a given analytical condition to avoid nonequilibrium isotope effects and unnecessary oxygen isotope exchange of acid&#8208;liberated CO 2 in the carbonate reaction vessel. Our experimental result provides a guideline for the accurate and precise stable isotope analysis of Ca&#8211;Mg carbonate minerals.</description>
-      <author>Soujung Kim, Sang&#8208;Tae Kim, Martin Knyf</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/rcm.9958</guid>
-    </item>
-    <item>
       <title>The systemic evolutionary theory of the origin of cancer (SETOC): an update</title>
       <link>https://doi.org/10.1186/s10020-025-01069-w</link>
       <description>Antonio Mazzocca, Giovanni Ferraro, Giovanni Misciagna, Molecular Medicine. 31(1)] 2025. https://openalex.org/W4406346950
@@ -1136,16 +946,6 @@
       <author>Antonio Mazzocca, Giovanni Ferraro, Giovanni Misciagna</author>
       <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1186/s10020-025-01069-w</guid>
-    </item>
-    <item>
-      <title>Utilization of Wearable Devices as means for Remote Digital Biometric Data Collection in a community&#8208;based, rural randomized controlled trial among Alzheimer&#8217;s disease dyads</title>
-      <link>https://doi.org/10.1002/alz.090883</link>
-      <description>Elizabeth K. Rhodus, Md. Saif Hassan Onim, Celeste Roberts, Sanjeev Kumar, Amer M. Burhan, Himanshu Thapliyal, Alzheimer s &amp; Dementia. 20(S2)] 2024. https://openalex.org/W4406210955
-
-                Abstract Background Use of remote measurement of physiological parameters using digital biometrics (i.e., Electro Dermal Activities, heart rate, oxygen saturation, blood volume pulse, etc.) has a multitude of opportunities in rural contexts that have not yet fully been explored in Alzheimer&#8217;s disease (AD) clinical research. This study assessed feasibility and acceptability of advanced digital biometric data collection among rural, community&#8208;dwelling adults living with Alzheimer&#8217;s disease with support from primary caregivers (dyad). Methods Initial feasibility and acceptability of a wrist&#8208;worn wearable device (Empatica E4) as means for digital biometric data collection were assessed among participants of a larger randomized controlled trial which was aimed to assess a non&#8208;pharmacological care intervention improving behavioral symptoms of AD. Following consent, dyads were mailed an E4 device and behavior tracking journal to companion digital recordings for one week of data collection. Caregivers assisted the person with AD in wear and care of the E4 device and completed time&#8208;stamped behavior tracking. Feasibility was assessed based on completeness of digital biometric data recordings and acceptability was determined based on wear schedules for the device in participants with AD (worn &gt;50% of allotted time). Results Digital biometric data collection via remote, wearable devices is feasible and acceptable among participants with AD in rural settings among 16 dyads (person with AD age x&#772;=77&#177;2.4 years, 10 female; caregiver age years x&#772;=57&#177;2.9 years, 8 female). The E4 correctly captured biometric signals (Electro Dermal Activities, blood volume pulse, Skin Temperature, etc.). The device was acceptable as 14 of the 16 participants with AD wore the device &gt;50% of allotted time with proper completion of the caregiver&#8208;reported behavior tracking. Further, we observed that unsupervised machine learning models were able to create digital biometrics that mirrored caregivers&#8217; notes. Conclusion Advances in technology, evolution of health status surveillance, and vast needs in rural areas create an ideal scenario to advance research in digital biometrics. With goals to use digital biometrics as primary outcome measures in AD clinical trials, the findings presented here illustrate feasibility and acceptability among geographically remote communities. Additional research is needed to assess context&#8208;aware machine learning applicability in intervention&#8208;based clinical research.</description>
-      <author>Elizabeth K. Rhodus, Md. Saif Hassan Onim, Celeste Roberts, Sanjeev Kumar, Amer M. Burhan, Himanshu Thapliyal</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/alz.090883</guid>
     </item>
     <item>
       <title>Editorial: Micro and nanoparticles for regenerative medicine</title>

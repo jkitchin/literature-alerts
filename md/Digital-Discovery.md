@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Fri Jan 17 01:18:33 2025
+Created on Sat Jan 18 01:16:33 2025
 
-Found 7 results from 2025-01-10 to 2025-01-17
+Found 6 results from 2025-01-11 to 2025-01-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -14,17 +14,6 @@ Open access: True
 [Naruki Yoshikawa](https://openalex.org/A5019451422), [Gun Deniz Akkoc](https://openalex.org/A5030325510), [Sergio Pablo‐García](https://openalex.org/A5024019148), [Yang Cao](https://openalex.org/A5075998492), [Han Hao](https://openalex.org/A5091838472), [Alán Aspuru‐Guzik](https://openalex.org/A5071495561), Digital Discovery. None(None)] 2025.https://doi.org/10.1039/d4dd00323c.
     
 Automation of electrochemical measurements can accelerate the discovery of new electroactive materials.    
-
-    
-
-## AI Agents in Chemical Research: GVIM - An Intelligent Research Assistant System   
-
-OpenAlex: https://openalex.org/W4406236141    
-Open access: True
-    
-[Kangyong Ma](https://openalex.org/A5027882101), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00398e.
-    
-This work utilizes collected and organized instructional data from the field of chemical science to fine-tune mainstream open-source large language models. To objectively evaluate the performance of the fine-tuned models,...    
 
     
 

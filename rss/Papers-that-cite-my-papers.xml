@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Jan 2025 01:18:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 01:16:40 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Defect-Induced Bimetallic Cubic-Spinel NiO/NiCo2O4 heterostructures via Na-Incorporation towards efficient electrochemical water splitting performances</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.162352</link>
-      <description>Sebastian Cyril Jesudass, Subramani Surendran, Gnanaprakasam Janani, Tae&#8208;Hoon Kim, Yong Il Park, Uk Sim, Applied Surface Science. None(None)] 2025. https://openalex.org/W4406205422
-
-                No abstract</description>
-      <author>Sebastian Cyril Jesudass, Subramani Surendran, Gnanaprakasam Janani, Tae&#8208;Hoon Kim, Yong Il Park, Uk Sim</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162352</guid>
-    </item>
-    <item>
-      <title>Disclosure of the hydrogen evolution mechanism on [FeFe]-hydrogenases-inspired molecular catalysts &#8211; a DFT study</title>
-      <link>https://doi.org/10.1071/ch24137</link>
-      <description>Siyao Qiu, Aimin Yu, Cheng E. Sun, Australian Journal of Chemistry. 78(1)] 2025. https://openalex.org/W4406211325
-
-                The FeFe bio-inspired molecular catalysts that mimic the [FeFe] hydrogenases have been widely studied. However, the hydrogen evolution mechanism on the molecular catalysts is still not fully understood. In this work, the theoretical calculation was linked with experimental catalytic performance to reveal the possible reaction mechanism of FeFe molecular catalysts. The Density Functional Theory (DFT) calculations on the FeFe molecular catalysts exhibited a good match with the experimental overpotential data, with a R2 of 0.592. The detailed DFT study indicated that the first H+/e&#8722; injection was the largest thermodynamic impediment in the whole hydrogen evolution reaction (HER) cycle which follows a proton transfer &#8211; electron transfer (PT-ET) mechanism. The injected hydrogen binds to the bridging position between FeFe centre (&#181;-H) and then transfers to a terminal hydrogen on Fe (t-H). Later, the t-H combines with the second injected hydrogen to form a H2 molecule which is then released from the catalyst. The effect of different ligands on HER was also studied. It was found that different ligands around the FeFe centre could significantly change the PT and ET energy, and some could provide additional binding sites for protons.</description>
-      <author>Siyao Qiu, Aimin Yu, Cheng E. Sun</author>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1071/ch24137</guid>
-    </item>
-    <item>
-      <title>Photocatalytic asymmetric C-C coupling for CO2 reduction on dynamically reconstructed Ru&#948;+-O/Ru0-O sites</title>
-      <link>https://doi.org/10.1038/s41467-025-55885-z</link>
-      <description>Hongguang Zhang, Asfaw G. Yohannes, Heng Zhao, Li Zheng, Yejun Xiao, Xi Cheng, Hui Wang, Zhangkang Li, Samira Siahrostami, Md Golam Kibria, Jinguang Hu, Nature Communications. 16(1)] 2025. https://openalex.org/W4406218936
-
-                Solar-driven CO2 reduction to value-added C2 chemicals is thermodynamically challenging due to multiple complicated steps. The design of active sites and structures for photocatalysts is necessary to improve solar energy efficiency. In this work, atomically dispersed Ru-O sites in RuxIn2-xO3 are constructed by interior lattice anchoring of Ru. This results in the dynamic reconstruction of Ru&#948;+-O/Ru0-O sites upon photoexcitation, which facilitates the CO2 activation, *CO intermediates adsorption, and C-C coupling as demonstrated by varied in situ techniques. A SiO2 core in RuxIn2-xO3/SiO2 construction further enhances the solar energy utilization and individual RuxIn2-xO3 nanocrystals dispersion for photocatalytic CO2 reduction reaction. It results in the maximum ethanol production rate up to 31.6 &#956;mol/g/h with over 90% selectivity. DFT simulation reveals that the C2 dimer formation primarily underwent an asymmetric *CO-*CHO coupling route via a low-energy precedence ladder of *CHO. This work provides an insightful understanding of active sites with dynamic reconstruction towards asymmetric C-C coupling for CO2RR at the atomic scale. Understanding the role of atomic sites in photocatalytic CO2 reduction remains challenging. This study provides insights into dynamic Ru&#948;+-O/Ru0-O pair reconstruction and explores approaches to enhancing intermediate regulation and asymmetric *CO-*CHO coupling for producing C2+ products.</description>
-      <author>Hongguang Zhang, Asfaw G. Yohannes, Heng Zhao, Li Zheng, Yejun Xiao, Xi Cheng, Hui Wang, Zhangkang Li, Samira Siahrostami, Md Golam Kibria, Jinguang Hu</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-55885-z</guid>
-    </item>
-    <item>
-      <title>Engineering highly selective NO3RR electrocatalysts: Integrating 2D materials with Nb-doped TiN for sustainable ammonia synthesis</title>
-      <link>https://doi.org/10.1016/j.seppur.2025.131524</link>
-      <description>Guoning Feng, Yujie Sun, Ling Ren, Zehui Fang, Xin Chen, Rongjian Sa, Qiaohong Li, Chenghua Sun, Zuju Ma, Separation and Purification Technology. None(None)] 2025. https://openalex.org/W4406229862
-
-                No abstract</description>
-      <author>Guoning Feng, Yujie Sun, Ling Ren, Zehui Fang, Xin Chen, Rongjian Sa, Qiaohong Li, Chenghua Sun, Zuju Ma</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2025.131524</guid>
-    </item>
-    <item>
-      <title>Organic electrolyte cations promote non-aqueous CO2 reduction by mediating interfacial electric fields</title>
-      <link>https://doi.org/10.1038/s41929-024-01278-2</link>
-      <description>Jon-Marc McGregor, Jay T. Bender, Amanda Schramm Petersen, Louise M. Ca&#241;ada, Jan Rossmeisl, Joan F. Brennecke, Joaquin Resasco, Nature Catalysis. None(None)] 2025. https://openalex.org/W4406231824
-
-                No abstract</description>
-      <author>Jon-Marc McGregor, Jay T. Bender, Amanda Schramm Petersen, Louise M. Ca&#241;ada, Jan Rossmeisl, Joan F. Brennecke, Joaquin Resasco</author>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01278-2</guid>
-    </item>
-    <item>
-      <title>Inverse catalysts: tuning the composition and structure of oxide clusters through the metal support</title>
-      <link>https://doi.org/10.1038/s41524-024-01507-z</link>
-      <description>L. Kempen, Mie Andersen, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4406233749
-
-                Computational modeling of metal&#8211;oxide interfaces is challenging due to the large search space of compositions and structures and the complexity of catalyst materials under operating conditions in general. In this work, we develop an efficient structure search workflow to discover chemically unique and relevant nanocluster geometries of inverse catalysts and apply it to ZnyOx and InyOx on Cu(111), Pd(111), and Au(111). We show that the workflow is successful in obtaining a large range of chemically distinct structures. Structural geometry trends are identified, including stable motifs such as tripod, rhombus, and pyramidal motifs. Using ab initio thermodynamics, we explore the in situ stability of the structures, including single-atom alloys, at a range of oxygen availabilities. This approach allows us to find trends such as the susceptibility to oxidation of the different systems and the range of stability of different cluster motifs. Our analysis highlights the importance of taking the diversity of sites exposed by metal&#8211;oxide interfaces into account in catalyst design studies.</description>
-      <author>L. Kempen, Mie Andersen</author>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01507-z</guid>
-    </item>
-    <item>
-      <title>Engineering Metal Nanoclusters at the Atomic Level for Effective Electrocatalysis</title>
-      <link>https://doi.org/10.1002/smm2.1317</link>
-      <description>Chuan Mu, Zhihe Liu, Qiaofeng Yao, Qian He, Jianping Xie, SmartMat. 6(1)] 2025. https://openalex.org/W4406234847
-
-                ABSTRACT With the advances of nanochemistry in the past several decades, a diverse set of nanomaterials has been developed as electrocatalysts with enhanced activity, selectivity, and durability for electrocatalytic reactions. However, it has remained as a long challenge to systematically understand the mechanism of electrocatalytic reactions, which involves multiple protons&#8208;coupled electron transfer processes and varied products at the atomic level, intrinsically because of the complexity and polydispersity of the traditional nanomaterials. By sharp contrast, ligand&#8208;protected metal nanoclusters (NCs) possess atomically precise structures and abundant active sites, facilitating their applications as effective model electrocatalysts for revealing the mechanism of electrocatalytic reactions. This review summarizes recent progress in atom&#8208;level engineering of metal NCs as model catalysts for electrocatalytic reactions. Specifically, we first discuss the effects of metal composition engineering, including doping and size effects, on the electrocatalytic performance of metal NCs. Then similar electrocatalytic discussion extends to ligand effects of metal NCs, where ligand type and coverage engineering are deciphered. Moreover, we discuss how the overall charge and morphology of NCs modify their electrocatalytic performance. The fundamental and methodological insights summarized in this review should serve as useful references guiding the future development of effective metal electrocatalysts in diverse sectors of industry.</description>
-      <author>Chuan Mu, Zhihe Liu, Qiaofeng Yao, Qian He, Jianping Xie</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smm2.1317</guid>
-    </item>
     <item>
       <title>Nonprecious Triple-Atom Catalysts with Ultrahigh Activity for Electrochemical Reduction of Nitrate to Ammonia: A DFT Screening</title>
       <link>https://doi.org/10.1021/acsami.4c17726</link>
@@ -416,16 +346,6 @@
       <author>Sakshi Kansal, Rahul Ravindran, Alok Kumar Srivastava, Amreesh Chandra</author>
       <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202412021</guid>
-    </item>
-    <item>
-      <title>Recent Advances on Carbon Capture and Electrochemical CO2 Reduction with Amphiphile Surfactants and Polymers</title>
-      <link>https://doi.org/10.1016/j.jece.2025.115394</link>
-      <description>Fentahun Wondu Dagnaw, Ruiqi Li, Yilin Xie, Qing&#8208;Xiao Tong, Jing&#8208;Xin Jian, Journal of environmental chemical engineering. None(None)] 2025. https://openalex.org/W4406213677
-
-                No abstract</description>
-      <author>Fentahun Wondu Dagnaw, Ruiqi Li, Yilin Xie, Qing&#8208;Xiao Tong, Jing&#8208;Xin Jian</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2025.115394</guid>
     </item>
     <item>
       <title>Machine learning research advances in energy storage polymer-based dielectrics</title>

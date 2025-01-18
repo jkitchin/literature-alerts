@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Jan 17 01:18:29 2025
+Created on Sat Jan 18 01:16:31 2025
 
-Found 16 results from 2025-01-10 to 2025-01-17
+Found 9 results from 2025-01-11 to 2025-01-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Manipulating the Adjacent Microenvironment of Atomically Dispersed FeN4 Sites via Cross-Link-Induced 3D Carbon Nest for Efficient Oxygen Reduction   
-
-OpenAlex: https://openalex.org/W4406210421    
-Open access: False
-    
-[Tonghui Zhao](https://openalex.org/A5037064171), [Guangjin Wang](https://openalex.org/A5102751314), [Dongdong Xiao](https://openalex.org/A5101846257), [Min Young Song](https://openalex.org/A5103217976), [Yanmin Hu](https://openalex.org/A5050705685), [Tingting Chao](https://openalex.org/A5017926967), [Yapeng Li](https://openalex.org/A5100404467), [Zedong Zhang](https://openalex.org/A5035786530), [Yun Lu](https://openalex.org/A5019388394), [Mingxing Gong](https://openalex.org/A5022215689), [Tao Shen](https://openalex.org/A5100611244), [Deli Wang](https://openalex.org/A5100780460), [Huile Jin](https://openalex.org/A5060906740), [Dingsheng Wang](https://openalex.org/A5042841794), [Wei Chen](https://openalex.org/A5100344483), [Yadong Li](https://openalex.org/A5100348455), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06546.
-    
-Electronic perturbation induced by the microenvironment regulation adjacent to the FeN4 sites anchored on metal–N–C materials will accelerate its oxygen reduction reaction (ORR) kinetics. Herein, we report a fine-tuning in the charge configuration of FeN4 sites through a defect-rich N/S-doped carbon nest derived from the chemically cross-linked pyrrole/thiophene copolymer (CCPPT) with a sp3-hybridized cross-linker. Compared with the pyrrole/thiophene copolymer (PPT) without the cross-linker, CCPPT with a knitted three-dimensional (3D) network delivers higher defect density and ∼2-fold sulfur retention after pyrolysis. The structural characterizations combined with theoretical calculations suggest that adjacent vacancy defects (Cvd) and FeN4/S2 moiety together induce the charge redistribution of the FeN4 sites on the resultant CC-Fe1/NSC from CCPPT, reducing the adsorption strength of the oxygen-containing intermediates and the energy barrier of ORR. As expected, CC-Fe1/NSC shows an impressive half-wave potential of ∼0.91 V vs reversible hydrogen electrode (RHE), surpassing both the PPT-derived Fe1/NSC (0.88 V) and the commercial Pt/C (0.86 V). This work provides a distinctive path to manipulate the adjacent microenvironment of the single-atom catalysts toward ORR or even beyond.    
-
-    
-
-## Recent Advances in Catalytic Asymmetric Ketone Allylations and Their Applications   
-
-OpenAlex: https://openalex.org/W4406210431    
-Open access: False
-    
-[Lie Wang](https://openalex.org/A5115592240), [Ruoshi Jin](https://openalex.org/A5044342332), [Yiyuan Peng](https://openalex.org/A5059049464), [Qiuping Ding](https://openalex.org/A5005159477), [Xing‐Ping Zeng](https://openalex.org/A5080607495), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c07194.
-    
-No abstract    
-
-    
-
-## Brønsted Acid-Facilitated Thioetherification Cross-Coupling Reactions with Nickel and Visible Light   
-
-OpenAlex: https://openalex.org/W4406210452    
-Open access: True
-    
-[Maksim Nikitin](https://openalex.org/A5102946169), [Sándor B. Ötvös](https://openalex.org/A5040335780), [Indrajit Ghosh](https://openalex.org/A5055386575), [Maximilian Philipp](https://openalex.org/A5115671617), [Ruth M. Gschwind](https://openalex.org/A5045155782), [C. Oliver Kappe](https://openalex.org/A5063134639), [Burkhard Koenig](https://openalex.org/A5067475475), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06734.
-    
-Transition metal-catalyzed cross-coupling reactions are essential in modern organic synthesis, facilitating the rapid creation of complex molecular structures. Traditionally, these reactions rely heavily on conventional bases, with only a few exceptions reported. Recently, we developed adaptive dynamic homogeneous catalysis (AD-HoC), a method that enables C(sp2)–S cross-couplings without needing traditional ligands, bases, or additives. Given the growing demand for protocols compatible with acidic conditions in metal-catalyzed cross-couplings, we revisited AD-HoC to pioneer acid-facilitated transition metal-catalyzed thioetherification. Our method enables the swift synthesis of thioethers using nickel and visible light, with a substoichiometric amount of Brønsted acid acting as an enabler. NMR kinetic studies indicate that in the absence of acid, the system displays an induction period characteristic of autocatalysis. Introducing the acid as a simple additive eliminates this induction period and significantly accelerates the reaction. Moreover, the protocol has been successfully scaled to gram-level synthesis using continuous flow technology, achieving productivities of over 100 g per hour in a commercially available lab-scale photoreactor. This highlights the method's robustness and scalability, making it a powerful tool for large-scale applications.    
-
-    
-
-## Exceptionally Low-Coordinated Bismuth–Oxygen Vacancy Defect Clusters for Generating Black In2O3 Photocatalysts with Superb CO2 Reduction Performance   
-
-OpenAlex: https://openalex.org/W4406217331    
-Open access: False
-    
-[Farzin Nekouei](https://openalex.org/A5018208592), [Christopher J. Pollock](https://openalex.org/A5020585665), [Tianyi Wang](https://openalex.org/A5100399648), [Zhong Zheng](https://openalex.org/A5067645114), [Yanzhao Zhang](https://openalex.org/A5103114439), [Zelio Fusco](https://openalex.org/A5067924346), [Huanyu Jin](https://openalex.org/A5036060356), [Thrinathreddy Ramireddy](https://openalex.org/A5049687965), [Ary Anggara Wibowo](https://openalex.org/A5090264758), [Teng Lü](https://openalex.org/A5081363234), [Shahram Nekouei](https://openalex.org/A5035776152), [Farzaneh Keshtpour](https://openalex.org/A5076537001), [Julien Langley](https://openalex.org/A5070722227), [Elwy H. Abdelkader](https://openalex.org/A5063221300), [Nicholas J. Cox](https://openalex.org/A5033536093), [Zongyou Yin](https://openalex.org/A5074090421), [Hieu T. Nguyen](https://openalex.org/A5074340406), [Alexey M. Glushenkov](https://openalex.org/A5030881231), [Siva Krishna Karuturi](https://openalex.org/A5033971536), [Zongwen Liu](https://openalex.org/A5038590827), [Wei Li](https://openalex.org/A5100454543), [Hao Li](https://openalex.org/A5100348631), [Yun Liu](https://openalex.org/A5100603066), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c03491.
-    
-No abstract    
-
-    
-
-## Electrocatalytic Enantioselective Tandem C–H Indolization toward Biindolyl Atropisomers: Reaction Development and Mechanistic Insight   
-
-OpenAlex: https://openalex.org/W4406218794    
-Open access: False
-    
-[Zhi‐Huan Peng](https://openalex.org/A5007641634), [Ping Huang](https://openalex.org/A5074407812), [Ao-Long Li](https://openalex.org/A5018210433), [Mingkai Yang](https://openalex.org/A5109707826), [Zhikang Li](https://openalex.org/A5101696409), [Yuanyuan Li](https://openalex.org/A5100384450), [Qin Shi](https://openalex.org/A5100568209), [Jiating Cai](https://openalex.org/A5090758772), [Shengdong Wang](https://openalex.org/A5028576201), [Zhi Zhou](https://openalex.org/A5035680195), [Wei Yi](https://openalex.org/A5089356883), [Hui Gao](https://openalex.org/A5038199259), [Zhongyi Zeng](https://openalex.org/A5001623372), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06594.
-    
-The electrochemical methods for asymmetric indolization are still elusive and pose a significant challenge. Taking advantage of 2-alkynylanilines as electrochemically compatible indolyl equivalents, we herein represent a mild and highly enantioselective electrocatalytic process for tandem C–H indolization to form 2,3′-biindolyl atropisomers along with hydrogen evolution reaction. Integrated experimental and computational mechanistic studies revealed that a sequential C–H metalation/nucleophilic cyclization/reductive elimination/anodic oxidation sequence involving a RhIII–RhI–RhIII catalytic cycle accounts for the established transformation.    
-
-    
-
-## Controlled Growth of Silver Nanoparticles by Metal–Support Interaction for Enhanced Tandem Catalytic Oxidation of HCHO at Low Temperature   
-
-OpenAlex: https://openalex.org/W4406219352    
-Open access: False
-    
-[Yue Ding](https://openalex.org/A5026077466), [Hui Wang](https://openalex.org/A5056775642), [Bin Huang](https://openalex.org/A5032094982), [Yuchun Chang](https://openalex.org/A5101733311), [Hua Yang](https://openalex.org/A5038411990), [Zhenping Qu](https://openalex.org/A5017052045), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c05879.
-    
-No abstract    
-
-    
-
-## Lowering the Kinetic Barrier via the Synergistic Catalysis of N-CNTs Supported RhP Subnanoclusters and Confined Co Nanoparticles for Olefins Hydroformylation   
-
-OpenAlex: https://openalex.org/W4406219626    
-Open access: False
-    
-[Jiamei Wei](https://openalex.org/A5109719922), [Peng Gao](https://openalex.org/A5059142323), [Shen Wang](https://openalex.org/A5100377078), [Yue Ma](https://openalex.org/A5091735030), [Dong Cao](https://openalex.org/A5001966929), [Daojian Cheng](https://openalex.org/A5006520119), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06822.
-    
-No abstract    
-
-    
 
 ## Electrocatalytic CO2 Reduction to Methanol on Pt(111) Modified with a Pd Monolayer   
 

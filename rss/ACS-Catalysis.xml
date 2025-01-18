@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Jan 2025 01:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 01:16:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Manipulating the Adjacent Microenvironment of Atomically Dispersed FeN&lt;sub&gt;4&lt;/sub&gt; Sites via Cross-Link-Induced 3D Carbon Nest for Efficient Oxygen Reduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c06546</link>
-      <description>Tonghui Zhao, Guangjin Wang, Dongdong Xiao, Min Young Song, Yanmin Hu, Tingting Chao, Yapeng Li, Zedong Zhang, Yun Lu, Mingxing Gong, Tao Shen, Deli Wang, Huile Jin, Dingsheng Wang, Wei Chen, Yadong Li, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406210421
-
-                Electronic perturbation induced by the microenvironment regulation adjacent to the FeN4 sites anchored on metal&#8211;N&#8211;C materials will accelerate its oxygen reduction reaction (ORR) kinetics. Herein, we report a fine-tuning in the charge configuration of FeN4 sites through a defect-rich N/S-doped carbon nest derived from the chemically cross-linked pyrrole/thiophene copolymer (CCPPT) with a sp3-hybridized cross-linker. Compared with the pyrrole/thiophene copolymer (PPT) without the cross-linker, CCPPT with a knitted three-dimensional (3D) network delivers higher defect density and &#8764;2-fold sulfur retention after pyrolysis. The structural characterizations combined with theoretical calculations suggest that adjacent vacancy defects (Cvd) and FeN4/S2 moiety together induce the charge redistribution of the FeN4 sites on the resultant CC-Fe1/NSC from CCPPT, reducing the adsorption strength of the oxygen-containing intermediates and the energy barrier of ORR. As expected, CC-Fe1/NSC shows an impressive half-wave potential of &#8764;0.91 V vs reversible hydrogen electrode (RHE), surpassing both the PPT-derived Fe1/NSC (0.88 V) and the commercial Pt/C (0.86 V). This work provides a distinctive path to manipulate the adjacent microenvironment of the single-atom catalysts toward ORR or even beyond.</description>
-      <author>Tonghui Zhao, Guangjin Wang, Dongdong Xiao, Min Young Song, Yanmin Hu, Tingting Chao, Yapeng Li, Zedong Zhang, Yun Lu, Mingxing Gong, Tao Shen, Deli Wang, Huile Jin, Dingsheng Wang, Wei Chen, Yadong Li</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06546</guid>
-    </item>
-    <item>
-      <title>Recent Advances in Catalytic Asymmetric Ketone Allylations and Their Applications</title>
-      <link>https://doi.org/10.1021/acscatal.4c07194</link>
-      <description>Lie Wang, Ruoshi Jin, Yiyuan Peng, Qiuping Ding, Xing&#8208;Ping Zeng, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406210431
-
-                No abstract</description>
-      <author>Lie Wang, Ruoshi Jin, Yiyuan Peng, Qiuping Ding, Xing&#8208;Ping Zeng</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07194</guid>
-    </item>
-    <item>
-      <title>Br&#248;nsted Acid-Facilitated Thioetherification Cross-Coupling Reactions with Nickel and Visible Light</title>
-      <link>https://doi.org/10.1021/acscatal.4c06734</link>
-      <description>Maksim Nikitin, S&#225;ndor B. &#214;tv&#246;s, Indrajit Ghosh, Maximilian Philipp, Ruth M. Gschwind, C. Oliver Kappe, Burkhard Koenig, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406210452
-
-                Transition metal-catalyzed cross-coupling reactions are essential in modern organic synthesis, facilitating the rapid creation of complex molecular structures. Traditionally, these reactions rely heavily on conventional bases, with only a few exceptions reported. Recently, we developed adaptive dynamic homogeneous catalysis (AD-HoC), a method that enables C(sp2)&#8211;S cross-couplings without needing traditional ligands, bases, or additives. Given the growing demand for protocols compatible with acidic conditions in metal-catalyzed cross-couplings, we revisited AD-HoC to pioneer acid-facilitated transition metal-catalyzed thioetherification. Our method enables the swift synthesis of thioethers using nickel and visible light, with a substoichiometric amount of Br&#248;nsted acid acting as an enabler. NMR kinetic studies indicate that in the absence of acid, the system displays an induction period characteristic of autocatalysis. Introducing the acid as a simple additive eliminates this induction period and significantly accelerates the reaction. Moreover, the protocol has been successfully scaled to gram-level synthesis using continuous flow technology, achieving productivities of over 100 g per hour in a commercially available lab-scale photoreactor. This highlights the method's robustness and scalability, making it a powerful tool for large-scale applications.</description>
-      <author>Maksim Nikitin, S&#225;ndor B. &#214;tv&#246;s, Indrajit Ghosh, Maximilian Philipp, Ruth M. Gschwind, C. Oliver Kappe, Burkhard Koenig</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06734</guid>
-    </item>
-    <item>
-      <title>Exceptionally Low-Coordinated Bismuth&#8211;Oxygen Vacancy Defect Clusters for Generating Black In&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Photocatalysts with Superb CO&lt;sub&gt;2&lt;/sub&gt; Reduction Performance</title>
-      <link>https://doi.org/10.1021/acscatal.4c03491</link>
-      <description>Farzin Nekouei, Christopher J. Pollock, Tianyi Wang, Zhong Zheng, Yanzhao Zhang, Zelio Fusco, Huanyu Jin, Thrinathreddy Ramireddy, Ary Anggara Wibowo, Teng L&#252;, Shahram Nekouei, Farzaneh Keshtpour, Julien Langley, Elwy H. Abdelkader, Nicholas J. Cox, Zongyou Yin, Hieu T. Nguyen, Alexey M. Glushenkov, Siva Krishna Karuturi, Zongwen Liu, Wei Li, Hao Li, Yun Liu, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406217331
-
-                No abstract</description>
-      <author>Farzin Nekouei, Christopher J. Pollock, Tianyi Wang, Zhong Zheng, Yanzhao Zhang, Zelio Fusco, Huanyu Jin, Thrinathreddy Ramireddy, Ary Anggara Wibowo, Teng L&#252;, Shahram Nekouei, Farzaneh Keshtpour, Julien Langley, Elwy H. Abdelkader, Nicholas J. Cox, Zongyou Yin, Hieu T. Nguyen, Alexey M. Glushenkov, Siva Krishna Karuturi, Zongwen Liu, Wei Li, Hao Li, Yun Liu</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03491</guid>
-    </item>
-    <item>
-      <title>Electrocatalytic Enantioselective Tandem C&#8211;H Indolization toward Biindolyl Atropisomers: Reaction Development and Mechanistic Insight</title>
-      <link>https://doi.org/10.1021/acscatal.4c06594</link>
-      <description>Zhi&#8208;Huan Peng, Ping Huang, Ao-Long Li, Mingkai Yang, Zhikang Li, Yuanyuan Li, Qin Shi, Jiating Cai, Shengdong Wang, Zhi Zhou, Wei Yi, Hui Gao, Zhongyi Zeng, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406218794
-
-                The electrochemical methods for asymmetric indolization are still elusive and pose a significant challenge. Taking advantage of 2-alkynylanilines as electrochemically compatible indolyl equivalents, we herein represent a mild and highly enantioselective electrocatalytic process for tandem C&#8211;H indolization to form 2,3&#8242;-biindolyl atropisomers along with hydrogen evolution reaction. Integrated experimental and computational mechanistic studies revealed that a sequential C&#8211;H metalation/nucleophilic cyclization/reductive elimination/anodic oxidation sequence involving a RhIII&#8211;RhI&#8211;RhIII catalytic cycle accounts for the established transformation.</description>
-      <author>Zhi&#8208;Huan Peng, Ping Huang, Ao-Long Li, Mingkai Yang, Zhikang Li, Yuanyuan Li, Qin Shi, Jiating Cai, Shengdong Wang, Zhi Zhou, Wei Yi, Hui Gao, Zhongyi Zeng</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06594</guid>
-    </item>
-    <item>
-      <title>Controlled Growth of Silver Nanoparticles by Metal&#8211;Support Interaction for Enhanced Tandem Catalytic Oxidation of HCHO at Low Temperature</title>
-      <link>https://doi.org/10.1021/acscatal.4c05879</link>
-      <description>Yue Ding, Hui Wang, Bin Huang, Yuchun Chang, Hua Yang, Zhenping Qu, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406219352
-
-                No abstract</description>
-      <author>Yue Ding, Hui Wang, Bin Huang, Yuchun Chang, Hua Yang, Zhenping Qu</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05879</guid>
-    </item>
-    <item>
-      <title>Lowering the Kinetic Barrier via the Synergistic Catalysis of N-CNTs Supported RhP Subnanoclusters and Confined Co Nanoparticles for Olefins Hydroformylation</title>
-      <link>https://doi.org/10.1021/acscatal.4c06822</link>
-      <description>Jiamei Wei, Peng Gao, Shen Wang, Yue Ma, Dong Cao, Daojian Cheng, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406219626
-
-                No abstract</description>
-      <author>Jiamei Wei, Peng Gao, Shen Wang, Yue Ma, Dong Cao, Daojian Cheng</author>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06822</guid>
-    </item>
     <item>
       <title>Electrocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction to Methanol on Pt(111) Modified with a Pd Monolayer</title>
       <link>https://doi.org/10.1021/acscatal.4c05442</link>
