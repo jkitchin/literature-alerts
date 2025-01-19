@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 Jan 2025 01:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 01:24:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction to Methanol on Pt(111) Modified with a Pd Monolayer</title>
-      <link>https://doi.org/10.1021/acscatal.4c05442</link>
-      <description>Aleksandra Wawrzyniak, Marc T. M. Koper, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406259351
-
-                Electrochemical carbon dioxide (CO2) conversion to value-added, highly reduced chemicals such as methanol (CH3OH) is a promising possibility for producing renewable fuel and simultaneous CO2 recycling. However, this process remains a challenge, with only a few selective electrocatalysts known. Here, we present a study of a palladium monolayer on a platinum (111) single crystal (PdML/Pt(111)) as an electrocatalyst for CO2 conversion to CH3OH. A custom-made setup was employed in order to detect and quantify gaseous and liquid CO2 reduction products in sufficient concentrations despite the limitations of working with a single-crystalline electrode. Under ambient reaction conditions, a Faradaic efficiency (FE) of 1.5% at &#8722;0.9 V vs reversible hydrogen electrode (RHE) was obtained while using CO2 as the reactant. Other reaction intermediates, carbon monoxide (CO) and formaldehyde (HCHO) were subsequently used as reactants, leading to FEs of 1.8 and 2.5%, respectively, whereas formic acid is not reduced. The corresponding mechanism concluded from our work is compared to the literature. The electrocatalyst introduced here, with a highly well-defined structure for CO2 conversion to CH3OH, opens up possibilities for further catalytic explorations.</description>
-      <author>Aleksandra Wawrzyniak, Marc T. M. Koper</author>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05442</guid>
-    </item>
-    <item>
-      <title>Access to Axially Chiral Biaryl Benzylamines via Ancestral Enzyme-Enabled Reductive Amination Desymmetrization</title>
-      <link>https://doi.org/10.1021/acscatal.4c06881</link>
-      <description>W. Jim Zheng, Xinxin Zhu, Zheng Zhu, Teng Yang, Lian Zheng, Rui Pan, Shenlin Wang, Lixin Zhang, Qi Chen, Jian-He Xu, Yongtao Xie, Gao&#8208;Wei Zheng, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406275770
-
-                Axially chiral biaryl benzylamines are present in numerous natural products, pharmaceuticals, chiral ligands, and catalysts. However, the direct catalytic synthesis of these functional molecules using a robust strategy remains a formidable challenge. Reductive amination desymmetrization of biaryl dialdehydes offers a powerful approach for the construction of axially chiral biaryl benzylamines but suffers from extensive undesirable side reactions. Herein, we engineered ancestral imine reductases to enable reductive amination desymmetrization of biaryl dialdehydes, allowing the construction of a wide range of axially chiral biaryl benzylamines with up to 99% conversion and 99% enantiomeric excess (ee). The ratio of the product to byproducts was up to 97:3 and over 90:10 in most cases. This work presents an alternative strategy for accessing axially chiral biaryl benzylamines and will stimulate the development of associated bioactive molecules and catalysts/ligands.</description>
-      <author>W. Jim Zheng, Xinxin Zhu, Zheng Zhu, Teng Yang, Lian Zheng, Rui Pan, Shenlin Wang, Lixin Zhang, Qi Chen, Jian-He Xu, Yongtao Xie, Gao&#8208;Wei Zheng</author>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06881</guid>
-    </item>
     <item>
       <title>Pd-Catalyzed Dehydrogenation Enhanced by Charge Transfer from MoO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Promoter</title>
       <link>https://doi.org/10.1021/acscatal.4c04684</link>
