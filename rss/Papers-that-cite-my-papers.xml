@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 19 Jan 2025 01:24:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 01:19:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Dual Role of Alkyl-Substituted Phosphonic Acids on Oxygen Reduction Reaction on Platinum</title>
-      <link>https://doi.org/10.1021/acsenergylett.4c02609</link>
-      <description>Honghong Lin, Chen Ling, Hongfei Jia, Liang Wang, Gaohua Zhu, Siwen Wang, ACS Energy Letters. None(None)] 2025. https://openalex.org/W4406283156
-
-                No abstract</description>
-      <author>Honghong Lin, Chen Ling, Hongfei Jia, Liang Wang, Gaohua Zhu, Siwen Wang</author>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.4c02609</guid>
-    </item>
-    <item>
-      <title>EOSnet: Embedded Overlap Structures for Graph Neural Networks in Predicting Material Properties</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c03179</link>
-      <description>Shuo Tao, Li Zhu, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4406283532
-
-                Graph Neural Networks (GNNs) have emerged as powerful tools for predicting material properties, yet they often struggle to capture many-body interactions and require extensive manual feature engineering. Here, we present EOSnet (Embedded Overlap Structures for Graph Neural Networks), a novel approach that addresses these limitations by incorporating Gaussian Overlap Matrix (GOM) fingerprints as node features within the GNN architecture. Unlike models that rely on explicit angular terms or human-engineered features, EOSnet efficiently encodes many-body interactions through orbital overlap matrices, providing a rotationally invariant and transferable representation of atomic environments. The model demonstrates superior performance across various prediction tasks of materials' properties, achieving particularly notable results in properties sensitive to many-body interactions. For band gap prediction, EOSnet achieves a mean absolute error of 0.163 eV, surpassing previous state-of-the-art models. The model also excels in predicting mechanical properties and classifying materials, with 97.7% accuracy in metal/nonmetal classification. These results demonstrate that embedding GOM fingerprints into node features enhances the ability of GNNs to capture complex atomic interactions, making EOSnet a powerful tool for materials' discovery and property prediction.</description>
-      <author>Shuo Tao, Li Zhu</author>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c03179</guid>
-    </item>
-    <item>
-      <title>Atomic Gap-State Engineering of MoS&lt;sub&gt;2&lt;/sub&gt; for Alkaline Water and Seawater Splitting</title>
-      <link>https://doi.org/10.1021/acsnano.4c13736</link>
-      <description>Tao Sun, Tong Yang, Wenjie Zang, Jing Li, Xiaoyu Sheng, Enzhou Liu, Jiali Li, Xiao Hai, Huihui Lin, Cheng&#8208;Hao Chuang, Chenliang Su, Maohong Fan, Ming Yang, Ming Lin, Shibo Xi, Ruqiang Zou, Jiong Lu, ACS Nano. None(None)] 2025. https://openalex.org/W4406283545
-
-                Transition-metal dichalcogenides (TMDs), such as molybdenum disulfide (MoS2), have emerged as a generation of nonprecious catalysts for the hydrogen evolution reaction (HER), largely due to their theoretical hydrogen adsorption energy close to that of platinum. However, efforts to activate the basal planes of TMDs have primarily centered around strategies such as introducing numerous atomic vacancies, creating vacancy&#8211;heteroatom complexes, or applying significant strain, especially for acidic media. These approaches, while potentially effective, present substantial challenges in practical large-scale deployment. Here, we report a gap-state engineering strategy for the controlled activation of S atom in MoS2 basal planes through metal single-atom doping, effectively tackling both efficiency and stability challenges in alkaline water and seawater splitting. A versatile synthetic methodology allows for the fabrication of a series of single-metal atom-doped MoS2 materials (M1/MoS2), featuring widely tunable densities with each dopant replacing a Mo site. Among these (Mn1, Fe1, Co1, and Ni1), Co1/MoS2 demonstrates outstanding HER performance in both alkaline and seawater alkaline media, with overpotentials at a mere 159 and 164 mV at 100 mA cm&#8211;2, and Tafel slopes at 41 and 45 mV dec&#8211;1, respectively, which surpasses all reported TMD-based nonprecious materials and benchmark Pt/C catalysts in HER efficiency and stability during seawater splitting, which can be attributed to an optimal gap-state modulation associated with sulfur atoms. Experimental data correlating doping density and dopant identity with HER performance, in conjunction with theoretical calculations, also reveal a descriptor linked to near-Fermi gap state modulation, corroborated by the observed increase in unoccupied S 3p states.</description>
-      <author>Tao Sun, Tong Yang, Wenjie Zang, Jing Li, Xiaoyu Sheng, Enzhou Liu, Jiali Li, Xiao Hai, Huihui Lin, Cheng&#8208;Hao Chuang, Chenliang Su, Maohong Fan, Ming Yang, Ming Lin, Shibo Xi, Ruqiang Zou, Jiong Lu</author>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c13736</guid>
-    </item>
-    <item>
-      <title>Weakening Pd&#9472;O Bonds by an Amorphous Pd Layer to Promote Electrocatalysis</title>
-      <link>https://doi.org/10.1002/smll.202409404</link>
-      <description>Lian Ying Zhang, Weiyong Yuan, Jinghao Lu, Maoxia He, Chunxian Guo, Haijie Cao, Chang Ming Li, Xin Zhao, Small. None(None)] 2025. https://openalex.org/W4406288033
-
-                Abstract Construction of core&#8211;shell structured electrocatalysts with a thin noble metal shell is an effective strategy for lowering the usage of the noble metal and improving electrocatalytic properties because of the structure&#8208;induced geometric and electronic effects. Here, the synthesis of a novel core&#8211;shell structured nanocatalyst consisting of a thin amorphous Pd shell and a crystalline PdCu core and its significantly improved electrocatalytic properties for both formic acid oxidation and oxygen reduction reactions are shown. The electrocatalyst exhibits 4.1 times higher catalytic peak current density and better stability in the formic acid oxidation compared to both a PdCu nanoalloy catalyst and a Commercial Pd&#8211;C catalyst. An excellent electrocatalytic performance of the core&#8211;shell nanocatalyst is also observed in the oxygen reduction reaction. Computational calculation results reveal that tuning of the electronic state of Pd by the amorphous shell and the Cu in the PdCu core weaken the binding strength of surface Pd&#9472;O bonds, leading to a bond elongation to facilitate bond breaking. As a result, the electrocatalytic activity in both formic acid oxidation and oxygen reduction reactions is enhanced.</description>
-      <author>Lian Ying Zhang, Weiyong Yuan, Jinghao Lu, Maoxia He, Chunxian Guo, Haijie Cao, Chang Ming Li, Xin Zhao</author>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202409404</guid>
-    </item>
-    <item>
-      <title>Atomically doped carbon on highly porous nickel sulfide for efficient hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.12.480</link>
-      <description>Sung&#8208;Jin Kim, Yongheum Choi, Hyun-Jong Kim, Tae Joo Park, Young Min Park, International Journal of Hydrogen Energy. 102(None)] 2025. https://openalex.org/W4406290075
-
-                No abstract</description>
-      <author>Sung&#8208;Jin Kim, Yongheum Choi, Hyun-Jong Kim, Tae Joo Park, Young Min Park</author>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.480</guid>
-    </item>
-    <item>
-      <title>Machine learning in electrocatalysis - living up to the hype?</title>
-      <link>https://doi.org/10.1016/j.coelec.2025.101649</link>
-      <description>&#193;rni Bj&#246;rn H&#246;skuldsson, Current Opinion in Electrochemistry. None(None)] 2025. https://openalex.org/W4406291098
-
-                No abstract</description>
-      <author>&#193;rni Bj&#246;rn H&#246;skuldsson</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2025.101649</guid>
-    </item>
-    <item>
-      <title>XYZ2 (X/Y = Ge, Pb, Sn; Z = Se, S, Te) Two-Dimensional Janus Monolayers for Photocatalytic Water Splitting: A First-Principles Study</title>
-      <link>https://doi.org/10.1016/j.colsurfa.2025.136172</link>
-      <description>Yu Zhigang, F. R. Xu, Songli Dai, Heng Wang, Shiyu Xiao, Zean Tian, Colloids and Surfaces A Physicochemical and Engineering Aspects. None(None)] 2025. https://openalex.org/W4406291846
-
-                No abstract</description>
-      <author>Yu Zhigang, F. R. Xu, Songli Dai, Heng Wang, Shiyu Xiao, Zean Tian</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2025.136172</guid>
-    </item>
     <item>
       <title>A roadmap from the bond strength to the grain-boundary energies and macro strength of metals</title>
       <link>https://doi.org/10.1038/s41467-025-55921-y</link>
@@ -172,7 +102,7 @@
       <link>https://doi.org/10.1021/jacs.4c16098</link>
       <description>Huimin Yan, Gang Wang, X. C. Lv, Hao Cao, Gangqiang Qin, Yang&#8208;Gang Wang, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4406357472
 
-                No abstract</description>
+                Single-atom catalysts (SACs) have attracted widespread attention due to their potential to replace platinum-based catalysts in achieving efficient oxygen reduction reaction (ORR), yet the rational optimization of SACs remains challenging due to their elusive reaction mechanisms. Herein, by employing ab initio molecular dynamics simulations and a thermodynamic integration method, we have constructed the potential-dependent free energetics of ORR on a single iron atom catalyst dispersed on nitrogen-doped graphene (Fe-N4/C) and further integrated these parameters into a microkinetic model. We demonstrate that the rate-determining step (RDS) of the ORR on SACs is potential-dependent rather than invariant within the operative potential range. Specifically, under the charge-neutral condition, the RDS is calculated to be water desorption with the highest barrier, while as the potential increases, it gradually transitions to the protonation of *OH species, O2* species, and O* species, regardless of the protonation of *OH species as the potential-determining step. Moreover, we reveal the critical role of the dynamic adsorption of axially adsorbed water in facilitating the release of the single-atom site, thus enhancing the ORR rate. Our work has resolved the long-standing controversies over the RDS of ORR on SACs and implies that the step with the lowest exothermicity is not always synonymous with the RDS, highlighting the importance of examining the kinetic barriers under realistic potential conditions for understanding the electrocatalytic performance.</description>
       <author>Huimin Yan, Gang Wang, X. C. Lv, Hao Cao, Gangqiang Qin, Yang&#8208;Gang Wang</author>
       <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c16098</guid>

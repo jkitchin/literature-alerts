@@ -1,10 +1,94 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Sun Jan 19 01:24:28 2025
+Created on Mon Jan 20 01:19:52 2025
 
-Found 2 results from 2025-01-12 to 2025-01-19
+Found 6 results from 2025-01-13 to 2025-01-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
+
+* Back cover  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406390160
+:TOPICS: 
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d5dd90004b")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406390160"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406390160"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406390160"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406390160 (Open access: True)
+    
+, Digital Discovery. 4(1)] 2025. https://doi.org/10.1039/d5dd90004b 
+     
+No abstract    
+
+    
+
+* Front cover  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406390630
+:TOPICS: 
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d5dd90001h")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406390630"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406390630"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406390630"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406390630 (Open access: True)
+    
+, Digital Discovery. 4(1)] 2025. https://doi.org/10.1039/d5dd90001h 
+     
+No abstract    
+
+    
+
+* Contents list  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406390691
+:TOPICS: 
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d5dd90003d")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406390691"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406390691"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406390691"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406390691 (Open access: True)
+    
+, Digital Discovery. 4(1)] 2025. https://doi.org/10.1039/d5dd90003d 
+     
+No abstract    
+
+    
+
+* Inside front cover  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406390724
+:TOPICS: 
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d5dd90002f")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406390724"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406390724"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406390724"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406390724 (Open access: True)
+    
+, Digital Discovery. 4(1)] 2025. https://doi.org/10.1039/d5dd90002f 
+     
+No abstract    
+
+    
 
 * Optimising Digital Twin Laboratories with Conversational AIs: Enhancing Immersive Training and Simulation through Virtual Reality  :Digital_Discovery:
 :PROPERTIES:

@@ -4,9 +4,49 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 19 Jan 2025 01:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 01:19:52 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Back cover</title>
+      <link>https://doi.org/10.1039/d5dd90004b</link>
+      <description>, Digital Discovery. 4(1)] 2025. https://openalex.org/W4406390160
+
+                No abstract</description>
+      <author/>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5dd90004b</guid>
+    </item>
+    <item>
+      <title>Front cover</title>
+      <link>https://doi.org/10.1039/d5dd90001h</link>
+      <description>, Digital Discovery. 4(1)] 2025. https://openalex.org/W4406390630
+
+                No abstract</description>
+      <author/>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5dd90001h</guid>
+    </item>
+    <item>
+      <title>Contents list</title>
+      <link>https://doi.org/10.1039/d5dd90003d</link>
+      <description>, Digital Discovery. 4(1)] 2025. https://openalex.org/W4406390691
+
+                No abstract</description>
+      <author/>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5dd90003d</guid>
+    </item>
+    <item>
+      <title>Inside front cover</title>
+      <link>https://doi.org/10.1039/d5dd90002f</link>
+      <description>, Digital Discovery. 4(1)] 2025. https://openalex.org/W4406390724
+
+                No abstract</description>
+      <author/>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5dd90002f</guid>
+    </item>
     <item>
       <title>Optimising Digital Twin Laboratories with Conversational AIs: Enhancing Immersive Training and Simulation through Virtual Reality</title>
       <link>https://doi.org/10.1039/d4dd00330f</link>

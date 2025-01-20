@@ -1,10 +1,54 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Sun Jan 19 01:24:28 2025
+Created on Mon Jan 20 01:19:52 2025
 
-Found 2 results from 2025-01-12 to 2025-01-19
+Found 6 results from 2025-01-13 to 2025-01-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
+
+## Back cover   
+
+OpenAlex: https://openalex.org/W4406390160    
+Open access: True
+    
+, Digital Discovery. 4(1)] 2025.https://doi.org/10.1039/d5dd90004b.
+    
+No abstract    
+
+    
+
+## Front cover   
+
+OpenAlex: https://openalex.org/W4406390630    
+Open access: True
+    
+, Digital Discovery. 4(1)] 2025.https://doi.org/10.1039/d5dd90001h.
+    
+No abstract    
+
+    
+
+## Contents list   
+
+OpenAlex: https://openalex.org/W4406390691    
+Open access: True
+    
+, Digital Discovery. 4(1)] 2025.https://doi.org/10.1039/d5dd90003d.
+    
+No abstract    
+
+    
+
+## Inside front cover   
+
+OpenAlex: https://openalex.org/W4406390724    
+Open access: True
+    
+, Digital Discovery. 4(1)] 2025.https://doi.org/10.1039/d5dd90002f.
+    
+No abstract    
+
+    
 
 ## Optimising Digital Twin Laboratories with Conversational AIs: Enhancing Immersive Training and Simulation through Virtual Reality   
 

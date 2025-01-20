@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 19 Jan 2025 01:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 01:19:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -12,7 +12,7 @@
       <link>https://doi.org/10.1021/acscatal.4c04684</link>
       <description>Byung Gwan Park, Jihyeon Lee, Yoojin Lee, Hyeongeon Lee, Jueun Kim, Eonu Nam, Jong&#8208;Seong Bae, Jeong Woo Han, Kwangjin An, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406317251
 
-                No abstract</description>
+                Incorporating metal oxides is a sensible strategy for enhancing the efficiency of precious metals. Upon the introduction of molybdenum oxide, diverse coordination structures were formed on the support surface depending on the concentration used. This modified surface architecture orchestrates consequential alterations in the electronic and geometric configurations of the active metal, concurrently influencing the catalytic performance. In this study, MoOx species were introduced into Pd in a controlled manner to substantially enhance the dehydrogenation activity of the N-heterocyclic liquid organic hydrogen carrier system. Pd&#8722;MoOx/Al2O3 catalyst&#9472;featuring an optimal 0.18 wt % Mo loading&#9472;demonstrated noteworthy improvement in activity, surpassing Pd/Al2O3 by factors of 1.57 and 1.24, accompanied by enhanced recyclability in two distinct LOHC systems. Integrated characterization and theoretical calculations elucidated the modification of the electronic properties of both Pd and Al2O3 upon MoOx introduction and the corresponding adsorption behavior of the reactants, highlighting the charge transfer phenomenon from Pd to MoOx.</description>
       <author>Byung Gwan Park, Jihyeon Lee, Yoojin Lee, Hyeongeon Lee, Jueun Kim, Eonu Nam, Jong&#8208;Seong Bae, Jeong Woo Han, Kwangjin An</author>
       <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04684</guid>
@@ -52,7 +52,7 @@
       <link>https://doi.org/10.1021/acscatal.4c07667</link>
       <description>Ling Tang, Xueyu Liu, Xintong Wang, Xianmao Liu, Xinmiao Huang, Ni Qian, Chen He, Gen Luo, Yuanhong Ma, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406362720
 
-                No abstract</description>
+                Transition metal-catalyzed reductive coupling chemistry has been recognized as a powerful tool for the synthesis of diverse organic molecules. However, despite enormous progress in this field, there is no precedent for the tandem reductive coupling of widely accessible nitriles with electrophiles that contain &#963;- and &#960;-type (&#963;/&#960;-type) electrophilic functional groups simultaneously. Herein, we have established a unique cobalt catalysis system, enabling the chemoselective reductive coupling/tandem cyclization reaction of aryl halides (Br, Cl, I) bearing carbonyl moiety with a variety of aryl, alkenyl, and alkyl nitriles via the carbocobaltation of nitriles that is unknown yet. The protocol allows for the modular synthesis of structurally diverse isoquinolines with wide substrate scope (&gt;60 examples), good functionalities tolerance, and good chemoselectivity.</description>
       <author>Ling Tang, Xueyu Liu, Xintong Wang, Xianmao Liu, Xinmiao Huang, Ni Qian, Chen He, Gen Luo, Yuanhong Ma</author>
       <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07667</guid>
@@ -76,6 +76,26 @@
       <author>Yanfen Zuo, Lei Ye, Wenjie Yang, Bo Peng, Jing Zhang, Xingtian Shu, Youhao Xu, Jichang Liu</author>
       <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05323</guid>
+    </item>
+    <item>
+      <title>Issue Editorial Masthead</title>
+      <link>https://doi.org/10.1021/csv015i002_1889649</link>
+      <description>, ACS Catalysis. 15(2)] 2025. https://openalex.org/W4406540614
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv015i002_1889649</guid>
+    </item>
+    <item>
+      <title>Issue Publication Information</title>
+      <link>https://doi.org/10.1021/csv015i002_1889648</link>
+      <description>, ACS Catalysis. 15(2)] 2025. https://openalex.org/W4406540636
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv015i002_1889648</guid>
     </item>
   </channel>
 </rss>
