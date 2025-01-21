@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 Jan 2025 01:19:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 01:18:35 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Ultrasonically Activated Liquid Metal Catalysts in Water for Enhanced Hydrogenation Efficiency</title>
+      <link>https://doi.org/10.1021/acsami.4c19936</link>
+      <description>Nichayanan Manyuan, N. Tanimoto, K. Ueda, Ken Yamamoto, Tomoharu Tokunaga, Masaki Nishio, Tetsu Yonezawa, Hideya Kawasaki, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4406492574
+
+                Hydride (H&#8211;) species on oxides have been extensively studied over the past few decades because of their critical role in various catalytic processes. Their syntheses require high temperatures and the presence of hydrogen, which involves complex equipment, high energy costs, and strict safety protocols. Hydride species tend to decompose in the presence of atmospheric oxygen and water, which reduces their catalytic activities. These challenges highlight the need for further research to improve the stability and efficiency of catalytic processes and develop safer and cost-effective synthesis methods. This paper introduces an ultrasonic fabrication method for gallium hydride species on liquid metal (LM) nanoparticles (Ga&#8211;H@LM NPs) in water and describes the evaluation of their catalytic properties. The Ga&#8211;H@LM NPs were synthesized by dispersing liquid metals of eutectic gallium&#8211;indium in water using a two-step ultrasonication process in an ice bath. The presence of Ga&#8211;H species was confirmed by Fourier-transform infrared spectroscopy. The Ga&#8211;H@LM NPs demonstrated the rapid catalytic hydrogenation of 4-nitrophenol and reductive degradation of azo dyes within minutes without the need for external reducing agents like NaBH4. The proposed mechanism involves high-energy ultrasonic cavitation at the interface between LM NPs and water, which promotes the formation of H2 from water and its activation to form Ga&#8211;H on particles surface during ultrasonication. This study has significant implications for advancing the field of catalysis because it provides a novel and efficient catalytic method for the synthesis of stable hydride species on gallium oxides.</description>
+      <author>Nichayanan Manyuan, N. Tanimoto, K. Ueda, Ken Yamamoto, Tomoharu Tokunaga, Masaki Nishio, Tetsu Yonezawa, Hideya Kawasaki</author>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c19936</guid>
+    </item>
   </channel>
 </rss>

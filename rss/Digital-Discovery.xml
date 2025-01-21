@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 Jan 2025 01:19:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 01:18:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -66,6 +66,26 @@
       <author>Junyi Zhou, Man Luo, Linjiang Chen, Qing Zhu, Shan Jiang, Fei Zhang, Weiwei Shang, Jun Jiang</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00313f</guid>
+    </item>
+    <item>
+      <title>Balancing Molecular Information and Empirical Data in the Prediction of Physico-Chemical Properties</title>
+      <link>https://doi.org/10.1039/d4dd00154k</link>
+      <description>Johannes Zenn, Dominik Gond, Fabian Jirasek, Robert Bamler, Digital Discovery. None(None)] 2024. https://openalex.org/W4406396123
+
+                Predicting the physico-chemical properties of pure substances and mixtures is a central task in thermodynamics. Established prediction methods range from fully physics-based ab-initio calculations, which are only feasible for very...</description>
+      <author>Johannes Zenn, Dominik Gond, Fabian Jirasek, Robert Bamler</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00154k</guid>
+    </item>
+    <item>
+      <title>Composition and structure analyzer/featurizer for explainable machine-learning models to predict solid state structures</title>
+      <link>https://doi.org/10.1039/d4dd00332b</link>
+      <description>Emil I. Jaffal, Sangjoon Lee, Danila Shiryaev, Alex Vtorov, Nikhil K. Barua, Holger Kleinke, Anton O. Oliynyk, Digital Discovery. None(None)] 2024. https://openalex.org/W4406525604
+
+                Traditional and non-classical machine learning models for solid-state structure prediction have predominantly relied on compositional features (derived from properties of constituent elements) to predict the existence of structure and its...</description>
+      <author>Emil I. Jaffal, Sangjoon Lee, Danila Shiryaev, Alex Vtorov, Nikhil K. Barua, Holger Kleinke, Anton O. Oliynyk</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00332b</guid>
     </item>
   </channel>
 </rss>

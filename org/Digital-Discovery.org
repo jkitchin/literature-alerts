@@ -1,8 +1,8 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Mon Jan 20 01:19:52 2025
+Created on Tue Jan 21 01:18:39 2025
 
-Found 6 results from 2025-01-13 to 2025-01-20
+Found 8 results from 2025-01-14 to 2025-01-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 
@@ -129,5 +129,47 @@ OpenAlex: https://openalex.org/W4406371854 (Open access: True)
 [[https://openalex.org/A5032730117][Junyi Zhou]], [[https://openalex.org/A5101916360][Man Luo]], [[https://openalex.org/A5053751282][Linjiang Chen]], [[https://openalex.org/A5077458151][Qing Zhu]], [[https://openalex.org/A5007425194][Shan Jiang]], [[https://openalex.org/A5100412164][Fei Zhang]], [[https://openalex.org/A5031221880][Weiwei Shang]], [[https://openalex.org/A5100619997][Jun Jiang]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00313f 
      
 We present a multi-robot-multi-task scheduling system designed for autonomous chemistry laboratories to enhance the efficiency of executing complex chemical experiments. Building on the herein formulated and developed scheduling algorithms and...    
+
+    
+
+* Balancing Molecular Information and Empirical Data in the Prediction of Physico-Chemical Properties  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406396123
+:TOPICS: Computational Drug Discovery Methods
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00154k")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406396123"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406396123"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406396123"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406396123 (Open access: True)
+    
+[[https://openalex.org/A5010702746][Johannes Zenn]], [[https://openalex.org/A5002792104][Dominik Gond]], [[https://openalex.org/A5081019709][Fabian Jirasek]], [[https://openalex.org/A5045460222][Robert Bamler]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00154k 
+     
+Predicting the physico-chemical properties of pure substances and mixtures is a central task in thermodynamics. Established prediction methods range from fully physics-based ab-initio calculations, which are only feasible for very...    
+
+    
+
+* Composition and structure analyzer/featurizer for explainable machine-learning models to predict solid state structures  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406525604
+:TOPICS: Machine Learning in Materials Science
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00332b")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406525604"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406525604"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406525604"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406525604 (Open access: True)
+    
+[[https://openalex.org/A5114280567][Emil I. Jaffal]], [[https://openalex.org/A5100750437][Sangjoon Lee]], [[https://openalex.org/A5112725205][Danila Shiryaev]], [[https://openalex.org/A5084628527][Alex Vtorov]], [[https://openalex.org/A5065879160][Nikhil K. Barua]], [[https://openalex.org/A5067943258][Holger Kleinke]], [[https://openalex.org/A5017376122][Anton O. Oliynyk]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00332b 
+     
+Traditional and non-classical machine learning models for solid-state structure prediction have predominantly relied on compositional features (derived from properties of constituent elements) to predict the existence of structure and its...    
 
     

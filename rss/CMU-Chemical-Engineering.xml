@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 Jan 2025 01:19:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 01:18:37 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,36 @@
       <author>Deborah McGlynn, Lindsay D. Yee, H. Martin Garraffo, Lewis Y. Geer, Tytus D. Mak, Yuri A. Mirokhin, Dmitrii V. Tchekhovskoi, Coty N. Jen, A. H. Goldstein, Anthony J. Kearsley, Stephen E. Stein</author>
       <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jasms.4c00451</guid>
+    </item>
+    <item>
+      <title>Fast and sensitive measurements of sub-3 nm particles using Condensation Particle Counters For Atmospheric Rapid Measurements (CPC FARM)</title>
+      <link>https://doi.org/10.5194/amt-18-197-2025</link>
+      <description>Darren Cheng, Stavros Amanatidis, Gregory S. Lewis, Coty N. Jen, Atmospheric measurement techniques. 18(1)] 2025. https://openalex.org/W4406399967
+
+                Abstract. New particle formation (NPF) is the atmospheric process whereby gas molecules react and nucleate to form detectable particles. NPF has a strong impact on Earth's radiative balance as it produces roughly half of global cloud condensation nuclei. However, the time resolution and sensitivity of current instrumentation are inadequate in measuring the size distribution of sub-3 nm particles, the particles critical for understanding NPF. Here we present the Condensation Particle Counters For Atmospheric Rapid Measurements (CPC FARM), a method to measure the concentrations of freshly nucleated particles. The CPC FARM consists of five CPCs operating in parallel, each configured to operate at different detectable particle sizes between 1&#8211;3 nm. This study explores two methods to calculate the size distribution from the differential measurements across the CPC channels. The performance of both inversion methods was tested against the size distribution measured by a pair of stepping particle mobility sizers (SMPSs) during an ambient air sampling study in Pittsburgh, PA. Observational results indicate that the CPC FARM is more accurate with higher time resolution and sensitivity in the sub-3 nm range compared to the SMPS.</description>
+      <author>Darren Cheng, Stavros Amanatidis, Gregory S. Lewis, Coty N. Jen</author>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/amt-18-197-2025</guid>
+    </item>
+    <item>
+      <title>Development of an integrated modeling framework for visibility and air quality forecasting in Delhi</title>
+      <link>https://doi.org/10.1175/bams-d-24-0194.1</link>
+      <description>A. Jayakumar, T. J. Anurose, Shweta Bhati, M. A. Hendry, Garry Hayman, Hamish Gordon, Paul R. Field, Saji Mohandas, Heather Rumbold, Prafull Yadav, Narendra G. Dhangar, Avinash N. Parde, Sandeep Wagh, Sachin D. Ghude, Andrew Ross, Daniel Smith, Stephen Dorling, John P. George, V. Siva Prasad, M. Ravichandran, Bulletin of the American Meteorological Society. None(None)] 2025. https://openalex.org/W4406469103
+
+                Abstract Rapid urbanization has subjected the megacities of developing countries to various environmental stresses. Delhi, a major Indian megacity, faces increasing urban stress leading to reduction in air quality, and visibility. These challenges necessitate an integrated modeling framework to mitigate adverse environmental impacts on public health. Therefore, we have developed an advanced version of the high-resolution Delhi Model with Chemistry and Aerosol framework (DM-Chem) at the National Centre for Medium Range Weather Forecasting (NCMRWF) under the Weather and Climate Science for Service Partnership India (WCSSP India) project. This collaborative initiative between India and the UK aims to provide real-time forecasts of visibility and fine particulate matter (PM 2.5 ) for Delhi and neighbouring regions during the winter season. The DM Chem framework is unique due to its detailed urban canopy scheme and realistic aerosol representation, making it well-suited for city-scale forecasts. It is designed to predict extreme fog and pollution events in the winter season. Here we discuss the major physical parameterization improvements for the model, along with its skill and deficiencies in predicting extreme events. Notably, irrigation effects on surrounding agricultural areas have significantly improved fog and visibility forecasts, but have degraded the wind forecasts. We demonstrate the applicability of this modeling framework to study aerosol-radiation interaction during fog holes and discuss its potential to be applied or adapted to other megacities worldwide.</description>
+      <author>A. Jayakumar, T. J. Anurose, Shweta Bhati, M. A. Hendry, Garry Hayman, Hamish Gordon, Paul R. Field, Saji Mohandas, Heather Rumbold, Prafull Yadav, Narendra G. Dhangar, Avinash N. Parde, Sandeep Wagh, Sachin D. Ghude, Andrew Ross, Daniel Smith, Stephen Dorling, John P. George, V. Siva Prasad, M. Ravichandran</author>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1175/bams-d-24-0194.1</guid>
+    </item>
+    <item>
+      <title>Logic-Based Discrete-Steepest Descent: A solution method for process synthesis Generalized Disjunctive Programs</title>
+      <link>https://doi.org/10.1016/j.compchemeng.2024.108993</link>
+      <description>Daniel Ovalle, David A. Li&#241;&#225;n, Albert Lee, Jorge M. G&#243;mez, Luis Ricardez&#8208;Sandoval, Ignacio E. Grossmann, David E. Bernal, Computers &amp; Chemical Engineering. None(None)] 2025. https://openalex.org/W4406519921
+
+                No abstract</description>
+      <author>Daniel Ovalle, David A. Li&#241;&#225;n, Albert Lee, Jorge M. G&#243;mez, Luis Ricardez&#8208;Sandoval, Ignacio E. Grossmann, David E. Bernal</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108993</guid>
     </item>
     <item>
       <title>Code and Data Repository for Scalable Parallel Nonlinear Optimization with PyNumero and Parapint</title>
