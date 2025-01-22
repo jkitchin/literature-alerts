@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 21 Jan 2025 01:18:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 01:20:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>High-throughput screening and an interpretable machine learning model of single-atom hydrogen evolution catalysts with an asymmetric coordination environment constructed from heteroatom-doped graphdiyne</title>
-      <link>https://doi.org/10.1039/d4ta08095e</link>
-      <description>Ying Zhao, Shuaishuai Gao, Penghui Ren, Lishuang Ma, Xuebo Chen, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4406314790
-
-                Exploring high-activity and low-cost electrocatalysts for the hydrogen evolution reaction is the key to developing new energy sources, but it faces major challenges.</description>
-      <author>Ying Zhao, Shuaishuai Gao, Penghui Ren, Lishuang Ma, Xuebo Chen</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta08095e</guid>
-    </item>
-    <item>
-      <title>Enhanced delocalization and separation of charge carriers of D-&#960;-A type conjugated porous polymers by inserting fused thiophene derivative as &#960; bridge for improved photocatalytic activity</title>
-      <link>https://doi.org/10.1016/j.fuel.2025.134347</link>
-      <description>Xin Liu, Weiqiang Zhang, Fanpeng Meng, Jinsheng Zhao, Yuchang Du, Fei Zhao, Fuel. 387(None)] 2025. https://openalex.org/W4406316797
-
-                No abstract</description>
-      <author>Xin Liu, Weiqiang Zhang, Fanpeng Meng, Jinsheng Zhao, Yuchang Du, Fei Zhao</author>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.134347</guid>
-    </item>
-    <item>
-      <title>Recent advances in improving utilization efficiency of precious metal catalysts for hydrogen generation from hydrolysis of ammonia borane</title>
-      <link>https://doi.org/10.1016/j.ccr.2025.216445</link>
-      <description>Wenjing Xu, Mei Liu, Kexin Xu, Baojun Li, Coordination Chemistry Reviews. 529(None)] 2025. https://openalex.org/W4406325967
-
-                No abstract</description>
-      <author>Wenjing Xu, Mei Liu, Kexin Xu, Baojun Li</author>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2025.216445</guid>
-    </item>
-    <item>
-      <title>Automated and Efficient Sampling of Chemical Reaction Space</title>
-      <link>https://doi.org/10.1002/advs.202409009</link>
-      <description>Minhyeok Lee, Umit Volkan Ucak, Jinyoung Jeong, Islambek Ashyrmamatov, Juyong Lee, Eunji Sim, Advanced Science. None(None)] 2025. https://openalex.org/W4406330162
-
-                Machine learning interatomic potentials (MLIPs) promise quantum-level accuracy at classical force field speeds, but their performance hinges on the quality and diversity of training data. An efficient and fully automated approach to sample chemical reaction space without relying on human intuition, addressing a critical gap in MLIP development is presented. The method combines the speed of tight-binding calculations with selective high-level refinement, generating diverse datasets that capture both equilibrium and reactive regions of potential energy surfaces. By employing single-ended growing string and nudged elastic band methods, reaction pathways previously underrepresented in MLIP training sets, particularly near transition states are systematically explored. This approach yields datasets with rich structural and chemical diversity, essential for robust MLIP development. Open-source code is provided for the entire workflow, facilitating the integration of the approach into existing MLIP development pipelines.</description>
-      <author>Minhyeok Lee, Umit Volkan Ucak, Jinyoung Jeong, Islambek Ashyrmamatov, Juyong Lee, Eunji Sim</author>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/advs.202409009</guid>
-    </item>
-    <item>
-      <title>Dry Reforming of Methane Over Ru&lt;sub&gt;2&lt;/sub&gt;/CeO&lt;sub&gt;2&lt;/sub&gt;: Dynamic Behavior of Lattice Oxygen</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c06174</link>
-      <description>Pengfei Qu, Dong Fu, Gui&#8208;Chang Wang, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4406335145
-
-                No abstract</description>
-      <author>Pengfei Qu, Dong Fu, Gui&#8208;Chang Wang</author>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c06174</guid>
-    </item>
-    <item>
-      <title>Boosting Amino Acid Synthesis with WO&lt;sub&gt;x&lt;/sub&gt; Sub&#8208;Nanoclusters</title>
-      <link>https://doi.org/10.1002/adma.202418233</link>
-      <description>Guanzheng Wu, Zengying Ma, Tobias Heil, Leting Zhang, Wangcheng Hu, Guoqing Wu, Wenhui He, Lei Dai, Yucheng Huang, Qing Qin, Advanced Materials. None(None)] 2025. https://openalex.org/W4406336851
-
-                Abstract The conversion of nitrate&#8208;rich wastewater and biomass&#8208;derived blocks into high&#8208;value products using renewably generated electricity is a promising approach to modulate the artificial carbon and nitrogen cycle. Here, a new synthetic strategy of WO x sub&#8208;nanoclusters is reported and supported on carbon materials as novel efficient electrocatalysts for nitrate reduction and its coupling with &#945;&#8208;keto acids. In acidic solutions, the NH 3 &#8208;NH 2 OH selectivity can also optimized by adjusting the potential, with the total FE exceeding 80% over a wide potential range. After introducing &#945;&#8208;keto acids, the WO x /D&#8208;CB electrode achieves remarkable activity and selectivity toward C 2 &#8208;C 6 amino acids. For glycine and alanine, impressive FEs of 49.34% and 38.22% based on transitional metal oxides can be obtained, surpassing those of WO x nanoclusters with larger size. In situ analysis and mechanistic studies reveal the critical role of WO x sub&#8208;nanoclusters in reducing the energy barriers of key steps in alanine synthesis. This work opens up new insights into the rational design of cluster catalysts to promote electrochemical amino acid synthesis.</description>
-      <author>Guanzheng Wu, Zengying Ma, Tobias Heil, Leting Zhang, Wangcheng Hu, Guoqing Wu, Wenhui He, Lei Dai, Yucheng Huang, Qing Qin</author>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202418233</guid>
-    </item>
-    <item>
-      <title>Electrochemical Oxidative Desorption of Adsorbed Sulfur Species on (111) Surfaces of Single Crystals of Pure Pt and Pt-Based Bimetallic Alloys</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c06652</link>
-      <description>Makoto Aoki, Tamao Shishido, Tetsuro Morooka, Takuya Nakanishi, Takuya Masuda, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4406351662
-
-                The adsorption/desorption behavior of sulfur species at the (111) surfaces of pure Pt and various Pt-based bimetallic alloys, denoted as Pt3M (M = Co, Cu, Fe, Pd), was investigated by electrochemical measurements and X-ray photoelectron spectroscopy (XPS). After the adsorption of elemental sulfur, the current responses characteristic of the adsorption/desorption of hydrogen and hydroxyl species at the sulfur-free bare (111) surfaces completely disappeared, and a doublet peak corresponding to the elemental sulfur appeared in the S 2p region of XPS spectra. The characteristic current responses gradually recovered, simultaneously with the decrease of the S 2p peak, by repeating the potential cycling between &#8722;0.2 and 0.8 V vs Ag/AgCl, indicating the oxidative desorption of S species. Except for the Pt3Pd(111) surface, in which Pd has a similar atomic radius to Pt and fully occupied 4d orbitals, the Pt3M(111) surfaces showed higher oxidative desorption capability than those of the pure Pt(111) surface; electrochemically active surface area recovered at the Pt3M(111) surfaces by fewer potential cycles than at the Pt(111) surface. Among the various factors, the downshift of the d-band center due to the ligand effect of foreign metal and the electronic interaction between adsorbed S and Pt are the dominant factors promoting the oxidative desorption of sulfur as well as the strain effect of foreign metal with an atomic radius smaller than Pt.</description>
-      <author>Makoto Aoki, Tamao Shishido, Tetsuro Morooka, Takuya Nakanishi, Takuya Masuda</author>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c06652</guid>
-    </item>
     <item>
       <title>Revealing the Potential-Dependent Rate-Determining Step of Oxygen Reduction Reaction on Single-Atom Catalysts</title>
       <link>https://doi.org/10.1021/jacs.4c16098</link>
@@ -476,6 +406,26 @@
       <author>Wei Yang, Wenbin Wang, Sha Deng, QIANMAO JI, Yunlong Guo, Tao Long</author>
       <pubDate>Sat, 18 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.236244</guid>
+    </item>
+    <item>
+      <title>Pyridinic&#8208;N Seized Co in Biphasic Nanoarchitecture for Reversible Oxygen Electrocatalysis Enabling Longevous (&amp;gt;1200 h) Aqueous and Dual&#8208;Anion Kosmotropic Electrolyte Stabilized High Power Quasisolid&#8208;State Zn&#8211;Air Battery</title>
+      <link>https://doi.org/10.1002/smtd.202401874</link>
+      <description>Srijib Das, Saikat Bolar, Erakulan E. Siddharthan, A. J. Pathak, Ranjit Thapa, Ujjwal Phadikar, Haradhan Kolya, Chun&#8211;Won Kang, Tapas Kuila, Naresh Chandra Murmu, Aniruddha Kundu, Small Methods. None(None)] 2025. https://openalex.org/W4406593979
+
+                Abstract Integration of different active sites by heterostructure engineering is pivotal to optimize the intrinsic activities of an oxygen electrocatalyst and much needed to enhance the performance of rechargeable Zn&#8211;air batteries (ZABs). Herein, a biphasic nanoarchitecture encased in in situ grown N&#8208;doped graphitic carbon (MnO/Co&#8208;NGC) with heterointerfacial sites are constructed. The density functional theory model reveals formation of lattice oxygen bridged heterostructure with pyridinic nitrogen atoms anchored Co species, which facilitate adsorption of oxygen intermediates. Consequently, the well&#8208;designed catalyst with accessible active sites, abundant oxygen vacant sites, and heterointerfacial coupling effects, simultaneously accelerate the electron/mass transfer and thus promotes the trifunctional electrocatalysis. The assembled aqueous ZAB delivers maximum power density of &#8776;268 mW cm &#8722;2 and a specific capacity of 797.8 mAh g zn &#8722;1 along with excellent rechargeability and extremely small voltage gap decay rate of 0.0007 V h &#8722;1 . Further, the fabricated quasisolid&#8208;state ZAB owns a remarkable power density of 163 mW cm &#8722;2 and long cycle life, outperforming the benchmark air&#8208;electrode and many recent reports, underlining its robustness and suitability for practical utilization in diverse portable applications.</description>
+      <author>Srijib Das, Saikat Bolar, Erakulan E. Siddharthan, A. J. Pathak, Ranjit Thapa, Ujjwal Phadikar, Haradhan Kolya, Chun&#8211;Won Kang, Tapas Kuila, Naresh Chandra Murmu, Aniruddha Kundu</author>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202401874</guid>
+    </item>
+    <item>
+      <title>In situ electrochemical production of solid peroxide from urine</title>
+      <link>https://doi.org/10.1038/s41929-024-01277-3</link>
+      <description>Xinjian Shi, Yue Jiang, Bailin Zeng, Zhuo-Yue Sun, Maojin Yun, Peng Lv, Yu Jia, Xiaolin Zheng, Nature Catalysis. None(None)] 2025. https://openalex.org/W4406602061
+
+                No abstract</description>
+      <author>Xinjian Shi, Yue Jiang, Bailin Zeng, Zhuo-Yue Sun, Maojin Yun, Peng Lv, Yu Jia, Xiaolin Zheng</author>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01277-3</guid>
     </item>
     <item>
       <title>Electrochemical approaches for CO2 point source, direct air, and seawater capture: identifying opportunities and synergies</title>

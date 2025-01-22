@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Tue Jan 21 01:18:39 2025
+Created on Wed Jan 22 01:20:32 2025
 
-Found 8 results from 2025-01-14 to 2025-01-21
+Found 7 results from 2025-01-15 to 2025-01-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -47,17 +47,6 @@ Open access: True
 , Digital Discovery. 4(1)] 2025.https://doi.org/10.1039/d5dd90002f.
     
 No abstract    
-
-    
-
-## Optimising Digital Twin Laboratories with Conversational AIs: Enhancing Immersive Training and Simulation through Virtual Reality   
-
-OpenAlex: https://openalex.org/W4406335943    
-Open access: True
-    
-[Mae Taylor](https://openalex.org/A5038366184), [Zaid Muwaffak](https://openalex.org/A5067813766), [Matthew R. Penny](https://openalex.org/A5019069308), [Blanka R. Szulc](https://openalex.org/A5112217546), [Steven R. Brown](https://openalex.org/A5023120183), [Andy Merritt](https://openalex.org/A5066005230), [Stephen T. Hilton](https://openalex.org/A5061175078), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00330f.
-    
-Digital twin laboratories, accessible through low-cost, portable virtual reality (VR) headsets, have become a powerful tool in chemical education and research collaboration. These immersive digital environments replicate physical laboratories, offering...    
 
     
 

@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Jan 21 01:18:49 2025
+Created on Wed Jan 22 01:20:41 2025
 
-Found 54 results from 2025-01-14 to 2025-01-21
+Found 49 results from 2025-01-15 to 2025-01-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967)
@@ -16,83 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176)
-
-## High-throughput screening and an interpretable machine learning model of single-atom hydrogen evolution catalysts with an asymmetric coordination environment constructed from heteroatom-doped graphdiyne   
-
-OpenAlex: https://openalex.org/W4406314790    
-Open access: False
-    
-[Ying Zhao](https://openalex.org/A5045967049), [Shuaishuai Gao](https://openalex.org/A5014277902), [Penghui Ren](https://openalex.org/A5034700166), [Lishuang Ma](https://openalex.org/A5100562765), [Xuebo Chen](https://openalex.org/A5101689974), Journal of Materials Chemistry A. None(None)] 2025.https://doi.org/10.1039/d4ta08095e.
-    
-Exploring high-activity and low-cost electrocatalysts for the hydrogen evolution reaction is the key to developing new energy sources, but it faces major challenges.    
-
-    
-
-## Enhanced delocalization and separation of charge carriers of D-π-A type conjugated porous polymers by inserting fused thiophene derivative as π bridge for improved photocatalytic activity   
-
-OpenAlex: https://openalex.org/W4406316797    
-Open access: False
-    
-[Xin Liu](https://openalex.org/A5100352229), [Weiqiang Zhang](https://openalex.org/A5100692897), [Fanpeng Meng](https://openalex.org/A5082404715), [Jinsheng Zhao](https://openalex.org/A5074336795), [Yuchang Du](https://openalex.org/A5070475612), [Fei Zhao](https://openalex.org/A5101870401), Fuel. 387(None)] 2025.https://doi.org/10.1016/j.fuel.2025.134347.
-    
-No abstract    
-
-    
-
-## Recent advances in improving utilization efficiency of precious metal catalysts for hydrogen generation from hydrolysis of ammonia borane   
-
-OpenAlex: https://openalex.org/W4406325967    
-Open access: False
-    
-[Wenjing Xu](https://openalex.org/A5102728723), [Mei Liu](https://openalex.org/A5100347914), [Kexin Xu](https://openalex.org/A5104019333), [Baojun Li](https://openalex.org/A5036975470), Coordination Chemistry Reviews. 529(None)] 2025.https://doi.org/10.1016/j.ccr.2025.216445.
-    
-No abstract    
-
-    
-
-## Automated and Efficient Sampling of Chemical Reaction Space   
-
-OpenAlex: https://openalex.org/W4406330162    
-Open access: True
-    
-[Minhyeok Lee](https://openalex.org/A5041952535), [Umit Volkan Ucak](https://openalex.org/A5021698978), [Jinyoung Jeong](https://openalex.org/A5101500796), [Islambek Ashyrmamatov](https://openalex.org/A5070656627), [Juyong Lee](https://openalex.org/A5066026979), [Eunji Sim](https://openalex.org/A5015184859), Advanced Science. None(None)] 2025.https://doi.org/10.1002/advs.202409009.
-    
-Machine learning interatomic potentials (MLIPs) promise quantum-level accuracy at classical force field speeds, but their performance hinges on the quality and diversity of training data. An efficient and fully automated approach to sample chemical reaction space without relying on human intuition, addressing a critical gap in MLIP development is presented. The method combines the speed of tight-binding calculations with selective high-level refinement, generating diverse datasets that capture both equilibrium and reactive regions of potential energy surfaces. By employing single-ended growing string and nudged elastic band methods, reaction pathways previously underrepresented in MLIP training sets, particularly near transition states are systematically explored. This approach yields datasets with rich structural and chemical diversity, essential for robust MLIP development. Open-source code is provided for the entire workflow, facilitating the integration of the approach into existing MLIP development pipelines.    
-
-    
-
-## Dry Reforming of Methane Over Ru2/CeO2: Dynamic Behavior of Lattice Oxygen   
-
-OpenAlex: https://openalex.org/W4406335145    
-Open access: False
-    
-[Pengfei Qu](https://openalex.org/A5035619653), [Dong Fu](https://openalex.org/A5085769645), [Gui‐Chang Wang](https://openalex.org/A5013508325), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.4c06174.
-    
-No abstract    
-
-    
-
-## Boosting Amino Acid Synthesis with WOx Sub‐Nanoclusters   
-
-OpenAlex: https://openalex.org/W4406336851    
-Open access: True
-    
-[Guanzheng Wu](https://openalex.org/A5006054676), [Zengying Ma](https://openalex.org/A5102498965), [Tobias Heil](https://openalex.org/A5021865516), [Leting Zhang](https://openalex.org/A5088911992), [Wangcheng Hu](https://openalex.org/A5058552594), [Guoqing Wu](https://openalex.org/A5057943070), [Wenhui He](https://openalex.org/A5035989529), [Lei Dai](https://openalex.org/A5021887481), [Yucheng Huang](https://openalex.org/A5080759059), [Qing Qin](https://openalex.org/A5100760351), Advanced Materials. None(None)] 2025.https://doi.org/10.1002/adma.202418233.
-    
-Abstract The conversion of nitrate‐rich wastewater and biomass‐derived blocks into high‐value products using renewably generated electricity is a promising approach to modulate the artificial carbon and nitrogen cycle. Here, a new synthetic strategy of WO x sub‐nanoclusters is reported and supported on carbon materials as novel efficient electrocatalysts for nitrate reduction and its coupling with α‐keto acids. In acidic solutions, the NH 3 ‐NH 2 OH selectivity can also optimized by adjusting the potential, with the total FE exceeding 80% over a wide potential range. After introducing α‐keto acids, the WO x /D‐CB electrode achieves remarkable activity and selectivity toward C 2 ‐C 6 amino acids. For glycine and alanine, impressive FEs of 49.34% and 38.22% based on transitional metal oxides can be obtained, surpassing those of WO x nanoclusters with larger size. In situ analysis and mechanistic studies reveal the critical role of WO x sub‐nanoclusters in reducing the energy barriers of key steps in alanine synthesis. This work opens up new insights into the rational design of cluster catalysts to promote electrochemical amino acid synthesis.    
-
-    
-
-## Electrochemical Oxidative Desorption of Adsorbed Sulfur Species on (111) Surfaces of Single Crystals of Pure Pt and Pt-Based Bimetallic Alloys   
-
-OpenAlex: https://openalex.org/W4406351662    
-Open access: True
-    
-[Makoto Aoki](https://openalex.org/A5055407680), [Tamao Shishido](https://openalex.org/A5031162063), [Tetsuro Morooka](https://openalex.org/A5040078890), [Takuya Nakanishi](https://openalex.org/A5071557809), [Takuya Masuda](https://openalex.org/A5088829614), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.4c06652 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcc.4c06652?ref=article_openPDF)).
-    
-The adsorption/desorption behavior of sulfur species at the (111) surfaces of pure Pt and various Pt-based bimetallic alloys, denoted as Pt3M (M = Co, Cu, Fe, Pd), was investigated by electrochemical measurements and X-ray photoelectron spectroscopy (XPS). After the adsorption of elemental sulfur, the current responses characteristic of the adsorption/desorption of hydrogen and hydroxyl species at the sulfur-free bare (111) surfaces completely disappeared, and a doublet peak corresponding to the elemental sulfur appeared in the S 2p region of XPS spectra. The characteristic current responses gradually recovered, simultaneously with the decrease of the S 2p peak, by repeating the potential cycling between −0.2 and 0.8 V vs Ag/AgCl, indicating the oxidative desorption of S species. Except for the Pt3Pd(111) surface, in which Pd has a similar atomic radius to Pt and fully occupied 4d orbitals, the Pt3M(111) surfaces showed higher oxidative desorption capability than those of the pure Pt(111) surface; electrochemically active surface area recovered at the Pt3M(111) surfaces by fewer potential cycles than at the Pt(111) surface. Among the various factors, the downshift of the d-band center due to the ligand effect of foreign metal and the electronic interaction between adsorbed S and Pt are the dominant factors promoting the oxidative desorption of sulfur as well as the strain effect of foreign metal with an atomic radius smaller than Pt.    
-
-    
 
 ## Revealing the Potential-Dependent Rate-Determining Step of Oxygen Reduction Reaction on Single-Atom Catalysts   
 
@@ -534,12 +457,34 @@ No abstract
 
     
 
+## Pyridinic‐N Seized Co in Biphasic Nanoarchitecture for Reversible Oxygen Electrocatalysis Enabling Longevous (>1200 h) Aqueous and Dual‐Anion Kosmotropic Electrolyte Stabilized High Power Quasisolid‐State Zn–Air Battery   
+
+OpenAlex: https://openalex.org/W4406593979    
+Open access: True
+    
+[Srijib Das](https://openalex.org/A5001612544), [Saikat Bolar](https://openalex.org/A5018487030), [Erakulan E. Siddharthan](https://openalex.org/A5083620102), [A. J. Pathak](https://openalex.org/A5022051010), [Ranjit Thapa](https://openalex.org/A5028088995), [Ujjwal Phadikar](https://openalex.org/A5053783996), [Haradhan Kolya](https://openalex.org/A5024569132), [Chun–Won Kang](https://openalex.org/A5033419891), [Tapas Kuila](https://openalex.org/A5052738033), [Naresh Chandra Murmu](https://openalex.org/A5023748022), [Aniruddha Kundu](https://openalex.org/A5059342210), Small Methods. None(None)] 2025.https://doi.org/10.1002/smtd.202401874.
+    
+Abstract Integration of different active sites by heterostructure engineering is pivotal to optimize the intrinsic activities of an oxygen electrocatalyst and much needed to enhance the performance of rechargeable Zn–air batteries (ZABs). Herein, a biphasic nanoarchitecture encased in in situ grown N‐doped graphitic carbon (MnO/Co‐NGC) with heterointerfacial sites are constructed. The density functional theory model reveals formation of lattice oxygen bridged heterostructure with pyridinic nitrogen atoms anchored Co species, which facilitate adsorption of oxygen intermediates. Consequently, the well‐designed catalyst with accessible active sites, abundant oxygen vacant sites, and heterointerfacial coupling effects, simultaneously accelerate the electron/mass transfer and thus promotes the trifunctional electrocatalysis. The assembled aqueous ZAB delivers maximum power density of ≈268 mW cm −2 and a specific capacity of 797.8 mAh g zn −1 along with excellent rechargeability and extremely small voltage gap decay rate of 0.0007 V h −1 . Further, the fabricated quasisolid‐state ZAB owns a remarkable power density of 163 mW cm −2 and long cycle life, outperforming the benchmark air‐electrode and many recent reports, underlining its robustness and suitability for practical utilization in diverse portable applications.    
+
+    
+
+## In situ electrochemical production of solid peroxide from urine   
+
+OpenAlex: https://openalex.org/W4406602061    
+Open access: False
+    
+[Xinjian Shi](https://openalex.org/A5024831844), [Yue Jiang](https://openalex.org/A5006272263), [Bailin Zeng](https://openalex.org/A5115943975), [Zhuo-Yue Sun](https://openalex.org/A5003828588), [Maojin Yun](https://openalex.org/A5054022769), [Peng Lv](https://openalex.org/A5101902707), [Yu Jia](https://openalex.org/A5081165962), [Xiaolin Zheng](https://openalex.org/A5063671472), Nature Catalysis. None(None)] 2025.https://doi.org/10.1038/s41929-024-01277-3.
+    
+No abstract    
+
+    
+
 ## Electrochemical approaches for CO2 point source, direct air, and seawater capture: identifying opportunities and synergies   
 
 OpenAlex: https://openalex.org/W4406500378    
-Open access: False
+Open access: True
     
-[Mehar U Nisa](https://openalex.org/A5101658594), [Haris Ishaq](https://openalex.org/A5047835879), [Curran Crawford](https://openalex.org/A5010570415), Environmental Science and Pollution Research. None(None)] 2025.https://doi.org/10.1007/s11356-025-35890-x.
+[Mehar U Nisa](https://openalex.org/A5101658594), [Haris Ishaq](https://openalex.org/A5047835879), [Curran Crawford](https://openalex.org/A5010570415), Environmental Science and Pollution Research. None(None)] 2025.https://doi.org/10.1007/s11356-025-35890-x ([pdf](https://link.springer.com/content/pdf/10.1007/s11356-025-35890-x.pdf)).
     
 No abstract    
 

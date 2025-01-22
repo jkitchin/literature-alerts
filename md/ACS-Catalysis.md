@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Jan 21 01:18:36 2025
+Created on Wed Jan 22 01:20:28 2025
 
-Found 32 results from 2025-01-14 to 2025-01-21
+Found 28 results from 2025-01-15 to 2025-01-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Pd-Catalyzed Dehydrogenation Enhanced by Charge Transfer from MoOx Promoter   
-
-OpenAlex: https://openalex.org/W4406317251    
-Open access: False
-    
-[Byung Gwan Park](https://openalex.org/A5010584378), [Jihyeon Lee](https://openalex.org/A5001170097), [Yoojin Lee](https://openalex.org/A5100657005), [Hyeongeon Lee](https://openalex.org/A5028501194), [Jueun Kim](https://openalex.org/A5101563699), [Eonu Nam](https://openalex.org/A5068765684), [Jong‐Seong Bae](https://openalex.org/A5101771881), [Jeong Woo Han](https://openalex.org/A5033014275), [Kwangjin An](https://openalex.org/A5034804943), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c04684.
-    
-Incorporating metal oxides is a sensible strategy for enhancing the efficiency of precious metals. Upon the introduction of molybdenum oxide, diverse coordination structures were formed on the support surface depending on the concentration used. This modified surface architecture orchestrates consequential alterations in the electronic and geometric configurations of the active metal, concurrently influencing the catalytic performance. In this study, MoOx species were introduced into Pd in a controlled manner to substantially enhance the dehydrogenation activity of the N-heterocyclic liquid organic hydrogen carrier system. Pd−MoOx/Al2O3 catalyst─featuring an optimal 0.18 wt % Mo loading─demonstrated noteworthy improvement in activity, surpassing Pd/Al2O3 by factors of 1.57 and 1.24, accompanied by enhanced recyclability in two distinct LOHC systems. Integrated characterization and theoretical calculations elucidated the modification of the electronic properties of both Pd and Al2O3 upon MoOx introduction and the corresponding adsorption behavior of the reactants, highlighting the charge transfer phenomenon from Pd to MoOx.    
-
-    
-
-## Water-Controlled Coking Dynamics during High-Pressure Methanol-to-Olefins Reaction over SAPO-34   
-
-OpenAlex: https://openalex.org/W4406321093    
-Open access: False
-    
-[Chengwei Zhang](https://openalex.org/A5100767831), [Xinqiang Wu](https://openalex.org/A5100910751), [Yanan Zhang](https://openalex.org/A5101614675), [Li Wang](https://openalex.org/A5100336102), [Yan Jin](https://openalex.org/A5057612246), [Mingbin Gao](https://openalex.org/A5014923308), [Mao Ye](https://openalex.org/A5100682785), [Yingxu Wei](https://openalex.org/A5058202114), [Zhongmin Liu](https://openalex.org/A5100660725), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06239.
-    
-No abstract    
-
-    
-
-## Substrate Promiscuity Engineering of ScALDO Enables a Versatile Minimized Enzyme Cascade for Efficient Utilization of Various Sugars   
-
-OpenAlex: https://openalex.org/W4406327422    
-Open access: False
-    
-[Shiming Tang](https://openalex.org/A5086542659), [Z Y Zhang](https://openalex.org/A5015884379), [Daocheng Liao](https://openalex.org/A5069042619), [Ying Lin](https://openalex.org/A5110074404), [Yuan‐Yuan Huang](https://openalex.org/A5052443619), [Suiping Zheng](https://openalex.org/A5073266499), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c07497.
-    
-No abstract    
-
-    
-
-## Evolutionary Specialization of a Promiscuous Designer Enzyme   
-
-OpenAlex: https://openalex.org/W4406328950    
-Open access: True
-    
-[Reuben B. Leveson‐Gower](https://openalex.org/A5022469888), [Laura Tiessler‐Sala](https://openalex.org/A5043880857), [H.J. Rozeboom](https://openalex.org/A5005328052), [A.M.W.H. Thunnissen](https://openalex.org/A5087468780), [Jean‐Didier Maréchal](https://openalex.org/A5076914476), [Gérard Roelfes](https://openalex.org/A5032880385), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06409.
-    
-The evolution of a promiscuous enzyme for its various activities often results in catalytically specialized variants. This is an important natural mechanism to ensure the proper functioning of natural metabolic networks. It also acts as both a curse and blessing for enzyme engineers, where enzymes that have undergone directed evolution may exhibit exquisite selectivity at the expense of a diminished overall catalytic repertoire. We previously performed two independent directed evolution campaigns on a promiscuous designer enzyme that leverages the unique properties of a noncanonical amino acid (ncAA) para-aminophenylalanine (pAF) as catalytic residue, resulting in two evolved variants which are both catalytically specialized. Here, we combine mutagenesis, crystallography, and computation to reveal the molecular basis of the specialization phenomenon. In one evolved variant, an unexpected change in quaternary structure biases substrate dynamics to promote enantioselective catalysis, while the other demonstrates synergistic cooperation between natural side chains and the pAF residue to form semisynthetic catalytic machinery.    
-
-    
 
 ## Cobalt-Catalyzed Chemoselective π–σ–π-Type Tandem Reductive Coupling to Access Isoquinolines via Carbocobaltation of Nitriles   
 
@@ -354,6 +310,6 @@ Open access: False
     
 [Yawen Huang](https://openalex.org/A5100567905), [Jie Zhang](https://openalex.org/A5100436798), [Fuqiang Chen](https://openalex.org/A5048619601), [Yu Fu](https://openalex.org/A5014776886), [Han Liu](https://openalex.org/A5100632385), [Zhiyou Zong](https://openalex.org/A5076227403), [Quanshun Li](https://openalex.org/A5043546888), [Yalan Zhang](https://openalex.org/A5100747316), [Huanhuan Li](https://openalex.org/A5100334085), [Xiang Sheng](https://openalex.org/A5024722452), [Weidong Liu](https://openalex.org/A5100687142), [Wuyuan Zhang](https://openalex.org/A5054052897), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06429.
     
-No abstract    
+Hydroxylation of C25 C–H bonds (referring to sterols) is of great importance in vivo for metabolizing sterols and vitamin Ds. The biocatalytic hydroxylation of C25 C–H bonds is restricted by the selectivity and activity of the enzymes due to the inertness of these bulky compounds. Herein, we employed fungal unspecific peroxygenase from Agrocybe aegerita (AaeUPO) as the catalyst to develop efficient and selective AaeUPO variants through protein engineering. After three rounds of evolution using semirational design, 2 variants, G195A/G241V/G318V (Stev) and Q72K/G195A/G241V (Veco), were determined to be the ideal catalysts, showing a 25- to 27-fold increase in enzyme activity and an improvement in selectivity from 25% to over 93% in gram-scale conversion of vitamin D3 to 25-hydroxyvitamin D3. These two variants exhibited overall enhanced catalytic performance in hydroxylating the C25 C–H bonds of the other 24 sterol and vitamin D analogues. This work provides an enzymatic toolbox to synthesize the highly important vitamins and sterols into the compounds of interest under mild conditions with remarkable regioselectivity and enzyme activity.    
 
     
