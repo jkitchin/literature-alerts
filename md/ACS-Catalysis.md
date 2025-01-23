@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Jan 22 01:20:28 2025
+Created on Thu Jan 23 01:19:10 2025
 
-Found 28 results from 2025-01-15 to 2025-01-22
+Found 27 results from 2025-01-16 to 2025-01-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Cobalt-Catalyzed Chemoselective π–σ–π-Type Tandem Reductive Coupling to Access Isoquinolines via Carbocobaltation of Nitriles   
-
-OpenAlex: https://openalex.org/W4406362720    
-Open access: False
-    
-[Ling Tang](https://openalex.org/A5101914712), [Xueyu Liu](https://openalex.org/A5062198941), [Xintong Wang](https://openalex.org/A5079813515), [Xianmao Liu](https://openalex.org/A5019669761), [Xinmiao Huang](https://openalex.org/A5091731103), [Ni Qian](https://openalex.org/A5109305406), [Chen He](https://openalex.org/A5033493491), [Gen Luo](https://openalex.org/A5046378812), [Yuanhong Ma](https://openalex.org/A5033059956), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c07667.
-    
-Transition metal-catalyzed reductive coupling chemistry has been recognized as a powerful tool for the synthesis of diverse organic molecules. However, despite enormous progress in this field, there is no precedent for the tandem reductive coupling of widely accessible nitriles with electrophiles that contain σ- and π-type (σ/π-type) electrophilic functional groups simultaneously. Herein, we have established a unique cobalt catalysis system, enabling the chemoselective reductive coupling/tandem cyclization reaction of aryl halides (Br, Cl, I) bearing carbonyl moiety with a variety of aryl, alkenyl, and alkyl nitriles via the carbocobaltation of nitriles that is unknown yet. The protocol allows for the modular synthesis of structurally diverse isoquinolines with wide substrate scope (>60 examples), good functionalities tolerance, and good chemoselectivity.    
-
-    
-
-## Helix Zipper Regulating Formolase Activity   
-
-OpenAlex: https://openalex.org/W4406362725    
-Open access: False
-    
-[Zijian Tan](https://openalex.org/A5082358402), [Zijing Tang](https://openalex.org/A5006700378), [Hongli Wei](https://openalex.org/A5048429495), [R.‐H. Zhang](https://openalex.org/A5008388530), [Ling Sun](https://openalex.org/A5045529274), [Weidong Liu](https://openalex.org/A5100687142), [Haifeng Liu](https://openalex.org/A5100325550), [Leilei Zhu](https://openalex.org/A5021560784), [Yanhe Ma](https://openalex.org/A5111789957), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c07452.
-    
-No abstract    
-
-    
-
-## Optimizing Ethylene Production through Enhanced Monomolecular β-Scission in Confined Catalytic Cracking of Olefin   
-
-OpenAlex: https://openalex.org/W4406369344    
-Open access: False
-    
-[Yanfen Zuo](https://openalex.org/A5050433829), [Lei Ye](https://openalex.org/A5100328598), [Wenjie Yang](https://openalex.org/A5077860557), [Bo Peng](https://openalex.org/A5070734356), [Jing Zhang](https://openalex.org/A5100345438), [Xingtian Shu](https://openalex.org/A5055699375), [Youhao Xu](https://openalex.org/A5075305513), [Jichang Liu](https://openalex.org/A5075262049), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c05323.
-    
-No abstract    
-
-    
-
-## Machine Learning Potentials for Heterogeneous Catalysis   
-
-OpenAlex: https://openalex.org/W4406385377    
-Open access: False
-    
-[Amir Omranpour](https://openalex.org/A5036056934), [Jan Elsner](https://openalex.org/A5058578399), [K. Nikolas Lausch](https://openalex.org/A5110718322), [Jörg Behler](https://openalex.org/A5026774143), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06717.
-    
-The production of many bulk chemicals relies on heterogeneous catalysis. The rational design or improvement of the required catalysts critically depends on insights into the underlying mechanisms on the atomic scale. In recent years, substantial progress has been made in applying advanced experimental techniques to complex catalytic reactions in operando, but in order to achieve a comprehensive understanding, additional information from computer simulations is indispensable in many cases. In particular, ab initio molecular dynamics (AIMD) has become an important tool to explicitly address the atomistic level structure, dynamics, and reactivity of interfacial systems, but the high computational costs limit applications to systems consisting of at most a few hundred atoms for simulation times of up to tens of picoseconds. Rapid advances in the development of modern machine learning potentials (MLP) now offer a promising approach to bridge this gap, enabling simulations of complex catalytic reactions with ab initio accuracy at a small fraction of the computational costs. In this Perspective, we provide an overview of the current state of the art of applying MLPs to systems relevant for heterogeneous catalysis along with a discussion of the prospects for the use of MLPs in catalysis science in the years to come.    
-
-    
 
 ## Largely Promoted C–H Activation in Methane with O2 via d-Orbital Hybridization Induced by CuOx Supported on ZnO   
 
@@ -311,5 +267,38 @@ Open access: False
 [Yawen Huang](https://openalex.org/A5100567905), [Jie Zhang](https://openalex.org/A5100436798), [Fuqiang Chen](https://openalex.org/A5048619601), [Yu Fu](https://openalex.org/A5014776886), [Han Liu](https://openalex.org/A5100632385), [Zhiyou Zong](https://openalex.org/A5076227403), [Quanshun Li](https://openalex.org/A5043546888), [Yalan Zhang](https://openalex.org/A5100747316), [Huanhuan Li](https://openalex.org/A5100334085), [Xiang Sheng](https://openalex.org/A5024722452), [Weidong Liu](https://openalex.org/A5100687142), [Wuyuan Zhang](https://openalex.org/A5054052897), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06429.
     
 Hydroxylation of C25 C–H bonds (referring to sterols) is of great importance in vivo for metabolizing sterols and vitamin Ds. The biocatalytic hydroxylation of C25 C–H bonds is restricted by the selectivity and activity of the enzymes due to the inertness of these bulky compounds. Herein, we employed fungal unspecific peroxygenase from Agrocybe aegerita (AaeUPO) as the catalyst to develop efficient and selective AaeUPO variants through protein engineering. After three rounds of evolution using semirational design, 2 variants, G195A/G241V/G318V (Stev) and Q72K/G195A/G241V (Veco), were determined to be the ideal catalysts, showing a 25- to 27-fold increase in enzyme activity and an improvement in selectivity from 25% to over 93% in gram-scale conversion of vitamin D3 to 25-hydroxyvitamin D3. These two variants exhibited overall enhanced catalytic performance in hydroxylating the C25 C–H bonds of the other 24 sterol and vitamin D analogues. This work provides an enzymatic toolbox to synthesize the highly important vitamins and sterols into the compounds of interest under mild conditions with remarkable regioselectivity and enzyme activity.    
+
+    
+
+## Recent Progress in Chiral Quaternary Ammonium Salt-Promoted Asymmetric Nucleophilic Additions   
+
+OpenAlex: https://openalex.org/W4406618785    
+Open access: False
+    
+[Xiaoqun Yang](https://openalex.org/A5074111753), [Youlin Deng](https://openalex.org/A5022369506), [Dan Ling](https://openalex.org/A5101080053), [Tingting Li](https://openalex.org/A5100416500), [Lingzhu Chen](https://openalex.org/A5087950310), [Zhichao Jin](https://openalex.org/A5005455559), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06497.
+    
+No abstract    
+
+    
+
+## Reshaping the Substrate-Binding Pocket of Ene-Reductase for Enhanced and Inverted Stereoselectivity: A Concise Access to the Stereocomplementary Chiral GABA Derivatives   
+
+OpenAlex: https://openalex.org/W4406632949    
+Open access: False
+    
+[An Huang](https://openalex.org/A5100962601), [Xianheng Song](https://openalex.org/A5058899574), [Linlin Song](https://openalex.org/A5100693223), [Shuang-Shuang Pan](https://openalex.org/A5112552418), [Jiaxin Tian](https://openalex.org/A5101484239), [Pengfei Wang](https://openalex.org/A5100399575), [Shuyun Ju](https://openalex.org/A5021036490), [Yajun Wang](https://openalex.org/A5100454884), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06784.
+    
+Despite the availability of numerous natural and engineered ene-reductases (ERs), enantiocomplementary synthesis of the sterically hindered molecules by ERs is still limited by poor substrate acceptance, particularly due to the insufficient complementary stereoselectivity. Herein, we reshaped the substrate-binding pocket of SeER from Saccharomyces eubayanus through semirational design, enabling ERs capable of stereocomplementary hydrogenating of the challenging substituted β-cyano cinnamic esters. Compared to the wild type, the variants exhibited enhanced activity (up to 161-fold) and catalytic efficiency kcat/KM (up to 358-fold), displaying potential in synthesizing various chiral β-cyano esters with high stereoselectivity (up to 99% ee). Molecular dynamics simulations demonstrated that the key for the superior catalytic performance of variants is the well-tuned substrate-binding pocket, which strengthens and stabilizes substrate recognition. Furthermore, we elucidated the practicality of the SeER variants in asymmetric synthesis of the chiral GABA derivatives (e.g., Phenibut, Baclofen, and Tolibut) via chemo-enzymatic cascade reactions.    
+
+    
+
+## Time-Domain NMR: Generating Unique Insights into the Characterization of Heterogeneous Catalysis in Liquid Phase   
+
+OpenAlex: https://openalex.org/W4406636099    
+Open access: True
+    
+[Murilo T. Suekuni](https://openalex.org/A5026161996), [Carmine D’Agostino](https://openalex.org/A5028556784), [Alan M. Allgeier](https://openalex.org/A5026632772), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c04789.
+    
+No abstract    
 
     

@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Wed Jan 22 01:20:32 2025
+Created on Thu Jan 23 01:19:13 2025
 
-Found 7 results from 2025-01-15 to 2025-01-22
+Found 8 results from 2025-01-16 to 2025-01-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -50,14 +50,25 @@ No abstract
 
     
 
-## A multi-robot-multi-task scheduling system for autonomous chemistry laboratories   
+## Artificial intelligence-assisted electrochemical sensors for qualitative and semi-quantitative multiplexed analyses   
 
-OpenAlex: https://openalex.org/W4406371854    
+OpenAlex: https://openalex.org/W4406624736    
 Open access: True
     
-[Junyi Zhou](https://openalex.org/A5032730117), [Man Luo](https://openalex.org/A5101916360), [Linjiang Chen](https://openalex.org/A5053751282), [Qing Zhu](https://openalex.org/A5077458151), [Shan Jiang](https://openalex.org/A5007425194), [Fei Zhang](https://openalex.org/A5100412164), [Weiwei Shang](https://openalex.org/A5031221880), [Jun Jiang](https://openalex.org/A5100619997), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00313f.
+[Rocco Cancelliere](https://openalex.org/A5058125850), [Mario Molinara](https://openalex.org/A5042992044), [Antonio Licheri](https://openalex.org/A5115952078), [Antonio Maffucci](https://openalex.org/A5013630291), [Laura Micheli](https://openalex.org/A5038991488), Digital Discovery. None(None)] 2025.https://doi.org/10.1039/d4dd00318g.
     
-We present a multi-robot-multi-task scheduling system designed for autonomous chemistry laboratories to enhance the efficiency of executing complex chemical experiments. Building on the herein formulated and developed scheduling algorithms and...    
+AI-integrated electrochemical sensors boost peak resolution and sensitivity, enabling precise detection of electroactive species in complex matrices. This method enhances analytical capabilities, providing an analytically robust solution.    
+
+    
+
+## Commit: Mini article for dynamic reporting of incremental improvements to previous scholarly work   
+
+OpenAlex: https://openalex.org/W4406633347    
+Open access: True
+    
+[Alán Aspuru–Guzik](https://openalex.org/A5071495561), [Jason E. Hein](https://openalex.org/A5003345103), [Joshua Schrier](https://openalex.org/A5073376584), Digital Discovery. None(None)] 2025.https://doi.org/10.1039/d4dd90053g.
+    
+Introducing Commit, a new article type at Digital Discovery intended for reporting incremental improvements on work previously published in the journal.    
 
     
 

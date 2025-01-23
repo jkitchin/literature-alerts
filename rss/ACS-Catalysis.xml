@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 22 Jan 2025 01:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 01:19:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Cobalt-Catalyzed Chemoselective &#960;&#8211;&#963;&#8211;&#960;-Type Tandem Reductive Coupling to Access Isoquinolines via Carbocobaltation of Nitriles</title>
-      <link>https://doi.org/10.1021/acscatal.4c07667</link>
-      <description>Ling Tang, Xueyu Liu, Xintong Wang, Xianmao Liu, Xinmiao Huang, Ni Qian, Chen He, Gen Luo, Yuanhong Ma, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406362720
-
-                Transition metal-catalyzed reductive coupling chemistry has been recognized as a powerful tool for the synthesis of diverse organic molecules. However, despite enormous progress in this field, there is no precedent for the tandem reductive coupling of widely accessible nitriles with electrophiles that contain &#963;- and &#960;-type (&#963;/&#960;-type) electrophilic functional groups simultaneously. Herein, we have established a unique cobalt catalysis system, enabling the chemoselective reductive coupling/tandem cyclization reaction of aryl halides (Br, Cl, I) bearing carbonyl moiety with a variety of aryl, alkenyl, and alkyl nitriles via the carbocobaltation of nitriles that is unknown yet. The protocol allows for the modular synthesis of structurally diverse isoquinolines with wide substrate scope (&gt;60 examples), good functionalities tolerance, and good chemoselectivity.</description>
-      <author>Ling Tang, Xueyu Liu, Xintong Wang, Xianmao Liu, Xinmiao Huang, Ni Qian, Chen He, Gen Luo, Yuanhong Ma</author>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07667</guid>
-    </item>
-    <item>
-      <title>Helix Zipper Regulating Formolase Activity</title>
-      <link>https://doi.org/10.1021/acscatal.4c07452</link>
-      <description>Zijian Tan, Zijing Tang, Hongli Wei, R.&#8208;H. Zhang, Ling Sun, Weidong Liu, Haifeng Liu, Leilei Zhu, Yanhe Ma, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406362725
-
-                No abstract</description>
-      <author>Zijian Tan, Zijing Tang, Hongli Wei, R.&#8208;H. Zhang, Ling Sun, Weidong Liu, Haifeng Liu, Leilei Zhu, Yanhe Ma</author>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07452</guid>
-    </item>
-    <item>
-      <title>Optimizing Ethylene Production through Enhanced Monomolecular &#946;-Scission in Confined Catalytic Cracking of Olefin</title>
-      <link>https://doi.org/10.1021/acscatal.4c05323</link>
-      <description>Yanfen Zuo, Lei Ye, Wenjie Yang, Bo Peng, Jing Zhang, Xingtian Shu, Youhao Xu, Jichang Liu, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406369344
-
-                No abstract</description>
-      <author>Yanfen Zuo, Lei Ye, Wenjie Yang, Bo Peng, Jing Zhang, Xingtian Shu, Youhao Xu, Jichang Liu</author>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05323</guid>
-    </item>
-    <item>
-      <title>Machine Learning Potentials for Heterogeneous Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c06717</link>
-      <description>Amir Omranpour, Jan Elsner, K. Nikolas Lausch, J&#246;rg Behler, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406385377
-
-                The production of many bulk chemicals relies on heterogeneous catalysis. The rational design or improvement of the required catalysts critically depends on insights into the underlying mechanisms on the atomic scale. In recent years, substantial progress has been made in applying advanced experimental techniques to complex catalytic reactions in operando, but in order to achieve a comprehensive understanding, additional information from computer simulations is indispensable in many cases. In particular, ab initio molecular dynamics (AIMD) has become an important tool to explicitly address the atomistic level structure, dynamics, and reactivity of interfacial systems, but the high computational costs limit applications to systems consisting of at most a few hundred atoms for simulation times of up to tens of picoseconds. Rapid advances in the development of modern machine learning potentials (MLP) now offer a promising approach to bridge this gap, enabling simulations of complex catalytic reactions with ab initio accuracy at a small fraction of the computational costs. In this Perspective, we provide an overview of the current state of the art of applying MLPs to systems relevant for heterogeneous catalysis along with a discussion of the prospects for the use of MLPs in catalysis science in the years to come.</description>
-      <author>Amir Omranpour, Jan Elsner, K. Nikolas Lausch, J&#246;rg Behler</author>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06717</guid>
-    </item>
     <item>
       <title>Largely Promoted C&#8211;H Activation in Methane with O&lt;sub&gt;2&lt;/sub&gt; via d-Orbital Hybridization Induced by CuO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Supported on ZnO</title>
       <link>https://doi.org/10.1021/acscatal.4c06051</link>
@@ -286,6 +246,36 @@
       <author>Yawen Huang, Jie Zhang, Fuqiang Chen, Yu Fu, Han Liu, Zhiyou Zong, Quanshun Li, Yalan Zhang, Huanhuan Li, Xiang Sheng, Weidong Liu, Wuyuan Zhang</author>
       <pubDate>Sat, 18 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06429</guid>
+    </item>
+    <item>
+      <title>Recent Progress in Chiral Quaternary Ammonium Salt-Promoted Asymmetric Nucleophilic Additions</title>
+      <link>https://doi.org/10.1021/acscatal.4c06497</link>
+      <description>Xiaoqun Yang, Youlin Deng, Dan Ling, Tingting Li, Lingzhu Chen, Zhichao Jin, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406618785
+
+                No abstract</description>
+      <author>Xiaoqun Yang, Youlin Deng, Dan Ling, Tingting Li, Lingzhu Chen, Zhichao Jin</author>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06497</guid>
+    </item>
+    <item>
+      <title>Reshaping the Substrate-Binding Pocket of Ene-Reductase for Enhanced and Inverted Stereoselectivity: A Concise Access to the Stereocomplementary Chiral GABA Derivatives</title>
+      <link>https://doi.org/10.1021/acscatal.4c06784</link>
+      <description>An Huang, Xianheng Song, Linlin Song, Shuang-Shuang Pan, Jiaxin Tian, Pengfei Wang, Shuyun Ju, Yajun Wang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406632949
+
+                Despite the availability of numerous natural and engineered ene-reductases (ERs), enantiocomplementary synthesis of the sterically hindered molecules by ERs is still limited by poor substrate acceptance, particularly due to the insufficient complementary stereoselectivity. Herein, we reshaped the substrate-binding pocket of SeER from Saccharomyces eubayanus through semirational design, enabling ERs capable of stereocomplementary hydrogenating of the challenging substituted &#946;-cyano cinnamic esters. Compared to the wild type, the variants exhibited enhanced activity (up to 161-fold) and catalytic efficiency kcat/KM (up to 358-fold), displaying potential in synthesizing various chiral &#946;-cyano esters with high stereoselectivity (up to 99% ee). Molecular dynamics simulations demonstrated that the key for the superior catalytic performance of variants is the well-tuned substrate-binding pocket, which strengthens and stabilizes substrate recognition. Furthermore, we elucidated the practicality of the SeER variants in asymmetric synthesis of the chiral GABA derivatives (e.g., Phenibut, Baclofen, and Tolibut) via chemo-enzymatic cascade reactions.</description>
+      <author>An Huang, Xianheng Song, Linlin Song, Shuang-Shuang Pan, Jiaxin Tian, Pengfei Wang, Shuyun Ju, Yajun Wang</author>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06784</guid>
+    </item>
+    <item>
+      <title>Time-Domain NMR: Generating Unique Insights into the Characterization of Heterogeneous Catalysis in Liquid Phase</title>
+      <link>https://doi.org/10.1021/acscatal.4c04789</link>
+      <description>Murilo T. Suekuni, Carmine D&#8217;Agostino, Alan M. Allgeier, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406636099
+
+                No abstract</description>
+      <author>Murilo T. Suekuni, Carmine D&#8217;Agostino, Alan M. Allgeier</author>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04789</guid>
     </item>
   </channel>
 </rss>

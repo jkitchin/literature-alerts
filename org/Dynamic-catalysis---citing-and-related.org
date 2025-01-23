@@ -1,32 +1,11 @@
 #+TITLE: Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Wed Jan 22 01:20:31 2025
+Created on Thu Jan 23 01:19:12 2025
 
-Found 2 results from 2025-01-15 to 2025-01-22
+Found 1 results from 2025-01-16 to 2025-01-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
-
-* Applying the Sabatier Principle to Decipher the Surface-Structure-Dependent Catalysis of Different Starch Granules by Pullulanase  :Dynamic_catalysis___citing_and_related:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406361386
-:TOPICS: Enzyme Production and Characterization, Food composition and properties, Microbial Metabolites in Food Biotechnology
-:PUBLICATION_DATE: 2025-01-14
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacsau.4c00932")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406361386"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406361386"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406361386"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406361386 (Open access: True)
-    
-[[https://openalex.org/A5100445137][Yu Wang]], [[https://openalex.org/A5101703693][Yu Tian]], [[https://openalex.org/A5026354805][Andrew Philip Rennison]], [[https://openalex.org/A5055528531][Andreas Blennow]], [[https://openalex.org/A5017699427][Peter Westh]], [[https://openalex.org/A5067440189][Birte Svensson]], [[https://openalex.org/A5075159881][Marie Sofie Møller]], JACS Au. None(None)] 2025. https://doi.org/10.1021/jacsau.4c00932 
-     
-Interfacial enzyme catalysis is widespread in both nature and industry. Granular starch is a sustainable and abundant raw material for which a rigorous correlation of the surface structure with enzymatic degradation is lacking. Here pullulanase-catalyzed debranching of 12 granular starches varying in amylopectin contents and branch chain contents and lengths is shown to present a biphasic relationship characteristic of the Sabatier principle. Introducing normalization of the specific rate (v0/E0) by a substrate-dependent constant C, related to the Arrhenius prefactor of kcat, reveals that optimal activity according to the Sabatier principle occurs at moderate substrate binding strength. The density of pullulanase attack sites (kinΓmax), determined using combined conventional and inverse Michaelis–Menten kinetics, was increased by branching enzyme treatment. Medium kinΓmax and branch chain length conferred the highest activity depending on substrate load. Correlation analysis demonstrated that starch granular crystallinity, surface order, and average branch chain length influence the enzymatic degradation by affecting the C constant. Therefore, C should be considered together with the enzyme binding strength to understand the degradation of starch granules. The Sabatier principle could serve as a diagnostic tool to characterize enzyme performance on substrates having different surface structures and guide rational modification of granular starches for specific purposes.    
-
-    
 
 * Catalysis in Frequency Space: Resolving Hidden Oscillating Minority Phases and Their Catalytic Properties  :Dynamic_catalysis___citing_and_related:
 :PROPERTIES:

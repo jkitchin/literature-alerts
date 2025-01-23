@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 22 Jan 2025 01:20:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 01:19:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -48,14 +48,24 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d5dd90002f</guid>
     </item>
     <item>
-      <title>A multi-robot-multi-task scheduling system for autonomous chemistry laboratories</title>
-      <link>https://doi.org/10.1039/d4dd00313f</link>
-      <description>Junyi Zhou, Man Luo, Linjiang Chen, Qing Zhu, Shan Jiang, Fei Zhang, Weiwei Shang, Jun Jiang, Digital Discovery. None(None)] 2024. https://openalex.org/W4406371854
+      <title>Artificial intelligence-assisted electrochemical sensors for qualitative and semi-quantitative multiplexed analyses</title>
+      <link>https://doi.org/10.1039/d4dd00318g</link>
+      <description>Rocco Cancelliere, Mario Molinara, Antonio Licheri, Antonio Maffucci, Laura Micheli, Digital Discovery. None(None)] 2025. https://openalex.org/W4406624736
 
-                We present a multi-robot-multi-task scheduling system designed for autonomous chemistry laboratories to enhance the efficiency of executing complex chemical experiments. Building on the herein formulated and developed scheduling algorithms and...</description>
-      <author>Junyi Zhou, Man Luo, Linjiang Chen, Qing Zhu, Shan Jiang, Fei Zhang, Weiwei Shang, Jun Jiang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00313f</guid>
+                AI-integrated electrochemical sensors boost peak resolution and sensitivity, enabling precise detection of electroactive species in complex matrices. This method enhances analytical capabilities, providing an analytically robust solution.</description>
+      <author>Rocco Cancelliere, Mario Molinara, Antonio Licheri, Antonio Maffucci, Laura Micheli</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00318g</guid>
+    </item>
+    <item>
+      <title>Commit: Mini article for dynamic reporting of incremental improvements to previous scholarly work</title>
+      <link>https://doi.org/10.1039/d4dd90053g</link>
+      <description>Al&#225;n Aspuru&#8211;Guzik, Jason E. Hein, Joshua Schrier, Digital Discovery. None(None)] 2025. https://openalex.org/W4406633347
+
+                Introducing Commit, a new article type at Digital Discovery intended for reporting incremental improvements on work previously published in the journal.</description>
+      <author>Al&#225;n Aspuru&#8211;Guzik, Jason E. Hein, Joshua Schrier</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd90053g</guid>
     </item>
     <item>
       <title>Balancing Molecular Information and Empirical Data in the Prediction of Physico-Chemical Properties</title>
