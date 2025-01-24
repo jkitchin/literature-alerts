@@ -1,54 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Thu Jan 23 01:19:13 2025
+Created on Fri Jan 24 01:19:19 2025
 
-Found 8 results from 2025-01-16 to 2025-01-23
+Found 3 results from 2025-01-17 to 2025-01-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## Back cover   
-
-OpenAlex: https://openalex.org/W4406390160    
-Open access: True
-    
-, Digital Discovery. 4(1)] 2025.https://doi.org/10.1039/d5dd90004b.
-    
-No abstract    
-
-    
-
-## Front cover   
-
-OpenAlex: https://openalex.org/W4406390630    
-Open access: True
-    
-, Digital Discovery. 4(1)] 2025.https://doi.org/10.1039/d5dd90001h.
-    
-No abstract    
-
-    
-
-## Contents list   
-
-OpenAlex: https://openalex.org/W4406390691    
-Open access: True
-    
-, Digital Discovery. 4(1)] 2025.https://doi.org/10.1039/d5dd90003d.
-    
-No abstract    
-
-    
-
-## Inside front cover   
-
-OpenAlex: https://openalex.org/W4406390724    
-Open access: True
-    
-, Digital Discovery. 4(1)] 2025.https://doi.org/10.1039/d5dd90002f.
-    
-No abstract    
-
-    
 
 ## Artificial intelligence-assisted electrochemical sensors for qualitative and semi-quantitative multiplexed analyses   
 
@@ -69,17 +25,6 @@ Open access: True
 [Alán Aspuru–Guzik](https://openalex.org/A5071495561), [Jason E. Hein](https://openalex.org/A5003345103), [Joshua Schrier](https://openalex.org/A5073376584), Digital Discovery. None(None)] 2025.https://doi.org/10.1039/d4dd90053g.
     
 Introducing Commit, a new article type at Digital Discovery intended for reporting incremental improvements on work previously published in the journal.    
-
-    
-
-## Balancing Molecular Information and Empirical Data in the Prediction of Physico-Chemical Properties   
-
-OpenAlex: https://openalex.org/W4406396123    
-Open access: True
-    
-[Johannes Zenn](https://openalex.org/A5010702746), [Dominik Gond](https://openalex.org/A5002792104), [Fabian Jirasek](https://openalex.org/A5081019709), [Robert Bamler](https://openalex.org/A5045460222), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00154k.
-    
-Predicting the physico-chemical properties of pure substances and mixtures is a central task in thermodynamics. Established prediction methods range from fully physics-based ab-initio calculations, which are only feasible for very...    
 
     
 

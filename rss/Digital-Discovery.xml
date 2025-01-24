@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Jan 2025 01:19:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 01:19:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Back cover</title>
-      <link>https://doi.org/10.1039/d5dd90004b</link>
-      <description>, Digital Discovery. 4(1)] 2025. https://openalex.org/W4406390160
-
-                No abstract</description>
-      <author/>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5dd90004b</guid>
-    </item>
-    <item>
-      <title>Front cover</title>
-      <link>https://doi.org/10.1039/d5dd90001h</link>
-      <description>, Digital Discovery. 4(1)] 2025. https://openalex.org/W4406390630
-
-                No abstract</description>
-      <author/>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5dd90001h</guid>
-    </item>
-    <item>
-      <title>Contents list</title>
-      <link>https://doi.org/10.1039/d5dd90003d</link>
-      <description>, Digital Discovery. 4(1)] 2025. https://openalex.org/W4406390691
-
-                No abstract</description>
-      <author/>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5dd90003d</guid>
-    </item>
-    <item>
-      <title>Inside front cover</title>
-      <link>https://doi.org/10.1039/d5dd90002f</link>
-      <description>, Digital Discovery. 4(1)] 2025. https://openalex.org/W4406390724
-
-                No abstract</description>
-      <author/>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5dd90002f</guid>
-    </item>
     <item>
       <title>Artificial intelligence-assisted electrochemical sensors for qualitative and semi-quantitative multiplexed analyses</title>
       <link>https://doi.org/10.1039/d4dd00318g</link>
@@ -66,16 +26,6 @@
       <author>Al&#225;n Aspuru&#8211;Guzik, Jason E. Hein, Joshua Schrier</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd90053g</guid>
-    </item>
-    <item>
-      <title>Balancing Molecular Information and Empirical Data in the Prediction of Physico-Chemical Properties</title>
-      <link>https://doi.org/10.1039/d4dd00154k</link>
-      <description>Johannes Zenn, Dominik Gond, Fabian Jirasek, Robert Bamler, Digital Discovery. None(None)] 2024. https://openalex.org/W4406396123
-
-                Predicting the physico-chemical properties of pure substances and mixtures is a central task in thermodynamics. Established prediction methods range from fully physics-based ab-initio calculations, which are only feasible for very...</description>
-      <author>Johannes Zenn, Dominik Gond, Fabian Jirasek, Robert Bamler</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00154k</guid>
     </item>
     <item>
       <title>Composition and structure analyzer/featurizer for explainable machine-learning models to predict solid state structures</title>

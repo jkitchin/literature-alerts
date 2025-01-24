@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Jan 2025 01:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 01:19:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ab Initio Study of a Tandem PdCu Catalyst Supported on Carbon Nitride Nanosheets for Nitrate-to-Ammonia Electrochemical Reduction</title>
-      <link>https://doi.org/10.1021/acsanm.4c05751</link>
-      <description>Zhe Xue, Rui Tan, Jinzhong Tian, Hua Hou, Xinyu Zhang, Yuhong Zhao, ACS Applied Nano Materials. None(None)] 2025. https://openalex.org/W4406388934
-
-                Electrochemical conversion of nitrate offers an efficient approach to mitigate nitrate pollution and ammonia synthesis but is still challenged by the slow kinetics and selectivity issues of active sites. Herein, by performing density functional theory (DFT) calculations, we report a double-atom catalyst of PdCu&#8211;C7N6 by incorporating Pd and Cu together embedded in C7N6 frameworks, which not only shows outstanding catalytic performance with a low limiting potential of 0.36 V, but also can effectively inhibit the competing hydrogen evolution reactions. The high NO3RR activity on PdCu&#8211;C7N6 is well explained by the polarizable bond length as well as the asymmetric charge distribution of Pd&#8211;Cu dual active sites. This DFT work opens an avenue for developing highly efficient multicomponent NO3RR electrocatalysts.</description>
-      <author>Zhe Xue, Rui Tan, Jinzhong Tian, Hua Hou, Xinyu Zhang, Yuhong Zhao</author>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c05751</guid>
-    </item>
-    <item>
-      <title>Conventional versus Unconventional Oxygen Reduction Reaction Intermediates on Single Atom Catalysts</title>
-      <link>https://doi.org/10.1021/acsami.4c23082</link>
-      <description>Tahereh Jangjooye Shaldehi, Soosan Rowshanzamir, Kai S. Exner, Francesc Vi&#241;es, Francesc Illas, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4406392891
-
-                The oxygen reduction reaction (ORR) stands as a pivotal process in electrochemistry, finding applications in various energy conversion technologies such as fuel cells, metal-air batteries, and chlor-alkali electrolyzers. Hereby, a comprehensive density functional theory (DFT) investigation is presented into the proposed conventional and unconventional ORR mechanisms using single-atom catalysts (SACs) supported on nitrogen-doped graphene (NG) as model systems. Several reaction intermediates have been identified that appear to be more stable than the ones postulated in the conventional mechanism, which follows the *OOH, *O, and *OH intermediates. This finding particularly holds for adsorbed *O2, which can have different adsorption geometries, ranging from &#951;1&#927;2 or &#951;2&#927;2 superoxo complexes as well as sin and anti complexes, with the two O-related ligands binding on the same or opposite sides, respectively. In the case of M@NG (M = Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, and Pt), the ORR follows these unconventional *O2 intermediates, whereas for Cr@NG and Cu@NG classical and unconventional *O2 intermediates compete. We approximate the electrocatalytic activity using the concept of the thermodynamic overpotential and demonstrate that the conventional mechanism gives rise to a smaller overpotential compared to mechanisms following unconventional intermediates during the four proton-coupled electron transfer steps. Our trend study indicates that transition metals with fewer d electrons reveal smaller electrocatalytic activity due to a larger thermodynamic overpotential. Among the investigated SAC systems, Co emerges as a promising candidate, with thermodynamic overpotential and limiting potential values of 0.38 and 0.85 V vs the standard hydrogen electrode, respectively, with the conventional mechanism being favored, and with Cu appearing as the second-best candidate.</description>
-      <author>Tahereh Jangjooye Shaldehi, Soosan Rowshanzamir, Kai S. Exner, Francesc Vi&#241;es, Francesc Illas</author>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c23082</guid>
-    </item>
-    <item>
-      <title>Computationally efficient machine-learned model for GST phase change materials via direct and indirect learning</title>
-      <link>https://doi.org/10.1063/5.0246999</link>
-      <description>Owen R. Dunton, Tom Arbaugh, Francis W. Starr, The Journal of Chemical Physics. 162(3)] 2025. https://openalex.org/W4406399926
-
-                Phase change materials such as Ge2Sb2Te5 (GST) are ideal candidates for next-generation, non-volatile, solid-state memory due to the ability to retain binary data in the amorphous and crystal phases and rapidly transition between these phases to write/erase information. Thus, there is wide interest in using molecular modeling to study GST. Recently, a Gaussian Approximation Potential (GAP) was trained for GST to reproduce Density Functional Theory (DFT) energies and forces at a fraction of the computational cost [Zhou et al., Nat. Electron. 6, 746 (2023)]; however, simulations of large length and time scales are still challenging using this GAP model. Here, we present a machine-learned (ML) potential for GST implemented using the Atomic Cluster Expansion (ACE) framework. This ACE potential shows comparable accuracy to the GAP potential but performs orders of magnitude faster. We train the ACE potentials both directly from DFT and also using a recently introduced indirect learning approach where the potential is trained instead from an intermediate ML potential, in this case, GAP. Indirect learning allows us to consider a significantly larger training set than could be generated using DFT alone. We compare the directly and indirectly learned potentials and find that both reproduce the structure and thermodynamics predicted by the GAP and also match experimental measures of GST structure. The speed of the ACE model, particularly when using graphics processing unit acceleration, allows us to examine repeated transitions between crystal and amorphous phases in device-scale systems with only modest computational resources.</description>
-      <author>Owen R. Dunton, Tom Arbaugh, Francis W. Starr</author>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0246999</guid>
-    </item>
-    <item>
-      <title>Unveiling the potential of metal-free g-C3N5 modified-highly reduced graphene catalysts for hydrogen evolution: A DFT study</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.01.151</link>
-      <description>Abdulraheem K. Bello, Abdulaziz A. Al&#8208;Saadi, International Journal of Hydrogen Energy. 102(None)] 2025. https://openalex.org/W4406407856
-
-                No abstract</description>
-      <author>Abdulraheem K. Bello, Abdulaziz A. Al&#8208;Saadi</author>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.01.151</guid>
-    </item>
-    <item>
-      <title>Tunable electronic structures and oxygen electrocatalytic mechanisms in Fe-N-C catalysts doped with B, P, S, and O heteroatoms</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.162439</link>
-      <description>Yue Zhang, Jianguang Feng, Chenchen Ma, Xiaoyun Gu, Liyan Yu, Lifeng Dong, Applied Surface Science. None(None)] 2025. https://openalex.org/W4406410873
-
-                No abstract</description>
-      <author>Yue Zhang, Jianguang Feng, Chenchen Ma, Xiaoyun Gu, Liyan Yu, Lifeng Dong</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162439</guid>
-    </item>
-    <item>
-      <title>Loading silver nanoclusters onto g-C3N4 by formamide-assisted in-situ strategy to achieve efficient photocatalytic water splitting for hydrogen production</title>
-      <link>https://doi.org/10.1016/j.jphotochem.2025.116275</link>
-      <description>Zhenbang Xie, Chao Wang, Fuqi Wu, Ruiyuan Hu, Jie Zhang, Hongfei Du, Shouchao Zhang, Yongzhu Zhou, Journal of Photochemistry and Photobiology A Chemistry. 462(None)] 2025. https://openalex.org/W4406414496
-
-                No abstract</description>
-      <author>Zhenbang Xie, Chao Wang, Fuqi Wu, Ruiyuan Hu, Jie Zhang, Hongfei Du, Shouchao Zhang, Yongzhu Zhou</author>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jphotochem.2025.116275</guid>
-    </item>
-    <item>
-      <title>Accurate QM/MM Molecular Dynamics for Periodic Systems in GPU4P&lt;scp&gt;y&lt;/scp&gt;SCF with Applications to Enzyme Catalysis</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c01698</link>
-      <description>Chenghan Li, Garnet Kin&#8208;Lic Chan, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4406419501
-
-                We present an implementation of the quantum mechanics/molecular mechanics (QM/MM) method for periodic systems using GPU accelerated QM methods, a distributed multipole formulation of the electrostatics, and a pseudobond treatment of the QM/MM boundary. We demonstrate that our method has well-controlled errors, stable self-consistent QM convergence, and energy-conserving dynamics. We further describe an application to the catalytic kinetics of chorismate mutase. Using an accurate hybrid functional reparametrized to coupled cluster energetics, our QM/MM simulations highlight the sensitivity in the calculated rate to the choice of quantum method, quantum region selection, and local protein conformation. Our work is provided through the open-source PySCF package using acceleration from the GPU4PySCF module.</description>
-      <author>Chenghan Li, Garnet Kin&#8208;Lic Chan</author>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c01698</guid>
-    </item>
-    <item>
-      <title>Recent Advances in Microalgae Process for Post-combustion CO2 Capture</title>
-      <link>https://doi.org/10.1007/978-3-031-62660-9_24</link>
-      <description>Ashish Gautam, Monoj Kumar Mondal, Environmental science and engineering. None(None)] 2025. https://openalex.org/W4406421211
-
-                No abstract</description>
-      <author>Ashish Gautam, Monoj Kumar Mondal</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-62660-9_24</guid>
-    </item>
-    <item>
-      <title>Recent advances on support materials for enhanced Pt-based catalysts: applications in oxygen reduction reactions for electrochemical energy storage</title>
-      <link>https://doi.org/10.1007/s10853-025-10606-1</link>
-      <description>Feng Zhan, Lingyun Huang, Yue Luo, Muyang Chen, Rui Tan, Xinhua Liu, Gang Liu, Zhiming Feng, Journal of Materials Science. None(None)] 2025. https://openalex.org/W4406424581
-
-                Abstract As the demand for sustainable energy solutions grows, developing efficient energy conversion and storage technologies, such as fuel cells and metal-air batteries, is vital. Oxygen Reduction Reaction (ORR) is a significant limitation in electrochemical systems due to its slower kinetics. Although Pt-based catalysts are commonly used to address this challenge, their high cost and suboptimal performance remain significant obstacles to further development. This review offers a comprehensive overview of advanced support materials aimed at improving the efficiency, durability, and cost-effectiveness of Pt-based catalysts. By examining a range of materials, including mesoporous carbon, graphene, carbon nanotubes, and metal oxides, the review clarifies the relationship between the structural properties of these supports and their influence on ORR performance. Additionally, it discusses the fundamental characteristics of these materials, their practical applications in fuel cells, and explores potential solutions and future directions for optimizing Pt-based catalysts to advance sustainable energy conversion technologies. Future research could focus on nano-engineering and composite material development to unlock the full potential of Pt-based catalysts, significantly enhancing their economic viability and performance in energy applications.</description>
-      <author>Feng Zhan, Lingyun Huang, Yue Luo, Muyang Chen, Rui Tan, Xinhua Liu, Gang Liu, Zhiming Feng</author>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10853-025-10606-1</guid>
-    </item>
-    <item>
-      <title>Exploring the Active Site and Catalytic Activity of N-Coordinated Ni&lt;sub&gt;2&lt;/sub&gt; Dual-Atom Catalysts for Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acsaem.4c02649</link>
-      <description>Ashok Singh, Srimanta Pakhira, ACS Applied Energy Materials. None(None)] 2025. https://openalex.org/W4406437057
-
-                Oxygen reduction reaction (ORR) is an indispensable electrochemical reaction in fuel cells. However, the performance of fuel cells has been affected by the slack kinetics of the ORR. Hence, the development of efficient and affordable electrocatalysts for the reduction of O2 is necessary for the large-scale commercialization of fuel cells. Here, we present a Ni2 dual-atom anchored on a N-doped carbon nanotube (Ni2_N3_CNT and Ni2_N4_CNT) and a Ni single-atom anchored on N-doped carbon nanotube (Ni1_N3_CNT and Ni1_N4_CNT) catalysts with two possible active sites, namely, Ni-site and N-site, as efficient catalysts toward the ORR. We have analyzed the energetically favorable active site for O2 reduction on the surface of the Ni1_N3_CNT, Ni1_N4_CNT, Ni2_N3_CNT, and Ni2_N4_CNT catalysts by employing the density functional theory method with van der Waals (vdW) dispersion corrections (in short the DFT-D3) method. Among all possible configurations, Ni2_N3_CNT is a more favorable configuration with the Ni catalytic active site toward the ORR. Then, we have studied the structural, electronic, and catalytic activity of Ni2_N3_CNT by using the same DFT-D3 method. The analysis of the ORR intermediate species reveals that the associative reaction pathway is a more favorable path for reducing the O2 into H2O at the Ni catalytic site of Ni2_N3_CNT than the dissociative reaction pathway. In the free energy profile, all of the ORR reaction intermediate steps are downhill, indicating the good catalytic activity of Ni2_N3_CNT toward the ORR. Moreover, we have also studied the structural and electronic properties of all of the reaction intermediate steps by employing the same DFT-D3 method. These findings point out that the Ni2 dual-atom catalysts provide an efficient electrocatalytic activity toward the ORR, and it holds great promise as a replacement for Pt-based catalysts in future proton-exchange membrane fuel cells. This work highlights the potential and importance of the subject material as a durable electrocatalyst for the ORR, offering insights into Ni2 dual-atom electrochemistry and the design of advanced catalysts, which may be a promising candidate to substitute for Pt electrodes, and it is an excellent material for fuel-cell components.</description>
-      <author>Ashok Singh, Srimanta Pakhira</author>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c02649</guid>
-    </item>
-    <item>
-      <title>Exploring the Structure&#8211;Function Relationship in Iridium&#8211;Cobalt Oxide Catalyst for Oxygen Evolution Reaction across Different Electrolyte Media</title>
-      <link>https://doi.org/10.1021/acscatal.4c06814</link>
-      <description>Marc Francis Labata, Nitul Kakati, Guangfu Li, M. Virginia P. Alto&#233;, Po&#8208;Ya Abel Chuang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406439237
-
-                Renewable hydrogen generation from water electrolysis offers a viable path to decarbonization if the costs can be reduced. The iridium-based anode catalyst is one of the most expensive components in electrolyzers. We propose reducing iridium usage by substituting Ir with Co, a more affordable metal, in the mixed oxide phase to enhance the catalytic activity while minimizing Ir consumption. A modified surfactant-assisted Adams fusion synthesis technique was developed as a scalable method for producing IrCo oxide nanoparticles. The synthesized material outperforms the commercial baseline, iridium oxide with carbon (IrOx_C), in both acidic and alkaline media. Acid etching (IrCo_ae) further enhances activity by selectively removing Co to expose more active sites. IrCo_ae achieved a significantly lower overpotential at 10 mA/cm2 compared to IrOx_C, with reductions of approximately 18% under acidic conditions and 14% under alkaline conditions. This work demonstrates that the proposed synthesis method enables efficient Ir utilization and can be adapted to enhance catalyst stability for renewable hydrogen production.</description>
-      <author>Marc Francis Labata, Nitul Kakati, Guangfu Li, M. Virginia P. Alto&#233;, Po&#8208;Ya Abel Chuang</author>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06814</guid>
-    </item>
     <item>
       <title>Microhabitat mechanisms induced by cationic amino-functionalized ionic liquid electrolytes on CO2 electroreduction</title>
       <link>https://doi.org/10.1016/j.seppur.2025.131672</link>
@@ -466,16 +356,6 @@
       <author>W. Wilson McNeary, Nathan C. Ellebracht, Melinda L. Jue, Mathew J. Rasmussen, James M. Crawford, Matthew M. Yung, Anh T. To, Simon H. Pang</author>
       <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c10049</guid>
-    </item>
-    <item>
-      <title>Data Checking of Asymmetric Catalysis Literature Using a Graph Neural Network Approach</title>
-      <link>https://doi.org/10.3390/molecules30020355</link>
-      <description>Eduardo Alberto Aguilar Bejarano, Viraj Deorukhkar, Simon Woodward, Molecules. 30(2)] 2025. https://openalex.org/W4406439159
-
-                The range of chemical databases available has dramatically increased in recent years, but the reliability and quality of their data are often negatively affected by human-error fidelity. The size of chemical databases can make manual data curation/checking of such sets time consuming; thus, automated tools to help this process are highly desirable. Herein, we propose the use of Graph Neural Networks (GNNs) to identifying potential stereochemical misassignments in the primary asymmetric catalysis literature. Our method relies on the use of an ensemble of GNN models to predict the expected stereoselectivity of exemplars for a particular asymmetric reaction. When the majority of these models do not correlate to the reported outcome, the point is labeled as a possible stereochemical misassignment. Such identified cases are few in number and more easily investigated for their cause. We demonstrate the use of this approach to spot potential literature stereochemical misassignments in the ketone products resulting from catalytic asymmetric 1,4-addition of organoboron nucleophiles to Michael acceptors in two different databases, each one using a different family of chiral ligands (bisphosphine and diene ligands). Our results demonstrate that this methodology is useful for curation of medium-sized databases, speeding this process significantly compared to complete manual curation/checking. In the datasets investigated, human expert checking was reduced to 2.2% and 3.5% of the total data exemplars.</description>
-      <author>Eduardo Alberto Aguilar Bejarano, Viraj Deorukhkar, Simon Woodward</author>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/molecules30020355</guid>
     </item>
     <item>
       <title>Efficacy of biochar as a catalyst for a Fenton-like reaction: Experimental, statistical and mathematical modeling analysis</title>

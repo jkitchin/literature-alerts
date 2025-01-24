@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Jan 23 01:19:25 2025
+Created on Fri Jan 24 01:19:27 2025
 
-Found 50 results from 2025-01-16 to 2025-01-23
+Found 38 results from 2025-01-17 to 2025-01-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967)
@@ -16,127 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176)
-
-## Ab Initio Study of a Tandem PdCu Catalyst Supported on Carbon Nitride Nanosheets for Nitrate-to-Ammonia Electrochemical Reduction   
-
-OpenAlex: https://openalex.org/W4406388934    
-Open access: False
-    
-[Zhe Xue](https://openalex.org/A5107925971), [Rui Tan](https://openalex.org/A5023811488), [Jinzhong Tian](https://openalex.org/A5111298486), [Hua Hou](https://openalex.org/A5015549095), [Xinyu Zhang](https://openalex.org/A5100390720), [Yuhong Zhao](https://openalex.org/A5054295426), ACS Applied Nano Materials. None(None)] 2025.https://doi.org/10.1021/acsanm.4c05751.
-    
-Electrochemical conversion of nitrate offers an efficient approach to mitigate nitrate pollution and ammonia synthesis but is still challenged by the slow kinetics and selectivity issues of active sites. Herein, by performing density functional theory (DFT) calculations, we report a double-atom catalyst of PdCu–C7N6 by incorporating Pd and Cu together embedded in C7N6 frameworks, which not only shows outstanding catalytic performance with a low limiting potential of 0.36 V, but also can effectively inhibit the competing hydrogen evolution reactions. The high NO3RR activity on PdCu–C7N6 is well explained by the polarizable bond length as well as the asymmetric charge distribution of Pd–Cu dual active sites. This DFT work opens an avenue for developing highly efficient multicomponent NO3RR electrocatalysts.    
-
-    
-
-## Conventional versus Unconventional Oxygen Reduction Reaction Intermediates on Single Atom Catalysts   
-
-OpenAlex: https://openalex.org/W4406392891    
-Open access: False
-    
-[Tahereh Jangjooye Shaldehi](https://openalex.org/A5045546851), [Soosan Rowshanzamir](https://openalex.org/A5081292717), [Kai S. Exner](https://openalex.org/A5004991965), [Francesc Viñes](https://openalex.org/A5102782406), [Francesc Illas](https://openalex.org/A5012273051), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.4c23082.
-    
-The oxygen reduction reaction (ORR) stands as a pivotal process in electrochemistry, finding applications in various energy conversion technologies such as fuel cells, metal-air batteries, and chlor-alkali electrolyzers. Hereby, a comprehensive density functional theory (DFT) investigation is presented into the proposed conventional and unconventional ORR mechanisms using single-atom catalysts (SACs) supported on nitrogen-doped graphene (NG) as model systems. Several reaction intermediates have been identified that appear to be more stable than the ones postulated in the conventional mechanism, which follows the *OOH, *O, and *OH intermediates. This finding particularly holds for adsorbed *O2, which can have different adsorption geometries, ranging from η1Ο2 or η2Ο2 superoxo complexes as well as sin and anti complexes, with the two O-related ligands binding on the same or opposite sides, respectively. In the case of M@NG (M = Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, and Pt), the ORR follows these unconventional *O2 intermediates, whereas for Cr@NG and Cu@NG classical and unconventional *O2 intermediates compete. We approximate the electrocatalytic activity using the concept of the thermodynamic overpotential and demonstrate that the conventional mechanism gives rise to a smaller overpotential compared to mechanisms following unconventional intermediates during the four proton-coupled electron transfer steps. Our trend study indicates that transition metals with fewer d electrons reveal smaller electrocatalytic activity due to a larger thermodynamic overpotential. Among the investigated SAC systems, Co emerges as a promising candidate, with thermodynamic overpotential and limiting potential values of 0.38 and 0.85 V vs the standard hydrogen electrode, respectively, with the conventional mechanism being favored, and with Cu appearing as the second-best candidate.    
-
-    
-
-## Computationally efficient machine-learned model for GST phase change materials via direct and indirect learning   
-
-OpenAlex: https://openalex.org/W4406399926    
-Open access: False
-    
-[Owen R. Dunton](https://openalex.org/A5114658500), [Tom Arbaugh](https://openalex.org/A5033154554), [Francis W. Starr](https://openalex.org/A5001298955), The Journal of Chemical Physics. 162(3)] 2025.https://doi.org/10.1063/5.0246999.
-    
-Phase change materials such as Ge2Sb2Te5 (GST) are ideal candidates for next-generation, non-volatile, solid-state memory due to the ability to retain binary data in the amorphous and crystal phases and rapidly transition between these phases to write/erase information. Thus, there is wide interest in using molecular modeling to study GST. Recently, a Gaussian Approximation Potential (GAP) was trained for GST to reproduce Density Functional Theory (DFT) energies and forces at a fraction of the computational cost [Zhou et al., Nat. Electron. 6, 746 (2023)]; however, simulations of large length and time scales are still challenging using this GAP model. Here, we present a machine-learned (ML) potential for GST implemented using the Atomic Cluster Expansion (ACE) framework. This ACE potential shows comparable accuracy to the GAP potential but performs orders of magnitude faster. We train the ACE potentials both directly from DFT and also using a recently introduced indirect learning approach where the potential is trained instead from an intermediate ML potential, in this case, GAP. Indirect learning allows us to consider a significantly larger training set than could be generated using DFT alone. We compare the directly and indirectly learned potentials and find that both reproduce the structure and thermodynamics predicted by the GAP and also match experimental measures of GST structure. The speed of the ACE model, particularly when using graphics processing unit acceleration, allows us to examine repeated transitions between crystal and amorphous phases in device-scale systems with only modest computational resources.    
-
-    
-
-## Unveiling the potential of metal-free g-C3N5 modified-highly reduced graphene catalysts for hydrogen evolution: A DFT study   
-
-OpenAlex: https://openalex.org/W4406407856    
-Open access: False
-    
-[Abdulraheem K. Bello](https://openalex.org/A5006772328), [Abdulaziz A. Al‐Saadi](https://openalex.org/A5056218052), International Journal of Hydrogen Energy. 102(None)] 2025.https://doi.org/10.1016/j.ijhydene.2025.01.151.
-    
-No abstract    
-
-    
-
-## Tunable electronic structures and oxygen electrocatalytic mechanisms in Fe-N-C catalysts doped with B, P, S, and O heteroatoms   
-
-OpenAlex: https://openalex.org/W4406410873    
-Open access: False
-    
-[Yue Zhang](https://openalex.org/A5100333758), [Jianguang Feng](https://openalex.org/A5054391204), [Chenchen Ma](https://openalex.org/A5051999802), [Xiaoyun Gu](https://openalex.org/A5072848131), [Liyan Yu](https://openalex.org/A5040601742), [Lifeng Dong](https://openalex.org/A5066507565), Applied Surface Science. None(None)] 2025.https://doi.org/10.1016/j.apsusc.2025.162439.
-    
-No abstract    
-
-    
-
-## Loading silver nanoclusters onto g-C3N4 by formamide-assisted in-situ strategy to achieve efficient photocatalytic water splitting for hydrogen production   
-
-OpenAlex: https://openalex.org/W4406414496    
-Open access: False
-    
-[Zhenbang Xie](https://openalex.org/A5074486144), [Chao Wang](https://openalex.org/A5100406861), [Fuqi Wu](https://openalex.org/A5009590155), [Ruiyuan Hu](https://openalex.org/A5046205515), [Jie Zhang](https://openalex.org/A5100436798), [Hongfei Du](https://openalex.org/A5015611509), [Shouchao Zhang](https://openalex.org/A5027810450), [Yongzhu Zhou](https://openalex.org/A5048024210), Journal of Photochemistry and Photobiology A Chemistry. 462(None)] 2025.https://doi.org/10.1016/j.jphotochem.2025.116275.
-    
-No abstract    
-
-    
-
-## Accurate QM/MM Molecular Dynamics for Periodic Systems in GPU4PySCF with Applications to Enzyme Catalysis   
-
-OpenAlex: https://openalex.org/W4406419501    
-Open access: False
-    
-[Chenghan Li](https://openalex.org/A5083415091), [Garnet Kin‐Lic Chan](https://openalex.org/A5082397890), Journal of Chemical Theory and Computation. None(None)] 2025.https://doi.org/10.1021/acs.jctc.4c01698.
-    
-We present an implementation of the quantum mechanics/molecular mechanics (QM/MM) method for periodic systems using GPU accelerated QM methods, a distributed multipole formulation of the electrostatics, and a pseudobond treatment of the QM/MM boundary. We demonstrate that our method has well-controlled errors, stable self-consistent QM convergence, and energy-conserving dynamics. We further describe an application to the catalytic kinetics of chorismate mutase. Using an accurate hybrid functional reparametrized to coupled cluster energetics, our QM/MM simulations highlight the sensitivity in the calculated rate to the choice of quantum method, quantum region selection, and local protein conformation. Our work is provided through the open-source PySCF package using acceleration from the GPU4PySCF module.    
-
-    
-
-## Recent Advances in Microalgae Process for Post-combustion CO2 Capture   
-
-OpenAlex: https://openalex.org/W4406421211    
-Open access: False
-    
-[Ashish Gautam](https://openalex.org/A5084522050), [Monoj Kumar Mondal](https://openalex.org/A5074997083), Environmental science and engineering. None(None)] 2025.https://doi.org/10.1007/978-3-031-62660-9_24.
-    
-No abstract    
-
-    
-
-## Recent advances on support materials for enhanced Pt-based catalysts: applications in oxygen reduction reactions for electrochemical energy storage   
-
-OpenAlex: https://openalex.org/W4406424581    
-Open access: True
-    
-[Feng Zhan](https://openalex.org/A5100706942), [Lingyun Huang](https://openalex.org/A5055453388), [Yue Luo](https://openalex.org/A5040611163), [Muyang Chen](https://openalex.org/A5000319531), [Rui Tan](https://openalex.org/A5004753547), [Xinhua Liu](https://openalex.org/A5071054959), [Gang Liu](https://openalex.org/A5100412464), [Zhiming Feng](https://openalex.org/A5041069643), Journal of Materials Science. None(None)] 2025.https://doi.org/10.1007/s10853-025-10606-1.
-    
-Abstract As the demand for sustainable energy solutions grows, developing efficient energy conversion and storage technologies, such as fuel cells and metal-air batteries, is vital. Oxygen Reduction Reaction (ORR) is a significant limitation in electrochemical systems due to its slower kinetics. Although Pt-based catalysts are commonly used to address this challenge, their high cost and suboptimal performance remain significant obstacles to further development. This review offers a comprehensive overview of advanced support materials aimed at improving the efficiency, durability, and cost-effectiveness of Pt-based catalysts. By examining a range of materials, including mesoporous carbon, graphene, carbon nanotubes, and metal oxides, the review clarifies the relationship between the structural properties of these supports and their influence on ORR performance. Additionally, it discusses the fundamental characteristics of these materials, their practical applications in fuel cells, and explores potential solutions and future directions for optimizing Pt-based catalysts to advance sustainable energy conversion technologies. Future research could focus on nano-engineering and composite material development to unlock the full potential of Pt-based catalysts, significantly enhancing their economic viability and performance in energy applications.    
-
-    
-
-## Exploring the Active Site and Catalytic Activity of N-Coordinated Ni2 Dual-Atom Catalysts for Oxygen Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4406437057    
-Open access: False
-    
-[Ashok Singh](https://openalex.org/A5064177444), [Srimanta Pakhira](https://openalex.org/A5062176232), ACS Applied Energy Materials. None(None)] 2025.https://doi.org/10.1021/acsaem.4c02649.
-    
-Oxygen reduction reaction (ORR) is an indispensable electrochemical reaction in fuel cells. However, the performance of fuel cells has been affected by the slack kinetics of the ORR. Hence, the development of efficient and affordable electrocatalysts for the reduction of O2 is necessary for the large-scale commercialization of fuel cells. Here, we present a Ni2 dual-atom anchored on a N-doped carbon nanotube (Ni2_N3_CNT and Ni2_N4_CNT) and a Ni single-atom anchored on N-doped carbon nanotube (Ni1_N3_CNT and Ni1_N4_CNT) catalysts with two possible active sites, namely, Ni-site and N-site, as efficient catalysts toward the ORR. We have analyzed the energetically favorable active site for O2 reduction on the surface of the Ni1_N3_CNT, Ni1_N4_CNT, Ni2_N3_CNT, and Ni2_N4_CNT catalysts by employing the density functional theory method with van der Waals (vdW) dispersion corrections (in short the DFT-D3) method. Among all possible configurations, Ni2_N3_CNT is a more favorable configuration with the Ni catalytic active site toward the ORR. Then, we have studied the structural, electronic, and catalytic activity of Ni2_N3_CNT by using the same DFT-D3 method. The analysis of the ORR intermediate species reveals that the associative reaction pathway is a more favorable path for reducing the O2 into H2O at the Ni catalytic site of Ni2_N3_CNT than the dissociative reaction pathway. In the free energy profile, all of the ORR reaction intermediate steps are downhill, indicating the good catalytic activity of Ni2_N3_CNT toward the ORR. Moreover, we have also studied the structural and electronic properties of all of the reaction intermediate steps by employing the same DFT-D3 method. These findings point out that the Ni2 dual-atom catalysts provide an efficient electrocatalytic activity toward the ORR, and it holds great promise as a replacement for Pt-based catalysts in future proton-exchange membrane fuel cells. This work highlights the potential and importance of the subject material as a durable electrocatalyst for the ORR, offering insights into Ni2 dual-atom electrochemistry and the design of advanced catalysts, which may be a promising candidate to substitute for Pt electrodes, and it is an excellent material for fuel-cell components.    
-
-    
-
-## Exploring the Structure–Function Relationship in Iridium–Cobalt Oxide Catalyst for Oxygen Evolution Reaction across Different Electrolyte Media   
-
-OpenAlex: https://openalex.org/W4406439237    
-Open access: True
-    
-[Marc Francis Labata](https://openalex.org/A5077661393), [Nitul Kakati](https://openalex.org/A5025551064), [Guangfu Li](https://openalex.org/A5103254485), [M. Virginia P. Altoé](https://openalex.org/A5060559201), [Po‐Ya Abel Chuang](https://openalex.org/A5048183453), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06814.
-    
-Renewable hydrogen generation from water electrolysis offers a viable path to decarbonization if the costs can be reduced. The iridium-based anode catalyst is one of the most expensive components in electrolyzers. We propose reducing iridium usage by substituting Ir with Co, a more affordable metal, in the mixed oxide phase to enhance the catalytic activity while minimizing Ir consumption. A modified surfactant-assisted Adams fusion synthesis technique was developed as a scalable method for producing IrCo oxide nanoparticles. The synthesized material outperforms the commercial baseline, iridium oxide with carbon (IrOx_C), in both acidic and alkaline media. Acid etching (IrCo_ae) further enhances activity by selectively removing Co to expose more active sites. IrCo_ae achieved a significantly lower overpotential at 10 mA/cm2 compared to IrOx_C, with reductions of approximately 18% under acidic conditions and 14% under alkaline conditions. This work demonstrates that the proposed synthesis method enables efficient Ir utilization and can be adapted to enhance catalyst stability for renewable hydrogen production.    
-
-    
 
 ## Microhabitat mechanisms induced by cationic amino-functionalized ionic liquid electrolytes on CO2 electroreduction   
 
@@ -520,17 +399,6 @@ Open access: True
 [W. Wilson McNeary](https://openalex.org/A5064741675), [Nathan C. Ellebracht](https://openalex.org/A5026561059), [Melinda L. Jue](https://openalex.org/A5024234024), [Mathew J. Rasmussen](https://openalex.org/A5021879653), [James M. Crawford](https://openalex.org/A5082248197), [Matthew M. Yung](https://openalex.org/A5009505579), [Anh T. To](https://openalex.org/A5055224824), [Simon H. Pang](https://openalex.org/A5037709742), ACS Omega. None(None)] 2025.https://doi.org/10.1021/acsomega.4c10049.
     
 Reactive CO2 capture (RCC) is a promising strategy for process intensification of carbon capture and conversion for production of low-carbon fuels and chemicals. As state-of-the-art sorbent materials in point source and direct air capture systems, solid-supported amines are a natural choice to pair with supported CO2 hydrogenation catalysts (e.g., metallic nanoparticles) for developing high-capacity sorbent-catalyst materials for use in RCC. In this Perspective, we summarize the relevant literature combining solid-supported amines with metallic nanoparticles for thermocatalytic RCC and detail two of our own case studies using RCC to synthesize methane and methanol. Our observations suggest that the temperature mismatch between CO2 desorption and reaction, along with potential catalyst site poisoning by grafted aminosilanes, is a significant obstacle to realizing the potential of amine-based RCC materials in the decarbonization of chemical production. This stands in contrast to literature detailing successful RCC using liquid amines and solid catalysts, which may benefit from more favorable mass transfer dynamics, as well as early stage reports into RCC solid-phase amine-Pd materials, whose findings we were not able to replicate. More judicious reaction selection and synthetic design strategies to match materials with process conditions offer alternative pathways for future research.    
-
-    
-
-## Data Checking of Asymmetric Catalysis Literature Using a Graph Neural Network Approach   
-
-OpenAlex: https://openalex.org/W4406439159    
-Open access: True
-    
-[Eduardo Alberto Aguilar Bejarano](https://openalex.org/A5093979178), [Viraj Deorukhkar](https://openalex.org/A5115900328), [Simon Woodward](https://openalex.org/A5039297781), Molecules. 30(2)] 2025.https://doi.org/10.3390/molecules30020355.
-    
-The range of chemical databases available has dramatically increased in recent years, but the reliability and quality of their data are often negatively affected by human-error fidelity. The size of chemical databases can make manual data curation/checking of such sets time consuming; thus, automated tools to help this process are highly desirable. Herein, we propose the use of Graph Neural Networks (GNNs) to identifying potential stereochemical misassignments in the primary asymmetric catalysis literature. Our method relies on the use of an ensemble of GNN models to predict the expected stereoselectivity of exemplars for a particular asymmetric reaction. When the majority of these models do not correlate to the reported outcome, the point is labeled as a possible stereochemical misassignment. Such identified cases are few in number and more easily investigated for their cause. We demonstrate the use of this approach to spot potential literature stereochemical misassignments in the ketone products resulting from catalytic asymmetric 1,4-addition of organoboron nucleophiles to Michael acceptors in two different databases, each one using a different family of chiral ligands (bisphosphine and diene ligands). Our results demonstrate that this methodology is useful for curation of medium-sized databases, speeding this process significantly compared to complete manual curation/checking. In the datasets investigated, human expert checking was reduced to 2.2% and 3.5% of the total data exemplars.    
 
     
 

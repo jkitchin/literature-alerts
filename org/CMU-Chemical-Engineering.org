@@ -1,31 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Jan 23 01:19:11 2025
+Created on Fri Jan 24 01:19:18 2025
 
-Found 4 results from 2025-01-16 to 2025-01-23
+Found 3 results from 2025-01-17 to 2025-01-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Fast and sensitive measurements of sub-3 nm particles using Condensation Particle Counters For Atmospheric Rapid Measurements (CPC FARM)  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406399967
-:TOPICS: Atmospheric chemistry and aerosols, Atmospheric aerosols and clouds, Air Quality and Health Impacts
-:PUBLICATION_DATE: 2025-01-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5194/amt-18-197-2025")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406399967"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406399967"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406399967"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406399967 (Open access: True)
-    
-[[https://openalex.org/A5015910436][Darren Cheng]], [[https://openalex.org/A5059174925][Stavros Amanatidis]], [[https://openalex.org/A5010557193][Gregory S. Lewis]], [[https://openalex.org/A5055700187][Coty N. Jen]], Atmospheric measurement techniques. 18(1)] 2025. https://doi.org/10.5194/amt-18-197-2025 
-     
-Abstract. New particle formation (NPF) is the atmospheric process whereby gas molecules react and nucleate to form detectable particles. NPF has a strong impact on Earth's radiative balance as it produces roughly half of global cloud condensation nuclei. However, the time resolution and sensitivity of current instrumentation are inadequate in measuring the size distribution of sub-3 nm particles, the particles critical for understanding NPF. Here we present the Condensation Particle Counters For Atmospheric Rapid Measurements (CPC FARM), a method to measure the concentrations of freshly nucleated particles. The CPC FARM consists of five CPCs operating in parallel, each configured to operate at different detectable particle sizes between 1–3 nm. This study explores two methods to calculate the size distribution from the differential measurements across the CPC channels. The performance of both inversion methods was tested against the size distribution measured by a pair of stepping particle mobility sizers (SMPSs) during an ambient air sampling study in Pittsburgh, PA. Observational results indicate that the CPC FARM is more accurate with higher time resolution and sensitivity in the sub-3 nm range compared to the SMPS.    
-
-    
 
 * Development of an integrated modeling framework for visibility and air quality forecasting in Delhi  :CMU_Chemical_Engineering:
 :PROPERTIES:

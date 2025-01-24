@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Jan 2025 01:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 01:19:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Fast and sensitive measurements of sub-3 nm particles using Condensation Particle Counters For Atmospheric Rapid Measurements (CPC FARM)</title>
-      <link>https://doi.org/10.5194/amt-18-197-2025</link>
-      <description>Darren Cheng, Stavros Amanatidis, Gregory S. Lewis, Coty N. Jen, Atmospheric measurement techniques. 18(1)] 2025. https://openalex.org/W4406399967
-
-                Abstract. New particle formation (NPF) is the atmospheric process whereby gas molecules react and nucleate to form detectable particles. NPF has a strong impact on Earth's radiative balance as it produces roughly half of global cloud condensation nuclei. However, the time resolution and sensitivity of current instrumentation are inadequate in measuring the size distribution of sub-3 nm particles, the particles critical for understanding NPF. Here we present the Condensation Particle Counters For Atmospheric Rapid Measurements (CPC FARM), a method to measure the concentrations of freshly nucleated particles. The CPC FARM consists of five CPCs operating in parallel, each configured to operate at different detectable particle sizes between 1&#8211;3 nm. This study explores two methods to calculate the size distribution from the differential measurements across the CPC channels. The performance of both inversion methods was tested against the size distribution measured by a pair of stepping particle mobility sizers (SMPSs) during an ambient air sampling study in Pittsburgh, PA. Observational results indicate that the CPC FARM is more accurate with higher time resolution and sensitivity in the sub-3 nm range compared to the SMPS.</description>
-      <author>Darren Cheng, Stavros Amanatidis, Gregory S. Lewis, Coty N. Jen</author>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/amt-18-197-2025</guid>
-    </item>
     <item>
       <title>Development of an integrated modeling framework for visibility and air quality forecasting in Delhi</title>
       <link>https://doi.org/10.1175/bams-d-24-0194.1</link>
