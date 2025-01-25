@@ -1,8 +1,28 @@
 #+TITLE: authors
 Description: List of authors
-Created on Fri Jan 24 01:19:12 2025
+Created on Sat Jan 25 01:15:27 2025
 
-Found 0 results from 2025-01-17 to 2025-01-24
+Found 1 results from 2025-01-18 to 2025-01-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464]]
 
+* Beyond the fourth paradigm of modeling in chemical engineering  :authors:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406706802
+:TOPICS: Reservoir Engineering and Simulation Methods, Process Optimization and Integration, Advanced Control Systems Optimization
+:PUBLICATION_DATE: 2025-01-22
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s44286-024-00170-x")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406706802"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406706802"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406706802"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406706802 (Open access: True)
+    
+[[https://openalex.org/A5003442464][John R. Kitchin]], [[https://openalex.org/A5033439256][Victor Alves]], [[https://openalex.org/A5030631754][Carl D. Laird]], Nature Chemical Engineering. None(None)] 2025. https://doi.org/10.1038/s44286-024-00170-x  ([[https://www.nature.com/articles/s44286-024-00170-x.pdf][pdf]])
+     
+No abstract    
+
+    

@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Fri Jan 24 01:19:19 2025
+Created on Sat Jan 25 01:15:33 2025
 
-Found 3 results from 2025-01-17 to 2025-01-24
+Found 4 results from 2025-01-18 to 2025-01-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -25,6 +25,17 @@ Open access: True
 [Alán Aspuru–Guzik](https://openalex.org/A5071495561), [Jason E. Hein](https://openalex.org/A5003345103), [Joshua Schrier](https://openalex.org/A5073376584), Digital Discovery. None(None)] 2025.https://doi.org/10.1039/d4dd90053g.
     
 Introducing Commit, a new article type at Digital Discovery intended for reporting incremental improvements on work previously published in the journal.    
+
+    
+
+## Exploring the expertise of large language models in materials science and metallurgical engineering   
+
+OpenAlex: https://openalex.org/W4406736930    
+Open access: True
+    
+[Christophe Bajan](https://openalex.org/A5099055459), [G. Lambard](https://openalex.org/A5038826078), Digital Discovery. None(None)] 2025.https://doi.org/10.1039/d4dd00319e.
+    
+This study establishes a performance baseline for 15 LLMs on materials science tasks using the MaScQA benchmark, paving the way for AI-driven advancements in materials discovery and analysis.    
 
     
 

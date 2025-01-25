@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 24 Jan 2025 01:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 01:15:33 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Catalysis in Frequency Space: Resolving Hidden Oscillating Minority Phases and Their Catalytic Properties</title>
-      <link>https://doi.org/10.1021/acscatal.4c06355</link>
-      <description>Jan Knudsen, Calley Eads, Alexander Klyushin, Robert H. Temperton, Ulrike K&#252;st, Virg&#237;nia Boix, Azemina Kraina, Mattia Scardamaglia, Andrey Shavorskiy, Esko Kokkonen, Joachim Schnadt, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406474467
-
-                In situ catalysis studies typically correlate catalytic function and majority surface structures, but neglect that difficult-to-detect minority structures might govern catalysis. Here we use an oscillating CO:O2 gas composition to drive structural oscillations on a catalytically active Pd(100) surface and collect X-ray photoelectron spectroscopy data at high measurement frequency to demonstrate that the Fourier-transformed data selectively probe oscillations of minority surface structures and of the gas phase. Using the Fourier transform phase as well as work function shifts in the Fourier-transformed photoemission signal, we synchronize all signals and prove that most CO2 is produced above predominantly CO-covered areas.</description>
-      <author>Jan Knudsen, Calley Eads, Alexander Klyushin, Robert H. Temperton, Ulrike K&#252;st, Virg&#237;nia Boix, Azemina Kraina, Mattia Scardamaglia, Andrey Shavorskiy, Esko Kokkonen, Joachim Schnadt</author>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06355</guid>
-    </item>
   </channel>
 </rss>

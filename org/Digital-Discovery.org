@@ -1,8 +1,8 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Fri Jan 24 01:19:19 2025
+Created on Sat Jan 25 01:15:33 2025
 
-Found 3 results from 2025-01-17 to 2025-01-24
+Found 4 results from 2025-01-18 to 2025-01-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 
@@ -45,6 +45,27 @@ OpenAlex: https://openalex.org/W4406633347 (Open access: True)
 [[https://openalex.org/A5071495561][Alán Aspuru–Guzik]], [[https://openalex.org/A5003345103][Jason E. Hein]], [[https://openalex.org/A5073376584][Joshua Schrier]], Digital Discovery. None(None)] 2025. https://doi.org/10.1039/d4dd90053g 
      
 Introducing Commit, a new article type at Digital Discovery intended for reporting incremental improvements on work previously published in the journal.    
+
+    
+
+* Exploring the expertise of large language models in materials science and metallurgical engineering  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406736930
+:TOPICS: Machine Learning in Materials Science
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00319e")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406736930"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406736930"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406736930"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406736930 (Open access: True)
+    
+[[https://openalex.org/A5099055459][Christophe Bajan]], [[https://openalex.org/A5038826078][G. Lambard]], Digital Discovery. None(None)] 2025. https://doi.org/10.1039/d4dd00319e 
+     
+This study establishes a performance baseline for 15 LLMs on materials science tasks using the MaScQA benchmark, paving the way for AI-driven advancements in materials discovery and analysis.    
 
     
 

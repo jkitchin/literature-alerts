@@ -1,29 +1,9 @@
 #+TITLE: Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Fri Jan 24 01:19:19 2025
+Created on Sat Jan 25 01:15:33 2025
 
-Found 1 results from 2025-01-17 to 2025-01-24
+Found 0 results from 2025-01-18 to 2025-01-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 
-* Catalysis in Frequency Space: Resolving Hidden Oscillating Minority Phases and Their Catalytic Properties  :Dynamic_catalysis___citing_and_related:
-:PROPERTIES:
-:UUID: https://openalex.org/W4406474467
-:TOPICS: Advanced Chemical Physics Studies, Ammonia Synthesis and Nitrogen Reduction, Catalytic Processes in Materials Science
-:PUBLICATION_DATE: 2025-01-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06355")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406474467"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406474467"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406474467"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4406474467 (Open access: True)
-    
-[[https://openalex.org/A5028067161][Jan Knudsen]], [[https://openalex.org/A5080366404][Calley Eads]], [[https://openalex.org/A5022430634][Alexander Klyushin]], [[https://openalex.org/A5080012269][Robert H. Temperton]], [[https://openalex.org/A5095090324][Ulrike Küst]], [[https://openalex.org/A5012726061][Virgínia Boix]], [[https://openalex.org/A5098709874][Azemina Kraina]], [[https://openalex.org/A5039105398][Mattia Scardamaglia]], [[https://openalex.org/A5051598053][Andrey Shavorskiy]], [[https://openalex.org/A5037359900][Esko Kokkonen]], [[https://openalex.org/A5087506928][Joachim Schnadt]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06355 
-     
-In situ catalysis studies typically correlate catalytic function and majority surface structures, but neglect that difficult-to-detect minority structures might govern catalysis. Here we use an oscillating CO:O2 gas composition to drive structural oscillations on a catalytically active Pd(100) surface and collect X-ray photoelectron spectroscopy data at high measurement frequency to demonstrate that the Fourier-transformed data selectively probe oscillations of minority surface structures and of the gas phase. Using the Fourier transform phase as well as work function shifts in the Fourier-transformed photoemission signal, we synchronize all signals and prove that most CO2 is produced above predominantly CO-covered areas.    
-
-    

@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 24 Jan 2025 01:19:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 01:15:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Photochemical C&#8211;H Borylation in Organic Synthesis</title>
-      <link>https://doi.org/10.1021/acscatal.4c07169</link>
-      <description>Supriya Rej, Stephanie G. E. Amos, Arjan W. Kleij, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406452898
-
-                Although C&#8211;H bond functionalization has been extensively studied since its discovery in 1955, the borylation of organic compounds by activating C&#8211;H bonds only became popular since the valuable discovery by Hartwig in 1995 who considered a wider application of these transformations in synthetic organic chemistry. For C&#8211;H borylation, catalytic activation of this generally low-reactivity bond can be performed in many ways. Among the approaches reported are the use and application of stoichiometric reagents, thermal activation, and photochemical activation of suitable substrates. Iridium-, ruthenium-, and rhodium-based catalytic protocols using thermal activation have played a crucial role toward the establishment of this area. Photochemical activation, though, has only been scarcely explored despite the fact that it represents a comparably environmentally benign protocol using light as a renewable energy source. In this literature survey, we highlight the recent developments in photochemical C&#8211;H borylation from its initial inception up to the latest advancements.</description>
-      <author>Supriya Rej, Stephanie G. E. Amos, Arjan W. Kleij</author>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07169</guid>
-    </item>
-    <item>
-      <title>Atomically Dispersed Cu Atoms Anchored on N-Doped Porous Carbon as an Efficient Catalyst for C&#8211;C Bond Cleavage of Ketones toward Esters</title>
-      <link>https://doi.org/10.1021/acscatal.4c06769</link>
-      <description>Yushan Wu, Yao Luo, Siyi Huang, Jida Wang, Junchen Xu, Xiang&#8208;Kui Gu, Mingyue Ding, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406462823
-
-                Efficient and selective cleavage and functionalization of C&#8211;C bonds is of critical significance in fine chemistry and lignocellulosic biomass valorization, yet it is still challenging due to their inert nature. In the present work, we report an atomically dispersed Cu catalyst encapsulated in N-doped porous carbon (Cu@NC-900) through a facile method using metal&#8211;organic frameworks (MOFs) as precursors, where Cu atoms were chelated and stabilized by N species. The resulting catalyst exhibited good performance for oxidative cleavage of C&#8211;C bonds toward esters, giving a 98.6% yield of methyl benzoate with complete conversion of acetophenone under base-free conditions. Further, the Cu@NC-900 catalyst was efficient for the conversion of a wide range of ketones, including (hetero)aryl methyl ketones or challenging alkyl ketones, to their corresponding esters. Experiments demonstrated that the highly dispersed Cu sites and incorporation of N species, as well as the rich pore structures, contributed to the high activity, selectivity, and stability. Theoretical calculations further attributed the high activity to the oxidation state formed by the electron loss of the isolated Cu atoms.</description>
-      <author>Yushan Wu, Yao Luo, Siyi Huang, Jida Wang, Junchen Xu, Xiang&#8208;Kui Gu, Mingyue Ding</author>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06769</guid>
-    </item>
-    <item>
-      <title>Copper-Catalyzed Enantioselective Three-Component Fluoroalkylalkynylation of Unactivated Alkenes</title>
-      <link>https://doi.org/10.1021/acscatal.4c06641</link>
-      <description>Mengxia Liao, Cuihuan Geng, Zhiguo Wu, Chunxiang Pan, Chenwei Wang, Guanghui Meng, Xinxin Zuo, Ying Zhu, Xiaotian Qi, Guozhu Zhang, R.T. Guo, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406465161
-
-                The enantioselective three-component dicarbonfunctionalization of electronically unactivated alkenes continues to pose a significant challenge. In this work, a copper-catalyzed highly regio- and enantioselective fluoroalkylalkynylation of unactivated alkenes with diverse terminal alkynes and fluoroalkyl halides under mild conditions is developed. In addition to fluoroalkyl halides, Togni's reagent can also participate in the reaction, delivering chiral &#946;-trifluoromethyl alkynes with high enantioselectivities. This method exhibits good functional group tolerance, facilitating the late-stage derivatization of a variety of biologically active molecules. The success of this chemistry was achieved by using a bulky indene-substituted BOPA ligand. DFT calculations indicate that the radical fluoroalkylalkynylation is achieved through a fluorine-directed outer-sphere pathway. Mechanistic studies reveal that the amide group is crucial for achieving high stereoselectivities because the exclusive F&#183;&#183;&#183;H hydrogen bonding between the fluoroalkyl group and the Mes group on the amide can be formed to stabilize the Si-radical coupling transition state.</description>
-      <author>Mengxia Liao, Cuihuan Geng, Zhiguo Wu, Chunxiang Pan, Chenwei Wang, Guanghui Meng, Xinxin Zuo, Ying Zhu, Xiaotian Qi, Guozhu Zhang, R.T. Guo</author>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06641</guid>
-    </item>
-    <item>
-      <title>Understanding Substrate Binding and Reactivity of Stearoyl-CoA Desaturase (SCD1) through Classical and Multiscale Molecular Dynamics Simulations</title>
-      <link>https://doi.org/10.1021/acscatal.4c06972</link>
-      <description>Janko &#268;ivi&#263;, I&#241;aki Tu&#241;&#243;n, Jeremy N. Harvey, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406468608
-
-                Stearoyl-CoA desaturase (SCD1) plays an important role in the metabolism of fatty acids and is a promising therapeutic target. However, the underlying mechanism of SCD1, as well as other transmembrane nonheme diiron enzymes, remains poorly understood. This study builds upon a previous density functional theory (DFT) cluster model study which proposed a potential reactive intermediate of SCD1. We assessed its dynamical properties by employing classical molecular dynamics (MD) simulations. The simulations revealed that the proposed intermediate lacks the ability to form a favorable reactive complex with stearoyl-CoA, highlighting the significance of a conserved asparagine residue in controlling the substrate's orientation. Motivated by these observations, we proposed a modified intermediate in which a water molecule is strategically placed to stabilize the conserved asparagine residue. Subsequent classical MD simulations showed that the modified intermediate is able to form a reactive complex with the substrate, consistent with the experimentally observed selectivity of SCD1. A cluster model DFT study showed that the modified intermediate is of similar reactivity as the previously reported intermediate. The free energy barrier for the first hydrogen atom abstraction step by the modified intermediate was estimated to be accessible. The estimate is based on a hybrid quantum mechanics/molecular mechanics (QM/MM) approach utilizing the efficient semiempirical GFN2-xTB method. Considering its computational efficiency, GFN2-xTB seems to be a promising tool for the study of complex transition metal systems. Overall, our findings reveal important structure&#8211;function relationships in SCD1, uncovering an interplay between conserved residues and regioselectivity which advances our understanding of the entire class of transmembrane nonheme diiron enzymes.</description>
-      <author>Janko &#268;ivi&#263;, I&#241;aki Tu&#241;&#243;n, Jeremy N. Harvey</author>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06972</guid>
-    </item>
-    <item>
-      <title>Catalysis in Frequency Space: Resolving Hidden Oscillating Minority Phases and Their Catalytic Properties</title>
-      <link>https://doi.org/10.1021/acscatal.4c06355</link>
-      <description>Jan Knudsen, Calley Eads, Alexander Klyushin, Robert H. Temperton, Ulrike K&#252;st, Virg&#237;nia Boix, Azemina Kraina, Mattia Scardamaglia, Andrey Shavorskiy, Esko Kokkonen, Joachim Schnadt, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406474467
-
-                In situ catalysis studies typically correlate catalytic function and majority surface structures, but neglect that difficult-to-detect minority structures might govern catalysis. Here we use an oscillating CO:O2 gas composition to drive structural oscillations on a catalytically active Pd(100) surface and collect X-ray photoelectron spectroscopy data at high measurement frequency to demonstrate that the Fourier-transformed data selectively probe oscillations of minority surface structures and of the gas phase. Using the Fourier transform phase as well as work function shifts in the Fourier-transformed photoemission signal, we synchronize all signals and prove that most CO2 is produced above predominantly CO-covered areas.</description>
-      <author>Jan Knudsen, Calley Eads, Alexander Klyushin, Robert H. Temperton, Ulrike K&#252;st, Virg&#237;nia Boix, Azemina Kraina, Mattia Scardamaglia, Andrey Shavorskiy, Esko Kokkonen, Joachim Schnadt</author>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06355</guid>
-    </item>
-    <item>
-      <title>Hollow Square Ni-Doped Copper Oxide Catalyst Boosting Electrocatalytic Nitrate Reduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c06705</link>
-      <description>Yi Li, Jinshan Wei, Hexing Lin, Ying Guo, Xihui Lu, Shaoqing Liu, Hong Liu, Mengyao Tang, Ji Zhou, Yayun Li, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406474835
-
-                The electrochemical nitrate reduction reaction to ammonia (NRA) is gaining increasing attention as an eco-friendly approach to convert harmful nitrate pollutants into high-value product ammonia. NRA involves two critical rate-determining steps: hydrogenation of the *NO and *NOH intermediates. The composite of Ni and Cu has been demonstrated to exhibit synergistic catalytic effects; however, research on the combination of Ni and CuO remains limited. Herein, an advanced Ni-doped copper oxide catalyst with a hollow square morphology (Ni&#8211;CuO) is reported with a Faradaic efficiency of 95.26% at &#8722;0.8 V vs RHE and a high yield rate of 0.94 mmol h&#8211;1 cm&#8211;2, demonstrating high selectivity and stability. Complementary analyses demonstrated that the active hydrogen generated at the Ni sites facilitates the hydrogenation of *NOx adsorbed on Cu sites. Theoretical computations further confirm the thermodynamic viability of this bimetallic catalytic mechanism. Furthermore, an Al&#8211;NO3&#8211; battery with a high open-circuit voltage was constructed by using Ni&#8211;CuO as the cathode. This work presents a synergistically modulated catalyst for complex catalytic processes and introduces a highly efficient Al&#8211;NO3&#8211; battery capable of simultaneous NH3 synthesis and electrical energy conversion, underscoring its potential in efficient catalysis and the development of the energy and chemical industries.</description>
-      <author>Yi Li, Jinshan Wei, Hexing Lin, Ying Guo, Xihui Lu, Shaoqing Liu, Hong Liu, Mengyao Tang, Ji Zhou, Yayun Li</author>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06705</guid>
-    </item>
-    <item>
-      <title>Photothermal Conversion of Biopolyols and Sugars into Syngas over Pd&#8211;PdO/TiO&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c04927</link>
-      <description>Jingxuan Yang, Hongru Zhou, Jincheng Luo, Min Wang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406475883
-
-                Photocatalysis is promising for reforming biopolyols and sugars into syngas (CO+H2), while the carbon is easily overoxidized to CO2 due to the hydroxyl radical (&#8226;OH) under aqueous conditions. Targeting this problem, a temperature-controlled photo-reforming strategy is proposed and the Pd&#8211;PdO/TiO2 is used as the catalyst. The photocatalytic reforming process effectively breaks the C&#8211;H and C&#8211;C bonds of biomass to produce radicals. The increased reaction temperature not only increases the photocatalytic reaction rate but also thermodynamically fine-tunes the radical reaction process, facilitating the decarbonylation of acyl radical intermediates and prohibiting its overoxidation to CO2. With the reaction temperature increased from 40 to 180 &#176;C, the CO selectivity from glycerol reforming over Pd&#8211;PdO/TiO2 catalyst under aqueous conditions improves significantly from 1.6% to 66%. The unique Pd&#8211;PdO/TiO2 structure plays an important role in syngas production. On one hand, the decorated Pd species significantly promote light adsorption and the separation of photogenerated charge carriers. On the other hand, the PdO nanoparticles effectively facilitate the adsorption and decarbonylation process of acyl radical intermediates. A CO yield of over 60% for glycerol reforming under photothermal conditions can be obtained over Pd&#8211;PdO/TiO2, which is 3 times that of pristine TiO2 (20%). A wide range of biopolyols and sugars can also be converted into syngas through this photothermal system with a CO yield of 20&#8211;66%, along with 0.17&#8211;2.13 mmol&#183;g&#8211;1&#183;h&#8211;1 H2 evolution.</description>
-      <author>Jingxuan Yang, Hongru Zhou, Jincheng Luo, Min Wang</author>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04927</guid>
-    </item>
-    <item>
-      <title>Electrocatalytic Formate Oxidation by Cobalt&#8211;Phosphine Complexes</title>
-      <link>https://doi.org/10.1021/acscatal.4c03189</link>
-      <description>Sriram Katipamula, Andrew W. Cook, Isabella Niedzwiecki, Chathumini Nadeesha, Ashish Parihar, Thomas J. Emge, Kate M. Waldie, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406484247
-
-                We report a family of cobalt complexes based on bidentate phosphine ligands with two, one, or zero pendent amine groups in the ligand backbone. The pendent amine complexes are active electrocatalysts for the formate oxidation reaction, generating CO2 with near-quantitative faradaic efficiency at moderate overpotentials (0.45&#8211;0.57 V in acetonitrile). Thermodynamic measurements reveal that these complexes are energetically primed for formate oxidation via hydride transfer to the cobalt center, followed by deprotonation of the resulting cobalt-hydride by formate acting as a base. The complex featuring a single pendent amine arm is the fastest electrocatalyst in this series, with an observed rate constant for formate oxidation of 135 &#177; 8 h&#8211;1 at 25 &#176;C, surpassing the activity of the bis-pendent amine analogue. Electrocatalytic turnover is not observed for the complex with no pendent amine groups: decomposition of the complex is evident in the presence of high formate concentrations. Thus, the application of thermodynamic considerations to electrocatalyst design is demonstrated as a successful strategy, while also highlighting the delicate balance of ligand properties necessary for achieving productive turnover.</description>
-      <author>Sriram Katipamula, Andrew W. Cook, Isabella Niedzwiecki, Chathumini Nadeesha, Ashish Parihar, Thomas J. Emge, Kate M. Waldie</author>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03189</guid>
-    </item>
-    <item>
-      <title>Stable CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation to Methanol by Cu Interacting with Isolated Zn Cations in Zincosilicate CIT-6</title>
-      <link>https://doi.org/10.1021/acscatal.4c07496</link>
-      <description>Yu Gao, Yonghui Fan, Hao Zhang, Peerapol Pornsetmetakul, Brahim Mezari, Jorden Wagemakers, M. Ramakrishnan, Konstantin Klementiev, Nikolay Kosinov, Emiel J. M. Hensen, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406493338
-
-                The catalytic conversion of carbon dioxide (CO2) to methanol over Cu/ZnO catalysts is expected to become valuable for recycling CO2. The nature of the Cu&#8211;Zn interplay remains a subject of intense debate due to many different Zn species encountered in Cu/ZnO catalysts. In this study, we designed a Cu&#8211;Zn catalyst by ion-exchanging Cu into CIT-6, a crystalline microporous zincosilicate with the BEA* topology. The catalyst exhibited high and stable CO2 hydrogenation rate to methanol. In contrast, its aluminosilicate counterparts Cu-Beta and CuZn-Beta mainly converted CO2 to CO. Operando X-ray absorption spectroscopy combined with X-ray diffraction confirmed the stability of Zn cations in the zincosilicate framework during reduction in H2 and reaction in CO2/H2. The active phase consisted of highly dispersed Cu particles. These particles located near isolated Zn2+ species represent a different type of active site for methanol synthesis than the active phases proposed for Cu&#8211;Zn catalysts, such as Cu&#8211;Zn alloy particles and Cu particles decorated with ZnOx. In situ IR spectroscopy showed the formation of Zn-formate species during CO2 hydrogenation, indicating that Zn2+ ions stabilize formate as a reaction intermediate in the hydrogenation of CO2 to methanol.</description>
-      <author>Yu Gao, Yonghui Fan, Hao Zhang, Peerapol Pornsetmetakul, Brahim Mezari, Jorden Wagemakers, M. Ramakrishnan, Konstantin Klementiev, Nikolay Kosinov, Emiel J. M. Hensen</author>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07496</guid>
-    </item>
-    <item>
-      <title>Dual-Isolation Effect of Bismuth in Non-Noble BiNi Alloys for Enhanced Performance in H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Electrosynthesis</title>
-      <link>https://doi.org/10.1021/acscatal.4c05781</link>
-      <description>Xiaomei Liu, Jun Wang, Chengbo Ma, Shuai Li, Huanyu Fu, Ning Li, Yang Li, Xiaobin Fan, Wenchao Peng, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406498208
-
-                Noble-metal alloys are high-efficiency two-electron oxygen reduction reaction (2e&#8211; ORR) catalysts for the electrochemical production of H2O2. However, the development of noble-metal alloys for H2O2 production is still in a bottleneck period due to their high cost, toxicity, low atom utilization, and limited reactivity. To solve these dilemmas of noble-metal alloys, developing non-noble alloys can be an alternative. Herein, non-noble BiNi alloys with a uniform diameter of &#8764;11 nm supported on carbon nanosheets (BiNi/C) are synthesized by a hydrothermal-pyrolysis method. The BiNi/C material exhibits high 2e&#8211; ORR performance with an onset potential of 0.76 V vs RHE and a selectivity of &#8764;98% in 0.1 M KOH. The H-cell tests deliver a high H2O2 yield of &#8764;17 mM within 2 h at 0.4 V vs RHE. The synthesized H2O2 is then used in a fixed-bed Fenton process, and the degradation efficiencies of RhB and BPA maintain at 100% and &#8764;95% within 10 h, respectively. Theoretical calculations reveal that Bi can regulate the electronic structure of Ni in BiNi alloys through the "dual-isolation" effect of physical and electronic isolation. The adsorption energy for *OOH is thus deceased, and side-on adsorption of *OOH on Ni sites is achieved. Furthermore, the Bi atom itself with the lowest overpotential can also serve as a high active site for H2O2 generation due to the dual-isolation effect. Our study provides guidance for the synthesis of non-noble alloy catalysts for 2e&#8211; ORR with high activity and selectivity.</description>
-      <author>Xiaomei Liu, Jun Wang, Chengbo Ma, Shuai Li, Huanyu Fu, Ning Li, Yang Li, Xiaobin Fan, Wenchao Peng</author>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05781</guid>
-    </item>
-    <item>
-      <title>Molecular Design of Perylene Diimide Derivatives for Photocatalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c07066</link>
-      <description>Zibin Li, Feng Liu, Yanrong Lu, Jing Hu, Jiajing Feng, Hong Shang, Bing Sun, Wei Jiang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406498362
-
-                Perylene diimides (PDIs) and their derivatives represent a kind of most promising photocatalytic materials due to their strong visible light absorption, ease of functionalization, excellent thermal/photostability, as well as tunable electronic structures and energy levels. However, several challenges persist in the development of PDI photocatalysts, including low electron&#8211;hole separation efficiency, slow charge transfer, and rapid carrier recombination. In this perspective, we focus on enhancing the performance of PDI photocatalysts through a molecular design. We provide a comprehensive overview of various improvement strategies: (1) precise modulation of molecular dipole moments by altering the polarity of side chains to strengthen the built-in electric field, (2) utilization of steric hindrance and noncovalent interactions of side chains to construct nanoscale, highly ordered supramolecular nanostructures, (3) modification of the perylene core to adjust molecular energy levels and increase the number of active sites, (4) integration of PDI with various semiconductors or metals to form composite systems that enhance the interfacial built-in electric field or create extensive delocalized charge channels, and (5) selection of suitable linker groups to build polymer photocatalysts with large dipole moments. These strategies can facilitate the separation and migration of photogenerated carriers in PDI photocatalysts, eventually boosting their photocatalytic efficiency. The relationship between molecular structure and photocatalytic performance, particularly in the context of photocatalytic degradation and water splitting, is examined in detail. Finally, the future prospects and challenges of PDI photocatalysts are thoroughly discussed.</description>
-      <author>Zibin Li, Feng Liu, Yanrong Lu, Jing Hu, Jiajing Feng, Hong Shang, Bing Sun, Wei Jiang</author>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07066</guid>
-    </item>
     <item>
       <title>Optimizing the Electronic Structure of IrO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Sub-2 nm Clusters via Tunable Metal Support Interaction for Acidic Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1021/acscatal.4c06411</link>
@@ -226,6 +116,176 @@
       <author>Murilo T. Suekuni, Carmine D&#8217;Agostino, Alan M. Allgeier</author>
       <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04789</guid>
+    </item>
+    <item>
+      <title>Ultrathin ZSM-5 Shell Constructed on an S-1 Crystal Surface for Prins Reaction to Boost Methanol Aromatization with High Catalytic Stability</title>
+      <link>https://doi.org/10.1021/acscatal.4c07004</link>
+      <description>Ma Qian, Tingjun Fu, Chuntao Cao, Xueqing Wu, Zhong Li, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406644119
+
+                No abstract</description>
+      <author>Ma Qian, Tingjun Fu, Chuntao Cao, Xueqing Wu, Zhong Li</author>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07004</guid>
+    </item>
+    <item>
+      <title>Adaptive Morphing of Hydroxyl Groups on Covalency Competing Spinel Oxides Boosting Oxygen Evolution Reactions</title>
+      <link>https://doi.org/10.1021/acscatal.4c07014</link>
+      <description>Jiali Gou, Xin Lei, Bifa Ji, Shanshan Zhang, Yongping Zheng, Yongbing Tang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406668219
+
+                No abstract</description>
+      <author>Jiali Gou, Xin Lei, Bifa Ji, Shanshan Zhang, Yongping Zheng, Yongbing Tang</author>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07014</guid>
+    </item>
+    <item>
+      <title>Direct Syngas-To-Ethanol Conversion over Lithium-Promoted Rh/MgO Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c05085</link>
+      <description>Abdellah Ait El Fakir, Pengfei Du, Wan Li, H.&#8208;B. Pan, Shirun Zhao, Nazmul Hasan MD Dostagir, Akihiko Anzai, Shinya Mine, Evgeny A. Pidko, Ken&#8208;ichi Shimizu, Takashi Toyao, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406676550
+
+                No abstract</description>
+      <author>Abdellah Ait El Fakir, Pengfei Du, Wan Li, H.&#8208;B. Pan, Shirun Zhao, Nazmul Hasan MD Dostagir, Akihiko Anzai, Shinya Mine, Evgeny A. Pidko, Ken&#8208;ichi Shimizu, Takashi Toyao</author>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05085</guid>
+    </item>
+    <item>
+      <title>Diastereo- and Enantioselective Chemoenzymatic Synthesis of Chiral Tricyclic Intermediate of Anti-HIV Drug Lenacapavir</title>
+      <link>https://doi.org/10.1021/acscatal.4c07464</link>
+      <description>Wen&#8208;Zhen Fu, An Liu, Yang Yang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406676579
+
+                No abstract</description>
+      <author>Wen&#8208;Zhen Fu, An Liu, Yang Yang</author>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07464</guid>
+    </item>
+    <item>
+      <title>Encapsulating Ru Nanoclusters for Reductive Imination of Biomass-Based Furfural by Shape-Selective Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c07371</link>
+      <description>Hongtao Zou, Yuxin Jin, Limin Chen, Jinzhu Chen, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406678574
+
+                No abstract</description>
+      <author>Hongtao Zou, Yuxin Jin, Limin Chen, Jinzhu Chen</author>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07371</guid>
+    </item>
+    <item>
+      <title>Pickering Interfacial Tandem Catalysis of Alkenes to 1,2-Diols over Manganese Oxide Catalysts at Room Temperature</title>
+      <link>https://doi.org/10.1021/acscatal.4c06225</link>
+      <description>Shihao Su, Guojun Lv, Jialing Shen, Guanghui Wang, Lachgar Oussama, Yan Chen, Shengnan Xu, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406679706
+
+                No abstract</description>
+      <author>Shihao Su, Guojun Lv, Jialing Shen, Guanghui Wang, Lachgar Oussama, Yan Chen, Shengnan Xu</author>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06225</guid>
+    </item>
+    <item>
+      <title>Discovering the Origin of Catalyst Performance and Degradation of Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction through Interpretable Machine Learning</title>
+      <link>https://doi.org/10.1021/acscatal.4c05530</link>
+      <description>Daeun Chloe Shin, Hakan Karasu, Kyojin Jang, Chang Soo Kim, Kyeongsu Kim, Dongjin Kim, Young Jin, Ki Bong Lee, Keun Hwa Chae, Il Moon, Da Hye Won, Jonggeol Na, Ung Lee, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406692538
+
+                No abstract</description>
+      <author>Daeun Chloe Shin, Hakan Karasu, Kyojin Jang, Chang Soo Kim, Kyeongsu Kim, Dongjin Kim, Young Jin, Ki Bong Lee, Keun Hwa Chae, Il Moon, Da Hye Won, Jonggeol Na, Ung Lee</author>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05530</guid>
+    </item>
+    <item>
+      <title>Redox-Neutral Photocatalytic Germylative Difunctionalization of Unactivated Olefins via Selective Radical Capture by Ge(II)</title>
+      <link>https://doi.org/10.1021/acscatal.4c06681</link>
+      <description>Wenjing Zhou, Zequn Yang, Bin Xiao, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406694927
+
+                No abstract</description>
+      <author>Wenjing Zhou, Zequn Yang, Bin Xiao</author>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06681</guid>
+    </item>
+    <item>
+      <title>A General Amino&#8211;(Hetero)arylation of Simple Olefins with (Hetero)aryl Sulfonamides Enabled by an &lt;i&gt;N&lt;/i&gt;-Triazinyl Group</title>
+      <link>https://doi.org/10.1021/acscatal.5c00157</link>
+      <description>Jaxon L. Barney, Andrew J. Wolfram, Rose Litvak, Eric D. Nacsa, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406698033
+
+                No abstract</description>
+      <author>Jaxon L. Barney, Andrew J. Wolfram, Rose Litvak, Eric D. Nacsa</author>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c00157</guid>
+    </item>
+    <item>
+      <title>Efficient Photoelectrocatalysis of Glycerol to Dihydroxyacetone and Synergistic Hydrogen Generation via Dual Oxidation Pathways Using Co-LDH/Bi&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;/TiO&lt;sub&gt;2&lt;/sub&gt; Ternary Array</title>
+      <link>https://doi.org/10.1021/acscatal.4c05193</link>
+      <description>Lu Niu, Rufeng Tian, Wanggang Zhang, Hongxia Wang, Jian Wang, Yiming Liu, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406698920
+
+                No abstract</description>
+      <author>Lu Niu, Rufeng Tian, Wanggang Zhang, Hongxia Wang, Jian Wang, Yiming Liu</author>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05193</guid>
+    </item>
+    <item>
+      <title>Understanding Catalytic Enantioselective C&#8211;H Bond Oxidation at Nonactivated Methylenes Through Predictive Statistical Modeling Analysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c05659</link>
+      <description>Arnau Call, Andrea Palone, Jordan P. Liles, Natalie P. Romer, Jacquelyne A. Read, Josep M. Luis, Matthew S. Sigman, Massimo Bietti, Miguel Costas, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406699296
+
+                No abstract</description>
+      <author>Arnau Call, Andrea Palone, Jordan P. Liles, Natalie P. Romer, Jacquelyne A. Read, Josep M. Luis, Matthew S. Sigman, Massimo Bietti, Miguel Costas</author>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05659</guid>
+    </item>
+    <item>
+      <title>Ethane Oxidative Dehydrogenation over TiO&lt;sub&gt;2&lt;/sub&gt; and M/TiO&lt;sub&gt;2&lt;/sub&gt; Catalysts: Unraveling the Surface Structure Evolution, Oxygen Species Type, and Role of Doped Metal in Tuning Catalytic Performance</title>
+      <link>https://doi.org/10.1021/acscatal.4c07213</link>
+      <description>Mifeng Xue, Baojun Wang, Maohong Fan, Lixia Ling, Riguang Zhang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406708054
+
+                No abstract</description>
+      <author>Mifeng Xue, Baojun Wang, Maohong Fan, Lixia Ling, Riguang Zhang</author>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07213</guid>
+    </item>
+    <item>
+      <title>Enhanced Three-Component Chloro-/Azido-Fluoroalkylation of Unactivated Alkenes via the Proximity Effect in a Heterogenous Metallaphotocatalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c06960</link>
+      <description>Xiaolin Shi, Maolin Li, Yuanjun Zhao, Yifan Liu, Xin Zhou, Bo Yu, Yong Yang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406709394
+
+                No abstract</description>
+      <author>Xiaolin Shi, Maolin Li, Yuanjun Zhao, Yifan Liu, Xin Zhou, Bo Yu, Yong Yang</author>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06960</guid>
+    </item>
+    <item>
+      <title>Efficient Photocatalytic Two-Electron Halide Oxidation over p-Block Metal Bi- and Sb-Based Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c07143</link>
+      <description>Ruofan Li, Ling Zhang, Qin Xin, Shenyan Xu, Chunyu Che, Wenjing Wang, Chuanqi Zhang, Wenzhong Wang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406732853
+
+                No abstract</description>
+      <author>Ruofan Li, Ling Zhang, Qin Xin, Shenyan Xu, Chunyu Che, Wenjing Wang, Chuanqi Zhang, Wenzhong Wang</author>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07143</guid>
+    </item>
+    <item>
+      <title>Mutagenesis of a Single Site Inverts the Stereopreference of Imine Reductase</title>
+      <link>https://doi.org/10.1021/acscatal.5c00046</link>
+      <description>Yitong Li, Yunyun Yang, Mengting Zhang, Xiaoping Yue, Rey&#8208;Ting Guo, Zedu Huang, Fen&#8208;Er Chen, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406736803
+
+                No abstract</description>
+      <author>Yitong Li, Yunyun Yang, Mengting Zhang, Xiaoping Yue, Rey&#8208;Ting Guo, Zedu Huang, Fen&#8208;Er Chen</author>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c00046</guid>
+    </item>
+    <item>
+      <title>Efficient Hydrogenolysis of C&#8211;O Bond over Pd/P-TiO&lt;sub&gt;2&lt;/sub&gt;: The Generation and Role of Br&#248;nsted Acid Site Triggered by Spillover Hydrogen</title>
+      <link>https://doi.org/10.1021/acscatal.4c06939</link>
+      <description>Tingting Xiao, Jingrong Li, Jian Li, Qihang Gong, Peikai Luo, Xinluona Su, Haiyang Cheng, Chao Zhang, Fengyu Zhao, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406738483
+
+                No abstract</description>
+      <author>Tingting Xiao, Jingrong Li, Jian Li, Qihang Gong, Peikai Luo, Xinluona Su, Haiyang Cheng, Chao Zhang, Fengyu Zhao</author>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06939</guid>
+    </item>
+    <item>
+      <title>Programmable Scaffold-Mediated Assembly Regulation Tool for Dynamic Control of a Multienzyme Biocatalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c05420</link>
+      <description>Mengkai Hu, Teng Bao, Zhen Qin, Qiang Wang, Hengwei Zhang, Yujue Wang, Jiajia You, Zhenglian Xue, Rongzhen Zhang, Shang&#8208;Tian Yang, Xian Zhang, Zhiming Rao, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406745445
+
+                No abstract</description>
+      <author>Mengkai Hu, Teng Bao, Zhen Qin, Qiang Wang, Hengwei Zhang, Yujue Wang, Jiajia You, Zhenglian Xue, Rongzhen Zhang, Shang&#8208;Tian Yang, Xian Zhang, Zhiming Rao</author>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05420</guid>
     </item>
   </channel>
 </rss>

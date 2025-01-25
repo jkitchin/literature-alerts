@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 24 Jan 2025 01:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 01:15:33 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,16 @@
       <author>Al&#225;n Aspuru&#8211;Guzik, Jason E. Hein, Joshua Schrier</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd90053g</guid>
+    </item>
+    <item>
+      <title>Exploring the expertise of large language models in materials science and metallurgical engineering</title>
+      <link>https://doi.org/10.1039/d4dd00319e</link>
+      <description>Christophe Bajan, G. Lambard, Digital Discovery. None(None)] 2025. https://openalex.org/W4406736930
+
+                This study establishes a performance baseline for 15 LLMs on materials science tasks using the MaScQA benchmark, paving the way for AI-driven advancements in materials discovery and analysis.</description>
+      <author>Christophe Bajan, G. Lambard</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00319e</guid>
     </item>
     <item>
       <title>Composition and structure analyzer/featurizer for explainable machine-learning models to predict solid state structures</title>

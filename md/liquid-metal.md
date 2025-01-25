@@ -1,18 +1,18 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Fri Jan 24 01:19:16 2025
+Created on Sat Jan 25 01:15:30 2025
 
-Found 1 results from 2025-01-17 to 2025-01-24
+Found 1 results from 2025-01-18 to 2025-01-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29)
 
-## Ultrasonically Activated Liquid Metal Catalysts in Water for Enhanced Hydrogenation Efficiency   
+## Molten Sn solvent expands liquid metal catalysis   
 
-OpenAlex: https://openalex.org/W4406492574    
-Open access: False
+OpenAlex: https://openalex.org/W4406657236    
+Open access: True
     
-[Nichayanan Manyuan](https://openalex.org/A5020622642), [N. Tanimoto](https://openalex.org/A5040461779), [K. Ueda](https://openalex.org/A5001294972), [Ken Yamamoto](https://openalex.org/A5038664065), [Tomoharu Tokunaga](https://openalex.org/A5024166630), [Masaki Nishio](https://openalex.org/A5113943814), [Tetsu Yonezawa](https://openalex.org/A5065530384), [Hideya Kawasaki](https://openalex.org/A5021550995), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.4c19936.
+[Junma Tang](https://openalex.org/A5010938304), [Nastaran Meftahi](https://openalex.org/A5050500604), [Andrew J. Christofferson](https://openalex.org/A5073206123), [Jing Sun](https://openalex.org/A5107791204), [Ruohan Yu](https://openalex.org/A5033344805), [Md. Arifur Rahim](https://openalex.org/A5019983208), [Jianbo Tang](https://openalex.org/A5087654837), [Guangzhao Mao](https://openalex.org/A5018814864), [Torben Daeneke](https://openalex.org/A5091422934), [Richard B. Kaner](https://openalex.org/A5053257237), [Salvy P. Russo](https://openalex.org/A5031877516), [Kourosh Kalantar‐zadeh](https://openalex.org/A5067220816), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-56222-0.
     
-Hydride (H–) species on oxides have been extensively studied over the past few decades because of their critical role in various catalytic processes. Their syntheses require high temperatures and the presence of hydrogen, which involves complex equipment, high energy costs, and strict safety protocols. Hydride species tend to decompose in the presence of atmospheric oxygen and water, which reduces their catalytic activities. These challenges highlight the need for further research to improve the stability and efficiency of catalytic processes and develop safer and cost-effective synthesis methods. This paper introduces an ultrasonic fabrication method for gallium hydride species on liquid metal (LM) nanoparticles (Ga–H@LM NPs) in water and describes the evaluation of their catalytic properties. The Ga–H@LM NPs were synthesized by dispersing liquid metals of eutectic gallium–indium in water using a two-step ultrasonication process in an ice bath. The presence of Ga–H species was confirmed by Fourier-transform infrared spectroscopy. The Ga–H@LM NPs demonstrated the rapid catalytic hydrogenation of 4-nitrophenol and reductive degradation of azo dyes within minutes without the need for external reducing agents like NaBH4. The proposed mechanism involves high-energy ultrasonic cavitation at the interface between LM NPs and water, which promotes the formation of H2 from water and its activation to form Ga–H on particles surface during ultrasonication. This study has significant implications for advancing the field of catalysis because it provides a novel and efficient catalytic method for the synthesis of stable hydride species on gallium oxides.    
+Abstract Regulating favorable assemblies of metallic atoms in the liquid state provides promise for catalyzing various chemical reactions. Expanding the selection of metallic solvents, especially those with unique properties and low cost, enables access to distinctive fluidic atomic structures on the surface of liquid alloys and offers economic feasibility. Here, Sn solvent, as a low-cost commodity, supports unique atomic assemblies at the interface of molten SnIn 0.1034 Cu 0.0094 , which are highly selective for H 2 synthesis from hydrocarbons. Atomistic simulations reveal that distinctive adsorption patterns with hexadecane can be established with Cu transiently reaching the interfacial layer, ensuring an energy-favorable route for H 2 generation. Experiments with a natural oil as feedstock underscore this approach’s performance, producing 1.2 × 10 − 4 mol/min of H 2 with 5.0 g of catalyst at ~93.0% selectivity while offering reliable scalability and durability at 260 °C. This work presents an alternative avenue of tuning fluidic atomic structures, broadening the applications of liquid metals.    
 
     
