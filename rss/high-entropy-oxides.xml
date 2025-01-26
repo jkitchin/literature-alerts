@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 25 Jan 2025 01:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 01:21:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Utilization of Stable and Efficient High&#8208;Entropy (Ni&lt;sub&gt;0.2&lt;/sub&gt;Zn&lt;sub&gt;0.2&lt;/sub&gt;Mg&lt;sub&gt;0.2&lt;/sub&gt;Cu&lt;sub&gt;0.2&lt;/sub&gt;Co&lt;sub&gt;0.2&lt;/sub&gt;)Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Catalyst with Polyvalent Transition Metals to Boost Peroxymonosulfate Activation toward Pollutant Degradation</title>
+      <link>https://doi.org/10.1002/smll.202410819</link>
+      <description>Xinmiao Yu, Shifa Wang, Yuanyuan Zhang, YU Xian-lun, Huajing Gao, Hua Yang, Leiming Fang, Huijun Zhang, Asad Syed, Small. None(None)] 2025. https://openalex.org/W4406767222
+
+                Abstract A polyacrylamide gel method has been used to synthesize a variety of polyvalent&#8208;transition&#8208;metal&#8208;doped Ni position of high entropy spinel oxides (Ni 0.2 Zn 0.2 Mg 0.2 Cu 0.2 Co 0.2 )Al 2 O 4 &#8208;800 &#176;C (A 2 ) on the basis of NiAl 2 O 4 , and the catalytic activity of A 2 is studied under the synergistic action of peroxymonosulfate (PMS) activation and simulated sunlight. The A 2 containing polyvalent transition metals (Ni 2+ , Cu 2+ , and Co 2+ ) can effectively activate PMS and efficiently degrade levofloxacin (LEV) and tetracycline hydrochloride (TCH) under simulated sunlight irradiation. After 90 min of light exposure, the degradation percentages of LEV (50 mg L &#8722;1 ) and TCH (100 mg L &#8722;1 ) degrade by the A 2 /PMS/vis system reach 87.0% and 90.2%, respectively. The superoxide radicals, photoinduced holes, and singlet oxides dominate the catalytic process, while hydroxyl radicals and sulfate radicals play only a small role. The adsorption energy and charge density difference between different systems and PMS are calculated by density functional theory, and the activation efficiency of PMS is studied by combining with the change of the length of the O&#9472;O bond of the PMS after adsorption. The catalytic mechanism of A 2 /PMS/vis system is proposed, which provides a new idea and method for the study of high entropy oxides in the field of catalysis.</description>
+      <author>Xinmiao Yu, Shifa Wang, Yuanyuan Zhang, YU Xian-lun, Huajing Gao, Hua Yang, Leiming Fang, Huijun Zhang, Asad Syed</author>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202410819</guid>
+    </item>
   </channel>
 </rss>

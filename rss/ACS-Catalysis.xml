@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 25 Jan 2025 01:15:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 01:21:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Optimizing the Electronic Structure of IrO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Sub-2 nm Clusters via Tunable Metal Support Interaction for Acidic Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c06411</link>
-      <description>Qingzhao Chu, Yanpu Niu, Haolan Tao, Honglai Liu, Quan Li, Cheng Lian, Jingkun Li, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406511916
-
-                Iridium-based electrocatalysts are the most promising candidates for the acidic oxygen evolution reaction (OER). Considering their high cost and scarcity, it is imperative to maximize atom utilization and enhance the intrinsic activity of iridium. In this work, IrOx sub-2 nm clusters are stabilized on TiO2 supports via metal support interaction (MSI) induced by vacancy defects in TiO2. The strength of MSI is readily tuned by the type of vacancies: oxygen vacancies in TiO2 (VO-TiO2) induce the adsorbed MSI with relatively weak strength, while titanium vacancies in TiO2 (VTi-TiO2) lead to the strong embedded MSI. The tunable MSI further modulates the electronic structure of IrOx sub-2 nm clusters. IrOx/VO-TiO2 with adsorbed MSI exhibits an optimized electronic structure with a downshifted d-band center of IrOx, resulting in a reduced binding energy with oxygen and a low energy barrier of the rate-determining step for OER. Consequently, IrOx/VO-TiO2 delivers an activity twice that of commercial IrO2 and a good stability for 120 h in a practical proton exchange membrane water electrolyzer. Our study provides a guideline for the rational design of acidic OER catalysts based on modulating the electronic structure of IrOx sub-2 nm clusters via tunable MSI.</description>
-      <author>Qingzhao Chu, Yanpu Niu, Haolan Tao, Honglai Liu, Quan Li, Cheng Lian, Jingkun Li</author>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06411</guid>
-    </item>
-    <item>
-      <title>Visible-Light-Induced Energy-Transfer-Mediated Hydrofunctionalization and Difunctionalization of Unsaturated Compounds via Sigma-Bond Homolysis of Energy-Transfer Acceptors</title>
-      <link>https://doi.org/10.1021/acscatal.4c07316</link>
-      <description>Qiao Sun, Shaopeng Wang, Yuan Xu, Aihua Yin, Yang Liu, Jingheng Zhu, Chunling Zheng, Guowei Wang, Zheng Fang, Shanhong Sui, Daixi Wang, Yan Dong, Dongshun Zhang, Chang&#8208;Sheng Wang, Kai Guo, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406524679
-
-                Over the past decade, visible-light-mediated energy-transfer (EnT) catalysis, particularly triplet&#8211;triplet energy-transfer (TTEnT) catalysis, has emerged as a mild and environmentally friendly approach for diverse organic synthetic transformations. In contrast to photoredox catalysis, which typically requires sacrificial electron donors or acceptors to complete the catalytic cycle, EnT photocatalysis generally proceeds with high atom economy while minimizing the generation of wasteful byproducts. Furthermore, while successful photoredox catalysis is contingent upon the precise control of redox potentials of both photocatalysts and organic substrates, EnT strategies are primarily influenced by the triplet energy compatibility between these entities. Considering the growing importance of EnT photocatalysis, as well as hydrofunctionalization and difunctionalization reactions in organic synthesis, this review systematically summarizes significant advancements in EnT-enabled hydrofunctionalization and difunctionalization of unsaturated compounds via sigma-bond homolysis over the past decade. Special emphasis is placed on elucidating substrate scopes and mechanistic scenarios. Additionally, this review discusses versatile synthetic applications of these methodologies and addresses current challenges and opportunities within this evolving research field. This review is structured into six main categories based on different types of energy-transfer acceptors and the sigma-bonds undergoing homolysis. These categories include EnT-enabled hydrofunctionalization and difunctionalization transformations mediated by 1) N&#8211;O bond homolysis of oxime esters and other N,O-radical precursors; 2) N&#8211;S bond homolysis of N-sulfonyl imines and other N,S-radical precursors; 3) chalcogen&#8211;chalcogen bond homolysis of disulfides and oxy/thio/selenosulfonates; 4) C&#8211;S bond homolysis of tri/difluoromethylated sulfinates, acetylenic triflones, and arylsulfonium salts; 5) C&#8211;X (X = halogen) bond homolysis of organic halides; and 6) sigma-bond homolysis of other energy-transfer acceptors. Through providing theoretical backgrounds of EnT catalysis, along with a comprehensive overview of currently employed energy-transfer acceptors, photosensitizers, and contemporary strategies for EnT-induced hydrofunctionalization and difunctionalization of unsaturated compounds, this review aims to serve as an invaluable resource for future innovations in this rapidly evolving field.</description>
-      <author>Qiao Sun, Shaopeng Wang, Yuan Xu, Aihua Yin, Yang Liu, Jingheng Zhu, Chunling Zheng, Guowei Wang, Zheng Fang, Shanhong Sui, Daixi Wang, Yan Dong, Dongshun Zhang, Chang&#8208;Sheng Wang, Kai Guo</author>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07316</guid>
-    </item>
-    <item>
-      <title>Simultaneous Engineering of the Thermostability and Activity of a Novel Aldehyde Dehydrogenase</title>
-      <link>https://doi.org/10.1021/acscatal.4c06840</link>
-      <description>Kangjie Xu, Qiming Chen, Haiyan Fu, Qihang Chen, Jiahao Gu, Xinglong Wang, Jingwen Zhou, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406526090
-
-                Acetaldehyde is a toxic pollutant that can be detoxified by acetaldehyde dehydrogenases (ADAs) through its conversion to acetyl-CoA. This study developed an integrated approach combining virtual screening, rational design, and a dual scoring mechanism to identify and engineer hyperactive ADA variants. A library of 5000 Dickeya parazeae ADA (DpADA) homologues was created through protein BLAST, and deep learning tools predicted their Kcat values. The top 100 candidates were selected based on acetaldehyde binding affinity, evaluated through molecular docking and phylogenetic analysis. Among these, ADA6 from Buttiauxella sp. S04-F03 exhibited the highest activity, converting 57.6% of acetaldehyde to acetyl-CoA, which was 14.1 times higher than DpADA. To improve ADA6's thermostability, folding engineering was applied, resulting in the P443C variant with an 80.7% increase in residual activity after heat treatment. Molecular dynamics simulation pinpointed I440 as a bottleneck in the substrate tunnel, guiding the design of a dual-scoring system that integrates structural adjustments and electronic optimization to evaluate mutations for improved substrate exposure and activity. The final optimized variant, P443C-I440T, achieved a conversion efficiency of 93.2%. This study demonstrates the effectiveness of combining computational tools and rational mutagenesis to enhance enzyme activity and stability in enzyme engineering.</description>
-      <author>Kangjie Xu, Qiming Chen, Haiyan Fu, Qihang Chen, Jiahao Gu, Xinglong Wang, Jingwen Zhou</author>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06840</guid>
-    </item>
-    <item>
-      <title>Effect of A-Site Defects on the Catalytic Activity of Perovskite LaCoO&lt;sub&gt;3&lt;/sub&gt;: Insights from the Electronic Structure</title>
-      <link>https://doi.org/10.1021/acscatal.4c06142</link>
-      <description>Hanlin Chen, Xiaoliang Liang, Zijuan You, Fuding Tan, Jingwen Zhou, Xiaoju Lin, Meiqin Chen, Peng Liu, Yiping Yang, Suhua Wang, Steven L. Suib, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406532106
-
-                The development of highly active perovskite-based catalysts for the oxidation of volatile organic chemicals (VOCs) has drawn a great deal of attention. A-site defect regulation is found to be effective to improve the catalytic performance, but the relationship between structure variation and catalytic activity has not been clearly unveiled. Herein, this issue was interpreted by the variation of physicochemical properties and electronic structure (O p-band center). An in situ one-step calcination method with NH4HCO3 addition was adopted to prepare a series of A-site-deficient LaCoO3 perovskites (LxCO), which were characterized by XRD, TEM, EELS, ESR, XPS, UPS, H2-TPR, and O2-TPD and catalytic test toward toluene oxidation. The catalytic activity displayed a volcano-type relationship with an addition amount of NH4HCO3. The electronic structure determined the reducibility and active oxygen content and accordingly affected the catalytic activity of LxCO. The obtained results provide theoretical and technical support for the design of efficient VOC oxidation catalysts.</description>
-      <author>Hanlin Chen, Xiaoliang Liang, Zijuan You, Fuding Tan, Jingwen Zhou, Xiaoju Lin, Meiqin Chen, Peng Liu, Yiping Yang, Suhua Wang, Steven L. Suib</author>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06142</guid>
-    </item>
-    <item>
-      <title>Rational Design of &#946;-MnO&lt;sub&gt;2&lt;/sub&gt; via Ir/Ru Co-substitution for Enhanced Oxygen Evolution Reaction in Acidic Media</title>
-      <link>https://doi.org/10.1021/acscatal.4c05989</link>
-      <description>Runxu Deng, Feng Liu, Shixin Gao, Zhenwei Xia, Runjie Wu, Jincheng Kong, Jin Yang, Ju Wen, X. Peter Zhang, Chade Lv, Yuhao Wang, Xiaoguang Li, Zheng Wang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406534076
-
-                The efficiency of the oxygen evolution reaction (OER) in acidic media is severely limited by the poor stability, low activity, and high cost of available catalysts. Enhancing intrinsic activity while maintaining stability and reducing reliance on precious metals is crucial. The typical adsorbate evolution mechanism (AEM) leads to high overpotentials and low activity, making the transition to alternative mechanisms, such as the lattice oxygen mechanism (LOM) or oxide path mechanism (OPM), highly desirable due to their lower overpotentials. Here, we combine density functional theory (DFT) calculations with experimental validation to enhance the activity and stability of &#946;-MnO2 via co-substitution with ruthenium (Ru) and iridium (Ir), enabling the transition from AEM to OPM. DFT calculations reveal that AEM is hindered by the weak nucleophilicity of water, while LOM suffers from high kinetic barriers due to structural distortions. In contrast, OPM demonstrates a significantly lower kinetic barrier, facilitated by the synergistic interaction between Ru and Ir. Experimentally, IrRuMnOx was synthesized through co-precipitation and hydrothermal methods, showing an 80-fold improvement in mass activity and a 96-fold increase in stability compared to commercial IrO2, with minimal noble metal leaching, as confirmed by inductively coupled plasma optical emission spectroscopy (ICP-OES). IrRuMnOx exhibited an ultralow overpotential of 475 mV at 1 A&#183;cm&#8211;2 and a Tafel slope of 44.26 mV&#183;dec&#8211;1 in 0.5 M H2SO4, maintaining stable performance for over 100 h. Moreover, the IrRuMnOx-based membrane electrode, with a low Ir loading of 0.075 mgIr&#183;cm&#8211;2, achieved remarkable current densities of 1.0 A&#183;cm&#8211;2 at 1.66 V and 2.0 A&#183;cm&#8211;2 at 1.91 V at 80 &#176;C. This performance surpasses that of both unsupported and conventional supported Ir-based catalysts at comparable Ir loading levels. This study offers critical insights into OER mechanisms in acidic media and paves the way for developing efficient and durable OER electrocatalysts for hydrogen production.</description>
-      <author>Runxu Deng, Feng Liu, Shixin Gao, Zhenwei Xia, Runjie Wu, Jincheng Kong, Jin Yang, Ju Wen, X. Peter Zhang, Chade Lv, Yuhao Wang, Xiaoguang Li, Zheng Wang</author>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05989</guid>
-    </item>
-    <item>
-      <title>Issue Editorial Masthead</title>
-      <link>https://doi.org/10.1021/csv015i002_1889649</link>
-      <description>, ACS Catalysis. 15(2)] 2025. https://openalex.org/W4406540614
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv015i002_1889649</guid>
-    </item>
-    <item>
-      <title>Issue Publication Information</title>
-      <link>https://doi.org/10.1021/csv015i002_1889648</link>
-      <description>, ACS Catalysis. 15(2)] 2025. https://openalex.org/W4406540636
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv015i002_1889648</guid>
-    </item>
     <item>
       <title>Engineering the Fungal Peroxygenase for Efficient and Regioselective Hydroxylation of Vitamin Ds and Sterols</title>
       <link>https://doi.org/10.1021/acscatal.4c06429</link>
@@ -172,7 +102,7 @@
       <link>https://doi.org/10.1021/acscatal.4c06225</link>
       <description>Shihao Su, Guojun Lv, Jialing Shen, Guanghui Wang, Lachgar Oussama, Yan Chen, Shengnan Xu, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406679706
 
-                No abstract</description>
+                In the tandem synthesis of 1,2-cyclohexanediol, solvents such as acetonitrile are often added to eliminate the immiscibility of cyclohexene with water and accordingly strengthen the interphase mass transfer; however, the usage of solvents artificially increases the solvent separation procedure, enhancing the energy consumption and decreasing the economic benefits of the reaction process. Hence, the development of the solvent-free Pickering interfacial tandem catalysis of cyclohexene to 1,2-cyclohexanediol is extremely appealing. In this study, &#946;-MnO2 and Mn2O3 were prepared by calcining &#947;-MnO2 synthesized with the hydrothermal synthesis method and concurrently served as a colloidal emulsifier and a heterogeneous catalyst in the Pickering interfacial tandem catalysis of cyclohexene to 1,2-cyclohexanediol at room temperature in the presence of the oxidant molecular oxygen and the co-oxidant isobutyraldehyde. The prepared &#946;450-MnO2 sample revealed the best tandem catalysis performance, achieving a cyclohexene conversion of 99.4% and a 1,2-cyclohexanediol selectivity of 83.6% within 4 h of reaction, which can be ascribed to the highest Mn4+/Mn3+ ratio and the greatest concentration of oxygen vacancies as well as the most stable Pickering emulsion. At the same time, density functional theory (DFT) studies further confirmed that isobutyraldehyde and molecular oxygen could be more easily adsorbed and activated by &#946;450-MnO2 in comparison with the other catalyst samples, benefiting its eminent catalytic epoxidation performance. In addition, a possible reaction mechanism for the &#946;450-MnO2 catalyst catalyzing cyclohexene into 1,2-cyclohexanediol in the Pickering interfacial tandem catalytic reaction system was put forward and validated through quenching experiments as well as in situ infrared characterization. The synthesized &#946;450-MnO2 catalyst exhibited reusability for greater than 5 cycles, and meanwhile, the Pickering interfacial tandem catalytic reaction system can be expanded to a spread of linear and cyclic alkene substrates, highlighting the superiority of the &#946;450-MnO2 catalyst. These findings verify that the synthesized &#946;450-MnO2 catalyst is capable of being utilized as an efficient and stable catalyst for the Pickering interfacial catalytic conversion of alkenes into 1,2-diols at room temperature.</description>
       <author>Shihao Su, Guojun Lv, Jialing Shen, Guanghui Wang, Lachgar Oussama, Yan Chen, Shengnan Xu</author>
       <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06225</guid>
@@ -286,6 +216,46 @@
       <author>Mengkai Hu, Teng Bao, Zhen Qin, Qiang Wang, Hengwei Zhang, Yujue Wang, Jiajia You, Zhenglian Xue, Rongzhen Zhang, Shang&#8208;Tian Yang, Xian Zhang, Zhiming Rao</author>
       <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05420</guid>
+    </item>
+    <item>
+      <title>Electrochemical Glycerol Oxidation on Rhodium Surface: Mechanistic Insights and Catalytic Activity in Alkaline Medium</title>
+      <link>https://doi.org/10.1021/acscatal.4c06781</link>
+      <description>Gabriel Melle, Antonio Rodes, Juan M. Feli&#250;, Enrique Herrero, Camilo A. Angelucci, Vin&#237;cius Del Colle, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406758935
+
+                No abstract</description>
+      <author>Gabriel Melle, Antonio Rodes, Juan M. Feli&#250;, Enrique Herrero, Camilo A. Angelucci, Vin&#237;cius Del Colle</author>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06781</guid>
+    </item>
+    <item>
+      <title>Enantioselective Remote Alkylation Enabled by Metallaphotoredox Catalysis via Selective C&#8211;C Bond Cleavage</title>
+      <link>https://doi.org/10.1021/acscatal.4c07460</link>
+      <description>Ao Yu, Ning Wang, Siyuan Tang, Zhan Jie Wang, Liang&#8208;Hua Zou, Huan&#8208;Ming Huang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406758946
+
+                No abstract</description>
+      <author>Ao Yu, Ning Wang, Siyuan Tang, Zhan Jie Wang, Liang&#8208;Hua Zou, Huan&#8208;Ming Huang</author>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07460</guid>
+    </item>
+    <item>
+      <title>Local Electric Field Modulation of Surface Vacancies Enhances CO&lt;sub&gt;2&lt;/sub&gt; Methanation in Pure Water</title>
+      <link>https://doi.org/10.1021/acscatal.4c06095</link>
+      <description>Zhehao Sun, Shuwen Cheng, Ruichun Luo, Xuechen Jing, Hang Yin, Kaili Liu, Ary Anggara Wibowo, Kang Hui Lim, Hieu T. Nguyen, Nicholas J. Cox, Gang Kevin Li, Wu Zhou, Sibudjing Kawi, Zongyou Yin, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406780887
+
+                No abstract</description>
+      <author>Zhehao Sun, Shuwen Cheng, Ruichun Luo, Xuechen Jing, Hang Yin, Kaili Liu, Ary Anggara Wibowo, Kang Hui Lim, Hieu T. Nguyen, Nicholas J. Cox, Gang Kevin Li, Wu Zhou, Sibudjing Kawi, Zongyou Yin</author>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06095</guid>
+    </item>
+    <item>
+      <title>Rational Design of Core&#8211;Shell Structured Pd@MIL-100(Fe) for Efficient Visible Light-Initiated Syntheses of Secondary Amines from Nitro Aromatics and Benzyl Alcohols</title>
+      <link>https://doi.org/10.1021/acscatal.4c06074</link>
+      <description>Liangliang Hu, Hurunqing Liu, Zhaohui Li, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406781557
+
+                No abstract</description>
+      <author>Liangliang Hu, Hurunqing Liu, Zhaohui Li</author>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06074</guid>
     </item>
   </channel>
 </rss>

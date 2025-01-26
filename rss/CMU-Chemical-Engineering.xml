@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 25 Jan 2025 01:15:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 01:21:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Logic-Based Discrete-Steepest Descent: A solution method for process synthesis Generalized Disjunctive Programs</title>
-      <link>https://doi.org/10.1016/j.compchemeng.2024.108993</link>
-      <description>Daniel Ovalle, David A. Li&#241;&#225;n, Albert Lee, Jorge M. G&#243;mez, Luis Ricardez&#8208;Sandoval, Ignacio E. Grossmann, David E. Bernal, Computers &amp; Chemical Engineering. None(None)] 2025. https://openalex.org/W4406519921
-
-                No abstract</description>
-      <author>Daniel Ovalle, David A. Li&#241;&#225;n, Albert Lee, Jorge M. G&#243;mez, Luis Ricardez&#8208;Sandoval, Ignacio E. Grossmann, David E. Bernal</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108993</guid>
-    </item>
     <item>
       <title>RTN Model for Supply Logistics of Carbon Dioxide in the Field Management for Carbon Capture and Storage</title>
       <link>https://doi.org/10.1021/acs.iecr.4c02991</link>
@@ -46,6 +36,16 @@
       <author>John R. Kitchin, Victor Alves, Carl D. Laird</author>
       <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s44286-024-00170-x</guid>
+    </item>
+    <item>
+      <title>Kinetic Model Building through Simultaneous Optimization with Spectral Data: A Silanol End-Capping Reaction Case Study</title>
+      <link>https://doi.org/10.1021/acs.iecr.4c03612</link>
+      <description>Thomas Krumpolc, Daniel W. Trahan, Xiaoyun Chen, M. Wang, Lorenz T. Biegler, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4406760229
+
+                No abstract</description>
+      <author>Thomas Krumpolc, Daniel W. Trahan, Xiaoyun Chen, M. Wang, Lorenz T. Biegler</author>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c03612</guid>
     </item>
   </channel>
 </rss>

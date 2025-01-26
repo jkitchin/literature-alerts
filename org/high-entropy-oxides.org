@@ -1,8 +1,28 @@
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Sat Jan 25 01:15:31 2025
+Created on Sun Jan 26 01:21:24 2025
 
-Found 0 results from 2025-01-18 to 2025-01-25
+Found 1 results from 2025-01-19 to 2025-01-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
 
+* Utilization of Stable and Efficient High‐Entropy (Ni0.2Zn0.2Mg0.2Cu0.2Co0.2)Al2O4 Catalyst with Polyvalent Transition Metals to Boost Peroxymonosulfate Activation toward Pollutant Degradation  :high_entropy_oxides:
+:PROPERTIES:
+:UUID: https://openalex.org/W4406767222
+:TOPICS: Advanced Photocatalysis Techniques, Electronic and Structural Properties of Oxides, TiO2 Photocatalysis and Solar Cells
+:PUBLICATION_DATE: 2025-01-23
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202410819")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4406767222"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4406767222"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4406767222"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4406767222 (Open access: True)
+    
+[[https://openalex.org/A5014306916][Xinmiao Yu]], [[https://openalex.org/A5101683295][Shifa Wang]], [[https://openalex.org/A5100320647][Yuanyuan Zhang]], [[https://openalex.org/A5100297698][YU Xian-lun]], [[https://openalex.org/A5104005319][Huajing Gao]], [[https://openalex.org/A5060844091][Hua Yang]], [[https://openalex.org/A5100724891][Leiming Fang]], [[https://openalex.org/A5100634999][Huijun Zhang]], [[https://openalex.org/A5030182037][Asad Syed]], Small. None(None)] 2025. https://doi.org/10.1002/smll.202410819  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202410819][pdf]])
+     
+Abstract A polyacrylamide gel method has been used to synthesize a variety of polyvalent‐transition‐metal‐doped Ni position of high entropy spinel oxides (Ni 0.2 Zn 0.2 Mg 0.2 Cu 0.2 Co 0.2 )Al 2 O 4 ‐800 °C (A 2 ) on the basis of NiAl 2 O 4 , and the catalytic activity of A 2 is studied under the synergistic action of peroxymonosulfate (PMS) activation and simulated sunlight. The A 2 containing polyvalent transition metals (Ni 2+ , Cu 2+ , and Co 2+ ) can effectively activate PMS and efficiently degrade levofloxacin (LEV) and tetracycline hydrochloride (TCH) under simulated sunlight irradiation. After 90 min of light exposure, the degradation percentages of LEV (50 mg L −1 ) and TCH (100 mg L −1 ) degrade by the A 2 /PMS/vis system reach 87.0% and 90.2%, respectively. The superoxide radicals, photoinduced holes, and singlet oxides dominate the catalytic process, while hydroxyl radicals and sulfate radicals play only a small role. The adsorption energy and charge density difference between different systems and PMS are calculated by density functional theory, and the activation efficiency of PMS is studied by combining with the change of the length of the O─O bond of the PMS after adsorption. The catalytic mechanism of A 2 /PMS/vis system is proposed, which provides a new idea and method for the study of high entropy oxides in the field of catalysis.    
+
+    

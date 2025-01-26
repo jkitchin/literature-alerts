@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Sat Jan 25 01:15:33 2025
+Created on Sun Jan 26 01:21:27 2025
 
-Found 4 results from 2025-01-18 to 2025-01-25
+Found 4 results from 2025-01-19 to 2025-01-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -39,13 +39,13 @@ This study establishes a performance baseline for 15 LLMs on materials science t
 
     
 
-## Composition and structure analyzer/featurizer for explainable machine-learning models to predict solid state structures   
+## Cartesian Encoding Graph Neural Network for Crystal Structures Property Prediction: Application to Thermal Ellipsoid Estimation   
 
-OpenAlex: https://openalex.org/W4406525604    
+OpenAlex: https://openalex.org/W4406780971    
 Open access: True
     
-[Emil I. Jaffal](https://openalex.org/A5114280567), [Sangjoon Lee](https://openalex.org/A5100750437), [Danila Shiryaev](https://openalex.org/A5112725205), [Alex Vtorov](https://openalex.org/A5084628527), [Nikhil K. Barua](https://openalex.org/A5065879160), [Holger Kleinke](https://openalex.org/A5067943258), [Anton O. Oliynyk](https://openalex.org/A5017376122), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00332b.
+[Andrés Solé](https://openalex.org/A5017033956), [Albert Mosella-Montoro](https://openalex.org/A5058044668), [Joan Cardona](https://openalex.org/A5003083262), [Silvia Gómez‐Coca](https://openalex.org/A5024125935), [Daniel Aravena](https://openalex.org/A5018744997), [Eliseo Ruíz](https://openalex.org/A5056424118), [Javier Ruiz‐Hidalgo](https://openalex.org/A5085613617), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00352g.
     
-Traditional and non-classical machine learning models for solid-state structure prediction have predominantly relied on compositional features (derived from properties of constituent elements) to predict the existence of structure and its...    
+In the diffraction resolution of crystal structures, the thermal ellipsoids are a critical parameter that is usually more difficult to determine than atomic positions. These ellipsoids are quantified through the...    
 
     

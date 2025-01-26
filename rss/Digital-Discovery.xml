@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 25 Jan 2025 01:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 01:21:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -38,14 +38,14 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00319e</guid>
     </item>
     <item>
-      <title>Composition and structure analyzer/featurizer for explainable machine-learning models to predict solid state structures</title>
-      <link>https://doi.org/10.1039/d4dd00332b</link>
-      <description>Emil I. Jaffal, Sangjoon Lee, Danila Shiryaev, Alex Vtorov, Nikhil K. Barua, Holger Kleinke, Anton O. Oliynyk, Digital Discovery. None(None)] 2024. https://openalex.org/W4406525604
+      <title>Cartesian Encoding Graph Neural Network for Crystal Structures Property Prediction: Application to Thermal Ellipsoid Estimation</title>
+      <link>https://doi.org/10.1039/d4dd00352g</link>
+      <description>Andr&#233;s Sol&#233;, Albert Mosella-Montoro, Joan Cardona, Silvia G&#243;mez&#8208;Coca, Daniel Aravena, Eliseo Ru&#237;z, Javier Ruiz&#8208;Hidalgo, Digital Discovery. None(None)] 2024. https://openalex.org/W4406780971
 
-                Traditional and non-classical machine learning models for solid-state structure prediction have predominantly relied on compositional features (derived from properties of constituent elements) to predict the existence of structure and its...</description>
-      <author>Emil I. Jaffal, Sangjoon Lee, Danila Shiryaev, Alex Vtorov, Nikhil K. Barua, Holger Kleinke, Anton O. Oliynyk</author>
+                In the diffraction resolution of crystal structures, the thermal ellipsoids are a critical parameter that is usually more difficult to determine than atomic positions. These ellipsoids are quantified through the...</description>
+      <author>Andr&#233;s Sol&#233;, Albert Mosella-Montoro, Joan Cardona, Silvia G&#243;mez&#8208;Coca, Daniel Aravena, Eliseo Ru&#237;z, Javier Ruiz&#8208;Hidalgo</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00332b</guid>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00352g</guid>
     </item>
   </channel>
 </rss>
