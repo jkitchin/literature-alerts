@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 27 Jan 2025 01:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 01:18:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Pyridinic&#8208;N Seized Co in Biphasic Nanoarchitecture for Reversible Oxygen Electrocatalysis Enabling Longevous (&amp;gt;1200 h) Aqueous and Dual&#8208;Anion Kosmotropic Electrolyte Stabilized High Power Quasisolid&#8208;State Zn&#8211;Air Battery</title>
-      <link>https://doi.org/10.1002/smtd.202401874</link>
-      <description>Srijib Das, Saikat Bolar, Erakulan E. Siddharthan, A. J. Pathak, Ranjit Thapa, Ujjwal Phadikar, Haradhan Kolya, Chun&#8211;Won Kang, Tapas Kuila, Naresh Chandra Murmu, Aniruddha Kundu, Small Methods. None(None)] 2025. https://openalex.org/W4406593979
-
-                Abstract Integration of different active sites by heterostructure engineering is pivotal to optimize the intrinsic activities of an oxygen electrocatalyst and much needed to enhance the performance of rechargeable Zn&#8211;air batteries (ZABs). Herein, a biphasic nanoarchitecture encased in in situ grown N&#8208;doped graphitic carbon (MnO/Co&#8208;NGC) with heterointerfacial sites are constructed. The density functional theory model reveals formation of lattice oxygen bridged heterostructure with pyridinic nitrogen atoms anchored Co species, which facilitate adsorption of oxygen intermediates. Consequently, the well&#8208;designed catalyst with accessible active sites, abundant oxygen vacant sites, and heterointerfacial coupling effects, simultaneously accelerate the electron/mass transfer and thus promotes the trifunctional electrocatalysis. The assembled aqueous ZAB delivers maximum power density of &#8776;268 mW cm &#8722;2 and a specific capacity of 797.8 mAh g zn &#8722;1 along with excellent rechargeability and extremely small voltage gap decay rate of 0.0007 V h &#8722;1 . Further, the fabricated quasisolid&#8208;state ZAB owns a remarkable power density of 163 mW cm &#8722;2 and long cycle life, outperforming the benchmark air&#8208;electrode and many recent reports, underlining its robustness and suitability for practical utilization in diverse portable applications.</description>
-      <author>Srijib Das, Saikat Bolar, Erakulan E. Siddharthan, A. J. Pathak, Ranjit Thapa, Ujjwal Phadikar, Haradhan Kolya, Chun&#8211;Won Kang, Tapas Kuila, Naresh Chandra Murmu, Aniruddha Kundu</author>
-      <pubDate>Sun, 19 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202401874</guid>
-    </item>
-    <item>
-      <title>In situ electrochemical production of solid peroxide from urine</title>
-      <link>https://doi.org/10.1038/s41929-024-01277-3</link>
-      <description>Xinjian Shi, Yue Jiang, Bailin Zeng, Zhuo-Yue Sun, Maojin Yun, Peng Lv, Yu Jia, Xiaolin Zheng, Nature Catalysis. None(None)] 2025. https://openalex.org/W4406602061
-
-                No abstract</description>
-      <author>Xinjian Shi, Yue Jiang, Bailin Zeng, Zhuo-Yue Sun, Maojin Yun, Peng Lv, Yu Jia, Xiaolin Zheng</author>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01277-3</guid>
-    </item>
     <item>
       <title>Competitive Adsorption of Small Molecule Inhibitors and Trimethylaluminum Precursors on the Cu(111) Surface during Area-Selective Atomic Layer Deposition: A GCMC Study</title>
       <link>https://doi.org/10.1021/acs.langmuir.4c04323</link>
@@ -352,7 +332,7 @@
       <link>https://doi.org/10.1021/acs.jpcc.4c07988</link>
       <description>Nan Gao, Haoran Liu, Yongqi Chen, Yurui Fang, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4406743596
 
-                No abstract</description>
+                Plasmon hybridization phenomena in metallic chain heterodimers represent a frontier in nanoscale optoelectronic research, offering insights into the quantum mechanisms that govern their behavior. Utilizing first-principles-based computational methods, we conduct a systematic study into the dimer configurations formed by Na8 and Mg8 chains, encompassing Na8 homodimer, Mg8 homodimer, and Na8Mg8 heterodimer. The study reveals that with the variation of bichain rotation angles, the plasmonic resonance modes within the dimers undergo significant hybridization, resulting in the emergence of new split peaks at the lower-energy range due to hybridization of the longitude mode and the transverse mode in the middle of the chain induced by it. At the high-energy range, the longitude multipole mode on the other chain is induced by the transverse center, and the interaction results in the splitting and appearance of hidden modes as the rotation angle increases. Both the excitation in the orthogonal direction and the electromagnetic field enhancement effects confirm the hybridization, which also provides the tenability of the plasmon resonance. This research provides a new theoretical perspective for understanding plasmonic hybridization phenomena at the nanoscale and offers important theoretical guidance for designing novel optoelectronic devices based on molecular plasmonics.</description>
       <author>Nan Gao, Haoran Liu, Yongqi Chen, Yurui Fang</author>
       <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07988</guid>
@@ -498,6 +478,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.01.301</guid>
     </item>
     <item>
+      <title>Incorporating SnSx species for electroreduction of CO2 towards formate</title>
+      <link>https://doi.org/10.1016/j.apsusc.2025.162486</link>
+      <description>Yi&#8208;Bing Yang, Xiao Yang, Shuwen Zhao, Zhipeng Liu, Yi Xiao, Lili Han, Applied Surface Science. None(None)] 2025. https://openalex.org/W4406817545
+
+                No abstract</description>
+      <author>Yi&#8208;Bing Yang, Xiao Yang, Shuwen Zhao, Zhipeng Liu, Yi Xiao, Lili Han</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162486</guid>
+    </item>
+    <item>
+      <title>Qcforever2: Advanced Automation of Quantum Chemistry Computations</title>
+      <link>https://doi.org/10.1002/jcc.70017</link>
+      <description>Masato Sumita, Kei Terayama, Shoichi Ishida, K. SUGA, Shohei Saito, Koji Tsuda, Journal of Computational Chemistry. 46(3)] 2025. https://openalex.org/W4406823375
+
+                ABSTRACT QCforever is a wrapper designed to automatically and simultaneously calculate various physical quantities using quantum chemical (QC) calculation software for blackbox optimization in chemical space. We have updated it to QCforever2 to search the conformation and optimize density functional parameters for a more accurate and reliable evaluation of an input molecule. In blackbox optimization, QCforever2 can work as compactly arranged surrogate models for costly chemical experiments. QCforever2 is the future of QC calculations and would be a good companion for chemical laboratories, providing more reliable search and exploitation in the chemical space.</description>
+      <author>Masato Sumita, Kei Terayama, Shoichi Ishida, K. SUGA, Shohei Saito, Koji Tsuda</author>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/jcc.70017</guid>
+    </item>
+    <item>
       <title>Alchemical harmonic approximation based potential for iso-electronic diatomics: Foundational baseline for &#916;-machine learning</title>
       <link>https://doi.org/10.1063/5.0241872</link>
       <description>Simon Le&#243;n Krug, Danish Khan, O. Anatole von Lilienfeld, The Journal of Chemical Physics. 162(4)] 2025. https://openalex.org/W4406706160
@@ -566,6 +566,16 @@
       <author>Kasala Prabhakar Reddy, Jeongjin Kim, Hojoon Lim, Arephin Islam, Irene Barba-Nieto, Xiao Tong, Adrian Hunt, Iradwikanari Waluyo, Jos&#233; A. Rodr&#237;guez</author>
       <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07648</guid>
+    </item>
+    <item>
+      <title>Biogenic CuO nanoparticles from Camellia sinensis and Pimpinella anisum plant extracts and their role as antimicrobial agents</title>
+      <link>https://doi.org/10.1016/j.plana.2025.100138</link>
+      <description>A. Paganotti, Carolina Cunha de Freitas, Roney H. Pereira, Vitor Gon&#231;alves Vital, Giovanna S.M. Paiva, Lucas F. de Lima, Leonardo Silva, Elizabeth Teodorov, R.A.G. Silva, Suzan Pantaroto de Vasconcellos, Amedea B. Seabra, Plant Nano Biology. 11(None)] 2025. https://openalex.org/W4406818093
+
+                No abstract</description>
+      <author>A. Paganotti, Carolina Cunha de Freitas, Roney H. Pereira, Vitor Gon&#231;alves Vital, Giovanna S.M. Paiva, Lucas F. de Lima, Leonardo Silva, Elizabeth Teodorov, R.A.G. Silva, Suzan Pantaroto de Vasconcellos, Amedea B. Seabra</author>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.plana.2025.100138</guid>
     </item>
     <item>
       <title>BIOSYNTHESIS OF &#946;-LACTAM ANTIBIOTICS</title>
