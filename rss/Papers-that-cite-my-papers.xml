@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 Jan 2025 01:18:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 01:18:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Competitive Adsorption of Small Molecule Inhibitors and Trimethylaluminum Precursors on the Cu(111) Surface during Area-Selective Atomic Layer Deposition: A GCMC Study</title>
-      <link>https://doi.org/10.1021/acs.langmuir.4c04323</link>
-      <description>Chen Li, Yichun Li, Jian Weng, Jiafeng Chen, Xiaoyong Cao, Chunlei Wei, Nan Xu, Yi He, Langmuir. None(None)] 2025. https://openalex.org/W4406605724
-
-                In area-selective atomic layer deposition (AS-ALD), small molecule inhibitors (SMIs) play a critical role in directing surface selectivity, preventing unwanted deposition on non-growth surfaces, and enabling precise thin-film formation essential for semiconductor and advanced manufacturing processes. This study utilizes grand canonical Monte Carlo (GCMC) simulations to investigate the competitive adsorption characteristics of three SMIs&#9472;aniline, 3-hexyne, and propanethiol (PT)&#9472;alongside trimethylaluminum (TMA) precursors on a Cu(111) surface. Single-component adsorption analyses reveal that aniline attains the highest coverage among the SMIs, attributed to its strong interaction with the Cu surface; however, this coverage decreases by approximately 42% in the presence of TMA, underscoring its susceptibility to competitive adsorption effects. By contrast, 3-hexyne displays minimal alteration in adsorption when it is in competition with TMA, effectively inhibiting TMA adsorption and indicating its suitability as a robust SMI for AS-ALD. PT also demonstrates moderate inhibitory capability against TMA, although it is less effective than 3-hexyne in this regard. These findings highlight the importance of intermolecular forces and adsorption energies in determining SMI effectiveness in blocking TMA on non-growth surfaces. Mechanistic insights from this study reveal the nuanced influence of specific SMI&#8211;precursor interactions, emphasizing the necessity of selecting SMIs tailored to precursor characteristics and surface interactions. This work provides essential contributions to the rational design of SMIs in AS-ALD, with implications for improving deposition precision and optimizing AS-ALD parameters in nanomanufacturing applications.</description>
-      <author>Chen Li, Yichun Li, Jian Weng, Jiafeng Chen, Xiaoyong Cao, Chunlei Wei, Nan Xu, Yi He</author>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c04323</guid>
-    </item>
-    <item>
-      <title>Efficient chromium-based transition metal nitrides catalysts for oxygen and hydrogen evolution reactions</title>
-      <link>https://doi.org/10.1016/j.rser.2025.115385</link>
-      <description>Muhammad Faizan, Humaira A. Bibi, Erum Aamir, Roheen Saeed, Sieh Kiong Tiong, Hua Song, Renewable and Sustainable Energy Reviews. 212(None)] 2025. https://openalex.org/W4406605754
-
-                No abstract</description>
-      <author>Muhammad Faizan, Humaira A. Bibi, Erum Aamir, Roheen Saeed, Sieh Kiong Tiong, Hua Song</author>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.rser.2025.115385</guid>
-    </item>
-    <item>
-      <title>De novo-design of highly exposed Co&#8722;N&#8722;C single-atom catalyst for oxygen reduction reaction</title>
-      <link>https://doi.org/10.1016/s1872-5813(24)60481-0</link>
-      <description>Dan Zhou, Haolin Zhu, Yang Zhao, Yiming Liu, Journal of Fuel Chemistry and Technology. 53(1)] 2025. https://openalex.org/W4406608127
-
-                No abstract</description>
-      <author>Dan Zhou, Haolin Zhu, Yang Zhao, Yiming Liu</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-5813(24)60481-0</guid>
-    </item>
-    <item>
-      <title>Effect of palladium core size on the activity and durability of Pt-Monolayer electrocatalysts for oxygen reduction reaction</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.162477</link>
-      <description>Jiye Choi, Eunjik Lee, Seung-min Woo, Youngjoo Whang, Yongmin Kwon, Min Ho Seo, Eunae Cho, Gu&#8208;Gon Park, Applied Surface Science. None(None)] 2025. https://openalex.org/W4406615391
-
-                No abstract</description>
-      <author>Jiye Choi, Eunjik Lee, Seung-min Woo, Youngjoo Whang, Yongmin Kwon, Min Ho Seo, Eunae Cho, Gu&#8208;Gon Park</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162477</guid>
-    </item>
-    <item>
-      <title>Hierarchical MoS&lt;sub&gt;2&lt;/sub&gt;@NiFeCo&#8208;Mo(doped)&#8208;Layered Double Hydroxide Heterostructures as Efficient Alkaline Water Splitting (Photo)Electro&#8208;catalysts</title>
-      <link>https://doi.org/10.1002/smll.202409097</link>
-      <description>Kayvan Moradi, Maysam Ashrafi, Abdollah Salimi, Marko Melander, Small. None(None)] 2025. https://openalex.org/W4406617906
-
-                Abstract Designing cost&#8208;effective electrocatalysts with fast reaction kinetics and high stability is an outstanding challenge in green hydrogen generation through overall water splitting (OWS). Layered double hydroxide (LDH) heterostructure materials are promising candidates to catalyze both oxygen evolution reaction (OER) and hydrogen evolution reaction (HER), the two OWS half&#8208;cell reactions. This work develops a facile hydrothermal route to synthesiz hierarchical heterostructure MoS 2 @NiFeCo&#8208;LDH and MoS 2 @NiFeCo&#8208;Mo(doped)&#8208;LDH electrocatalysts, which exhibit extremely good OER and HER performance as witnessed by their low IR&#8208;corrected overpotentials of 156 and 61 mV with at a current density of 10 mA cm &#8722;2 under light assistance. The MoS 2 @NiFeCo&#8208;Mo(doped)&#8208;LDH&#8208;MoS 2 @NiFeCo&#8208;LDH OWS cell achieves a low cell voltage of 1.46V at 10 mA cm &#8722;2 during light&#8208;assisted water electrolysis. Both materials exhibited exceptional stability under industrially relevant HER and OER conditions, maintaining a current density of 1 A cm &#8722;2 with minimal alterations in their potential and performance. The experimental and computational results demonstrate that doping the LDH matrix with high&#8208;valence Mo atoms and MoS 2 quantum dots improves the electrocatalytic activity by 1) enhancing electron transfer, 2) making the electrocatalyst metallic, 3) increasing the number of active sites, 4) lowering the thermodynamic overpotential, and 5) changing the OER mechanism. Overall, this work develops a facile synthesis method to design highly active and stable MoS 2 @NiFeCo&#8208;Mo(doped)&#8208;LDH heterostructure electrocatalysts.</description>
-      <author>Kayvan Moradi, Maysam Ashrafi, Abdollah Salimi, Marko Melander</author>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202409097</guid>
-    </item>
-    <item>
-      <title>Phase-tunable cobalt borides with amorphous shell toward highly efficient oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2025.236255</link>
-      <description>Yuxin Gao, Xiaowei Yang, Yuyang Zong, Lihong Bao, Ruguang Ma, Jijun Zhao, Journal of Power Sources. 631(None)] 2025. https://openalex.org/W4406618795
-
-                No abstract</description>
-      <author>Yuxin Gao, Xiaowei Yang, Yuyang Zong, Lihong Bao, Ruguang Ma, Jijun Zhao</author>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.236255</guid>
-    </item>
-    <item>
-      <title>Synergistic effect of In2+ doping in MoS2 nanosheets for rapid hydrogen production</title>
-      <link>https://doi.org/10.1016/j.mseb.2025.118032</link>
-      <description>Sanjay A. Bhakhar, G. K. Solanki, Shweta D. Dabhi, Trupti K. Gajaria, Pratik M. Pataniya, C.K. Sumesh, Materials Science and Engineering B. 314(None)] 2025. https://openalex.org/W4406629707
-
-                No abstract</description>
-      <author>Sanjay A. Bhakhar, G. K. Solanki, Shweta D. Dabhi, Trupti K. Gajaria, Pratik M. Pataniya, C.K. Sumesh</author>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mseb.2025.118032</guid>
-    </item>
-    <item>
-      <title>Effect of Nitrogen and Phosphorus Doping of Reduced Graphene Oxide in the Hydrogen Evolution Catalytic Activity of Supported Ru Nanoparticles</title>
-      <link>https://doi.org/10.1021/acsami.4c15547</link>
-      <description>Laura Mall&#243;n, Javier Navarro&#8208;Ruiz, Christian Cerezo-Navarrete, Nuria Romero, Iker Del Rosal, Jordi Garc&#237;a&#8208;Ant&#243;n, Roger Bofill, Luis M. Mart&#237;nez&#8208;Prieto, Karine Philippot, Romuald Poteau, Xavier Sala, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4406632336
-
-                Three different cathodic materials for the hydrogen evolution reaction (HER) consisting of Ru nanoparticles (NPs) supported onto a bare and two doped reduced graphene oxides (r-GO) have been studied. Ru NPs have been synthesized in situ by means of the organometallic approach in the presence of each reduced graphene support (bare (rGO), N-doped (NH2-rGO) and P-doped (P-rGO)). (HR)TEM, EDX, EA, ICP-OES, XPS, Raman and NMR techniques have been used to fully characterize the obtained rGO-supported Ru materials. These materials have been deposited onto a glassy carbon rotating disk electrode (GC-RDE) to assess their HER electrocatalytic activity at acidic pH. The results show that all three materials are stable under reductive conditions for at least 12 h, and that the heteroatom-doping of the graphene structure extremely increases the activity of the electrodes, especially for the case of Ru@P-rGO, where the overpotential at &#8722;10 mA&#183;cm&#8211;2 decreases to only 2 mV. Realistic (based on experimental compositional data) modeling of the three rGO supports combined with DFT computational analysis of the electronic and electrocatalytic properties of the hybrid nanocatalysts allows attributing the observed electrocatalytic performances to a combination of interrelated factors such as the distance of the Ru atoms to the dopped rGO support and the hydride content at the Ru NP surface.</description>
-      <author>Laura Mall&#243;n, Javier Navarro&#8208;Ruiz, Christian Cerezo-Navarrete, Nuria Romero, Iker Del Rosal, Jordi Garc&#237;a&#8208;Ant&#243;n, Roger Bofill, Luis M. Mart&#237;nez&#8208;Prieto, Karine Philippot, Romuald Poteau, Xavier Sala</author>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c15547</guid>
-    </item>
-    <item>
-      <title>Electrostatic and Electronic Effects on Doped Nickel Oxide Nanofilms for Water Oxidation</title>
-      <link>https://doi.org/10.1021/jacs.4c14493</link>
-      <description>Ina &#216;str&#248;m, Marco Favaro, Moein Seyfouri, Patrick A. Burr, Bram Hoex, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4406632531
-
-                An ideal water-splitting electrocatalyst is inexpensive, abundant, highly active, stable, selective, and durable. The anodic oxygen evolution reaction (OER) is the main bottleneck for H2 production with a complex and not fully resolved mechanism, slow kinetics, and high overpotential. Nickel oxide-based catalysts (NiOx) are highly active and cheaper than precious metal catalysts. However, rigorous catalyst tests and DFT calculations are still needed to rationally optimize NiOx catalysts. In this work, we combine plasma-enhanced atomic layer deposition (PE-ALD) and density functional theory (DFT) to address the role of dopants in promoting NiOx OER activity. Ultrathin films of NiOx doped with Zn2+, Al3+, and Sn4+ presented improved intrinsic activity, stability, and durability for the OER. The results show a low to high catalytic performance of ZnNiOx &lt; NiOx &lt; AlNiOx &lt; SnNiOx, which we attribute to an increase in the concentration of valence band (VB) holes combined with conduction band (CB) electron conductivity, characterized by electrochemical impedance spectroscopy (EIS). The influence of doping on the electronic structure and catalytic activity was investigated using advanced characterization techniques and density functional theory (DFT) calculations (PEB0/pob-TZVP). DFT complements the experimental results, showing that the dopant charge states and orbital hybridization enhance the OER by improving the charge carrier concentration and mobility, thus allowing optimal binding energies and charge dynamics and delocalization. Our findings demonstrate the potential of PE-ALD-doped nanofilms NiOx and DFT to rationally design and develop catalysts for sustainable energy applications.</description>
-      <author>Ina &#216;str&#248;m, Marco Favaro, Moein Seyfouri, Patrick A. Burr, Bram Hoex</author>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c14493</guid>
-    </item>
-    <item>
-      <title>The InP(100) Surface Phase Diagram: From the Gas Phase to the Electrochemical Environment</title>
-      <link>https://doi.org/10.1021/acsami.4c20370</link>
-      <description>Holger Euchner, Vibhav Yadav, Matthias M. May, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4406636092
-
-                The versatile optoelectronic properties of the material class of III&#8211;V semiconductors enable the highest performance in photovoltaic and photoelectrochemical solar cells. While a high level of control and understanding with respect to different surface reconstructions of these compounds in gas-phase ambient has been reached, the situation in an electrochemical environment still poses challenges. Here, we therefore have undertaken a computational study of the InP(100) surface in the presence of hydrogen and chlorine, mimicking the contact with a hydrochloric acid-containing electrolyte, aiming at an understanding of ion adsorption and dominant surface reconstructions with respect to applied potential and electrolyte concentration. For this purpose, the most stable surface terminations for hydrogen and chlorine (co)adsorption from the gas phase as well as the corresponding phase diagrams have been determined with respect to the hydrogen and chlorine chemical potential. In this context, we also introduce a quantitative type of phase diagram to highlight the stability of surface phases with respect to competing structures. Finally, by making use of the computational hydrogen electrode approach, these results were then transferred to the potential domain. We find that hydrogen (chlorine) adsorption is dominating at more (less) cathodic potentials, while coadsorption is limited to small fractions of the phase space. This allows us to determine experimentally accessible phases for which no detrimental effects, such as the creation of in-gap surface states, are to be expected.</description>
-      <author>Holger Euchner, Vibhav Yadav, Matthias M. May</author>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c20370</guid>
-    </item>
-    <item>
-      <title>All-round enhancement induced by oxophilic single Ru and W atoms for alkaline hydrogen oxidation of tiny Pt nanoparticles</title>
-      <link>https://doi.org/10.1038/s41467-025-56240-y</link>
-      <description>Wensheng Jiao, Zhanghao Ren, Zhibo Cui, Chao Ma, Ziang Shang, Guanzhen Chen, Ruihu Lu, Tao Gan, Ziyun Wang, Yu Xiong, Yunhu Han, Nature Communications. 16(1)] 2025. https://openalex.org/W4406639376
-
-                Anion exchange membrane fuel cells (AEMFCs) are one of the ideal energy conversion devices. However, platinum (Pt), as the benchmark catalyst for the hydrogen oxidation reaction (HOR) of AEMFCs anodes, still faces issues of insufficient performance and susceptibility to CO poisoning. Here, we report the Joule heating-assisted synthesis of a small sized Ru1Pt single-atom alloy catalyst loaded on nitrogen-doped carbon modified with single W atoms (s-Ru1Pt@W1/NC), in which the near-range single Ru atoms on the Ru1Pt nanoparticles and the long-range single W atoms on the support simultaneously modulate the electronic structure of the active Pt-site, enhancing alkaline HOR performance of s-Ru1Pt@W1/NC. The mass activity of s-Ru1Pt@W1/NC is 7.54 A mgPt+Ru-1 and exhibits notable stability in 1000 ppm CO/H2-saturated electrolyte. Surprisingly, it can operate stably in H2-saturated electrolyte for 1000 h with only 24.60 % decay. Theoretical calculations demonstrate that the proximal single Ru atoms and the remote single W atoms synergistically optimize the electronic structure of the active Pt-site, improving the HOR activity and CO tolerance of the catalyst. The development of anode catalysts for anion-exchange membrane fuel cells is promising but challenging in practical applications. Here, the authors report the tiny single-atom alloy nanoparticles that catalyze hydrogen oxidation reaction with very high activity, stability, and CO resistance.</description>
-      <author>Wensheng Jiao, Zhanghao Ren, Zhibo Cui, Chao Ma, Ziang Shang, Guanzhen Chen, Ruihu Lu, Tao Gan, Ziyun Wang, Yu Xiong, Yunhu Han</author>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-56240-y</guid>
-    </item>
     <item>
       <title>Hydrogen Evolution Reaction Mechanism on Pristine and Defective Nickel Phosphate Surfaces</title>
       <link>https://doi.org/10.1016/j.rsurfi.2025.100431</link>
@@ -498,6 +388,46 @@
       <guid isPermaLink="true">https://doi.org/10.1002/jcc.70017</guid>
     </item>
     <item>
+      <title>Ni-doping strategy for perovskite anodes towards high-performance ammonia-fueled SOFCs</title>
+      <link>https://doi.org/10.1016/j.jpowsour.2025.236320</link>
+      <description>Or Rahumi, Yuliy Yuferov, Louisa Meshi, Nitzan Maman, Konstantin Borodianskiy, Journal of Power Sources. 631(None)] 2025. https://openalex.org/W4406828837
+
+                No abstract</description>
+      <author>Or Rahumi, Yuliy Yuferov, Louisa Meshi, Nitzan Maman, Konstantin Borodianskiy</author>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.236320</guid>
+    </item>
+    <item>
+      <title>Structural-property relationships of phenyl-based multifunctional hybrid ligand 2D MOFs (Ni-XnY4-n, where X, Y = NH, O, S): A theoretical study</title>
+      <link>https://doi.org/10.1016/j.apsusc.2025.162541</link>
+      <description>Jingyuan Zhou, Wen Zhao, Mingxiang Zhang, A. M. Zhang, Hao Ren, Houyu Zhu, Yuhua Chi, Wenyue Guo, Applied Surface Science. None(None)] 2025. https://openalex.org/W4406829098
+
+                No abstract</description>
+      <author>Jingyuan Zhou, Wen Zhao, Mingxiang Zhang, A. M. Zhang, Hao Ren, Houyu Zhu, Yuhua Chi, Wenyue Guo</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162541</guid>
+    </item>
+    <item>
+      <title>How can phosphides catalyze CO2 reduction reaction?</title>
+      <link>https://doi.org/10.1016/j.electacta.2025.145755</link>
+      <description>Naveed Ashraf, Diego Bitzenhofer Betolaza, H&#225;lfd&#225;n Ingi Gunnarsson, Mohammad Khatibi, Atef Iqbal, Younes Abghoui, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4406829230
+
+                No abstract</description>
+      <author>Naveed Ashraf, Diego Bitzenhofer Betolaza, H&#225;lfd&#225;n Ingi Gunnarsson, Mohammad Khatibi, Atef Iqbal, Younes Abghoui</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.145755</guid>
+    </item>
+    <item>
+      <title>Nitrogen-doping-induced electron spin polarization activates scandium oxide as high-performance zinc-air battery cathode</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.01.223</link>
+      <description>Yuhui Chen, Chang Ming Li, Yiqing Chen, Ying Cheng, Xinxin Tian, Dongdong Xiao, Hsiao&#8208;Tsu Wang, Ying&#8208;Rui Lu, Linjie Zhang, Wenlie Lin, Jun Luo, Lili Han, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4406834376
+
+                No abstract</description>
+      <author>Yuhui Chen, Chang Ming Li, Yiqing Chen, Ying Cheng, Xinxin Tian, Dongdong Xiao, Hsiao&#8208;Tsu Wang, Ying&#8208;Rui Lu, Linjie Zhang, Wenlie Lin, Jun Luo, Lili Han</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.01.223</guid>
+    </item>
+    <item>
       <title>Alchemical harmonic approximation based potential for iso-electronic diatomics: Foundational baseline for &#916;-machine learning</title>
       <link>https://doi.org/10.1063/5.0241872</link>
       <description>Simon Le&#243;n Krug, Danish Khan, O. Anatole von Lilienfeld, The Journal of Chemical Physics. 162(4)] 2025. https://openalex.org/W4406706160
@@ -526,16 +456,6 @@
       <author>John R. Kitchin, Victor Alves, Carl D. Laird</author>
       <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s44286-024-00170-x</guid>
-    </item>
-    <item>
-      <title>Tuning the Optoelectronic Properties of SrVO3 via Strain and Transition-Metal Doping</title>
-      <link>https://doi.org/10.1007/s11664-025-11735-8</link>
-      <description>P. V. Manivannan, Sudatta Giri, Debolina Misra, Journal of Electronic Materials. None(None)] 2025. https://openalex.org/W4406610752
-
-                No abstract</description>
-      <author>P. V. Manivannan, Sudatta Giri, Debolina Misra</author>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11664-025-11735-8</guid>
     </item>
     <item>
       <title>Orbital Resolution of the Reconstruction of CeO&lt;sub&gt;2&lt;/sub&gt; (100) Facet&#8211;Hybrid-DFT and COHP Investigations Supported by HR-TEM Imaging</title>

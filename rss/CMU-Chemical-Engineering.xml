@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 Jan 2025 01:18:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 01:18:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>RTN Model for Supply Logistics of Carbon Dioxide in the Field Management for Carbon Capture and Storage</title>
-      <link>https://doi.org/10.1021/acs.iecr.4c02991</link>
-      <description>Joelle Guisso, Soumya Shikha, Alejandro Rodr&#237;guez&#8208;Mart&#237;nez, Anna Robert, Ignacio E. Grossmann, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4406624634
-
-                No abstract</description>
-      <author>Joelle Guisso, Soumya Shikha, Alejandro Rodr&#237;guez&#8208;Mart&#237;nez, Anna Robert, Ignacio E. Grossmann</author>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c02991</guid>
-    </item>
     <item>
       <title>Maternal milk cell components are uptaken by infant liver macrophages via extracellular vesicle mediated transport</title>
       <link>https://doi.org/10.1096/fj.202402365r</link>
