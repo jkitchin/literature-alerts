@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 29 Jan 2025 01:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 01:17:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Maternal milk cell components are uptaken by infant liver macrophages via extracellular vesicle mediated transport</title>
-      <link>https://doi.org/10.1096/fj.202402365r</link>
-      <description>Rose Doerfler, Saigopalakrishna S. Yerneni, Samuel T. LoPresti, Namit Chaudhary, Alexandra N. Newby, Jilian R. Melamed, Angela Malaney, Kathryn A. Whitehead, The FASEB Journal. 39(2)] 2025. https://openalex.org/W4406674773
-
-                Abstract Milk is a multifaceted biofluid that is essential for infant nutrition and development, yet its cellular and bioactive components, particularly maternal milk cells, remain understudied. Early research on milk cells indicated that they cross the infant's intestinal barrier and accumulate within systemic organs. However, due to the absence of modern analytical techniques, these studies were limited in scope and mechanistic analysis. To overcome this knowledge gap, we have investigated the transintestinal transport of milk cells and components in pups over a 21&#8208;day period. Studies employed a mT / mG foster nursing model in which milk cells express a membrane&#8208;bound fluorophore, tdTomato . Using flow cytometry, we tracked the transport of milk cell&#8208;derived components across local and systemic tissues, including the intestines, blood, thymus, mesenteric lymph nodes, and liver. These experiments identified milk&#8208;derived fluorescent signals in intestinal epithelial and immune cells as well as liver macrophages in 7&#8208;day&#8208;old pups. However, the minute numbers of macrophages in mouse milk suggest that maternal cells are not systemically accumulating in the infant; instead, pup macrophages are consuming milk cell membrane components, such as apoptotic bodies or extracellular vesicles ( EVs ). Ex vivo experiments using primary macrophages support this hypothesis, showing that immune cells preferentially consumed EVs over milk cells. Together, these data suggest a more complex interplay between milk cells and the infant's immune and digestive systems than previously recognized and highlight the need for future research on the role of milk cells in infant health.</description>
-      <author>Rose Doerfler, Saigopalakrishna S. Yerneni, Samuel T. LoPresti, Namit Chaudhary, Alexandra N. Newby, Jilian R. Melamed, Angela Malaney, Kathryn A. Whitehead</author>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1096/fj.202402365r</guid>
-    </item>
     <item>
       <title>Beyond the fourth paradigm of modeling in chemical engineering</title>
       <link>https://doi.org/10.1038/s44286-024-00170-x</link>
@@ -46,6 +36,16 @@
       <author>Elizabeth Voke, Mariah L. Arral, Henry Squire, Teng-Jui Lin, Roxana Coreas, Alison Lui, Anthony T. Iavarone, Rebecca L. Pinals, Kathryn A. Whitehead, Markita P. Landry</author>
       <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1101/2025.01.20.633942</guid>
+    </item>
+    <item>
+      <title>Optimization-based Process Synthesis for Sustainable Power Generation</title>
+      <link>https://doi.org/10.3303/cet1335001</link>
+      <description>Wu A, Lorenz T. Biegler, DOAJ (DOAJ: Directory of Open Access Journals). None(None)] 2013. https://openalex.org/W4406877601
+
+                No abstract</description>
+      <author>Wu A, Lorenz T. Biegler</author>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3303/cet1335001</guid>
     </item>
   </channel>
 </rss>
