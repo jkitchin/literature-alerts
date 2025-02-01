@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 31 Jan 2025 01:19:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 01:23:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Kinetic Model Building through Simultaneous Optimization with Spectral Data: A Silanol End-Capping Reaction Case Study</title>
-      <link>https://doi.org/10.1021/acs.iecr.4c03612</link>
-      <description>Thomas Krumpolc, Daniel W. Trahan, Xiaoyun Chen, M. Wang, Lorenz T. Biegler, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4406760229
-
-                No abstract</description>
-      <author>Thomas Krumpolc, Daniel W. Trahan, Xiaoyun Chen, M. Wang, Lorenz T. Biegler</author>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c03612</guid>
-    </item>
     <item>
       <title>Protein corona formed on lipid nanoparticles compromises delivery efficiency of mRNA cargo</title>
       <link>https://doi.org/10.1101/2025.01.20.633942</link>
@@ -26,6 +16,16 @@
       <author>Elizabeth Voke, Mariah L. Arral, Henry Squire, Teng-Jui Lin, Roxana Coreas, Alison Lui, Anthony T. Iavarone, Rebecca L. Pinals, Kathryn A. Whitehead, Markita P. Landry</author>
       <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1101/2025.01.20.633942</guid>
+    </item>
+    <item>
+      <title>How could emerging nanomedicine-based tuberculosis treatments outperform conventional approaches?</title>
+      <link>https://doi.org/10.1080/17435889.2025.2458447</link>
+      <description>Jiwon Kim, Khongorzul Enkhtaivan, Jangmi Yang, Tagbo H. R. Niepa, Jonghoon Choi, Nanomedicine. None(None)] 2025. https://openalex.org/W4406932408
+
+                No abstract</description>
+      <author>Jiwon Kim, Khongorzul Enkhtaivan, Jangmi Yang, Tagbo H. R. Niepa, Jonghoon Choi</author>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1080/17435889.2025.2458447</guid>
     </item>
     <item>
       <title>Optimization-based Process Synthesis for Sustainable Power Generation</title>
