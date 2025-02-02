@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 01 Feb 2025 01:23:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 01:22:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Protein corona formed on lipid nanoparticles compromises delivery efficiency of mRNA cargo</title>
-      <link>https://doi.org/10.1101/2025.01.20.633942</link>
-      <description>Elizabeth Voke, Mariah L. Arral, Henry Squire, Teng-Jui Lin, Roxana Coreas, Alison Lui, Anthony T. Iavarone, Rebecca L. Pinals, Kathryn A. Whitehead, Markita P. Landry, bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2025. https://openalex.org/W4406797180
-
-                Lipid nanoparticles (LNPs) are the most clinically advanced nonviral RNA-delivery vehicles, though challenges remain in fully understanding how LNPs interact with biological systems. In vivo, proteins form an associated corona on LNPs that redefines their physicochemical properties and influences delivery outcomes. Despite its importance, the LNP protein corona is challenging to study owing to the technical difficulty of selectively recovering soft nanoparticles from biological samples. Herein, we developed a quantitative, label-free mass spectrometry-based proteomics approach to characterize the protein corona on LNPs. Critically, this protein corona isolation workflow avoids artifacts introduced by the presence of endogenous nanoparticles in human biofluids. We applied continuous density gradient ultracentrifugation for protein-LNP complex isolation, with mass spectrometry for protein identification normalized to protein composition in the biofluid alone. With this approach, we quantify proteins consistently enriched in the LNP corona including vitronectin, C-reactive protein, and alpha-2-macroglobulin. We explore the impact of these corona proteins on cell uptake and mRNA expression in HepG2 human liver cells, and find that, surprisingly, increased levels of cell uptake do not correlate with increased mRNA expression in part likely due to protein corona-induced lysosomal trafficking of LNPs. Our results underscore the need to consider the protein corona in the design of LNP-based therapeutics.</description>
-      <author>Elizabeth Voke, Mariah L. Arral, Henry Squire, Teng-Jui Lin, Roxana Coreas, Alison Lui, Anthony T. Iavarone, Rebecca L. Pinals, Kathryn A. Whitehead, Markita P. Landry</author>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1101/2025.01.20.633942</guid>
-    </item>
     <item>
       <title>How could emerging nanomedicine-based tuberculosis treatments outperform conventional approaches?</title>
       <link>https://doi.org/10.1080/17435889.2025.2458447</link>

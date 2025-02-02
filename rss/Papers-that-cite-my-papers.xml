@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 01 Feb 2025 01:23:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 01:22:53 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Modulation of Schottky Barrier Height and Electronic Structure in Transition-Metal@Nitrogen-Doped-Carbon Core&#8211;Shell Cocatalysts Loaded with Mn&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Cd&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;S Nanorods for Enhanced Photocatalytic Hydrogen Evolution</title>
-      <link>https://doi.org/10.1021/acscatal.4c06476</link>
-      <description>Yufeng Li, Songqing Zhang, Chunmei He, Hongxia Yao, Changfa Guo, Wentao Wang, Yong Hu, ACS Catalysis. None(None)] 2025. https://openalex.org/W4406786311
-
-                No abstract</description>
-      <author>Yufeng Li, Songqing Zhang, Chunmei He, Hongxia Yao, Changfa Guo, Wentao Wang, Yong Hu</author>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06476</guid>
-    </item>
-    <item>
-      <title>Applications of density functional theory to corrosion and corrosion prevention of metals: A review</title>
-      <link>https://doi.org/10.1002/mgea.83</link>
-      <description>Dihao Chen, Wenjie Zhou, Yucheng Ji, Dihao Chen, Materials Genome Engineering Advances. None(None)] 2025. https://openalex.org/W4406786726
-
-                Abstract Recently, density functional theory (DFT) has been a powerful tool to model the corrosion behaviors of materials, provide insights into the corrosion mechanisms, predict the corrosion performance of materials, and design the corrosion&#8208;resistant alloys and organic inhibitors. DFT enables corrosion scientist to fundamentally understand the corrosion behaviors and corrosion mechanisms of materials from the perspective of atomic and electronic structures, combining with the traditional and advanced experimental tests. This review briefly summarizes the main features of DFT calculations and present a comprehensive overview of their typical applications to corrosion and corrosion prevention of metals, involving potential&#8208;pH diagrams, hydrogen evolution reaction, anodic dissolution, passivity and passivity breakdown, and organic inhibitor for metals. The paper also reviews the correlations between DFT&#8208;computed descriptors and the micro/macro physiochemical parameters of corrosion. Despite the great progress achieved by DFT, there are still some challenges in addressing corrosion issues due to the lack of bridges between the DFT&#8208;calculated electronic parameters and the macro corrosion performance of materials. The DFT modeling&#8208;experiment&#8208;engineering&#8208;theory model will be a potential method to clarify and build the links.</description>
-      <author>Dihao Chen, Wenjie Zhou, Yucheng Ji, Dihao Chen</author>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/mgea.83</guid>
-    </item>
-    <item>
-      <title>The effect of two critical operating factors on the enhanced catalytic conversion of aqueous NO3&#8211; to NH4+ by Pt-Co@NC and theoretical verification of its surface reaction mechanism</title>
-      <link>https://doi.org/10.1016/j.cej.2025.159874</link>
-      <description>Nurbek Nurlan, Jaewoo Jeong, Meiirzhan Nurmyrza, Hyungjun Kim, Hye&#8208;Young Shin, Woojin Lee, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4406788037
-
-                No abstract</description>
-      <author>Nurbek Nurlan, Jaewoo Jeong, Meiirzhan Nurmyrza, Hyungjun Kim, Hye&#8208;Young Shin, Woojin Lee</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.159874</guid>
-    </item>
-    <item>
-      <title>Investigation of the structure-activity relationship of phosphorus-doped Fe-Cu@NC catalysts: Exploring the influence of different coordination layers on oxygen reduction reaction activity</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2025.236302</link>
-      <description>Youzheng Wu, Penghui Ren, Ruopeng Li, Xun Zheng, Changning Bai, Yidi Liu, Meng Fan, Xuesong Peng, Lihui Xiao, Anmin Liu, Hao Xu, Dan Wang, Jinqiu Zhang, Maozhong An, Shizheng Wen, Yaqiang Li, Peixia Yang, Journal of Power Sources. 631(None)] 2025. https://openalex.org/W4406791942
-
-                No abstract</description>
-      <author>Youzheng Wu, Penghui Ren, Ruopeng Li, Xun Zheng, Changning Bai, Yidi Liu, Meng Fan, Xuesong Peng, Lihui Xiao, Anmin Liu, Hao Xu, Dan Wang, Jinqiu Zhang, Maozhong An, Shizheng Wen, Yaqiang Li, Peixia Yang</author>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.236302</guid>
-    </item>
-    <item>
-      <title>Expanding the frontiers of electrocatalysis: advanced theoretical methods for water splitting</title>
-      <link>https://doi.org/10.1186/s40580-024-00467-w</link>
-      <description>Seong Chan Cho, Jun Ho Seok, Hung Ngo Manh, Jae Hun Seol, Chi H. Lee, Sang Uck Lee, Nano Convergence. 12(1)] 2025. https://openalex.org/W4406793010
-
-                Abstract Electrochemical water splitting, which encompasses the hydrogen evolution reaction (HER) and the oxygen evolution reaction (OER), offers a promising route for sustainable hydrogen production. The development of efficient and cost-effective electrocatalysts is crucial for advancing this technology, especially given the reliance on expensive transition metals, such as Pt and Ir, in traditional catalysts. This review highlights recent advances in the design and optimization of electrocatalysts, focusing on density functional theory (DFT) as a key tool for understanding and improving catalytic performance in the HER and OER. We begin by exploring DFT-based approaches for evaluating catalytic activity under both acidic and alkaline conditions. The review then shifts to a material-oriented perspective, showcasing key catalyst materials and the theoretical strategies employed to enhance their performance. In addition, we discuss scaling relationships that exist between binding energies and electronic structures through the use of charge-density analysis and d -band theory. Advanced concepts, such as the effects of adsorbate coverage, solvation, and applied potential on catalytic behavior, are also discussed. We finally focus on integrating machine learning (ML) with DFT to enable high-throughput screening and accelerate the discovery of novel water-splitting catalysts. This comprehensive review underscores the pivotal role that DFT plays in advancing electrocatalyst design and highlights its potential for shaping the future of sustainable hydrogen production. Graphical Abstract</description>
-      <author>Seong Chan Cho, Jun Ho Seok, Hung Ngo Manh, Jae Hun Seol, Chi H. Lee, Sang Uck Lee</author>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1186/s40580-024-00467-w</guid>
-    </item>
-    <item>
-      <title>Automating alloy design and discovery with physics-aware multimodal multiagent AI</title>
-      <link>https://doi.org/10.1073/pnas.2414074122</link>
-      <description>Alireza Ghafarollahi, Markus J. Buehler, Proceedings of the National Academy of Sciences. 122(4)] 2025. https://openalex.org/W4406794696
-
-                The design of new alloys is a multiscale problem that requires a holistic approach that involves retrieving relevant knowledge, applying advanced computational methods, conducting experimental validations, and analyzing the results, a process that is typically slow and reserved for human experts. Machine learning can help accelerate this process, for instance, through the use of deep surrogate models that connect structural and chemical features to material properties, or vice versa. However, existing data-driven models often target specific material objectives, offering limited flexibility to integrate out-of-domain knowledge and cannot adapt to new, unforeseen challenges. Here, we overcome these limitations by leveraging the distinct capabilities of multiple AI agents that collaborate autonomously within a dynamic environment to solve complex materials design tasks. The proposed physics-aware generative AI platform, AtomAgents, synergizes the intelligence of large language models (LLMs) and the dynamic collaboration among AI agents with expertise in various domains, including knowledge retrieval, multimodal data integration, physics-based simulations, and comprehensive results analysis across modalities. The concerted effort of the multiagent system allows for addressing complex materials design problems, as demonstrated by examples that include autonomously designing metallic alloys with enhanced properties compared to their pure counterparts. Our results enable accurate prediction of key characteristics across alloys and highlight the crucial role of solid solution alloying to steer the development of advanced metallic alloys. Our framework enhances the efficiency of complex multiobjective design tasks and opens avenues in fields such as biomedical materials engineering, renewable energy, and environmental sustainability.</description>
-      <author>Alireza Ghafarollahi, Markus J. Buehler</author>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2414074122</guid>
-    </item>
-    <item>
-      <title>Pt-MoO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Hybrid Electrocatalysts Modulating Local Environment for Enhanced Activity toward Hydrogen Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acsmaterialslett.4c02409</link>
-      <description>Jueun Koh, Sohee Kim, Gyeonghye Yim, Ji&#8211;Hun Yu, Jaehwan Kim, Sang Hoon Joo, Hongje Jang, Young Jin, ACS Materials Letters. None(None)] 2025. https://openalex.org/W4406795838
-
-                No abstract</description>
-      <author>Jueun Koh, Sohee Kim, Gyeonghye Yim, Ji&#8211;Hun Yu, Jaehwan Kim, Sang Hoon Joo, Hongje Jang, Young Jin</author>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c02409</guid>
-    </item>
-    <item>
-      <title>Electrolyte effects on reaction kinetics in electrochemical CO2 reduction: The roles of pH, cations, and anions</title>
-      <link>https://doi.org/10.1063/5.0242304</link>
-      <description>Wei Chen, Xinjuan Du, Shuaikang Tao, Bo Lin, Ionu&#355; Tranca, Frederik Tielens, Ming Ma, Zhaochun Liu, Chemical Physics Reviews. 6(1)] 2025. https://openalex.org/W4406800318
-
-                The electrochemical reduction of CO2 (CO2RR) holds significant potential for converting CO2 into value-added fuels and chemicals under mild reaction conditions. The kinetics of CO2RR is strongly influenced by both the electrocatalysts and the local environment at the electrode/electrolyte interface. While considerable research has focused on elucidating the &#8220;structure-activity&#8221; relationships of electrocatalysts, a fundamental understanding of the role of electrolyte-related factors (such as the ionic species) near the electrode/electrolyte interface is highly important for the further enhancement in the catalytic performance of CO2RR. In this review, we discuss the effects of pH, cations, and anions in the vicinity of the catalyst, using CO2RR as a model reaction. The mechanistic understanding of these effects is also analyzed via experimental findings from in situ spectroscopic techniques and theoretical insights from density functional theory simulations. This review underscores the importance of understanding the various interactions of electrolytes with catalyst surfaces or intermediates and their impact on reaction kinetics of CO2RR.</description>
-      <author>Wei Chen, Xinjuan Du, Shuaikang Tao, Bo Lin, Ionu&#355; Tranca, Frederik Tielens, Ming Ma, Zhaochun Liu</author>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0242304</guid>
-    </item>
-    <item>
-      <title>Ni-Fe dual-atom anchored g-C3N5 for photocatalytic overall water splitting: Fe-driven Ni-N dual sites synergy</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.01.301</link>
-      <description>Tao Ma, Xin Wang, Jiehang Wei, Hongqiang Xia, Ying-Tao Liu, International Journal of Hydrogen Energy. 105(None)] 2025. https://openalex.org/W4406804136
-
-                No abstract</description>
-      <author>Tao Ma, Xin Wang, Jiehang Wei, Hongqiang Xia, Ying-Tao Liu</author>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.01.301</guid>
-    </item>
     <item>
       <title>Incorporating SnSx species for electroreduction of CO2 towards formate</title>
       <link>https://doi.org/10.1016/j.apsusc.2025.162486</link>
@@ -418,6 +328,66 @@
       <guid isPermaLink="true">https://doi.org/10.1063/5.0240565</guid>
     </item>
     <item>
+      <title>Composition-Dependent Voltage-Driven OFF-ON Switching of Ferromagnetism in Co&#8211;Ni Oxide Microdisks</title>
+      <link>https://doi.org/10.1021/acsami.4c15739</link>
+      <description>Aitor Arredondo-L&#243;pez, Konrad Eiler, Alberto Quintana, Gemma Rius, Irena Spasojevi&#263;, Asier Salicio, Aliona Nicolenco, Maria Lekka, Eva Garc&#237;a&#8208;Lecina, Guillaume Brunin, David Waroquiers, Gian-Marco Rigagnese, Eva Pellicer, Enric Men&#233;ndez, Jordi Sort, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4406978894
+
+                Magneto-ionics, which refers to the modification of the magnetic properties of materials through electric-field-induced ion migration, is emerging as one of the most promising methods to develop nonvolatile energy-efficient memory and spintronic and magnetoelectric devices. Herein, the controlled generation of ferromagnetism from paramagnetic Co&#8211;Ni oxide patterned microdisks (prepared upon thermal oxidation of metallic microdisks with dissimilar Co&#8211;Ni ratios, i.e., Ni25Co75 and Ni50Co50) is demonstrated under the action of voltage. The effect is related to the partial reduction of the oxide phases to their metallic forms. Samples richer in Co show stronger magneto-ionic activity, which manifests in lower-onset threshold voltages, faster switching rates, and larger values of the attained saturation magnetization. By means of scanning electron microscopy, a cobalt segregation phenomenon has been experimentally observed upon thermal oxidation, which has been theoretically discussed from the diffusivities' viewpoint. X-ray diffraction characterization has revealed transitions between purely mixed Ni and Co oxides, in the OFF state, to a mixture of oxide and metallic phases, in the ON state, because of the oxygen ion motion outward/inward the Co&#8211;Ni oxide microdisks, depending on the voltage polarity. Ab initio calculations reveal that the energy barrier for oxygen vacancy migration is lower in CoO than in NiO, in agreement with the obtained magneto-ionic responses. The observation of magneto-ionic effects in patterned disks (and not only in archetypical continuous films) is a step further for the practical utilization of this phenomenon in real miniaturized devices.</description>
+      <author>Aitor Arredondo-L&#243;pez, Konrad Eiler, Alberto Quintana, Gemma Rius, Irena Spasojevi&#263;, Asier Salicio, Aliona Nicolenco, Maria Lekka, Eva Garc&#237;a&#8208;Lecina, Guillaume Brunin, David Waroquiers, Gian-Marco Rigagnese, Eva Pellicer, Enric Men&#233;ndez, Jordi Sort</author>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c15739</guid>
+    </item>
+    <item>
+      <title>Recent developments in modeling the electric double layer with density functional theory</title>
+      <link>https://doi.org/10.1016/j.coelec.2025.101654</link>
+      <description>Mikael Maraschin, M. Askari, Veena S. Chauhan, Luis H.Z. Feistel, Samuel Olusegun, Jessica Ortega&#8208;Ramos, Joseph A. Gauthier, Current Opinion in Electrochemistry. None(None)] 2025. https://openalex.org/W4406998173
+
+                No abstract</description>
+      <author>Mikael Maraschin, M. Askari, Veena S. Chauhan, Luis H.Z. Feistel, Samuel Olusegun, Jessica Ortega&#8208;Ramos, Joseph A. Gauthier</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2025.101654</guid>
+    </item>
+    <item>
+      <title>High-efficient OER/ORR bifunctional electrocatalyst based on single transition-metal anchored Graphynes: Key descriptors under acceptance-backdonation mechanism framework</title>
+      <link>https://doi.org/10.1016/j.apsusc.2025.162482</link>
+      <description>Rui Wang, Wei&#8208;Fang Su, Zhenye Kang, Shiying Guo, Jing Pan, Applied Surface Science. None(None)] 2025. https://openalex.org/W4407000936
+
+                No abstract</description>
+      <author>Rui Wang, Wei&#8208;Fang Su, Zhenye Kang, Shiying Guo, Jing Pan</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162482</guid>
+    </item>
+    <item>
+      <title>Synergy of Pyridinic&#8208;N and Co Single Atom Sites for Enhanced Oxygen Redox Reactions in High&#8208;Performance Zinc&#8208;Air Batteries</title>
+      <link>https://doi.org/10.1002/smll.202411574</link>
+      <description>Saeed Askari, Swarit Dwivedi, Masood S. Alivand, Kang Hui Lim, Parisa Biniaz, Ali Zavabeti, S. Kawi, Matthew R. Hill, Adri C. T. van Duin, Akshat Tanksale, Mainak Majumder, Parama Chakraborty Banerjee, Small. None(None)] 2025. https://openalex.org/W4407001471
+
+                Abstract Cobalt single&#8208;atom catalysts (SACs) have the potential to act as bi&#8208;functional electrocatalysts for the oxygen&#8208;redox reactions in metal&#8208;air batteries. However, achieving both high performance and stability in these SACs has been challenging. Here, a novel and facile synthesis method is used to create cobalt&#8208;doped&#8208;nitrogen&#8208;carbon structures (Co&#8208;N&#8208;C) containing cobalt&#8208;SACs by carbonizing a modified ZIF&#8208;11. HAADF&#8208;STEM images and EXAFS spectra confirmed that the structure with the lowest cobalt concentration contains single cobalt atoms coordinated with four nitrogen atoms (Co&#8208;N&#8324;). Electrochemical tests showed that this electrocatalyst performed exceptionally well in both oxygen reduction reaction (ORR) (E1/2 &#8776; 0.859 V) and oxygen evolution reaction (OER) (Ej = 10: 1.544 V), with excellent stability. When used as a bi&#8208;functional electrocatalyst in the air cathode of a rechargeable zinc&#8208;air battery (ZAB), a peak power density of 178.6.1 mW cm &#8722;2 , a specific capacity of 799 mA h g Zn &#8722;1 and a cycle&#8208;life of 1580 is achieved. Density functional theory (DFT) calculations revealed that the concentration and the position of the pyridinic nitrogen with Co play a critical role in determining the overpotential of this electrocatalyst for oxygen&#8208;redox reactions. The unprecedented performance of this electrocatalyst can bring paradigm changes in the practical realization and application of metal&#8208;air batteries.</description>
+      <author>Saeed Askari, Swarit Dwivedi, Masood S. Alivand, Kang Hui Lim, Parisa Biniaz, Ali Zavabeti, S. Kawi, Matthew R. Hill, Adri C. T. van Duin, Akshat Tanksale, Mainak Majumder, Parama Chakraborty Banerjee</author>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202411574</guid>
+    </item>
+    <item>
+      <title>Atomic Adsorption Energies Prediction on Bimetallic Transition Metal Surfaces Using an Interpretable Machine Learning&#8208;Accelerated Density Functional Theory Approach</title>
+      <link>https://doi.org/10.1002/open.202400124</link>
+      <description>Jan Goran T. Tomacruz, Michael T. Castro, Miguel Francisco M. Remolona, Allan Abraham B. Padama, Joey D. Ocon, ChemistryOpen. None(None)] 2025. https://openalex.org/W4407008384
+
+                Abstract In this study, we identified features with the largest contributions and property trends in predicting the adsorption energies of carbon, hydrogen, and oxygen adsorbates on transition metal (TM) surfaces by performing Density Functional Theory (DFT)&#8208;based calculations and Machine Learning (ML) regression models. From 26 monometallic and 400 bimetallic fcc(111) TM surfaces obtained from Catalysis&#8208;hub.org, three datasets consisting of fourteen elemental, electronic, and structural properties were generated using DFT calculations, site calculations, and online databases. The number of features was reduced using feature selection and then finely&#8208;tuned random forest regression (RFR), gaussian process regression (GPR), and artificial neural network (ANN) algorithms were implemented for adsorption energy prediction. Finally, model&#8208;agnostic interpretation methods such as permutation feature importance (PFI) and shapely additive explanations (SHAP) provided rankings of feature contributions and directional trends. For all datasets, RFR and GPR demonstrated the highest prediction accuracies. In addition, interpretation methods demonstrated that the largest contributing features and directional trends in the regression models were consistent with structure&#8208;property&#8208;performance relationships of TMs like the d&#8208;band model, the Friedel model, and higher&#8208;fold adsorption sites. Overall, this interpretable ML&#8211;DFT approach can be applied to TMs and their derivatives for atomic adsorption energy prediction and model explainability.</description>
+      <author>Jan Goran T. Tomacruz, Michael T. Castro, Miguel Francisco M. Remolona, Allan Abraham B. Padama, Joey D. Ocon</author>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/open.202400124</guid>
+    </item>
+    <item>
+      <title>Optimizing cooperative adsorption by strain engineering to improve the oxygen reduction activity of &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi&gt;Sr&lt;/mml:mi&gt;&lt;mml:mi&gt;Mn&lt;/mml:mi&gt;&lt;mml:mi mathvariant="normal"&gt;O&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mn&gt;3&lt;/mml:mn&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt;</title>
+      <link>https://doi.org/10.1103/physrevapplied.23.014080</link>
+      <description>Xilin Zhang, Y. C. Zhai, Chunning Zhao, Weichao Wang, Qingfang Chang, Zongxian Yang, Physical Review Applied. 23(1)] 2025. https://openalex.org/W4407009459
+
+                No abstract</description>
+      <author>Xilin Zhang, Y. C. Zhai, Chunning Zhao, Weichao Wang, Qingfang Chang, Zongxian Yang</author>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevapplied.23.014080</guid>
+    </item>
+    <item>
       <title>FINANCIAL, ECONOMIC AND ORGANIZATIONAL MECHANISMS FOR ENSURING THE IMPLEMENTATION OF INNOVATIVE TECHNOLOGIES FOR REDUCING CARBON EMISSIONS IN THE CONTEXT OF STRENGTHENING NATIONAL DEFENSE</title>
       <link>https://doi.org/10.37701/ts.05.2024.11</link>
       <description>Olena Lapko, O. B. &#1042;&#1072;&#1089;&#1102;&#1088;&#1077;&#1085;&#1082;&#1086;, H. V. Kramarev, O.O Akulshin, N. Pantielieieva, &#1042;&#1080;&#1087;&#1088;&#1086;&#1073;&#1091;&#1074;&#1072;&#1085;&#1085;&#1103; &#1090;&#1072; &#1089;&#1077;&#1088;&#1090;&#1080;&#1092;&#1110;&#1082;&#1072;&#1094;&#1110;&#1103;. None(3(5))] 2024. https://openalex.org/W4406854459
@@ -468,34 +438,14 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsestengg.4c00631</guid>
     </item>
     <item>
-      <title>Artificial intelligence interventions in 2D MXenes-based photocatalytic applications</title>
-      <link>https://doi.org/10.1016/j.ccr.2025.216460</link>
-      <description>Durga Madhab Mahapatra, Ashish Kumar, Rajesh Kumar, Navneet Kumar Gupta, Baranitharan Ethiraj, Lakhveer Singh, Coordination Chemistry Reviews. 529(None)] 2025. https://openalex.org/W4406789185
+      <title>Surface Structure Effects on H and O Adsorption on Gold, Nickel and Platinum Nanoparticles</title>
+      <link>https://doi.org/10.3390/ma18030631</link>
+      <description>N. V. Dokhlikova, &#1040;. &#1050;. &#1043;&#1072;&#1090;&#1080;&#1085;, S. Yu. Sarvadii, Dinara Tastaibek, V. G. Slutskii, M. V. Grishin, Materials. 18(3)] 2025. https://openalex.org/W4406984734
 
-                No abstract</description>
-      <author>Durga Madhab Mahapatra, Ashish Kumar, Rajesh Kumar, Navneet Kumar Gupta, Baranitharan Ethiraj, Lakhveer Singh</author>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2025.216460</guid>
-    </item>
-    <item>
-      <title>Fine-tuning of imidazole-based ionic liquid for highly efficient and reversible direct air capture via hydrogen bonding interaction</title>
-      <link>https://doi.org/10.1016/j.seppur.2025.131790</link>
-      <description>Kaili Wang, Jiayi Bai, Zhenyu Zhao, Zhaowei Zhang, Weiqi Mao, Lili Jiang, Haoran Li, Congmin Wang, Separation and Purification Technology. None(None)] 2025. https://openalex.org/W4406792619
-
-                No abstract</description>
-      <author>Kaili Wang, Jiayi Bai, Zhenyu Zhao, Zhaowei Zhang, Weiqi Mao, Lili Jiang, Haoran Li, Congmin Wang</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2025.131790</guid>
-    </item>
-    <item>
-      <title>The Surface Chemistry of Methanol on Cu&lt;sub&gt;3&lt;/sub&gt;Pd(111): Effects of Metal Alloying and Reaction with Hydrogen</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c07648</link>
-      <description>Kasala Prabhakar Reddy, Jeongjin Kim, Hojoon Lim, Arephin Islam, Irene Barba-Nieto, Xiao Tong, Adrian Hunt, Iradwikanari Waluyo, Jos&#233; A. Rodr&#237;guez, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4406792959
-
-                No abstract</description>
-      <author>Kasala Prabhakar Reddy, Jeongjin Kim, Hojoon Lim, Arephin Islam, Irene Barba-Nieto, Xiao Tong, Adrian Hunt, Iradwikanari Waluyo, Jos&#233; A. Rodr&#237;guez</author>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07648</guid>
+                Using quantum chemical modelling, in this work, we considered the structure effects determining the adsorption of H and O atoms on (111), (100), (110) and (211) surfaces of gold, nickel and platinum nanoparticles. Surface deformation enhanced the adatom bonding to active sites with a large coordination number on flat (111) and (100) surfaces, while no distinct tendency was observed on kinked (110) and (211) surfaces. The effect of the neighboring atoms depends on the coupling matrix element Vad2. For metals with a considerable matrix element, the adsorption energy decreases with the rise in coordination number, and vice versa.</description>
+      <author>N. V. Dokhlikova, &#1040;. &#1050;. &#1043;&#1072;&#1090;&#1080;&#1085;, S. Yu. Sarvadii, Dinara Tastaibek, V. G. Slutskii, M. V. Grishin</author>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/ma18030631</guid>
     </item>
     <item>
       <title>Biogenic CuO nanoparticles from Camellia sinensis and Pimpinella anisum plant extracts and their role as antimicrobial agents</title>
