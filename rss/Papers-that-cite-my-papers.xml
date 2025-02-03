@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Feb 2025 01:22:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 01:20:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Incorporating SnSx species for electroreduction of CO2 towards formate</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.162486</link>
-      <description>Yi&#8208;Bing Yang, Xiao Yang, Shuwen Zhao, Zhipeng Liu, Yi Xiao, Lili Han, Applied Surface Science. None(None)] 2025. https://openalex.org/W4406817545
-
-                No abstract</description>
-      <author>Yi&#8208;Bing Yang, Xiao Yang, Shuwen Zhao, Zhipeng Liu, Yi Xiao, Lili Han</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162486</guid>
-    </item>
-    <item>
-      <title>Qcforever2: Advanced Automation of Quantum Chemistry Computations</title>
-      <link>https://doi.org/10.1002/jcc.70017</link>
-      <description>Masato Sumita, Kei Terayama, Shoichi Ishida, K. SUGA, Shohei Saito, Koji Tsuda, Journal of Computational Chemistry. 46(3)] 2025. https://openalex.org/W4406823375
-
-                ABSTRACT QCforever is a wrapper designed to automatically and simultaneously calculate various physical quantities using quantum chemical (QC) calculation software for blackbox optimization in chemical space. We have updated it to QCforever2 to search the conformation and optimize density functional parameters for a more accurate and reliable evaluation of an input molecule. In blackbox optimization, QCforever2 can work as compactly arranged surrogate models for costly chemical experiments. QCforever2 is the future of QC calculations and would be a good companion for chemical laboratories, providing more reliable search and exploitation in the chemical space.</description>
-      <author>Masato Sumita, Kei Terayama, Shoichi Ishida, K. SUGA, Shohei Saito, Koji Tsuda</author>
-      <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/jcc.70017</guid>
-    </item>
     <item>
       <title>Ni-doping strategy for perovskite anodes towards high-performance ammonia-fueled SOFCs</title>
       <link>https://doi.org/10.1016/j.jpowsour.2025.236320</link>
@@ -388,6 +368,96 @@
       <guid isPermaLink="true">https://doi.org/10.1103/physrevapplied.23.014080</guid>
     </item>
     <item>
+      <title>Synergistic Coupling of Ni-Oxalate Prism and Layered Feooh for Oxygen Evolution Reaction in Anion Exchange Membrane Water Electrolysis</title>
+      <link>https://doi.org/10.2139/ssrn.5119480</link>
+      <description>Sukhwa Hong, Jiseon Kim, Soonho Kwon, Kahyun Ham, Hongjun Long, William A. Goddard, Kangwoo Cho, Paul J. A. Kenis, No host. None(None)] 2025. https://openalex.org/W4407020794
+
+                No abstract</description>
+      <author>Sukhwa Hong, Jiseon Kim, Soonho Kwon, Kahyun Ham, Hongjun Long, William A. Goddard, Kangwoo Cho, Paul J. A. Kenis</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5119480</guid>
+    </item>
+    <item>
+      <title>Enhancement of Activities on Multimetal Oxide-type Electrocatalysts for Water Electrolysis Based on Their Crystal Structures</title>
+      <link>https://doi.org/10.2320/materia.64.73</link>
+      <description>Yuuki Sugawara, Materia Japan. 64(2)] 2025. https://openalex.org/W4407022081
+
+                No abstract</description>
+      <author>Yuuki Sugawara</author>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2320/materia.64.73</guid>
+    </item>
+    <item>
+      <title>Constructing dual active sites modified crystalline carbon nitride with diminished excitation binding energy for overall photosynthesis of H2O2</title>
+      <link>https://doi.org/10.1016/j.cej.2025.160091</link>
+      <description>Lei Zeng, Chuang&#8208;Dao Jiang, Yueyang Tan, Wei Yang, Qiushi Hu, Xihan Chen, Yabin Jiang, Yang&#8208;Gang Wang, Wulin Song, Limin Huang, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4407024094
+
+                No abstract</description>
+      <author>Lei Zeng, Chuang&#8208;Dao Jiang, Yueyang Tan, Wei Yang, Qiushi Hu, Xihan Chen, Yabin Jiang, Yang&#8208;Gang Wang, Wulin Song, Limin Huang</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.160091</guid>
+    </item>
+    <item>
+      <title>Theoretical screening of single-metal atom deposited on 2D BC3N2 monolayers for NO electrocatalytic reduction to NH3</title>
+      <link>https://doi.org/10.1016/j.apsusc.2025.162605</link>
+      <description>Wenlong Guo, Xinlin Tang, Haiyue Liao, Peng Jia, Xin Lian, Applied Surface Science. None(None)] 2025. https://openalex.org/W4407024294
+
+                No abstract</description>
+      <author>Wenlong Guo, Xinlin Tang, Haiyue Liao, Peng Jia, Xin Lian</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162605</guid>
+    </item>
+    <item>
+      <title>Study of methyl phosphate by molecular dynamics simulations based on first principles and on machine-learning force fields</title>
+      <link>https://doi.org/10.1016/j.molliq.2025.127062</link>
+      <description>Vincenzo Turco Liveri, Sandro L. Fornili, Journal of Molecular Liquids. None(None)] 2025. https://openalex.org/W4407027041
+
+                No abstract</description>
+      <author>Vincenzo Turco Liveri, Sandro L. Fornili</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.molliq.2025.127062</guid>
+    </item>
+    <item>
+      <title>Multi-orbital engineering of single-atom catalysts: unlocking high-efficiency nitrate reduction</title>
+      <link>https://doi.org/10.1039/d4ta08757g</link>
+      <description>Chun&#8208;Ying Wu, Yanqing Shen, Lingling Lv, Xianghui Meng, Xin Yang, Xinyu Wang, Xiangqian Jiang, Qing Ai, Yong Shuai, Zhongxiang Zhou, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4407040968
+
+                The crucial role of heteroatom doping-induced coordination symmetry breaking in SACs is reported and provides vital insights into the impact of coordination microenvironments on electrocatalytic mechanisms and the rational design of NO 3 RR catalysts.</description>
+      <author>Chun&#8208;Ying Wu, Yanqing Shen, Lingling Lv, Xianghui Meng, Xin Yang, Xinyu Wang, Xiangqian Jiang, Qing Ai, Yong Shuai, Zhongxiang Zhou</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta08757g</guid>
+    </item>
+    <item>
+      <title>Progress in Experimental Methods Using Model Electrodes for the Development of Noble&#8208;Metal&#8208;Based Oxygen Electrocatalysts in Fuel Cells and Water Electrolyzers</title>
+      <link>https://doi.org/10.1002/smtd.202401851</link>
+      <description>Kensaku Kodama, Naoto Todoroki, Small Methods. None(None)] 2025. https://openalex.org/W4407049795
+
+                Abstract Hydrogen plays a key role in maximizing the benefits of renewable energy, and the widespread adoption of water electrolyzers and fuel cells, which convert the chemical energy of hydrogen and electrical energy into each other, is strongly desired. Electrocatalysts used in these devices, typically in the form of nanoparticles, are crucial components because they significantly affect cell performance, but their raw materials rely on limited resources. In catalyst research, electrochemical experimental studies using model catalysts, such as single&#8208;crystal electrodes, have provided valuable information on reaction and degradation mechanisms, as well as catalyst development strategies aimed at overcoming the trade&#8208;off between activity and durability, across spatial scales ranging from the atomic to the nanoscale. Traditionally, these experiments are conducted using well&#8208;defined, simple model surfaces like bare single&#8208;crystal electrodes in pure systems. However, in recent years, experimental methods using more complex interfaces&#8212;while still precisely controlling elemental distribution, microstructure, and modification patterns&#8212;have been established. This paper reviews the history of those studies focusing on noble&#8208;metal&#8208;based electrocatalysts for oxygen reduction reactions and oxygen evolution reactions, which account for the majority of efficiency losses in fuel cells and water electrolyzers, respectively. Furthermore, potential future research themes in experimental studies using model electrodes are identified.</description>
+      <author>Kensaku Kodama, Naoto Todoroki</author>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202401851</guid>
+    </item>
+    <item>
+      <title>First-principles and machine-learning approaches for interpreting and predicting the properties of MXenes</title>
+      <link>https://doi.org/10.1038/s41699-025-00529-5</link>
+      <description>Jos&#233; D. Gouveia, Tiago L. P. Galv&#227;o, Kais Iben Nassar, Jos&#233; R. B. Gomes, npj 2D Materials and Applications. 9(1)] 2025. https://openalex.org/W4407052268
+
+                No abstract</description>
+      <author>Jos&#233; D. Gouveia, Tiago L. P. Galv&#227;o, Kais Iben Nassar, Jos&#233; R. B. Gomes</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41699-025-00529-5</guid>
+    </item>
+    <item>
+      <title>Air-breathing cathode for aluminum&#8211;air battery: From architecture to fabrication and evaluation</title>
+      <link>https://doi.org/10.1016/j.mser.2025.100942</link>
+      <description>Yejian Xue, Jiashu Yuan, Xinfeng Yu, Shanshan Sun, Houcheng Zhang, Wei Zhou, Jiujun Zhang, Yonggao Xia, Materials Science and Engineering R Reports. 163(None)] 2025. https://openalex.org/W4407052888
+
+                No abstract</description>
+      <author>Yejian Xue, Jiashu Yuan, Xinfeng Yu, Shanshan Sun, Houcheng Zhang, Wei Zhou, Jiujun Zhang, Yonggao Xia</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mser.2025.100942</guid>
+    </item>
+    <item>
       <title>FINANCIAL, ECONOMIC AND ORGANIZATIONAL MECHANISMS FOR ENSURING THE IMPLEMENTATION OF INNOVATIVE TECHNOLOGIES FOR REDUCING CARBON EMISSIONS IN THE CONTEXT OF STRENGTHENING NATIONAL DEFENSE</title>
       <link>https://doi.org/10.37701/ts.05.2024.11</link>
       <description>Olena Lapko, O. B. &#1042;&#1072;&#1089;&#1102;&#1088;&#1077;&#1085;&#1082;&#1086;, H. V. Kramarev, O.O Akulshin, N. Pantielieieva, &#1042;&#1080;&#1087;&#1088;&#1086;&#1073;&#1091;&#1074;&#1072;&#1085;&#1085;&#1103; &#1090;&#1072; &#1089;&#1077;&#1088;&#1090;&#1080;&#1092;&#1110;&#1082;&#1072;&#1094;&#1110;&#1103;. None(3(5))] 2024. https://openalex.org/W4406854459
@@ -446,16 +516,6 @@
       <author>N. V. Dokhlikova, &#1040;. &#1050;. &#1043;&#1072;&#1090;&#1080;&#1085;, S. Yu. Sarvadii, Dinara Tastaibek, V. G. Slutskii, M. V. Grishin</author>
       <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/ma18030631</guid>
-    </item>
-    <item>
-      <title>Biogenic CuO nanoparticles from Camellia sinensis and Pimpinella anisum plant extracts and their role as antimicrobial agents</title>
-      <link>https://doi.org/10.1016/j.plana.2025.100138</link>
-      <description>A. Paganotti, Carolina Cunha de Freitas, Roney H. Pereira, Vitor Gon&#231;alves Vital, Giovanna S.M. Paiva, Lucas F. de Lima, Leonardo Silva, Elizabeth Teodorov, R.A.G. Silva, Suzan Pantaroto de Vasconcellos, Amedea B. Seabra, Plant Nano Biology. 11(None)] 2025. https://openalex.org/W4406818093
-
-                No abstract</description>
-      <author>A. Paganotti, Carolina Cunha de Freitas, Roney H. Pereira, Vitor Gon&#231;alves Vital, Giovanna S.M. Paiva, Lucas F. de Lima, Leonardo Silva, Elizabeth Teodorov, R.A.G. Silva, Suzan Pantaroto de Vasconcellos, Amedea B. Seabra</author>
-      <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.plana.2025.100138</guid>
     </item>
   </channel>
 </rss>

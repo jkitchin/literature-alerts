@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Feb 2025 01:22:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 01:19:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Jiwon Kim, Khongorzul Enkhtaivan, Jangmi Yang, Tagbo H. R. Niepa, Jonghoon Choi</author>
       <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1080/17435889.2025.2458447</guid>
+    </item>
+    <item>
+      <title>Lipid Nanoparticle Delivery System for Normalization of Tumor Microenvironment and Tumor Vascular Structure</title>
+      <link>https://doi.org/10.34133/bmr.0144</link>
+      <description>Hee-Jin Ha, Yonghyun Choi, Na-Hyeon Kim, Jiwon Kim, Jaehee Jang, Tagbo H. R. Niepa, Masayoshi Tanaka, Heeyoung Lee, Jonghoon Choi, Biomaterials Research. None(None)] 2025. https://openalex.org/W4407034921
+
+                No abstract</description>
+      <author>Hee-Jin Ha, Yonghyun Choi, Na-Hyeon Kim, Jiwon Kim, Jaehee Jang, Tagbo H. R. Niepa, Masayoshi Tanaka, Heeyoung Lee, Jonghoon Choi</author>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.34133/bmr.0144</guid>
     </item>
     <item>
       <title>Optimization-based Process Synthesis for Sustainable Power Generation</title>
