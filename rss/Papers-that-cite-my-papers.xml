@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Feb 2025 01:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 01:19:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ni-doping strategy for perovskite anodes towards high-performance ammonia-fueled SOFCs</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2025.236320</link>
-      <description>Or Rahumi, Yuliy Yuferov, Louisa Meshi, Nitzan Maman, Konstantin Borodianskiy, Journal of Power Sources. 631(None)] 2025. https://openalex.org/W4406828837
-
-                No abstract</description>
-      <author>Or Rahumi, Yuliy Yuferov, Louisa Meshi, Nitzan Maman, Konstantin Borodianskiy</author>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.236320</guid>
-    </item>
-    <item>
-      <title>Structural-property relationships of phenyl-based multifunctional hybrid ligand 2D MOFs (Ni-XnY4-n, where X, Y = NH, O, S): A theoretical study</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.162541</link>
-      <description>Jingyuan Zhou, Wen Zhao, Mingxiang Zhang, A. M. Zhang, Hao Ren, Houyu Zhu, Yuhua Chi, Wenyue Guo, Applied Surface Science. None(None)] 2025. https://openalex.org/W4406829098
-
-                No abstract</description>
-      <author>Jingyuan Zhou, Wen Zhao, Mingxiang Zhang, A. M. Zhang, Hao Ren, Houyu Zhu, Yuhua Chi, Wenyue Guo</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162541</guid>
-    </item>
-    <item>
-      <title>How can phosphides catalyze CO2 reduction reaction?</title>
-      <link>https://doi.org/10.1016/j.electacta.2025.145755</link>
-      <description>Naveed Ashraf, Diego Bitzenhofer Betolaza, H&#225;lfd&#225;n Ingi Gunnarsson, Mohammad Khatibi, Atef Iqbal, Younes Abghoui, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4406829230
-
-                No abstract</description>
-      <author>Naveed Ashraf, Diego Bitzenhofer Betolaza, H&#225;lfd&#225;n Ingi Gunnarsson, Mohammad Khatibi, Atef Iqbal, Younes Abghoui</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.145755</guid>
-    </item>
-    <item>
-      <title>Nitrogen-doping-induced electron spin polarization activates scandium oxide as high-performance zinc-air battery cathode</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.01.223</link>
-      <description>Yuhui Chen, Chang Ming Li, Yiqing Chen, Ying Cheng, Xinxin Tian, Dongdong Xiao, Hsiao&#8208;Tsu Wang, Ying&#8208;Rui Lu, Linjie Zhang, Wenlie Lin, Jun Luo, Lili Han, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4406834376
-
-                No abstract</description>
-      <author>Yuhui Chen, Chang Ming Li, Yiqing Chen, Ying Cheng, Xinxin Tian, Dongdong Xiao, Hsiao&#8208;Tsu Wang, Ying&#8208;Rui Lu, Linjie Zhang, Wenlie Lin, Jun Luo, Lili Han</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.01.223</guid>
-    </item>
     <item>
       <title>Catalytic CO&#8722;O coupling on high-entropy alloys: A composition optimization dependent on the reaction assumptions</title>
       <link>https://doi.org/10.1016/j.jcat.2025.115983</link>
@@ -456,6 +416,36 @@
       <author>Yejian Xue, Jiashu Yuan, Xinfeng Yu, Shanshan Sun, Houcheng Zhang, Wei Zhou, Jiujun Zhang, Yonggao Xia</author>
       <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mser.2025.100942</guid>
+    </item>
+    <item>
+      <title>Electron donation from carbon support enhances the activity and stability of ultrasmall ruthenium dioxide nanoparticles in acidic oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.01.280</link>
+      <description>Luo Huang, Lixia Ma, Jie Yang, Jianghao Kang, Yu Chen, Junqing Yan, Yunpeng Fang, Li Deng, Ruibin Jiang, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4407064505
+
+                No abstract</description>
+      <author>Luo Huang, Lixia Ma, Jie Yang, Jianghao Kang, Yu Chen, Junqing Yan, Yunpeng Fang, Li Deng, Ruibin Jiang</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.01.280</guid>
+    </item>
+    <item>
+      <title>Electronic descriptors for designing high-entropy alloy electrocatalysts by leveraging local chemical environments</title>
+      <link>https://doi.org/10.1038/s41467-025-56421-9</link>
+      <description>Guolin Cao, Sha Yang, Ji&#8208;Chang Ren, Wei Liu, Nature Communications. 16(1)] 2025. https://openalex.org/W4407065902
+
+                High-entropy alloys (HEAs) present a vast compositional space for fine-tuning electrocatalytic activities, leveraging millions of distinct active sites on the surface. However, the intricate local chemical environment poses challenges to the rational and efficient design of HEA electrocatalysts with high reactivity. Here, focusing on noble-metal HEAs for oxygen reduction reactions, we propose a straightforward yet effective descriptor for quantitively determining the local reactivities of HEAs. This descriptor is based on a linear combination of the intrinsic d-band filling of the active center and the neighborhood electronegativity. Our model offers an accurate and robust description of the binding strengths of intermediates with different adsorption configurations on HEAs, supported by external density functional theory calculations. Importantly, the local environmental electronegativity of the HEA surface is strongly related to the d-band profile of the center atom(s) embedded within. Finally, we establish a library of activity maps for HEAs encompassing nine noble-metal elements, suggesting that Pd-rich and Ir-rich alloys, such as Pd&#8211;Ag, Ir&#8211;Pt, Ir&#8211;Au compositions, hold promise as potential candidates for optimal electrocatalysts. High entropy alloys hold promises for enhanced oxygen reduction reaction. Here, the authors develop a straightforward yet effective descriptor for rational designing high entropy alloy electrocatalysts with the aid of surface local chemical environments.</description>
+      <author>Guolin Cao, Sha Yang, Ji&#8208;Chang Ren, Wei Liu</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-56421-9</guid>
+    </item>
+    <item>
+      <title>Screened (Co, Rh, Ir)&#8211;N4 graphene single atom catalysts for hydrogen production via tunable surrounding coordination shell: Computation and machine learning</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.01.448</link>
+      <description>Jiu-Ning Wang, Wei Xu, Hao Ma, Qasim, Wanglai Cen, International Journal of Hydrogen Energy. 106(None)] 2025. https://openalex.org/W4407067075
+
+                No abstract</description>
+      <author>Jiu-Ning Wang, Wei Xu, Hao Ma, Qasim, Wanglai Cen</author>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.01.448</guid>
     </item>
     <item>
       <title>FINANCIAL, ECONOMIC AND ORGANIZATIONAL MECHANISMS FOR ENSURING THE IMPLEMENTATION OF INNOVATIVE TECHNOLOGIES FOR REDUCING CARBON EMISSIONS IN THE CONTEXT OF STRENGTHENING NATIONAL DEFENSE</title>
