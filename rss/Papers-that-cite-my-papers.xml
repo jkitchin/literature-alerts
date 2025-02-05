@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 04 Feb 2025 01:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 01:20:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Catalytic CO&#8722;O coupling on high-entropy alloys: A composition optimization dependent on the reaction assumptions</title>
-      <link>https://doi.org/10.1016/j.jcat.2025.115983</link>
-      <description>Jack K. Pedersen, Giona Mainardis, Jan Rossmeisl, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4406849265
-
-                No abstract</description>
-      <author>Jack K. Pedersen, Giona Mainardis, Jan Rossmeisl</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.115983</guid>
-    </item>
-    <item>
-      <title>Direct Visualization of Temperature&#8208;Induced Phase Separation of Completely Miscible Au&#9472;Pd Alloy by In Situ TEM</title>
-      <link>https://doi.org/10.1002/smll.202408109</link>
-      <description>Abhijit Roy, Simon Hettler, Ra&#250;l Arenal, Small. None(None)] 2025. https://openalex.org/W4406849888
-
-                Abstract In situ transmission electron microscopy (TEM) studies reveal key insights into the structural and chemical evolution of nanoparticles (NPs) under external stimuli like heating and biasing, which is critical for evaluating their suitability in chemical reactions and their tendency toward forming novel NP systems. In this study, starting from a core@shell Au nanotriangle (AuNT)@Pd nanostructure, the formation of a phase&#8208;separated bi&#8208;metallic Au&#9472;Pd NP system at high temperature is reported, despite the fact that Au and Pd are miscible in the entire composition and temperature range. In situ TEM heating of bare AuNT@Pd core@shell structures up to 1000 &#176;C is performed. Between 400 and 800 &#176;C, an initial alloy formation is observed. Notably, higher initial loading of Pd increases the melting temperature of the bi&#8208;metallic system. However, the most important observation is the separation of the nanostructure into Au and Pd phases at temperatures above 850 &#176;C for high Pd doping. The extent of Pd separation depends on the amount of initial Pd loading. A Janus Au&#9472;Pd nanostructure is formed at the end of the thermal treatments at 1000 &#176;C. The phase&#8208;separated NP is observed to be highly stable and could be clearly beneficial for various applications, particularly in catalytic processes.</description>
-      <author>Abhijit Roy, Simon Hettler, Ra&#250;l Arenal</author>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202408109</guid>
-    </item>
-    <item>
-      <title>Effects of strain on the nitrogen-doped graphene nanoribbons for boosting oxygen reduction reaction</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.162538</link>
-      <description>Yanan Tang, Weiguang Chen, Jinlei Shi, Mingyu Zhao, Yi Li, Zhiwen Wang, Zhen Feng, Dongwei Ma, Xianqi Dai, Applied Surface Science. None(None)] 2025. https://openalex.org/W4406852876
-
-                No abstract</description>
-      <author>Yanan Tang, Weiguang Chen, Jinlei Shi, Mingyu Zhao, Yi Li, Zhiwen Wang, Zhen Feng, Dongwei Ma, Xianqi Dai</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162538</guid>
-    </item>
-    <item>
-      <title>On the use of clustering workflows for automated microstructure segmentation of analytical STEM datasets</title>
-      <link>https://doi.org/10.1063/5.0246329</link>
-      <description>Zhiquan Kho, Andy Bridger, Keith T. Butler, Ercin C. Duran, Mohsen Danaie, Alexander S. Eggeman, APL Materials. 13(1)] 2025. https://openalex.org/W4406854538
-
-                This study considers the issue of automated segmentation of scanning transmission electron microscopy (STEM) datasets using unsupervised machine learning approaches. To this end, a systematic comparison of two clustering workflows that had been established in previous literature was performed on two distinct material systems&#8212;an experimentally acquired Co2FeSi Heusler alloy and a simulated Au-matrix and Al2Cu precipitate. The cluster outputs were evaluated using a variety of unsupervised clustering metrics measuring separation and cohesion. It was found that the cluster output of a variational autoencoder (VAE) performed better compared to a more conventional latent transformation via Uniform Manifold Approximation &amp; Projection (UMAP) on 4D-STEM data alone. However, the UMAP workflow applied to merged 4D-STEM and STEM-energy dispersive x-ray (STEM-EDX) data produced the best cluster output overall, indicating that the correlated information provides beneficial constraints to the latent space. A potential general workflow for analyzing merged datasets to identify structural-composition changes across different material systems is proposed.</description>
-      <author>Zhiquan Kho, Andy Bridger, Keith T. Butler, Ercin C. Duran, Mohsen Danaie, Alexander S. Eggeman</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0246329</guid>
-    </item>
-    <item>
-      <title>Biochar-anchored PtPd bimetallic nanoparticle catalyst for high-efficient hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1007/s11581-025-06091-w</link>
-      <description>Yuanmeng Wang, Fan Yang, Xinyu Zhu, Yidi Zhou, Wenhao Peng, Yu Tang, Shaorou Ke, Bozhi Yang, Shujie Yang, Xiaowen Wu, Yangai Liu, Ruiyu Mi, Zhaohui Huang, Xin Min, Minghao Fang, Ionics. None(None)] 2025. https://openalex.org/W4406854635
-
-                No abstract</description>
-      <author>Yuanmeng Wang, Fan Yang, Xinyu Zhu, Yidi Zhou, Wenhao Peng, Yu Tang, Shaorou Ke, Bozhi Yang, Shujie Yang, Xiaowen Wu, Yangai Liu, Ruiyu Mi, Zhaohui Huang, Xin Min, Minghao Fang</author>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11581-025-06091-w</guid>
-    </item>
-    <item>
-      <title>Defect Segregation, Water Layering, and Proton Transfer at Zirconium Oxynitride/Water Interface Examined Using Neural Network Potential</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c05857</link>
-      <description>Akitaka Nakanishi, Shusuke Kasamatsu, Jun Haruyama, Osamu Sugino, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4406862521
-
-                No abstract</description>
-      <author>Akitaka Nakanishi, Shusuke Kasamatsu, Jun Haruyama, Osamu Sugino</author>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05857</guid>
-    </item>
-    <item>
-      <title>Modelling H &lt;sub&gt;2&lt;/sub&gt; S induced catalyst contamination in polymer electrolyte fuel cells: performance degradation and regeneration with ozone</title>
-      <link>https://doi.org/10.1080/00194506.2025.2453444</link>
-      <description>Panchali Borthakur, Nand Kishor Gour, Saswati Sarmah, Ramesh C. Deka, Biraj Kumar Kakati, Indian Chemical Engineer. None(None)] 2025. https://openalex.org/W4406863202
-
-                No abstract</description>
-      <author>Panchali Borthakur, Nand Kishor Gour, Saswati Sarmah, Ramesh C. Deka, Biraj Kumar Kakati</author>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/00194506.2025.2453444</guid>
-    </item>
-    <item>
-      <title>Derivative-Free Domain-Informed Data-Driven Discovery of Sparse Kinetic Models</title>
-      <link>https://doi.org/10.1021/acs.iecr.4c02981</link>
-      <description>Siddharth Prabhu, Nick Kosir, Mayuresh V. Kothare, Srinivas Rangarajan, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4406867479
-
-                No abstract</description>
-      <author>Siddharth Prabhu, Nick Kosir, Mayuresh V. Kothare, Srinivas Rangarajan</author>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c02981</guid>
-    </item>
-    <item>
-      <title>Analyzing the Citation Networks Using Community Detection Approaches: A Review</title>
-      <link>https://doi.org/10.1007/978-981-97-5200-3_13</link>
-      <description>R. Kiruthika, N. Radha, Smart innovation, systems and technologies. None(None)] 2025. https://openalex.org/W4406867948
-
-                No abstract</description>
-      <author>R. Kiruthika, N. Radha</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-981-97-5200-3_13</guid>
-    </item>
     <item>
       <title>Machine learning potential model for accelerating quantum chemistry&#8208;driven property prediction and molecular design</title>
       <link>https://doi.org/10.1002/aic.18741</link>
@@ -448,24 +358,64 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.01.448</guid>
     </item>
     <item>
-      <title>FINANCIAL, ECONOMIC AND ORGANIZATIONAL MECHANISMS FOR ENSURING THE IMPLEMENTATION OF INNOVATIVE TECHNOLOGIES FOR REDUCING CARBON EMISSIONS IN THE CONTEXT OF STRENGTHENING NATIONAL DEFENSE</title>
-      <link>https://doi.org/10.37701/ts.05.2024.11</link>
-      <description>Olena Lapko, O. B. &#1042;&#1072;&#1089;&#1102;&#1088;&#1077;&#1085;&#1082;&#1086;, H. V. Kramarev, O.O Akulshin, N. Pantielieieva, &#1042;&#1080;&#1087;&#1088;&#1086;&#1073;&#1091;&#1074;&#1072;&#1085;&#1085;&#1103; &#1090;&#1072; &#1089;&#1077;&#1088;&#1090;&#1080;&#1092;&#1110;&#1082;&#1072;&#1094;&#1110;&#1103;. None(3(5))] 2024. https://openalex.org/W4406854459
+      <title>Crash testing machine learning force fields for molecules, materials, and interfaces: molecular dynamics in the TEA challenge 2023</title>
+      <link>https://doi.org/10.1039/d4sc06530a</link>
+      <description>Igor Poltavsky, Mirela Puleva, Anton Charkin-Gorbulin, Gr&#233;gory Fonseca, Ilyes Batatia, Nicholas J. Browning, Stefan Chmiela, Mengnan Cui, J. Thorben Frank, Stefan Heinen, Bing Huang, Silvan K&#228;ser, Adil Kabylda, Danish Khan, Carolin M&#252;ller, Alastair J. A. Price, Kai Riedmiller, Kai T&#246;pfer, Tsz Wai Ko, Markus Meuwly, Matthias Rupp, G&#225;bor C&#347;anyi, O. Anatole von Lilienfeld, Johannes T. Margraf, Klaus&#8208;Robert Mueller, Alexandre Tkatchenko, Chemical Science. None(None)] 2025. https://openalex.org/W4407081389
 
-                Sustainable economic development to improve the quality of life and ensure the reduction of carbon emissions to minimize the threats of climate change have become global trends of modern times and strategic priorities of almost all countries of the world, including Ukraine.The article substantiates the importance of adhering to the principles of sustainable development, attracting investment resources for these purposes, using new approaches to financial, economic and organizational mechanisms for the implementation of innovative technologies for reducing carbon emissions (CCS) in the context of ensuring the strengthening of national defense.The essence and features of the technological process for CCS are revealed, the scale of participation of countries of the world in CCS projects and the predicted dynamics of reducing CO2 emissions under their implementation are analyzed. The financial, economic and organizational mechanisms for ensuring the effective implementation of CCS projects are characterized, their structure is detailed. The regulatory policy and regulatory framework of various countries supporting the deployment of CCS technologies, the practice of governments using financial and economic mechanisms, as well as attracting private financing to support investments in CCS are summarized.The initiatives of the Government of Ukraine regarding energy efficiency and the implementation of innovative technologies to reduce carbon emissions are analyzed, recommendations are provided for the expansion of financial and economic mechanisms.A correlation is identified between the implementation of innovative technologies to reduce carbon emissions and the strengthening of national defense in such key aspects as energy security and defense capability, reducing environmental risks at military facilities, using defense infrastructure to implement environmentally friendly innovations, cooperation within the framework of financial, economic and organizational mechanisms for the implementation of innovative technologies, the social aspect and strategic sustainability.It is concluded that, based on the experience of foreign countries in implementing CCS technologies, Ukraine should take a balanced approach to the development and implementation of CCS projects, improving existing financial, economic and organizational mechanisms, using international support and technical assistance from partner countries. This will allow realizing the existing potential for implementing the Strategy for Low-Carbon Development of Ukraine until 2050. The post-war reconstruction of the Ukrainian economy based on the principles of sustainable development and the orientation towards the use of the most modern innovative technologies will allow significantly modernizing its production potential, strengthening energy independence and environmental sustainability, which, of course, will have a synergistic effect on strengthening national defense.</description>
-      <author>Olena Lapko, O. B. &#1042;&#1072;&#1089;&#1102;&#1088;&#1077;&#1085;&#1082;&#1086;, H. V. Kramarev, O.O Akulshin, N. Pantielieieva</author>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.37701/ts.05.2024.11</guid>
+                We present a comprehensive analysis of the capabilities of modern machine learning force fields to simulate long-term molecular dynamics at near-ambient conditions for molecules, molecule-surface interfaces, and materials within TEA Challenge 2023.</description>
+      <author>Igor Poltavsky, Mirela Puleva, Anton Charkin-Gorbulin, Gr&#233;gory Fonseca, Ilyes Batatia, Nicholas J. Browning, Stefan Chmiela, Mengnan Cui, J. Thorben Frank, Stefan Heinen, Bing Huang, Silvan K&#228;ser, Adil Kabylda, Danish Khan, Carolin M&#252;ller, Alastair J. A. Price, Kai Riedmiller, Kai T&#246;pfer, Tsz Wai Ko, Markus Meuwly, Matthias Rupp, G&#225;bor C&#347;anyi, O. Anatole von Lilienfeld, Johannes T. Margraf, Klaus&#8208;Robert Mueller, Alexandre Tkatchenko</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4sc06530a</guid>
     </item>
     <item>
-      <title>Machine-learning-assisted design of novel metallic 2D C3N3 supported single/double atom catalysts for nitrogen reduction reaction</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.162451</link>
-      <description>Haikuan Liang, Jiarui Wang, Zhengping Qiao, Yan Li, Chengxin Wang, Applied Surface Science. None(None)] 2025. https://openalex.org/W4406874071
+      <title>Predicting electrocatalytic urea synthesis using a two-dimensional descriptor</title>
+      <link>https://doi.org/10.1038/s42004-025-01424-2</link>
+      <description>Amy Wuttke, Alexander Bagger, Communications Chemistry. 8(1)] 2025. https://openalex.org/W4407084091
 
                 No abstract</description>
-      <author>Haikuan Liang, Jiarui Wang, Zhengping Qiao, Yan Li, Chengxin Wang</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162451</guid>
+      <author>Amy Wuttke, Alexander Bagger</author>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s42004-025-01424-2</guid>
+    </item>
+    <item>
+      <title>Breaking linear scaling relationships in oxygen evolution via dynamic structural regulation of active sites</title>
+      <link>https://doi.org/10.1038/s41467-024-55150-9</link>
+      <description>Zheye Zhang, Hongyan Zhao, Shibo Xi, Xiaoxu Zhao, Xiao Chi, Hong Bin Yang, Zhongxin Chen, Xiaojiang Yu, Yang&#8208;Gang Wang, Bin Liu, Peng Chen, Nature Communications. 16(1)] 2025. https://openalex.org/W4407087380
+
+                No abstract</description>
+      <author>Zheye Zhang, Hongyan Zhao, Shibo Xi, Xiaoxu Zhao, Xiao Chi, Hong Bin Yang, Zhongxin Chen, Xiaojiang Yu, Yang&#8208;Gang Wang, Bin Liu, Peng Chen</author>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-55150-9</guid>
+    </item>
+    <item>
+      <title>Cost-Effective and Stable Biosensing of Biochemical Oxygen Demand in Wastewater Treatment: Exsolved Rhodium-Titanate Perovskite Catalyst in Microbial Fuel Cell-based Biosensors</title>
+      <link>https://doi.org/10.1016/j.jece.2025.115692</link>
+      <description>Anna Salvian, Shailza Saini, Marina Ram&#237;rez-Moreno, Claudio Avignone&#8208;Rossa, John R. Varcoe, Kalliopi Kousi, Siddharth Gadkari, Journal of environmental chemical engineering. None(None)] 2025. https://openalex.org/W4407088118
+
+                No abstract</description>
+      <author>Anna Salvian, Shailza Saini, Marina Ram&#237;rez-Moreno, Claudio Avignone&#8208;Rossa, John R. Varcoe, Kalliopi Kousi, Siddharth Gadkari</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2025.115692</guid>
+    </item>
+    <item>
+      <title>First-Principles Kinetic Monte Carlo Simulations for Single-Cluster Catalysis: Study of CO&lt;sub&gt;2&lt;/sub&gt; and CH&lt;sub&gt;4&lt;/sub&gt; Conversion on Pt/HfC</title>
+      <link>https://doi.org/10.1021/acscatal.4c07877</link>
+      <description>H&#232;ctor Prats, Michail Stamatakis, ACS Catalysis. None(None)] 2025. https://openalex.org/W4407089508
+
+                No abstract</description>
+      <author>H&#232;ctor Prats, Michail Stamatakis</author>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07877</guid>
+    </item>
+    <item>
+      <title>Bias Dependence of the Transition State of the Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/jacs.4c18638</link>
+      <description>Jos&#233; M. Gisbert-Gonz&#225;lez, Carlos G&#243;mez-Rodellar, J. G. F. Druce, Eduardo Ortega, Beatriz Rold&#225;n Cuenya, Sebastian Z. Oener, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4407093930
+
+                No abstract</description>
+      <author>Jos&#233; M. Gisbert-Gonz&#225;lez, Carlos G&#243;mez-Rodellar, J. G. F. Druce, Eduardo Ortega, Beatriz Rold&#225;n Cuenya, Sebastian Z. Oener</author>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c18638</guid>
     </item>
     <item>
       <title>O&#8208;Bridged Co&#8208;Cu Dual&#8208;Atom Catalyst Synergistically Triggers Interfacial Proton&#8208;Coupled Electron Transfer: A New Approach to Sustainable Decontamination</title>
@@ -506,6 +456,26 @@
       <author>N. V. Dokhlikova, &#1040;. &#1050;. &#1043;&#1072;&#1090;&#1080;&#1085;, S. Yu. Sarvadii, Dinara Tastaibek, V. G. Slutskii, M. V. Grishin</author>
       <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/ma18030631</guid>
+    </item>
+    <item>
+      <title>Structure Prediction of Ionic Epitaxial Interfaces with Ogre Demonstrated for Colloidal Heterostructures of Lead Halide Perovskites</title>
+      <link>https://doi.org/10.1021/acsnano.4c12713</link>
+      <description>Stefano Toso, Derek Dardzinski, Liberato Manna, Noa Marom, ACS Nano. None(None)] 2025. https://openalex.org/W4407075497
+
+                Colloidal epitaxial heterostructures are nanoparticles composed of two different materials connected at an interface, which can exhibit properties different from those of their individual components. Combining dissimilar materials offers exciting opportunities to create a wide variety of functional heterostructures. However, assessing structural compatibility&#9472;the main prerequisite for epitaxial growth&#9472;is challenging when pairing complex materials with different lattice parameters and crystal structures. This complicates both the selection of target heterostructures for synthesis and the assignment of interface models when new heterostructures are obtained. Here, we demonstrate Ogre as a powerful tool to accelerate the design and characterization of colloidal heterostructures. To this end, we implemented developments tailored for the high-efficiency prediction of epitaxial interfaces between ionic/polar materials, which encompass most colloidal semiconductors. These include the use of pre-screening candidate models based on charge balance at the interface and the use of a classical potential for fast energy evaluations, with parameters automatically calculated based on the input bulk structures. These developments are validated for perovskite-based CsPbBr3/Pb4S3Br2 heterostructures, where Ogre produces interface models in excellent agreement with density functional theory and experiments. Furthermore, we use Ogre to rationalize the templating effect of CsPbCl3 on the growth of lead sulfochlorides, where perovskite seeds induce the formation of Pb4S3Cl2 rather than Pb3S2Cl2 due to better epitaxial compatibility. Finally, combining Ogre simulations with experimental data enables us to unravel the structure and composition of the hitherto unsolved CsPbBr3/BixPbySz interface, and to assign a structure to several other reported metal halide- and oxide-based interfaces. The Ogre package is available on GitHub or via the OgreInterface desktop application, available for Windows, Linux, and Mac.</description>
+      <author>Stefano Toso, Derek Dardzinski, Liberato Manna, Noa Marom</author>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c12713</guid>
+    </item>
+    <item>
+      <title>Integrated &lt;i&gt;Systems-to-Atoms&lt;/i&gt; (S2A) Framework for Designing Resilient and Efficient Hydrogen Infrastructure Solutions</title>
+      <link>https://doi.org/10.1021/acs.energyfuels.4c05903</link>
+      <description>Mengyao Yuan, Giovanna Bucci, Tanusree Chatterjee, Shyam Deo, John R. Kitchin, Carl D. Laird, Wenqin Li, Thomas Moore, Corey Myers, Wenyu Sun, Ethan M. Sunshine, Bo-Xun Wang, Matthew J. McNenly, Sneha A. Akhade, Energy &amp; Fuels. None(None)] 2025. https://openalex.org/W4407089073
+
+                No abstract</description>
+      <author>Mengyao Yuan, Giovanna Bucci, Tanusree Chatterjee, Shyam Deo, John R. Kitchin, Carl D. Laird, Wenqin Li, Thomas Moore, Corey Myers, Wenyu Sun, Ethan M. Sunshine, Bo-Xun Wang, Matthew J. McNenly, Sneha A. Akhade</author>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c05903</guid>
     </item>
   </channel>
 </rss>
