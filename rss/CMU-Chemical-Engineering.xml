@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 05 Feb 2025 01:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 01:20:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -36,6 +36,16 @@
       <author>Mengyao Yuan, Giovanna Bucci, Tanusree Chatterjee, Shyam Deo, John R. Kitchin, Carl D. Laird, Wenqin Li, Thomas Moore, Corey Myers, Wenyu Sun, Ethan M. Sunshine, Bo-Xun Wang, Matthew J. McNenly, Sneha A. Akhade</author>
       <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c05903</guid>
+    </item>
+    <item>
+      <title>Vibrationally Assisted Tunneling through the Bread of a Proton Sandwich&#9472;Connections to Dynamic Matching</title>
+      <link>https://doi.org/10.1021/jacs.4c16135</link>
+      <description>Yusef Ahmed, Gabriel dos Passos Gomes, Dean J. Tantillo, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4407123053
+
+                No abstract</description>
+      <author>Yusef Ahmed, Gabriel dos Passos Gomes, Dean J. Tantillo</author>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c16135</guid>
     </item>
   </channel>
 </rss>
