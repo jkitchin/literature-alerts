@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Feb  6 01:20:21 2025
+Created on Fri Feb  7 01:20:26 2025
 
-Found 4 results from 2025-01-30 to 2025-02-06
+Found 4 results from 2025-01-31 to 2025-02-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## How could emerging nanomedicine-based tuberculosis treatments outperform conventional approaches?   
-
-OpenAlex: https://openalex.org/W4406932408    
-Open access: False
-    
-[Jiwon Kim](https://openalex.org/A5100462895), [Khongorzul Enkhtaivan](https://openalex.org/A5116069775), [Jangmi Yang](https://openalex.org/A5054423058), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), [Jonghoon Choi](https://openalex.org/A5012952224), Nanomedicine. None(None)] 2025.https://doi.org/10.1080/17435889.2025.2458447.
-    
-No abstract    
-
-    
 
 ## Lipid Nanoparticle Delivery System for Normalization of Tumor Microenvironment and Tumor Vascular Structure   
 
@@ -45,6 +34,17 @@ OpenAlex: https://openalex.org/W4407123053
 Open access: False
     
 [Yusef Ahmed](https://openalex.org/A5004687477), [Gabriel dos Passos Gomes](https://openalex.org/A5048633127), [Dean J. Tantillo](https://openalex.org/A5079094106), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.4c16135.
+    
+Proton sandwiches are unusual nonclassical carbocations characterized by a five-center, four-electron bonding array which rapidly isomerize to lower energy isomers with three-center, two-electron bonding arrays via hydrogen migration transition states. These reactions are suspected to involve significant contributions from tunneling, even at relatively high temperatures, where tunneling effects are usually minimal. Machine-learning-accelerated ring-polymer, quasiclassical, and classical ab initio molecular dynamics simulations were used to investigate the effects of a flavor of dynamic matching that involves coupling of vibrational modes of the reactant to the transition structure mode with an imaginary frequency, and how quantum mechanical tunneling affects this coupling. These nonstatistical dynamic effects were quantified by analysis of momentum in the molecular dynamics simulations. We show the importance of momentum for reactivity with and without tunneling, how tunneling amplifies these benefits, and that vibrational modes can be leveraged to generate beneficial momentum.    
+
+    
+
+## Multiscale analysis through the use of biomass residues and CO2 towards energetic security at country scale via methane production   
+
+OpenAlex: https://openalex.org/W4407165130    
+Open access: False
+    
+[Guillermo Galán](https://openalex.org/A5013594526), [Manuel Taifouris](https://openalex.org/A5075865336), [Mariano Martı́n](https://openalex.org/A5009198880), [Ignacio E. Grossmann](https://openalex.org/A5056017028), Energy. None(None)] 2025.https://doi.org/10.1016/j.energy.2025.134890.
     
 No abstract    
 

@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 06 Feb 2025 01:20:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 01:20:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Exploring the Conformational Space of a Sulfonyl-Based Ionic Liquid on Platinum-Based Mono and Bimetallic Surfaces</title>
-      <link>https://doi.org/10.1021/acs.langmuir.4c03883</link>
-      <description>Arka Prava Sarkar, Rahul Sahu, Sandip Giri, Anakuthil Anoop, Sandeep K. Reddy, Langmuir. None(None)] 2025. https://openalex.org/W4406928937
-
-                Understanding the arrangement of ionic liquids at the interface and their interactions with the surface is crucial for enhancing selectivity in heterogeneous reactions for practical applications. In this study, we investigate the nature of the adsorption and structural orientations of a sulfonyl-based ionic liquid on platinum-based mono- and bimetallic (111) surfaces employing replica exchange molecular dynamics and first-principles density functional theory calculations. More than 30 confirmations of the ionic liquid are identified on both monometallic and bimetallic surfaces. In addition to adsorption energies, factors such as dynamics of ionic liquids, molecule-surface distances, and charge transfer analyses are found to be important indicators for understanding adsorption phenomena. The sulfonyl anion exhibits contrasting behavior on the two surfaces, showing a preference for chemisorption on the monometallic surface, while the pyrrolidinium cation is physisorbed on both metal surfaces. Both metal surfaces are negatively charged primarily because of charge transfer from the sulfonyl anion. The analysis of the orientational preference reveals a nearly flat orientation of the cation on the monometallic surface, while a tilted orientation is observed on the bimetallic surface.</description>
-      <author>Arka Prava Sarkar, Rahul Sahu, Sandip Giri, Anakuthil Anoop, Sandeep K. Reddy</author>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c03883</guid>
-    </item>
-    <item>
-      <title>Theoretical investigation of a C&lt;sub&gt;2&lt;/sub&gt;N monolayer as a bifunctional electrocatalyst for rechargeable non-aqueous Li&#8211;air batteries</title>
-      <link>https://doi.org/10.1039/d4ta07789j</link>
-      <description>Priya Das, Atish Ghosh, Biplab Goswami, Pranab Sarkar, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4406930129
-
-                Our work provides a detailed mechanistic pathway for the oxygen reduction reaction during the discharging process and the potentiality of a C 2 N monolayer as the cathode catalyst in non-aqueous Li&#8211;air batteries.</description>
-      <author>Priya Das, Atish Ghosh, Biplab Goswami, Pranab Sarkar</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta07789j</guid>
-    </item>
-    <item>
-      <title>Tailoring the Electrocatalytic Activity of Electrodeposited Co/Fe-Based Catalyst Inducing Spin Polarization Exploiting Chiral-Induced Spin Selectivity</title>
-      <link>https://doi.org/10.1021/acsaem.4c02895</link>
-      <description>Utkarsh Utkarsh, Sanjay Kumar Sahu, Anujit Balo, Debashis Barik, Koyel Banerjee-Ghosh, ACS Applied Energy Materials. None(None)] 2025. https://openalex.org/W4406932701
-
-                No abstract</description>
-      <author>Utkarsh Utkarsh, Sanjay Kumar Sahu, Anujit Balo, Debashis Barik, Koyel Banerjee-Ghosh</author>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c02895</guid>
-    </item>
-    <item>
-      <title>Theoretical study on the synthesis of glycine &lt;i&gt;via&lt;/i&gt; electrocatalytic reduction over tandem catalysts based on two-dimensional carbon-rich conjugated metalloporphyrin frameworks</title>
-      <link>https://doi.org/10.1039/d4nj05105j</link>
-      <description>Xuan Niu, Ling Guo, New Journal of Chemistry. None(None)] 2025. https://openalex.org/W4406932853
-
-                FeY-Cr(Zr)-BPor COF catalysts not only maintain the advantages of bimetallic catalysts but also utilize the role of B atoms to fully activate NO and CO 2 , thereby exhibiting good catalytic activity with a very low limiting potential (&#8722;0.20 V).</description>
-      <author>Xuan Niu, Ling Guo</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4nj05105j</guid>
-    </item>
-    <item>
-      <title>Identical Fe&#8211;N&lt;sub&gt;4&lt;/sub&gt; Sites with Different Reactivity: Elucidating the Effect of Support Curvature</title>
-      <link>https://doi.org/10.1021/acsami.4c19913</link>
-      <description>Zden&#283;k Jakub, Jakub Planer, Dominik Hr&#367;za, Azin Shahsavar, Ji&#345;&#237; Pavelec, Jan &#268;echal, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4406964180
-
-                Detailed atomic-scale understanding is a crucial prerequisite for rational design of next-generation single-atom catalysts (SACs). However, the sub-&#229;ngstr&#246;m precision needed for systematic studies is challenging to achieve on common SACs. Here, we present a two-dimensional (2D) metal-organic system featuring Fe-N4 single-atom sites, where the metal-organic structure is modulated by 0.4 &#197; corrugation of an inert graphene/Ir(111) support. Using scanning tunneling microscopy and density functional theory, we show that the support corrugation significantly affects the reactivity of the system, as the sites above the support "valleys" bind TCNQ (tetracyanoquinodimethane) significantly stronger than the sites above the "hills". The experimental temperature stability of TCNQ varies by more than 60 &#176;C, while computations indicate more than 0.3 eV variation of TCNQ adsorption energy across the Fe-N4 sites placed atop different regions of the corrugated graphene unit cell. The origin of this effect is steric hindrance, which plays a role whenever large molecules interact with neighboring single-atom catalyst sites or when multiple reactants coadsorb on such sites. Our work demonstrates that such effects can be quantitatively studied using model SAC systems supported on chemically inert and physically corrugated supports.</description>
-      <author>Zden&#283;k Jakub, Jakub Planer, Dominik Hr&#367;za, Azin Shahsavar, Ji&#345;&#237; Pavelec, Jan &#268;echal</author>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c19913</guid>
-    </item>
     <item>
       <title>A multi-site Ru-Cu/CeO2 photocatalyst for boosting C-N coupling toward urea synthesis</title>
       <link>https://doi.org/10.1016/j.scib.2025.01.059</link>
@@ -418,24 +368,164 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s11144-025-02804-4</guid>
     </item>
     <item>
-      <title>Continuous Electrochemical Carbon Capture via Redox-Mediated pH Swing&#9472;Experimental Performance and Process Modeling</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c03111</link>
-      <description>Piotr &#346;ledzik, P. M. Biesheuvel, Qingdian Shu, H.V.M. Hamelers, S. Porada, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4406931123
+      <title>Comparison of Computational Methods for Simulating Depolymerization Reaction</title>
+      <link>https://doi.org/10.1021/acsomega.4c09953</link>
+      <description>Shunsuke Mieda, ACS Omega. None(None)] 2025. https://openalex.org/W4407131489
 
-                We investigate a continuous electrochemical pH-swing method to capture CO2 from a gas phase. The electrochemical cell consists of a single cation-exchange membrane (CEM) and a recirculation of a mixture of salt and phenazine-based redox-active molecules. In the absorption compartment, this solution is saturated by CO2 from a mixed gas phase at high pH. In the electrochemical cell, pH is reduced, and CO2 is selectively released in a desorption step. We investigate the influence of redox molecule concentration on the charge storage capacity of the solution, as well as the impact of current density and solution recirculation rate on process performance. A theoretical framework, based on a minimal set of assumptions, is established. This framework describes the data very accurately and can be used for system design and optimization. We evaluate the trade-off between energy consumption and CO2 capture rate and compare with published reports. We report a low energy consumption of 32 kJ/mol of CO2 at a capture rate of 39 mmol/m2/min.</description>
-      <author>Piotr &#346;ledzik, P. M. Biesheuvel, Qingdian Shu, H.V.M. Hamelers, S. Porada</author>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c03111</guid>
+                A chemical recycling process that reduces polymers to their raw materials plays a crucial role in circular economy. To contribute to chemical recycling, this study proposes a system that simulates the process of depolymerization from polymer-to-monomer using reactive molecular dynamics (MD). Two MD methods, Reax force field (ReaxFF) and neural network potential (NNP), were employed to simulate the depolymerization of a polystyrene model. We validated the simulation accuracies by comparing monomer yields and decomposition products with experimental results. The results showed that NNP-MD accurately replicated the degradation and redecomposition processes and achieved consistency with the experimental data at various temperatures. ReaxFF-MD, however, was less able to represent the depolymerization process. We conclude that NNP-MD is capable of simulating polymer depolymerization results that are consistent with experimental observations. These results contribute to the development of methods for efficient chemical recycling and the broader realization of a circular economy.</description>
+      <author>Shunsuke Mieda</author>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c09953</guid>
     </item>
     <item>
-      <title>A Vanadium Redox Flow Process for Carbon Capture and Energy Storage</title>
-      <link>https://doi.org/10.1021/acsestengg.4c00631</link>
-      <description>Mohsen Afshari, Abdelrahman Refaie, Prince Aleta, Ahmad Hassan, Mohammad Rahimi, ACS ES&amp;T Engineering. None(None)] 2025. https://openalex.org/W4406934605
+      <title>Highly dispersed MoC quantum dots assist CeO2 for photocatalytic hydrogen production under visible light</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.01.492</link>
+      <description>Guoyang Qiu, Xingyan Yang, Yumin Zhang, Jianhong Zhao, Qingju Liu, International Journal of Hydrogen Energy. 106(None)] 2025. https://openalex.org/W4407132089
 
-                Climate change mitigation by decreasing worldwide CO2 emissions is an urgent and demanding challenge that requires innovative technical solutions. This work, inspired by vanadium redox flow batteries (VRFB), introduces an integrated electrochemical process for carbon capture and energy storage. It utilizes established vanadium and ferricyanide redox couples for pH modulation for CO2 desorption and absorbent regeneration. The developed process consumes electricity during the daytime&#9472;when renewable electricity is available&#9472;to desorb CO2 and charge the cell, and it can regenerate the absorbent for further CO2 absorption while releasing electricity to the grid during nighttime when solar power is unavailable. This research explores the process fundamentals and scalability potential, through an extensive study of the system's thermodynamics, transport phenomena, kinetics, and bench-scale operations. Cyclic voltammetry (CV) was utilized to study the thermodynamics of the process, mapping the redox profiles to identify ideal potential windows for operation. The CV results indicated that an overpotential of approximately 0.3 V was required for driving redox reactions. Additionally, polarization studies were conducted to select the practical operating potential, identifying 0.5 V as optimal for the CO2 desorption cycle to provide sufficient polarity to overcome activation barriers in addition to the Nernstian potential. Mass transfer analysis balanced conductivity and desorption efficiency, with a 1:1 ratio identified as optimal for redox-active species and background electrolyte concentration. To further enhance the kinetics of the redox reactions, plasma treatment of electrode surfaces was implemented, resulting in a 43% decrease in charge transfer resistance, as measured by electrochemical impedance spectroscopy (EIS) analysis. Finally, a bench-scale operation of the system demonstrated an energy consumption of 54 kJ/mol CO2, which is competitive with other electrochemical carbon capture technologies. Besides its energy competitiveness, the process offers multiple additional advantages, including the elimination of precious metal electrodes, oxygen insensitivity in flue gas, scalability inspired by VRFB technology, and the unique ability to function as a battery during the absorbent regeneration process, enabling efficient day-night operation.</description>
-      <author>Mohsen Afshari, Abdelrahman Refaie, Prince Aleta, Ahmad Hassan, Mohammad Rahimi</author>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsestengg.4c00631</guid>
+                No abstract</description>
+      <author>Guoyang Qiu, Xingyan Yang, Yumin Zhang, Jianhong Zhao, Qingju Liu</author>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.01.492</guid>
+    </item>
+    <item>
+      <title>Enhanced CO2 electrochemical reduction on single-atom catalysts with optimized environmental, central and axial chemical ambient</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.02.015</link>
+      <description>Zhongze Bai, Xi Zhuo Jiang, Kai Luo, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4407133649
+
+                No abstract</description>
+      <author>Zhongze Bai, Xi Zhuo Jiang, Kai Luo</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.02.015</guid>
+    </item>
+    <item>
+      <title>The activity origin of two-dimensional MN4-contained periodical macrocyclic structures towards electro-catalytic hydrogen evolution</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.02.022</link>
+      <description>Mengmeng Xu, Yunpeng Shu, Xu Wang, Yanjun Chen, Juan Xie, Youyong Li, Huilong Dong, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4407133660
+
+                No abstract</description>
+      <author>Mengmeng Xu, Yunpeng Shu, Xu Wang, Yanjun Chen, Juan Xie, Youyong Li, Huilong Dong</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.02.022</guid>
+    </item>
+    <item>
+      <title>Augmentation of Universal Potentials for Broad Applications</title>
+      <link>https://doi.org/10.1103/physrevlett.134.056201</link>
+      <description>Joe Pitfield, Florian Brix, Zeyuan Tang, Andreas M&#248;ller Slavensky, Nikolaj R&#248;nne, Mads-Peter V. Christiansen, Bj&#248;rk Hammer, Physical Review Letters. 134(5)] 2025. https://openalex.org/W4407134245
+
+                No abstract</description>
+      <author>Joe Pitfield, Florian Brix, Zeyuan Tang, Andreas M&#248;ller Slavensky, Nikolaj R&#248;nne, Mads-Peter V. Christiansen, Bj&#248;rk Hammer</author>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevlett.134.056201</guid>
+    </item>
+    <item>
+      <title>Mechanical&#8211;chemical coupling in gas&#8211;surface interaction: A study of strain effects on the catalytic properties of SiO2</title>
+      <link>https://doi.org/10.1063/5.0245036</link>
+      <description>Yue Gao, Songhe Meng, Qiang Yang, Zexuan Wang, Bo Gao, Fan Yang, Physics of Fluids. 37(2)] 2025. https://openalex.org/W4407136149
+
+                In actual flight conditions, the surface of thermal protection materials may experience stress, and the impact of surface strain on catalytic reaction and mechanical&#8211;chemical coupling has not been fully explored. In this study, a surface gas&#8211;solid interaction model was constructed using reaction molecular dynamics and density functional theory methods. The surface catalytic reaction characteristics of &#945;-SiO2 (001) under up to 2% uniaxial and biaxial tensile strain were investigated. Results indicate that both uniaxial stretching along the X axis and biaxial stretching along the X and Y axes inhibit the catalytic recombination reaction at higher surface temperatures. For the uniaxial stretching model, when the strain reaches 2%, the catalytic coefficient decreases by 21.2%, whereas for the biaxial stretching model, it decreases by 34.3%. From the perspectives of surface morphology and energy, the study reveals that tensile strain reduces the undercoordination degree of Si atoms on the surface, reduces the surface energy of &#945;-SiO2 (001), increases the activation energy of the atomic oxygen recombination reaction, alters the recombination pathways of oxygen atoms, strain-induced selective desorption of oxygen atoms reduces the recombination probabilities of both Eley&#8211;Rideal and Langmuir&#8211;Hinshelwood pathways, ultimately decreasing the catalytic recombination coefficient.</description>
+      <author>Yue Gao, Songhe Meng, Qiang Yang, Zexuan Wang, Bo Gao, Fan Yang</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0245036</guid>
+    </item>
+    <item>
+      <title>Rules Describing CO&lt;sub&gt;2&lt;/sub&gt; Activation on Single-Atom Alloys from DFT-Meta-GGA Calculations and Artificial Intelligence</title>
+      <link>https://doi.org/10.1021/acscatal.4c07178</link>
+      <description>Herzain I. Rivera-Arrieta, Lucas Foppa, ACS Catalysis. None(None)] 2025. https://openalex.org/W4407136518
+
+                No abstract</description>
+      <author>Herzain I. Rivera-Arrieta, Lucas Foppa</author>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07178</guid>
+    </item>
+    <item>
+      <title>Charge Transfer Modulation in g-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt;/CeO&lt;sub&gt;2&lt;/sub&gt; Composites: Electrocatalytic Oxygen Reduction for H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Production</title>
+      <link>https://doi.org/10.1021/acs.inorgchem.4c05341</link>
+      <description>Xueli Mei, Xueyang Zhao, Hongtao Xie, Nemanja Gavrilov, Qin Geng, Qin Li, Huawei Zhuo, Yali Cao, Yizhao Li, Fan Dong, Inorganic Chemistry. None(None)] 2025. https://openalex.org/W4407137887
+
+                The electrocatalytic two-electron oxygen reduction reaction (2e-ORR) represents one of the most prospective avenues for the in situ synthesis of hydrogen peroxide (H2O2). However, the four-electron competition reaction constrains the efficiency of H2O2 synthesis. Therefore, there is an urgent need to develop superior catalysts to facilitate the H2O2 synthesis. In this study, graphite-phase carbon nitride and cerium dioxide composites (g-C3N4/CeO2) with varying CeO2 loadings were prepared with favorable 2e-ORR electrocatalysts. The optimized composite, containing 20 wt % CeO2 (g-C3N4/CeO2-20%) exhibited the highest Faradaic efficiency (FE) of 97% and notable H2O2 yielding of 9.84 mol gcat.&#8211;1 h&#8211;1 at the potential of 0.3 V (vs RHE) in a 0.1 M KOH electrolyte. Density functional theory calculations revealed that the improvement of the selectivity and yield of H2O2 for the composites were attributed to the charge transfer between g-C3N4 and CeO2, which causes the active site C atom donating electrons to form C+, thereby enhancing the adsorption and desorption of *OOH intermediates. Additionally, the g-C3N4/CeO2-20% composite exhibits excellent 2e-ORR performance in neutral and acidic electrolytes and demonstrates superior capability in electro-Fenton degradation of organic pollutants. This study not only provides new insights into the electrocatalytic mechanism of g-C3N4/CeO2 composites but also demonstrates an effective method for designing 2e-ORR catalysts.</description>
+      <author>Xueli Mei, Xueyang Zhao, Hongtao Xie, Nemanja Gavrilov, Qin Geng, Qin Li, Huawei Zhuo, Yali Cao, Yizhao Li, Fan Dong</author>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c05341</guid>
+    </item>
+    <item>
+      <title>Unveiling the Electrocatalytic Activity of Metallophthalocyanine-Based Covalent Organic Frameworks Toward CO&lt;sub&gt;2&lt;/sub&gt; Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c07500</link>
+      <description>Kahkasha Parveen, Srimanta Pakhira, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4407140873
+
+                No abstract</description>
+      <author>Kahkasha Parveen, Srimanta Pakhira</author>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07500</guid>
+    </item>
+    <item>
+      <title>ABFML: A problem-oriented package for rapidly creating, screening, and optimizing new machine learning force fields</title>
+      <link>https://doi.org/10.1063/5.0247559</link>
+      <description>Xingze Geng, Jianing Gu, Gaowu Qin, Lin&#8208;Wang Wang, Xiangying Meng, The Journal of Chemical Physics. 162(5)] 2025. https://openalex.org/W4407141817
+
+                Machine Learning Force Fields (MLFFs) require ongoing improvement and innovation to effectively address challenges across various domains. Developing MLFF models typically involves extensive screening, tuning, and iterative testing. However, existing packages based on a single mature descriptor or model are unsuitable for this process. Therefore, we developed a package named ABFML, based on PyTorch, which aims to promote MLFF innovation by providing developers with a rapid, efficient, and user-friendly tool for constructing, screening, and validating new force field models. Moreover, by leveraging standardized module operations and cutting-edge machine learning frameworks, developers can swiftly establish models. In addition, the platform can seamlessly transition to the graphics processing unit environments, enabling accelerated calculations and large-scale parallel simulations of molecular dynamics. In contrast to traditional from-scratch approaches for MLFF development, ABFML significantly lowers the barriers to developing force field models, thereby expediting innovation and application within the MLFF development domains.</description>
+      <author>Xingze Geng, Jianing Gu, Gaowu Qin, Lin&#8208;Wang Wang, Xiangying Meng</author>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0247559</guid>
+    </item>
+    <item>
+      <title>Supramolecular Engineering of Vinylene&#8208;Linked Covalent Organic Framework &#8211; Ruthenium Oxide Hybrids for Highly Active Proton Exchange Membrane Water Electrolysis</title>
+      <link>https://doi.org/10.1002/adma.202417374</link>
+      <description>Kexin Wang, Shunqi Xu, Dashuai Wang, Zhenhui Kou, Yubin Fu, Micha&#322; Bielejewski, Ver&#243;nica Montes&#8208;Garc&#237;a, Bin Han, Artur Ciesielski, Yang Hou, Paolo Samor&#305;&#769;, Advanced Materials. None(None)] 2025. https://openalex.org/W4407149229
+
+                Abstract The controlled formation of a functional adlayer at the catalyst&#8208;water interface is a highly challenging yet potentially powerful strategy to accelerate proton transfer and deprotonation for ultimately improving the performance of proton&#8208;exchange membrane water electrolysis (PEMWE). In this study, the synthesis of robust vinylene&#8208;linked covalent organic frameworks (COFs) possessing high proton conductivities is reported, which are subsequently hybridized with ruthenium dioxide yielding high&#8208;performance anodic catalysts for the acidic oxygen evolution reaction (OER). In situ spectroscopic measurements corroborated by theoretical calculations reveal that the assembled hydrogen bonds formed between COFs and adsorbed oxo&#8208;intermediates effectively orient interfacial water molecules, stabilizing the transition states for intermediate formation of OER. This determines a decrease in the energy barriers of proton transfer and deprotonation, resulting in exceptional acidic OER performance. When integrated into a PEMWE device, the system achieves a record current density of 1.0 A cm &#8722;2 at only 1.54 V cell voltage, with a long&#8208;term stability exceeding 180 h at industrial&#8208;level 200 mA cm &#8722;2 . The approach relying on the self&#8208;assembly of an oriented hydrogen&#8208;bonded adlayer highlights the disruptive potential of COFs with customizable structures and multifunctional sites for advancing PEMWE technologies.</description>
+      <author>Kexin Wang, Shunqi Xu, Dashuai Wang, Zhenhui Kou, Yubin Fu, Micha&#322; Bielejewski, Ver&#243;nica Montes&#8208;Garc&#237;a, Bin Han, Artur Ciesielski, Yang Hou, Paolo Samor&#305;&#769;</author>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202417374</guid>
+    </item>
+    <item>
+      <title>Experimental studies of &lt;scp&gt;CO&lt;sub&gt;2&lt;/sub&gt;&lt;/scp&gt; and &lt;scp&gt;NO&lt;/scp&gt; mitigation using potential adsorbents in a standby power generation unit</title>
+      <link>https://doi.org/10.1002/ep.14553</link>
+      <description>Maniarasu Ravi, Sushil Kumar Rathore, Murugan Sivalingam, Environmental Progress &amp; Sustainable Energy. None(None)] 2025. https://openalex.org/W4407151073
+
+                Abstract This current investigation evaluates the feasibility of employing potential adsorbents obtained from various biomass waste substances, namely, (i) coconut shell, (ii) rice husk, and (iii) eucalyptus wood, for carbon dioxide (CO 2 ) capture applications. Activated carbons are obtained from abundantly available renewable biomass residues by single&#8208;stage activation. The adsorption properties are evaluated using advanced techniques. Further, the adsorbents are packed in an in&#8208;house fabricated post&#8208;combustion adsorption chamber. In this investigation, the feasibility of employing adsorbents for capturing CO 2 and NO by using an adsorption technique in a diesel engine&#8208;operated standby diesel generator set intended to supply electrical power to a guest house, hostels, faculty quarters, and residential area in an educational institution in India is investigated. Essential parameters such as (i) maximum adsorption capacity, (ii) fractional adsorption kinetics, (iii) regenerability and reusability, (iv) dynamic adsorption of the breakthrough curve, and (v) isosteric enthalpy of adsorption of adsorbent samples are also examined. Compared to the other adsorbents examined, eucalyptus wood adsorbent mitigates CO 2 and NO by 50% and 36% at full load, respectively.</description>
+      <author>Maniarasu Ravi, Sushil Kumar Rathore, Murugan Sivalingam</author>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ep.14553</guid>
+    </item>
+    <item>
+      <title>Integration of Pt3Ni Catalysts, Plasma-Etched Multiscale Membrane, and Flow Field with Micro-Channel for High-Performance Fuel Cell</title>
+      <link>https://doi.org/10.1007/s40684-024-00690-0</link>
+      <description>Jue&#8208;Hyuk Jang, Changwook Seol, Segeun Jang, Jinwon Lee, Sang Moon Kim, Sung Jong Yoo, International Journal of Precision Engineering and Manufacturing-Green Technology. None(None)] 2025. https://openalex.org/W4407154300
+
+                No abstract</description>
+      <author>Jue&#8208;Hyuk Jang, Changwook Seol, Segeun Jang, Jinwon Lee, Sang Moon Kim, Sung Jong Yoo</author>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s40684-024-00690-0</guid>
+    </item>
+    <item>
+      <title>Metal-N&lt;sub&gt;4&lt;/sub&gt;-Functionalized Graphene as Highly Active Catalysts for C&#8211;N Bond Formation in Electrochemical Urea Synthesis</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c07971</link>
+      <description>Tsai-Jen Lin, Wei-Sen Chen, Hsien-Chin Li, Chaoyang Chen, Hansaem Choi, Youngkook Kwon, Mu&#8208;Jeng Cheng, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4407159128
+
+                No abstract</description>
+      <author>Tsai-Jen Lin, Wei-Sen Chen, Hsien-Chin Li, Chaoyang Chen, Hansaem Choi, Youngkook Kwon, Mu&#8208;Jeng Cheng</author>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07971</guid>
+    </item>
+    <item>
+      <title>Structural Transformation of Copper-Coordinated COFs Drives Enhanced Multi-Carbon Selectivity in CO2 Electroreduction</title>
+      <link>https://doi.org/10.1016/j.apcatb.2025.125131</link>
+      <description>Jian Yu, Yang Zheng, Bo Lv, Aiming Huang, Junjun Zhang, Zizi Wang, Yifan Zhang, Yang Wu, Yanan Zhou, Yong Wang, Wen Luo, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4407164905
+
+                No abstract</description>
+      <author>Jian Yu, Yang Zheng, Bo Lv, Aiming Huang, Junjun Zhang, Zizi Wang, Yifan Zhang, Yang Wu, Yanan Zhou, Yong Wang, Wen Luo</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125131</guid>
+    </item>
+    <item>
+      <title>A first-principles study into the development of a bifunctional, single-atom catalyst for nickel loading on melon carbon nitride</title>
+      <link>https://doi.org/10.1016/j.apsusc.2025.162640</link>
+      <description>Xiao-Kuan Wu, Xinying Teng, Zhao Hong, Zhigang Lei, Jie Zhang, Applied Surface Science. None(None)] 2025. https://openalex.org/W4407165140
+
+                No abstract</description>
+      <author>Xiao-Kuan Wu, Xinying Teng, Zhao Hong, Zhigang Lei, Jie Zhang</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162640</guid>
     </item>
     <item>
       <title>Surface Structure Effects on H and O Adsorption on Gold, Nickel and Platinum Nanoparticles</title>

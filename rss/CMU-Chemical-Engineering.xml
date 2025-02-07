@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 06 Feb 2025 01:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 01:20:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>How could emerging nanomedicine-based tuberculosis treatments outperform conventional approaches?</title>
-      <link>https://doi.org/10.1080/17435889.2025.2458447</link>
-      <description>Jiwon Kim, Khongorzul Enkhtaivan, Jangmi Yang, Tagbo H. R. Niepa, Jonghoon Choi, Nanomedicine. None(None)] 2025. https://openalex.org/W4406932408
-
-                No abstract</description>
-      <author>Jiwon Kim, Khongorzul Enkhtaivan, Jangmi Yang, Tagbo H. R. Niepa, Jonghoon Choi</author>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/17435889.2025.2458447</guid>
-    </item>
     <item>
       <title>Lipid Nanoparticle Delivery System for Normalization of Tumor Microenvironment and Tumor Vascular Structure</title>
       <link>https://doi.org/10.34133/bmr.0144</link>
@@ -42,10 +32,20 @@
       <link>https://doi.org/10.1021/jacs.4c16135</link>
       <description>Yusef Ahmed, Gabriel dos Passos Gomes, Dean J. Tantillo, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4407123053
 
-                No abstract</description>
+                Proton sandwiches are unusual nonclassical carbocations characterized by a five-center, four-electron bonding array which rapidly isomerize to lower energy isomers with three-center, two-electron bonding arrays via hydrogen migration transition states. These reactions are suspected to involve significant contributions from tunneling, even at relatively high temperatures, where tunneling effects are usually minimal. Machine-learning-accelerated ring-polymer, quasiclassical, and classical ab initio molecular dynamics simulations were used to investigate the effects of a flavor of dynamic matching that involves coupling of vibrational modes of the reactant to the transition structure mode with an imaginary frequency, and how quantum mechanical tunneling affects this coupling. These nonstatistical dynamic effects were quantified by analysis of momentum in the molecular dynamics simulations. We show the importance of momentum for reactivity with and without tunneling, how tunneling amplifies these benefits, and that vibrational modes can be leveraged to generate beneficial momentum.</description>
       <author>Yusef Ahmed, Gabriel dos Passos Gomes, Dean J. Tantillo</author>
       <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c16135</guid>
+    </item>
+    <item>
+      <title>Multiscale analysis through the use of biomass residues and CO2 towards energetic security at country scale via methane production</title>
+      <link>https://doi.org/10.1016/j.energy.2025.134890</link>
+      <description>Guillermo Gal&#225;n, Manuel Taifouris, Mariano Mart&#305;&#769;n, Ignacio E. Grossmann, Energy. None(None)] 2025. https://openalex.org/W4407165130
+
+                No abstract</description>
+      <author>Guillermo Gal&#225;n, Manuel Taifouris, Mariano Mart&#305;&#769;n, Ignacio E. Grossmann</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.energy.2025.134890</guid>
     </item>
   </channel>
 </rss>
