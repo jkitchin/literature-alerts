@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun Feb  9 01:24:04 2025
+Created on Mon Feb 10 01:21:12 2025
 
-Found 3 results from 2025-02-02 to 2025-02-09
+Found 4 results from 2025-02-03 to 2025-02-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -64,6 +64,27 @@ Proton sandwiches are unusual nonclassical carbocations characterized by a five-
 OpenAlex: https://openalex.org/W4407165130 (Open access: False)
     
 [[https://openalex.org/A5013594526][Guillermo Galán]], [[https://openalex.org/A5075865336][Manuel Taifouris]], [[https://openalex.org/A5009198880][Mariano Martı́n]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], Energy. None(None)] 2025. https://doi.org/10.1016/j.energy.2025.134890 
+     
+No abstract    
+
+    
+
+* Economic Nonlinear Model Predictive Control for cyclic gas pipeline operation  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4407272418
+:TOPICS: Advanced Control Systems Optimization, Process Optimization and Integration, Integrated Energy Systems Optimization
+:PUBLICATION_DATE: 2025-02-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.compchemeng.2025.109039")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4407272418"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4407272418"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4407272418"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4407272418 (Open access: True)
+    
+[[https://openalex.org/A5022525870][Lavinia Marina Paola Ghilardi]], [[https://openalex.org/A5054628015][Sakshi Naik]], [[https://openalex.org/A5020653800][Emanuele Martelli]], [[https://openalex.org/A5034550586][Francesco Casella]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], Computers & Chemical Engineering. None(None)] 2025. https://doi.org/10.1016/j.compchemeng.2025.109039 
      
 No abstract    
 

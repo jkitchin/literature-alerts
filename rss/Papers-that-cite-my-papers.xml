@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 09 Feb 2025 01:24:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 01:21:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electron donation from carbon support enhances the activity and stability of ultrasmall ruthenium dioxide nanoparticles in acidic oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.01.280</link>
-      <description>Luo Huang, Lixia Ma, Jie Yang, Jianghao Kang, Yu Chen, Junqing Yan, Yunpeng Fang, Li Deng, Ruibin Jiang, Journal of Colloid and Interface Science. 686(None)] 2025. https://openalex.org/W4407064505
-
-                No abstract</description>
-      <author>Luo Huang, Lixia Ma, Jie Yang, Jianghao Kang, Yu Chen, Junqing Yan, Yunpeng Fang, Li Deng, Ruibin Jiang</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.01.280</guid>
-    </item>
-    <item>
-      <title>Electronic descriptors for designing high-entropy alloy electrocatalysts by leveraging local chemical environments</title>
-      <link>https://doi.org/10.1038/s41467-025-56421-9</link>
-      <description>Guolin Cao, Sha Yang, Ji&#8208;Chang Ren, Wei Liu, Nature Communications. 16(1)] 2025. https://openalex.org/W4407065902
-
-                High-entropy alloys (HEAs) present a vast compositional space for fine-tuning electrocatalytic activities, leveraging millions of distinct active sites on the surface. However, the intricate local chemical environment poses challenges to the rational and efficient design of HEA electrocatalysts with high reactivity. Here, focusing on noble-metal HEAs for oxygen reduction reactions, we propose a straightforward yet effective descriptor for quantitively determining the local reactivities of HEAs. This descriptor is based on a linear combination of the intrinsic d-band filling of the active center and the neighborhood electronegativity. Our model offers an accurate and robust description of the binding strengths of intermediates with different adsorption configurations on HEAs, supported by external density functional theory calculations. Importantly, the local environmental electronegativity of the HEA surface is strongly related to the d-band profile of the center atom(s) embedded within. Finally, we establish a library of activity maps for HEAs encompassing nine noble-metal elements, suggesting that Pd-rich and Ir-rich alloys, such as Pd&#8211;Ag, Ir&#8211;Pt, Ir&#8211;Au compositions, hold promise as potential candidates for optimal electrocatalysts. High entropy alloys hold promises for enhanced oxygen reduction reaction. Here, the authors develop a straightforward yet effective descriptor for rational designing high entropy alloy electrocatalysts with the aid of surface local chemical environments.</description>
-      <author>Guolin Cao, Sha Yang, Ji&#8208;Chang Ren, Wei Liu</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-56421-9</guid>
-    </item>
-    <item>
-      <title>Screened (Co, Rh, Ir)&#8211;N4 graphene single atom catalysts for hydrogen production via tunable surrounding coordination shell: Computation and machine learning</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.01.448</link>
-      <description>Jiu-Ning Wang, Wei Xu, Hao Ma, Qasim, Wanglai Cen, International Journal of Hydrogen Energy. 106(None)] 2025. https://openalex.org/W4407067075
-
-                No abstract</description>
-      <author>Jiu-Ning Wang, Wei Xu, Hao Ma, Qasim, Wanglai Cen</author>
-      <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.01.448</guid>
-    </item>
     <item>
       <title>Crash testing machine learning force fields for molecules, materials, and interfaces: molecular dynamics in the TEA challenge 2023</title>
       <link>https://doi.org/10.1039/d4sc06530a</link>
@@ -302,7 +272,7 @@
       <link>https://doi.org/10.1002/adma.202417374</link>
       <description>Kexin Wang, Shunqi Xu, Dashuai Wang, Zhenhui Kou, Yubin Fu, Micha&#322; Bielejewski, Ver&#243;nica Montes&#8208;Garc&#237;a, Bin Han, Artur Ciesielski, Yang Hou, Paolo Samor&#305;&#769;, Advanced Materials. None(None)] 2025. https://openalex.org/W4407149229
 
-                Abstract The controlled formation of a functional adlayer at the catalyst&#8208;water interface is a highly challenging yet potentially powerful strategy to accelerate proton transfer and deprotonation for ultimately improving the performance of proton&#8208;exchange membrane water electrolysis (PEMWE). In this study, the synthesis of robust vinylene&#8208;linked covalent organic frameworks (COFs) possessing high proton conductivities is reported, which are subsequently hybridized with ruthenium dioxide yielding high&#8208;performance anodic catalysts for the acidic oxygen evolution reaction (OER). In situ spectroscopic measurements corroborated by theoretical calculations reveal that the assembled hydrogen bonds formed between COFs and adsorbed oxo&#8208;intermediates effectively orient interfacial water molecules, stabilizing the transition states for intermediate formation of OER. This determines a decrease in the energy barriers of proton transfer and deprotonation, resulting in exceptional acidic OER performance. When integrated into a PEMWE device, the system achieves a record current density of 1.0 A cm &#8722;2 at only 1.54 V cell voltage, with a long&#8208;term stability exceeding 180 h at industrial&#8208;level 200 mA cm &#8722;2 . The approach relying on the self&#8208;assembly of an oriented hydrogen&#8208;bonded adlayer highlights the disruptive potential of COFs with customizable structures and multifunctional sites for advancing PEMWE technologies.</description>
+                The controlled formation of a functional adlayer at the catalyst-water interface is a highly challenging yet potentially powerful strategy to accelerate proton transfer and deprotonation for ultimately improving the performance of proton-exchange membrane water electrolysis (PEMWE). In this study, the synthesis of robust vinylene-linked covalent organic frameworks (COFs) possessing high proton conductivities is reported, which are subsequently hybridized with ruthenium dioxide yielding high-performance anodic catalysts for the acidic oxygen evolution reaction (OER). In situ spectroscopic measurements corroborated by theoretical calculations reveal that the assembled hydrogen bonds formed between COFs and adsorbed oxo-intermediates effectively orient interfacial water molecules, stabilizing the transition states for intermediate formation of OER. This determines a decrease in the energy barriers of proton transfer and deprotonation, resulting in exceptional acidic OER performance. When integrated into a PEMWE device, the system achieves a record current density of 1.0 A cm-2 at only 1.54 V cell voltage, with a long-term stability exceeding 180 h at industrial-level 200 mA cm-2. The approach relying on the self-assembly of an oriented hydrogen-bonded adlayer highlights the disruptive potential of COFs with customizable structures and multifunctional sites for advancing PEMWE technologies.</description>
       <author>Kexin Wang, Shunqi Xu, Dashuai Wang, Zhenhui Kou, Yubin Fu, Micha&#322; Bielejewski, Ver&#243;nica Montes&#8208;Garc&#237;a, Bin Han, Artur Ciesielski, Yang Hou, Paolo Samor&#305;&#769;</author>
       <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adma.202417374</guid>
@@ -526,6 +496,16 @@
       <author>Mohammad Amin Akhound, Karsten W. Jacobsen, Kristian S. Thygesen</author>
       <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c13863</guid>
+    </item>
+    <item>
+      <title>Exploring the energy landscape of aluminas through machine learning interatomic potential</title>
+      <link>https://doi.org/10.1103/physrevmaterials.9.023801</link>
+      <description>Lei Zhang, W. D. Luo, Renxi Liu, Mohan Chen, Zhongbo Yan, Kun Cao, Physical Review Materials. 9(2)] 2025. https://openalex.org/W4407252667
+
+                No abstract</description>
+      <author>Lei Zhang, W. D. Luo, Renxi Liu, Mohan Chen, Zhongbo Yan, Kun Cao</author>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.9.023801</guid>
     </item>
     <item>
       <title>Structure Prediction of Ionic Epitaxial Interfaces with Ogre Demonstrated for Colloidal Heterostructures of Lead Halide Perovskites</title>
