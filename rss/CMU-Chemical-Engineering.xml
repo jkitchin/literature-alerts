@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 10 Feb 2025 01:21:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 01:19:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Integrated &lt;i&gt;Systems-to-Atoms&lt;/i&gt; (S2A) Framework for Designing Resilient and Efficient Hydrogen Infrastructure Solutions</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.4c05903</link>
-      <description>Mengyao Yuan, Giovanna Bucci, Tanusree Chatterjee, Shyam Deo, John R. Kitchin, Carl D. Laird, Wenqin Li, Thomas Moore, Corey Myers, Wenyu Sun, Ethan M. Sunshine, Bo-Xun Wang, Matthew J. McNenly, Sneha A. Akhade, Energy &amp; Fuels. None(None)] 2025. https://openalex.org/W4407089073
-
-                No abstract</description>
-      <author>Mengyao Yuan, Giovanna Bucci, Tanusree Chatterjee, Shyam Deo, John R. Kitchin, Carl D. Laird, Wenqin Li, Thomas Moore, Corey Myers, Wenyu Sun, Ethan M. Sunshine, Bo-Xun Wang, Matthew J. McNenly, Sneha A. Akhade</author>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c05903</guid>
-    </item>
     <item>
       <title>Vibrationally Assisted Tunneling through the Bread of a Proton Sandwich&#9472;Connections to Dynamic Matching</title>
       <link>https://doi.org/10.1021/jacs.4c16135</link>
@@ -46,6 +36,36 @@
       <author>Lavinia Marina Paola Ghilardi, Sakshi Naik, Emanuele Martelli, Francesco Casella, Lorenz T. Biegler</author>
       <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2025.109039</guid>
+    </item>
+    <item>
+      <title>Modeling, Simulation, and Optimization in the Chemical Engineering Curriculum</title>
+      <link>https://doi.org/10.1201/9781003472360-2</link>
+      <description>Mariano Mart&#305;&#769;n, Ignacio E. Grossmann, CRC Press eBooks. None(None)] 2025. https://openalex.org/W4407277597
+
+                No abstract</description>
+      <author>Mariano Mart&#305;&#769;n, Ignacio E. Grossmann</author>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1201/9781003472360-2</guid>
+    </item>
+    <item>
+      <title>Dynamic Optimization in Process Systems</title>
+      <link>https://doi.org/10.1201/9781003472360-26</link>
+      <description>M. D&#237;az, Lorenz T. Biegler, CRC Press eBooks. None(None)] 2025. https://openalex.org/W4407277625
+
+                No abstract</description>
+      <author>M. D&#237;az, Lorenz T. Biegler</author>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1201/9781003472360-26</guid>
+    </item>
+    <item>
+      <title>Algebraic Modeling and Optimization</title>
+      <link>https://doi.org/10.1201/9781003472360-22</link>
+      <description>Ricardo Lima, Ignacio E. Grossmann, CRC Press eBooks. None(None)] 2025. https://openalex.org/W4407281230
+
+                No abstract</description>
+      <author>Ricardo Lima, Ignacio E. Grossmann</author>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1201/9781003472360-22</guid>
     </item>
   </channel>
 </rss>

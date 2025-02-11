@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 10 Feb 2025 01:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 01:19:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Crash testing machine learning force fields for molecules, materials, and interfaces: molecular dynamics in the TEA challenge 2023</title>
-      <link>https://doi.org/10.1039/d4sc06530a</link>
-      <description>Igor Poltavsky, Mirela Puleva, Anton Charkin-Gorbulin, Gr&#233;gory Fonseca, Ilyes Batatia, Nicholas J. Browning, Stefan Chmiela, Mengnan Cui, J. Thorben Frank, Stefan Heinen, Bing Huang, Silvan K&#228;ser, Adil Kabylda, Danish Khan, Carolin M&#252;ller, Alastair J. A. Price, Kai Riedmiller, Kai T&#246;pfer, Tsz Wai Ko, Markus Meuwly, Matthias Rupp, G&#225;bor C&#347;anyi, O. Anatole von Lilienfeld, Johannes T. Margraf, Klaus&#8208;Robert Mueller, Alexandre Tkatchenko, Chemical Science. None(None)] 2025. https://openalex.org/W4407081389
-
-                We present a comprehensive analysis of the capabilities of modern machine learning force fields to simulate long-term molecular dynamics at near-ambient conditions for molecules, molecule-surface interfaces, and materials within TEA Challenge 2023.</description>
-      <author>Igor Poltavsky, Mirela Puleva, Anton Charkin-Gorbulin, Gr&#233;gory Fonseca, Ilyes Batatia, Nicholas J. Browning, Stefan Chmiela, Mengnan Cui, J. Thorben Frank, Stefan Heinen, Bing Huang, Silvan K&#228;ser, Adil Kabylda, Danish Khan, Carolin M&#252;ller, Alastair J. A. Price, Kai Riedmiller, Kai T&#246;pfer, Tsz Wai Ko, Markus Meuwly, Matthias Rupp, G&#225;bor C&#347;anyi, O. Anatole von Lilienfeld, Johannes T. Margraf, Klaus&#8208;Robert Mueller, Alexandre Tkatchenko</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4sc06530a</guid>
-    </item>
-    <item>
-      <title>Predicting electrocatalytic urea synthesis using a two-dimensional descriptor</title>
-      <link>https://doi.org/10.1038/s42004-025-01424-2</link>
-      <description>Amy Wuttke, Alexander Bagger, Communications Chemistry. 8(1)] 2025. https://openalex.org/W4407084091
-
-                Electrochemical synthesis routes powered by renewable electricity can provide sustainable chemical commodities by replacing conventional fossil-based processes. Increasing research focuses on value-added chemicals like the indispensable fertilizer urea, which also constitutes a study case for electrochemical CN-coupling. To guide the identification of highly selective catalysts, we aim to provide new insight by analysing existing experimental data on the selectivity of transition metal catalysts towards electrochemically synthesized urea. Firstly, we project high dimensional experimental data using principal component analysis (PCA) to lower dimensions, and thereby confirm that urea selectivity is correlated with the selectivity towards CO and NH3. Furthermore, we identified the most suitable two-dimensional descriptors for selectivity prediction out of various adsorption energies calculated using density functional theory (DFT). We suggest that the adsorption energies of *H and *O on transition metal slabs predict the selectivity towards urea in the co-reduction of CO2 and nitrite ( NO2- ).</description>
-      <author>Amy Wuttke, Alexander Bagger</author>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s42004-025-01424-2</guid>
-    </item>
-    <item>
-      <title>Breaking linear scaling relationships in oxygen evolution via dynamic structural regulation of active sites</title>
-      <link>https://doi.org/10.1038/s41467-024-55150-9</link>
-      <description>Zheye Zhang, Hongyan Zhao, Shibo Xi, Xiaoxu Zhao, Xiao Chi, Hong Bin Yang, Zhongxin Chen, Xiaojiang Yu, Yang&#8208;Gang Wang, Bin Liu, Peng Chen, Nature Communications. 16(1)] 2025. https://openalex.org/W4407087380
-
-                The universal linear scaling relationships between the adsorption energies of reactive intermediates limit the performance of catalysts in multi-step catalytic reactions. Here, we show how these scaling relationships can be circumvented in electrochemical oxygen evolution reaction by dynamic structural regulation of active sites. We construct a model Ni-Fe2 molecular catalyst via in situ electrochemical activation, which is able to deliver a notable intrinsic oxygen evolution reaction activity. Theoretical calculations and electrokinetic studies reveal that the dynamic evolution of Ni-adsorbate coordination driven by intramolecular proton transfer can effectively alter the electronic structure of the adjacent Fe active centre during the catalytic cycle. This dynamic dual-site cooperation simultaneously lowers the free energy change associated with O&#8211;H bond cleavage and O&#8211;O bond formation, thereby disrupting the inherent scaling relationship in oxygen evolution reaction. The present study not only advances the development of molecular water oxidation catalysts, but also provides an unconventional paradigm for breaking the linear scaling relationships in multi-intermediates involved catalysis. Circumventing linear scaling relationships in multi-step catalytic reactions is meaningful but challenging. Here, the authors report a method to break this scaling relationship in the oxygen evolution reaction through dynamic regulation of the active site in a Ni-Fe molecular complex catalyst.</description>
-      <author>Zheye Zhang, Hongyan Zhao, Shibo Xi, Xiaoxu Zhao, Xiao Chi, Hong Bin Yang, Zhongxin Chen, Xiaojiang Yu, Yang&#8208;Gang Wang, Bin Liu, Peng Chen</author>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-55150-9</guid>
-    </item>
-    <item>
-      <title>Cost-Effective and Stable Biosensing of Biochemical Oxygen Demand in Wastewater Treatment: Exsolved Rhodium-Titanate Perovskite Catalyst in Microbial Fuel Cell-based Biosensors</title>
-      <link>https://doi.org/10.1016/j.jece.2025.115692</link>
-      <description>Anna Salvian, Shailza Saini, Marina Ram&#237;rez-Moreno, Claudio Avignone&#8208;Rossa, John R. Varcoe, Kalliopi Kousi, Siddharth Gadkari, Journal of environmental chemical engineering. None(None)] 2025. https://openalex.org/W4407088118
-
-                No abstract</description>
-      <author>Anna Salvian, Shailza Saini, Marina Ram&#237;rez-Moreno, Claudio Avignone&#8208;Rossa, John R. Varcoe, Kalliopi Kousi, Siddharth Gadkari</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2025.115692</guid>
-    </item>
-    <item>
-      <title>First-Principles Kinetic Monte Carlo Simulations for Single-Cluster Catalysis: Study of CO&lt;sub&gt;2&lt;/sub&gt; and CH&lt;sub&gt;4&lt;/sub&gt; Conversion on Pt/HfC</title>
-      <link>https://doi.org/10.1021/acscatal.4c07877</link>
-      <description>H&#232;ctor Prats, Michail Stamatakis, ACS Catalysis. None(None)] 2025. https://openalex.org/W4407089508
-
-                No abstract</description>
-      <author>H&#232;ctor Prats, Michail Stamatakis</author>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07877</guid>
-    </item>
     <item>
       <title>Bias Dependence of the Transition State of the Hydrogen Evolution Reaction</title>
       <link>https://doi.org/10.1021/jacs.4c18638</link>
@@ -508,24 +458,14 @@
       <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.9.023801</guid>
     </item>
     <item>
-      <title>Structure Prediction of Ionic Epitaxial Interfaces with Ogre Demonstrated for Colloidal Heterostructures of Lead Halide Perovskites</title>
-      <link>https://doi.org/10.1021/acsnano.4c12713</link>
-      <description>Stefano Toso, Derek Dardzinski, Liberato Manna, Noa Marom, ACS Nano. None(None)] 2025. https://openalex.org/W4407075497
-
-                Colloidal epitaxial heterostructures are nanoparticles composed of two different materials connected at an interface, which can exhibit properties different from those of their individual components. Combining dissimilar materials offers exciting opportunities to create a wide variety of functional heterostructures. However, assessing structural compatibility&#9472;the main prerequisite for epitaxial growth&#9472;is challenging when pairing complex materials with different lattice parameters and crystal structures. This complicates both the selection of target heterostructures for synthesis and the assignment of interface models when new heterostructures are obtained. Here, we demonstrate Ogre as a powerful tool to accelerate the design and characterization of colloidal heterostructures. To this end, we implemented developments tailored for the high-efficiency prediction of epitaxial interfaces between ionic/polar materials, which encompass most colloidal semiconductors. These include the use of pre-screening candidate models based on charge balance at the interface and the use of a classical potential for fast energy evaluations, with parameters automatically calculated based on the input bulk structures. These developments are validated for perovskite-based CsPbBr3/Pb4S3Br2 heterostructures, where Ogre produces interface models in excellent agreement with density functional theory and experiments. Furthermore, we use Ogre to rationalize the templating effect of CsPbCl3 on the growth of lead sulfochlorides, where perovskite seeds induce the formation of Pb4S3Cl2 rather than Pb3S2Cl2 due to better epitaxial compatibility. Finally, combining Ogre simulations with experimental data enables us to unravel the structure and composition of the hitherto unsolved CsPbBr3/BixPbySz interface, and to assign a structure to several other reported metal halide- and oxide-based interfaces. The Ogre package is available on GitHub or via the OgreInterface desktop application, available for Windows, Linux, and Mac.</description>
-      <author>Stefano Toso, Derek Dardzinski, Liberato Manna, Noa Marom</author>
-      <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c12713</guid>
-    </item>
-    <item>
-      <title>Integrated &lt;i&gt;Systems-to-Atoms&lt;/i&gt; (S2A) Framework for Designing Resilient and Efficient Hydrogen Infrastructure Solutions</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.4c05903</link>
-      <description>Mengyao Yuan, Giovanna Bucci, Tanusree Chatterjee, Shyam Deo, John R. Kitchin, Carl D. Laird, Wenqin Li, Thomas Moore, Corey Myers, Wenyu Sun, Ethan M. Sunshine, Bo-Xun Wang, Matthew J. McNenly, Sneha A. Akhade, Energy &amp; Fuels. None(None)] 2025. https://openalex.org/W4407089073
+      <title>Mo2N nanoclusters and FeMo dual atomic active sites confined in N-doped hollow carbon nanocages for synergistic improvement in oxygen reduction and Zn-air battery</title>
+      <link>https://doi.org/10.1016/j.cej.2025.160442</link>
+      <description>Chenyang Wang, Lu Zhang, Jiu&#8208;Ju Feng, Yijing Gao, Ai&#8208;Jun Wang, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4407284110
 
                 No abstract</description>
-      <author>Mengyao Yuan, Giovanna Bucci, Tanusree Chatterjee, Shyam Deo, John R. Kitchin, Carl D. Laird, Wenqin Li, Thomas Moore, Corey Myers, Wenyu Sun, Ethan M. Sunshine, Bo-Xun Wang, Matthew J. McNenly, Sneha A. Akhade</author>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c05903</guid>
+      <author>Chenyang Wang, Lu Zhang, Jiu&#8208;Ju Feng, Yijing Gao, Ai&#8208;Jun Wang</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.160442</guid>
     </item>
   </channel>
 </rss>

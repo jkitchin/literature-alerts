@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Feb 10 01:21:22 2025
+Created on Tue Feb 11 01:19:55 2025
 
-Found 52 results from 2025-02-03 to 2025-02-10
+Found 46 results from 2025-02-04 to 2025-02-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544)
@@ -16,61 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176)
-
-## Crash testing machine learning force fields for molecules, materials, and interfaces: molecular dynamics in the TEA challenge 2023   
-
-OpenAlex: https://openalex.org/W4407081389    
-Open access: True
-    
-[Igor Poltavsky](https://openalex.org/A5069777955), [Mirela Puleva](https://openalex.org/A5107534771), [Anton Charkin-Gorbulin](https://openalex.org/A5028523293), [Grégory Fonseca](https://openalex.org/A5087321869), [Ilyes Batatia](https://openalex.org/A5040590113), [Nicholas J. Browning](https://openalex.org/A5045222555), [Stefan Chmiela](https://openalex.org/A5075988802), [Mengnan Cui](https://openalex.org/A5102621091), [J. Thorben Frank](https://openalex.org/A5036654011), [Stefan Heinen](https://openalex.org/A5024088138), [Bing Huang](https://openalex.org/A5011903103), [Silvan Käser](https://openalex.org/A5052562929), [Adil Kabylda](https://openalex.org/A5059647466), [Danish Khan](https://openalex.org/A5074882900), [Carolin Müller](https://openalex.org/A5046747864), [Alastair J. A. Price](https://openalex.org/A5001121489), [Kai Riedmiller](https://openalex.org/A5010766564), [Kai Töpfer](https://openalex.org/A5067711046), [Tsz Wai Ko](https://openalex.org/A5063684599), [Markus Meuwly](https://openalex.org/A5010154021), [Matthias Rupp](https://openalex.org/A5020780798), [Gábor Cśanyi](https://openalex.org/A5025442671), [O. Anatole von Lilienfeld](https://openalex.org/A5088793872), [Johannes T. Margraf](https://openalex.org/A5044300693), [Klaus‐Robert Mueller](https://openalex.org/A5072994165), [Alexandre Tkatchenko](https://openalex.org/A5026929463), Chemical Science. None(None)] 2025.https://doi.org/10.1039/d4sc06530a.
-    
-We present a comprehensive analysis of the capabilities of modern machine learning force fields to simulate long-term molecular dynamics at near-ambient conditions for molecules, molecule-surface interfaces, and materials within TEA Challenge 2023.    
-
-    
-
-## Predicting electrocatalytic urea synthesis using a two-dimensional descriptor   
-
-OpenAlex: https://openalex.org/W4407084091    
-Open access: True
-    
-[Amy Wuttke](https://openalex.org/A5058388258), [Alexander Bagger](https://openalex.org/A5061339044), Communications Chemistry. 8(1)] 2025.https://doi.org/10.1038/s42004-025-01424-2.
-    
-Electrochemical synthesis routes powered by renewable electricity can provide sustainable chemical commodities by replacing conventional fossil-based processes. Increasing research focuses on value-added chemicals like the indispensable fertilizer urea, which also constitutes a study case for electrochemical CN-coupling. To guide the identification of highly selective catalysts, we aim to provide new insight by analysing existing experimental data on the selectivity of transition metal catalysts towards electrochemically synthesized urea. Firstly, we project high dimensional experimental data using principal component analysis (PCA) to lower dimensions, and thereby confirm that urea selectivity is correlated with the selectivity towards CO and NH3. Furthermore, we identified the most suitable two-dimensional descriptors for selectivity prediction out of various adsorption energies calculated using density functional theory (DFT). We suggest that the adsorption energies of *H and *O on transition metal slabs predict the selectivity towards urea in the co-reduction of CO2 and nitrite ( NO2- ).    
-
-    
-
-## Breaking linear scaling relationships in oxygen evolution via dynamic structural regulation of active sites   
-
-OpenAlex: https://openalex.org/W4407087380    
-Open access: True
-    
-[Zheye Zhang](https://openalex.org/A5067066373), [Hongyan Zhao](https://openalex.org/A5114179102), [Shibo Xi](https://openalex.org/A5031292832), [Xiaoxu Zhao](https://openalex.org/A5032389692), [Xiao Chi](https://openalex.org/A5101948657), [Hong Bin Yang](https://openalex.org/A5059627859), [Zhongxin Chen](https://openalex.org/A5089098780), [Xiaojiang Yu](https://openalex.org/A5101549559), [Yang‐Gang Wang](https://openalex.org/A5112545234), [Bin Liu](https://openalex.org/A5100395496), [Peng Chen](https://openalex.org/A5037511088), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-024-55150-9.
-    
-The universal linear scaling relationships between the adsorption energies of reactive intermediates limit the performance of catalysts in multi-step catalytic reactions. Here, we show how these scaling relationships can be circumvented in electrochemical oxygen evolution reaction by dynamic structural regulation of active sites. We construct a model Ni-Fe2 molecular catalyst via in situ electrochemical activation, which is able to deliver a notable intrinsic oxygen evolution reaction activity. Theoretical calculations and electrokinetic studies reveal that the dynamic evolution of Ni-adsorbate coordination driven by intramolecular proton transfer can effectively alter the electronic structure of the adjacent Fe active centre during the catalytic cycle. This dynamic dual-site cooperation simultaneously lowers the free energy change associated with O–H bond cleavage and O–O bond formation, thereby disrupting the inherent scaling relationship in oxygen evolution reaction. The present study not only advances the development of molecular water oxidation catalysts, but also provides an unconventional paradigm for breaking the linear scaling relationships in multi-intermediates involved catalysis. Circumventing linear scaling relationships in multi-step catalytic reactions is meaningful but challenging. Here, the authors report a method to break this scaling relationship in the oxygen evolution reaction through dynamic regulation of the active site in a Ni-Fe molecular complex catalyst.    
-
-    
-
-## Cost-Effective and Stable Biosensing of Biochemical Oxygen Demand in Wastewater Treatment: Exsolved Rhodium-Titanate Perovskite Catalyst in Microbial Fuel Cell-based Biosensors   
-
-OpenAlex: https://openalex.org/W4407088118    
-Open access: False
-    
-[Anna Salvian](https://openalex.org/A5083338448), [Shailza Saini](https://openalex.org/A5112391911), [Marina Ramírez-Moreno](https://openalex.org/A5012583442), [Claudio Avignone‐Rossa](https://openalex.org/A5085212686), [John R. Varcoe](https://openalex.org/A5007782967), [Kalliopi Kousi](https://openalex.org/A5024837130), [Siddharth Gadkari](https://openalex.org/A5080426966), Journal of environmental chemical engineering. None(None)] 2025.https://doi.org/10.1016/j.jece.2025.115692.
-    
-No abstract    
-
-    
-
-## First-Principles Kinetic Monte Carlo Simulations for Single-Cluster Catalysis: Study of CO2 and CH4 Conversion on Pt/HfC   
-
-OpenAlex: https://openalex.org/W4407089508    
-Open access: True
-    
-[Hèctor Prats](https://openalex.org/A5059106548), [Michail Stamatakis](https://openalex.org/A5081859091), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c07877.
-    
-No abstract    
-
-    
 
 ## Bias Dependence of the Transition State of the Hydrogen Evolution Reaction   
 
@@ -567,23 +512,12 @@ No abstract
 
     
 
-## Structure Prediction of Ionic Epitaxial Interfaces with Ogre Demonstrated for Colloidal Heterostructures of Lead Halide Perovskites   
+## Mo2N nanoclusters and FeMo dual atomic active sites confined in N-doped hollow carbon nanocages for synergistic improvement in oxygen reduction and Zn-air battery   
 
-OpenAlex: https://openalex.org/W4407075497    
-Open access: True
-    
-[Stefano Toso](https://openalex.org/A5060013212), [Derek Dardzinski](https://openalex.org/A5083060047), [Liberato Manna](https://openalex.org/A5025956413), [Noa Marom](https://openalex.org/A5057094529), ACS Nano. None(None)] 2025.https://doi.org/10.1021/acsnano.4c12713.
-    
-Colloidal epitaxial heterostructures are nanoparticles composed of two different materials connected at an interface, which can exhibit properties different from those of their individual components. Combining dissimilar materials offers exciting opportunities to create a wide variety of functional heterostructures. However, assessing structural compatibility─the main prerequisite for epitaxial growth─is challenging when pairing complex materials with different lattice parameters and crystal structures. This complicates both the selection of target heterostructures for synthesis and the assignment of interface models when new heterostructures are obtained. Here, we demonstrate Ogre as a powerful tool to accelerate the design and characterization of colloidal heterostructures. To this end, we implemented developments tailored for the high-efficiency prediction of epitaxial interfaces between ionic/polar materials, which encompass most colloidal semiconductors. These include the use of pre-screening candidate models based on charge balance at the interface and the use of a classical potential for fast energy evaluations, with parameters automatically calculated based on the input bulk structures. These developments are validated for perovskite-based CsPbBr3/Pb4S3Br2 heterostructures, where Ogre produces interface models in excellent agreement with density functional theory and experiments. Furthermore, we use Ogre to rationalize the templating effect of CsPbCl3 on the growth of lead sulfochlorides, where perovskite seeds induce the formation of Pb4S3Cl2 rather than Pb3S2Cl2 due to better epitaxial compatibility. Finally, combining Ogre simulations with experimental data enables us to unravel the structure and composition of the hitherto unsolved CsPbBr3/BixPbySz interface, and to assign a structure to several other reported metal halide- and oxide-based interfaces. The Ogre package is available on GitHub or via the OgreInterface desktop application, available for Windows, Linux, and Mac.    
-
-    
-
-## Integrated Systems-to-Atoms (S2A) Framework for Designing Resilient and Efficient Hydrogen Infrastructure Solutions   
-
-OpenAlex: https://openalex.org/W4407089073    
+OpenAlex: https://openalex.org/W4407284110    
 Open access: False
     
-[Mengyao Yuan](https://openalex.org/A5006428375), [Giovanna Bucci](https://openalex.org/A5077341604), [Tanusree Chatterjee](https://openalex.org/A5074177086), [Shyam Deo](https://openalex.org/A5055823801), [John R. Kitchin](https://openalex.org/A5003442464), [Carl D. Laird](https://openalex.org/A5030631754), [Wenqin Li](https://openalex.org/A5101551798), [Thomas Moore](https://openalex.org/A5061541871), [Corey Myers](https://openalex.org/A5065047172), [Wenyu Sun](https://openalex.org/A5028727210), [Ethan M. Sunshine](https://openalex.org/A5092859260), [Bo-Xun Wang](https://openalex.org/A5056642604), [Matthew J. McNenly](https://openalex.org/A5112550844), [Sneha A. Akhade](https://openalex.org/A5042139840), Energy & Fuels. None(None)] 2025.https://doi.org/10.1021/acs.energyfuels.4c05903.
+[Chenyang Wang](https://openalex.org/A5115592198), [Lu Zhang](https://openalex.org/A5100388668), [Jiu‐Ju Feng](https://openalex.org/A5026610143), [Yijing Gao](https://openalex.org/A5037410761), [Ai‐Jun Wang](https://openalex.org/A5100675358), Chemical Engineering Journal. None(None)] 2025.https://doi.org/10.1016/j.cej.2025.160442.
     
 No abstract    
 
