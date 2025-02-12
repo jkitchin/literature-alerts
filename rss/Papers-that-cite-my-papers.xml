@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 11 Feb 2025 01:19:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 01:20:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Bias Dependence of the Transition State of the Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/jacs.4c18638</link>
-      <description>Jos&#233; M. Gisbert-Gonz&#225;lez, Carlos G&#243;mez-Rodellar, J. G. F. Druce, Eduardo Ortega, Beatriz Rold&#225;n Cuenya, Sebastian Z. Oener, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4407093930
-
-                The hydrogen evolution reaction (HER) is one of the most prominent electrocatalytic reactions of green energy transition. However, the kinetics across materials and electrolyte pH and the impact of hydrogen coverage at high current densities remain poorly understood. Here, we study the HER kinetics over a large set of nanoparticle catalysts in industrially relevant acidic and alkaline membrane electrode assemblies that are only operated with pure water humidified gases. We discover distinct kinetic fingerprints between the iron triad (Fe, Ni, Co), coinage (Au, Cu, Ag), and platinum group metals (Ir, Pt, Pd, Rh). Importantly, the applied bias changes not only the activation energy (EA) but also the pre-exponential factor (A). We interpret these changes as entropic changes in the interfacial solvent that differ between acid and base and entropic changes on the surface due to a changing hydrogen coverage. Finally, we observe that anions can induce Butler&#8211;Volmer behavior for the coinage metals in acid. Our results provide a new foundation to understand HER kinetics and, more broadly, highlight the pressing need to update common understanding of basic concepts in the field of electrocatalysis.</description>
-      <author>Jos&#233; M. Gisbert-Gonz&#225;lez, Carlos G&#243;mez-Rodellar, J. G. F. Druce, Eduardo Ortega, Beatriz Rold&#225;n Cuenya, Sebastian Z. Oener</author>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c18638</guid>
-    </item>
-    <item>
-      <title>CO2 Activation on Single-Atom Catalysts: Importance of the Supporting Matrix</title>
-      <link>https://doi.org/10.1007/s11244-025-02064-5</link>
-      <description>Matteo Spotti, Giovanni Di Liberto, Gianfranco Pacchioni, Topics in Catalysis. None(None)] 2025. https://openalex.org/W4407103613
-
-                No abstract</description>
-      <author>Matteo Spotti, Giovanni Di Liberto, Gianfranco Pacchioni</author>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11244-025-02064-5</guid>
-    </item>
-    <item>
-      <title>Regulating the electronic structure of CoMoO&lt;sub&gt;4&lt;/sub&gt;&lt;i&gt;via&lt;/i&gt; La doping for efficient and durable electrochemical water splitting reactions</title>
-      <link>https://doi.org/10.1039/d4ta06599a</link>
-      <description>A. Bharathi, Erakulan E. Siddharthan, Pandian Mannu, Ranjit Thapa, Chung&#8208;Li Dong, A. Anto Jeffery, Seong&#8208;Cheol Kim, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4407103960
-
-                Metal molybdates (M&#8242;MoO 4 , M = Fe, Co, and Ni) are recognized as active catalysts for water-splitting reactions.</description>
-      <author>A. Bharathi, Erakulan E. Siddharthan, Pandian Mannu, Ranjit Thapa, Chung&#8208;Li Dong, A. Anto Jeffery, Seong&#8208;Cheol Kim</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta06599a</guid>
-    </item>
-    <item>
-      <title>Understanding the Density Dependence of the OER Activity and Mechanism in Single-Atom Catalysts</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c07614</link>
-      <description>Karim Harrath, Yafei Jiang, Cong&#8208;Qiao Xu, Jun Li, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4407108095
-
-                No abstract</description>
-      <author>Karim Harrath, Yafei Jiang, Cong&#8208;Qiao Xu, Jun Li</author>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07614</guid>
-    </item>
-    <item>
-      <title>Interstitial Manganese&#8208;Tuned Nickel&#8211;Iron Diselenide Anode for Efficient and Durable Anion Exchange Membrane Water Electrolysis</title>
-      <link>https://doi.org/10.1002/smll.202411397</link>
-      <description>Shihao Wang, Ming Li, Haolin Tang, Haining Zhang, Small. None(None)] 2025. https://openalex.org/W4407110286
-
-                Abstract Anion exchange membrane water electrolysis (AEMWE) employing Ir/Ru&#8208;free anodes emerges as a bright prospect for green hydrogen society. Here, a Ni 0.8 Fe 0.2 Mn 0.1 Se 2 nanosheet electrocatalyst is reported, in situ grown on stainless&#8208;steel paper, as an efficient and durable self&#8208;supporting AEMWE anode for oxygen evolution reaction (OER). The interstitial [MnSe 4 ] tetrahedra elevate the Fermi level and narrows the band gap of the electrocatalyst, thereby expediting electrode reaction kinetics and increasing the electrical conductivity. In addition, the interstitial Mn atoms attenuate the electron density of Ni and Fe and motivate phase transition to actual active (Mn, Fe)&#8208;doped &#947; &#8208;NiOOH species. The downward d &#8208;band center of Ni active center facilitates the rate&#8208;limiting * OOH desorption step, refreshing the active center, and reducing the free energy barriers for OER. Accordingly, the Ni 0.8 Fe 0.2 Mn 0.1 Se 2 electrode achieves OER overpotentials of 149 and 232 mV at 10 and 100 mA cm &#8722;2 in 1 m KOH. The AEMWE cell incorporating Ni 0.8 Fe 0.2 Mn 0.1 Se 2 anode demonstrates high performance (1.0 A cm &#8722;2 at 1.68 V cell ) and durability (at 1 A cm &#8722;2 for 300 h), surpassing most AEMWE cells that use NiFe&#8208;based anodes. This work highlights the potential of noble&#8208;metal&#8208;free anodes for efficient and durable AEMWE.</description>
-      <author>Shihao Wang, Ming Li, Haolin Tang, Haining Zhang</author>
-      <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202411397</guid>
-    </item>
-    <item>
-      <title>High Crystalline M&lt;sub&gt;x&lt;/sub&gt;Sb&lt;sub&gt;y&lt;/sub&gt; (M&#9552;Fe, Co, and Ni) Nanocrystals Tuned by Antimony for Boosting Overall Water Splitting Catalysis</title>
-      <link>https://doi.org/10.1002/aenm.202405275</link>
-      <description>Yan Zhang, Jiwen Si, Zihan Chen, Longxin Zhao, Fagui Qiu, Wenqing Li, Wei Zhang, Shiding Miao, Advanced Energy Materials. None(None)] 2025. https://openalex.org/W4407110430
-
-                Abstract Six types of M x Sb y compounds (Fe, Co, and Ni antimonides) are synthesized in form of mono&#8208;dispersed nanocrystallites (NCs) via a hot&#8208;injection metathesis&#8208;reduction. Various contents of Sb atoms are found to drive crystallographic structure and re&#8208;coordination in the M x Sb y materials, leading to rhythmical changes of orthorhombic M 3 Sb&#8594;hexagonal MSb&#8594;monoclinic (or orthorhombic) MSb 2 . The crystallography is identified as crucial factor in electrocatalysis of water splitting at cathodic and anodic electrodes, respectively. Owning to the in&#8208;plane microstrain distributed along (001) plane, the synthesized Ni 3 Sb NCs are more suitable to catalyzing hydrogen evolution reaction (HER), sharing overpotential (&#951; 10 ) of 93 mV@10 mA cm &#8722;2 with Tafel slope of 45 mV dec &#8722;1 , and extremely low hydrogen adsorption resistance (0.019 &#937;) is obtained. The orthorhombic FeSb 2 NCs featured with larger deprotonation capacity of 13.71 mC V &#8722;1 excelled in oxygen evolution reaction (OER) electrolysis, and is confirmed to facilitate minimal deformation of the OOH * . The integrated devices (FeSb 2 &#8214;Ni 3 Sb) are tested as efficient catalyst for overall water splitting (1.58 V@10 mA cm &#8722;2 ) with long stability. Density functional theory (DFT) calculations elucidated the particular coordination of Sb with proper electronegativity (2.05) is able to adjust active sites, relax electronic attraction, and benefit electrochemical reactions.</description>
-      <author>Yan Zhang, Jiwen Si, Zihan Chen, Longxin Zhao, Fagui Qiu, Wenqing Li, Wei Zhang, Shiding Miao</author>
-      <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202405275</guid>
-    </item>
-    <item>
-      <title>Principles of coordination structure design of single-atom catalysts in electrocatalytic oxygen reduction reaction</title>
-      <link>https://doi.org/10.1007/s12598-024-03085-x</link>
-      <description>Shihang Zhao, Yuan Pan, Rare Metals. None(None)] 2025. https://openalex.org/W4407113186
-
-                No abstract</description>
-      <author>Shihang Zhao, Yuan Pan</author>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12598-024-03085-x</guid>
-    </item>
-    <item>
-      <title>A Simple and Efficient Non&#8208;Noble Cathode Catalyst Based on Carbon Hollow Nanocapsules Containing Cobalt&#8208;Based Materials for Anion Exchange Membrane Water Electrolyzer</title>
-      <link>https://doi.org/10.1002/smll.202411019</link>
-      <description>Sivaprakasam Radhakrishnan, S. Ramakrishnan, Santhosh Kumar Jayaraj, Mohamed Mamlouk, Byoung&#8208;Suhk Kim, Small. None(None)] 2025. https://openalex.org/W4407113430
-
-                Abstract An efficient approach for fabrication of non&#8208;noble metal&#8208;based electrocatalyst is desirable for designing the energy storage and conversion devices in real&#8208;world usages due to low cost and excellent catalytic properties. The preparation of hollow carbon capsules (HCC) containing cobalt (Co)&#8208;based electrocatalyst is reported by a simple synthesis process without using templates for the first time. Initially, cobalt phenylphosphonate (Co&#8208;MOF) nanorods are fabricated through a simple hydrothermal approach. The as&#8208;formed Co&#8208;MOF is covered with a thin coating of polydopamine (DP&#8208;Co&#8208;MOF) through chemical polymerization of dopamine in Tris&#8208;HCl (pH 8.5). The DP&#8208;Co&#8208;MOF is used as self&#8208;degraded template for the formation of HCC under pyrolysis. The formation mechanism and hydrogen evolution reaction (HER) activity of HCC are investigated. The hollow structure derived under N 2 exhibits a low overpotential (295 mV at 100 mA cm &#8722;2 ) with excellent stability (90.98%) for 150 h, which is further verified by density functional theory (DFT) calculations. Finally, the designed anion exchange membrane (AEM) water electrolyzer based on C&#9472;Co&#9472;N as cathode delivers a current density of 500 mA cm &#8722;2 (at 2.19 V) and 1000 mAcm &#8722;2 (at 2.33 V) in 1.0 m KOH at 60 &#176;C. The fabricated new Co&#8208;based electrocatalyst is highly beneficial for the fabrication of cost&#8208;effective and high&#8208;performance AEMWEs.</description>
-      <author>Sivaprakasam Radhakrishnan, S. Ramakrishnan, Santhosh Kumar Jayaraj, Mohamed Mamlouk, Byoung&#8208;Suhk Kim</author>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202411019</guid>
-    </item>
-    <item>
-      <title>Star-shaped ZIF-derived carbon-based electrocatalysts with FeNX active sites for enhanced oxygen reduction reaction in high-performance zinc-air batteries</title>
-      <link>https://doi.org/10.1016/j.jelechem.2025.118991</link>
-      <description>Shuo Tian, Shang Wu, Jincai Yang, Jiankun Li, Chaoyang Liu, Jiali Shi, Xiang Xiao-ming, Lihong Wang, Yuzhi Sun, Quanlu Yang, Journal of Electroanalytical Chemistry. None(None)] 2025. https://openalex.org/W4407116134
-
-                No abstract</description>
-      <author>Shuo Tian, Shang Wu, Jincai Yang, Jiankun Li, Chaoyang Liu, Jiali Shi, Xiang Xiao-ming, Lihong Wang, Yuzhi Sun, Quanlu Yang</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2025.118991</guid>
-    </item>
-    <item>
-      <title>Computational design of two-dimensional Co-based boridenes: Functional group-dependent electronic properties and bifunctional HER/OER catalytic activity</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.01.493</link>
-      <description>Xiangang Wan, Fengxian Ma, Hongbo Wu, Yalong Jiao, International Journal of Hydrogen Energy. 106(None)] 2025. https://openalex.org/W4407116201
-
-                No abstract</description>
-      <author>Xiangang Wan, Fengxian Ma, Hongbo Wu, Yalong Jiao</author>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.01.493</guid>
-    </item>
     <item>
       <title>ChemTexts: a resource for good scientific practice</title>
       <link>https://doi.org/10.1007/s11144-025-02804-4</link>
@@ -466,6 +366,66 @@
       <author>Chenyang Wang, Lu Zhang, Jiu&#8208;Ju Feng, Yijing Gao, Ai&#8208;Jun Wang</author>
       <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.160442</guid>
+    </item>
+    <item>
+      <title>Exploring the Catalytic Performance of Oxygen-Coordinated Single-Atom Catalysts for Nitric Oxide Electroreduction</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c07612</link>
+      <description>Shiya Zhu, Yu Zhang, Wenbin Liu, Deshuai Yang, Guobing Zhou, Zhen Yang, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4407292269
+
+                No abstract</description>
+      <author>Shiya Zhu, Yu Zhang, Wenbin Liu, Deshuai Yang, Guobing Zhou, Zhen Yang</author>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07612</guid>
+    </item>
+    <item>
+      <title>Why Do Weak-Binding M&#8211;N&#8211;C Single-Atom Catalysts Possess Anomalously High Oxygen Reduction Activity?</title>
+      <link>https://doi.org/10.1021/jacs.4c16733</link>
+      <description>Di Zhang, Fangxin She, Jiaxiang Chen, Li Wei, Hao Li, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4407293609
+
+                Single-atom catalysts (SACs) with metal&#8211;nitrogen&#8211;carbon (M&#8211;N&#8211;C) structures are widely recognized as promising candidates in oxygen reduction reactions (ORR). According to the classical Sabatier principle, optimal 3d metal catalysts, such as Fe/Co&#8211;N&#8211;C, achieve superior catalytic performance due to the moderate binding strength. However, the substantial ORR activity demonstrated by weakly binding M&#8211;N&#8211;C catalysts such as Ni/Cu&#8211;N&#8211;C challenges current understandings, emphasizing the need to explore new underlying mechanisms. In this work, we integrated a pH-field coupled microkinetic model with detailed experimental electron state analyses to verify a novel key step in the ORR reaction pathway of weak-binding SACs&#9472;the oxygen adsorption at the metal&#8211;nitrogen bridge site. This step significantly altered the adsorption scaling relations, electric field responses, and solvation effects, further impacting the key kinetic reaction barrier from HOO* to O* and pH-dependent performance. Synchrotron spectra analysis further provides evidence for the new weak-binding M&#8211;N&#8211;C model, showing an increase in electron density on the antibonding &#960; orbitals of N atoms in weak-binding M&#8211;N&#8211;C catalysts and confirming the presence of N&#8211;O bonds. These findings redefine the understanding of weak-binding M&#8211;N&#8211;C catalyst behavior, opening up new perspectives for their application in clean energy.</description>
+      <author>Di Zhang, Fangxin She, Jiaxiang Chen, Li Wei, Hao Li</author>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c16733</guid>
+    </item>
+    <item>
+      <title>Hierarchical Heterojunction Construction and Interaction Mechanism of Ru1-LaOx-NiMnOx Nanocomposite for Alkaline Hydrogen Evolution</title>
+      <link>https://doi.org/10.1016/j.jallcom.2025.179115</link>
+      <description>Qianzuo Liu, Yunping Ma, Nan Ma, Yingyi Wang, Sifan Sun, Binqi He, Ting Zhang, Xuehua Yan, Tie Li, Journal of Alloys and Compounds. None(None)] 2025. https://openalex.org/W4407302411
+
+                No abstract</description>
+      <author>Qianzuo Liu, Yunping Ma, Nan Ma, Yingyi Wang, Sifan Sun, Binqi He, Ting Zhang, Xuehua Yan, Tie Li</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2025.179115</guid>
+    </item>
+    <item>
+      <title>Review of direct ammonia solid oxide fuel cells: Low temperature cell structure and ammonia decomposition strategies</title>
+      <link>https://doi.org/10.1016/j.rser.2025.115350</link>
+      <description>Yuchen Ya, Ying Xu, Ahmed Mohammed Elbanna, Yimin Liu, Boyu Sun, Xiaobei Cheng, Renewable and Sustainable Energy Reviews. 213(None)] 2025. https://openalex.org/W4407308347
+
+                No abstract</description>
+      <author>Yuchen Ya, Ying Xu, Ahmed Mohammed Elbanna, Yimin Liu, Boyu Sun, Xiaobei Cheng</author>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.rser.2025.115350</guid>
+    </item>
+    <item>
+      <title>Facet Engineering of Weyl Semimetals for Efficient Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1016/j.mtcata.2025.100091</link>
+      <description>Ting Wai Lau, Qiong Lei, Jun Yin, Materials Today Catalysis. None(None)] 2025. https://openalex.org/W4407309182
+
+                No abstract</description>
+      <author>Ting Wai Lau, Qiong Lei, Jun Yin</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcata.2025.100091</guid>
+    </item>
+    <item>
+      <title>Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c07477</link>
+      <description>Brook Wander, Joseph Musielewicz, Raffaele Cheula, John R. Kitchin, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4407310889
+
+                No abstract</description>
+      <author>Brook Wander, Joseph Musielewicz, Raffaele Cheula, John R. Kitchin</author>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07477</guid>
     </item>
   </channel>
 </rss>
