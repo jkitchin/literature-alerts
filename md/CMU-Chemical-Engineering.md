@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Feb 12 01:20:03 2025
+Created on Thu Feb 13 01:20:39 2025
 
-Found 7 results from 2025-02-05 to 2025-02-12
+Found 6 results from 2025-02-06 to 2025-02-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Vibrationally Assisted Tunneling through the Bread of a Proton Sandwich─Connections to Dynamic Matching   
-
-OpenAlex: https://openalex.org/W4407123053    
-Open access: False
-    
-[Yusef Ahmed](https://openalex.org/A5004687477), [Gabriel dos Passos Gomes](https://openalex.org/A5048633127), [Dean J. Tantillo](https://openalex.org/A5079094106), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.4c16135.
-    
-Proton sandwiches are unusual nonclassical carbocations characterized by a five-center, four-electron bonding array which rapidly isomerize to lower energy isomers with three-center, two-electron bonding arrays via hydrogen migration transition states. These reactions are suspected to involve significant contributions from tunneling, even at relatively high temperatures, where tunneling effects are usually minimal. Machine-learning-accelerated ring-polymer, quasiclassical, and classical ab initio molecular dynamics simulations were used to investigate the effects of a flavor of dynamic matching that involves coupling of vibrational modes of the reactant to the transition structure mode with an imaginary frequency, and how quantum mechanical tunneling affects this coupling. These nonstatistical dynamic effects were quantified by analysis of momentum in the molecular dynamics simulations. We show the importance of momentum for reactivity with and without tunneling, how tunneling amplifies these benefits, and that vibrational modes can be leveraged to generate beneficial momentum.    
-
-    
 
 ## Multiscale analysis through the use of biomass residues and CO2 towards energetic security at country scale via methane production   
 

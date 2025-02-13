@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 12 Feb 2025 01:20:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 01:20:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Vibrationally Assisted Tunneling through the Bread of a Proton Sandwich&#9472;Connections to Dynamic Matching</title>
-      <link>https://doi.org/10.1021/jacs.4c16135</link>
-      <description>Yusef Ahmed, Gabriel dos Passos Gomes, Dean J. Tantillo, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4407123053
-
-                Proton sandwiches are unusual nonclassical carbocations characterized by a five-center, four-electron bonding array which rapidly isomerize to lower energy isomers with three-center, two-electron bonding arrays via hydrogen migration transition states. These reactions are suspected to involve significant contributions from tunneling, even at relatively high temperatures, where tunneling effects are usually minimal. Machine-learning-accelerated ring-polymer, quasiclassical, and classical ab initio molecular dynamics simulations were used to investigate the effects of a flavor of dynamic matching that involves coupling of vibrational modes of the reactant to the transition structure mode with an imaginary frequency, and how quantum mechanical tunneling affects this coupling. These nonstatistical dynamic effects were quantified by analysis of momentum in the molecular dynamics simulations. We show the importance of momentum for reactivity with and without tunneling, how tunneling amplifies these benefits, and that vibrational modes can be leveraged to generate beneficial momentum.</description>
-      <author>Yusef Ahmed, Gabriel dos Passos Gomes, Dean J. Tantillo</author>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c16135</guid>
-    </item>
     <item>
       <title>Multiscale analysis through the use of biomass residues and CO2 towards energetic security at country scale via methane production</title>
       <link>https://doi.org/10.1016/j.energy.2025.134890</link>
