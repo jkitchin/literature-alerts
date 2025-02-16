@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 15 Feb 2025 01:19:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 01:26:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Activating the Basal Plane of 2D Transition Metal Dichalcogenides via High-Entropy Alloying</title>
-      <link>https://doi.org/10.1021/jacs.4c13863</link>
-      <description>Mohammad Amin Akhound, Karsten W. Jacobsen, Kristian S. Thygesen, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4407243054
-
-                Two-dimensional materials, such as transition metal dichalcogenides (TMDCs) in the 2H or 1T crystal phases, are promising (electro)catalyst candidates due to their high surface-to-volume ratio and composition of low-cost, abundant elements. While the edges of elemental TMDC nanoparticles, such as MoS2, can show significant catalytic activity, the basal plane of the pristine materials is notoriously inert, which limits their normalized activity. Here, we show that high densities of catalytically active sites can be formed on the TMDC basal plane by alloying elements that prefer the 2H (1T) phase into a 1T (2H) structure. The global stability of the alloy, in particular, whether it crystallizes in the 2H or 1T phase, can be controlled by ensuring a majority of elements prefer the target phase. We further show that the mixing entropy plays a decisive role in stabilizing the alloy, implying that high-entropy alloying becomes essential. Our calculations point to a number of interesting nonprecious hydrogen evolution catalysts, including (CrTaVHfZr)S2 and (CrNbVTiZr)S2 in the 1T-phase and (MoNbTaVTi)S2 in the 2H-phase. Our work opens new directions for designing catalytic sites via high-entropy alloy stabilization of locally unstable structures.</description>
-      <author>Mohammad Amin Akhound, Karsten W. Jacobsen, Kristian S. Thygesen</author>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c13863</guid>
-    </item>
-    <item>
-      <title>Exploring the energy landscape of aluminas through machine learning interatomic potential</title>
-      <link>https://doi.org/10.1103/physrevmaterials.9.023801</link>
-      <description>Lei Zhang, W. D. Luo, Renxi Liu, Mohan Chen, Zhongbo Yan, Kun Cao, Physical Review Materials. 9(2)] 2025. https://openalex.org/W4407252667
-
-                Despite the widespread applications of alumina due to its rich polymorphism, the structures of many transitional aluminas remain unresolved. This work employs the neuroevolution potential (NEP) approach to accurately describe polymorphic aluminas. Its accuracy and generality are validated through molecular dynamics simulations under diverse thermodynamic and structural conditions. A structural search workflow has also been developed based on NEP, which, in conjunction with spectroscopic data and structural stability considerations, supports the energetic preference of the Smr\ifmmode \check{c}\else \v{c}\fi{}ok model over the Luo model for $\ensuremath{\gamma}$-Al${}_{2}$O${}_{3}$. This methodological framework provides a systematic approach for exploring polymorphic materials with intrinsic defects, such as Ga${}_{2}$O${}_{3}$.</description>
-      <author>Lei Zhang, W. D. Luo, Renxi Liu, Mohan Chen, Zhongbo Yan, Kun Cao</author>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.9.023801</guid>
-    </item>
     <item>
       <title>Mo2N nanoclusters and FeMo dual atomic active sites confined in N-doped hollow carbon nanocages for synergistic improvement in oxygen reduction and Zn-air battery</title>
       <link>https://doi.org/10.1016/j.cej.2025.160442</link>
@@ -396,6 +376,136 @@
       <author>Abdelmajid Es-saadi, Zakaryae Haman, Moussa Kibbou, Aznague Lahcen, I. Essaoudi, A. Ainane</author>
       <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.optmat.2025.116810</guid>
+    </item>
+    <item>
+      <title>Ammonia Synthesis via Nitric Oxide Electrochemical Reduction on OH-MXenes: A Universal Descriptor</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c07568</link>
+      <description>Lu Liu, Yuncai Zhao, Xuan Lin, Chun-Xia Ren, Yijing Gao, Weidong Zhu, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4407451847
+
+                No abstract</description>
+      <author>Lu Liu, Yuncai Zhao, Xuan Lin, Chun-Xia Ren, Yijing Gao, Weidong Zhu</author>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07568</guid>
+    </item>
+    <item>
+      <title>First-row transition metal/N-doped Boron Phosphide monolayer as single-atom catalysts for electrochemical reduction of CO2 towards CO: A density functional theory study</title>
+      <link>https://doi.org/10.1016/j.ijoes.2025.100970</link>
+      <description>Hefei Gao, Quande Che, International Journal of Electrochemical Science. None(None)] 2025. https://openalex.org/W4407482224
+
+                No abstract</description>
+      <author>Hefei Gao, Quande Che</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijoes.2025.100970</guid>
+    </item>
+    <item>
+      <title>Investigating the effect of active site's coordination number on the oxygen reduction reaction activity of Fe-Co dual-atom catalysts: A theoretical study</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.02.124</link>
+      <description>Anuj Kumar, Mohd Ubaidullah, Ghulam Yasin, International Journal of Hydrogen Energy. 109(None)] 2025. https://openalex.org/W4407485711
+
+                No abstract</description>
+      <author>Anuj Kumar, Mohd Ubaidullah, Ghulam Yasin</author>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.02.124</guid>
+    </item>
+    <item>
+      <title>Prospects of using High Entropy Oxides as Catalysts for the Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1016/j.coelec.2025.101670</link>
+      <description>Katrine L. Svane, Current Opinion in Electrochemistry. None(None)] 2025. https://openalex.org/W4407509475
+
+                No abstract</description>
+      <author>Katrine L. Svane</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2025.101670</guid>
+    </item>
+    <item>
+      <title>Theoretical and Experimental Studies of the Structural Chameleon EuYCuTe3</title>
+      <link>https://doi.org/10.3390/ma18040820</link>
+      <description>&#1040;nna V. Ruseikina, Maxim V. Grigoriev, V. A. Chernyshev, E. M. Roginski&#301;, Alexander A. Garmonov, Ralf J. C. Locke, Thomas Schleid, Materials. 18(4)] 2025. https://openalex.org/W4407531841
+
+                Layered orthorhombic single crystals of EuYCuTe3 are synthesized using the ampoule method from the elemental precursors taken in the ratio of 1 Eu:1 Y:1 Cu:3 Te by heating up to 1120 K with an excess of CsI as flux. The orthorhombic structure of EuYCuTe3 is established, and structural parameters are obtained using X-ray diffraction. At ambient conditions, the sample crystallizes in the space group Pnma with the unit cell parameters a = 11.2730(7) &#197;, b = 4.3214(3) &#197;, c = 14.3271(9) &#197;. The structure is composed of vertex-connected [CuTe4]7&#8722; tetrahedra, which form chains along the [010] direction, and of edge-connected [YTe6]9&#8722; octahedra, which form layers parallel to the (010) plane. The Eu2+ cations are found in a capped trigonal prismatic coordination of Te2&#8722; anions. The structural phase transition from the &#945; to the &#946; phase is discovered upon heating the sample to 323 K, which comes accompanied with a decrease of [CuTe4]7&#8722; tetrahedral distortion. The symmetry of the high-temperature phase is established as ordered in the space group Cmcm (a = 4.3231(3) &#197;, b = 14.3328(9) &#197;, c = 11.2843(7) &#197;). The nature and microscopic mechanism of the phase transition is discussed. By cooling it down below 3 K, the soft ferromagnetic properties of EuYCuTe3 are discovered. The correlation of the ferromagnetic transition temperature in the series of chalcogenides EuYCuCh3 (Ch = S, Se, Te) with the ionic radius of the chalcogenide anion is established. The structural dynamical elastic properties of &#945;- and &#946;-EuYCuTe3 were calculated within the ab initio approach. The vibrational mode frequencies and decomposition on irreducible representations, as well as the degree of ion involvement in each mode, were determined. The calculations reveal an imaginary mode in the Y-point of the Brillouin zone in the high symmetry &#946;-EuYCuTe3 phase. This finding explains the nature of structural reconstruction in EuYCuTe3 crystal as a second-order phase transition induced by soft mode condensation at the edge of the Brillouin zone. The exfoliation of a single layer is simulated theoretically. The exfoliation energy is estimated, and the dynamical properties of EuYCuTe3 single layers are studied.</description>
+      <author>&#1040;nna V. Ruseikina, Maxim V. Grigoriev, V. A. Chernyshev, E. M. Roginski&#301;, Alexander A. Garmonov, Ralf J. C. Locke, Thomas Schleid</author>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/ma18040820</guid>
+    </item>
+    <item>
+      <title>Dual Doping in Precious Metal Oxides: Accelerating Acidic Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.3390/ijms26041582</link>
+      <description>Guoxin Ma, Fei Wang, Rui Jin, Bingrong Guo, Haohao Huo, Yilong Dai, Jefferson Zhe Liu, Jia Liu, Siwei Li, International Journal of Molecular Sciences. 26(4)] 2025. https://openalex.org/W4407534851
+
+                Developing a highly active and stable catalyst for acidic oxygen evolution reactions (OERs), the key half-reaction for proton exchange membrane water electrolysis, has been one of the most cutting-edge topics in electrocatalysis. A dual-doping strategy optimizes the catalyst electronic environment, modifies the coordination environment, generates vacancies, and introduces strain effects through the synergistic effect of two elements to achieve high catalytic performance. In this review, we summarize the progress of dual doping in RuO2 or IrO2 for acidic OERs. The three main mechanisms of OERs are dicussed firstly, followed by a detailed examination of the development history of dual-doping catalysts, from experimentally driven dual-doping systems to machine learning (ML) and theoretical screening of dual-doping systems. Lastly, we provide a summary of the remaining challenges and future prospects, offering valuable insights into dual doping for acidic OERs.</description>
+      <author>Guoxin Ma, Fei Wang, Rui Jin, Bingrong Guo, Haohao Huo, Yilong Dai, Jefferson Zhe Liu, Jia Liu, Siwei Li</author>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/ijms26041582</guid>
+    </item>
+    <item>
+      <title>Design of Fe&lt;sub&gt;2&lt;/sub&gt;Mo@&#947;-GDY triatomic catalyst for electrocatalytic urea synthesis of N&lt;sub&gt;2&lt;/sub&gt; and CO: a theoretical study</title>
+      <link>https://doi.org/10.20517/jmi.2024.49</link>
+      <description>Linyuan Chi, Tonghui Wang, Qing Jiang, Journal of Materials Informatics. 5(1)] 2025. https://openalex.org/W4407555758
+
+                While urea is widely used as a chemical raw material, its precursor ammonia (NH3) has traditionally been synthesized under high-temperature/pressure conditions, leading to not only huge energy consumption but also serious CO2 emission. Here, we present a groundbreaking catalyst design approach, which optimizes adsorption configurations and reaction pathways by controlling the adsorption energies of each intermediate in the reaction, thus enhancing catalytic performance. Via density functional theory (DFT) calculations, we designed a triatomic catalyst [i.e., Fe2Mo@&#947;-graphdiyne (&#947;-GDY)] with a limiting potential of -0.22 V and a C-N coupling energy barrier of 0.34 eV. Notably, the Fe2Mo@&#947;-GDY catalyst presents a high selectivity and robust antioxidation capabilities under applied potentials. Our comprehensive analysis elucidates the factors affecting the limiting potential and C-N coupling energy barrier. These insights significantly contribute to the advancement of catalyst design strategies for electrocatalytic urea synthesis, offering a more efficient and eco-friendly alternative to traditional methods.</description>
+      <author>Linyuan Chi, Tonghui Wang, Qing Jiang</author>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.20517/jmi.2024.49</guid>
+    </item>
+    <item>
+      <title>Artificial Intelligence&#8208;Assisted Experimental Optimization of Water Oxidation Catalysts</title>
+      <link>https://doi.org/10.1002/cite.202400156</link>
+      <description>Henrik Spitzenpfeil, Marius Neumann, Nick Hausen, Regina Palkovits, Stefan Palkovits, Chemie Ingenieur Technik. None(None)] 2025. https://openalex.org/W4407560244
+
+                Abstract Artificial intelligence (AI) methods are very often used to make predictions for datasets that were created externally in arbitrary experiments or on already literature known datasets. In this work, we try to make use of active learning techniques to search for an optimal strategy for the startup&#8208;phase of bulk nickel electrodes in the oxygen evolution reaction. The data collected was afterwards reduced in dimensions and used to extract additional information that were learned via an artificial neural network (ANN) on the dataset, respectively.</description>
+      <author>Henrik Spitzenpfeil, Marius Neumann, Nick Hausen, Regina Palkovits, Stefan Palkovits</author>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cite.202400156</guid>
+    </item>
+    <item>
+      <title>Advancements in Sustainable Electrolytic Manganese Recovery: Techniques, Mechanisms, and Future Trends</title>
+      <link>https://doi.org/10.3390/recycling10010026</link>
+      <description>Yunyu Li, Xuhai Pan, Bahman Amini Horri, Recycling. 10(1)] 2025. https://openalex.org/W4407561961
+
+                Electrolytic manganese metal (EMM) produced from recyclable resources has recently gained increasing attention due to the scarcity of high-quality manganese natural resources and its broad range of applications. This review has summarised recent progress in manganese recovery techniques, including pyrometallurgy and hydrometallurgy. It has also critically assessed the processes and mechanisms involved in manganese electrodeposition for the Mn chloride- and Mn sulphate-based systems, with a major focus on electrode reactions and Mn nucleation growth. The key optimisation factors influencing manganese electrodeposition, such as electrolytes, power consumption, additives, cell structures, and electrode materials, were analysed, with particular attention to their impact on current efficiency, specific energy consumption, and product quality. The recent research directions were also highlighted to address practical challenges and enhance the sustainability of the EMM process, which mainly includes improving the ecological outcomes and reducing both the operating and investment costs. Promising strategies for the simultaneous production of EMM and electrolytic manganese dioxide (EMD) were also identified, which mainly comprised applying membrane technology, electrodeposition from ionic liquids, recycling and reusing waste materials, and exploring hybrid techniques. The results of this study showed that the prospective optimisation approaches for EMM are mainly driven by the need to enhance efficiency, reduce costs, and improve product quality through sustainable technological advancements. This review can be used as a comprehensive guide for manganese electrodeposition approaches for both practical and scientific research communities.</description>
+      <author>Yunyu Li, Xuhai Pan, Bahman Amini Horri</author>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/recycling10010026</guid>
+    </item>
+    <item>
+      <title>Two-dimensional materials-based cathodes for high-performance microbial fuel cells</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.01.432</link>
+      <description>Lina Jaya Diguna, R.R.S.P.S. Dewi, Tobias Haposan, Fidelis Stefanus Hubertson Simanjuntak, Arramel Arramel, Marcelinus Christwardana, Muhammad Danang Birowosuto, International Journal of Hydrogen Energy. 109(None)] 2025. https://openalex.org/W4407564512
+
+                No abstract</description>
+      <author>Lina Jaya Diguna, R.R.S.P.S. Dewi, Tobias Haposan, Fidelis Stefanus Hubertson Simanjuntak, Arramel Arramel, Marcelinus Christwardana, Muhammad Danang Birowosuto</author>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.01.432</guid>
+    </item>
+    <item>
+      <title>Selective adsorption, structure and dynamics of CO2 &#8211; CH4 mixture in mg-MOF-74 and the influence of Intercrystalline disorder</title>
+      <link>https://doi.org/10.1016/j.chemphys.2025.112661</link>
+      <description>Indu Dhiman, David R. Cole, Siddharth Gautam, Chemical Physics. None(None)] 2025. https://openalex.org/W4407568053
+
+                No abstract</description>
+      <author>Indu Dhiman, David R. Cole, Siddharth Gautam</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.chemphys.2025.112661</guid>
+    </item>
+    <item>
+      <title>Predicting the Electron Density of Charged Systems Using Machine Learning</title>
+      <link>https://doi.org/10.1021/acs.jpca.4c08583</link>
+      <description>Sherif Abdulkader Tawfik, Sunil Gupta, Svetha Venkatesh, The Journal of Physical Chemistry A. None(None)] 2025. https://openalex.org/W4407451128
+
+                The prediction of the electron density in molecules and crystals is a key pillar in the first-principles computation of their properties. Using machine learning to predict the electron density by using the atomic structure alone can save the computational cost of performing first-principles computations. While various machine learning approaches have been introduced for predicting the electron density, none of them predict the electron density for charged systems. This work extends a recent machine learning charge density model, DeepDFT, by including the charge of the structure as an input parameter into the model. We establish an input charge representation approach that successfully predicts the charged electron densities for several test cases, including charged defective perovskites, LiCoO2 supercells with multiple Li vacancies, diamond-based defects, metal-organic frameworks, and molecular crystals.</description>
+      <author>Sherif Abdulkader Tawfik, Sunil Gupta, Svetha Venkatesh</author>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.4c08583</guid>
+    </item>
+    <item>
+      <title>Supercapacitor Materials Database Generated using Web Scrapping and Natural Language Processing</title>
+      <link>https://doi.org/10.1016/j.jmgm.2025.108980</link>
+      <description>Tikam C. Soni, Manoranjan Kumar Manoj, Mahima Verma, Manwendra K. Tripathi, Journal of Molecular Graphics and Modelling. None(None)] 2025. https://openalex.org/W4407510795
+
+                No abstract</description>
+      <author>Tikam C. Soni, Manoranjan Kumar Manoj, Mahima Verma, Manwendra K. Tripathi</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jmgm.2025.108980</guid>
     </item>
   </channel>
 </rss>

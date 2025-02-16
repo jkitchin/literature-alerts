@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sat Feb 15 01:19:51 2025
+Created on Sun Feb 16 01:26:38 2025
 
-Found 39 results from 2025-02-08 to 2025-02-15
+Found 50 results from 2025-02-09 to 2025-02-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544)
@@ -16,28 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176)
-
-## Activating the Basal Plane of 2D Transition Metal Dichalcogenides via High-Entropy Alloying   
-
-OpenAlex: https://openalex.org/W4407243054    
-Open access: True
-    
-[Mohammad Amin Akhound](https://openalex.org/A5083926031), [Karsten W. Jacobsen](https://openalex.org/A5079996682), [Kristian S. Thygesen](https://openalex.org/A5067980873), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.4c13863.
-    
-Two-dimensional materials, such as transition metal dichalcogenides (TMDCs) in the 2H or 1T crystal phases, are promising (electro)catalyst candidates due to their high surface-to-volume ratio and composition of low-cost, abundant elements. While the edges of elemental TMDC nanoparticles, such as MoS2, can show significant catalytic activity, the basal plane of the pristine materials is notoriously inert, which limits their normalized activity. Here, we show that high densities of catalytically active sites can be formed on the TMDC basal plane by alloying elements that prefer the 2H (1T) phase into a 1T (2H) structure. The global stability of the alloy, in particular, whether it crystallizes in the 2H or 1T phase, can be controlled by ensuring a majority of elements prefer the target phase. We further show that the mixing entropy plays a decisive role in stabilizing the alloy, implying that high-entropy alloying becomes essential. Our calculations point to a number of interesting nonprecious hydrogen evolution catalysts, including (CrTaVHfZr)S2 and (CrNbVTiZr)S2 in the 1T-phase and (MoNbTaVTi)S2 in the 2H-phase. Our work opens new directions for designing catalytic sites via high-entropy alloy stabilization of locally unstable structures.    
-
-    
-
-## Exploring the energy landscape of aluminas through machine learning interatomic potential   
-
-OpenAlex: https://openalex.org/W4407252667    
-Open access: False
-    
-[Lei Zhang](https://openalex.org/A5108868948), [W. D. Luo](https://openalex.org/A5005631243), [Renxi Liu](https://openalex.org/A5050729289), [Mohan Chen](https://openalex.org/A5076410530), [Zhongbo Yan](https://openalex.org/A5066670058), [Kun Cao](https://openalex.org/A5100770459), Physical Review Materials. 9(2)] 2025.https://doi.org/10.1103/physrevmaterials.9.023801.
-    
-Despite the widespread applications of alumina due to its rich polymorphism, the structures of many transitional aluminas remain unresolved. This work employs the neuroevolution potential (NEP) approach to accurately describe polymorphic aluminas. Its accuracy and generality are validated through molecular dynamics simulations under diverse thermodynamic and structural conditions. A structural search workflow has also been developed based on NEP, which, in conjunction with spectroscopic data and structural stability considerations, supports the energetic preference of the Smr\ifmmode \check{c}\else \v{c}\fi{}ok model over the Luo model for $\ensuremath{\gamma}$-Al${}_{2}$O${}_{3}$. This methodological framework provides a systematic approach for exploring polymorphic materials with intrinsic defects, such as Ga${}_{2}$O${}_{3}$.    
-
-    
 
 ## Mo2N nanoclusters and FeMo dual atomic active sites confined in N-doped hollow carbon nanocages for synergistic improvement in oxygen reduction and Zn-air battery   
 
@@ -441,6 +419,149 @@ OpenAlex: https://openalex.org/W4407438671
 Open access: False
     
 [Abdelmajid Es-saadi](https://openalex.org/A5116250943), [Zakaryae Haman](https://openalex.org/A5009289774), [Moussa Kibbou](https://openalex.org/A5085076132), [Aznague Lahcen](https://openalex.org/A5116250944), [I. Essaoudi](https://openalex.org/A5032205262), [A. Ainane](https://openalex.org/A5002592841), Optical Materials. None(None)] 2025.https://doi.org/10.1016/j.optmat.2025.116810.
+    
+No abstract    
+
+    
+
+## Ammonia Synthesis via Nitric Oxide Electrochemical Reduction on OH-MXenes: A Universal Descriptor   
+
+OpenAlex: https://openalex.org/W4407451847    
+Open access: False
+    
+[Lu Liu](https://openalex.org/A5102858019), [Yuncai Zhao](https://openalex.org/A5110110696), [Xuan Lin](https://openalex.org/A5076802115), [Chun-Xia Ren](https://openalex.org/A5101430724), [Yijing Gao](https://openalex.org/A5037410761), [Weidong Zhu](https://openalex.org/A5055897111), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.4c07568.
+    
+No abstract    
+
+    
+
+## First-row transition metal/N-doped Boron Phosphide monolayer as single-atom catalysts for electrochemical reduction of CO2 towards CO: A density functional theory study   
+
+OpenAlex: https://openalex.org/W4407482224    
+Open access: True
+    
+[Hefei Gao](https://openalex.org/A5068628016), [Quande Che](https://openalex.org/A5010278372), International Journal of Electrochemical Science. None(None)] 2025.https://doi.org/10.1016/j.ijoes.2025.100970.
+    
+No abstract    
+
+    
+
+## Investigating the effect of active site's coordination number on the oxygen reduction reaction activity of Fe-Co dual-atom catalysts: A theoretical study   
+
+OpenAlex: https://openalex.org/W4407485711    
+Open access: False
+    
+[Anuj Kumar](https://openalex.org/A5087525540), [Mohd Ubaidullah](https://openalex.org/A5071056098), [Ghulam Yasin](https://openalex.org/A5101921049), International Journal of Hydrogen Energy. 109(None)] 2025.https://doi.org/10.1016/j.ijhydene.2025.02.124.
+    
+No abstract    
+
+    
+
+## Prospects of using High Entropy Oxides as Catalysts for the Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4407509475    
+Open access: True
+    
+[Katrine L. Svane](https://openalex.org/A5059818244), Current Opinion in Electrochemistry. None(None)] 2025.https://doi.org/10.1016/j.coelec.2025.101670.
+    
+No abstract    
+
+    
+
+## Theoretical and Experimental Studies of the Structural Chameleon EuYCuTe3   
+
+OpenAlex: https://openalex.org/W4407531841    
+Open access: True
+    
+[Аnna V. Ruseikina](https://openalex.org/A5007231334), [Maxim V. Grigoriev](https://openalex.org/A5001636073), [V. A. Chernyshev](https://openalex.org/A5029534287), [E. M. Roginskiĭ](https://openalex.org/A5063475331), [Alexander A. Garmonov](https://openalex.org/A5003270195), [Ralf J. C. Locke](https://openalex.org/A5088362341), [Thomas Schleid](https://openalex.org/A5032170875), Materials. 18(4)] 2025.https://doi.org/10.3390/ma18040820.
+    
+Layered orthorhombic single crystals of EuYCuTe3 are synthesized using the ampoule method from the elemental precursors taken in the ratio of 1 Eu:1 Y:1 Cu:3 Te by heating up to 1120 K with an excess of CsI as flux. The orthorhombic structure of EuYCuTe3 is established, and structural parameters are obtained using X-ray diffraction. At ambient conditions, the sample crystallizes in the space group Pnma with the unit cell parameters a = 11.2730(7) Å, b = 4.3214(3) Å, c = 14.3271(9) Å. The structure is composed of vertex-connected [CuTe4]7− tetrahedra, which form chains along the [010] direction, and of edge-connected [YTe6]9− octahedra, which form layers parallel to the (010) plane. The Eu2+ cations are found in a capped trigonal prismatic coordination of Te2− anions. The structural phase transition from the α to the β phase is discovered upon heating the sample to 323 K, which comes accompanied with a decrease of [CuTe4]7− tetrahedral distortion. The symmetry of the high-temperature phase is established as ordered in the space group Cmcm (a = 4.3231(3) Å, b = 14.3328(9) Å, c = 11.2843(7) Å). The nature and microscopic mechanism of the phase transition is discussed. By cooling it down below 3 K, the soft ferromagnetic properties of EuYCuTe3 are discovered. The correlation of the ferromagnetic transition temperature in the series of chalcogenides EuYCuCh3 (Ch = S, Se, Te) with the ionic radius of the chalcogenide anion is established. The structural dynamical elastic properties of α- and β-EuYCuTe3 were calculated within the ab initio approach. The vibrational mode frequencies and decomposition on irreducible representations, as well as the degree of ion involvement in each mode, were determined. The calculations reveal an imaginary mode in the Y-point of the Brillouin zone in the high symmetry β-EuYCuTe3 phase. This finding explains the nature of structural reconstruction in EuYCuTe3 crystal as a second-order phase transition induced by soft mode condensation at the edge of the Brillouin zone. The exfoliation of a single layer is simulated theoretically. The exfoliation energy is estimated, and the dynamical properties of EuYCuTe3 single layers are studied.    
+
+    
+
+## Dual Doping in Precious Metal Oxides: Accelerating Acidic Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4407534851    
+Open access: True
+    
+[Guoxin Ma](https://openalex.org/A5057806090), [Fei Wang](https://openalex.org/A5100455941), [Rui Jin](https://openalex.org/A5020478633), [Bingrong Guo](https://openalex.org/A5071712567), [Haohao Huo](https://openalex.org/A5065503700), [Yilong Dai](https://openalex.org/A5012155582), [Jefferson Zhe Liu](https://openalex.org/A5023896908), [Jia Liu](https://openalex.org/A5102309989), [Siwei Li](https://openalex.org/A5100733086), International Journal of Molecular Sciences. 26(4)] 2025.https://doi.org/10.3390/ijms26041582.
+    
+Developing a highly active and stable catalyst for acidic oxygen evolution reactions (OERs), the key half-reaction for proton exchange membrane water electrolysis, has been one of the most cutting-edge topics in electrocatalysis. A dual-doping strategy optimizes the catalyst electronic environment, modifies the coordination environment, generates vacancies, and introduces strain effects through the synergistic effect of two elements to achieve high catalytic performance. In this review, we summarize the progress of dual doping in RuO2 or IrO2 for acidic OERs. The three main mechanisms of OERs are dicussed firstly, followed by a detailed examination of the development history of dual-doping catalysts, from experimentally driven dual-doping systems to machine learning (ML) and theoretical screening of dual-doping systems. Lastly, we provide a summary of the remaining challenges and future prospects, offering valuable insights into dual doping for acidic OERs.    
+
+    
+
+## Design of Fe2Mo@γ-GDY triatomic catalyst for electrocatalytic urea synthesis of N2 and CO: a theoretical study   
+
+OpenAlex: https://openalex.org/W4407555758    
+Open access: True
+    
+[Linyuan Chi](https://openalex.org/A5102627263), [Tonghui Wang](https://openalex.org/A5030763881), [Qing Jiang](https://openalex.org/A5020445890), Journal of Materials Informatics. 5(1)] 2025.https://doi.org/10.20517/jmi.2024.49.
+    
+While urea is widely used as a chemical raw material, its precursor ammonia (NH3) has traditionally been synthesized under high-temperature/pressure conditions, leading to not only huge energy consumption but also serious CO2 emission. Here, we present a groundbreaking catalyst design approach, which optimizes adsorption configurations and reaction pathways by controlling the adsorption energies of each intermediate in the reaction, thus enhancing catalytic performance. Via density functional theory (DFT) calculations, we designed a triatomic catalyst [i.e., Fe2Mo@γ-graphdiyne (γ-GDY)] with a limiting potential of -0.22 V and a C-N coupling energy barrier of 0.34 eV. Notably, the Fe2Mo@γ-GDY catalyst presents a high selectivity and robust antioxidation capabilities under applied potentials. Our comprehensive analysis elucidates the factors affecting the limiting potential and C-N coupling energy barrier. These insights significantly contribute to the advancement of catalyst design strategies for electrocatalytic urea synthesis, offering a more efficient and eco-friendly alternative to traditional methods.    
+
+    
+
+## Artificial Intelligence‐Assisted Experimental Optimization of Water Oxidation Catalysts   
+
+OpenAlex: https://openalex.org/W4407560244    
+Open access: True
+    
+[Henrik Spitzenpfeil](https://openalex.org/A5116265482), [Marius Neumann](https://openalex.org/A5102445635), [Nick Hausen](https://openalex.org/A5059234066), [Regina Palkovits](https://openalex.org/A5078364217), [Stefan Palkovits](https://openalex.org/A5065818528), Chemie Ingenieur Technik. None(None)] 2025.https://doi.org/10.1002/cite.202400156.
+    
+Abstract Artificial intelligence (AI) methods are very often used to make predictions for datasets that were created externally in arbitrary experiments or on already literature known datasets. In this work, we try to make use of active learning techniques to search for an optimal strategy for the startup‐phase of bulk nickel electrodes in the oxygen evolution reaction. The data collected was afterwards reduced in dimensions and used to extract additional information that were learned via an artificial neural network (ANN) on the dataset, respectively.    
+
+    
+
+## Advancements in Sustainable Electrolytic Manganese Recovery: Techniques, Mechanisms, and Future Trends   
+
+OpenAlex: https://openalex.org/W4407561961    
+Open access: True
+    
+[Yunyu Li](https://openalex.org/A5033230316), [Xuhai Pan](https://openalex.org/A5038654638), [Bahman Amini Horri](https://openalex.org/A5016404533), Recycling. 10(1)] 2025.https://doi.org/10.3390/recycling10010026.
+    
+Electrolytic manganese metal (EMM) produced from recyclable resources has recently gained increasing attention due to the scarcity of high-quality manganese natural resources and its broad range of applications. This review has summarised recent progress in manganese recovery techniques, including pyrometallurgy and hydrometallurgy. It has also critically assessed the processes and mechanisms involved in manganese electrodeposition for the Mn chloride- and Mn sulphate-based systems, with a major focus on electrode reactions and Mn nucleation growth. The key optimisation factors influencing manganese electrodeposition, such as electrolytes, power consumption, additives, cell structures, and electrode materials, were analysed, with particular attention to their impact on current efficiency, specific energy consumption, and product quality. The recent research directions were also highlighted to address practical challenges and enhance the sustainability of the EMM process, which mainly includes improving the ecological outcomes and reducing both the operating and investment costs. Promising strategies for the simultaneous production of EMM and electrolytic manganese dioxide (EMD) were also identified, which mainly comprised applying membrane technology, electrodeposition from ionic liquids, recycling and reusing waste materials, and exploring hybrid techniques. The results of this study showed that the prospective optimisation approaches for EMM are mainly driven by the need to enhance efficiency, reduce costs, and improve product quality through sustainable technological advancements. This review can be used as a comprehensive guide for manganese electrodeposition approaches for both practical and scientific research communities.    
+
+    
+
+## Two-dimensional materials-based cathodes for high-performance microbial fuel cells   
+
+OpenAlex: https://openalex.org/W4407564512    
+Open access: False
+    
+[Lina Jaya Diguna](https://openalex.org/A5018303140), [R.R.S.P.S. Dewi](https://openalex.org/A5082296887), [Tobias Haposan](https://openalex.org/A5093713513), [Fidelis Stefanus Hubertson Simanjuntak](https://openalex.org/A5079809982), [Arramel Arramel](https://openalex.org/A5013787745), [Marcelinus Christwardana](https://openalex.org/A5023666106), [Muhammad Danang Birowosuto](https://openalex.org/A5059334148), International Journal of Hydrogen Energy. 109(None)] 2025.https://doi.org/10.1016/j.ijhydene.2025.01.432.
+    
+No abstract    
+
+    
+
+## Selective adsorption, structure and dynamics of CO2 – CH4 mixture in mg-MOF-74 and the influence of Intercrystalline disorder   
+
+OpenAlex: https://openalex.org/W4407568053    
+Open access: True
+    
+[Indu Dhiman](https://openalex.org/A5044644735), [David R. Cole](https://openalex.org/A5101419141), [Siddharth Gautam](https://openalex.org/A5047733294), Chemical Physics. None(None)] 2025.https://doi.org/10.1016/j.chemphys.2025.112661.
+    
+No abstract    
+
+    
+
+## Predicting the Electron Density of Charged Systems Using Machine Learning   
+
+OpenAlex: https://openalex.org/W4407451128    
+Open access: False
+    
+[Sherif Abdulkader Tawfik](https://openalex.org/A5081512326), [Sunil Gupta](https://openalex.org/A5011012522), [Svetha Venkatesh](https://openalex.org/A5045540854), The Journal of Physical Chemistry A. None(None)] 2025.https://doi.org/10.1021/acs.jpca.4c08583.
+    
+The prediction of the electron density in molecules and crystals is a key pillar in the first-principles computation of their properties. Using machine learning to predict the electron density by using the atomic structure alone can save the computational cost of performing first-principles computations. While various machine learning approaches have been introduced for predicting the electron density, none of them predict the electron density for charged systems. This work extends a recent machine learning charge density model, DeepDFT, by including the charge of the structure as an input parameter into the model. We establish an input charge representation approach that successfully predicts the charged electron densities for several test cases, including charged defective perovskites, LiCoO2 supercells with multiple Li vacancies, diamond-based defects, metal-organic frameworks, and molecular crystals.    
+
+    
+
+## Supercapacitor Materials Database Generated using Web Scrapping and Natural Language Processing   
+
+OpenAlex: https://openalex.org/W4407510795    
+Open access: False
+    
+[Tikam C. Soni](https://openalex.org/A5116257717), [Manoranjan Kumar Manoj](https://openalex.org/A5088927215), [Mahima Verma](https://openalex.org/A5001398277), [Manwendra K. Tripathi](https://openalex.org/A5016615827), Journal of Molecular Graphics and Modelling. None(None)] 2025.https://doi.org/10.1016/j.jmgm.2025.108980.
     
 No abstract    
 

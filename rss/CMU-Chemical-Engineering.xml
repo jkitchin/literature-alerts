@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 15 Feb 2025 01:19:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 01:26:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -56,6 +56,16 @@
       <author>Brook Wander, Joseph Musielewicz, Raffaele Cheula, John R. Kitchin</author>
       <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07477</guid>
+    </item>
+    <item>
+      <title>A reactive condensation particle counter for measuring atmospherically relevant concentrations of sulfuric acid</title>
+      <link>https://doi.org/10.1080/02786826.2025.2459705</link>
+      <description>Dominic Casalnuovo, Darren Cheng, Michel Romero-Flores, Alejandro Montesinos&#8208;Castellanos, Coty N. Jen, Aerosol Science and Technology. None(None)] 2025. https://openalex.org/W4407505450
+
+                No abstract</description>
+      <author>Dominic Casalnuovo, Darren Cheng, Michel Romero-Flores, Alejandro Montesinos&#8208;Castellanos, Coty N. Jen</author>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1080/02786826.2025.2459705</guid>
     </item>
   </channel>
 </rss>
