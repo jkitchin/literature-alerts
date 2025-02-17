@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 16 Feb 2025 01:26:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 01:23:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Economic Nonlinear Model Predictive Control for cyclic gas pipeline operation</title>
-      <link>https://doi.org/10.1016/j.compchemeng.2025.109039</link>
-      <description>Lavinia Marina Paola Ghilardi, Sakshi Naik, Emanuele Martelli, Francesco Casella, Lorenz T. Biegler, Computers &amp; Chemical Engineering. None(None)] 2025. https://openalex.org/W4407272418
-
-                No abstract</description>
-      <author>Lavinia Marina Paola Ghilardi, Sakshi Naik, Emanuele Martelli, Francesco Casella, Lorenz T. Biegler</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2025.109039</guid>
-    </item>
-    <item>
-      <title>Modeling, Simulation, and Optimization in the Chemical Engineering Curriculum</title>
-      <link>https://doi.org/10.1201/9781003472360-2</link>
-      <description>Mariano Mart&#305;&#769;n, Ignacio E. Grossmann, CRC Press eBooks. None(None)] 2025. https://openalex.org/W4407277597
-
-                No abstract</description>
-      <author>Mariano Mart&#305;&#769;n, Ignacio E. Grossmann</author>
-      <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1201/9781003472360-2</guid>
-    </item>
-    <item>
-      <title>Dynamic Optimization in Process Systems</title>
-      <link>https://doi.org/10.1201/9781003472360-26</link>
-      <description>M. D&#237;az, Lorenz T. Biegler, CRC Press eBooks. None(None)] 2025. https://openalex.org/W4407277625
-
-                No abstract</description>
-      <author>M. D&#237;az, Lorenz T. Biegler</author>
-      <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1201/9781003472360-26</guid>
-    </item>
-    <item>
-      <title>Algebraic Modeling and Optimization</title>
-      <link>https://doi.org/10.1201/9781003472360-22</link>
-      <description>Ricardo Lima, Ignacio E. Grossmann, CRC Press eBooks. None(None)] 2025. https://openalex.org/W4407281230
-
-                No abstract</description>
-      <author>Ricardo Lima, Ignacio E. Grossmann</author>
-      <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1201/9781003472360-22</guid>
-    </item>
     <item>
       <title>Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c07477</link>

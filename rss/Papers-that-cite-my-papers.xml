@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 16 Feb 2025 01:26:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 01:23:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Mo2N nanoclusters and FeMo dual atomic active sites confined in N-doped hollow carbon nanocages for synergistic improvement in oxygen reduction and Zn-air battery</title>
-      <link>https://doi.org/10.1016/j.cej.2025.160442</link>
-      <description>Chenyang Wang, Lu Zhang, Jiu&#8208;Ju Feng, Yijing Gao, Ai&#8208;Jun Wang, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4407284110
-
-                No abstract</description>
-      <author>Chenyang Wang, Lu Zhang, Jiu&#8208;Ju Feng, Yijing Gao, Ai&#8208;Jun Wang</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.160442</guid>
-    </item>
     <item>
       <title>Exploring the Catalytic Performance of Oxygen-Coordinated Single-Atom Catalysts for Nitric Oxide Electroreduction</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c07612</link>
@@ -486,6 +476,96 @@
       <author>Indu Dhiman, David R. Cole, Siddharth Gautam</author>
       <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.chemphys.2025.112661</guid>
+    </item>
+    <item>
+      <title>Reliable Modeling of Co-Copper Catalysis: Hubbard and Dispersion Effects</title>
+      <link>https://doi.org/10.2139/ssrn.5138423</link>
+      <description>M. Olu&#351; &#214;zbek, No host. None(None)] 2025. https://openalex.org/W4407572499
+
+                No abstract</description>
+      <author>M. Olu&#351; &#214;zbek</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5138423</guid>
+    </item>
+    <item>
+      <title>Proton Relay in Hydrogen-Bond Networks Promotes Alkaline Hydrogen Evolution Electrocatalysis</title>
+      <link>https://doi.org/10.1021/acsnano.5c00318</link>
+      <description>Yuefei Li, Shishi Zhang, Boyang Li, Yaqiong Su, Jie Kong, Jiayuan Li, ACS Nano. None(None)] 2025. https://openalex.org/W4407572951
+
+                Common O-/H-down orientation of H2O molecules on electrocatalysts brings favorable OH/H delivery; however, adverse H/OH delivery in their dissociation process hampers the H2O dissociation kinetics of the alkaline hydrogen evolution reaction (HER). To overcome this challenge, we raised a synergetic H2O dissociation concept of metal-supported electrocatalysts involving efficient OH delivery from O-down H2O to the metal, timely proton relay from O-down H2O on the metal to H-down H2O on the support through the hydrogen-bond network, and prompt H delivery from H-down H2O to the support. After theoretically profiling that a high work function difference between the metal and the support (&#916;&#934;) induces a strong electric field at the metal&#8211;support interface that increases hydrogen-bond connectivity to promote proton relay, we practiced this concept over cobalt phosphide-supported ruthenium (Ru/CoP) catalysts with a high &#916;&#934; = 0.4 eV, achieving a record-high Ru utilization HER activity of 66.1 A mgRu&#8211;1 at &#8722;0.1 V vs RHE. The insights into this synergetic H2O dissociation mechanism provide opportunity for the design of bicomponent alkaline HER electrocatalysts.</description>
+      <author>Yuefei Li, Shishi Zhang, Boyang Li, Yaqiong Su, Jie Kong, Jiayuan Li</author>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.5c00318</guid>
+    </item>
+    <item>
+      <title>Glycine electrosynthesis by the co-reduction of oxalic and nitric acids on rutile TiO2</title>
+      <link>https://doi.org/10.1016/j.checat.2025.101266</link>
+      <description>Shiming Li, Lin Li, Wei Du, Tao Jiang, Ming Gong, Jianping Xiao, Chem Catalysis. None(None)] 2025. https://openalex.org/W4407578931
+
+                No abstract</description>
+      <author>Shiming Li, Lin Li, Wei Du, Tao Jiang, Ming Gong, Jianping Xiao</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.checat.2025.101266</guid>
+    </item>
+    <item>
+      <title>Atomistic Understanding of Hydrogen Coverage on RuO&lt;sub&gt;2&lt;/sub&gt;(110) Surface under Electrochemical Conditions from &lt;i&gt;Ab Initio&lt;/i&gt; Statistical Thermodynamics</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c07229</link>
+      <description>Lei Zhang, Jan Kloppenburg, Chia&#8208;Yi Lin, Luka Mitrovic, Simon Gelin, Ismaila Dabo, Darrell G. Schlom, Jin Suntivich, Geoffroy Hautier, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4407582575
+
+                No abstract</description>
+      <author>Lei Zhang, Jan Kloppenburg, Chia&#8208;Yi Lin, Luka Mitrovic, Simon Gelin, Ismaila Dabo, Darrell G. Schlom, Jin Suntivich, Geoffroy Hautier</author>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07229</guid>
+    </item>
+    <item>
+      <title>Independent Tuning of Intermediate Energetics for Enhanced Oxygen Evolution via Synergistic Defects</title>
+      <link>https://doi.org/10.1002/adfm.202417098</link>
+      <description>Ding Yuan, Xiaoyi Dou, Qing Zhang, Chun&#8208;Ting He, Chao Wu, Yang Li, Weijie Li, Linping Yu, Lei Zhang, Huan Liu, Shi Xue Dou, Ji Liang, Yuhai Dou, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4407584253
+
+                Abstract Electronic structure engineering via integrating different defects is the key to achieving independent tuning of intermediate energetics for efficient electrocatalyst design. Such a combination of defects is at the forefront of current research. Herein, W is etched from Co(OH) 2 to generate Co vacancies, which are then partially filled with La to form Co(OH) 2 &#8208;Co V &#8208;La D for oxygen evolution reaction (OER). The results show that Co vacancy and La dopant induce more high&#8208;valence Co species under OER conditions and the most active center is a surface Co site that is adjacent to a surface Co vacancy and a subsurface La dopant on different sides, where the optimized electronic structure narrows the gap between Gibbs free energies of OH* (&#916;G OH* ) and OOH* (&#916;G OOH* ) and modifies &#916;G O* close to the midpoint, leading to high catalytic activity. The integration of synergistic defects offers an effective strategy to generate a range of defect atomic configurations and diverse electronic states, which enable the independent tuning of intermediate energetics, thereby unlocking the catalyst's full catalytic potential.</description>
+      <author>Ding Yuan, Xiaoyi Dou, Qing Zhang, Chun&#8208;Ting He, Chao Wu, Yang Li, Weijie Li, Linping Yu, Lei Zhang, Huan Liu, Shi Xue Dou, Ji Liang, Yuhai Dou</author>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202417098</guid>
+    </item>
+    <item>
+      <title>Janus MoSi&lt;sub&gt;2&lt;/sub&gt;P&lt;sub&gt;2&lt;/sub&gt;As&lt;sub&gt;2&lt;/sub&gt; Decorated with Transition Metal Atoms as Efficient Bifunctional HER/OER and OER/ORR Electrocatalysts</title>
+      <link>https://doi.org/10.1021/acsami.4c21412</link>
+      <description>Yazhao Yuan, Chunling Zhang, Xunzhe Zhang, Baonan Jia, Xinhui Zhang, Ge Wu, Jinbo Hao, Pengfei Lu, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4407586502
+
+                It is of great importance to develop bifunctional electrocatalysts with high efficiency and low cost for water splitting and fuel cells. Herein, based on the new emerging two-dimensional material of MoSi2N4, we explore the potentials of novel Janus MoSi2P2As2 (labeled as MSPA) in electrocatalytic applications. We conduct a comprehensive study using first-principles calculations to explore the potential of Janus MoSi2P2As2 decorated with 13 kinds of transition metal atoms as efficient bifunctional catalysts for the hydrogen/oxygen evolution reaction (HER/OER) and oxygen evolution/reduction reaction (OER/ORR). After screening, results show that Rh@MSPA and Au@MSPA can serve as bifunctional catalysts for OER/ORR with overpotentials of 0.27/0.29 V and 0.42/0.37 V, and Pt@MSPA exhibit great potential as HER/OER catalyst with an overpotential of -0.004/0.51 V. The solvation effect on catalytic activity is also investigated. The volcano diagrams are employed to depict the activity trends toward HER, OER, and ORR. The d-band center, ICOHP and intrinsic descriptor &#966; can serve as quantitative descriptors of ORR/OER activity and reveal the activity origin of OER/ORR. This study presents a viable approach for developing advanced electrocatalysts with multiple functionalities, thereby expanding the utilization of Janus MoSi2P2As2 in electrocatalysis.</description>
+      <author>Yazhao Yuan, Chunling Zhang, Xunzhe Zhang, Baonan Jia, Xinhui Zhang, Ge Wu, Jinbo Hao, Pengfei Lu</author>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c21412</guid>
+    </item>
+    <item>
+      <title>Advances in electrocatalytic nitrate reduction to ammonia over Cu-based catalysts</title>
+      <link>https://doi.org/10.1016/j.envres.2025.121123</link>
+      <description>Zhibin Zhang, Kailun Yu, Hui Wang, Zhaoyong Bian, Environmental Research. None(None)] 2025. https://openalex.org/W4407587699
+
+                No abstract</description>
+      <author>Zhibin Zhang, Kailun Yu, Hui Wang, Zhaoyong Bian</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.envres.2025.121123</guid>
+    </item>
+    <item>
+      <title>Electrochemical CO2 Reduction: Advances, Insights, Challenges, and Future Directions</title>
+      <link>https://doi.org/10.1016/j.mtsust.2025.101089</link>
+      <description>Asghar Ali, Muhammad Qasim, S. Sakhi, Govindhan Maduraiveeran, Ali S. Alnaser, Materials Today Sustainability. None(None)] 2025. https://openalex.org/W4407596623
+
+                No abstract</description>
+      <author>Asghar Ali, Muhammad Qasim, S. Sakhi, Govindhan Maduraiveeran, Ali S. Alnaser</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtsust.2025.101089</guid>
+    </item>
+    <item>
+      <title>Strategies to maximize the oxygen evolution reaction in layered double hydroxides by electronic defect engineering</title>
+      <link>https://doi.org/10.1016/j.esci.2025.100380</link>
+      <description>Heyu Zhou, Jinjin Ban, Yonglong Shen, Yonghong Ning, Shanshan Zhang, Fanfan Liu, Guoqin Cao, Guosheng Shao, S. Ravi P. Silva, Junhua Hu, eScience. None(None)] 2025. https://openalex.org/W4407597464
+
+                No abstract</description>
+      <author>Heyu Zhou, Jinjin Ban, Yonglong Shen, Yonghong Ning, Shanshan Zhang, Fanfan Liu, Guoqin Cao, Guosheng Shao, S. Ravi P. Silva, Junhua Hu</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.esci.2025.100380</guid>
     </item>
     <item>
       <title>Predicting the Electron Density of Charged Systems Using Machine Learning</title>
