@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Feb 17 01:23:21 2025
+Created on Tue Feb 18 01:20:32 2025
 
-Found 58 results from 2025-02-10 to 2025-02-17
+Found 57 results from 2025-02-11 to 2025-02-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544]]
@@ -16,69 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176]]
-
-* Exploring the Catalytic Performance of Oxygen-Coordinated Single-Atom Catalysts for Nitric Oxide Electroreduction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4407292269
-:TOPICS: Ammonia Synthesis and Nitrogen Reduction, Electrocatalysts for Energy Conversion, Catalytic Processes in Materials Science
-:PUBLICATION_DATE: 2025-02-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.4c07612")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4407292269"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4407292269"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4407292269"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4407292269 (Open access: False)
-    
-[[https://openalex.org/A5058649086][Shiya Zhu]], [[https://openalex.org/A5100433424][Yu Zhang]], [[https://openalex.org/A5100373253][Wenbin Liu]], [[https://openalex.org/A5022097698][Deshuai Yang]], [[https://openalex.org/A5005890948][Guobing Zhou]], [[https://openalex.org/A5078706989][Zhen Yang]], The Journal of Physical Chemistry C. None(None)] 2025. https://doi.org/10.1021/acs.jpcc.4c07612 
-     
-No abstract    
-
-    
-
-* Why Do Weak-Binding M–N–C Single-Atom Catalysts Possess Anomalously High Oxygen Reduction Activity?  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4407293609
-:TOPICS: Electrocatalysts for Energy Conversion, Catalytic Processes in Materials Science, Fuel Cells and Related Materials
-:PUBLICATION_DATE: 2025-02-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacs.4c16733")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4407293609"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4407293609"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4407293609"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4407293609 (Open access: True)
-    
-[[https://openalex.org/A5100366363][Di Zhang]], [[https://openalex.org/A5025067670][Fangxin She]], [[https://openalex.org/A5064450687][Jiaxiang Chen]], [[https://openalex.org/A5100454543][Li Wei]], [[https://openalex.org/A5100348631][Hao Li]], Journal of the American Chemical Society. None(None)] 2025. https://doi.org/10.1021/jacs.4c16733 
-     
-Single-atom catalysts (SACs) with metal–nitrogen–carbon (M–N–C) structures are widely recognized as promising candidates in oxygen reduction reactions (ORR). According to the classical Sabatier principle, optimal 3d metal catalysts, such as Fe/Co–N–C, achieve superior catalytic performance due to the moderate binding strength. However, the substantial ORR activity demonstrated by weakly binding M–N–C catalysts such as Ni/Cu–N–C challenges current understandings, emphasizing the need to explore new underlying mechanisms. In this work, we integrated a pH-field coupled microkinetic model with detailed experimental electron state analyses to verify a novel key step in the ORR reaction pathway of weak-binding SACs─the oxygen adsorption at the metal–nitrogen bridge site. This step significantly altered the adsorption scaling relations, electric field responses, and solvation effects, further impacting the key kinetic reaction barrier from HOO* to O* and pH-dependent performance. Synchrotron spectra analysis further provides evidence for the new weak-binding M–N–C model, showing an increase in electron density on the antibonding π orbitals of N atoms in weak-binding M–N–C catalysts and confirming the presence of N–O bonds. These findings redefine the understanding of weak-binding M–N–C catalyst behavior, opening up new perspectives for their application in clean energy.    
-
-    
-
-* Hierarchical Heterojunction Construction and Interaction Mechanism of Ru1-LaOx-NiMnOx Nanocomposite for Alkaline Hydrogen Evolution  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4407302411
-:TOPICS: Electrocatalysts for Energy Conversion, Catalytic Processes in Materials Science, Advanced battery technologies research
-:PUBLICATION_DATE: 2025-02-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jallcom.2025.179115")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4407302411"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4407302411"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4407302411"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4407302411 (Open access: False)
-    
-[[https://openalex.org/A5104310623][Qianzuo Liu]], [[https://openalex.org/A5061539943][Yunping Ma]], [[https://openalex.org/A5048835549][Nan Ma]], [[https://openalex.org/A5101995830][Yingyi Wang]], [[https://openalex.org/A5074954193][Sifan Sun]], [[https://openalex.org/A5103098941][Binqi He]], [[https://openalex.org/A5100458295][Ting Zhang]], [[https://openalex.org/A5088985564][Xuehua Yan]], [[https://openalex.org/A5100754632][Tie Li]], Journal of Alloys and Compounds. None(None)] 2025. https://doi.org/10.1016/j.jallcom.2025.179115 
-     
-No abstract    
-
-    
 
 * Review of direct ammonia solid oxide fuel cells: Low temperature cell structure and ammonia decomposition strategies  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -1190,6 +1127,48 @@ OpenAlex: https://openalex.org/W4407597464 (Open access: True)
 [[https://openalex.org/A5042213182][Heyu Zhou]], [[https://openalex.org/A5026670835][Jinjin Ban]], [[https://openalex.org/A5005441194][Yonglong Shen]], [[https://openalex.org/A5111474243][Yonghong Ning]], [[https://openalex.org/A5100412135][Shanshan Zhang]], [[https://openalex.org/A5077535167][Fanfan Liu]], [[https://openalex.org/A5080168038][Guoqin Cao]], [[https://openalex.org/A5071303877][Guosheng Shao]], [[https://openalex.org/A5100364686][S. Ravi P. Silva]], [[https://openalex.org/A5052631267][Junhua Hu]], eScience. None(None)] 2025. https://doi.org/10.1016/j.esci.2025.100380 
      
 No abstract    
+
+    
+
+* Outlier-detection for reactive machine learned potential energy surfaces  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4407602147
+:TOPICS: Machine Learning in Materials Science, Advanced Memory and Neural Computing, Welding Techniques and Residual Stresses
+:PUBLICATION_DATE: 2025-02-15
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41524-024-01473-6")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4407602147"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4407602147"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4407602147"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4407602147 (Open access: True)
+    
+[[https://openalex.org/A5032259190][Luis Itza Vazquez-Salazar]], [[https://openalex.org/A5052562929][Silvan Käser]], [[https://openalex.org/A5010154021][Markus Meuwly]], npj Computational Materials. 11(1)] 2025. https://doi.org/10.1038/s41524-024-01473-6  ([[https://www.nature.com/articles/s41524-024-01473-6.pdf][pdf]])
+     
+No abstract    
+
+    
+
+* Spin‐Selective Catalysts for Oxygen‐Involved Electrocatalysis  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4407606875
+:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, CO2 Reduction Techniques and Catalysts
+:PUBLICATION_DATE: 2025-02-16
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aesr.202400326")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4407606875"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4407606875"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4407606875"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4407606875 (Open access: True)
+    
+[[https://openalex.org/A5089754581][Haifan Li]], [[https://openalex.org/A5103071221][Quan Quan]], [[https://openalex.org/A5032822838][Chun‐Yuen Wong]], [[https://openalex.org/A5010200444][Johnny C. Ho]], Advanced Energy and Sustainability Research. None(None)] 2025. https://doi.org/10.1002/aesr.202400326  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aesr.202400326][pdf]])
+     
+The sluggish kinetics of oxygen‐involved electrolysis, such as oxygen evolution reaction (OER) and oxygen reduction reaction (ORR), hinders the efficiency of the pertaining energy conversion process, which can be promoted by using spin‐selective materials to align the spin direction of oxygen‐involved intermediates. This review delivers a thorough and timely overview of state‐of‐the‐art spin‐selective catalysts for OER and ORR. Primarily, the fundamental principle of spin‐selective process is depicted by the spin‐sensitive reaction pathways, pointing out that the existence of spin‐polarized adsorption sites is necessary for the development of spin‐selective catalysts. Subsequently, approaches for investigating the spin‐related transition during electrocatalysis are introduced by reviewing in situ technologies and theoretical calculations. Then, the reported spin‐selective catalysts are categorized into intrinsic spin‐polarized materials, doping‐induced spin‐polarized materials, and multiple magnetic composites to discuss their application in electrocatalytic OER and ORR as well as their mechanism of spin polarization. Finally, the open questions and prospects in this field are concluded, aiming to offer a clear route for designing novel and highly‐efficient spin‐polarized materials for industrial oxygen‐involved electrocatalysis.    
 
     
 

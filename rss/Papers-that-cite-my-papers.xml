@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 17 Feb 2025 01:23:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 01:20:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Exploring the Catalytic Performance of Oxygen-Coordinated Single-Atom Catalysts for Nitric Oxide Electroreduction</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c07612</link>
-      <description>Shiya Zhu, Yu Zhang, Wenbin Liu, Deshuai Yang, Guobing Zhou, Zhen Yang, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4407292269
-
-                No abstract</description>
-      <author>Shiya Zhu, Yu Zhang, Wenbin Liu, Deshuai Yang, Guobing Zhou, Zhen Yang</author>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07612</guid>
-    </item>
-    <item>
-      <title>Why Do Weak-Binding M&#8211;N&#8211;C Single-Atom Catalysts Possess Anomalously High Oxygen Reduction Activity?</title>
-      <link>https://doi.org/10.1021/jacs.4c16733</link>
-      <description>Di Zhang, Fangxin She, Jiaxiang Chen, Li Wei, Hao Li, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4407293609
-
-                Single-atom catalysts (SACs) with metal&#8211;nitrogen&#8211;carbon (M&#8211;N&#8211;C) structures are widely recognized as promising candidates in oxygen reduction reactions (ORR). According to the classical Sabatier principle, optimal 3d metal catalysts, such as Fe/Co&#8211;N&#8211;C, achieve superior catalytic performance due to the moderate binding strength. However, the substantial ORR activity demonstrated by weakly binding M&#8211;N&#8211;C catalysts such as Ni/Cu&#8211;N&#8211;C challenges current understandings, emphasizing the need to explore new underlying mechanisms. In this work, we integrated a pH-field coupled microkinetic model with detailed experimental electron state analyses to verify a novel key step in the ORR reaction pathway of weak-binding SACs&#9472;the oxygen adsorption at the metal&#8211;nitrogen bridge site. This step significantly altered the adsorption scaling relations, electric field responses, and solvation effects, further impacting the key kinetic reaction barrier from HOO* to O* and pH-dependent performance. Synchrotron spectra analysis further provides evidence for the new weak-binding M&#8211;N&#8211;C model, showing an increase in electron density on the antibonding &#960; orbitals of N atoms in weak-binding M&#8211;N&#8211;C catalysts and confirming the presence of N&#8211;O bonds. These findings redefine the understanding of weak-binding M&#8211;N&#8211;C catalyst behavior, opening up new perspectives for their application in clean energy.</description>
-      <author>Di Zhang, Fangxin She, Jiaxiang Chen, Li Wei, Hao Li</author>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c16733</guid>
-    </item>
-    <item>
-      <title>Hierarchical Heterojunction Construction and Interaction Mechanism of Ru1-LaOx-NiMnOx Nanocomposite for Alkaline Hydrogen Evolution</title>
-      <link>https://doi.org/10.1016/j.jallcom.2025.179115</link>
-      <description>Qianzuo Liu, Yunping Ma, Nan Ma, Yingyi Wang, Sifan Sun, Binqi He, Ting Zhang, Xuehua Yan, Tie Li, Journal of Alloys and Compounds. None(None)] 2025. https://openalex.org/W4407302411
-
-                No abstract</description>
-      <author>Qianzuo Liu, Yunping Ma, Nan Ma, Yingyi Wang, Sifan Sun, Binqi He, Ting Zhang, Xuehua Yan, Tie Li</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2025.179115</guid>
-    </item>
     <item>
       <title>Review of direct ammonia solid oxide fuel cells: Low temperature cell structure and ammonia decomposition strategies</title>
       <link>https://doi.org/10.1016/j.rser.2025.115350</link>
@@ -566,6 +536,26 @@
       <author>Heyu Zhou, Jinjin Ban, Yonglong Shen, Yonghong Ning, Shanshan Zhang, Fanfan Liu, Guoqin Cao, Guosheng Shao, S. Ravi P. Silva, Junhua Hu</author>
       <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.esci.2025.100380</guid>
+    </item>
+    <item>
+      <title>Outlier-detection for reactive machine learned potential energy surfaces</title>
+      <link>https://doi.org/10.1038/s41524-024-01473-6</link>
+      <description>Luis Itza Vazquez-Salazar, Silvan K&#228;ser, Markus Meuwly, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4407602147
+
+                No abstract</description>
+      <author>Luis Itza Vazquez-Salazar, Silvan K&#228;ser, Markus Meuwly</author>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01473-6</guid>
+    </item>
+    <item>
+      <title>Spin&#8208;Selective Catalysts for Oxygen&#8208;Involved Electrocatalysis</title>
+      <link>https://doi.org/10.1002/aesr.202400326</link>
+      <description>Haifan Li, Quan Quan, Chun&#8208;Yuen Wong, Johnny C. Ho, Advanced Energy and Sustainability Research. None(None)] 2025. https://openalex.org/W4407606875
+
+                The sluggish kinetics of oxygen&#8208;involved electrolysis, such as oxygen evolution reaction (OER) and oxygen reduction reaction (ORR), hinders the efficiency of the pertaining energy conversion process, which can be promoted by using spin&#8208;selective materials to align the spin direction of oxygen&#8208;involved intermediates. This review delivers a thorough and timely overview of state&#8208;of&#8208;the&#8208;art spin&#8208;selective catalysts for OER and ORR. Primarily, the fundamental principle of spin&#8208;selective process is depicted by the spin&#8208;sensitive reaction pathways, pointing out that the existence of spin&#8208;polarized adsorption sites is necessary for the development of spin&#8208;selective catalysts. Subsequently, approaches for investigating the spin&#8208;related transition during electrocatalysis are introduced by reviewing in situ technologies and theoretical calculations. Then, the reported spin&#8208;selective catalysts are categorized into intrinsic spin&#8208;polarized materials, doping&#8208;induced spin&#8208;polarized materials, and multiple magnetic composites to discuss their application in electrocatalytic OER and ORR as well as their mechanism of spin polarization. Finally, the open questions and prospects in this field are concluded, aiming to offer a clear route for designing novel and highly&#8208;efficient spin&#8208;polarized materials for industrial oxygen&#8208;involved electrocatalysis.</description>
+      <author>Haifan Li, Quan Quan, Chun&#8208;Yuen Wong, Johnny C. Ho</author>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aesr.202400326</guid>
     </item>
     <item>
       <title>Predicting the Electron Density of Charged Systems Using Machine Learning</title>
