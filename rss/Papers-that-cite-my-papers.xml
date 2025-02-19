@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 18 Feb 2025 01:20:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 01:21:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Review of direct ammonia solid oxide fuel cells: Low temperature cell structure and ammonia decomposition strategies</title>
-      <link>https://doi.org/10.1016/j.rser.2025.115350</link>
-      <description>Yuchen Ya, Ying Xu, Ahmed Mohammed Elbanna, Yimin Liu, Boyu Sun, Xiaobei Cheng, Renewable and Sustainable Energy Reviews. 213(None)] 2025. https://openalex.org/W4407308347
-
-                No abstract</description>
-      <author>Yuchen Ya, Ying Xu, Ahmed Mohammed Elbanna, Yimin Liu, Boyu Sun, Xiaobei Cheng</author>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.rser.2025.115350</guid>
-    </item>
-    <item>
-      <title>Facet Engineering of Weyl Semimetals for Efficient Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1016/j.mtcata.2025.100091</link>
-      <description>Ting Wai Lau, Qiong Lei, Jun Yin, Materials Today Catalysis. None(None)] 2025. https://openalex.org/W4407309182
-
-                No abstract</description>
-      <author>Ting Wai Lau, Qiong Lei, Jun Yin</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcata.2025.100091</guid>
-    </item>
-    <item>
-      <title>Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c07477</link>
-      <description>Brook Wander, Joseph Musielewicz, Raffaele Cheula, John R. Kitchin, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4407310889
-
-                No abstract</description>
-      <author>Brook Wander, Joseph Musielewicz, Raffaele Cheula, John R. Kitchin</author>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07477</guid>
-    </item>
-    <item>
-      <title>Crash testing machine learning force fields for molecules, materials, and interfaces: model analysis in the TEA Challenge 2023</title>
-      <link>https://doi.org/10.1039/d4sc06529h</link>
-      <description>Igor Poltavsky, Anton Charkin-Gorbulin, Mirela Puleva, Gr&#233;gory Fonseca, Ilyes Batatia, Nicholas J. Browning, Stefan Chmiela, Mengnan Cui, J. Thorben Frank, Stefan Heinen, Bing Huang, Silvan K&#228;ser, Adil Kabylda, Danish Khan, Carolin M&#252;ller, Alastair J. A. Price, Kai Riedmiller, Kai T&#246;pfer, Tsz Wai Ko, Markus Meuwly, Matthias Rupp, G&#225;bor C&#347;anyi, O. Anatole von Lilienfeld, Johannes T. Margraf, Klaus&#8208;Robert Mueller, Alexandre Tkatchenko, Chemical Science. None(None)] 2025. https://openalex.org/W4407320154
-
-                Assessing the performance of modern machine learning force fields across diverse chemical systems to identify their strengths and limitations within the TEA Challenge 2023.</description>
-      <author>Igor Poltavsky, Anton Charkin-Gorbulin, Mirela Puleva, Gr&#233;gory Fonseca, Ilyes Batatia, Nicholas J. Browning, Stefan Chmiela, Mengnan Cui, J. Thorben Frank, Stefan Heinen, Bing Huang, Silvan K&#228;ser, Adil Kabylda, Danish Khan, Carolin M&#252;ller, Alastair J. A. Price, Kai Riedmiller, Kai T&#246;pfer, Tsz Wai Ko, Markus Meuwly, Matthias Rupp, G&#225;bor C&#347;anyi, O. Anatole von Lilienfeld, Johannes T. Margraf, Klaus&#8208;Robert Mueller, Alexandre Tkatchenko</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4sc06529h</guid>
-    </item>
-    <item>
-      <title>Theoretical prediction of disulfide defects (S22&#8722;) in molybdenum disulfide monolayers</title>
-      <link>https://doi.org/10.1007/s00894-025-06306-x</link>
-      <description>Maxim R. Ryzhikov, S. G. Kozlova, Journal of Molecular Modeling. 31(3)] 2025. https://openalex.org/W4407340873
-
-                No abstract</description>
-      <author>Maxim R. Ryzhikov, S. G. Kozlova</author>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s00894-025-06306-x</guid>
-    </item>
-    <item>
-      <title>Impacts of Surface Reconstruction and Metal Dissolution on Ru&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Ti&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Acidic Oxygen Evolution Electrocatalysts</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c08119</link>
-      <description>Francisco Ospina&#8208;Acevedo, Jos&#233; Fernando God&#237;nez-Salom&#243;n, Zachary G. Naymik, Kevin C. Matthews, Jamie H. Warner, Christopher P. Rhodes, Perla B. Balbuena, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4407340979
-
-                No abstract</description>
-      <author>Francisco Ospina&#8208;Acevedo, Jos&#233; Fernando God&#237;nez-Salom&#243;n, Zachary G. Naymik, Kevin C. Matthews, Jamie H. Warner, Christopher P. Rhodes, Perla B. Balbuena</author>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c08119</guid>
-    </item>
-    <item>
-      <title>Single-layer group III-IV-VI semiconductors: potential photocatalysts for water splitting with high carrier mobilities</title>
-      <link>https://doi.org/10.1039/d4ta08157a</link>
-      <description>Qiu Yang, Qi-Dong Hao, Cui-E Hu, Hua-Yun Geng, Xiang-Rong Chen, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4407341215
-
-                Strong optical absorption, high carrier mobility, and potential photocatalytic water splitting properties of MSiX (M = Ga, In; X = S, Se, Te) monolayers.</description>
-      <author>Qiu Yang, Qi-Dong Hao, Cui-E Hu, Hua-Yun Geng, Xiang-Rong Chen</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta08157a</guid>
-    </item>
-    <item>
-      <title>Electrochemical Scanning Microwave Microscopy Reveals Ion Intercalation Dynamics and Maps Active Sites in 2D Catalyst</title>
-      <link>https://doi.org/10.1002/smll.202500043</link>
-      <description>Mohamed Awadein, Abhishek Kumar, Yuqing Wang, Mingdong Dong, Stefan M&#252;llegger, Georg Gramse, Small. None(None)] 2025. https://openalex.org/W4407348632
-
-                The accelerated demand for electrochemical energy storage urges the need for new, sustainable, and lightweight materials able to store high energy densities rapidly and efficiently. Development of these functional materials requires specialized techniques that can provide a close insight into the electrochemical properties at the nanoscale. For this reason, the electrochemical scanning microwave microscopy (EC-SMM) enabling local measurement of electrochemical properties with nanometer spatial resolution and sensitivity down to atto-Ampere electrochemical currents is introduced. Its power is demonstrated by studying NiCo-layered double hydroxide flakes, revealing active site locations and providing atomistic insights into the catalytic process. EC-SMM's spatial resolution of 16 &#177; 1 nm allows detailed analysis of edge effects in this 2D material, including localized electrochemical impedance spectroscopy and cyclic voltammetry. Coupled with advanced numerical modeling of diffusion and migration dynamics at the material interface, the findings elucidate the previously hypothesized processes responsible for localized enhancements in electrochemical activity, while pinpointing essential parameters for tuning the thermodynamics of ion intercalation and optimizing surface adsorption.</description>
-      <author>Mohamed Awadein, Abhishek Kumar, Yuqing Wang, Mingdong Dong, Stefan M&#252;llegger, Georg Gramse</author>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202500043</guid>
-    </item>
     <item>
       <title>Theory of Electro-Ionic Perturbations at Supported Electrocatalyst Nanoparticles</title>
       <link>https://doi.org/10.1103/physrevlett.134.066201</link>
@@ -556,6 +476,56 @@
       <author>Haifan Li, Quan Quan, Chun&#8208;Yuen Wong, Johnny C. Ho</author>
       <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/aesr.202400326</guid>
+    </item>
+    <item>
+      <title>Unveiling the structure of interfacial water and its role in acidic and alkaline hydrogen evolution reaction at Au electrode by electrochemical in-situ infrared spectroscopy and theoretical simulation</title>
+      <link>https://doi.org/10.1016/j.jcat.2025.116021</link>
+      <description>Bai-Quan Zhu, Er-Fei Zhen, Bing-Yu Liu, Lidan Zhang, Yanxia Chen, Zhongfan Liu, Yanxia Chen, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4407610935
+
+                No abstract</description>
+      <author>Bai-Quan Zhu, Er-Fei Zhen, Bing-Yu Liu, Lidan Zhang, Yanxia Chen, Zhongfan Liu, Yanxia Chen</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116021</guid>
+    </item>
+    <item>
+      <title>Copper doping tunes d-band center to enhance hydrogen evolution in global minimum Fe clusters on FeN4&#8210;graphene</title>
+      <link>https://doi.org/10.1016/j.jpcs.2025.112640</link>
+      <description>Jiu-Ning Wang, Qasim Qasim, Wei Xu, Wanglai Cen, Journal of Physics and Chemistry of Solids. None(None)] 2025. https://openalex.org/W4407614979
+
+                No abstract</description>
+      <author>Jiu-Ning Wang, Qasim Qasim, Wei Xu, Wanglai Cen</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jpcs.2025.112640</guid>
+    </item>
+    <item>
+      <title>Surrogate Models for Vibrational Entropy Based on a Spatial Decomposition</title>
+      <link>https://doi.org/10.1137/24m165168x</link>
+      <description>Tina Torabi, Christoph Ortner, Yangshuai Wang, Multiscale Modeling and Simulation. 23(1)] 2025. https://openalex.org/W4407615840
+
+                No abstract</description>
+      <author>Tina Torabi, Christoph Ortner, Yangshuai Wang</author>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1137/24m165168x</guid>
+    </item>
+    <item>
+      <title>Recent Advances of Electrocatalysts and Electrodes for Direct Formic Acid Fuel Cells: from Nano to Meter Scale Challenges</title>
+      <link>https://doi.org/10.1007/s40820-025-01648-w</link>
+      <description>Yang Li, Ming&#8208;Shui Yao, Yanping He, Shangfeng Du, Nano-Micro Letters. 17(1)] 2025. https://openalex.org/W4407624042
+
+                Abstract Direct formic acid fuel cells are promising energy devices with advantages of low working temperature and high safety in fuel storage and transport. They have been expected to be a future power source for portable electronic devices. The technology has been developed rapidly to overcome the high cost and low power performance that hinder its practical application, which mainly originated from the slow reaction kinetics of the formic acid oxidation and complex mass transfer within the fuel cell electrodes. Here, we provide a comprehensive review of the progress around this technology, in particular for addressing multiscale challenges from catalytic mechanism understanding at the atomic scale, to catalyst design at the nanoscale, electrode structure at the micro scale and design at the millimeter scale, and finally to device fabrication at the meter scale. The gap between the highly active electrocatalysts and the poor electrode performance in practical devices is highlighted. Finally, perspectives and opportunities are proposed to potentially bridge this gap for further development of this technology.</description>
+      <author>Yang Li, Ming&#8208;Shui Yao, Yanping He, Shangfeng Du</author>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s40820-025-01648-w</guid>
+    </item>
+    <item>
+      <title>Recombination of Autodissociated Water Ions in a Nanoscale Pure Water Droplet</title>
+      <link>https://doi.org/10.1021/jacs.4c15103</link>
+      <description>Soonho Kwon, Prabhat Prakash, Yixiang Cao, Frances A. Houle, William A. Goddard, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4407624611
+
+                No abstract</description>
+      <author>Soonho Kwon, Prabhat Prakash, Yixiang Cao, Frances A. Houle, William A. Goddard</author>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c15103</guid>
     </item>
     <item>
       <title>Predicting the Electron Density of Charged Systems Using Machine Learning</title>
