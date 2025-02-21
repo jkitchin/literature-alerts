@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 20 Feb 2025 01:21:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 01:21:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Using Conformational Sampling to Model Spectral and Structural Changes of Molecules at Elevated Pressures</title>
-      <link>https://doi.org/10.1021/acs.jpca.4c08065</link>
-      <description>Felix Zeller, Philipp Pracht, Tim Stauch, The Journal of Physical Chemistry A. None(None)] 2025. https://openalex.org/W4407406136
-
-                Conformational sampling is nowadays a standard routine in computational chemistry. Within this work, we present a method to perform conformational sampling for systems exposed to elevated pressures within the CREST program, allowing us to model pressure-induced changes of molecular ensembles and structural parameters. For this purpose, we extend the molecular Hamiltonian with the PV (pressure times volume) term, using the solvent-accessible volume. The volume computation is performed within the new standalone library libpvol. A first application shows good agreement with experimental data and provides a reasonable explanation for severe pressure-induced structural and spectroscopic changes of the molecules dichloroethane and tetra(4-methoxyphenyl)ethylene.</description>
-      <author>Felix Zeller, Philipp Pracht, Tim Stauch</author>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.4c08065</guid>
-    </item>
-    <item>
-      <title>First-principles design of a superior electrocatalyst to Pt for hydrogen production in alkaline media</title>
-      <link>https://doi.org/10.1039/d4ta08250h</link>
-      <description>Haeshik Lee, Jinwoo Park, Jae&#8208;Min Myoung, Byungchan Han, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4407407344
-
-                Elucidation of the key mechanism of the inactive Pt catalyst for hydrogen production in alkaline media and description of two control factors for the catalytic activity of a pseudo-binary Pt&#8211;M catalyst.</description>
-      <author>Haeshik Lee, Jinwoo Park, Jae&#8208;Min Myoung, Byungchan Han</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta08250h</guid>
-    </item>
-    <item>
-      <title>Band-Gap Regression with Architecture-Optimized Message-Passing Neural Networks</title>
-      <link>https://doi.org/10.1021/acs.chemmater.4c01988</link>
-      <description>Tim Bechtel, Daniel T. Speckhard, Jonathan Godwin, Claudia Draxl, Chemistry of Materials. None(None)] 2025. https://openalex.org/W4407410240
-
-                No abstract</description>
-      <author>Tim Bechtel, Daniel T. Speckhard, Jonathan Godwin, Claudia Draxl</author>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.4c01988</guid>
-    </item>
-    <item>
-      <title>Density of States and Binding Energy Informatics for Exploring Early Disease Detection in MOF&#8208;Metal Oxide Chemiresistive Sensors</title>
-      <link>https://doi.org/10.1002/adts.202401404</link>
-      <description>Maryam Nurhuda, Ken&#8208;ichi Otake, Susumu Kitagawa, Daniel M. Packwood, Advanced Theory and Simulations. None(None)] 2025. https://openalex.org/W4407411165
-
-                Abstract Human breath contains over 3000 volatile organic compounds, abnormal concentrations of which can indicate the presence of certain diseases. Recently, metal&#8211;organic framework (MOF)&#8208;metal oxide composite materials have been explored for chemiresistive sensor applications, however their ability to detect breath compounds associated with specific diseases remains unknown. In this work, a new high&#8208;throughput computational protocol for evaluating the sensing ability of MOF&#8208;metal oxide toward small organic compounds is presented. This protocol uses a cluster&#8208;based method for accelerated structure relaxation, and a combination of binding energies and density&#8208;of&#8208;states analysis to evaluate sensing ability, the latter measured using Wasserstein distances. This protocol is applied to the case of the MOF&#8208;metal oxide composite material NM125&#8208;TiO 2 and is shown to be consistent with previously reported experimental results for this system. The sensing ability of NM125&#8208;TiO 2 for over 100 human&#8208;breath compounds spanning 13 different diseases is examined. Statistical inference is then used to identify diseases which subsequent experimental efforts should focus on. Overall, this work provides new tools for computational sensor research, while also illustrating how computational materials science can be integrated into the field of preventative medicine.</description>
-      <author>Maryam Nurhuda, Ken&#8208;ichi Otake, Susumu Kitagawa, Daniel M. Packwood</author>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adts.202401404</guid>
-    </item>
-    <item>
-      <title>Single-atom catalyst anchoring on 8-16-4-graphyne nanosheet: An efficient electrocatalyst for overall water splitting</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.02.079</link>
-      <description>Ghazaleh Jafari, Adel Reisi&#8208;Vanani, International Journal of Hydrogen Energy. 109(None)] 2025. https://openalex.org/W4407413030
-
-                No abstract</description>
-      <author>Ghazaleh Jafari, Adel Reisi&#8208;Vanani</author>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.02.079</guid>
-    </item>
-    <item>
-      <title>Defect modeling in semiconductors: the role of first principles simulations and machine learning</title>
-      <link>https://doi.org/10.1088/2515-7639/adb181</link>
-      <description>Md. Habibur Rahman, Arun Mannodi&#8208;Kanakkithodi, Journal of Physics Materials. 8(2)] 2025. https://openalex.org/W4407417086
-
-                Abstract Point defects in semiconductors dictate their electronic and optical properties. Vacancies, interstitials, substitutional defects, and defect complexes can form in the semiconductor lattice and significantly impact its performance in applications such as solar absorption, light emission, electronics, and catalysis. Understanding the nature and energetics of point defects is essential for the design and optimization of next-generation semiconductor technologies. Here, we provide a comprehensive overview of the current state of research on point defects in semiconductors, focusing on the application of density functional theory (DFT) and machine learning (ML) in accelerating the prediction and understanding of defect properties. DFT has been instrumental in accurately calculating defect formation energies, charge transition levels, and other defect-related properties such as carrier recombination rates and lifetimes, and ion migration barriers. ML techniques, particularly neural networks, have emerged as powerful tools for enabling rapid prediction of defect properties at DFT-accuracy in order to overcome the expense of using large supercells and advanced functionals. We begin this article with a discussion of different types of point defects and complexes, their impact on semiconductor properties, and the experimental and DFT approaches typically used for their characterization. Through multiple case studies, we explore how DFT has been successfully applied to understand defect behavior across a variety of semiconductors, and how ML approaches integrated with DFT can efficiently predict defect properties and facilitate the discovery of new materials with tailored defect behavior. Overall, the advent of &#8216;DFT+ML&#8217; promises to drive advancements in semiconductor technology, catalysis, and renewable energy applications, paving the way for the development of high-performance semiconductors which are defect-tolerant or have desirable dopability.</description>
-      <author>Md. Habibur Rahman, Arun Mannodi&#8208;Kanakkithodi</author>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1088/2515-7639/adb181</guid>
-    </item>
-    <item>
-      <title>Robust Oxygen Evolution on Ni-Doped MoO&lt;sub&gt;3&lt;/sub&gt;: Overcoming Activity&#8211;Stability Trade-Off in Alkaline Water Splitting</title>
-      <link>https://doi.org/10.1021/cbe.4c00160</link>
-      <description>Ankit Kumar Verma, Shahan Atif, Abhisek Padhy, Tej S. Choksi, Prabeer Barpanda, Ananth Govind Rajan, Chem &amp; Bio Engineering. None(None)] 2025. https://openalex.org/W4407417191
-
-                No abstract</description>
-      <author>Ankit Kumar Verma, Shahan Atif, Abhisek Padhy, Tej S. Choksi, Prabeer Barpanda, Ananth Govind Rajan</author>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/cbe.4c00160</guid>
-    </item>
-    <item>
-      <title>Creating Bridged&#8208;H* Bond Structure for Boosting Electrocatalytic Hydrogen Evolution via Phosphorus&#8208;Doped Iridium Nanosheets</title>
-      <link>https://doi.org/10.1002/smll.202412338</link>
-      <description>Ruiqi Guo, Shujuan Wang, Minqi Sheng, Xingli Zou, Mingzhi Zhang, Guangcheng Li, Yi Cao, Zhenglong Fan, Jinxin Chen, Wenxiang Zhu, Fan Liao, Tao Ling, Hao Ren, Fan Lv, Zhenhui Kang, Small. None(None)] 2025. https://openalex.org/W4407421061
-
-                Abstract Iridium (Ir) is recognized to have extremely high catalytic activity in the hydrogen evolution reaction (HER). However, there are still technical challenges in maximizing the utilization of Ir atoms in the catalytic reaction process through dimensional regulation strategies. Herein, an innovative strategy is utilized to fabricate porous phosphorus&#8208;doped iridium (P&#8208;Ir) with a 2D structure, specifically the reduction of 1T phase&#8208;IrO 2 (1T&#8208;IrO 2 ) nanosheets using phosphine gas. The optimized P&#8208;Ir achieves an overpotential of 17.2 mV (vs RHE without i R&#8208;correction) in 0.5 m H 2 SO 4 during the HER process, outperforming benchmark Pt/C (27.0 mV) and most reported Ir&#8208;based electrocatalysts. During the long&#8208;term stability tests, P&#8208;Ir maintains stable operation for more than 100 h at both &#8722;10 and &#8722;100 mA cm &#8722;2 , respectively. Moreover, the HER activity and transient potential scanning results of Ir&#8208;based phosphides prove that doping P atoms in the Ir lattice promotes the reaction kinetic rate and charge transport capacity during hydrogen evolution. Theoretical calculations reveal that P atoms doping weakens the adsorption energy of H intermediates (H*) by regulating the d &#8208;band center of the Ir sites. Simultaneously, the desorption process of H* is also facilitated by forming a special bridged&#8208;H* bond structure, eventually accelerating the HER kinetics.</description>
-      <author>Ruiqi Guo, Shujuan Wang, Minqi Sheng, Xingli Zou, Mingzhi Zhang, Guangcheng Li, Yi Cao, Zhenglong Fan, Jinxin Chen, Wenxiang Zhu, Fan Liao, Tao Ling, Hao Ren, Fan Lv, Zhenhui Kang</author>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202412338</guid>
-    </item>
-    <item>
-      <title>Comparative study on Co3+, Co2+, and oxygen vacancies in the photocatalytic ozonation of VOCs on Co3O4 crystal facets</title>
-      <link>https://doi.org/10.1016/j.seppur.2025.132072</link>
-      <description>Jinze Lyu, Ting Zhang, Ji Li, Separation and Purification Technology. None(None)] 2025. https://openalex.org/W4407423537
-
-                No abstract</description>
-      <author>Jinze Lyu, Ting Zhang, Ji Li</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2025.132072</guid>
-    </item>
-    <item>
-      <title>Grain boundary engineering on Cu-based electrocatalysts promotes nitrate reduction to ammonia production</title>
-      <link>https://doi.org/10.1016/j.jechem.2025.01.036</link>
-      <description>Xiaotian Guo, Rui&#8208;Ting Gao, Zehua Gao, Lei Wang, Journal of Energy Chemistry. None(None)] 2025. https://openalex.org/W4407425162
-
-                No abstract</description>
-      <author>Xiaotian Guo, Rui&#8208;Ting Gao, Zehua Gao, Lei Wang</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2025.01.036</guid>
-    </item>
     <item>
       <title>Inspired by nitrogenase: Who is the better electron donor for FeMo active site in nitrogen reduction reaction?</title>
       <link>https://doi.org/10.1016/j.mtener.2025.101839</link>
@@ -496,6 +396,26 @@
       <author>Faiza Shafiq, Lei Yang, Weihua Zhu</author>
       <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/jccs.202400390</guid>
+    </item>
+    <item>
+      <title>Single-stage carburization of titanium and vanadium group metals</title>
+      <link>https://doi.org/10.71267/mencom.7569</link>
+      <description>A. N. Rogova, &#1043;. &#1055;. &#1050;&#1086;&#1095;&#1072;&#1085;&#1086;&#1074;, &#1048;. &#1040;. &#1050;&#1086;&#1074;&#1072;&#1083;&#1077;&#1074;, A. V. Shokod&#8217;ko, A. S. Chernyavskii, &#1050;. &#1040;. &#1057;&#1086;&#1083;&#1085;&#1094;&#1077;&#1074;, Mendeleev Communications. 35(2)] 2025. https://openalex.org/W4407709775
+
+                No abstract</description>
+      <author>A. N. Rogova, &#1043;. &#1055;. &#1050;&#1086;&#1095;&#1072;&#1085;&#1086;&#1074;, &#1048;. &#1040;. &#1050;&#1086;&#1074;&#1072;&#1083;&#1077;&#1074;, A. V. Shokod&#8217;ko, A. S. Chernyavskii, &#1050;. &#1040;. &#1057;&#1086;&#1083;&#1085;&#1094;&#1077;&#1074;</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.71267/mencom.7569</guid>
+    </item>
+    <item>
+      <title>Icosahedra CoPd Bimetallic Nanoparticles for Magnetically Induced Aromatic Ketone Hydrodeoxygenation</title>
+      <link>https://doi.org/10.1021/acs.chemmater.4c03359</link>
+      <description>Felipe Quiroga-Suavita, V&#237;ctor Varela&#8208;Izquierdo, Teresa Hungr&#305;&#769;a, Damien Alloyeau, Nicolas Ratel&#8208;Ramond, Simon Cayez, Richard D. Tilley, Edwin A. Baquero, Bruno Chaudret, Lise&#8208;Marie Lacroix, Chemistry of Materials. None(None)] 2025. https://openalex.org/W4407720071
+
+                No abstract</description>
+      <author>Felipe Quiroga-Suavita, V&#237;ctor Varela&#8208;Izquierdo, Teresa Hungr&#305;&#769;a, Damien Alloyeau, Nicolas Ratel&#8208;Ramond, Simon Cayez, Richard D. Tilley, Edwin A. Baquero, Bruno Chaudret, Lise&#8208;Marie Lacroix</author>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.4c03359</guid>
     </item>
     <item>
       <title>Localized s electrons promote the hydrogen evolution catalysis of kagome metal Ag5Pb2O6</title>
