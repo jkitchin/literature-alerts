@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 22 Feb 2025 01:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 01:26:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Xuemei Wang, K. S. Carslaw, Daniel P. Grosvenor, Hamish Gordon</author>
       <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2025-132</guid>
+    </item>
+    <item>
+      <title>Variable aggregation for nonlinear optimization problems</title>
+      <link>https://doi.org/10.48550/arxiv.2502.13869</link>
+      <description>Sakshi Naik, Lorenz T. Biegler, Russell Bent, Robert Parker, arXiv (Cornell University). None(None)] 2025. https://openalex.org/W4407793209
+
+                Variable aggregation has been largely studied as an important pre-solve algorithm for optimization of linear and mixed-integer programs. Although some nonlinear solvers and algebraic modeling languages implement variable aggregation as a pre-solve, the impact it can have on constrained nonlinear programs is unexplored. In this work, we formalize variable aggregation as a pre-solve algorithm to develop reduced-space formulations of nonlinear programs. A novel approximate maximum variable aggregation strategy is developed to aggregate as many variables as possible. Furthermore, aggregation strategies that preserve the problem structure are compared against approximate maximum aggregation. Our results show that variable aggregation can generally help to improve the convergence reliability of nonlinear programs. It can also help in reducing total solve time. However, Hessian evaluation can become a bottleneck if aggregation significantly increases the number of variables appearing nonlinearly in many constraints.</description>
+      <author>Sakshi Naik, Lorenz T. Biegler, Russell Bent, Robert Parker</author>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2502.13869</guid>
     </item>
   </channel>
 </rss>
