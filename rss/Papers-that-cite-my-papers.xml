@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 24 Feb 2025 01:23:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 01:22:48 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Unveiling the structure of interfacial water and its role in acidic and alkaline hydrogen evolution reaction at Au electrode by electrochemical in-situ infrared spectroscopy and theoretical simulation</title>
-      <link>https://doi.org/10.1016/j.jcat.2025.116021</link>
-      <description>Bai-Quan Zhu, Er-Fei Zhen, Bing-Yu Liu, Lidan Zhang, Yanxia Chen, Zhongfan Liu, Yanxia Chen, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4407610935
-
-                No abstract</description>
-      <author>Bai-Quan Zhu, Er-Fei Zhen, Bing-Yu Liu, Lidan Zhang, Yanxia Chen, Zhongfan Liu, Yanxia Chen</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116021</guid>
-    </item>
-    <item>
-      <title>Copper doping tunes d-band center to enhance hydrogen evolution in global minimum Fe clusters on FeN4&#8210;graphene</title>
-      <link>https://doi.org/10.1016/j.jpcs.2025.112640</link>
-      <description>Jiu-Ning Wang, Qasim Qasim, Wei Xu, Wanglai Cen, Journal of Physics and Chemistry of Solids. None(None)] 2025. https://openalex.org/W4407614979
-
-                No abstract</description>
-      <author>Jiu-Ning Wang, Qasim Qasim, Wei Xu, Wanglai Cen</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpcs.2025.112640</guid>
-    </item>
-    <item>
-      <title>Surrogate Models for Vibrational Entropy Based on a Spatial Decomposition</title>
-      <link>https://doi.org/10.1137/24m165168x</link>
-      <description>Tina Torabi, Christoph Ortner, Yangshuai Wang, Multiscale Modeling and Simulation. 23(1)] 2025. https://openalex.org/W4407615840
-
-                No abstract</description>
-      <author>Tina Torabi, Christoph Ortner, Yangshuai Wang</author>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1137/24m165168x</guid>
-    </item>
-    <item>
-      <title>Recent Advances of Electrocatalysts and Electrodes for Direct Formic Acid Fuel Cells: from Nano to Meter Scale Challenges</title>
-      <link>https://doi.org/10.1007/s40820-025-01648-w</link>
-      <description>Yang Li, Ming&#8208;Shui Yao, Yanping He, Shangfeng Du, Nano-Micro Letters. 17(1)] 2025. https://openalex.org/W4407624042
-
-                Abstract Direct formic acid fuel cells are promising energy devices with advantages of low working temperature and high safety in fuel storage and transport. They have been expected to be a future power source for portable electronic devices. The technology has been developed rapidly to overcome the high cost and low power performance that hinder its practical application, which mainly originated from the slow reaction kinetics of the formic acid oxidation and complex mass transfer within the fuel cell electrodes. Here, we provide a comprehensive review of the progress around this technology, in particular for addressing multiscale challenges from catalytic mechanism understanding at the atomic scale, to catalyst design at the nanoscale, electrode structure at the micro scale and design at the millimeter scale, and finally to device fabrication at the meter scale. The gap between the highly active electrocatalysts and the poor electrode performance in practical devices is highlighted. Finally, perspectives and opportunities are proposed to potentially bridge this gap for further development of this technology.</description>
-      <author>Yang Li, Ming&#8208;Shui Yao, Yanping He, Shangfeng Du</author>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s40820-025-01648-w</guid>
-    </item>
-    <item>
-      <title>Recombination of Autodissociated Water Ions in a Nanoscale Pure Water Droplet</title>
-      <link>https://doi.org/10.1021/jacs.4c15103</link>
-      <description>Soonho Kwon, Prabhat Prakash, Yixiang Cao, Frances A. Houle, William A. Goddard, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4407624611
-
-                The recombination of water ions has diverse scientific and practical implications, ranging from acid&#8211;base chemistry and biological systems to planetary environments and applications in fuel cell and carbon conversion technologies. While spatial confinement affects the physicochemical properties of water dynamics, its impact on the recombination process has rarely been studied. In this work, we investigate the dynamics of water, the water ion distribution, and the ion recombination process in water droplets as a function of droplet size through molecular dynamics simulations and adaptive quantum mechanical/molecular mechanical calculations. We compare the dynamics of recombination in water droplet sizes ranging from 100 to 18 000 waters, both in their interiors and on their surfaces. We found that the self-diffusion of water dramatically decreases in droplets with a diameter below 2.2 nm. Using a classical RexPoN force-field, we found that the ions in 1000 H2O's spend almost 50% of the time on the surface and 0.5 nm beneath it with a slight preference for OH&#8211; ion to reside longer on the surface. We estimate that, on average, recombination in these drops occurs at 400 ps in 1000 H2O's and 1 ns in 3000 H2O's. We also found that recombination is not limited by the local structure of the surface or the size of the droplet but can be influenced by the geometry of the water wire connecting the ions as they approach each other, which can often prevent recombination. Our results provide insights to the reaction microenvironments presented by nanoscopic water droplets.</description>
-      <author>Soonho Kwon, Prabhat Prakash, Yixiang Cao, Frances A. Houle, William A. Goddard</author>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c15103</guid>
-    </item>
     <item>
       <title>Electrochemically Driven Optical Dynamics of Reflectin Protein Films</title>
       <link>https://doi.org/10.1002/adma.202411005</link>
@@ -342,7 +292,7 @@
       <link>https://doi.org/10.1021/acscatal.4c06491</link>
       <description>Yuan Yuan, Jiapeng Ma, Baotao Kang, Jin Yong Lee, ACS Catalysis. None(None)] 2025. https://openalex.org/W4407809956
 
-                No abstract</description>
+                Heteroatom-doped Fe-N-C catalysts have emerged as promising alternatives to noble metals for the oxygen reduction reaction (ORR) due to their lower cost. However, the underlying mechanisms responsible for their enhanced performance, particularly electrochemical stability, remain a subject of debate. This study leverages density functional theory calculations coupled with a constant potential and implicit solvent model to investigate the electrochemical stabilities and activities of pyridinic (PD-) and pyrrolic FeN4C (PL-FeN4C) catalysts. Our findings reveal that the hydrogenation susceptibility of coordinating nitrogen atoms is a critical determinant of electrochemical stability within FeN4C catalysts. Moreover, we demonstrate that oxygen and sulfur doping exerts similar effects on enhancing the overall ORR performance of PD-FeN4C catalysts: (1) by reducing the p-band center of the coordinating nitrogen, thereby improving their resistance to hydrogenation, and (2) by increasing the valence electrons of iron, leading to stronger adsorption of reaction intermediates and consequently enhanced ORR activity. Finally, our predictions suggest that O/S-doped PL-FeN4C catalysts could achieve significantly improved electrochemical stability and superior ORR performance in both acidic and alkaline environments. These insights contribute to a deeper understanding of microenvironment engineering in single-atom catalysts (SACs) and offer valuable guidelines for the development of unprecedented M-N-C catalysts.</description>
       <author>Yuan Yuan, Jiapeng Ma, Baotao Kang, Jin Yong Lee</author>
       <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06491</guid>
@@ -432,7 +382,7 @@
       <link>https://doi.org/10.1038/s41467-025-57056-6</link>
       <description>Anquan Zhu, Lulu Qiao, Kai Liu, Guoqiang Gan, Chuhao Luan, Dewu Lin, Yin Zhou, Shuyu Bu, Tian Zhang, Kunlun Liu, Tianyi Song, Heng Liu, Hao Li, Hong Guo, Wenjun Zhang, Nature Communications. 16(1)] 2025. https://openalex.org/W4407847690
 
-                No abstract</description>
+                The concept of precatalyst is widely accepted in electrochemical water splitting, but the role of precatalyst activation and the resulted changes of electrolyte composition is often overlooked. Here, we elucidate the impact of potential-dependent changes for both precatalyst and electrolyte using Co2Mo3O8 as a model system. Potential-dependent reconstruction of Co2Mo3O8 precatalyst results in an electrochemically stable Co(OH)2@Co2Mo3O8 catalyst and additional Mo dissolved as MoO42&#8722; into electrolyte. The Co(OH)2/Co2Mo3O8 interface accelerates the Volmer reaction and negative potentials induced Mo2O72&#8722; (from MoO42&#8722;) further enhances proton adsorption and H2 desorption. Leveraging these insights, the well-designed MoO42&#8722;/Mo2O72&#8722; modified Co(OH)2@Co2Mo3O8 catalyst achieves a Faradaic efficiency of 99.9% and a yield of 1.85 mol h&#8722;1 at &#8722;0.4 V versus reversible hydrogen electrode (RHE) for hydrogen generation. Moreover, it maintains stable over one month at approximately 100 mA cm&#8722;2, highlighting its industrial suitability. This work underscores the significance of understanding on precatalyst reconstruction and electrolyte evolution in catalyst design. The significance of precatalyst activation and its impact on electrolyte properties in water electrocatalysis is crucial but often overlooked. The authors report an efficient transition metal catalyst for hydrogen production by manipulating both precatalyst reconstruction and electrolyte composition.</description>
       <author>Anquan Zhu, Lulu Qiao, Kai Liu, Guoqiang Gan, Chuhao Luan, Dewu Lin, Yin Zhou, Shuyu Bu, Tian Zhang, Kunlun Liu, Tianyi Song, Heng Liu, Hao Li, Hong Guo, Wenjun Zhang</author>
       <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-57056-6</guid>
@@ -446,6 +396,36 @@
       <author>Junkai Xu, Xiaoxue Yu, Yuebo Gao, Yunhao Wang, Jianjun Fang, Jing Li, Xian-Fang Yue, A. J. C. Varandas</author>
       <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c08357</guid>
+    </item>
+    <item>
+      <title>Trends in Structure and IR Spectra of Mixed H&lt;sub&gt;2&lt;/sub&gt;O/CO&lt;sub&gt;2&lt;/sub&gt; Ices of Astrochemical Relevance</title>
+      <link>https://doi.org/10.1021/acsearthspacechem.4c00353</link>
+      <description>Niels M. Mikkelsen, Thanja Lamberts, Mie Andersen, ACS Earth and Space Chemistry. None(None)] 2025. https://openalex.org/W4407856726
+
+                No abstract</description>
+      <author>Niels M. Mikkelsen, Thanja Lamberts, Mie Andersen</author>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsearthspacechem.4c00353</guid>
+    </item>
+    <item>
+      <title>MORE-Q, a dataset for molecular olfactorial receptor engineering by quantum mechanics</title>
+      <link>https://doi.org/10.1038/s41597-025-04616-6</link>
+      <description>Li Chen, Leonardo Medrano Sandonas, Philipp Traber, Arezoo Dianat, Nina Tverdokhleb, Mattan Hurevich, Shlomo Yitzchaik, Rafael Guti&#233;rrez, Alexander Croy, Gianaurelio Cuniberti, Scientific Data. 12(1)] 2025. https://openalex.org/W4407857451
+
+                Abstract We introduce the MORE-Q dataset, a quantum-mechanical (QM) dataset encompassing the structural and electronic data of non-covalent molecular sensors formed by combining 18 mucin-derived olfactorial receptors with 102 body odor volatilome (BOV) molecules. To have a better understanding of their intra- and inter-molecular interactions, we have performed accurate QM calculations in different stages of the sensor design and, accordingly, MORE-Q splits into three subsets: i) MORE-Q-G1: QM data of 18 receptors and 102 BOV molecules, ii) MORE-Q-G2: QM data of 23,838 BOV-receptor configurations, and iii) MORE-Q-G3: QM data of 1,836 BOV-receptor-graphene systems. Each subset involves geometries optimized using GFN2-xTB with D4 dispersion correction and up to 39 physicochemical properties, including global and local properties as well as binding features, all computed at the tightly converged PBE+D3 level of theory. By addressing BOV-receptor-graphene systems from a QM perspective, MORE-Q can serve as a benchmark dataset for state-of-the-art machine learning methods developed to predict binding features. This, in turn, can provide valuable insights for developing the next-generation mucin-derived olfactory receptor sensing devices.</description>
+      <author>Li Chen, Leonardo Medrano Sandonas, Philipp Traber, Arezoo Dianat, Nina Tverdokhleb, Mattan Hurevich, Shlomo Yitzchaik, Rafael Guti&#233;rrez, Alexander Croy, Gianaurelio Cuniberti</author>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41597-025-04616-6</guid>
+    </item>
+    <item>
+      <title>Fully automated high-throughput computer-based catalytic material screening framework and its application on the new-generation Tianhe supercomputer</title>
+      <link>https://doi.org/10.1016/j.commatsci.2025.113775</link>
+      <description>Can Leng, Xuguang Chen, Jie Liu, Chunye Gong, Bo Yang, Zhuo Tang, Wangdong Yang, Wei&#8208;Qing Huang, Yi&#8208;Ge Zhou, Maosong Mo, Kenli Li, Keqin Li, Computational Materials Science. 252(None)] 2025. https://openalex.org/W4407864847
+
+                No abstract</description>
+      <author>Can Leng, Xuguang Chen, Jie Liu, Chunye Gong, Bo Yang, Zhuo Tang, Wangdong Yang, Wei&#8208;Qing Huang, Yi&#8208;Ge Zhou, Maosong Mo, Kenli Li, Keqin Li</author>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2025.113775</guid>
     </item>
     <item>
       <title>Localized s electrons promote the hydrogen evolution catalysis of kagome metal Ag5Pb2O6</title>

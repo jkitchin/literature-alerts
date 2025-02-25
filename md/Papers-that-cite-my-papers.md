@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Feb 24 01:23:26 2025
+Created on Tue Feb 25 01:22:48 2025
 
-Found 49 results from 2025-02-17 to 2025-02-24
+Found 47 results from 2025-02-18 to 2025-02-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544)
@@ -16,61 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176)
-
-## Unveiling the structure of interfacial water and its role in acidic and alkaline hydrogen evolution reaction at Au electrode by electrochemical in-situ infrared spectroscopy and theoretical simulation   
-
-OpenAlex: https://openalex.org/W4407610935    
-Open access: False
-    
-[Bai-Quan Zhu](https://openalex.org/A5000975487), [Er-Fei Zhen](https://openalex.org/A5065271546), [Bing-Yu Liu](https://openalex.org/A5070408825), [Lidan Zhang](https://openalex.org/A5100600486), [Yanxia Chen](https://openalex.org/A5039372448), [Zhongfan Liu](https://openalex.org/A5108047623), [Yanxia Chen](https://openalex.org/A5039372448), Journal of Catalysis. None(None)] 2025.https://doi.org/10.1016/j.jcat.2025.116021.
-    
-No abstract    
-
-    
-
-## Copper doping tunes d-band center to enhance hydrogen evolution in global minimum Fe clusters on FeN4‒graphene   
-
-OpenAlex: https://openalex.org/W4407614979    
-Open access: False
-    
-[Jiu-Ning Wang](https://openalex.org/A5113152702), [Qasim Qasim](https://openalex.org/A5025683414), [Wei Xu](https://openalex.org/A5102899968), [Wanglai Cen](https://openalex.org/A5068495168), Journal of Physics and Chemistry of Solids. None(None)] 2025.https://doi.org/10.1016/j.jpcs.2025.112640.
-    
-No abstract    
-
-    
-
-## Surrogate Models for Vibrational Entropy Based on a Spatial Decomposition   
-
-OpenAlex: https://openalex.org/W4407615840    
-Open access: False
-    
-[Tina Torabi](https://openalex.org/A5092365296), [Christoph Ortner](https://openalex.org/A5061841111), [Yangshuai Wang](https://openalex.org/A5049158836), Multiscale Modeling and Simulation. 23(1)] 2025.https://doi.org/10.1137/24m165168x.
-    
-No abstract    
-
-    
-
-## Recent Advances of Electrocatalysts and Electrodes for Direct Formic Acid Fuel Cells: from Nano to Meter Scale Challenges   
-
-OpenAlex: https://openalex.org/W4407624042    
-Open access: True
-    
-[Yang Li](https://openalex.org/A5115602243), [Ming‐Shui Yao](https://openalex.org/A5022125628), [Yanping He](https://openalex.org/A5044369908), [Shangfeng Du](https://openalex.org/A5007487929), Nano-Micro Letters. 17(1)] 2025.https://doi.org/10.1007/s40820-025-01648-w.
-    
-Abstract Direct formic acid fuel cells are promising energy devices with advantages of low working temperature and high safety in fuel storage and transport. They have been expected to be a future power source for portable electronic devices. The technology has been developed rapidly to overcome the high cost and low power performance that hinder its practical application, which mainly originated from the slow reaction kinetics of the formic acid oxidation and complex mass transfer within the fuel cell electrodes. Here, we provide a comprehensive review of the progress around this technology, in particular for addressing multiscale challenges from catalytic mechanism understanding at the atomic scale, to catalyst design at the nanoscale, electrode structure at the micro scale and design at the millimeter scale, and finally to device fabrication at the meter scale. The gap between the highly active electrocatalysts and the poor electrode performance in practical devices is highlighted. Finally, perspectives and opportunities are proposed to potentially bridge this gap for further development of this technology.    
-
-    
-
-## Recombination of Autodissociated Water Ions in a Nanoscale Pure Water Droplet   
-
-OpenAlex: https://openalex.org/W4407624611    
-Open access: False
-    
-[Soonho Kwon](https://openalex.org/A5065096122), [Prabhat Prakash](https://openalex.org/A5088355242), [Yixiang Cao](https://openalex.org/A5103038057), [Frances A. Houle](https://openalex.org/A5000487325), [William A. Goddard](https://openalex.org/A5035627473), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.4c15103.
-    
-The recombination of water ions has diverse scientific and practical implications, ranging from acid–base chemistry and biological systems to planetary environments and applications in fuel cell and carbon conversion technologies. While spatial confinement affects the physicochemical properties of water dynamics, its impact on the recombination process has rarely been studied. In this work, we investigate the dynamics of water, the water ion distribution, and the ion recombination process in water droplets as a function of droplet size through molecular dynamics simulations and adaptive quantum mechanical/molecular mechanical calculations. We compare the dynamics of recombination in water droplet sizes ranging from 100 to 18 000 waters, both in their interiors and on their surfaces. We found that the self-diffusion of water dramatically decreases in droplets with a diameter below 2.2 nm. Using a classical RexPoN force-field, we found that the ions in 1000 H2O's spend almost 50% of the time on the surface and 0.5 nm beneath it with a slight preference for OH– ion to reside longer on the surface. We estimate that, on average, recombination in these drops occurs at 400 ps in 1000 H2O's and 1 ns in 3000 H2O's. We also found that recombination is not limited by the local structure of the surface or the size of the droplet but can be influenced by the geometry of the water wire connecting the ions as they approach each other, which can often prevent recombination. Our results provide insights to the reaction microenvironments presented by nanoscopic water droplets.    
-
-    
 
 ## Electrochemically Driven Optical Dynamics of Reflectin Protein Films   
 
@@ -387,7 +332,7 @@ Open access: False
     
 [Yuan Yuan](https://openalex.org/A5072114525), [Jiapeng Ma](https://openalex.org/A5102395969), [Baotao Kang](https://openalex.org/A5080683645), [Jin Yong Lee](https://openalex.org/A5101445145), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c06491.
     
-No abstract    
+Heteroatom-doped Fe-N-C catalysts have emerged as promising alternatives to noble metals for the oxygen reduction reaction (ORR) due to their lower cost. However, the underlying mechanisms responsible for their enhanced performance, particularly electrochemical stability, remain a subject of debate. This study leverages density functional theory calculations coupled with a constant potential and implicit solvent model to investigate the electrochemical stabilities and activities of pyridinic (PD-) and pyrrolic FeN4C (PL-FeN4C) catalysts. Our findings reveal that the hydrogenation susceptibility of coordinating nitrogen atoms is a critical determinant of electrochemical stability within FeN4C catalysts. Moreover, we demonstrate that oxygen and sulfur doping exerts similar effects on enhancing the overall ORR performance of PD-FeN4C catalysts: (1) by reducing the p-band center of the coordinating nitrogen, thereby improving their resistance to hydrogenation, and (2) by increasing the valence electrons of iron, leading to stronger adsorption of reaction intermediates and consequently enhanced ORR activity. Finally, our predictions suggest that O/S-doped PL-FeN4C catalysts could achieve significantly improved electrochemical stability and superior ORR performance in both acidic and alkaline environments. These insights contribute to a deeper understanding of microenvironment engineering in single-atom catalysts (SACs) and offer valuable guidelines for the development of unprecedented M-N-C catalysts.    
 
     
 
@@ -484,9 +429,9 @@ The acidic electroreduction of CO2 into multicarbon (C2+) products is much attra
 OpenAlex: https://openalex.org/W4407847690    
 Open access: True
     
-[Anquan Zhu](https://openalex.org/A5072085711), [Lulu Qiao](https://openalex.org/A5063542420), [Kai Liu](https://openalex.org/A5100399849), [Guoqiang Gan](https://openalex.org/A5062955845), [Chuhao Luan](https://openalex.org/A5043737902), [Dewu Lin](https://openalex.org/A5077623954), [Yin Zhou](https://openalex.org/A5104343821), [Shuyu Bu](https://openalex.org/A5055464702), [Tian Zhang](https://openalex.org/A5100371745), [Kunlun Liu](https://openalex.org/A5071564809), [Tianyi Song](https://openalex.org/A5042913659), [Heng Liu](https://openalex.org/A5031879384), [Hao Li](https://openalex.org/A5100348631), [Hong Guo](https://openalex.org/A5101409682), [Wenjun Zhang](https://openalex.org/A5100447820), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-57056-6 ([pdf](https://www.nature.com/articles/s41467-025-57056-6.pdf)).
+[Anquan Zhu](https://openalex.org/A5072085711), [Lulu Qiao](https://openalex.org/A5063542420), [Kai Liu](https://openalex.org/A5100399849), [Guoqiang Gan](https://openalex.org/A5062955845), [Chuhao Luan](https://openalex.org/A5043737902), [Dewu Lin](https://openalex.org/A5077623954), [Yin Zhou](https://openalex.org/A5104343821), [Shuyu Bu](https://openalex.org/A5055464702), [Tian Zhang](https://openalex.org/A5100371745), [Kunlun Liu](https://openalex.org/A5071564809), [Tianyi Song](https://openalex.org/A5042913659), [Heng Liu](https://openalex.org/A5031879384), [Hao Li](https://openalex.org/A5100348631), [Hong Guo](https://openalex.org/A5101409682), [Wenjun Zhang](https://openalex.org/A5100447820), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-57056-6.
     
-No abstract    
+The concept of precatalyst is widely accepted in electrochemical water splitting, but the role of precatalyst activation and the resulted changes of electrolyte composition is often overlooked. Here, we elucidate the impact of potential-dependent changes for both precatalyst and electrolyte using Co2Mo3O8 as a model system. Potential-dependent reconstruction of Co2Mo3O8 precatalyst results in an electrochemically stable Co(OH)2@Co2Mo3O8 catalyst and additional Mo dissolved as MoO42− into electrolyte. The Co(OH)2/Co2Mo3O8 interface accelerates the Volmer reaction and negative potentials induced Mo2O72− (from MoO42−) further enhances proton adsorption and H2 desorption. Leveraging these insights, the well-designed MoO42−/Mo2O72− modified Co(OH)2@Co2Mo3O8 catalyst achieves a Faradaic efficiency of 99.9% and a yield of 1.85 mol h−1 at −0.4 V versus reversible hydrogen electrode (RHE) for hydrogen generation. Moreover, it maintains stable over one month at approximately 100 mA cm−2, highlighting its industrial suitability. This work underscores the significance of understanding on precatalyst reconstruction and electrolyte evolution in catalyst design. The significance of precatalyst activation and its impact on electrolyte properties in water electrocatalysis is crucial but often overlooked. The authors report an efficient transition metal catalyst for hydrogen production by manipulating both precatalyst reconstruction and electrolyte composition.    
 
     
 
@@ -496,6 +441,39 @@ OpenAlex: https://openalex.org/W4407850868
 Open access: False
     
 [Junkai Xu](https://openalex.org/A5100958080), [Xiaoxue Yu](https://openalex.org/A5010295790), [Yuebo Gao](https://openalex.org/A5066307044), [Yunhao Wang](https://openalex.org/A5055096182), [Jianjun Fang](https://openalex.org/A5021115574), [Jing Li](https://openalex.org/A5060866469), [Xian-Fang Yue](https://openalex.org/A5086578535), [A. J. C. Varandas](https://openalex.org/A5010227245), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.4c08357.
+    
+No abstract    
+
+    
+
+## Trends in Structure and IR Spectra of Mixed H2O/CO2 Ices of Astrochemical Relevance   
+
+OpenAlex: https://openalex.org/W4407856726    
+Open access: False
+    
+[Niels M. Mikkelsen](https://openalex.org/A5116388185), [Thanja Lamberts](https://openalex.org/A5008463105), [Mie Andersen](https://openalex.org/A5060065812), ACS Earth and Space Chemistry. None(None)] 2025.https://doi.org/10.1021/acsearthspacechem.4c00353.
+    
+No abstract    
+
+    
+
+## MORE-Q, a dataset for molecular olfactorial receptor engineering by quantum mechanics   
+
+OpenAlex: https://openalex.org/W4407857451    
+Open access: True
+    
+[Li Chen](https://openalex.org/A5100379302), [Leonardo Medrano Sandonas](https://openalex.org/A5075028933), [Philipp Traber](https://openalex.org/A5091349105), [Arezoo Dianat](https://openalex.org/A5050483248), [Nina Tverdokhleb](https://openalex.org/A5072996950), [Mattan Hurevich](https://openalex.org/A5090155705), [Shlomo Yitzchaik](https://openalex.org/A5065338063), [Rafael Gutiérrez](https://openalex.org/A5081964395), [Alexander Croy](https://openalex.org/A5080265002), [Gianaurelio Cuniberti](https://openalex.org/A5018823387), Scientific Data. 12(1)] 2025.https://doi.org/10.1038/s41597-025-04616-6.
+    
+Abstract We introduce the MORE-Q dataset, a quantum-mechanical (QM) dataset encompassing the structural and electronic data of non-covalent molecular sensors formed by combining 18 mucin-derived olfactorial receptors with 102 body odor volatilome (BOV) molecules. To have a better understanding of their intra- and inter-molecular interactions, we have performed accurate QM calculations in different stages of the sensor design and, accordingly, MORE-Q splits into three subsets: i) MORE-Q-G1: QM data of 18 receptors and 102 BOV molecules, ii) MORE-Q-G2: QM data of 23,838 BOV-receptor configurations, and iii) MORE-Q-G3: QM data of 1,836 BOV-receptor-graphene systems. Each subset involves geometries optimized using GFN2-xTB with D4 dispersion correction and up to 39 physicochemical properties, including global and local properties as well as binding features, all computed at the tightly converged PBE+D3 level of theory. By addressing BOV-receptor-graphene systems from a QM perspective, MORE-Q can serve as a benchmark dataset for state-of-the-art machine learning methods developed to predict binding features. This, in turn, can provide valuable insights for developing the next-generation mucin-derived olfactory receptor sensing devices.    
+
+    
+
+## Fully automated high-throughput computer-based catalytic material screening framework and its application on the new-generation Tianhe supercomputer   
+
+OpenAlex: https://openalex.org/W4407864847    
+Open access: False
+    
+[Can Leng](https://openalex.org/A5059314269), [Xuguang Chen](https://openalex.org/A5101799907), [Jie Liu](https://openalex.org/A5100454111), [Chunye Gong](https://openalex.org/A5058447912), [Bo Yang](https://openalex.org/A5101432156), [Zhuo Tang](https://openalex.org/A5024356456), [Wangdong Yang](https://openalex.org/A5016247312), [Wei‐Qing Huang](https://openalex.org/A5067640198), [Yi‐Ge Zhou](https://openalex.org/A5021509801), [Maosong Mo](https://openalex.org/A5043876727), [Kenli Li](https://openalex.org/A5078793726), [Keqin Li](https://openalex.org/A5087894632), Computational Materials Science. 252(None)] 2025.https://doi.org/10.1016/j.commatsci.2025.113775.
     
 No abstract    
 
