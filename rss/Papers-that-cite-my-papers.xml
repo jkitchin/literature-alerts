@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 25 Feb 2025 01:22:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 01:22:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrochemically Driven Optical Dynamics of Reflectin Protein Films</title>
-      <link>https://doi.org/10.1002/adma.202411005</link>
-      <description>Yin&#8208;Chen Lin, Changxuan Yang, Seren Tochikura, Joshua R. Uzarski, Daniel E. Morse, Lior Sepunaru, Michael J. Gordon, Advanced Materials. None(None)] 2025. https://openalex.org/W4407637890
-
-                Abstract Neuronally triggered phosphorylation drives the dynamic condensation of reflectin proteins, enabling squid to fine tune the colors reflected from specialized skin cells (iridocytes) for camouflage and communication. Reflectin, the primary component of iridocyte lamellae, forms alternating layers of protein and low refractive index extracellular space within membrane&#8208;encapsulated structures, acting as a biologically tunable distributed Bragg reflector. In vivo, reflectin condensation induces osmotic dehydration of these lamellae, reducing their thickness and shifting the wavelength of reflected light. Inspired by this natural mechanism, we demonstrate that electrochemical reduction of imidazolium moieties within the protein provides a reversible and tunable method to control the water volume fraction in reflectin thin films, allowing precise, dynamic modulation of the film&#8217;s refractive index and thickness &#8212; mimicking the squid&#8217;s dynamic color adaptation. To unravel the underlying mechanisms, we developed electrochemical correlative ellipsometry and surface plasmon resonance spectroscopy, enabling real&#8208;time analysis of optical property changes of reflectin films. This electrochemically driven approach offers unprecedented control over reflectin condensation dynamics. Our findings not only deepen the understanding of biophysical processes governing cephalopod coloration but also pave the way for bio&#8208;inspired materials and devices that seamlessly integrate biological principles with synthetic systems to bridge the biotic&#8208;abiotic gap.</description>
-      <author>Yin&#8208;Chen Lin, Changxuan Yang, Seren Tochikura, Joshua R. Uzarski, Daniel E. Morse, Lior Sepunaru, Michael J. Gordon</author>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202411005</guid>
-    </item>
-    <item>
-      <title>Investigation of Surface Passivation Mechanisms in CrCoNi Alloys via Interpretable Machine Learning</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c03628</link>
-      <description>Haoyu Wan, Yue Wu, Guanhua Qin, Deng Pan, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4407639677
-
-                This study investigates the formation and stability of passivation films in medium-entropy CrCoNi alloy using an integrated approach combining first-principles calculations and Gaussian Approximation Potential (GAP). By performing extensive structural relaxations coupled with random occupancy of the alloy and multiple potential adsorption sites, the results based on surface reconstruction are analyzed. Our results demonstrate that disordered atomic structures in medium entropy CrCoNi alloy exhibit improved oxide film stability compared to ordered structures, with lower system energies correlating with more robust passivation layers. Furthermore, by constructing physically meaningful descriptors and employing symbolic regression in complex surface environments, simple yet highly correlated rules are obtained, providing insights into the passivation strengthening of CrCoNi alloy from both global and local perspectives. Our work paves the way for exploring surface regularities in complex medium-entropy alloys with the combination of quantum mechanical accuracy and machine learning efficiency.</description>
-      <author>Haoyu Wan, Yue Wu, Guanhua Qin, Deng Pan</author>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c03628</guid>
-    </item>
-    <item>
-      <title>Hammett Substituent Constant Guided Design of Ligand&#8208;Modified Ru Electrocatalyst for Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/slct.202406034</link>
-      <description>Zelin Zhao, De Wang, Jia Wang, Zhenyu He, Junsheng Li, ChemistrySelect. 10(7)] 2025. https://openalex.org/W4407645775
-
-                Abstract The design of efficient alkaline hydrogen evolution reaction (HER) electrocatalysts is crucial for the development of green hydrogen production. In this work, we report modulation the HER activity of Ru nanoparticles by functionalization using para&#8208;substituted phenylacetylenes (R = Cl, H, C 2 H 5 , and OCH 3 ), which have different electron donating/withdrawing capabilities. A close correlation between the Hammett substituent constant of the phenylacetylenes and HER activity of the functionalized Ru nanoparticles is revealed, and the underlying mechanism is investigated. Guided by such correlation, 4&#8208;ethylphenylacetylene&#8208;modified Ru nanoparticles (Ru&#9472;EPA) with a low HER overpotential of 17.7 mV at the current density of 10 mA cm &#8722;2 in alkaline solution is developed. The mechanistic understanding gained in this work will provide important guidelines for future development of high&#8208;performance nanostructured electrocatalyst.</description>
-      <author>Zelin Zhao, De Wang, Jia Wang, Zhenyu He, Junsheng Li</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/slct.202406034</guid>
-    </item>
-    <item>
-      <title>Rendering the European neutron research landscape</title>
-      <link>https://doi.org/10.1038/s41598-025-88099-w</link>
-      <description>E. V. Velichko, H. Abele, David J. Barlow, Antonio Benedetto, Stefano Deledda, Lambert van Eijck, M. T. Fern&#225;ndez&#8208;D&#237;az, M. Janoschek, Maths Karlsson, K. Lefmann, Natalie Malikova, M. Paula M. Marques, K. Mergia, J&#246;rg Pieper, H. M. R&#248;nnow, Jan &#352;aroun, A. Schneidewind, Frank Schreiber, K. Temst, Max Wolff, Wojciech Zaj&#261;c, M. Zanatta, Scientific Reports. 15(1)] 2025. https://openalex.org/W4407653233
-
-                Neutrons, owing to their unique properties, serve as indispensable probes for investigating the structure and dynamics of materials across various length scales. The scientific community utilizing neutron research infrastructures encompasses a diverse range of disciplines, making it challenging to quantify its scientific and societal impact. To address this challenge, we apply Natural Language Processing (NLP) and machine learning techniques to analyze the scientific output of the European neutron science community. Leveraging open-source software toolkits, our method allows for the quantitative assessment of community evolution and research focus. Our analysis reveals consistent growth in the neutron community despite a reduction in sources, underscoring the enduring significance of neutron methods in scientific research. Furthermore, an increase in unique authors and an even distribution of publications across diverse scientific topics highlight the community's interdisciplinary nature and collaborative spirit. While this study emphasizes neutron scattering, our methodology holds promise for a broad range of scientific communities reliant on Large Research Infrastructures (LRIs), offering opportunities for collaboration, optimization of experimental approaches, and informed decision-making by governmental and funding bodies.</description>
-      <author>E. V. Velichko, H. Abele, David J. Barlow, Antonio Benedetto, Stefano Deledda, Lambert van Eijck, M. T. Fern&#225;ndez&#8208;D&#237;az, M. Janoschek, Maths Karlsson, K. Lefmann, Natalie Malikova, M. Paula M. Marques, K. Mergia, J&#246;rg Pieper, H. M. R&#248;nnow, Jan &#352;aroun, A. Schneidewind, Frank Schreiber, K. Temst, Max Wolff, Wojciech Zaj&#261;c, M. Zanatta</author>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-025-88099-w</guid>
-    </item>
-    <item>
-      <title>Modeling the impact of structure and coverage on the reactivity of realistic heterogeneous catalysts</title>
-      <link>https://doi.org/10.1038/s44286-025-00179-w</link>
-      <description>Benjamin W. J. Chen, Manos Mavrikakis, Nature Chemical Engineering. None(None)] 2025. https://openalex.org/W4407662259
-
-                No abstract</description>
-      <author>Benjamin W. J. Chen, Manos Mavrikakis</author>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s44286-025-00179-w</guid>
-    </item>
-    <item>
-      <title>Ultra&#8208;fast and selective recycling of gold from electronic waste based on triiodide ionic &lt;scp&gt;liquids&lt;/scp&gt;</title>
-      <link>https://doi.org/10.1002/aic.18773</link>
-      <description>Xiaolu Yin, Ronghao Liu, Ying Yue, Jun Li, Yanzhao Yang, AIChE Journal. None(None)] 2025. https://openalex.org/W4407665529
-
-                Abstract This study introduces a pioneering application of triiodide ionic liquids (ILs) for the efficient and sustainable recovery of gold (Au) from real&#8208;world, various types of electronic wastes. Our method significantly reduces both environmental impact and reagent expenses, while operating under mild conditions. This technique is ideal for practical applications given its ultra&#8208;fast leaching (5 min) and room temperature (35&#176;C) reaction conditions, leading to an unprecedented 11&#8208;fold enhancement in the reaction kinetics relative to aqua regia. Notably, more than 99.3% of Au from e&#8208;waste can be selectively dissolved while excluding non&#8208;target elements like Cu. Compared with conventional dissolution&#8208;extraction processes, our method facilitates the process into a single step. Additionally, the triiodide ILs can be reused for up to six cycles, and have an impressive economic output&#8211;input ratio of 1969%, which demonstrates promising technoeconomic feasibility. This approach provides a valuable strategy for profit&#8208;efficient management of e&#8208;waste, promoting a circular economy.</description>
-      <author>Xiaolu Yin, Ronghao Liu, Ying Yue, Jun Li, Yanzhao Yang</author>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aic.18773</guid>
-    </item>
-    <item>
-      <title>Activation and electrochemical reduction of carbon dioxide by transition metal atom-doped copper clusters</title>
-      <link>https://doi.org/10.1039/d4nr03795b</link>
-      <description>Manish Kumar Mohanta, P. Jena, Nanoscale. None(None)] 2025. https://openalex.org/W4407671770
-
-                Doping transition metals in Cu 13 clusters enhance CO 2 reduction by altering electronic and magnetic properties, lowering overpotentials by &#8764;20%.</description>
-      <author>Manish Kumar Mohanta, P. Jena</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4nr03795b</guid>
-    </item>
-    <item>
-      <title>Rational Design of Dual-Atom Catalysts for Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction to C&lt;sub&gt;1&lt;/sub&gt; and C&lt;sub&gt;2&lt;/sub&gt; Products with High Activity and Selectivity: A Density Functional Theory Study</title>
-      <link>https://doi.org/10.1021/acs.iecr.4c04831</link>
-      <description>Zhongze Bai, Zhuo Zhi, Xi Zhuo Jiang, Kai Luo, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4407671862
-
-                Carbon dioxide (CO2) electroreduction using renewable energy provides a sustainable solution to mitigate greenhouse effects and achieve carbon neutrality. Developing high-performance electrocatalysts for the CO2 reduction reaction (CO2RR) is key to promoting such a technology. Herein, we systematically explored the CO2RR catalytic activity of 325 dual-metal-site catalysts (DMSCs) through density functional theory (DFT) calculations. Among them, the Sc/Tc DMSC is particularly advantageous for HCOOH, CH4, and CH3CH2OH production, with limiting potentials of &#8722;0.45 V, &#8722;0.45 V, and &#8722;0.46 V, respectively. The Ti/Rh DMSC can selectively convert CO2 to CH3CH2OH at ultralow overpotentials (UL = &#8722;0.21 V). HCOOH is the preferred product of the CO2RR on the Mn/Fe site with a UL of &#8722;0.30 V. Mn/Fe presents the highest inhibitory effects on the side reaction, the hydrogen evolution reaction (HER), with a UL of &#8722;0.66 V. Moreover, electronic analysis was conducted to further explain the enhancement for the CO2RR of explored catalysts at the subatomic level. Our work offers a strategy for screening of high-performance DMSCs and reveals the mechanisms of the CO2RR to target products for selected catalysts, benefiting the further development of CO2RR electrocatalysts.</description>
-      <author>Zhongze Bai, Zhuo Zhi, Xi Zhuo Jiang, Kai Luo</author>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c04831</guid>
-    </item>
-    <item>
-      <title>Stable molecular dynamics simulations of halide perovskites from a temperature-ensemble gradient-domain machine learning approach</title>
-      <link>https://doi.org/10.1016/j.cplett.2025.141964</link>
-      <description>Oz Y. Mendelsohn, Michal Hartstein, Stefan Chmiela, Alexandre Tkatchenko, Leeor Kronik, Chemical Physics Letters. None(None)] 2025. https://openalex.org/W4407673412
-
-                No abstract</description>
-      <author>Oz Y. Mendelsohn, Michal Hartstein, Stefan Chmiela, Alexandre Tkatchenko, Leeor Kronik</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2025.141964</guid>
-    </item>
-    <item>
-      <title>Theoretical evaluation of nitrate reduction reaction on single&#8208;atom anchored boron nitride fullerene</title>
-      <link>https://doi.org/10.1002/jccs.202400390</link>
-      <description>Faiza Shafiq, Lei Yang, Weihua Zhu, Journal of the Chinese Chemical Society. None(None)] 2025. https://openalex.org/W4407673629
-
-                Abstract Nitrate reduction reaction (NO 3 RR) is a powerful technique for eliminating pollution. Here, NO 3 RRs on transition metal&#8208;doped boron nitride fullerene (TM/B 11 N 12 ) were thoroughly examined utilizing density functional theory (DFT). Co/B 11 N 12 , a potential single&#8208;atom catalyst (SAC) with a low thermal barrier for NO 3 RR toward NH 3 synthesis with good stability, activity, and selectivity, was successfully screened out. Co/B 11 N 12 has the lowest limiting potential ( U L ) of &#8722;0.45 V and good NO 3 RR performance. Due to the comparatively restrained adsorption of proton on Co/B 11 N 12 , competitive hydrogen evolution reaction (HER) is substantially limited. The excellent selectivity for the production of NH 3 is ensured by significant energy barrier prerequisite for the formation of by&#8208;products (NO, NO 2 , N 2 O, and N 2 ) on Co/B 11 N 12 . By ab initio molecular dynamics (AIMD) simulations, Co/B 11 N 12 exhibits remarkable structural stability at 400 K with minimal distortion as compared to its initial shape. Our research may not only offer a fundamental understanding of the activity origin of NO 3 RR and catalytic mechanism on TM/B 11 N 12 but also open up opportunities for rational designing of SACs for NO 3 RR toward the NH 3 synthesis.</description>
-      <author>Faiza Shafiq, Lei Yang, Weihua Zhu</author>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/jccs.202400390</guid>
-    </item>
     <item>
       <title>Single-stage carburization of titanium and vanadium group metals</title>
       <link>https://doi.org/10.71267/mencom.7569</link>
@@ -428,14 +328,34 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2025.113775</guid>
     </item>
     <item>
-      <title>Localized s electrons promote the hydrogen evolution catalysis of kagome metal Ag5Pb2O6</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.02.215</link>
-      <description>Xiaohui Xu, Jun-Long Zhou, Chang&#8208;Chun Ding, Mengxin Wu, Min-Quan Kuang, International Journal of Hydrogen Energy. 110(None)] 2024. https://openalex.org/W4407670208
+      <title>Modulating Water Dissociation for Ampere-Level CO2-to-Ethanol Conversion over La(OH)3@Cu Hollow-fiber Penetration Electrode</title>
+      <link>https://doi.org/10.1016/j.apcatb.2025.125202</link>
+      <description>Jiayu Xia, Shoujie Li, Xiaohu Liu, Xiao Dong, Jianing Mao, Aohui Chen, Huanyi Zhu, Xiaotong Wang, Ziran Xu, Yiheng Wei, Guihua Li, Yanfang Song, Wei Wei, Wei Chen, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4407867111
 
                 No abstract</description>
-      <author>Xiaohui Xu, Jun-Long Zhou, Chang&#8208;Chun Ding, Mengxin Wu, Min-Quan Kuang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.02.215</guid>
+      <author>Jiayu Xia, Shoujie Li, Xiaohu Liu, Xiao Dong, Jianing Mao, Aohui Chen, Huanyi Zhu, Xiaotong Wang, Ziran Xu, Yiheng Wei, Guihua Li, Yanfang Song, Wei Wei, Wei Chen</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125202</guid>
+    </item>
+    <item>
+      <title>Wastewater as a resource for carbon capture: A comprehensive overview and perspective</title>
+      <link>https://doi.org/10.1016/j.jenvman.2025.124608</link>
+      <description>Rufan Zhou, Yueping Ren, Chunqing Jiang, Qingye Lu, Journal of Environmental Management. 377(None)] 2025. https://openalex.org/W4407869267
+
+                No abstract</description>
+      <author>Rufan Zhou, Yueping Ren, Chunqing Jiang, Qingye Lu</author>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jenvman.2025.124608</guid>
+    </item>
+    <item>
+      <title>Direct Z-scheme SnS2/InS heterostructure for efficient visible-light photocatalytic hydrogen evolution</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.02.334</link>
+      <description>Yifan Yang, Nan Zhou, Dong-Lan Zhang, Tong Chen, Cheng Gong, Lingling Wang, Kejun Dong, Liang Xu, International Journal of Hydrogen Energy. 111(None)] 2025. https://openalex.org/W4407874301
+
+                No abstract</description>
+      <author>Yifan Yang, Nan Zhou, Dong-Lan Zhang, Tong Chen, Cheng Gong, Lingling Wang, Kejun Dong, Liang Xu</author>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.02.334</guid>
     </item>
     <item>
       <title>Smart monitoring and control systems for hydrogen fuel cells using AI</title>
@@ -476,6 +396,16 @@
       <author>Pritha Biswas, Min&#8208;Ju Choi, Krishna Prasad Koirala, Hyo Ju Park, Mark Bowden, Lyndi E. Strange, Zhan Zhang, Hua Zhou, Janet Tate, Yingge Du, Dongsheng Li, Peter V. Sushko, Tiffany C. Kaspar</author>
       <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c08479</guid>
+    </item>
+    <item>
+      <title>Microkinetic modelling assisted rate equation development for ammonia decomposition over alumina supported nickel catalysts</title>
+      <link>https://doi.org/10.1016/j.apcatb.2025.125205</link>
+      <description>Pradeep Kumar Yadav, Shreepad Gunge, A. S. Russel, Goutam Deo, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4407870755
+
+                No abstract</description>
+      <author>Pradeep Kumar Yadav, Shreepad Gunge, A. S. Russel, Goutam Deo</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125205</guid>
     </item>
   </channel>
 </rss>

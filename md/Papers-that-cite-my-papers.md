@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Feb 25 01:22:48 2025
+Created on Wed Feb 26 01:22:27 2025
 
-Found 47 results from 2025-02-18 to 2025-02-25
+Found 40 results from 2025-02-19 to 2025-02-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544)
@@ -16,116 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176)
-
-## Electrochemically Driven Optical Dynamics of Reflectin Protein Films   
-
-OpenAlex: https://openalex.org/W4407637890    
-Open access: True
-    
-[Yin‐Chen Lin](https://openalex.org/A5102754620), [Changxuan Yang](https://openalex.org/A5109766018), [Seren Tochikura](https://openalex.org/A5104635056), [Joshua R. Uzarski](https://openalex.org/A5009300007), [Daniel E. Morse](https://openalex.org/A5019054735), [Lior Sepunaru](https://openalex.org/A5023606527), [Michael J. Gordon](https://openalex.org/A5021173676), Advanced Materials. None(None)] 2025.https://doi.org/10.1002/adma.202411005.
-    
-Abstract Neuronally triggered phosphorylation drives the dynamic condensation of reflectin proteins, enabling squid to fine tune the colors reflected from specialized skin cells (iridocytes) for camouflage and communication. Reflectin, the primary component of iridocyte lamellae, forms alternating layers of protein and low refractive index extracellular space within membrane‐encapsulated structures, acting as a biologically tunable distributed Bragg reflector. In vivo, reflectin condensation induces osmotic dehydration of these lamellae, reducing their thickness and shifting the wavelength of reflected light. Inspired by this natural mechanism, we demonstrate that electrochemical reduction of imidazolium moieties within the protein provides a reversible and tunable method to control the water volume fraction in reflectin thin films, allowing precise, dynamic modulation of the film’s refractive index and thickness — mimicking the squid’s dynamic color adaptation. To unravel the underlying mechanisms, we developed electrochemical correlative ellipsometry and surface plasmon resonance spectroscopy, enabling real‐time analysis of optical property changes of reflectin films. This electrochemically driven approach offers unprecedented control over reflectin condensation dynamics. Our findings not only deepen the understanding of biophysical processes governing cephalopod coloration but also pave the way for bio‐inspired materials and devices that seamlessly integrate biological principles with synthetic systems to bridge the biotic‐abiotic gap.    
-
-    
-
-## Investigation of Surface Passivation Mechanisms in CrCoNi Alloys via Interpretable Machine Learning   
-
-OpenAlex: https://openalex.org/W4407639677    
-Open access: False
-    
-[Haoyu Wan](https://openalex.org/A5047483092), [Yue Wu](https://openalex.org/A5100868914), [Guanhua Qin](https://openalex.org/A5050264421), [Deng Pan](https://openalex.org/A5101824080), The Journal of Physical Chemistry Letters. None(None)] 2025.https://doi.org/10.1021/acs.jpclett.4c03628.
-    
-This study investigates the formation and stability of passivation films in medium-entropy CrCoNi alloy using an integrated approach combining first-principles calculations and Gaussian Approximation Potential (GAP). By performing extensive structural relaxations coupled with random occupancy of the alloy and multiple potential adsorption sites, the results based on surface reconstruction are analyzed. Our results demonstrate that disordered atomic structures in medium entropy CrCoNi alloy exhibit improved oxide film stability compared to ordered structures, with lower system energies correlating with more robust passivation layers. Furthermore, by constructing physically meaningful descriptors and employing symbolic regression in complex surface environments, simple yet highly correlated rules are obtained, providing insights into the passivation strengthening of CrCoNi alloy from both global and local perspectives. Our work paves the way for exploring surface regularities in complex medium-entropy alloys with the combination of quantum mechanical accuracy and machine learning efficiency.    
-
-    
-
-## Hammett Substituent Constant Guided Design of Ligand‐Modified Ru Electrocatalyst for Hydrogen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4407645775    
-Open access: False
-    
-[Zelin Zhao](https://openalex.org/A5019635814), [De Wang](https://openalex.org/A5085785043), [Jia Wang](https://openalex.org/A5100404690), [Zhenyu He](https://openalex.org/A5040403008), [Junsheng Li](https://openalex.org/A5061583280), ChemistrySelect. 10(7)] 2025.https://doi.org/10.1002/slct.202406034.
-    
-Abstract The design of efficient alkaline hydrogen evolution reaction (HER) electrocatalysts is crucial for the development of green hydrogen production. In this work, we report modulation the HER activity of Ru nanoparticles by functionalization using para‐substituted phenylacetylenes (R = Cl, H, C 2 H 5 , and OCH 3 ), which have different electron donating/withdrawing capabilities. A close correlation between the Hammett substituent constant of the phenylacetylenes and HER activity of the functionalized Ru nanoparticles is revealed, and the underlying mechanism is investigated. Guided by such correlation, 4‐ethylphenylacetylene‐modified Ru nanoparticles (Ru─EPA) with a low HER overpotential of 17.7 mV at the current density of 10 mA cm −2 in alkaline solution is developed. The mechanistic understanding gained in this work will provide important guidelines for future development of high‐performance nanostructured electrocatalyst.    
-
-    
-
-## Rendering the European neutron research landscape   
-
-OpenAlex: https://openalex.org/W4407653233    
-Open access: True
-    
-[E. V. Velichko](https://openalex.org/A5014013755), [H. Abele](https://openalex.org/A5054845586), [David J. Barlow](https://openalex.org/A5009219220), [Antonio Benedetto](https://openalex.org/A5016466064), [Stefano Deledda](https://openalex.org/A5070193228), [Lambert van Eijck](https://openalex.org/A5011563461), [M. T. Fernández‐Díaz](https://openalex.org/A5055601228), [M. Janoschek](https://openalex.org/A5047097570), [Maths Karlsson](https://openalex.org/A5028648026), [K. Lefmann](https://openalex.org/A5079236690), [Natalie Malikova](https://openalex.org/A5030505984), [M. Paula M. Marques](https://openalex.org/A5067885139), [K. Mergia](https://openalex.org/A5053245775), [Jörg Pieper](https://openalex.org/A5042434168), [H. M. Rønnow](https://openalex.org/A5081146020), [Jan Šaroun](https://openalex.org/A5057408682), [A. Schneidewind](https://openalex.org/A5008790566), [Frank Schreiber](https://openalex.org/A5038599380), [K. Temst](https://openalex.org/A5066601766), [Max Wolff](https://openalex.org/A5008099449), [Wojciech Zając](https://openalex.org/A5016236661), [M. Zanatta](https://openalex.org/A5034820138), Scientific Reports. 15(1)] 2025.https://doi.org/10.1038/s41598-025-88099-w.
-    
-Neutrons, owing to their unique properties, serve as indispensable probes for investigating the structure and dynamics of materials across various length scales. The scientific community utilizing neutron research infrastructures encompasses a diverse range of disciplines, making it challenging to quantify its scientific and societal impact. To address this challenge, we apply Natural Language Processing (NLP) and machine learning techniques to analyze the scientific output of the European neutron science community. Leveraging open-source software toolkits, our method allows for the quantitative assessment of community evolution and research focus. Our analysis reveals consistent growth in the neutron community despite a reduction in sources, underscoring the enduring significance of neutron methods in scientific research. Furthermore, an increase in unique authors and an even distribution of publications across diverse scientific topics highlight the community's interdisciplinary nature and collaborative spirit. While this study emphasizes neutron scattering, our methodology holds promise for a broad range of scientific communities reliant on Large Research Infrastructures (LRIs), offering opportunities for collaboration, optimization of experimental approaches, and informed decision-making by governmental and funding bodies.    
-
-    
-
-## Modeling the impact of structure and coverage on the reactivity of realistic heterogeneous catalysts   
-
-OpenAlex: https://openalex.org/W4407662259    
-Open access: True
-    
-[Benjamin W. J. Chen](https://openalex.org/A5040919062), [Manos Mavrikakis](https://openalex.org/A5031683423), Nature Chemical Engineering. None(None)] 2025.https://doi.org/10.1038/s44286-025-00179-w.
-    
-No abstract    
-
-    
-
-## Ultra‐fast and selective recycling of gold from electronic waste based on triiodide ionic liquids   
-
-OpenAlex: https://openalex.org/W4407665529    
-Open access: True
-    
-[Xiaolu Yin](https://openalex.org/A5111540725), [Ronghao Liu](https://openalex.org/A5082915446), [Ying Yue](https://openalex.org/A5004315741), [Jun Li](https://openalex.org/A5100362075), [Yanzhao Yang](https://openalex.org/A5056866747), AIChE Journal. None(None)] 2025.https://doi.org/10.1002/aic.18773 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aic.18773)).
-    
-Abstract This study introduces a pioneering application of triiodide ionic liquids (ILs) for the efficient and sustainable recovery of gold (Au) from real‐world, various types of electronic wastes. Our method significantly reduces both environmental impact and reagent expenses, while operating under mild conditions. This technique is ideal for practical applications given its ultra‐fast leaching (5 min) and room temperature (35°C) reaction conditions, leading to an unprecedented 11‐fold enhancement in the reaction kinetics relative to aqua regia. Notably, more than 99.3% of Au from e‐waste can be selectively dissolved while excluding non‐target elements like Cu. Compared with conventional dissolution‐extraction processes, our method facilitates the process into a single step. Additionally, the triiodide ILs can be reused for up to six cycles, and have an impressive economic output–input ratio of 1969%, which demonstrates promising technoeconomic feasibility. This approach provides a valuable strategy for profit‐efficient management of e‐waste, promoting a circular economy.    
-
-    
-
-## Activation and electrochemical reduction of carbon dioxide by transition metal atom-doped copper clusters   
-
-OpenAlex: https://openalex.org/W4407671770    
-Open access: True
-    
-[Manish Kumar Mohanta](https://openalex.org/A5052092090), [P. Jena](https://openalex.org/A5004635120), Nanoscale. None(None)] 2025.https://doi.org/10.1039/d4nr03795b.
-    
-Doping transition metals in Cu 13 clusters enhance CO 2 reduction by altering electronic and magnetic properties, lowering overpotentials by ∼20%.    
-
-    
-
-## Rational Design of Dual-Atom Catalysts for Electrochemical CO2 Reduction to C1 and C2 Products with High Activity and Selectivity: A Density Functional Theory Study   
-
-OpenAlex: https://openalex.org/W4407671862    
-Open access: True
-    
-[Zhongze Bai](https://openalex.org/A5079543456), [Zhuo Zhi](https://openalex.org/A5002332644), [Xi Zhuo Jiang](https://openalex.org/A5048680094), [Kai Luo](https://openalex.org/A5033445616), Industrial & Engineering Chemistry Research. None(None)] 2025.https://doi.org/10.1021/acs.iecr.4c04831.
-    
-Carbon dioxide (CO2) electroreduction using renewable energy provides a sustainable solution to mitigate greenhouse effects and achieve carbon neutrality. Developing high-performance electrocatalysts for the CO2 reduction reaction (CO2RR) is key to promoting such a technology. Herein, we systematically explored the CO2RR catalytic activity of 325 dual-metal-site catalysts (DMSCs) through density functional theory (DFT) calculations. Among them, the Sc/Tc DMSC is particularly advantageous for HCOOH, CH4, and CH3CH2OH production, with limiting potentials of −0.45 V, −0.45 V, and −0.46 V, respectively. The Ti/Rh DMSC can selectively convert CO2 to CH3CH2OH at ultralow overpotentials (UL = −0.21 V). HCOOH is the preferred product of the CO2RR on the Mn/Fe site with a UL of −0.30 V. Mn/Fe presents the highest inhibitory effects on the side reaction, the hydrogen evolution reaction (HER), with a UL of −0.66 V. Moreover, electronic analysis was conducted to further explain the enhancement for the CO2RR of explored catalysts at the subatomic level. Our work offers a strategy for screening of high-performance DMSCs and reveals the mechanisms of the CO2RR to target products for selected catalysts, benefiting the further development of CO2RR electrocatalysts.    
-
-    
-
-## Stable molecular dynamics simulations of halide perovskites from a temperature-ensemble gradient-domain machine learning approach   
-
-OpenAlex: https://openalex.org/W4407673412    
-Open access: False
-    
-[Oz Y. Mendelsohn](https://openalex.org/A5116302251), [Michal Hartstein](https://openalex.org/A5065833964), [Stefan Chmiela](https://openalex.org/A5075988802), [Alexandre Tkatchenko](https://openalex.org/A5026929463), [Leeor Kronik](https://openalex.org/A5054788297), Chemical Physics Letters. None(None)] 2025.https://doi.org/10.1016/j.cplett.2025.141964.
-    
-No abstract    
-
-    
-
-## Theoretical evaluation of nitrate reduction reaction on single‐atom anchored boron nitride fullerene   
-
-OpenAlex: https://openalex.org/W4407673629    
-Open access: True
-    
-[Faiza Shafiq](https://openalex.org/A5102007177), [Lei Yang](https://openalex.org/A5100651490), [Weihua Zhu](https://openalex.org/A5057295660), Journal of the Chinese Chemical Society. None(None)] 2025.https://doi.org/10.1002/jccs.202400390.
-    
-Abstract Nitrate reduction reaction (NO 3 RR) is a powerful technique for eliminating pollution. Here, NO 3 RRs on transition metal‐doped boron nitride fullerene (TM/B 11 N 12 ) were thoroughly examined utilizing density functional theory (DFT). Co/B 11 N 12 , a potential single‐atom catalyst (SAC) with a low thermal barrier for NO 3 RR toward NH 3 synthesis with good stability, activity, and selectivity, was successfully screened out. Co/B 11 N 12 has the lowest limiting potential ( U L ) of −0.45 V and good NO 3 RR performance. Due to the comparatively restrained adsorption of proton on Co/B 11 N 12 , competitive hydrogen evolution reaction (HER) is substantially limited. The excellent selectivity for the production of NH 3 is ensured by significant energy barrier prerequisite for the formation of by‐products (NO, NO 2 , N 2 O, and N 2 ) on Co/B 11 N 12 . By ab initio molecular dynamics (AIMD) simulations, Co/B 11 N 12 exhibits remarkable structural stability at 400 K with minimal distortion as compared to its initial shape. Our research may not only offer a fundamental understanding of the activity origin of NO 3 RR and catalytic mechanism on TM/B 11 N 12 but also open up opportunities for rational designing of SACs for NO 3 RR toward the NH 3 synthesis.    
-
-    
 
 ## Single-stage carburization of titanium and vanadium group metals   
 
@@ -479,12 +369,34 @@ No abstract
 
     
 
-## Localized s electrons promote the hydrogen evolution catalysis of kagome metal Ag5Pb2O6   
+## Modulating Water Dissociation for Ampere-Level CO2-to-Ethanol Conversion over La(OH)3@Cu Hollow-fiber Penetration Electrode   
 
-OpenAlex: https://openalex.org/W4407670208    
+OpenAlex: https://openalex.org/W4407867111    
 Open access: False
     
-[Xiaohui Xu](https://openalex.org/A5101190554), [Jun-Long Zhou](https://openalex.org/A5104336660), [Chang‐Chun Ding](https://openalex.org/A5025832031), [Mengxin Wu](https://openalex.org/A5039917289), [Min-Quan Kuang](https://openalex.org/A5011665217), International Journal of Hydrogen Energy. 110(None)] 2024.https://doi.org/10.1016/j.ijhydene.2025.02.215.
+[Jiayu Xia](https://openalex.org/A5113289911), [Shoujie Li](https://openalex.org/A5101644090), [Xiaohu Liu](https://openalex.org/A5100689578), [Xiao Dong](https://openalex.org/A5006528528), [Jianing Mao](https://openalex.org/A5018878652), [Aohui Chen](https://openalex.org/A5058339207), [Huanyi Zhu](https://openalex.org/A5113289905), [Xiaotong Wang](https://openalex.org/A5115694956), [Ziran Xu](https://openalex.org/A5113347537), [Yiheng Wei](https://openalex.org/A5064015289), [Guihua Li](https://openalex.org/A5085611722), [Yanfang Song](https://openalex.org/A5101891693), [Wei Wei](https://openalex.org/A5110482278), [Wei Chen](https://openalex.org/A5100323822), Applied Catalysis B Environment and Energy. None(None)] 2025.https://doi.org/10.1016/j.apcatb.2025.125202.
+    
+No abstract    
+
+    
+
+## Wastewater as a resource for carbon capture: A comprehensive overview and perspective   
+
+OpenAlex: https://openalex.org/W4407869267    
+Open access: False
+    
+[Rufan Zhou](https://openalex.org/A5042598536), [Yueping Ren](https://openalex.org/A5063287594), [Chunqing Jiang](https://openalex.org/A5003918789), [Qingye Lu](https://openalex.org/A5077765439), Journal of Environmental Management. 377(None)] 2025.https://doi.org/10.1016/j.jenvman.2025.124608.
+    
+No abstract    
+
+    
+
+## Direct Z-scheme SnS2/InS heterostructure for efficient visible-light photocatalytic hydrogen evolution   
+
+OpenAlex: https://openalex.org/W4407874301    
+Open access: False
+    
+[Yifan Yang](https://openalex.org/A5101646267), [Nan Zhou](https://openalex.org/A5030538299), [Dong-Lan Zhang](https://openalex.org/A5037536564), [Tong Chen](https://openalex.org/A5101879391), [Cheng Gong](https://openalex.org/A5046821680), [Lingling Wang](https://openalex.org/A5100321132), [Kejun Dong](https://openalex.org/A5081803553), [Liang Xu](https://openalex.org/A5100612997), International Journal of Hydrogen Energy. 111(None)] 2025.https://doi.org/10.1016/j.ijhydene.2025.02.334.
     
 No abstract    
 
@@ -529,6 +441,17 @@ OpenAlex: https://openalex.org/W4407810010
 Open access: False
     
 [Pritha Biswas](https://openalex.org/A5006287569), [Min‐Ju Choi](https://openalex.org/A5084253035), [Krishna Prasad Koirala](https://openalex.org/A5042680580), [Hyo Ju Park](https://openalex.org/A5029493252), [Mark Bowden](https://openalex.org/A5057435771), [Lyndi E. Strange](https://openalex.org/A5012520227), [Zhan Zhang](https://openalex.org/A5100393420), [Hua Zhou](https://openalex.org/A5018565864), [Janet Tate](https://openalex.org/A5044298315), [Yingge Du](https://openalex.org/A5018958990), [Dongsheng Li](https://openalex.org/A5100440906), [Peter V. Sushko](https://openalex.org/A5056099857), [Tiffany C. Kaspar](https://openalex.org/A5042725190), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.4c08479.
+    
+No abstract    
+
+    
+
+## Microkinetic modelling assisted rate equation development for ammonia decomposition over alumina supported nickel catalysts   
+
+OpenAlex: https://openalex.org/W4407870755    
+Open access: False
+    
+[Pradeep Kumar Yadav](https://openalex.org/A5028351052), [Shreepad Gunge](https://openalex.org/A5116393953), [A. S. Russel](https://openalex.org/A5070647720), [Goutam Deo](https://openalex.org/A5001287386), Applied Catalysis B Environment and Energy. None(None)] 2025.https://doi.org/10.1016/j.apcatb.2025.125205.
     
 No abstract    
 
