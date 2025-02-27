@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 26 Feb 2025 01:22:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 01:22:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Single-stage carburization of titanium and vanadium group metals</title>
-      <link>https://doi.org/10.71267/mencom.7569</link>
-      <description>A. N. Rogova, &#1043;. &#1055;. &#1050;&#1086;&#1095;&#1072;&#1085;&#1086;&#1074;, &#1048;. &#1040;. &#1050;&#1086;&#1074;&#1072;&#1083;&#1077;&#1074;, A. V. Shokod&#8217;ko, A. S. Chernyavskii, &#1050;. &#1040;. &#1057;&#1086;&#1083;&#1085;&#1094;&#1077;&#1074;, Mendeleev Communications. 35(2)] 2025. https://openalex.org/W4407709775
-
-                No abstract</description>
-      <author>A. N. Rogova, &#1043;. &#1055;. &#1050;&#1086;&#1095;&#1072;&#1085;&#1086;&#1074;, &#1048;. &#1040;. &#1050;&#1086;&#1074;&#1072;&#1083;&#1077;&#1074;, A. V. Shokod&#8217;ko, A. S. Chernyavskii, &#1050;. &#1040;. &#1057;&#1086;&#1083;&#1085;&#1094;&#1077;&#1074;</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.71267/mencom.7569</guid>
-    </item>
-    <item>
-      <title>Icosahedra CoPd Bimetallic Nanoparticles for Magnetically Induced Aromatic Ketone Hydrodeoxygenation</title>
-      <link>https://doi.org/10.1021/acs.chemmater.4c03359</link>
-      <description>Felipe Quiroga-Suavita, V&#237;ctor Varela&#8208;Izquierdo, Teresa Hungr&#305;&#769;a, Damien Alloyeau, Nicolas Ratel&#8208;Ramond, Simon Cayez, Richard D. Tilley, Edwin A. Baquero, Bruno Chaudret, Lise&#8208;Marie Lacroix, Chemistry of Materials. None(None)] 2025. https://openalex.org/W4407720071
-
-                The development of bimetallic nanomaterials with precisely controlled size, shape, and composition has emerged as a cornerstone of sustainable catalysis, offering innovative solutions for chemical valorization processes. In this work, CoPd bimetallic nanoparticles were prepared via an organometallic approach using Co[N(SiMe3)2]2(thf) and Pd(acac)2 (acac: acetylacetonate) as metal sources. Advanced structural characterization techniques, including high-resolution transmission electron microscopy, X-ray diffraction, and wide-angle X-ray scattering, revealed an icosahedral Pd-rich core with a less crystalline Co-rich shell. Thanks to a large magnetic anisotropy, these 10 nm particles are ferromagnetic at room temperature and thus can be used as efficient heating agents under an alternative magnetic field. This nanomaterial was successfully tested as a catalyst in hydrodeoxygenation reactions using induction heating for energy-efficient activation. The CoPd catalyst demonstrates the synergistic potential of the non-noble/noble metal combination, achieving challenging chemical transformations at relatively low temperatures while keeping an optimal balance between their heating capability and surface-to-volume ratio. This study underscores the potential of CoPd systems for advancing sustainable catalysis through magnetically induced reactions.</description>
-      <author>Felipe Quiroga-Suavita, V&#237;ctor Varela&#8208;Izquierdo, Teresa Hungr&#305;&#769;a, Damien Alloyeau, Nicolas Ratel&#8208;Ramond, Simon Cayez, Richard D. Tilley, Edwin A. Baquero, Bruno Chaudret, Lise&#8208;Marie Lacroix</author>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.4c03359</guid>
-    </item>
     <item>
       <title>Octahedral Tilt-Driven Phase Transitions in BaZrS&lt;sub&gt;3&lt;/sub&gt; Chalcogenide Perovskite</title>
       <link>https://doi.org/10.1021/acs.jpclett.4c03517</link>
@@ -358,6 +338,96 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.02.334</guid>
     </item>
     <item>
+      <title>Lattice dynamics modeling of thermal transport in solids using machine-learned atomic cluster expansion potentials: A tutorial</title>
+      <link>https://doi.org/10.1063/5.0251119</link>
+      <description>Liangshuai Guo, Yuanbin Liu, Lei Yang, Bing Cao, Journal of Applied Physics. 137(8)] 2025. https://openalex.org/W4407882290
+
+                Lattice dynamics (LD) plays a crucial role in investigating thermal transport in terms of not only underlying physics but also novel properties and phenomena. Recently, machine learning interatomic potentials (MLIPs) have emerged as powerful tools in computational physics and chemistry, showing great potential in providing reliable predictions of thermal transport properties with high efficiency. This tutorial provides a comprehensive guideline for MLIPs&#8217; development and how they are used for the computational modeling of thermal transport. Using atomic cluster expansion (ACE) as the paradigmatic potential, we introduce the essential fundamentals of MLIPs, including data construction, model training, and hyperparameter optimization. With the developed ACE potentials, we further showcase their applications in the LD modeling of thermal transport for crystalline silicon and amorphous carbon. The corresponding code implementations for MLIP applications in calculating thermal conductivity are also provided for beginners to follow.</description>
+      <author>Liangshuai Guo, Yuanbin Liu, Lei Yang, Bing Cao</author>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0251119</guid>
+    </item>
+    <item>
+      <title>Theoretical Prediction of MXene-based Single-atom Catalysts M-Ti&amp;amp;lt;sub&amp;amp;gt;2&amp;amp;lt;/sub&amp;amp;gt;CO&amp;amp;lt;sub&amp;amp;gt;2&amp;amp;lt;/sub&amp;amp;gt; (M=Cu, Fe, Co, Ni) Applied in the Electroreduction of CO&amp;amp;lt;sub&amp;amp;gt;2&amp;amp;lt;/sub&amp;amp;gt; for Methanol Production</title>
+      <link>https://doi.org/10.3724/2097-213x.2025.jfct.0005</link>
+      <description>Xinyao Zou, Chongqing Yang, Simin Liu, Ang Li, Lei Zhu, Zhen Huang, Journal of Fuel Chemistry and Technology. None(None)] 2025. https://openalex.org/W4407884224
+
+                No abstract</description>
+      <author>Xinyao Zou, Chongqing Yang, Simin Liu, Ang Li, Lei Zhu, Zhen Huang</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3724/2097-213x.2025.jfct.0005</guid>
+    </item>
+    <item>
+      <title>Unlocking the potential of chemical-assisted water electrolysis for green hydrogen production</title>
+      <link>https://doi.org/10.1039/d4im00163j</link>
+      <description>Jiwoo Lee, Sol A Lee, Tae Hyung Lee, Ho Won Jang, Industrial Chemistry and Materials. None(None)] 2025. https://openalex.org/W4407885004
+
+                Chemical-assisted water electrolysis is gaining attraction as an alternative to conventional water electrolysis to produce hydrogen, but high overpotential is a major challenge. This review covers advanced strategies to reduce the operation voltage.</description>
+      <author>Jiwoo Lee, Sol A Lee, Tae Hyung Lee, Ho Won Jang</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4im00163j</guid>
+    </item>
+    <item>
+      <title>Hydroxylation Strategy Enables Ru&#8211;Mn Oxide for Stable Proton Exchange Membrane Water Electrolysis under 1 A cm&lt;sup&gt;&#8211;2&lt;/sup&gt;</title>
+      <link>https://doi.org/10.1021/acsnano.4c15900</link>
+      <description>Susu Zhao, Qian Dang, Aiqing Cao, Marshet Getaye Sendeku, Hai Liu, Jian Peng, Yameng Fan, Hui Li, Fengmei Wang, Yun Kuang, Xiaoming Sun, ACS Nano. None(None)] 2025. https://openalex.org/W4407892266
+
+                Ruthenium (Ru)-based catalysts have demonstrated promising utilization potentiality to replace the much expensive iridium (Ir)-based ones for proton exchange membrane water electrolysis (PEMWE) due to their high electrochemical activity and low cost. However, the susceptibility of RuO2-based materials to easily be oxidized to high-valent and soluble Ru species during the oxygen evolution reaction (OER) in acid media hinders the practical application, especially under current density above 500 mA cm&#8211;2. Here, a manganese-doped RuO2 catalyst with the hydroxylated metal sites (i.e., H&#8211;Mn0.1Ru0.9O2) is synthesized for acidic OER assisted by hydrogen peroxide, where the hydroxylation results in the valence state of the Ru sites below +4. The H&#8211;Mn0.1Ru0.9O2 catalyst demonstrates an overpotential of 169 mV at 10 mA cm&#8211;2 and promising stability for an OER over 1000 h in an acidic electrolyte. A PEMWE device fabricated with the H&#8211;Mn0.1Ru0.9O2 catalyst as the anode shows a current density of 1 A cm&#8211;2 at &#8764;1.65 V, along with a low degradation over continuous tens of hours. Differential electrochemical mass spectrometry (DEMS) results and theoretical calculations confirm that H&#8211;Mn0.1Ru0.9O2 performs the OER through the adsorbate evolution mechanism (AEM) pathway, where the synergistic effect of hydroxylation and Mn doping in RuO2 can effectively enhance the stability of Ru sites and lattice oxygen atoms.</description>
+      <author>Susu Zhao, Qian Dang, Aiqing Cao, Marshet Getaye Sendeku, Hai Liu, Jian Peng, Yameng Fan, Hui Li, Fengmei Wang, Yun Kuang, Xiaoming Sun</author>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c15900</guid>
+    </item>
+    <item>
+      <title>Radio frequency plasma-engraved vacancy engineering towards robust hydrogen-evolving catalysts with large-current stable catalytic activity for over 1000 h</title>
+      <link>https://doi.org/10.1007/s40843-024-3247-8</link>
+      <description>Yong Zhang, Haiman Huang, Weiqiang Xie, Qian Zhou, Xiang Hu, Guanghua Wang, Wangbing Yu, Haiqing Zhou, Yu Fang, Science China Materials. None(None)] 2025. https://openalex.org/W4407895554
+
+                No abstract</description>
+      <author>Yong Zhang, Haiman Huang, Weiqiang Xie, Qian Zhou, Xiang Hu, Guanghua Wang, Wangbing Yu, Haiqing Zhou, Yu Fang</author>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s40843-024-3247-8</guid>
+    </item>
+    <item>
+      <title>Two-dimensional ferroelectric metal CuCrX2 (X=S, Se) for efficient electrocatalysis</title>
+      <link>https://doi.org/10.1016/j.commt.2025.100029</link>
+      <description>Ying Wang, Chengliang Lu, Menghao Wu, Deleted Journal. None(None)] 2025. https://openalex.org/W4407901529
+
+                No abstract</description>
+      <author>Ying Wang, Chengliang Lu, Menghao Wu</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commt.2025.100029</guid>
+    </item>
+    <item>
+      <title>Exploring the development of electrocatalysts through an automated comprehensive literature review using NLP</title>
+      <link>https://doi.org/10.1016/j.jacomc.2025.100067</link>
+      <description>Na Qin, Lei Liu, Wei Lai, Haibiao Chen, Deleted Journal. None(None)] 2025. https://openalex.org/W4407901776
+
+                No abstract</description>
+      <author>Na Qin, Lei Liu, Wei Lai, Haibiao Chen</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jacomc.2025.100067</guid>
+    </item>
+    <item>
+      <title>Single&#8208;Atom Enables Reverse Hydrogen Spillover for High&#8208;Performance Protonic Ceramic Fuel Cells</title>
+      <link>https://doi.org/10.1002/adma.202501387</link>
+      <description>Sunce Zhao, Wenjia Ma, Beibei He, Yihan Ling, Yonglong Huang, Feng Hu, Zhu Shu, Ling Zhao, Advanced Materials. None(None)] 2025. https://openalex.org/W4407908043
+
+                Protonic ceramic fuel cells (PCFCs) offer a promising avenue for sustainable energy conversion, however, their commercial potential is hindered by sluggish proton-involved oxygen reduction reaction (P-ORR) kinetics and inadequate durability of cathode materials. Here, a novel single-atom Ru anchor on BaCe0.125Fe0.875O3-&#948; (BCF) perovskite, synthesized by a facile and scalable solid-state approach, as a potential cathode for PCFCs is reported. Theoretical and experimental analyses demonstrate that the single-atom Ru on BCF, characterized by a unique 4-coordinate Ru-O-Fe configuration, not only induces reverse hydrogen spillover but also acts as an active site for P-ORR. The application of the optimized 2Ru-BCF (2 wt.% Ru) cathode in a single cell delivers an exceptional peak power density of 1.78 W cm-2 at 700 &#176;C, along with excellent operational stability over 200 h. These findings provide new insights into single-atom engineering, advancing the commercial viability of PCFCs.</description>
+      <author>Sunce Zhao, Wenjia Ma, Beibei He, Yihan Ling, Yonglong Huang, Feng Hu, Zhu Shu, Ling Zhao</author>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202501387</guid>
+    </item>
+    <item>
+      <title>Boosting selective CO2 reduction via strong spin-spin coupling on dual-atom spin-catalysts</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.02.173</link>
+      <description>Yueyue Shao, Jia Zhou, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4407909575
+
+                No abstract</description>
+      <author>Yueyue Shao, Jia Zhou</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.02.173</guid>
+    </item>
+    <item>
       <title>Smart monitoring and control systems for hydrogen fuel cells using AI</title>
       <link>https://doi.org/10.1016/j.ijhydene.2025.02.232</link>
       <description>Somtochukwu Godfrey Nnabuife, Chinonyelum Udemu, Abdulhammed K. Hamzat, Caleb Kwasi Darko, Ato Kwamena Quainoo, International Journal of Hydrogen Energy. 110(None)] 2024. https://openalex.org/W4407803379
@@ -406,6 +476,16 @@
       <author>Pradeep Kumar Yadav, Shreepad Gunge, A. S. Russel, Goutam Deo</author>
       <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125205</guid>
+    </item>
+    <item>
+      <title>Water&#8211;Gas Shift Reaction over Cu&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O/Cu(111) (&lt;i&gt;x&lt;/i&gt; &amp;lt; 2) from a DFT-MKM-kMC Study</title>
+      <link>https://doi.org/10.1021/acscatal.4c06825</link>
+      <description>Yu-Bi Huang, Gui&#8208;Chang Wang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4407893963
+
+                No abstract</description>
+      <author>Yu-Bi Huang, Gui&#8208;Chang Wang</author>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06825</guid>
     </item>
   </channel>
 </rss>
