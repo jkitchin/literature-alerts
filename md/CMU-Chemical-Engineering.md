@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Feb 27 01:22:46 2025
+Created on Fri Feb 28 01:23:00 2025
 
-Found 3 results from 2025-02-20 to 2025-02-27
+Found 3 results from 2025-02-21 to 2025-02-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## The influence of Amazonian anthropogenic emissions on new particle formation, aerosol, cloud and surface rain   
-
-OpenAlex: https://openalex.org/W4407753602    
-Open access: True
-    
-[Xuemei Wang](https://openalex.org/A5100390606), [K. S. Carslaw](https://openalex.org/A5061310552), [Daniel P. Grosvenor](https://openalex.org/A5028113214), [Hamish Gordon](https://openalex.org/A5086004922), No host. None(None)] 2025.https://doi.org/10.5194/egusphere-2025-132.
-    
-Abstract. Anthropogenic emissions have been shown to affect new particle formation, aerosol concentrations, and clouds. Such effects vary with region, environmental conditions and cloud types. In the wet season of Amazonia, anthropogenic emissions emitted from Manaus, Brazil can significantly increase the cloud condensation nuclei (CCN) concentrations compared to the background of mainly natural aerosols. However, the regional response of cloud and rain to anthropogenic emissions in Amazonia remains very uncertain. Here we aim to quantify how new particle formation, aerosol concentration, cloud and rain respond to changes in anthropogenic emissions in the Manaus region and to understand the underlying mechanisms. We ran the atmosphere-only configuration of the HadGEM3 climate model with a nested regional domain that covers most of the rainforest region (720 km by 1200 km with 3 km resolution) under several regional emission scenarios. The 7-day simulations show that, in the areas that are affected by anthropogenic emissions, when aerosol and precursor gas emissions are doubled from the baseline emission inventories, aerosol number concentrations increase by 13 %. The nucleation rate that involves sulfuric acid generally increases with pollution levels. However, near the source of the pollution, nucleation is suppressed due to high primary aerosol emission, resulting in smaller nucleation and Aitken mode aerosol number concentrations. We also found that doubling the anthropogenic emission can increase the cloud droplet number concentrations (Nd) by 9 %, but cloud water mass and rain mass do not change significantly. Even very strong reductions in aerosol number concentrations by a factor of 4, which is an unrealistic condition, cause only 4 % increase in rain over the domain. If we assume our simulation has fine enough grid resolution and an accurate representation of the relevant atmospheric processes, the simulated weak response of cloud and rain would imply that the Amazonian convective environment is non-linear and resilient to the small changes in Nd that occur in response to localised anthropogenic aerosol emissions.    
-
-    
 
 ## Variable aggregation for nonlinear optimization problems   
 
@@ -34,6 +23,17 @@ OpenAlex: https://openalex.org/W4407873079
 Open access: True
     
 [Kanishk Gohil](https://openalex.org/A5066554976), [Ryan C. Sullivan](https://openalex.org/A5039898956), [Paul J. DeMott](https://openalex.org/A5090361945), [Hamish Gordon](https://openalex.org/A5086004922), Authorea (Authorea). None(None)] 2025.https://doi.org/10.22541/essoar.174043088.83664402/v1 ([pdf](https://essopenarchive.org/doi/pdf/10.22541/essoar.174043088.83664402)).
+    
+No abstract    
+
+    
+
+## Incomplete mass closure in atmospheric nanoparticle growth   
+
+OpenAlex: https://openalex.org/W4407927611    
+Open access: True
+    
+[Dominik Stolzenburg](https://openalex.org/A5063223340), [Nina Sarnela](https://openalex.org/A5049775246), [Federico Bianchi](https://openalex.org/A5075179945), [Jing Cai](https://openalex.org/A5064822057), [Runlong Cai](https://openalex.org/A5051784006), [Yafang Cheng](https://openalex.org/A5085384616), [Lubna Dada](https://openalex.org/A5049539173), [Neil M. Donahue](https://openalex.org/A5041685684), [Hinrich Grothe](https://openalex.org/A5040169919), [Sebastian Holm](https://openalex.org/A5048093366), [Veli‐Matti Kerminen](https://openalex.org/A5075262199), [Katrianne Lehtipalo](https://openalex.org/A5019559780), [Tuukka Petäjä](https://openalex.org/A5070326299), [Juha Sulo](https://openalex.org/A5083486441), [Paul M. Winkler](https://openalex.org/A5042382547), [Chao Yan](https://openalex.org/A5049317897), [Juha Kangasluoma](https://openalex.org/A5026556889), [Markku Kulmala](https://openalex.org/A5000471665), npj Climate and Atmospheric Science. 8(1)] 2025.https://doi.org/10.1038/s41612-025-00893-5.
     
 No abstract    
 

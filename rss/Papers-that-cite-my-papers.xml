@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 27 Feb 2025 01:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 01:23:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Octahedral Tilt-Driven Phase Transitions in BaZrS&lt;sub&gt;3&lt;/sub&gt; Chalcogenide Perovskite</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c03517</link>
-      <description>Prakriti Kayastha, Erik Fransson, Paul Erhart, Lucy D. Whalley, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4407738216
-
-                Chalcogenide perovskites are lead-free materials for potential photovoltaic or thermoelectric applications. BaZrS3 is the most-studied member of this family due to its superior thermal and chemical stability, desirable optoelectronic properties, and low thermal conductivity. Phase transitions in BaZrS3 remain underexplored in the literature, as most experimental characterizations of this material have been performed at ambient conditions where the orthorhombic Pnma phase is reported to be stable. In this work, we study the dynamics of BaZrS3 across a range of temperatures and pressures using an accurate machine learning interatomic potential trained with data from hybrid density functional theory calculations. At 0 Pa, we find a first-order phase transition from the orthorhombic to tetragonal I4/mcm phase at 610 K, and a second-order transition from the tetragonal to the cubic Pm3&#773;m phase at 880 K. The tetragonal phase is stable over a larger temperature range at higher pressures. To confirm the validity of our model we compare our results with a range of published experimental data and report a prediction for the X-ray diffraction pattern as a function of temperature.</description>
-      <author>Prakriti Kayastha, Erik Fransson, Paul Erhart, Lucy D. Whalley</author>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c03517</guid>
-    </item>
-    <item>
-      <title>Machine-Learning-Accelerated Surface Exploration of Reconstructed BiVO&lt;sub&gt;4&lt;/sub&gt;(010) and Characterization of Their Aqueous Interfaces</title>
-      <link>https://doi.org/10.1021/jacs.4c17739</link>
-      <description>Yonghyuk Lee, Taehun Lee, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4407740681
-
-                Understanding the semiconductor-electrolyte interface in photoelectrochemical (PEC) systems is crucial for optimizing the stability and reactivity. Despite the challenges in establishing reliable surface structure models during PEC cycles, this study explores the complex surface reconstructions of BiVO4(010) by employing a computational workflow integrated with a state-of-the-art active learning protocol for a machine-learning interatomic potential and global optimization techniques. Within this workflow, we identified 494 unique reconstructed surface structures that surpass conventional chemical intuition-driven, bulk-truncated models. After constructing the surface Pourbaix diagram under Bi- and V-rich electrolyte conditions using density functional theory and hybrid functional calculations, we proposed structural models for the experimentally observed Bi-rich BiVO4 surfaces. By performing hybrid functional molecular dynamics simulations with the explicit treatment of water molecules on selected reconstructed BiVO4(010) surfaces, we observed water dissociation from molecular water. Our findings demonstrate significant water dissociation on reconstructed Bi-rich surfaces, highlighting the critical role of bare and undercoordinated Bi sites (only observable in reconstructed surfaces) in driving hydration processes. Our work establishes a foundation for understanding the role of complex, reconstructed Bi surfaces in surface hydration and reactivity. Additionally, our theoretical framework for exploring surface structures and predicting reactivity in multicomponent oxides offers a precise approach to describing complex surface and interface processes in PEC systems.</description>
-      <author>Yonghyuk Lee, Taehun Lee</author>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c17739</guid>
-    </item>
-    <item>
-      <title>Periodic Table Exploration of MXenes for Efficient Electrochemical Nitrate Reduction to Ammonia</title>
-      <link>https://doi.org/10.1002/smll.202410105</link>
-      <description>Radhika Nittoor&#8208;Veedu, Xiaohui Ju, Michal Langer, Wanli Gao, Michal Otyepka, Martin Pumera, Small. None(None)] 2025. https://openalex.org/W4407754876
-
-                Abstract Applying electrochemical nitrate reduction reaction (NO 3 RR) to produce ammonia offers a sustainable alternative to the energy&#8208;intensive Haber&#8208;Bosch process, which is crucial for clean energy and agricultural applications. While 2D MXenes hold great promise as electrocatalysts for NO 3 RR, their application for ammonia production remains underexplored. This study combines experimental and theoretical approaches to evaluate the catalytic performance of a series of MXenes with different central metal atoms for NO 3 RR. Among the materials studied (Ti 3 C 2 T x , Ti 3 CNT x , Ti 2 CT x , V 2 CT x , Cr 2 CT x , Nb 2 CT x , and Ta 2 CT x ), Ti 3 &#8208;based MXenes exhibit superior faradaic efficiency, ammonia yield rate, and stability. Density functional theory calculations offer further insights explaining the structure&#8208;activity&#8208;based observations. This research establishes a foundation for future studies aimed at leveraging MXenes for electrochemical nitrate reduction for green synthesis of ammonia.</description>
-      <author>Radhika Nittoor&#8208;Veedu, Xiaohui Ju, Michal Langer, Wanli Gao, Michal Otyepka, Martin Pumera</author>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202410105</guid>
-    </item>
-    <item>
-      <title>Electrocatalysts for Hydrogen Production &#8211; Catalyst Design Strategies Based on Crystal Structures of Multimetal Oxides</title>
-      <link>https://doi.org/10.1002/tcr.202400246</link>
-      <description>Yuuki Sugawara, Takeo Yamaguchi, The Chemical Record. None(None)] 2025. https://openalex.org/W4407756015
-
-                Abstract Solid&#8208;state crystalline multimetal oxides have been widely studied for their applications as electrode materials, e. g., in fuel cells, water electrolyzer, lithium&#8208;ion batteries, and metal&#8208;air batteries. Particularly, hydrogen production via water electrolysis is considered a key technology for realizing a sustainable circular carbon society. Enhancing the activity of electrocatalysts is a critical challenge for improving the efficiency of the water electrolysis technology. Thus, strategies for designing prominent catalyst materials have drawn considerable attention. Our group has been conducting research aimed at establishing comprehensive design strategies for the rational and rapid development of highly active catalysts. In this Personal Account, we present our research efforts on enhancing the activity of cost&#8208;efficient nonprecious metal&#8208;based oxide catalysts for the oxygen evolution reaction at the anode of water electrolysis. Specifically, we propose design strategies based on crystal structures of multimetal oxides and demonstrate how these strategies have contributed to the development of highly active electrocatalysts.</description>
-      <author>Yuuki Sugawara, Takeo Yamaguchi</author>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/tcr.202400246</guid>
-    </item>
     <item>
       <title>Recent advances and challenges in single-atom catalysts for proton exchange membrane water electrolysis</title>
       <link>https://doi.org/10.1016/j.nxmate.2025.100553</link>
@@ -428,6 +388,86 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.02.173</guid>
     </item>
     <item>
+      <title>Two-dimensional TiNBr as photocatalyst for overall water splitting</title>
+      <link>https://doi.org/10.1103/physrevmaterials.9.025802</link>
+      <description>Yatong Wang, Geert Brocks, Ceren Tayran, S&#252;leyman Er, Physical Review Materials. 9(2)] 2025. https://openalex.org/W4407910776
+
+                No abstract</description>
+      <author>Yatong Wang, Geert Brocks, Ceren Tayran, S&#252;leyman Er</author>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.9.025802</guid>
+    </item>
+    <item>
+      <title>Prediction of hydration energies of adsorbates at Pt(111) and liquid water interfaces using machine learning</title>
+      <link>https://doi.org/10.1063/5.0248572</link>
+      <description>Jiexin Shi, Xiaohong Zhang, Venkata Rohit Punyapu, Rachel B. Getman, The Journal of Chemical Physics. 162(8)] 2025. https://openalex.org/W4407917932
+
+                Aqueous phase heterogeneous catalysis is important to various industrial processes, including biomass conversion, Fischer&#8211;Tropsch synthesis, and electrocatalysis. Accurate calculation of solvation thermodynamic properties is essential for modeling the performance of catalysts for these processes. Explicit solvation methods employing multiscale modeling, e.g., involving density functional theory and molecular dynamics have emerged for this purpose. Although accurate, these methods are computationally intensive. This study introduces machine learning (ML) models to predict solvation thermodynamics for adsorbates on a Pt(111) surface, aiming to enhance computational efficiency without compromising accuracy. In particular, ML models are developed using a combination of molecular descriptors and fingerprints and trained on previously published water&#8211;adsorbate interaction energies, energies of solvation, and free energies of solvation of adsorbates bound to Pt(111). These models achieve root mean square error values of 0.09 eV for interaction energies, 0.04 eV for energies of solvation, and 0.06 eV for free energies of solvation, demonstrating accuracy within the standard error of multiscale modeling. Feature importance analysis reveals that hydrogen bonding, van der Waals interactions, and solvent density, together with the properties of the adsorbate, are critical factors influencing solvation thermodynamics. These findings suggest that ML models can provide rapid and reliable predictions of solvation properties. This approach not only reduces computational costs but also offers insights into the solvation characteristics of adsorbates at Pt(111)&#8211;water interfaces.</description>
+      <author>Jiexin Shi, Xiaohong Zhang, Venkata Rohit Punyapu, Rachel B. Getman</author>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0248572</guid>
+    </item>
+    <item>
+      <title>A practical guide to machine learning interatomic potentials &#8211; Status and future</title>
+      <link>https://doi.org/10.1016/j.cossms.2025.101214</link>
+      <description>Ryan Jacobs, D. A. Morgan, Siamak Attarian, Jun Meng, Chen Shen, Zhenghao Wu, Clare Yijia Xie, Julia H. Yang, Nongnuch Artrith, Ben Blaiszik, Gerbrand Ceder, Kamal Choudhary, G&#225;bor Cs&#225;nyi, Ekin D. Cubuk, Bowen Deng, Ralf Drautz, Xiang Fu, Jonathan Godwin, Honavar Vasant, Olexandr Isayev, Anders Johansson, Stefano Martiniani, Shyue Ping Ong, Igor Poltavsky, K. J. Schmidt, So Takamoto, Aidan P. Thompson, Julia Westermayr, Brandon M. Wood, Boris Kozinsky, Current Opinion in Solid State and Materials Science. 35(None)] 2025. https://openalex.org/W4407925765
+
+                No abstract</description>
+      <author>Ryan Jacobs, D. A. Morgan, Siamak Attarian, Jun Meng, Chen Shen, Zhenghao Wu, Clare Yijia Xie, Julia H. Yang, Nongnuch Artrith, Ben Blaiszik, Gerbrand Ceder, Kamal Choudhary, G&#225;bor Cs&#225;nyi, Ekin D. Cubuk, Bowen Deng, Ralf Drautz, Xiang Fu, Jonathan Godwin, Honavar Vasant, Olexandr Isayev, Anders Johansson, Stefano Martiniani, Shyue Ping Ong, Igor Poltavsky, K. J. Schmidt, So Takamoto, Aidan P. Thompson, Julia Westermayr, Brandon M. Wood, Boris Kozinsky</author>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cossms.2025.101214</guid>
+    </item>
+    <item>
+      <title>Molybdenum-promoted nickel catalysts for CO2 methanation: a critical review and informetric perspective</title>
+      <link>https://doi.org/10.1007/s43938-025-00076-x</link>
+      <description>Stephen Okiemute Akpasi, Yusuf Makarfi Isa, Thembisile Patience Mahlangu, Sammy Lewis Kiambi, Peterson Thokozani Ngema, Discover Chemical Engineering. 5(1)] 2025. https://openalex.org/W4407934426
+
+                No abstract</description>
+      <author>Stephen Okiemute Akpasi, Yusuf Makarfi Isa, Thembisile Patience Mahlangu, Sammy Lewis Kiambi, Peterson Thokozani Ngema</author>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s43938-025-00076-x</guid>
+    </item>
+    <item>
+      <title>Advancing the Preparation Strategy of High-Performance Integrated Electrodes for eCO&lt;sub&gt;2&lt;/sub&gt;RR via Sublimation</title>
+      <link>https://doi.org/10.1021/acsami.4c21322</link>
+      <description>Hao Zeng, Xuan Zou, Han Liu, Muyao Gao, Zhaoyu Chen, Yang Liu, Ming Yang, Bing Li, Ming Liu, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4407941575
+
+                The uniform dispersion and loading of phthalocyanine molecular catalysts on conductive carbon substrates are crucial for exposing their active sites. The significant amount of solvent needed to achieve appropriate dispersion of phthalocyanine leads to the risk of reaggregation during solvent evaporation. Hence, a solventless strategy is adopted by many to bypass the use of a solvent. In this study, we showcase the deposition of transition metal phthalocyanine (TMPc) molecules onto a self-supporting conductive carbon cloth electrode using an environmentally friendly sublimation technique for efficient electrocatalytic CO2 reduction. We meticulously investigated the preparation conditions, including the heating temperature and TMPc type, to assess their impact on the CO2 reduction activity. The as-prepared CC-CoPc-450 electrode demonstrated an outstanding comprehensive performance, showcasing a remarkable maximum CO Faradaic efficiency (FECO) of 97.1% at -0.86 V with a current density of 8.3 mA cm-2. The electrode exhibited excellent stability during the 16 h long-term eCO2RR process. Density functional theory (DFT) calculations demonstrated the role of d-orbitals in TM-N4 and the synergy with &#960;-conjugation electrons in facilitating the efficient electron transfer process in eCO2RR. This study offers a fresh perspective on the eco-friendly dispersion of TMPcs on conductive substrates and provides insights into the design of &#960;-species macrocyclic electrocatalyst electrodes.</description>
+      <author>Hao Zeng, Xuan Zou, Han Liu, Muyao Gao, Zhaoyu Chen, Yang Liu, Ming Yang, Bing Li, Ming Liu</author>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c21322</guid>
+    </item>
+    <item>
+      <title>Surfactant-free colloidal gold nanoparticles: room temperature synthesis, size control and opportunities for catalysis</title>
+      <link>https://doi.org/10.1016/j.mtnano.2025.100600</link>
+      <description>Dionysis Panagopoulos, Armin Asghari Alamdari, Jonathan Quinson, Materials Today Nano. None(None)] 2025. https://openalex.org/W4407942392
+
+                No abstract</description>
+      <author>Dionysis Panagopoulos, Armin Asghari Alamdari, Jonathan Quinson</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtnano.2025.100600</guid>
+    </item>
+    <item>
+      <title>Enhanced electrocatalytic conversion of CO2 to CO via a non-stoichiometric zinc-fluorine amorphous interface</title>
+      <link>https://doi.org/10.1016/j.cej.2025.161002</link>
+      <description>Hanyu Wu, Chia&#8208;Chen Lin, Chu-Hsin Yang, Yu-Wei Huang, Chen&#8208;Hao Yeh, Yu&#8208;Jen Chou, Ta&#8208;Chung Liu, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4407943433
+
+                No abstract</description>
+      <author>Hanyu Wu, Chia&#8208;Chen Lin, Chu-Hsin Yang, Yu-Wei Huang, Chen&#8208;Hao Yeh, Yu&#8208;Jen Chou, Ta&#8208;Chung Liu</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.161002</guid>
+    </item>
+    <item>
+      <title>Improving the OER Activity of Titania Via Doping and Adlayers</title>
+      <link>https://doi.org/10.1002/open.202400085</link>
+      <description>Anna Gomer, Thomas Bredow, ChemistryOpen. None(None)] 2025. https://openalex.org/W4407945453
+
+                The oxygen evolution reaction (OER) was investigated theoretically on modified rutile(110) surfaces at density functional theory level in search for inexpensive but active catalyst materials required for water electrolysis. Ti substitution by Nb in rutile and furthermore adding adlayers of transition metal (TM) oxides, with TM =${ = }$ Ir, Ru and Rh, substantially improves titania OER activity. The catalytic activity was assessed by the overpotential of the OER which was calculated from adsorption energies of the intermediates M-O, M-OH and M-OOH. Different reaction mechanisms were suggested depending on the presence or absence of M-OOH. Materials with iridium dioxide in the top layer have similar overpotentials, both as adlayer on (doped) TiO2${{\rm{TiO}}_{\rm{2}} }$ and as pure IrO2${{\rm{IrO}}_{\rm{2}} }$ . Thus, the percentage of this expensive and scarce element can be drastically reduced without deteriorating the activity. A monolayer of RuO2${{\rm{RuO}}_{\rm{2}} }$ on rutile TiO2${{\rm{TiO}}_{\rm{2}} }$ has an even lower overpotential compared to pure RuO2${{\rm{RuO}}_{\rm{2}} }$ . In addition, RhO2${{\rm{RhO}}_{\rm{2}} }$ and RhO2${{\rm{RhO}}_{\rm{2}} }$ : Nb1/3Ti2/3O2${{\rm{Nb}}_{{\rm{1/3}}} {\rm{Ti}}_{{\rm{2/3}}} {\rm{O}}_{\rm{2}} }$ were identified as catalysts with higher OER activity than IrO2${{\rm{IrO}}_{\rm{2}} }$ .</description>
+      <author>Anna Gomer, Thomas Bredow</author>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/open.202400085</guid>
+    </item>
+    <item>
       <title>Smart monitoring and control systems for hydrogen fuel cells using AI</title>
       <link>https://doi.org/10.1016/j.ijhydene.2025.02.232</link>
       <description>Somtochukwu Godfrey Nnabuife, Chinonyelum Udemu, Abdulhammed K. Hamzat, Caleb Kwasi Darko, Ato Kwamena Quainoo, International Journal of Hydrogen Energy. 110(None)] 2024. https://openalex.org/W4407803379
@@ -446,16 +486,6 @@
       <author>Tuan Linh Doan, Ta Nam Nguyen, Hyunmin Hong, Taekeun Kim</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.02.271</guid>
-    </item>
-    <item>
-      <title>Recent developments in the use of machine learning in catalysis: A broad perspective with applications in kinetics</title>
-      <link>https://doi.org/10.1016/j.cej.2025.160872</link>
-      <description>Leandro Goulart de Araujo, L&#233;a Vilcocq, Pascal Fongarland, Y. Schuurman, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4407761664
-
-                No abstract</description>
-      <author>Leandro Goulart de Araujo, L&#233;a Vilcocq, Pascal Fongarland, Y. Schuurman</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.160872</guid>
     </item>
     <item>
       <title>Morphology, Deformations, and Photocatalytic Activity of Thermally Treated Brookite Titanium Dioxide Thin Films</title>
@@ -486,6 +516,16 @@
       <author>Yu-Bi Huang, Gui&#8208;Chang Wang</author>
       <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06825</guid>
+    </item>
+    <item>
+      <title>Machine Learning Force Field for Optimization of Isolated and Supported Transition Metal Particles</title>
+      <link>https://doi.org/10.1021/acs.jctc.4c01606</link>
+      <description>Alexandre Boucher, Cameron Beevers, Bertrand Gauthier, Alberto Rold&#225;n, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4407920414
+
+                Computational modeling is an integral part of catalysis research. With it, new methodologies are being developed and implemented to improve the accuracy of simulations while reducing the computational cost. In particular, specific machine-learning techniques have been applied to build interatomic potential from ab initio results. Here, we report an energy-free machine-learning calculator that combines three individually trained neural networks to predict the energy and atomic forces of metallic particles. The investigated structures were a monometallic Pd nanoparticle, a bimetallic AuPd nanoalloy, and supported Pd metal crystallites on silica. Atomic energies were predicted via a graph neural network, leading to a mean absolute error (MAE) within 0.004 eV from density functional theory (DFT) calculations. The task of predicting atomic forces was split over two feed-forward networks, one predicting the force norm and another its direction. The force prediction resulted in a MAE within 0.080 eV/&#197; against DFT results. The interpretability of the graph neural network predictions was demonstrated by underlying the physics of the monometallic particle in the form of cohesion energy.</description>
+      <author>Alexandre Boucher, Cameron Beevers, Bertrand Gauthier, Alberto Rold&#225;n</author>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c01606</guid>
     </item>
   </channel>
 </rss>
