@@ -1,31 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Feb 28 01:23:00 2025
+Created on Sat Mar  1 01:28:11 2025
 
-Found 3 results from 2025-02-21 to 2025-02-28
+Found 2 results from 2025-02-22 to 2025-03-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Variable aggregation for nonlinear optimization problems  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4407793209
-:TOPICS: Water Quality Monitoring and Analysis, Multi-Criteria Decision Making
-:PUBLICATION_DATE: 2025-02-19
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.48550/arxiv.2502.13869")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4407793209"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4407793209"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4407793209"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4407793209 (Open access: True)
-    
-[[https://openalex.org/A5054628015][Sakshi Naik]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], [[https://openalex.org/A5088880250][Russell Bent]], [[https://openalex.org/A5062143627][Robert Parker]], arXiv (Cornell University). None(None)] 2025. https://doi.org/10.48550/arxiv.2502.13869  ([[http://arxiv.org/pdf/2502.13869][pdf]])
-     
-Variable aggregation has been largely studied as an important pre-solve algorithm for optimization of linear and mixed-integer programs. Although some nonlinear solvers and algebraic modeling languages implement variable aggregation as a pre-solve, the impact it can have on constrained nonlinear programs is unexplored. In this work, we formalize variable aggregation as a pre-solve algorithm to develop reduced-space formulations of nonlinear programs. A novel approximate maximum variable aggregation strategy is developed to aggregate as many variables as possible. Furthermore, aggregation strategies that preserve the problem structure are compared against approximate maximum aggregation. Our results show that variable aggregation can generally help to improve the convergence reliability of nonlinear programs. It can also help in reducing total solve time. However, Hessian evaluation can become a bottleneck if aggregation significantly increases the number of variables appearing nonlinearly in many constraints.    
-
-    
 
 * Global Simulations Suggest Biomass Burning Aerosols are Regionally Important Ice Nucleating Particles  :CMU_Chemical_Engineering:
 :PROPERTIES:
