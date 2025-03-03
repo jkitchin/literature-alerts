@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Mar 2025 01:27:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 01:25:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -36,6 +36,16 @@
       <author>Cheick Dosso, H&#233;ctor Pedrozo, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5159309</guid>
+    </item>
+    <item>
+      <title>Enhanced epigenetic modulation via mRNA-encapsulated lipid nanoparticles enables targeted anti-inflammatory control</title>
+      <link>https://doi.org/10.1101/2025.02.24.639996</link>
+      <description>Tahere Mokhtari, Mohammad Taheri, Sarah Akhlaghi, Armin Aryannejad, Yang Xiang, Vineet Mahajan, Kamyar Keshavarz F., Amirreza Kiani, Samuel T. LoPresti, Ryan LeGraw, Kathryn A. Whitehead, Samira Kiani, bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2025. https://openalex.org/W4408057088
+
+                Temporal transcriptional modulation of immune-related genes offers powerful therapeutic potential for treating inflammatory diseases. Here, we introduce an enhanced zinc finger (ZF)-based transcriptional repressor delivered via lipid nanoparticles for controlling immune signaling pathways in vivo. By targeting Myd88, an essential adaptor molecule involved in immunity, our system demonstrates therapeutic efficacy against septicemia in C57BL/6J mice and improves repeated AAV administration by reducing antibody responses. This epigenetic engineering approach provides a platform for safe and efficient immunomodulation applicable across diseases caused by imbalanced inflammatory responses.</description>
+      <author>Tahere Mokhtari, Mohammad Taheri, Sarah Akhlaghi, Armin Aryannejad, Yang Xiang, Vineet Mahajan, Kamyar Keshavarz F., Amirreza Kiani, Samuel T. LoPresti, Ryan LeGraw, Kathryn A. Whitehead, Samira Kiani</author>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1101/2025.02.24.639996</guid>
     </item>
   </channel>
 </rss>

@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Mar 2025 01:27:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 01:25:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Trends in Structure and IR Spectra of Mixed H&lt;sub&gt;2&lt;/sub&gt;O/CO&lt;sub&gt;2&lt;/sub&gt; Ices of Astrochemical Relevance</title>
-      <link>https://doi.org/10.1021/acsearthspacechem.4c00353</link>
-      <description>Niels M. Mikkelsen, Thanja Lamberts, Mie Andersen, ACS Earth and Space Chemistry. None(None)] 2025. https://openalex.org/W4407856726
-
-                No abstract</description>
-      <author>Niels M. Mikkelsen, Thanja Lamberts, Mie Andersen</author>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsearthspacechem.4c00353</guid>
-    </item>
-    <item>
-      <title>MORE-Q, a dataset for molecular olfactorial receptor engineering by quantum mechanics</title>
-      <link>https://doi.org/10.1038/s41597-025-04616-6</link>
-      <description>Li Chen, Leonardo Medrano Sandonas, Philipp Traber, Arezoo Dianat, Nina Tverdokhleb, Mattan Hurevich, Shlomo Yitzchaik, Rafael Guti&#233;rrez, Alexander Croy, Gianaurelio Cuniberti, Scientific Data. 12(1)] 2025. https://openalex.org/W4407857451
-
-                Abstract We introduce the MORE-Q dataset, a quantum-mechanical (QM) dataset encompassing the structural and electronic data of non-covalent molecular sensors formed by combining 18 mucin-derived olfactorial receptors with 102 body odor volatilome (BOV) molecules. To have a better understanding of their intra- and inter-molecular interactions, we have performed accurate QM calculations in different stages of the sensor design and, accordingly, MORE-Q splits into three subsets: i) MORE-Q-G1: QM data of 18 receptors and 102 BOV molecules, ii) MORE-Q-G2: QM data of 23,838 BOV-receptor configurations, and iii) MORE-Q-G3: QM data of 1,836 BOV-receptor-graphene systems. Each subset involves geometries optimized using GFN2-xTB with D4 dispersion correction and up to 39 physicochemical properties, including global and local properties as well as binding features, all computed at the tightly converged PBE+D3 level of theory. By addressing BOV-receptor-graphene systems from a QM perspective, MORE-Q can serve as a benchmark dataset for state-of-the-art machine learning methods developed to predict binding features. This, in turn, can provide valuable insights for developing the next-generation mucin-derived olfactory receptor sensing devices.</description>
-      <author>Li Chen, Leonardo Medrano Sandonas, Philipp Traber, Arezoo Dianat, Nina Tverdokhleb, Mattan Hurevich, Shlomo Yitzchaik, Rafael Guti&#233;rrez, Alexander Croy, Gianaurelio Cuniberti</author>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41597-025-04616-6</guid>
-    </item>
     <item>
       <title>Fully automated high-throughput computer-based catalytic material screening framework and its application on the new-generation Tianhe supercomputer</title>
       <link>https://doi.org/10.1016/j.commatsci.2025.113775</link>
@@ -452,10 +432,90 @@
       <link>https://doi.org/10.1021/acs.jpcc.5c00106</link>
       <description>Changle Zhang, Jie Feng, Yujin Ji, Youyong Li, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4408019782
 
-                No abstract</description>
+                Manganese dioxide (MnO2) is a versatile material with numerous polymorphs that holds significant promise in catalysis and energy storage applications. Due to the different connection forms of Mn&#8211;O octahedra, the structural diversity of MnO2 exists in more than 20 crystal forms. Common crystal phases of MnO2 include traditional crystal phases such as &#945;-MnO2, &#946;-MnO2, &#947;-MnO2, R-MnO2. In this work, we employed the particle swarm optimization (PSO) method combined with first-principles calculations to predict 3 kinds of unreported metastable MnO2 crystals, P21/C&#8211;1-MnO2, Pbcn-MnO2, and P21/C&#8211;2-MnO2. We then systematically analyze these 3 structures have lower energy than &#945;-MnO2 which is widely used and stable in nature and they have better potential application in the electrocatalytic oxygen evolution reaction (OER). Notably, P21/C&#8211;2-MnO2 exhibited superior catalytic activity, featuring lower theoretical overpotentials than conventional MnO2 phases. These findings expand the known polymorphs of MnO2 and provide valuable insights into their potential in catalysis and energy storage, offering theoretical guidance for future experimental research.</description>
       <author>Changle Zhang, Jie Feng, Yujin Ji, Youyong Li</author>
       <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c00106</guid>
+    </item>
+    <item>
+      <title>Operando-informed precatalyst programming towards reliable high-current-density electrolysis</title>
+      <link>https://doi.org/10.1038/s41563-025-02128-7</link>
+      <description>Lu Xia, Bruna Ferreira Gomes, Wulyu Jiang, Daniel Escalera&#8208;L&#243;pez, Yang Wang, Yang Hu, Alaa Y. Faid, Kaiwen Wang, T. T. Chen, Kaiqi Zhao, Xu Zhang, Yingtang Zhou, R.A. Mohan Ram, B&#225;rbara B. Polesso, Anku Guha, Jiaqi Su, Carlos Manuel Silva Lobo, Michael Haumann, Robert Spatschek, Svein Sunde, Lin Gan, Ming Huang, Xiaoyuan Zhou, Christina Roth, Werner Lehnert, Serhiy Cherevko, Li&#8208;Yong Gan, F. Pelayo Garc&#305;&#769;a de Arquer, Meital Shviro, Nature Materials. None(None)] 2025. https://openalex.org/W4408034455
+
+                No abstract</description>
+      <author>Lu Xia, Bruna Ferreira Gomes, Wulyu Jiang, Daniel Escalera&#8208;L&#243;pez, Yang Wang, Yang Hu, Alaa Y. Faid, Kaiwen Wang, T. T. Chen, Kaiqi Zhao, Xu Zhang, Yingtang Zhou, R.A. Mohan Ram, B&#225;rbara B. Polesso, Anku Guha, Jiaqi Su, Carlos Manuel Silva Lobo, Michael Haumann, Robert Spatschek, Svein Sunde, Lin Gan, Ming Huang, Xiaoyuan Zhou, Christina Roth, Werner Lehnert, Serhiy Cherevko, Li&#8208;Yong Gan, F. Pelayo Garc&#305;&#769;a de Arquer, Meital Shviro</author>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41563-025-02128-7</guid>
+    </item>
+    <item>
+      <title>Electrified synthesis of n-propanol using a dilute alloy catalyst</title>
+      <link>https://doi.org/10.1038/s41929-025-01301-0</link>
+      <description>Yuanjun Chen, Xinyue Wang, Xiaoyan Li, Rui Kai Miao, Juncai Dong, Zilin Zhao, Chuhao Liu, Jianan Erick Huang, Jinhong Wu, Senlin Chu, Weiyan Ni, Zunmin Guo, Yi Xu, Pengfei Ou, Bingjun Xu, Yang Hou, David Sinton, Edward H. Sargent, Nature Catalysis. None(None)] 2025. https://openalex.org/W4408034484
+
+                No abstract</description>
+      <author>Yuanjun Chen, Xinyue Wang, Xiaoyan Li, Rui Kai Miao, Juncai Dong, Zilin Zhao, Chuhao Liu, Jianan Erick Huang, Jinhong Wu, Senlin Chu, Weiyan Ni, Zunmin Guo, Yi Xu, Pengfei Ou, Bingjun Xu, Yang Hou, David Sinton, Edward H. Sargent</author>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41929-025-01301-0</guid>
+    </item>
+    <item>
+      <title>Recent Research on the Anti-Poisoning Catalysts in the Catalytic Oxidation of VOCs: A Review</title>
+      <link>https://doi.org/10.3390/catal15030234</link>
+      <description>Longfei Wang, Chun Huang, Ziting Gao, Bing Cui, Mingqin Zhao, Menglan Xiao, Xiaolin Yu, Catalysts. 15(3)] 2025. https://openalex.org/W4408036094
+
+                Volatile organic compounds (VOCs) from petrochemical, pharmaceutical, and other industries have serious damage to human health and the environment. Catalytic oxidation is a promising method to eliminate air pollution due to its high efficiency, wide application range, and environmental friendliness. However, in the actual industrial environment, the composition of industrial exhaust gases is complex, including VOCs, water vapour, chloride, sulfide and so on. The impurities would have competitive adsorption with reactants or react with the active sites, leading to the decline of catalytic activity, even the deactivation of catalysts. Therefore, this review summarises the recent research on the anti-poisoning ability of catalysts in the catalytic oxidation of VOCs, primarily focusing on the effect of water vapour, chloride, and sulfide. The catalytic oxidation mechanism manifested that the adsorption and activation of reactants are significant in VOCs degradation. On this basis, the mechanism of catalyst poisoning was analysed, and the inhibitory effect of impurities on the oxidation reaction was elucidated. According to the research status, three anti-poisoning strategies are proposed, including building a bimetallic system, modifying supports, and establishing the protected coating. This work provides a theoretical foundation and reference point for the rational construction of anti-poisoning catalysts in VOCs elimination.</description>
+      <author>Longfei Wang, Chun Huang, Ziting Gao, Bing Cui, Mingqin Zhao, Menglan Xiao, Xiaolin Yu</author>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal15030234</guid>
+    </item>
+    <item>
+      <title>CO2 reduction to CH4: Harnessing Fe1@B12N12 as single atom catalyst for environment restoration</title>
+      <link>https://doi.org/10.1016/j.surfin.2025.106062</link>
+      <description>Abdulrahman Allangawi, Khurshid Ayub, Abdulaziz A. Al&#8208;Saadi, Mazhar Amjad Gilani, Tariq Mahmood, Surfaces and Interfaces. 61(None)] 2025. https://openalex.org/W4408036750
+
+                No abstract</description>
+      <author>Abdulrahman Allangawi, Khurshid Ayub, Abdulaziz A. Al&#8208;Saadi, Mazhar Amjad Gilani, Tariq Mahmood</author>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.106062</guid>
+    </item>
+    <item>
+      <title>Abundant active sites in M2C12 monolayer as single-atom catalysts with efficient catalytic activity for hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.02.249</link>
+      <description>Shulong Li, Guo Tian, Yutao Chen, Yong Zhao, Fanggong Cai, Liang Qiao, International Journal of Hydrogen Energy. None(None)] 2025. https://openalex.org/W4408043584
+
+                No abstract</description>
+      <author>Shulong Li, Guo Tian, Yutao Chen, Yong Zhao, Fanggong Cai, Liang Qiao</author>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.02.249</guid>
+    </item>
+    <item>
+      <title>Defects induce phase transition from dynamic to static rippling in graphene</title>
+      <link>https://doi.org/10.1073/pnas.2416932122</link>
+      <description>Fabian L. Thiemann, Camille Scalliet, Erich A. M&#252;ller, Angelos Michaelides, Proceedings of the National Academy of Sciences. 122(9)] 2025. https://openalex.org/W4408045618
+
+                Two-dimensional (2D) materials display nanoscale dynamic ripples that significantly impact their properties. Defects within the crystal lattice are the elementary building blocks to tailor the material&#8217;s morphology. While some studies have explored the link between defective structures and rippling dynamics in 2D materials, a comprehensive understanding of this relationship has yet to be achieved. Here, we address this using machine learning-driven molecular dynamics simulations. Specifically, we find that above a critical concentration of defects, free-standing graphene sheets undergo a dynamic transition from freely propagating to static ripples. Our computational approach captures the dynamics with atomic resolution, and reveals that the transition is driven by elastic interactions between defects. The strength of these interactions is found to vary across defect types and we identify a unifying set of principles driving the dynamic-to-static transition in 2D materials. Our work not only rationalizes puzzling experimental results for defective 2D materials, but also paves the way to design two-dimensional devices with tailored rippling dynamics. These insights could lay the foundations for a class of disorder-based catalytic and interfacial materials.</description>
+      <author>Fabian L. Thiemann, Camille Scalliet, Erich A. M&#252;ller, Angelos Michaelides</author>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2416932122</guid>
+    </item>
+    <item>
+      <title>Observation of metal-organic interphase in Cu-based electrochemical CO2-to-ethanol conversion</title>
+      <link>https://doi.org/10.1038/s41467-025-57221-x</link>
+      <description>Yan Shen, Nan Fang, Xinru Liu, Ling Yu, Yu&#8208;Ming Su, Tian Tan, Feng Chen, He Lin, Boxuan Simen Zhao, Jin Wang, Duan&#8208;Hui Si, Shunji Xie, Ye Wang, Da Zhou, Teng Zhang, Rong Cao, Cheng Wang, Nature Communications. 16(1)] 2025. https://openalex.org/W4408055231
+
+                No abstract</description>
+      <author>Yan Shen, Nan Fang, Xinru Liu, Ling Yu, Yu&#8208;Ming Su, Tian Tan, Feng Chen, He Lin, Boxuan Simen Zhao, Jin Wang, Duan&#8208;Hui Si, Shunji Xie, Ye Wang, Da Zhou, Teng Zhang, Rong Cao, Cheng Wang</author>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-57221-x</guid>
+    </item>
+    <item>
+      <title>One-pot synthesis of hierarchical assembly of NiMoO4/MoS2/Ni3S2 on nickel foam for highly efficient and durable electrocatalytic hydrogen evolution reaction in a wide pH range</title>
+      <link>https://doi.org/10.1016/j.cej.2025.161095</link>
+      <description>Senkai Han, Huiqin Yao, Jiayi Zhan, Chaonan Wang, Siqi Zhang, Qingyang Gu, Cheng Li, Shenghan Zhang, Hongliang Dong, Shulan Ma, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4408073073
+
+                No abstract</description>
+      <author>Senkai Han, Huiqin Yao, Jiayi Zhan, Chaonan Wang, Siqi Zhang, Qingyang Gu, Cheng Li, Shenghan Zhang, Hongliang Dong, Shulan Ma</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.161095</guid>
     </item>
     <item>
       <title>Efficient equivariant model for machine learning interatomic potentials</title>
@@ -476,6 +536,16 @@
       <author>Xin Li, Guangtong Hai, Daniel Wan, Yiwen Liao, Zhangyi Yao, Fenglin Zhao, Lingzhi Huang, Jinsong Zhou, Gang Li, Gao&#8208;Feng Chen, Feng Ryan Wang, Michael K.H. Leung, Haihui Wang</author>
       <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c17380</guid>
+    </item>
+    <item>
+      <title>Inhibiting Overoxidation of Dynamically Evolved RuO&lt;sub&gt;2&lt;/sub&gt; to Achieve a Win&#8211;Win in Activity&#8211;Stability for Acidic Water Electrolysis</title>
+      <link>https://doi.org/10.1021/jacs.4c18300</link>
+      <description>Wenjing Li, Dingming Chen, Zhenxin Lou, Haiyang Yuan, Xiaopeng Fu, Hao Lin, Miaoyu Lin, Yu Hou, Haifeng Qi, Peng Fei Liu, Hua Gui Yang, Haifeng Wang, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4408065754
+
+                Proton exchange membrane (PEM) water electrolysis offers an efficient route to large-scale green hydrogen production, in which the RuO2 catalyst exhibits superior activity but limited stability. Unveiling the atomic-scale structural evolution during operando reaction conditions is critical but remains a grand challenge for enhancing the durability of the RuO2 catalyst in the acidic oxygen evolution reaction (a-OER). This study proposes an adaptive machine learning workflow to elucidate the potential-dependent state-to-state global evolution of the RuO2(110) surface within a complex composition and configuration space, revealing the correlation between structural patterns and stability. We identify the active state with distorted RuO5 units that self-evolve at low potential, which exhibits minor Ru dissolution and an activity self-promotion phenomenon. However, this state exhibits a low potential resistance capacity (PRC) and evolves into inert RuO4 units at elevated potential. To enhance PRC and mitigate the overevolution of the active state, we explore the metal doping engineering and uncover an inverse volcano-type doping rule: the doped metal-oxygen bond strength should significantly differ from the Ru-O bond. This rule provides a theoretical framework for designing stable RuO2-based catalysts and clarifies current discrepancies regarding the roles of different metals in stabilizing RuO2. Applying this rule, we predict and confirm experimentally that Na can effectively stabilize RuO2 in its active state. The synthesized Na-RuO2 operates in a-OER for over 1800 h without any degradation and enables long-term durability in PEM electrolysis. This work enhances our understanding of the operando structural evolution of RuO2 and aids in designing durable catalysts for a-OER.</description>
+      <author>Wenjing Li, Dingming Chen, Zhenxin Lou, Haiyang Yuan, Xiaopeng Fu, Hao Lin, Miaoyu Lin, Yu Hou, Haifeng Qi, Peng Fei Liu, Hua Gui Yang, Haifeng Wang</author>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c18300</guid>
     </item>
     <item>
       <title>Microkinetic modelling assisted rate equation development for ammonia decomposition over alumina supported nickel catalysts</title>
