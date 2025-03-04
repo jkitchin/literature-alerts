@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Mar 2025 01:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 01:23:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Global Simulations Suggest Biomass Burning Aerosols are Regionally Important Ice Nucleating Particles</title>
-      <link>https://doi.org/10.22541/essoar.174043088.83664402/v1</link>
-      <description>Kanishk Gohil, Ryan C. Sullivan, Paul J. DeMott, Hamish Gordon, Authorea (Authorea). None(None)] 2025. https://openalex.org/W4407873079
-
-                No abstract</description>
-      <author>Kanishk Gohil, Ryan C. Sullivan, Paul J. DeMott, Hamish Gordon</author>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.22541/essoar.174043088.83664402/v1</guid>
-    </item>
     <item>
       <title>Incomplete mass closure in atmospheric nanoparticle growth</title>
       <link>https://doi.org/10.1038/s41612-025-00893-5</link>

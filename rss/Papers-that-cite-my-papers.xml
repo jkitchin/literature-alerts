@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Mar 2025 01:25:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 01:24:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Fully automated high-throughput computer-based catalytic material screening framework and its application on the new-generation Tianhe supercomputer</title>
-      <link>https://doi.org/10.1016/j.commatsci.2025.113775</link>
-      <description>Can Leng, Xuguang Chen, Jie Liu, Chunye Gong, Bo Yang, Zhuo Tang, Wangdong Yang, Wei&#8208;Qing Huang, Yi&#8208;Ge Zhou, Maosong Mo, Kenli Li, Keqin Li, Computational Materials Science. 252(None)] 2025. https://openalex.org/W4407864847
-
-                No abstract</description>
-      <author>Can Leng, Xuguang Chen, Jie Liu, Chunye Gong, Bo Yang, Zhuo Tang, Wangdong Yang, Wei&#8208;Qing Huang, Yi&#8208;Ge Zhou, Maosong Mo, Kenli Li, Keqin Li</author>
-      <pubDate>Sun, 23 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2025.113775</guid>
-    </item>
-    <item>
-      <title>Modulating Water Dissociation for Ampere-Level CO2-to-Ethanol Conversion over La(OH)3@Cu Hollow-fiber Penetration Electrode</title>
-      <link>https://doi.org/10.1016/j.apcatb.2025.125202</link>
-      <description>Jiayu Xia, Shoujie Li, Xiaohu Liu, Xiao Dong, Jianing Mao, Aohui Chen, Huanyi Zhu, Xiaotong Wang, Ziran Xu, Yiheng Wei, Guihua Li, Yanfang Song, Wei Wei, Wei Chen, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4407867111
-
-                No abstract</description>
-      <author>Jiayu Xia, Shoujie Li, Xiaohu Liu, Xiao Dong, Jianing Mao, Aohui Chen, Huanyi Zhu, Xiaotong Wang, Ziran Xu, Yiheng Wei, Guihua Li, Yanfang Song, Wei Wei, Wei Chen</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125202</guid>
-    </item>
-    <item>
-      <title>Wastewater as a resource for carbon capture: A comprehensive overview and perspective</title>
-      <link>https://doi.org/10.1016/j.jenvman.2025.124608</link>
-      <description>Rufan Zhou, Yueping Ren, Chunqing Jiang, Qingye Lu, Journal of Environmental Management. 377(None)] 2025. https://openalex.org/W4407869267
-
-                No abstract</description>
-      <author>Rufan Zhou, Yueping Ren, Chunqing Jiang, Qingye Lu</author>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jenvman.2025.124608</guid>
-    </item>
     <item>
       <title>Direct Z-scheme SnS2/InS heterostructure for efficient visible-light photocatalytic hydrogen evolution</title>
       <link>https://doi.org/10.1016/j.ijhydene.2025.02.334</link>
@@ -502,7 +472,7 @@
       <link>https://doi.org/10.1038/s41467-025-57221-x</link>
       <description>Yan Shen, Nan Fang, Xinru Liu, Ling Yu, Yu&#8208;Ming Su, Tian Tan, Feng Chen, He Lin, Boxuan Simen Zhao, Jin Wang, Duan&#8208;Hui Si, Shunji Xie, Ye Wang, Da Zhou, Teng Zhang, Rong Cao, Cheng Wang, Nature Communications. 16(1)] 2025. https://openalex.org/W4408055231
 
-                No abstract</description>
+                Interphases are critical in electrochemical systems, influencing performance by controlling ion transport and stability. This study explores a metal-organic interphase in the electrocatalytic reduction of CO2 (CO2RR) on Cu, extending the concept of interphases to CO2 conversion. Investigating organic modifications on CuOx, we discover metal-organic interphases over 10 nm thick in highly ethanol-selective systems, contrary to the expected monolayer adsorption. Using an automated platform, 1080 CO2RR experiments with 180 molecular modifiers identify functional groups affecting selectivity for ethanol and multi-carbon (C2+) products. We find that these modifiers consistently produce metal-organic interphases on the Cu or CuOx surface. These interphases modulate Cu coordination, CO2RR intermediates, and interfacial water configuration, significantly improving electrocatalytic performance. Testing across 11 CuOx-based catalysts validates this approach, culminating in the development of two electrocatalysts that achieve ~80% faradaic efficiency for C2+ products with ethanol partial current densities up to 328 and 507 mA cm&#8722;2. This study highlights the pivotal role of interphases in CO2RR, advancing CO2 conversion technologies. Interphases are crucial in electrochemical systems, but their role in CO2 electroreduction remains underexplored. Here, the authors report their importance in improving electrocatalytic performance by systematically investigating 180 molecular modifiers using an automatic electrocatalysis platform.</description>
       <author>Yan Shen, Nan Fang, Xinru Liu, Ling Yu, Yu&#8208;Ming Su, Tian Tan, Feng Chen, He Lin, Boxuan Simen Zhao, Jin Wang, Duan&#8208;Hui Si, Shunji Xie, Ye Wang, Da Zhou, Teng Zhang, Rong Cao, Cheng Wang</author>
       <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-57221-x</guid>
@@ -516,6 +486,16 @@
       <author>Senkai Han, Huiqin Yao, Jiayi Zhan, Chaonan Wang, Siqi Zhang, Qingyang Gu, Cheng Li, Shenghan Zhang, Hongliang Dong, Shulan Ma</author>
       <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.161095</guid>
+    </item>
+    <item>
+      <title>Efficient and stable chlorine evolution reaction in a neutral environment using a low-ruthenium-doped CuMnRu/CC electrode</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.02.417</link>
+      <description>Yaoze Wang, Guangfei Qu, Yun Zhang, Linjin Li, Haiyan Wang, Ping Lu, Yuanchuan Ren, Minhua Cheng, Yingying Cai, Jun-Yan Li, International Journal of Hydrogen Energy. 112(None)] 2025. https://openalex.org/W4408080437
+
+                No abstract</description>
+      <author>Yaoze Wang, Guangfei Qu, Yun Zhang, Linjin Li, Haiyan Wang, Ping Lu, Yuanchuan Ren, Minhua Cheng, Yingying Cai, Jun-Yan Li</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.02.417</guid>
     </item>
     <item>
       <title>Efficient equivariant model for machine learning interatomic potentials</title>
@@ -546,16 +526,6 @@
       <author>Wenjing Li, Dingming Chen, Zhenxin Lou, Haiyang Yuan, Xiaopeng Fu, Hao Lin, Miaoyu Lin, Yu Hou, Haifeng Qi, Peng Fei Liu, Hua Gui Yang, Haifeng Wang</author>
       <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c18300</guid>
-    </item>
-    <item>
-      <title>Microkinetic modelling assisted rate equation development for ammonia decomposition over alumina supported nickel catalysts</title>
-      <link>https://doi.org/10.1016/j.apcatb.2025.125205</link>
-      <description>Pradeep Kumar Yadav, Shreepad Gunge, A. S. Russel, Goutam Deo, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4407870755
-
-                No abstract</description>
-      <author>Pradeep Kumar Yadav, Shreepad Gunge, A. S. Russel, Goutam Deo</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125205</guid>
     </item>
     <item>
       <title>Water&#8211;Gas Shift Reaction over Cu&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O/Cu(111) (&lt;i&gt;x&lt;/i&gt; &amp;lt; 2) from a DFT-MKM-kMC Study</title>
