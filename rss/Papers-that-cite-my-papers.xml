@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 04 Mar 2025 01:24:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 01:24:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Direct Z-scheme SnS2/InS heterostructure for efficient visible-light photocatalytic hydrogen evolution</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.02.334</link>
-      <description>Yifan Yang, Nan Zhou, Dong-Lan Zhang, Tong Chen, Cheng Gong, Lingling Wang, Kejun Dong, Liang Xu, International Journal of Hydrogen Energy. 111(None)] 2025. https://openalex.org/W4407874301
-
-                No abstract</description>
-      <author>Yifan Yang, Nan Zhou, Dong-Lan Zhang, Tong Chen, Cheng Gong, Lingling Wang, Kejun Dong, Liang Xu</author>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.02.334</guid>
-    </item>
-    <item>
-      <title>Lattice dynamics modeling of thermal transport in solids using machine-learned atomic cluster expansion potentials: A tutorial</title>
-      <link>https://doi.org/10.1063/5.0251119</link>
-      <description>Liangshuai Guo, Yuanbin Liu, Lei Yang, Bing Cao, Journal of Applied Physics. 137(8)] 2025. https://openalex.org/W4407882290
-
-                Lattice dynamics (LD) plays a crucial role in investigating thermal transport in terms of not only underlying physics but also novel properties and phenomena. Recently, machine learning interatomic potentials (MLIPs) have emerged as powerful tools in computational physics and chemistry, showing great potential in providing reliable predictions of thermal transport properties with high efficiency. This tutorial provides a comprehensive guideline for MLIPs&#8217; development and how they are used for the computational modeling of thermal transport. Using atomic cluster expansion (ACE) as the paradigmatic potential, we introduce the essential fundamentals of MLIPs, including data construction, model training, and hyperparameter optimization. With the developed ACE potentials, we further showcase their applications in the LD modeling of thermal transport for crystalline silicon and amorphous carbon. The corresponding code implementations for MLIP applications in calculating thermal conductivity are also provided for beginners to follow.</description>
-      <author>Liangshuai Guo, Yuanbin Liu, Lei Yang, Bing Cao</author>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0251119</guid>
-    </item>
-    <item>
-      <title>Theoretical Prediction of MXene-based Single-atom Catalysts M-Ti&amp;amp;lt;sub&amp;amp;gt;2&amp;amp;lt;/sub&amp;amp;gt;CO&amp;amp;lt;sub&amp;amp;gt;2&amp;amp;lt;/sub&amp;amp;gt; (M=Cu, Fe, Co, Ni) Applied in the Electroreduction of CO&amp;amp;lt;sub&amp;amp;gt;2&amp;amp;lt;/sub&amp;amp;gt; for Methanol Production</title>
-      <link>https://doi.org/10.3724/2097-213x.2025.jfct.0005</link>
-      <description>Xinyao Zou, Chongqing Yang, Simin Liu, Ang Li, Lei Zhu, Zhen Huang, Journal of Fuel Chemistry and Technology. None(None)] 2025. https://openalex.org/W4407884224
-
-                No abstract</description>
-      <author>Xinyao Zou, Chongqing Yang, Simin Liu, Ang Li, Lei Zhu, Zhen Huang</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3724/2097-213x.2025.jfct.0005</guid>
-    </item>
-    <item>
-      <title>Unlocking the potential of chemical-assisted water electrolysis for green hydrogen production</title>
-      <link>https://doi.org/10.1039/d4im00163j</link>
-      <description>Jiwoo Lee, Sol A Lee, Tae Hyung Lee, Ho Won Jang, Industrial Chemistry and Materials. None(None)] 2025. https://openalex.org/W4407885004
-
-                Chemical-assisted water electrolysis is gaining attraction as an alternative to conventional water electrolysis to produce hydrogen, but high overpotential is a major challenge. This review covers advanced strategies to reduce the operation voltage.</description>
-      <author>Jiwoo Lee, Sol A Lee, Tae Hyung Lee, Ho Won Jang</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4im00163j</guid>
-    </item>
-    <item>
-      <title>Hydroxylation Strategy Enables Ru&#8211;Mn Oxide for Stable Proton Exchange Membrane Water Electrolysis under 1 A cm&lt;sup&gt;&#8211;2&lt;/sup&gt;</title>
-      <link>https://doi.org/10.1021/acsnano.4c15900</link>
-      <description>Susu Zhao, Qian Dang, Aiqing Cao, Marshet Getaye Sendeku, Hai Liu, Jian Peng, Yameng Fan, Hui Li, Fengmei Wang, Yun Kuang, Xiaoming Sun, ACS Nano. None(None)] 2025. https://openalex.org/W4407892266
-
-                Ruthenium (Ru)-based catalysts have demonstrated promising utilization potentiality to replace the much expensive iridium (Ir)-based ones for proton exchange membrane water electrolysis (PEMWE) due to their high electrochemical activity and low cost. However, the susceptibility of RuO2-based materials to easily be oxidized to high-valent and soluble Ru species during the oxygen evolution reaction (OER) in acid media hinders the practical application, especially under current density above 500 mA cm&#8211;2. Here, a manganese-doped RuO2 catalyst with the hydroxylated metal sites (i.e., H&#8211;Mn0.1Ru0.9O2) is synthesized for acidic OER assisted by hydrogen peroxide, where the hydroxylation results in the valence state of the Ru sites below +4. The H&#8211;Mn0.1Ru0.9O2 catalyst demonstrates an overpotential of 169 mV at 10 mA cm&#8211;2 and promising stability for an OER over 1000 h in an acidic electrolyte. A PEMWE device fabricated with the H&#8211;Mn0.1Ru0.9O2 catalyst as the anode shows a current density of 1 A cm&#8211;2 at &#8764;1.65 V, along with a low degradation over continuous tens of hours. Differential electrochemical mass spectrometry (DEMS) results and theoretical calculations confirm that H&#8211;Mn0.1Ru0.9O2 performs the OER through the adsorbate evolution mechanism (AEM) pathway, where the synergistic effect of hydroxylation and Mn doping in RuO2 can effectively enhance the stability of Ru sites and lattice oxygen atoms.</description>
-      <author>Susu Zhao, Qian Dang, Aiqing Cao, Marshet Getaye Sendeku, Hai Liu, Jian Peng, Yameng Fan, Hui Li, Fengmei Wang, Yun Kuang, Xiaoming Sun</author>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c15900</guid>
-    </item>
-    <item>
-      <title>Radio frequency plasma-engraved vacancy engineering towards robust hydrogen-evolving catalysts with large-current stable catalytic activity for over 1000 h</title>
-      <link>https://doi.org/10.1007/s40843-024-3247-8</link>
-      <description>Yong Zhang, Haiman Huang, Weiqiang Xie, Qian Zhou, Xiang Hu, Guanghua Wang, Wangbing Yu, Haiqing Zhou, Yu Fang, Science China Materials. None(None)] 2025. https://openalex.org/W4407895554
-
-                No abstract</description>
-      <author>Yong Zhang, Haiman Huang, Weiqiang Xie, Qian Zhou, Xiang Hu, Guanghua Wang, Wangbing Yu, Haiqing Zhou, Yu Fang</author>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s40843-024-3247-8</guid>
-    </item>
-    <item>
-      <title>Two-dimensional ferroelectric metal CuCrX2 (X=S, Se) for efficient electrocatalysis</title>
-      <link>https://doi.org/10.1016/j.commt.2025.100029</link>
-      <description>Ying Wang, Chengliang Lu, Menghao Wu, Deleted Journal. None(None)] 2025. https://openalex.org/W4407901529
-
-                No abstract</description>
-      <author>Ying Wang, Chengliang Lu, Menghao Wu</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.commt.2025.100029</guid>
-    </item>
-    <item>
-      <title>Exploring the development of electrocatalysts through an automated comprehensive literature review using NLP</title>
-      <link>https://doi.org/10.1016/j.jacomc.2025.100067</link>
-      <description>Na Qin, Lei Liu, Wei Lai, Haibiao Chen, Deleted Journal. None(None)] 2025. https://openalex.org/W4407901776
-
-                No abstract</description>
-      <author>Na Qin, Lei Liu, Wei Lai, Haibiao Chen</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jacomc.2025.100067</guid>
-    </item>
-    <item>
-      <title>Single&#8208;Atom Enables Reverse Hydrogen Spillover for High&#8208;Performance Protonic Ceramic Fuel Cells</title>
-      <link>https://doi.org/10.1002/adma.202501387</link>
-      <description>Sunce Zhao, Wenjia Ma, Beibei He, Yihan Ling, Yonglong Huang, Feng Hu, Zhu Shu, Ling Zhao, Advanced Materials. None(None)] 2025. https://openalex.org/W4407908043
-
-                Protonic ceramic fuel cells (PCFCs) offer a promising avenue for sustainable energy conversion, however, their commercial potential is hindered by sluggish proton-involved oxygen reduction reaction (P-ORR) kinetics and inadequate durability of cathode materials. Here, a novel single-atom Ru anchor on BaCe0.125Fe0.875O3-&#948; (BCF) perovskite, synthesized by a facile and scalable solid-state approach, as a potential cathode for PCFCs is reported. Theoretical and experimental analyses demonstrate that the single-atom Ru on BCF, characterized by a unique 4-coordinate Ru-O-Fe configuration, not only induces reverse hydrogen spillover but also acts as an active site for P-ORR. The application of the optimized 2Ru-BCF (2 wt.% Ru) cathode in a single cell delivers an exceptional peak power density of 1.78 W cm-2 at 700 &#176;C, along with excellent operational stability over 200 h. These findings provide new insights into single-atom engineering, advancing the commercial viability of PCFCs.</description>
-      <author>Sunce Zhao, Wenjia Ma, Beibei He, Yihan Ling, Yonglong Huang, Feng Hu, Zhu Shu, Ling Zhao</author>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202501387</guid>
-    </item>
-    <item>
-      <title>Boosting selective CO2 reduction via strong spin-spin coupling on dual-atom spin-catalysts</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.02.173</link>
-      <description>Yueyue Shao, Jia Zhou, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4407909575
-
-                No abstract</description>
-      <author>Yueyue Shao, Jia Zhou</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.02.173</guid>
-    </item>
     <item>
       <title>Two-dimensional TiNBr as photocatalyst for overall water splitting</title>
       <link>https://doi.org/10.1103/physrevmaterials.9.025802</link>
@@ -196,16 +96,6 @@
       <author>Qingran Zhang, Yihao Shan, Jian Pan, Priyank V. Kumar, Mark J. Keevers, John Lasich, Gurpreet Kour, Rahman Daiyan, Ivan Perez&#8208;W&#252;rfl, Lars Thomsen, Soshan Cheong, Junjie Jiang, Kuang&#8208;Hsu Wu, Chao&#8208;Lung Chiang, Kristian Grayson, Martin A. Green, Rose Amal, Xunyu Lu</author>
       <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1126/sciadv.ads0836</guid>
-    </item>
-    <item>
-      <title>Unveiling co-acting effects of potassium and hydroxide ions on carbon dioxide reduction reaction selectivity</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.02.184</link>
-      <description>Lin Liu, Dongxu Jiao, Zhaoyong Jin, Wenting Lu, Yilong Dong, Shuai Ding, L.-M. Duan, Mingguang Yao, Shan Xu, Yanhua Liu, Lei Zhang, Jinchang Fan, Xiaoqiang Cui, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4407952643
-
-                No abstract</description>
-      <author>Lin Liu, Dongxu Jiao, Zhaoyong Jin, Wenting Lu, Yilong Dong, Shuai Ding, L.-M. Duan, Mingguang Yao, Shan Xu, Yanhua Liu, Lei Zhang, Jinchang Fan, Xiaoqiang Cui</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.02.184</guid>
     </item>
     <item>
       <title>Accelerated Optimization of Compositions and Chemical Ordering for Bimetallic Alloy Catalysts Using Bayesian Learning</title>
@@ -498,6 +388,86 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.02.417</guid>
     </item>
     <item>
+      <title>Boosting selective CO2 reduction via strong spin-spin coupling on dual-atom spin-catalysts</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.02.173</link>
+      <description>Yueyue Shao, Jia Zhou, Journal of Colloid and Interface Science. 688(None)] 2025. https://openalex.org/W4407909575
+
+                No abstract</description>
+      <author>Yueyue Shao, Jia Zhou</author>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.02.173</guid>
+    </item>
+    <item>
+      <title>Unveiling co-acting effects of potassium and hydroxide ions on carbon dioxide reduction reaction selectivity</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.02.184</link>
+      <description>Lin Liu, Dongxu Jiao, Zhaoyong Jin, Wenting Lu, Yilong Dong, Shuai Ding, L.-M. Duan, Mingguang Yao, Shan Xu, Yanhua Liu, Lei Zhang, Jinchang Fan, Xiaoqiang Cui, Journal of Colloid and Interface Science. 688(None)] 2025. https://openalex.org/W4407952643
+
+                No abstract</description>
+      <author>Lin Liu, Dongxu Jiao, Zhaoyong Jin, Wenting Lu, Yilong Dong, Shuai Ding, L.-M. Duan, Mingguang Yao, Shan Xu, Yanhua Liu, Lei Zhang, Jinchang Fan, Xiaoqiang Cui</author>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.02.184</guid>
+    </item>
+    <item>
+      <title>Bulkier anions versus hydrogen bonding in imidazolium ionic liquids: Stationary point analysis</title>
+      <link>https://doi.org/10.1016/j.comptc.2025.115169</link>
+      <description>Vitaly V. Chaban, Computational and Theoretical Chemistry. None(None)] 2025. https://openalex.org/W4408082840
+
+                No abstract</description>
+      <author>Vitaly V. Chaban</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2025.115169</guid>
+    </item>
+    <item>
+      <title>Standards for Meaningful Evaluations of Machine Learning Interatomic Potentials Software</title>
+      <link>https://doi.org/10.1007/978-3-031-80748-0_95</link>
+      <description>Rika Kobayashi, Emily Kahl, Roger D. Amos, &#152;The &#156;minerals, metals &amp; materials series. None(None)] 2025. https://openalex.org/W4408085155
+
+                No abstract</description>
+      <author>Rika Kobayashi, Emily Kahl, Roger D. Amos</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-80748-0_95</guid>
+    </item>
+    <item>
+      <title>Machine Learning for the Efficient Identification of High-Performance Metal-Doped Transition Metal Compounds for Hydrogen Evolution Catalysis</title>
+      <link>https://doi.org/10.1007/978-3-031-80748-0_62</link>
+      <description>Xue Lu, Jie Dang, &#152;The &#156;minerals, metals &amp; materials series. None(None)] 2025. https://openalex.org/W4408085228
+
+                No abstract</description>
+      <author>Xue Lu, Jie Dang</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-80748-0_62</guid>
+    </item>
+    <item>
+      <title>Integration of interface engineering and La doping to boost two-electron oxygen reduction to hydrogen peroxide over La2Sn2O7@La-doped ZnSnO3 heterostructures</title>
+      <link>https://doi.org/10.1007/s12598-024-03224-4</link>
+      <description>Yanyan Sun, Kun Li, Muhammad Arif, Lei Han, Amjad Nisar, Ting Zhu, Rare Metals. None(None)] 2025. https://openalex.org/W4408087501
+
+                No abstract</description>
+      <author>Yanyan Sun, Kun Li, Muhammad Arif, Lei Han, Amjad Nisar, Ting Zhu</author>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12598-024-03224-4</guid>
+    </item>
+    <item>
+      <title>Silver-Doped Porous Copper Catalysts for Efficient Resource Utilization of CO-Containing Flue Gases</title>
+      <link>https://doi.org/10.1021/acsenvironau.4c00121</link>
+      <description>Zhengkai Zhuang, Guangtao Wang, Wen Zhao, Ruixin Yang, Yilin Zhou, Wenlei Zhu, ACS Environmental Au. None(None)] 2025. https://openalex.org/W4408092996
+
+                No abstract</description>
+      <author>Zhengkai Zhuang, Guangtao Wang, Wen Zhao, Ruixin Yang, Yilin Zhou, Wenlei Zhu</author>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsenvironau.4c00121</guid>
+    </item>
+    <item>
+      <title>N, S Coordination in Co Single Atom Catalyst Promoting Co2rr Towards Hcooh at Negative Potentials</title>
+      <link>https://doi.org/10.2139/ssrn.5163414</link>
+      <description>H. L. Zhang, Maohuai Wang, Shoufu Cao, Zengxuan Chen, Siyuan Liu, Hongyu Chen, Yi-tong Yin, Zhongyuan Yue, Shuxian Wei, Zhaojie Wang, Xiaoqing Lu, No host. None(None)] 2025. https://openalex.org/W4408093060
+
+                No abstract</description>
+      <author>H. L. Zhang, Maohuai Wang, Shoufu Cao, Zengxuan Chen, Siyuan Liu, Hongyu Chen, Yi-tong Yin, Zhongyuan Yue, Shuxian Wei, Zhaojie Wang, Xiaoqing Lu</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5163414</guid>
+    </item>
+    <item>
       <title>Efficient equivariant model for machine learning interatomic potentials</title>
       <link>https://doi.org/10.1038/s41524-025-01535-3</link>
       <description>Ziduo Yang, Xian Wang, Yifan Li, Qiujie Lv, Calvin Yu&#8208;Chian Chen, Lei Shen, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4407948128
@@ -526,16 +496,6 @@
       <author>Wenjing Li, Dingming Chen, Zhenxin Lou, Haiyang Yuan, Xiaopeng Fu, Hao Lin, Miaoyu Lin, Yu Hou, Haifeng Qi, Peng Fei Liu, Hua Gui Yang, Haifeng Wang</author>
       <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c18300</guid>
-    </item>
-    <item>
-      <title>Water&#8211;Gas Shift Reaction over Cu&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O/Cu(111) (&lt;i&gt;x&lt;/i&gt; &amp;lt; 2) from a DFT-MKM-kMC Study</title>
-      <link>https://doi.org/10.1021/acscatal.4c06825</link>
-      <description>Yu-Bi Huang, Gui&#8208;Chang Wang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4407893963
-
-                No abstract</description>
-      <author>Yu-Bi Huang, Gui&#8208;Chang Wang</author>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06825</guid>
     </item>
     <item>
       <title>Machine Learning Force Field for Optimization of Isolated and Supported Transition Metal Particles</title>
