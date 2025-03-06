@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 05 Mar 2025 01:23:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 01:24:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Incomplete mass closure in atmospheric nanoparticle growth</title>
-      <link>https://doi.org/10.1038/s41612-025-00893-5</link>
-      <description>Dominik Stolzenburg, Nina Sarnela, Federico Bianchi, Jing Cai, Runlong Cai, Yafang Cheng, Lubna Dada, Neil M. Donahue, Hinrich Grothe, Sebastian Holm, Veli&#8208;Matti Kerminen, Katrianne Lehtipalo, Tuukka Pet&#228;j&#228;, Juha Sulo, Paul M. Winkler, Chao Yan, Juha Kangasluoma, Markku Kulmala, npj Climate and Atmospheric Science. 8(1)] 2025. https://openalex.org/W4407927611
-
-                No abstract</description>
-      <author>Dominik Stolzenburg, Nina Sarnela, Federico Bianchi, Jing Cai, Runlong Cai, Yafang Cheng, Lubna Dada, Neil M. Donahue, Hinrich Grothe, Sebastian Holm, Veli&#8208;Matti Kerminen, Katrianne Lehtipalo, Tuukka Pet&#228;j&#228;, Juha Sulo, Paul M. Winkler, Chao Yan, Juha Kangasluoma, Markku Kulmala</author>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41612-025-00893-5</guid>
-    </item>
     <item>
       <title>A Computational Investigation of High-Flux, Plate-and-Frame Membrane Modules for Industrial Carbon Capture</title>
       <link>https://doi.org/10.2139/ssrn.5159309</link>
