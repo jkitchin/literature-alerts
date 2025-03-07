@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 06 Mar 2025 01:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 01:24:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A photovoltaic-electrolysis system with high solar-to-hydrogen efficiency under practical current densities</title>
-      <link>https://doi.org/10.1126/sciadv.ads0836</link>
-      <description>Qingran Zhang, Yihao Shan, Jian Pan, Priyank V. Kumar, Mark J. Keevers, John Lasich, Gurpreet Kour, Rahman Daiyan, Ivan Perez&#8208;W&#252;rfl, Lars Thomsen, Soshan Cheong, Junjie Jiang, Kuang&#8208;Hsu Wu, Chao&#8208;Lung Chiang, Kristian Grayson, Martin A. Green, Rose Amal, Xunyu Lu, Science Advances. 11(9)] 2025. https://openalex.org/W4407948630
-
-                The photovoltaic-alkaline water (PV-AW) electrolysis system offers an appealing approach for large-scale green hydrogen generation. However, current PV-AW systems suffer from low solar-to-hydrogen (STH) conversion efficiencies (e.g., &lt;20%) at practical current densities (e.g., &gt;100 mA cm &#8722;2 ), rendering the produced H 2 not economical. Here, we designed and developed a highly efficient PV-AW system that mainly consists of a customized, state-of-the-art AW electrolyzer and concentrator photovoltaic (CPV) receiver. The highly efficient anodic oxygen evolving catalyst, consisting of an iron oxide/nickel (oxy)hydroxide (Fe 2 O 3 -NiO x H y ) composite, enables the customized AW electrolyzer with unprecedented catalytic performance (e.g., 1 A cm &#8722;2 at 1.8 V and 0.37 kgH 2 /m &#8722;2 hour &#8722;1 at 48 kWh/kgH 2 ). Benefiting from the superior water electrolysis performance, the integrated CPV-AW electrolyzer system reaches a very high STH efficiency of up to 29.1% (refer to 30.3% if the lead resistance losses are excluded) at large current densities, surpassing all previously reported PV-electrolysis systems.</description>
-      <author>Qingran Zhang, Yihao Shan, Jian Pan, Priyank V. Kumar, Mark J. Keevers, John Lasich, Gurpreet Kour, Rahman Daiyan, Ivan Perez&#8208;W&#252;rfl, Lars Thomsen, Soshan Cheong, Junjie Jiang, Kuang&#8208;Hsu Wu, Chao&#8208;Lung Chiang, Kristian Grayson, Martin A. Green, Rose Amal, Xunyu Lu</author>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.ads0836</guid>
-    </item>
-    <item>
-      <title>Accelerated Optimization of Compositions and Chemical Ordering for Bimetallic Alloy Catalysts Using Bayesian Learning</title>
-      <link>https://doi.org/10.1021/acscatal.5c00467</link>
-      <description>Xiangfu Niu, Shuwei Li, Zheyu Zhang, Haohong Duan, Rui Zhang, Jianqiu Li, Liang Zhang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4407953985
-
-                No abstract</description>
-      <author>Xiangfu Niu, Shuwei Li, Zheyu Zhang, Haohong Duan, Rui Zhang, Jianqiu Li, Liang Zhang</author>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c00467</guid>
-    </item>
-    <item>
-      <title>Manipulating adsorbed hydrogen for enhanced HMF electrocatalytic hydrogenation</title>
-      <link>https://doi.org/10.1016/j.jechem.2025.02.010</link>
-      <description>Yingjie Gao, Cheng Tang, Yao Zheng, Journal of Energy Chemistry. None(None)] 2025. https://openalex.org/W4407954098
-
-                No abstract</description>
-      <author>Yingjie Gao, Cheng Tang, Yao Zheng</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2025.02.010</guid>
-    </item>
-    <item>
-      <title>Blocking Effect Retards Electron Release from Asymmetric Active Units for Selective Seawater Oxidation</title>
-      <link>https://doi.org/10.1021/acsnano.4c17958</link>
-      <description>Zhipeng Li, Huimin Mao, Xiaobin Liu, Jun Wan, Jing&#8208;Qi Chi, Shaobo Huang, Qingliang Lv, Zexing Wu, Lei Wang, ACS Nano. None(None)] 2025. https://openalex.org/W4407958992
-
-                During seawater electrolysis, chloride ion (Cl&#8211;) adsorption at the anode leads to an inevitable competitive chloride oxidation reaction (ClOR) with the oxygen evolution reaction (OER), compromising the long-term stability of the electrolysis process. Furthermore, Ni-based OER electrocatalysts are challenged by activity degradation due to the overoxidation of Ni3+. In response, we present a design of oxygen-vacancy-regulated asymmetric Nb&#8211;O&#8211;Ni bonds aimed at selective seawater oxidation. The experimental and in situ characterization results indicate that the blocking effect of oxygen vacancies effectively alleviates the electron release of Ni3+ and the electron enrichment of Nb5+ on asymmetric Nb&#8211;O&#8211;Ni bonds, achieving a stable and selective OER in alkaline seawater. Density functional theory (DFT) calculations reveal that oxygen vacancies in Nb&#8211;O&#8211;Ni bonds optimize the adsorption strength of reaction intermediates and break up the scaling relationship between *OH and *OOH intermediates. The constructed anion exchange membrane electrolysis cell achieves a cost efficiency of $1.07 per GGE (gasoline gallon equivalent) for H2 production at a current density of 1000 mA cm&#8211;2, maintaining operational stability for 100 h at 500 mA cm&#8211;2.</description>
-      <author>Zhipeng Li, Huimin Mao, Xiaobin Liu, Jun Wan, Jing&#8208;Qi Chi, Shaobo Huang, Qingliang Lv, Zexing Wu, Lei Wang</author>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c17958</guid>
-    </item>
-    <item>
-      <title>Molybdenum Carbide Nanoclusters on N-Doped Carbon Nanocages for Electrocatalytic Hydrogen Evolution</title>
-      <link>https://doi.org/10.1021/acsanm.4c07296</link>
-      <description>Xue Bai, Haohua He, Biao Feng, Jingyi Tian, Yan Zhang, Yufan Zhang, Xizhang Wang, Zheng Hu, Qiang Wu, ACS Applied Nano Materials. None(None)] 2025. https://openalex.org/W4407961432
-
-                No abstract</description>
-      <author>Xue Bai, Haohua He, Biao Feng, Jingyi Tian, Yan Zhang, Yufan Zhang, Xizhang Wang, Zheng Hu, Qiang Wu</author>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c07296</guid>
-    </item>
-    <item>
-      <title>Digital Descriptors in Predicting Catalysis Reaction Efficiency and Selectivity</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c03733</link>
-      <description>Qin Zhu, Yuming Gu, Jing Ma, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4407972183
-
-                Accurately controlling the interactions and dynamic changes between multiple active sites (e.g., metals, vacancies, and lone pairs of heteroatoms) to achieve efficient catalytic performance is a key issue and challenge in the design of complex catalytic reactions involving 2D metal-supported catalysts, metal-zeolites, metal-organic catalysts, and metalloenzymes. With the aid of machine learning (ML), descriptors play a central role in optimizing the electrochemical performance of catalysts, elucidating the essence of catalytic activity, and predicting more efficient catalysts, thereby avoiding time-consuming trial-and-error processes. Three kinds of descriptors&#9472;active center descriptors, interfacial descriptors, and reaction pathway descriptors&#9472;are crucial for understanding and designing metal-supported catalysts. Specifically, vacancies, as active sites, synergize with metals to significantly promote the reduction reactions of energy-relevant small molecules. By combining some physical descriptors, interpretable descriptors can be constructed to evaluate catalytic performance. Future development of descriptors and ML models faces the challenge of constructing descriptors for vacancies in multicatalysis systems to rationally design the activity, selectivity, and stability of catalysts. Utilization of generative artificial intelligence and multimodal ML to automatically extract descriptors would accelerate the exploration of dynamic reaction mechanisms. The transferable descriptors from metal-supported catalysts to artificial metalloenzymes provide innovative solutions for energy conversion and environmental protection.</description>
-      <author>Qin Zhu, Yuming Gu, Jing Ma</author>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c03733</guid>
-    </item>
-    <item>
-      <title>A New Method to Observe the Internal Amine Distribution in an Amine-Functionalized Resin Sorbent Particle</title>
-      <link>https://doi.org/10.1021/acs.iecr.4c05007</link>
-      <description>Chenhuan Xu, Pengbo Liu, Yun&#8208;Lei Peng, Mingying Dou, Qiuqiao Jiang, Xiaohao Jia, Yongmin Zhang, Koyo Norinaga, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4407980910
-
-                No abstract</description>
-      <author>Chenhuan Xu, Pengbo Liu, Yun&#8208;Lei Peng, Mingying Dou, Qiuqiao Jiang, Xiaohao Jia, Yongmin Zhang, Koyo Norinaga</author>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c05007</guid>
-    </item>
-    <item>
-      <title>Theory-Guided Design of N-Confused Porphyrinic Covalent Organic Frameworks for Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/jacs.4c18645</link>
-      <description>Pengpeng Shao, Zhixin Ren, Bo Zhao, Xiao Wang, Jie Li, Jing Xie, Bo Wang, Xiao Feng, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4407980914
-
-                Covalent organic frameworks (COFs) enable the precise and controlled synthesis of single-atom catalysts with uniformly distributed active metal centers, offering opportunities to elucidate the impact of subtle coordination environment changes on the catalytic performance. Inspired by N-confused porphyrins, we designed 20 metalloporphyrin-based COFs with either M-N3C1 or M-N4 centers, where M refers to 3d transition metals from Sc to Zn, for the electrocatalysis of oxygen reduction reaction (ORR). Density functional theory calculations predicted Co-based COFs to be the best ORR catalysts among the screened catalysts. Hence, Co-N3C1-COF and Co-N4-COF with a high crystallinity were synthesized. The Co-N3C1-COF exhibited improved ORR performance over the parent Co-N4-COF, as it had a reduced overpotential and increased four-electron selectivity, corroborating theoretical predictions. The enhanced performance was ascribed to the increase in electron density on Co as the coordination environment transits from Co-N4 to Co-N3C1. This not only facilitated the adsorption of O2 and critical intermediates but also changed the potential-determining step, which in turn made the ORR free energy profile of Co-N3C1-COF approach equilibrium for all elementary steps, thus leading to a reduced overpotential. This combined theoretical and experimental work exemplified carbon coordination in porphyrin-based COFs as an effective strategy to facilitate the catalytic capability for ORR. A descriptor was also provided to guide the design of coordination-varied Por-COFs catalysts.</description>
-      <author>Pengpeng Shao, Zhixin Ren, Bo Zhao, Xiao Wang, Jie Li, Jing Xie, Bo Wang, Xiao Feng</author>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c18645</guid>
-    </item>
-    <item>
-      <title>Interpretable physics-informed machine learning approaches to accelerate electrocatalyst development</title>
-      <link>https://doi.org/10.20517/jmi.2024.67</link>
-      <description>Hao Wu, Mingxuan Chen, Hao Cheng, Tong Yang, Minggang Zeng, Ming Yang, Journal of Materials Informatics. 5(2)] 2025. https://openalex.org/W4407983602
-
-                Identifying exceptional electrocatalysts from the vast materials space remains a formidable challenge. Machine learning (ML) has emerged as a powerful tool to address this challenge, offering high efficiency while maintaining good accuracy in predictions. From this perspective, we provide a brief overview of recent advancements in ML for electrocatalyst discoveries. We emphasize the applications of physics-informed ML (PIML) models and explainable artificial intelligence (XAI) to electrocatalyst development, through which valuable physical and chemical insights can be distilled. Additionally, we delve into the challenges faced by PIML approaches, explore future directions, and discuss potential breakthroughs that could revolutionize the field of electrocatalyst development.</description>
-      <author>Hao Wu, Mingxuan Chen, Hao Cheng, Tong Yang, Minggang Zeng, Ming Yang</author>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.20517/jmi.2024.67</guid>
-    </item>
-    <item>
-      <title>Machine learning for discrimination of phase&#8208;change chalcogenide glasses</title>
-      <link>https://doi.org/10.1002/inf2.70006</link>
-      <description>Qundao Xu, Meng Xu, Siqi Tang, Shaojie Yuan, Ming Xu, Wei Zhang, Xianbin Li, Zhongrui Wang, Xiangshui Miao, Chengliang Wang, Matthias Wuttig, InfoMat. None(None)] 2025. https://openalex.org/W4407985569
-
-                Abstract Chalcogenides, despite their versatile functionality, share a notably similar local structure in their amorphous states. Particularly in electronic phase&#8208;change memory applications, distinguishing these glasses from neighboring compositions that do not possess memory capabilities is inherently difficult when employing traditional analytical methods. This has led to a dilemma in materials design since an atomistic view of the arrangement in the amorphous state is the key to understanding and optimizing the functionality of these glasses. To tackle this challenge, we present a machine learning (ML) approach to separate electronic phase&#8208;change materials (ePCMs) from other chalcogenides, based upon subtle differences in the short&#8208;range order inside the glassy phase. Leveraging the established structure&#8211;property relations in chalcogenide glasses, we select suitable features to train accurate machine learning models, even with a modestly sized dataset. The trained model accurately discerns the critical transition point between glass compositions suitable for use as ePCMs and those that are not, particularly for both GeTe&#8211;GeSe and Sb 2 Te 3 &#8211;Sb 2 Se 3 materials, in line with experiments. Furthermore, by extracting the physical knowledge that the ML model has offered, we pinpoint three pivotal structural features of amorphous chalcogenides, that is, the bond angle, packing efficiency, and the length of the fourth bond, which provide a map for materials design with the ability to &#8220;predict&#8221; and &#8220;explain&#8221;. All three of the above features point to the smaller Peierls&#8208;like distortion and more well&#8208;defined octahedral clusters in amorphous ePCMs than non&#8208;ePCMs. Our study delves into the mechanisms shaping these structural attributes in amorphous ePCMs, yielding valuable insights for the AI&#8208;powered discovery of novel materials. image</description>
-      <author>Qundao Xu, Meng Xu, Siqi Tang, Shaojie Yuan, Ming Xu, Wei Zhang, Xianbin Li, Zhongrui Wang, Xiangshui Miao, Chengliang Wang, Matthias Wuttig</author>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/inf2.70006</guid>
-    </item>
-    <item>
-      <title>Machine-learning prediction of facet-dependent CO coverage on Cu electrocatalysts</title>
-      <link>https://doi.org/10.20517/jmi.2024.77</link>
-      <description>Shanglin Wu, Shisheng Zheng, Wentao Zhang, Mingzheng Zhang, Shunning Li, Feng Pan, Journal of Materials Informatics. 5(1)] 2025. https://openalex.org/W4407986232
-
-                Copper-based electrocatalysts, which hold great promise in selectively reducing CO2 into multicarbon products, have attracted significant recent interest, both experimentally and theoretically. While many studies have suggested a strong dependence of catalytic selectivity on the concentration of the *CO reaction intermediate on the Cu surface, it remains challenging for a direct experimental probe of the CO coverage. This necessitates a reliable computational method that can accurately establish the theoretical coverage-dependent phase diagram of CO adsorbates on the catalyst. Here we propose a scheme composed of density functional theory calculations, machine-learning force fields and graph neural networks as a solution. This method enables a fast screening of 7 million adsorption configurations based on a small set of density functional theory data, with a balance between accuracy and efficiency tuned by the combinatorial use of machine-learning force field and graph neural network models. We have investigated eight different Cu facets and discovered that the high-index facets such as (310), (210) and (322) exhibit a much higher CO coverage than the low-index counterparts such as (111), leading to an increased opportunity for C-C coupling for the former. Our results can provide a new perspective for the understanding of the fundamental role of CO coverage on the Cu surface for electrochemical CO2 reduction.</description>
-      <author>Shanglin Wu, Shisheng Zheng, Wentao Zhang, Mingzheng Zhang, Shunning Li, Feng Pan</author>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.20517/jmi.2024.77</guid>
-    </item>
     <item>
       <title>Performance assessment of high-throughput Gibbs free energy predictions of crystalline solids</title>
       <link>https://doi.org/10.1016/j.commatsci.2025.113770</link>
@@ -286,26 +176,6 @@
       <author>Yaoze Wang, Guangfei Qu, Yun Zhang, Linjin Li, Haiyan Wang, Ping Lu, Yuanchuan Ren, Minhua Cheng, Yingying Cai, Jun-Yan Li</author>
       <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.02.417</guid>
-    </item>
-    <item>
-      <title>Unveiling co-acting effects of potassium and hydroxide ions on carbon dioxide reduction reaction selectivity</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.02.184</link>
-      <description>Lin Liu, Dongxu Jiao, Zhaoyong Jin, Wenting Lu, Yilong Dong, Shuai Ding, L.-M. Duan, Mingguang Yao, Shan Xu, Yanhua Liu, Lei Zhang, Jinchang Fan, Xiaoqiang Cui, Journal of Colloid and Interface Science. 688(None)] 2025. https://openalex.org/W4407952643
-
-                No abstract</description>
-      <author>Lin Liu, Dongxu Jiao, Zhaoyong Jin, Wenting Lu, Yilong Dong, Shuai Ding, L.-M. Duan, Mingguang Yao, Shan Xu, Yanhua Liu, Lei Zhang, Jinchang Fan, Xiaoqiang Cui</author>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.02.184</guid>
-    </item>
-    <item>
-      <title>Defect-rich FeCoNiMnRu high-entropy alloys with activated interfacial water for boosting alkaline water/seawater hydrogen evolution</title>
-      <link>https://doi.org/10.1016/j.cej.2025.161070</link>
-      <description>Guangbo Liu, Chen Song, Xiaolei Li, Qisen Jia, Pengfei Wu, Zhihao Lou, Y. Ma, Xuejing Cui, Xin Zhou, Luhua Jiang, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4407961679
-
-                No abstract</description>
-      <author>Guangbo Liu, Chen Song, Xiaolei Li, Qisen Jia, Pengfei Wu, Zhihao Lou, Y. Ma, Xuejing Cui, Xin Zhou, Luhua Jiang</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.161070</guid>
     </item>
     <item>
       <title>Observation of metal-organic interphase in Cu-based electrochemical CO2-to-ethanol conversion</title>
@@ -516,16 +386,6 @@
       <author>Pengxiang Liu, Yaqian Wang, Ruitao Lv, Guangying Zhang, Xu Liu, Lei Wang</author>
       <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ensm.2025.104155</guid>
-    </item>
-    <item>
-      <title>Efficient equivariant model for machine learning interatomic potentials</title>
-      <link>https://doi.org/10.1038/s41524-025-01535-3</link>
-      <description>Ziduo Yang, Xian Wang, Yifan Li, Qiujie Lv, Calvin Yu&#8208;Chian Chen, Lei Shen, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4407948128
-
-                No abstract</description>
-      <author>Ziduo Yang, Xian Wang, Yifan Li, Qiujie Lv, Calvin Yu&#8208;Chian Chen, Lei Shen</author>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01535-3</guid>
     </item>
     <item>
       <title>Favoring the Originally Unfavored Oxygen for Enhancing Nitrogen-to-Nitrate Electroconversion</title>
