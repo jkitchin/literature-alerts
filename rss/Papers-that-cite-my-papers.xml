@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 07 Mar 2025 01:24:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 01:07:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Performance assessment of high-throughput Gibbs free energy predictions of crystalline solids</title>
-      <link>https://doi.org/10.1016/j.commatsci.2025.113770</link>
-      <description>Rasmus Fromsejer, Bj&#248;rn Maribo&#8208;Mogensen, Georgios M. Kontogeorgis, Xiaodong Liang, Computational Materials Science. 252(None)] 2025. https://openalex.org/W4407989296
-
-                No abstract</description>
-      <author>Rasmus Fromsejer, Bj&#248;rn Maribo&#8208;Mogensen, Georgios M. Kontogeorgis, Xiaodong Liang</author>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2025.113770</guid>
-    </item>
-    <item>
-      <title>Theoretical insights into performance descriptors and their impact on activity optimization strategies for cobalt-based electrocatalysts</title>
-      <link>https://doi.org/10.1016/j.ccr.2025.216560</link>
-      <description>Xinxin Zhang, Lei Wang, Ying Xie, Honggang Fu, Coordination Chemistry Reviews. 533(None)] 2025. https://openalex.org/W4407992349
-
-                No abstract</description>
-      <author>Xinxin Zhang, Lei Wang, Ying Xie, Honggang Fu</author>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2025.216560</guid>
-    </item>
-    <item>
-      <title>Overview on Building Blocks and Applications of Efficient and Robust Extended Tight Binding</title>
-      <link>https://doi.org/10.1021/acs.jpca.4c08263</link>
-      <description>Abylay Katbashev, Marcel Stahn, Thomas Rose, Vahideh Alizadeh, Marvin Friede, Christoph Plett, Pit Steinbach, Sebastian Ehlert, The Journal of Physical Chemistry A. None(None)] 2025. https://openalex.org/W4407997511
-
-                The extended tight binding (xTB) family of methods opened many new possibilities in the field of computational chemistry. Within just 5 years, the GFN2-xTB parametrization for all elements up to Z = 86 enabled more than a thousand applications, which were previously not feasible with other electronic structure methods. The xTB methods provide a robust and efficient way to apply quantum mechanics-based approaches for obtaining molecular geometries, computing free energy corrections or describing noncovalent interactions and found applicability for many more targets. A crucial contribution to the success of the xTB methods is the availability within many simulation packages and frameworks, supported by the open source development of its program library and packages. We present a comprehensive summary of the applications and capabilities of xTB methods in different fields of chemistry. Moreover, we consider the main software packages for xTB calculations, covering their current ecosystem, novel features, and usage by the scientific community.</description>
-      <author>Abylay Katbashev, Marcel Stahn, Thomas Rose, Vahideh Alizadeh, Marvin Friede, Christoph Plett, Pit Steinbach, Sebastian Ehlert</author>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.4c08263</guid>
-    </item>
-    <item>
-      <title>Strain-Enabled Band Structure Engineering in Layered PtSe&lt;sub&gt;2&lt;/sub&gt; for Water Electrolysis under Ultralow Overpotential</title>
-      <link>https://doi.org/10.1021/acsnano.4c18077</link>
-      <description>Hotae Jeon, Hyeonseok Kwon, Jae-Hyun Lee, Sun Kyung Han, Hyunjin Kim, Jaewon Heo, J.N Han, Seunghun Shin, Jiheon Park, Min Kyung Cho, Daniel J. Preston, In Soo Kim, Minho Kim, Won&#8208;Kyu Lee, ACS Nano. None(None)] 2025. https://openalex.org/W4407999825
-
-                This paper describes a simple design methodology to develop layered PtSe2 catalysts for hydrogen evolution reaction (HER) in water electrolysis operating under ultralow overpotentials. This approach relies on the transfer of mechanically exfoliated PtSe2 flakes to gold thin films on prestrained thermoplastic substrates. By relieving the prestrain, a tunable level of uniaxial internal compressive and tensile strain is developed in the flakes as a result of spontaneously formed surface wrinkles, giving rise to band structure modulations with overlapped values of the valence band maximum and conduction band minimum. This strain-engineered PtSe2 with an optimized level of internal tensile strain amplifies the HER performance of the PtSe2, with performance far greater than that of pure platinum due to significantly reduced charge transfer resistance. Density functional theory calculations provide fundamental insight into how strain-induced band structure engineering correlates with the promoted HER activity, especially at the atomic edge sites of the materials.</description>
-      <author>Hotae Jeon, Hyeonseok Kwon, Jae-Hyun Lee, Sun Kyung Han, Hyunjin Kim, Jaewon Heo, J.N Han, Seunghun Shin, Jiheon Park, Min Kyung Cho, Daniel J. Preston, In Soo Kim, Minho Kim, Won&#8208;Kyu Lee</author>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c18077</guid>
-    </item>
-    <item>
-      <title>Tunable N&lt;sub&gt;2&lt;/sub&gt; Fixation Enabled by Ferroelectric Switching in Doped Graphene/In&lt;sub&gt;2&lt;/sub&gt;Se&lt;sub&gt;3&lt;/sub&gt; Dual-Atom Catalysts</title>
-      <link>https://doi.org/10.1021/acsami.4c21092</link>
-      <description>Mohammad Amin Akhound, Maryam Soleimani, Mahdi Pourfath, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4408009676
-
-                The electrochemical nitrogen reduction reaction (NRR) provides a sustainable alternative to ammonia synthesis. However, the development of catalysts with high activity and selectivity under ambient conditions remains a significant challenge. In this work, we propose a class of dual-atom catalysts (DACs), consisting of two metal atoms embedded in nitrogen-doped porous graphene (M2NPG) supported on a ferroelectric &#945;-In2Se3 monolayer. Using density functional theory (DFT) calculations, we explore the effect of ferroelectric polarization switching on the structural stability, catalytic performance, and reaction mechanisms of these DACs. By computationally screening 27 metal atoms as active sites, we identify four promising candidates (V, Co, Ru, and Ta) with V2NPG@In2Se3 standing out due to its exceptional properties. The precise control of NRR pathways, along with tunable limiting potentials and selective product formation, can be achieved through the polarization switching of the &#945;-In2Se3 monolayer. The combination of low limiting potential, abundant active sites, tunable catalytic behavior, and high selectivity against the hydrogen evolution reaction (HER) highlights the potential of V2NPG@In2Se3 as a promising alternative to traditional single-atom catalysts. This work demonstrates a versatile strategy for integrating DACs with ferroelectric materials, offering valuable insights into designing next-generation catalysts for NRR and beyond.</description>
-      <author>Mohammad Amin Akhound, Maryam Soleimani, Mahdi Pourfath</author>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c21092</guid>
-    </item>
-    <item>
-      <title>Simulations of oxidation behavior of the NbTiZr multicomponent alloy</title>
-      <link>https://doi.org/10.1016/j.matchemphys.2025.130616</link>
-      <description>Qingqing Wang, Xianggang Kong, You Yu, Tianyuan Xin, Lu Wu, Materials Chemistry and Physics. None(None)] 2025. https://openalex.org/W4408011661
-
-                No abstract</description>
-      <author>Qingqing Wang, Xianggang Kong, You Yu, Tianyuan Xin, Lu Wu</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.matchemphys.2025.130616</guid>
-    </item>
-    <item>
-      <title>Generation of dynamic oxygen vacancies in GQDs/NaNbO3 heterojunction for boosting photocatalytic hydrogen evolution</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.02.153</link>
-      <description>Wei Shao, Fei Han, Yin Hu, Wei Chen, Yu Xie, Lingling Wang, Xuanye Chen, Fen Zhang, Lin Ding, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4408014609
-
-                No abstract</description>
-      <author>Wei Shao, Fei Han, Yin Hu, Wei Chen, Yu Xie, Lingling Wang, Xuanye Chen, Fen Zhang, Lin Ding</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.02.153</guid>
-    </item>
-    <item>
-      <title>Exploration of the catalytic potential of platinum&#8209;antimony (Pt Sb) bimetallic catalyst for hydrogen evolution reaction: Insights gained from density functional theory</title>
-      <link>https://doi.org/10.1016/j.cplett.2025.142002</link>
-      <description>Manxi Leng, Pengyan Xue, Xin Chen, Chemical Physics Letters. None(None)] 2025. https://openalex.org/W4408016484
-
-                No abstract</description>
-      <author>Manxi Leng, Pengyan Xue, Xin Chen</author>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2025.142002</guid>
-    </item>
-    <item>
-      <title>First-Principles Prediction of Novel Metastable MnO&lt;sub&gt;2&lt;/sub&gt; for the Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c00106</link>
-      <description>Changle Zhang, Jie Feng, Yujin Ji, Youyong Li, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4408019782
-
-                Manganese dioxide (MnO2) is a versatile material with numerous polymorphs that holds significant promise in catalysis and energy storage applications. Due to the different connection forms of Mn&#8211;O octahedra, the structural diversity of MnO2 exists in more than 20 crystal forms. Common crystal phases of MnO2 include traditional crystal phases such as &#945;-MnO2, &#946;-MnO2, &#947;-MnO2, R-MnO2. In this work, we employed the particle swarm optimization (PSO) method combined with first-principles calculations to predict 3 kinds of unreported metastable MnO2 crystals, P21/C&#8211;1-MnO2, Pbcn-MnO2, and P21/C&#8211;2-MnO2. We then systematically analyze these 3 structures have lower energy than &#945;-MnO2 which is widely used and stable in nature and they have better potential application in the electrocatalytic oxygen evolution reaction (OER). Notably, P21/C&#8211;2-MnO2 exhibited superior catalytic activity, featuring lower theoretical overpotentials than conventional MnO2 phases. These findings expand the known polymorphs of MnO2 and provide valuable insights into their potential in catalysis and energy storage, offering theoretical guidance for future experimental research.</description>
-      <author>Changle Zhang, Jie Feng, Yujin Ji, Youyong Li</author>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c00106</guid>
-    </item>
     <item>
       <title>Operando-informed precatalyst programming towards reliable high-current-density electrolysis</title>
       <link>https://doi.org/10.1038/s41563-025-02128-7</link>
@@ -386,16 +296,6 @@
       <author>Pengxiang Liu, Yaqian Wang, Ruitao Lv, Guangying Zhang, Xu Liu, Lei Wang</author>
       <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ensm.2025.104155</guid>
-    </item>
-    <item>
-      <title>Favoring the Originally Unfavored Oxygen for Enhancing Nitrogen-to-Nitrate Electroconversion</title>
-      <link>https://doi.org/10.1021/jacs.4c17380</link>
-      <description>Xin Li, Guangtong Hai, Daniel Wan, Yiwen Liao, Zhangyi Yao, Fenglin Zhao, Lingzhi Huang, Jinsong Zhou, Gang Li, Gao&#8208;Feng Chen, Feng Ryan Wang, Michael K.H. Leung, Haihui Wang, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4408009662
-
-                Current nitrate production involves a two-step thermochemical process that is energy-intensive and generates substantial CO2 emissions. Sustainable NO3&#8211; production via the nitrogen electrooxidation reaction powered by renewable electricity is highly desirable, but the Faradaic efficiency (FE) at high production rates is unsatisfactory due to competition from the oxygen evolution reaction (OER). In this study, we propose reengineering the catalyst's microstructure-to-macroenvironment interface by particularly utilizing the previously considered unfavored oxygen from the OER. We demonstrate that the re-engineered interface facilitates a record-breaking FE of 35.52% under 8 atm air, with an impressive increase in FE (41.56%) observed during a continuous electrochemical process lasting for 60 h due to the in situ formation of the O2-rich macro-interface environment. The revelation is anticipated to furnish groundbreaking perspectives for the reaction systems design in electrochemical nitrate production and other electrocatalytic fields.</description>
-      <author>Xin Li, Guangtong Hai, Daniel Wan, Yiwen Liao, Zhangyi Yao, Fenglin Zhao, Lingzhi Huang, Jinsong Zhou, Gang Li, Gao&#8208;Feng Chen, Feng Ryan Wang, Michael K.H. Leung, Haihui Wang</author>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c17380</guid>
     </item>
     <item>
       <title>Inhibiting Overoxidation of Dynamically Evolved RuO&lt;sub&gt;2&lt;/sub&gt; to Achieve a Win&#8211;Win in Activity&#8211;Stability for Acidic Water Electrolysis</title>

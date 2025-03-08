@@ -1,31 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Mar  7 01:24:46 2025
+Created on Sat Mar  8 01:07:47 2025
 
-Found 2 results from 2025-02-28 to 2025-03-07
+Found 1 results from 2025-03-01 to 2025-03-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* A Computational Investigation of High-Flux, Plate-and-Frame Membrane Modules for Industrial Carbon Capture  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4408013093
-:TOPICS: Membrane Separation and Gas Transport
-:PUBLICATION_DATE: 2025-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.5159309")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4408013093"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4408013093"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4408013093"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4408013093 (Open access: False)
-    
-[[https://openalex.org/A5093713938][Cheick Dosso]], [[https://openalex.org/A5079899169][Héctor Pedrozo]], [[https://openalex.org/A5037749425][Thien Tran]], [[https://openalex.org/A5002137675][Lingxiang Zhu]], [[https://openalex.org/A5041659494][Victor Kusuma]], [[https://openalex.org/A5101028600][David Hopkinson]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], [[https://openalex.org/A5028498558][Grigorios Panagakos]], No host. None(None)] 2025. https://doi.org/10.2139/ssrn.5159309 
-     
-No abstract    
-
-    
 
 * Enhanced epigenetic modulation via mRNA-encapsulated lipid nanoparticles enables targeted anti-inflammatory control  :CMU_Chemical_Engineering:
 :PROPERTIES:

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 07 Mar 2025 01:24:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 01:07:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A Computational Investigation of High-Flux, Plate-and-Frame Membrane Modules for Industrial Carbon Capture</title>
-      <link>https://doi.org/10.2139/ssrn.5159309</link>
-      <description>Cheick Dosso, H&#233;ctor Pedrozo, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2025. https://openalex.org/W4408013093
-
-                No abstract</description>
-      <author>Cheick Dosso, H&#233;ctor Pedrozo, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5159309</guid>
-    </item>
     <item>
       <title>Enhanced epigenetic modulation via mRNA-encapsulated lipid nanoparticles enables targeted anti-inflammatory control</title>
       <link>https://doi.org/10.1101/2025.02.24.639996</link>
