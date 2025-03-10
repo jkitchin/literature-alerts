@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 09 Mar 2025 01:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 01:11:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>One-pot synthesis of hierarchical assembly of NiMoO4/MoS2/Ni3S2 on nickel foam for highly efficient and durable electrocatalytic hydrogen evolution reaction in a wide pH range</title>
-      <link>https://doi.org/10.1016/j.cej.2025.161095</link>
-      <description>Senkai Han, Huiqin Yao, Jiayi Zhan, Chaonan Wang, Siqi Zhang, Qingyang Gu, Cheng Li, Shenghan Zhang, Hongliang Dong, Shulan Ma, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4408073073
-
-                No abstract</description>
-      <author>Senkai Han, Huiqin Yao, Jiayi Zhan, Chaonan Wang, Siqi Zhang, Qingyang Gu, Cheng Li, Shenghan Zhang, Hongliang Dong, Shulan Ma</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.161095</guid>
-    </item>
-    <item>
-      <title>Efficient and stable chlorine evolution reaction in a neutral environment using a low-ruthenium-doped CuMnRu/CC electrode</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.02.417</link>
-      <description>Yaoze Wang, Guangfei Qu, Yun Zhang, Linjin Li, Haiyan Wang, Ping Lu, Yuanchuan Ren, Minhua Cheng, Yingying Cai, Jun-Yan Li, International Journal of Hydrogen Energy. 112(None)] 2025. https://openalex.org/W4408080437
-
-                No abstract</description>
-      <author>Yaoze Wang, Guangfei Qu, Yun Zhang, Linjin Li, Haiyan Wang, Ping Lu, Yuanchuan Ren, Minhua Cheng, Yingying Cai, Jun-Yan Li</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.02.417</guid>
-    </item>
     <item>
       <title>Bulkier anions versus hydrogen bonding in imidazolium ionic liquids: Stationary point analysis</title>
       <link>https://doi.org/10.1016/j.comptc.2025.115169</link>
@@ -528,6 +508,136 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5167848</guid>
     </item>
     <item>
+      <title>Interfacial metal&#8211;coordinated bifunctional PtCo for practical fuel cells</title>
+      <link>https://doi.org/10.1126/sciadv.adt4914</link>
+      <description>Zhongliang Huang, Qi Xiao, Tianyi Ding, Jing Xia, Changhong Zhan, Xiangmin Meng, Chih&#8208;Wen Pao, Zhiwei Hu, Wei&#8208;Hsiang Huang, Y Wang, Nanjun Chen, Liang Cao, Xiaoqing Huang, Science Advances. 11(10)] 2025. https://openalex.org/W4408223155
+
+                Platinum (Pt) has been documented as the top-tier fuel cell catalyst, yet it faces a notable challenge regarding its poor CO tolerance and sluggish oxygen reduction reaction (ORR) in proton exchange membrane fuel cells (PEMFCs), particularly when using CO-contaminated blue and gray H 2 . Here, we present an interfacial metal coordination strategy to design a bifunctional platinum-cobalt (PtCo) intermetallic catalyst integrated with a tin-nitrogen-carbon (Sn&#8211;N&#8211;C) support, which forms Pt&#8211;Sn&#8211;N bonds that substantially boost both ORR activity and CO tolerance. The PtCo/Sn&#8211;N&#8211;C-made fuel cell achieves a topmost peak power density of 2.11 watts per square centimeter in 100 parts per million (ppm) of CO-containing H 2 , surpassing all previously reported PEMFCs. In addition, it operates stably at a rated voltage for over 710 hours in 100 ppm of CO/H 2 -air. This work demonstrates the feasibility of fuel cells directly using CO-contaminated gray &amp; blue H 2 , paving the way for PEMFC-driven energy vehicles.</description>
+      <author>Zhongliang Huang, Qi Xiao, Tianyi Ding, Jing Xia, Changhong Zhan, Xiangmin Meng, Chih&#8208;Wen Pao, Zhiwei Hu, Wei&#8208;Hsiang Huang, Y Wang, Nanjun Chen, Liang Cao, Xiaoqing Huang</author>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adt4914</guid>
+    </item>
+    <item>
+      <title>Coupling Dichroism in Strong-Coupled Chiral Molecule-Plasmon Nanoparticle System</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c00721</link>
+      <description>Nan Gao, Haoran Liu, Yurui Fang, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4408223641
+
+                No abstract</description>
+      <author>Nan Gao, Haoran Liu, Yurui Fang</author>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c00721</guid>
+    </item>
+    <item>
+      <title>Impacts of alkali and alkaline earth defects on the Electronic, magnetic properties and work function of 2H-CrS2</title>
+      <link>https://doi.org/10.1016/j.commatsci.2025.113822</link>
+      <description>Xuejiao Wang, Xintao Li, Longhua Li, Computational Materials Science. 253(None)] 2025. https://openalex.org/W4408225487
+
+                No abstract</description>
+      <author>Xuejiao Wang, Xintao Li, Longhua Li</author>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2025.113822</guid>
+    </item>
+    <item>
+      <title>A Simple Descriptor toward Optimizing Electrocatalytic N&lt;sub&gt;2&lt;/sub&gt; Oxidation to HNO&lt;sub&gt;3&lt;/sub&gt; Performance over Graphene-Based Single-Atom Catalysts</title>
+      <link>https://doi.org/10.1021/acs.jpclett.5c00234</link>
+      <description>Chuang Zhi, Shouyu Cai, Dengning Sun, Juan Yang, Zhongti Sun, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4408226563
+
+                Single-atom catalysts (SACs) exhibit tremendous advantages in the electrochemical N2 oxidation reaction (EN2OR) to HNO3, which is an eco-friendly alternative to the synthesis of conventional industrial nitric acid and nitrates, but methods to rationally design and rapidly screen high-efficiency EN2OR SACs are unclear. Herein, taking pyridinic nitrogen-doped graphene-supported SACs as an example, a simple descriptor has been proposed to evaluate the EN2OR performance through systematically constructing a surface reaction phase diagram. This descriptor is comprised of merely the geometric information and inherent atomic properties (occupied d electron number, electronegativity, and coordinate number) that can accurately predict the activity and selectivity of EN2OR, independent of DFT simulations. Based on this descriptor, high-throughput screening has been executed on partially N/C/O coordinated SACs, including 160 candidates; 13 candidates with the overpotential of less than 1.0 V are selected and then validated by DFT calculations with a mean absolute error (MAE) as low as 0.09 V, indicating the reliability of the descriptor. Meanwhile, the screened CoO2N2-G and RhO2N2-G SACs exhibit lower EN2OR overpotential of 0.64 and 0.68 V and more negative UL(EN2OR) - UL(OER) values of -0.34 and -0.44 V in comparison to other candidates, respectively, demonstrating the excellent activity and selectivity of EN2OR. This work offers a route to rapid discovery of high-performance SACs for EN2OR.</description>
+      <author>Chuang Zhi, Shouyu Cai, Dengning Sun, Juan Yang, Zhongti Sun</author>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c00234</guid>
+    </item>
+    <item>
+      <title>Quasi Fe MIL-53 nanozyme inducing ferroptosis and immunogenic cell death for cancer immunotherapy</title>
+      <link>https://doi.org/10.1038/s41467-025-57542-x</link>
+      <description>Zhaoxiong Yan, Yang Bai, Songtao Zhang, Lingyi Kong, Yu Wang, Han Sun, Yi Li, Lin Qiu, Ruijie Zhang, Pengju Jiang, Donghui Zhao, Zhongyan Chen, Yafei Li, Huan Pang, Jianhao Wang, Nature Communications. 16(1)] 2025. https://openalex.org/W4408229481
+
+                No abstract</description>
+      <author>Zhaoxiong Yan, Yang Bai, Songtao Zhang, Lingyi Kong, Yu Wang, Han Sun, Yi Li, Lin Qiu, Ruijie Zhang, Pengju Jiang, Donghui Zhao, Zhongyan Chen, Yafei Li, Huan Pang, Jianhao Wang</author>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-57542-x</guid>
+    </item>
+    <item>
+      <title>Data-efficient construction of high-fidelity graph deep learning interatomic potentials</title>
+      <link>https://doi.org/10.1038/s41524-025-01550-4</link>
+      <description>Tsz Wai Ko, Shyue Ping Ong, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4408231448
+
+                No abstract</description>
+      <author>Tsz Wai Ko, Shyue Ping Ong</author>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01550-4</guid>
+    </item>
+    <item>
+      <title>Coupled Differential Electrochemical Mass Spectrometry and Surface-Enhanced Infrared Absorption Spectroscopic Studies Unravel the Mechanism of Nitric Oxide Electroreduction on Platinum</title>
+      <link>https://doi.org/10.1021/jacs.4c16057</link>
+      <description>Hongsen Wang, H&#232;ctor D. Abru&#241;a, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4408231674
+
+                The nitric oxide electroreduction reaction (NORR) has received considerable attention due to its importance in electrochemical denitrification of nitrogen oxides in groundwater and industrial waste gases and electrochemical ammonia synthesis. However, the detailed mechanism and the factors that affect product selectivity are far less understood. Employing coupled differential electrochemical mass spectrometry (DEMS) and attenuated total reflection-surface-enhanced infrared absorption (ATR-SEIRA) spectroscopy, adsorbed species and volatile solution products, during the adsorption of NO and NORR on Pt in both alkaline and acidic media, have been simultaneously studied, enabling us to correlate the potential-dependent product selectivity with the surface ad-species. NOad,M, NOad,B, NOad,L, and NO2,ad were identified using SEIRA spectroscopy as surface ad-species, with their potential-dependent intensities having a strong correlation with the product selectivity. N2O is the only reduction product at potentials beyond the hydrogen region and is attributed to the reduction of weakly adsorbed NO. In contrast, the formation of NH3 and NH2OH occurs only in the hydrogen region and is ascribed to the reaction between strongly adsorbed NO and adsorbed H. N2 is a minor product, and is formed through further reduction of N2O by adsorbed H. The formation of N2 is significantly suppressed in acidic media due to the fast kinetics of NO reduction to NH3/NH2OH, and thus lowering of NO coverage in the hydrogen region. To achieve the selective reduction of NO to NH3/NH2OH, the potential should remain at 0.1-0.2 V (vs RHE) in both acidic and alkaline media while a slow NO supply, and acidic media are preferred over alkaline media due to the faster kinetics. These new spectroscopic results and insights about the NORR could advance the design of more effective NORR catalysts and help develop optimal conditions for selective ammonia synthesis.</description>
+      <author>Hongsen Wang, H&#232;ctor D. Abru&#241;a</author>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c16057</guid>
+    </item>
+    <item>
+      <title>Strain Engineering the Optoelectronic and HER Behavior of MoS&lt;sub&gt;2&lt;/sub&gt;/ZnO Heterojunction: A DFT Investigation</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c03605</link>
+      <description>Jian Yang, LI Xiao-wen, Yu Yang, Ruifen Dou, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4408236348
+
+                The rational design of heterojunctions by coupling two or more two-dimensional (2D) materials is regarded as a feasible strategy to efficiently enhance photocatalytic-hydrogen performance by capturing solar energy to address the increasing global energy crisis. In this work, a functional MoS2/ZnO heterojunction is proposed based on first-principles simulation. Our results reveal that the photogenerated electrons and holes in the MoS2/ZnO heterojunction follow a specific Z-scheme pathway, highly facilitating redox reactions and optimizing optical properties in the visible-light region. Under external strain, the MoS2/ZnO heterojunction demonstrates improved HER performance and remarkable optical-harvesting capabilities. Interestingly, the HER free energy for the heterojunction is only -0.04 eV under -5% compressive strain, highlighting its promising potential for photocatalytic hydrogen production. We observe that the absorption edge of the spectrum shifts gradually to the infrared region with increasing tensile biaxial strains, whereas compressive biaxial strains result in a blue-shift absorption spectrum. Additionally, all heterojunctions achieve excellent solar-to-hydrogen (STH) efficiencies exceeding 10%, demonstrating their capability to store sufficient solar energy. Our work offers a novel strategy for exploring highly efficient photocatalysts in the field of hydrogen energy with the ability to modulate their activity through external strain.</description>
+      <author>Jian Yang, LI Xiao-wen, Yu Yang, Ruifen Dou</author>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c03605</guid>
+    </item>
+    <item>
+      <title>Self-defined monolayers, bilayers and trilayers of two-dimensional Janus MoSSe and Ga2SSe van der Waals homojunctions as potential photocatalysts for overall water splitting</title>
+      <link>https://doi.org/10.1016/j.renene.2025.122829</link>
+      <description>Fan Yang, Marie&#8208;Christine Record, Pascal Boulet, Renewable Energy. None(None)] 2025. https://openalex.org/W4408236886
+
+                No abstract</description>
+      <author>Fan Yang, Marie&#8208;Christine Record, Pascal Boulet</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.renene.2025.122829</guid>
+    </item>
+    <item>
+      <title>Origin and scarcity of breathing pyrochlore lattices in spinel oxides</title>
+      <link>https://doi.org/10.1103/physrevmaterials.9.033602</link>
+      <description>Valentina Mazzotti, Solveig S. Aamlid, Abraham A. Mancilla, Janna Machts, Megan Rutherford, J&#246;rg Rottler, Kenji Kojima, Alannah M. Hallas, Physical Review Materials. 9(3)] 2025. https://openalex.org/W4408241532
+
+                No abstract</description>
+      <author>Valentina Mazzotti, Solveig S. Aamlid, Abraham A. Mancilla, Janna Machts, Megan Rutherford, J&#246;rg Rottler, Kenji Kojima, Alannah M. Hallas</author>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.9.033602</guid>
+    </item>
+    <item>
+      <title>The QCML dataset, Quantum chemistry reference data from 33.5M DFT and 14.7B semi-empirical calculations</title>
+      <link>https://doi.org/10.1038/s41597-025-04720-7</link>
+      <description>Stefan Ganscha, Oliver T. Unke, Daniel Ahlin, Hartmut Maennel, Sergii Kashubin, Klaus&#8208;Robert Mueller, Scientific Data. 12(1)] 2025. https://openalex.org/W4408246939
+
+                No abstract</description>
+      <author>Stefan Ganscha, Oliver T. Unke, Daniel Ahlin, Hartmut Maennel, Sergii Kashubin, Klaus&#8208;Robert Mueller</author>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41597-025-04720-7</guid>
+    </item>
+    <item>
+      <title>Theoretical investigation to explore PdSnSe2-n/PdPSe (n = 0, 1, 2) heterostructures as advanced photocatalysts for water splitting applications</title>
+      <link>https://doi.org/10.1016/j.apsusc.2025.162899</link>
+      <description>Jia-Yi Lin, Chia&#8208;Ying Wu, Chen&#8208;Hao Yeh, Applied Surface Science. None(None)] 2025. https://openalex.org/W4408248170
+
+                No abstract</description>
+      <author>Jia-Yi Lin, Chia&#8208;Ying Wu, Chen&#8208;Hao Yeh</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.162899</guid>
+    </item>
+    <item>
+      <title>Unlocking the catalytic performance of rare earth single atom catalysts for electrochemical nitrogen reduction reaction</title>
+      <link>https://doi.org/10.1016/j.colsurfa.2025.136591</link>
+      <description>Yongmao Hu, Ruochen Zhu, Xinyuan Yang, Haoyu Wang, Chunyi Lv, Xiaolong Zhou, Yanan Yu, Riming Hu, Shengqiang Zhang, Colloids and Surfaces A Physicochemical and Engineering Aspects. None(None)] 2025. https://openalex.org/W4408252177
+
+                No abstract</description>
+      <author>Yongmao Hu, Ruochen Zhu, Xinyuan Yang, Haoyu Wang, Chunyi Lv, Xiaolong Zhou, Yanan Yu, Riming Hu, Shengqiang Zhang</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2025.136591</guid>
+    </item>
+    <item>
       <title>Application of Machine Learning Interatomic Potentials in Heterogeneous Catalysis</title>
       <link>https://doi.org/10.2139/ssrn.5168152</link>
       <description>Gbolagade Olajide, Khagendra Baral, Sophia Ezendu, Ademola Soyemi, Tibor Szilv&#225;si, No host. None(None)] 2025. https://openalex.org/W4408190752
@@ -556,6 +666,16 @@
       <author>Orkhan Abdullayev, Diego Garay&#8208;Ruiz, Berta Bori-Bru, Carles B&#243;</author>
       <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c00348</guid>
+    </item>
+    <item>
+      <title>Inferring the cross-sectional area profile of an unseen solid in a draining tank from liquid level dynamics</title>
+      <link>https://doi.org/10.1016/j.ces.2025.121488</link>
+      <description>Gbenga Fabusola, Cory M. Simon, Chemical Engineering Science. None(None)] 2025. https://openalex.org/W4408240913
+
+                No abstract</description>
+      <author>Gbenga Fabusola, Cory M. Simon</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2025.121488</guid>
     </item>
   </channel>
 </rss>
