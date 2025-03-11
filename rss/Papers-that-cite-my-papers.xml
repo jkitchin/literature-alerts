@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 10 Mar 2025 01:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 01:25:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Bulkier anions versus hydrogen bonding in imidazolium ionic liquids: Stationary point analysis</title>
-      <link>https://doi.org/10.1016/j.comptc.2025.115169</link>
-      <description>Vitaly V. Chaban, Computational and Theoretical Chemistry. None(None)] 2025. https://openalex.org/W4408082840
-
-                No abstract</description>
-      <author>Vitaly V. Chaban</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2025.115169</guid>
-    </item>
-    <item>
-      <title>Standards for Meaningful Evaluations of Machine Learning Interatomic Potentials Software</title>
-      <link>https://doi.org/10.1007/978-3-031-80748-0_95</link>
-      <description>Rika Kobayashi, Emily Kahl, Roger D. Amos, &#152;The &#156;minerals, metals &amp; materials series. None(None)] 2025. https://openalex.org/W4408085155
-
-                No abstract</description>
-      <author>Rika Kobayashi, Emily Kahl, Roger D. Amos</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-80748-0_95</guid>
-    </item>
-    <item>
-      <title>Machine Learning for the Efficient Identification of High-Performance Metal-Doped Transition Metal Compounds for Hydrogen Evolution Catalysis</title>
-      <link>https://doi.org/10.1007/978-3-031-80748-0_62</link>
-      <description>Xue Lu, Jie Dang, &#152;The &#156;minerals, metals &amp; materials series. None(None)] 2025. https://openalex.org/W4408085228
-
-                No abstract</description>
-      <author>Xue Lu, Jie Dang</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-80748-0_62</guid>
-    </item>
-    <item>
-      <title>Integration of interface engineering and La doping to boost two-electron oxygen reduction to hydrogen peroxide over La2Sn2O7@La-doped ZnSnO3 heterostructures</title>
-      <link>https://doi.org/10.1007/s12598-024-03224-4</link>
-      <description>Yanyan Sun, Kun Li, Muhammad Arif, Lei Han, Amjad Nisar, Ting Zhu, Rare Metals. None(None)] 2025. https://openalex.org/W4408087501
-
-                No abstract</description>
-      <author>Yanyan Sun, Kun Li, Muhammad Arif, Lei Han, Amjad Nisar, Ting Zhu</author>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12598-024-03224-4</guid>
-    </item>
-    <item>
-      <title>Silver-Doped Porous Copper Catalysts for Efficient Resource Utilization of CO-Containing Flue Gases</title>
-      <link>https://doi.org/10.1021/acsenvironau.4c00121</link>
-      <description>Zhengkai Zhuang, Guangtao Wang, Wen Zhao, Ruixin Yang, Yilin Zhou, Wenlei Zhu, ACS Environmental Au. None(None)] 2025. https://openalex.org/W4408092996
-
-                No abstract</description>
-      <author>Zhengkai Zhuang, Guangtao Wang, Wen Zhao, Ruixin Yang, Yilin Zhou, Wenlei Zhu</author>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsenvironau.4c00121</guid>
-    </item>
     <item>
       <title>N, S Coordination in Co Single Atom Catalyst Promoting Co2rr Towards Hcooh at Negative Potentials</title>
       <link>https://doi.org/10.2139/ssrn.5163414</link>
@@ -636,6 +586,16 @@
       <author>Yongmao Hu, Ruochen Zhu, Xinyuan Yang, Haoyu Wang, Chunyi Lv, Xiaolong Zhou, Yanan Yu, Riming Hu, Shengqiang Zhang</author>
       <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2025.136591</guid>
+    </item>
+    <item>
+      <title>Composition tuning and heterostructure construction of Fe-doped Co-Ni hydroxide nanosheets for boosting oxygen electrocatalysis in rechargeable Zn-air batteries</title>
+      <link>https://doi.org/10.1016/j.cej.2025.161248</link>
+      <description>Zihan Zhang, Zhicheng Zheng, Nattapol Ma, Emmanuel Picheau, Nobuyuki Sakai, Yoshiyuki Sugahara, Takayoshi Sasaki, Renzhi Ma, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4408258101
+
+                No abstract</description>
+      <author>Zihan Zhang, Zhicheng Zheng, Nattapol Ma, Emmanuel Picheau, Nobuyuki Sakai, Yoshiyuki Sugahara, Takayoshi Sasaki, Renzhi Ma</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.161248</guid>
     </item>
     <item>
       <title>Application of Machine Learning Interatomic Potentials in Heterogeneous Catalysis</title>
