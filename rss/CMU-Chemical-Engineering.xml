@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 11 Mar 2025 01:24:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 01:23:48 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,36 @@
       <author>Cheick Dosso, H&#233;ctor Pedrozo, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
       <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2527339</guid>
+    </item>
+    <item>
+      <title>Supplementary material to "Biomass Burning Aerosol Radiative Effects in the Southeast Atlantic Depend Strongly on Meteorological Forcing Method"</title>
+      <link>https://doi.org/10.5194/egusphere-2025-511-supplement</link>
+      <description>Eric Giuffrida, KATE JOHNSON, Tyler Tatro, Paquita Zuidema, Hamish Gordon, No host. None(None)] 2025. https://openalex.org/W4408275898
+
+                No abstract</description>
+      <author>Eric Giuffrida, KATE JOHNSON, Tyler Tatro, Paquita Zuidema, Hamish Gordon</author>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2025-511-supplement</guid>
+    </item>
+    <item>
+      <title>Biomass Burning Aerosol Radiative Effects in the Southeast Atlantic Depend Strongly on Meteorological Forcing Method</title>
+      <link>https://doi.org/10.5194/egusphere-2025-511</link>
+      <description>Eric Giuffrida, KATE JOHNSON, Tyler Tatro, Paquita Zuidema, Hamish Gordon, No host. None(None)] 2025. https://openalex.org/W4408275910
+
+                Abstract. Smoke aerosols (BBA) from African fires may strongly impact Earth&#8217;s radiation budget in the southeast Atlantic (SEA), but the sign and magnitude of the overall radiative effect (RE) remains uncertain. Aerosol-climate models are needed to separately quantify direct, indirect, and semi-direct REs. Here we evaluate improved simulations with the UK Met Office&#8217;s Unified Model and with them explore how REs depend on the method used to match observed meteorology (nudging or running forecasts reinitialized at different frequencies). REs are calculated as differences in radiative fluxes between simulations with and without smoke emissions, and with and without aerosol absorption. All model setups agree on net warming for the SEA dominated by the direct effect. Simulated smoke, clouds, and the direct effect agree better with observations than previous studies using the same model, though biases in aerosol extinction and liquid water path remain. Changes in cloud droplet number concentration due to BBA self-lofting influence how cleanly we can separate cloud effects into semi-direct and indirect effects. Total RE, which remains unaffected, ranges from +3.0 to +7.9 W m&#8722;2. The 4.9 W m&#8722;2 spread arises mainly from simulated semi-direct effects. Forecasts three days long or less probably do not allow time for plausible differences in boundary layer properties due to semi-direct effects to accumulate. Free running simulations with and without smoke accumulate differences in meteorology that are likely spurious &#8216;butterfly effects&#8217;. We recommend future research quantifying BBA REs over weeks to months use meteorological forcing techniques that allow aerosol absorption to affect the boundary layer.</description>
+      <author>Eric Giuffrida, KATE JOHNSON, Tyler Tatro, Paquita Zuidema, Hamish Gordon</author>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2025-511</guid>
+    </item>
+    <item>
+      <title>Anthropogenic organic aerosol in Europe produced mainly through second-generation oxidation</title>
+      <link>https://doi.org/10.1038/s41561-025-01645-z</link>
+      <description>Mao Xiao, Mingyi Wang, Bernhard Mentler, Olga Garm&#1072;sh, Houssni Lamkaddam, Ugo Molteni, Mario Simon, Lauri Ahonen, A. Amorim, Andrea Baccarini, Paulus S. Bauer, Dexian Chen, Randall Chiu, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Lukas Fischer, Xu&#8208;Cheng He, Martin Heinritzi, Victoria Hofbauer, Changhyuk Kim, Andreas K&#252;rten, &#1040;. &#1053;. &#1050;&#1074;&#1072;&#1096;&#1085;&#1080;&#1085;, Katrianne Lehtipalo, Yuliang Liu, Huajun Mai, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Serge Mathot, Roy L. Mauldin, Antti Onnela, Tuukka Pet&#228;j&#228;, Lauriane L. J. Qu&#233;l&#233;ver, Matti Rissanen, Simone Schuchmann, Mikko Sipil&#228;, Dominik Stolzenburg, Yuri Stozhkov, Christian Tauber, Ant&#243;nio Tom&#233;, Robert Wagner, Chao Yan, Boxing Yang, Penglin Ye, Qiaozhi Zha, Joachim Curtius, Armin Hansel, J. Kirkby, Markku Kulmala, Rainer Volkamer, Paul M. Winkler, Douglas R. Worsnop, Wei Nie, Neil M. Donahue, C. R. Hoyle, Jianhui Jiang, Urs Baltensperger, Josef Dommen, Imad El Haddad, Nature Geoscience. None(None)] 2025. https://openalex.org/W4408275956
+
+                No abstract</description>
+      <author>Mao Xiao, Mingyi Wang, Bernhard Mentler, Olga Garm&#1072;sh, Houssni Lamkaddam, Ugo Molteni, Mario Simon, Lauri Ahonen, A. Amorim, Andrea Baccarini, Paulus S. Bauer, Dexian Chen, Randall Chiu, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Lukas Fischer, Xu&#8208;Cheng He, Martin Heinritzi, Victoria Hofbauer, Changhyuk Kim, Andreas K&#252;rten, &#1040;. &#1053;. &#1050;&#1074;&#1072;&#1096;&#1085;&#1080;&#1085;, Katrianne Lehtipalo, Yuliang Liu, Huajun Mai, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Serge Mathot, Roy L. Mauldin, Antti Onnela, Tuukka Pet&#228;j&#228;, Lauriane L. J. Qu&#233;l&#233;ver, Matti Rissanen, Simone Schuchmann, Mikko Sipil&#228;, Dominik Stolzenburg, Yuri Stozhkov, Christian Tauber, Ant&#243;nio Tom&#233;, Robert Wagner, Chao Yan, Boxing Yang, Penglin Ye, Qiaozhi Zha, Joachim Curtius, Armin Hansel, J. Kirkby, Markku Kulmala, Rainer Volkamer, Paul M. Winkler, Douglas R. Worsnop, Wei Nie, Neil M. Donahue, C. R. Hoyle, Jianhui Jiang, Urs Baltensperger, Josef Dommen, Imad El Haddad</author>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41561-025-01645-z</guid>
     </item>
   </channel>
 </rss>
