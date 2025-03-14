@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 13 Mar 2025 01:25:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 01:23:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -330,10 +330,10 @@
     <item>
       <title>Water Nucleation via Transient Bonds to Oxygen-Functionalized Graphite</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c08614</link>
-      <description>Frederik Doktor S. Simonsen, Niels M. Mikkelsen, Signe Kyrkjeb&#248;, Prashant Srivastava, Richard Balog, Bj&#248;rk Hammer, Karina Morgenstern, Liv Hornek&#230;r, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4408273073
+      <description>Frederik Doktor S. Simonsen, Niels M. Mikkelsen, Signe Kyrkjebo&#823;, Prashant Srivastava, Richard Balog, Bj&#248;rk Hammer, Karina Morgenstern, Liv Hornek&#230;r, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4408273073
 
                 No abstract</description>
-      <author>Frederik Doktor S. Simonsen, Niels M. Mikkelsen, Signe Kyrkjeb&#248;, Prashant Srivastava, Richard Balog, Bj&#248;rk Hammer, Karina Morgenstern, Liv Hornek&#230;r</author>
+      <author>Frederik Doktor S. Simonsen, Niels M. Mikkelsen, Signe Kyrkjebo&#823;, Prashant Srivastava, Richard Balog, Bj&#248;rk Hammer, Karina Morgenstern, Liv Hornek&#230;r</author>
       <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c08614</guid>
     </item>
@@ -408,11 +408,21 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.5c00728</guid>
     </item>
     <item>
+      <title>Ru&#8208;Doped Fe&#8322;TiO&#8325; as a High&#8208;Performance Electrocatalyst for Urea&#8208;Assisted Water Splitting</title>
+      <link>https://doi.org/10.1002/smll.202412370</link>
+      <description>Kassa Belay Ibrahim, Karim Harrath, Mohammad Hamrang, Matteo Bordin, St&#233;phanie Bruy&#232;re, David Horwat, Enrique Rodr&#305;&#769;guez-Castell&#243;n, Marshet Getaye Sendeku, Pratik V. Shinde, Danilo Oliveira de Souza, Luca Olivi, Alberto Vomiero, Elisa Moretti, Tofik Ahmed Shifa, Small. None(None)] 2025. https://openalex.org/W4408301701
+
+                The urea oxidation reaction (UOR), with its low thermodynamic potential, offers a promising alternative to the oxygen evolution reaction (OER) for efficient hydrogen production. However, its sluggish kinetics still demand the development of an efficient electrocatalyst. In this study, the critical role of Ru doping in Fe&#8322;TiO&#8325; is demonstrated to accelerate UOR kinetics. The computational finding confirmed the feasibility of this approach, guiding the experimental synthesis of Fe2-xRuxTiO5. Benefitting from surface properties and electronic structure, the synthesized material exhibits superior performance with a potential of 1.30 V at a current density of 10 mA cm-2 for UOR, compared to undoped Fe2TiO5 (1.40 V). Moreover, it demonstrates a favourable Tafel slope of 52 mV dec-1 and maintains robust durability for 72 h. As confirmed from experimental and computational findings, the enhanced activity can be attributed to the Ru doping resulting in structural distortion at the Fe site and creation of a favourable adsorption site thereby enhancing UOR via dual active center. This study not only broadens the potential applications of Fe2TiO5-based materials beyond their traditional role as photocatalysts but also establishes them as promising electrocatalysts underscoring the versatility and improved performance of Fe2-xRuxTiO5.</description>
+      <author>Kassa Belay Ibrahim, Karim Harrath, Mohammad Hamrang, Matteo Bordin, St&#233;phanie Bruy&#232;re, David Horwat, Enrique Rodr&#305;&#769;guez-Castell&#243;n, Marshet Getaye Sendeku, Pratik V. Shinde, Danilo Oliveira de Souza, Luca Olivi, Alberto Vomiero, Elisa Moretti, Tofik Ahmed Shifa</author>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202412370</guid>
+    </item>
+    <item>
       <title>Engineering TM&#8211;N&lt;sub&gt;2&lt;/sub&gt;@C&lt;sub&gt;15&lt;/sub&gt;N&lt;sub&gt;5&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;H&lt;sub&gt;5&lt;/sub&gt;-Based Covalent-Organic Frameworks for Enhanced Water-Splitting and Oxygen Reduction Reactions: A Constant Potential and Feature Coevaluation Approach</title>
       <link>https://doi.org/10.1021/acs.langmuir.4c05368</link>
       <description>Yajuan Feng, Xihang Zhang, Renxian Qin, Qingjun Zhou, Yu-Ling Song, Qiang Zhang, Chunping Hou, Zhenjin Li, Langmuir. None(None)] 2025. https://openalex.org/W4408301839
 
-                No abstract</description>
+                The development of highly active metal-based single-atom catalysts (SACs) is crucial for energy conversion and storage, offering optimized atom utilization and high catalytic activity, with bifunctional SACs for hydrogen evolution (HER) and oxygen evolution/reduction (OER/ORR) reactions providing greater efficiency and cost-effectiveness than monofunctional catalysts, making them scientifically and economically valuable. By integrating density functional theory and machine learning methods, we systematically evaluated the potential of TM&#8211;N2@C15N5S3H5 monolayers as efficient HER/OER/ORR catalysts, revealing that 27 TM atoms remain stable on N2@C15N5S3H5 with a TM&#8211;N2 coordination environment. Rh&#8211;N2@C15N5S3H5 outperforms Pt in HER, while Rh&#8211;N2@C15N5S3H5 drives both HER and OER, while Ni&#8211;N2@C15N5S3H5 catalyzes OER and ORR, making them bifunctional catalysts. Comparative activity analysis reveals that the Ni-d orbitals in Ni&#8211;N2@C15N5S3H5 interact with O-p orbitals, pairing up electrons from antibonding states into downward bonding orbitals, thus fitting OH* adsorption and enhancing catalytic performance. We further examined the pH and applied potential effects on OER/ORR performance of Ni&#8211;N2@C15N5S3H5 and Rh&#8211;N2@C15N5S3H5 monolayers, both show enhanced OER in acidic conditions, with Ni&#8211;N2@C15N5S3H5 excelling in ORR under alkaline conditions and Rh&#8211;N2@C15N5S3H5 in acidic conditions. Moreover, machine learning techniques were applied to explore the correlation between catalytic activity and a range of structural and atomic properties.</description>
       <author>Yajuan Feng, Xihang Zhang, Renxian Qin, Qingjun Zhou, Yu-Ling Song, Qiang Zhang, Chunping Hou, Zhenjin Li</author>
       <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c05368</guid>
@@ -432,7 +442,7 @@
       <link>https://doi.org/10.1038/s41467-025-57197-8</link>
       <description>Honghu Li, Chuanqi Pan, Xiyan Peng, Biluan Zhang, Siyi Song, Ze Xu, Xiaofeng Qiu, Yun-Long Liu, Jinlong Wang, Yanbing Guo, Nature Communications. 16(1)] 2025. https://openalex.org/W4408305564
 
-                No abstract</description>
+                Abstract Developing efficient and sustainable carbon sorbent for mercury vapor (Hg 0 ) capture is significant to public health and ecosystem protection. Here we show a carbon material, namely graphdiyne with accessible sp -hybridized carbons (HsGDY), that can serve as an effective &#8220;trap&#8221; to anchor Hg atoms by strong electron-metal-support interaction, leading to the in-situ adsorption-coupled-oxidation of Hg. The adsorption process is benefited from the large hexagonal pore structure of HsGDY. The oxidation process is driven by the surface charge heterogeneity of HsGDY which can itself induce the adsorbed Hg atoms to lose electrons and present a partially oxidized state. Its good adaptability and excellent regeneration performance greatly broaden the applicability of HsGDY in diverse scenarios such as flue gas treatment and mercury-related personal protection. Our work demonstrates a sp -hybridized carbon material for mercury vapor capture which could contribute to sustainability of mercury pollution industries and provide guide for functional carbon material design.</description>
       <author>Honghu Li, Chuanqi Pan, Xiyan Peng, Biluan Zhang, Siyi Song, Ze Xu, Xiaofeng Qiu, Yun-Long Liu, Jinlong Wang, Yanbing Guo</author>
       <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-57197-8</guid>
@@ -476,6 +486,146 @@
       <author>Zi Qi Chen, Aldrich Ngan, Christopher T. Chan, Jaeha Lee, David Dwi Sanjaya, Frank Gu</author>
       <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/solr.202400804</guid>
+    </item>
+    <item>
+      <title>Designing Superatomic (Li/Na/K)-Al-Sc Cluster Catalysts for Selective Electrochemical HER and NRR</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c08178</link>
+      <description>Ritika Saroha, Shweta Choudhary, R. Brahma, Swastika Banerjee, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4408312144
+
+                No abstract</description>
+      <author>Ritika Saroha, Shweta Choudhary, R. Brahma, Swastika Banerjee</author>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c08178</guid>
+    </item>
+    <item>
+      <title>B modulating MXene/Graphene heterojunction catalyst for highly efficient NO electrochemical synthesis of ammonia</title>
+      <link>https://doi.org/10.1016/j.fuel.2025.135055</link>
+      <description>Fengjuan Guo, Junwei Ma, Xiaoyan Deng, Hongtao Gao, Fuel. 393(None)] 2025. https://openalex.org/W4408313118
+
+                No abstract</description>
+      <author>Fengjuan Guo, Junwei Ma, Xiaoyan Deng, Hongtao Gao</author>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.135055</guid>
+    </item>
+    <item>
+      <title>Bifunctional Pt/TiO2-Ov catalysts for enhanced electron transfer and CO tolerance in acidic HOR and ORR</title>
+      <link>https://doi.org/10.1007/s11708-025-0990-8</link>
+      <description>Bianyong Lian, Jinghong Chen, Lingfei Li, Shu&#8208;Qi Deng, Kaili Wang, Wei Yan, Jiujun Zhang, Frontiers in Energy. None(None)] 2025. https://openalex.org/W4408315636
+
+                No abstract</description>
+      <author>Bianyong Lian, Jinghong Chen, Lingfei Li, Shu&#8208;Qi Deng, Kaili Wang, Wei Yan, Jiujun Zhang</author>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11708-025-0990-8</guid>
+    </item>
+    <item>
+      <title>Surface state of NiOOH under oxidative conditions: Can dopants induce surface oxidation?</title>
+      <link>https://doi.org/10.1016/j.electacta.2025.145960</link>
+      <description>Laureline Treps, Tony Ermacora, A. Giacomelli, Carine Michel, Stephan N. Steinmann, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4408318897
+
+                No abstract</description>
+      <author>Laureline Treps, Tony Ermacora, A. Giacomelli, Carine Michel, Stephan N. Steinmann</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.145960</guid>
+    </item>
+    <item>
+      <title>Ruthenium-cobalt alloy nanoparticles uniformly dispersed on carbon nanotube films for high-performance electrocatalytic hydrogen evolution</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.137309</link>
+      <description>Weixue Meng, Rui Pang, Ding Zhang, Junge Yuan, Lei Lu, Yuanyuan Shang, Yingjiu Zhang, Anyuan Cao, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4408318929
+
+                No abstract</description>
+      <author>Weixue Meng, Rui Pang, Ding Zhang, Junge Yuan, Lei Lu, Yuanyuan Shang, Yingjiu Zhang, Anyuan Cao</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137309</guid>
+    </item>
+    <item>
+      <title>Metal Nitride Catalysts for Photoelectrochemical and Electrochemical Catalysis</title>
+      <link>https://doi.org/10.1002/exp.20240013</link>
+      <description>Hee Ryeong Kwon, Jin Wook Yang, Ho Won Jang, Exploration. None(None)] 2025. https://openalex.org/W4408321147
+
+                ABSTRACT Metal nitrides have emerged as promising materials for photoelectrochemical and electrochemical catalysis due to their unique electronic properties and structural versatility, offering high electrical conductivity and abundant active sites for catalytic reactions. Herein, we comprehensively explore the characteristics, synthesis, and application of diverse metal nitride catalysts. Fundamental features and catalytic advantages of metal nitrides are presented in terms of electronic structure and surface chemistry. We deal with synthetic principles and parameters of metal nitride catalysts in terms of nitrogen source, introducing synthesis strategies of metal nitrides with various morphologies and phases. Recent progress of metal nitride catalysts in (photo)electrochemical reactions, such as hydrogen evolution, oxygen evolution, oxygen reduction, nitrogen reduction, carbon dioxide reduction, and biomass valorization reactions, is discussed with their tailored roles. By providing future direction for remaining challenges, this review aims to guide the design of metal nitride catalysts from a materials point of view, contributing to expanding into energy and environmental technologies.</description>
+      <author>Hee Ryeong Kwon, Jin Wook Yang, Ho Won Jang</author>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/exp.20240013</guid>
+    </item>
+    <item>
+      <title>Efficient Cu&#8211;Ni/W&lt;sub&gt;20&lt;/sub&gt;O&lt;sub&gt;58&lt;/sub&gt; Catalysts for Hydrogenation of Nitriles to Secondary Amines</title>
+      <link>https://doi.org/10.1021/acscatal.5c00668</link>
+      <description>Jia&#8208;qi Bai, Mei Ma, Huangfei Liu, Zhangkai Qian, Da-Yan Liu, Yuncai Zhao, Yijing Gao, Jingshuai Chen, Mengdie Cai, Song Sun, ACS Catalysis. None(None)] 2025. https://openalex.org/W4408323578
+
+                No abstract</description>
+      <author>Jia&#8208;qi Bai, Mei Ma, Huangfei Liu, Zhangkai Qian, Da-Yan Liu, Yuncai Zhao, Yijing Gao, Jingshuai Chen, Mengdie Cai, Song Sun</author>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c00668</guid>
+    </item>
+    <item>
+      <title>Alkaline hydrogen oxidation reaction on nickel-based non-noble metal electrocatalysts</title>
+      <link>https://doi.org/10.1016/j.esci.2025.100400</link>
+      <description>Lulu An, Tonghui Zhao, Wen Lei, Chang Yang, Junhao Yang, Deli Wang, eScience. None(None)] 2025. https://openalex.org/W4408326706
+
+                No abstract</description>
+      <author>Lulu An, Tonghui Zhao, Wen Lei, Chang Yang, Junhao Yang, Deli Wang</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.esci.2025.100400</guid>
+    </item>
+    <item>
+      <title>Ball milling-induced strain engineering in nanoporous catalysts for tailoring hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.cej.2025.161491</link>
+      <description>Qite Li, Wence Xu, Zhonghui Gao, Yanqin Liang, Hui Jiang, Zhaoyang Li, Zhenduo Cui, Heng Liu, Shengli Zhu, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4408328104
+
+                No abstract</description>
+      <author>Qite Li, Wence Xu, Zhonghui Gao, Yanqin Liang, Hui Jiang, Zhaoyang Li, Zhenduo Cui, Heng Liu, Shengli Zhu</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.161491</guid>
+    </item>
+    <item>
+      <title>Synthesis of Pt Carbon Aerogel Electrocatalysts with Multiscale Porosity Derived from Cellulose and Chitosan Biopolymer Aerogels via Supercritical Deposition for Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/aesr.202400433</link>
+      <description>Ala Abdulalem Abdo Moqbel Alsuhile, Philip Sidney Pein, &#350;ansim Bengisu Bar&#305;m, Selmi Erim Bozba&#287;, &#1048;&#1088;&#1080;&#1085;&#1072; &#1057;&#1084;&#1080;&#1088;&#1085;&#1086;&#1074;&#1072;, Can Erkey, Baldur Schroeter, Advanced Energy and Sustainability Research. None(None)] 2025. https://openalex.org/W4408333127
+
+                The aim of this study is to investigate the activity and stability of carbon aerogel&#8208;supported platinum electrocatalysts in the hydrogen evolution reaction, compared to current solutions based on carbon black. Self&#8208;synthesized carbon aerogels (pyrolyzed cellulose, and chitosan&#8208;based aerogels) with multiscale porosity and high overall specific surface area (up to &#8776;2500 m 2 g &#8722;1 ), as well as Vulcan XC&#8208;72R supports were loaded via supercritical deposition (SCD) with platinum nanoparticles (mean particle diameter &#8776;1.3&#8211;2.0 nm, 2.8&#8211;3.8 wt% Pt loading). Overpotentials ranged from 46.5 to 50.0 mV at 10 mA cm &#8722;2 , whereas self&#8208;synthesized electrocatalysts had similar overpotentials as compared to a commercial catalyst with &#8776;8&#8211;10 times higher Pt loading. In addition, Pt&#8208;carbon aerogel electrocatalysts had higher stability and durability as compared to Pt&#8208;Vulcan, most probably due to the high micro&#8208; to mesoporosity of carbon aerogels, which promotes nanoparticle stability. The current density at 40 mV for Pt&#8208;Vulcan decreased by 80% after 20 h, whereas an insignificant drop was observed for Pt&#8208;carbon aerogels. These results show that the applied combination of materials (biopolymer&#8208;based carbon aerogels) and loading method (SCD) are a promising approach for synthesizing stable electrocatalysts with reduced platinum content for green hydrogen production.</description>
+      <author>Ala Abdulalem Abdo Moqbel Alsuhile, Philip Sidney Pein, &#350;ansim Bengisu Bar&#305;m, Selmi Erim Bozba&#287;, &#1048;&#1088;&#1080;&#1085;&#1072; &#1057;&#1084;&#1080;&#1088;&#1085;&#1086;&#1074;&#1072;, Can Erkey, Baldur Schroeter</author>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aesr.202400433</guid>
+    </item>
+    <item>
+      <title>Recommendation System to Predict the d&#8208;band Center of Core&#8208;Shell Bimetallic Nanoparticles Catalysts</title>
+      <link>https://doi.org/10.1002/adts.202401460</link>
+      <description>Sakshi Agarwal, Abhishek K. Singh, Advanced Theory and Simulations. None(None)] 2025. https://openalex.org/W4408343076
+
+                Abstract Core&#8208;shell nanoparticles are an important class of catalytic materials due to the presence of unsaturated bonds, phase&#8208;separated metals, and synergistic effect of more than one elements. Exploring the electronic properties such as the &#8208;band center () and the related catalytic properties of these materials are quite challenging due to resource consuming experiments and computationally expensive modeling of the nanoparticles. Therefore, a density functional theory (DFT) coupled recommendation system based approach is developed to predict the of the core&#8208;shell nanoparticles. Here, the recommendation system involves completion of a core&#8208;shell interaction matrix, where each matrix element represents the of a unique core&#8208;shell pair. Matrix completion by predicting the interaction matrix elements is carried out using neural network. The neural network generated a low dimensional representations for each core and shell metals, which are learned iteratively to predict corresponding of the pair. The learned representations brilliantly captures the similarities and dissimilarities between metals present in shell or core. A very low train/test RMSE of 0.009/0.009 is obtained with elemental features based model. The same model is further employed to predict the &#8208;band width (), suggesting its transferability. This approach recommends the optimum range of / along with the combination of core&#8208;shell metals having most efficient adsorption of species for any reaction. The results presented in this study can help experimentally design the core&#8208;shell nanoparticles having a desired catalytic activity.</description>
+      <author>Sakshi Agarwal, Abhishek K. Singh</author>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adts.202401460</guid>
+    </item>
+    <item>
+      <title>Fast and stable tight-binding framework for nonlocal kinetic energy density functional reconstruction in orbital-free density functional calculations</title>
+      <link>https://doi.org/10.1103/physrevb.111.125133</link>
+      <description>Yun-Ting Chen, Cheng Ma, Bo Cui, Tian Cui, Wenhui Mi, Qiang Xu, Yanchao Wang, Yanming Ma, Physical review. B./Physical review. B. 111(12)] 2025. https://openalex.org/W4408345037
+
+                No abstract</description>
+      <author>Yun-Ting Chen, Cheng Ma, Bo Cui, Tian Cui, Wenhui Mi, Qiang Xu, Yanchao Wang, Yanming Ma</author>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.111.125133</guid>
+    </item>
+    <item>
+      <title>On-demand heralded MIR single-photon source using a cascaded quantum system</title>
+      <link>https://doi.org/10.1126/sciadv.adr9239</link>
+      <description>Jake Iles-Smith, Mark Kamper Svendsen, &#193;ngel Rubio, Martijn Wubs, Nicolas Stenger, Science Advances. 11(11)] 2025. https://openalex.org/W4408345684
+
+                We propose a mechanism for generating single photons in the mid-infrared (MIR) using a solid-state or molecular quantum emitter. The scheme uses cavity quantum electrodynamics (QED) effects to selectively enhance a Frank-Condon transition, deterministically preparing a single Fock state of a polar phonon mode. By coupling the phonon mode to an antenna, the resulting excitation is then radiated to the far field as a single photon with a frequency matching the phonon mode. By combining macroscopic QED calculations with methods from open quantum system theory, we show that optimal parameters to generate these MIR photons occur for modest light-matter coupling strengths, which are achievable with state-of-the-art technologies. Combined, the cascaded system we propose provides a quasi-deterministic source of heralded single photons in a regime of the electromagnetic spectrum where this previously was not possible.</description>
+      <author>Jake Iles-Smith, Mark Kamper Svendsen, &#193;ngel Rubio, Martijn Wubs, Nicolas Stenger</author>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adr9239</guid>
+    </item>
+    <item>
+      <title>Synergistic design of hierarchical and heterostructural P-NiMoO4@Net-like Ni2P for enhanced hydrogen evolution electrocatalysis</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.137313</link>
+      <description>Jian Tang, Jun Fang, Haochen Yao, Jimeng Wei, Geng Gao, Yusong Yang, Bin Yang, Yaochun Yao, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4408348348
+
+                No abstract</description>
+      <author>Jian Tang, Jun Fang, Haochen Yao, Jimeng Wei, Geng Gao, Yusong Yang, Bin Yang, Yaochun Yao</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137313</guid>
     </item>
     <item>
       <title>Application of Machine Learning Interatomic Potentials in Heterogeneous Catalysis</title>
