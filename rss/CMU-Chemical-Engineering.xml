@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 14 Mar 2025 01:23:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 01:23:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>CFD Modeling and Superstructure Optimization of Membrane-Based Carbon Capture</title>
-      <link>https://doi.org/10.2172/2526206</link>
-      <description>Cheick Dosso, H&#233;ctor Pedrozo, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2025. https://openalex.org/W4408175046
-
-                No abstract</description>
-      <author>Cheick Dosso, H&#233;ctor Pedrozo, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2526206</guid>
-    </item>
     <item>
       <title>CFD Modeling and Superstructure Optimization of Membrane-Based Carbon Capture</title>
       <link>https://doi.org/10.2172/2527339</link>
