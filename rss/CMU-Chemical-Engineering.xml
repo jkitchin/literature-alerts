@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 16 Mar 2025 01:37:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 01:27:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>CFD Modeling and Superstructure Optimization of Membrane-Based Carbon Capture</title>
-      <link>https://doi.org/10.2172/2527339</link>
-      <description>Cheick Dosso, H&#233;ctor Pedrozo, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2025. https://openalex.org/W4408260587
-
-                No abstract</description>
-      <author>Cheick Dosso, H&#233;ctor Pedrozo, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2527339</guid>
-    </item>
     <item>
       <title>Supplementary material to "Biomass Burning Aerosol Radiative Effects in the Southeast Atlantic Depend Strongly on Meteorological Forcing Method"</title>
       <link>https://doi.org/10.5194/egusphere-2025-511-supplement</link>
@@ -46,6 +36,16 @@
       <author>Mao Xiao, Mingyi Wang, Bernhard Mentler, Olga Garm&#1072;sh, Houssni Lamkaddam, Ugo Molteni, Mario Simon, Lauri Ahonen, A. Amorim, Andrea Baccarini, Paulus S. Bauer, Dexian Chen, Randall Chiu, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Lukas Fischer, Xu&#8208;Cheng He, Martin Heinritzi, Victoria Hofbauer, Changhyuk Kim, Andreas K&#252;rten, &#1040;. &#1053;. &#1050;&#1074;&#1072;&#1096;&#1085;&#1080;&#1085;, Katrianne Lehtipalo, Yuliang Liu, Huajun Mai, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Serge Mathot, Roy L. Mauldin, Antti Onnela, Tuukka Pet&#228;j&#228;, Lauriane L. J. Qu&#233;l&#233;ver, Matti Rissanen, Simone Schuchmann, Mikko Sipil&#228;, Dominik Stolzenburg, Yuri Stozhkov, Christian Tauber, Ant&#243;nio Tom&#233;, Robert Wagner, Chao Yan, Boxing Yang, Penglin Ye, Qiaozhi Zha, Joachim Curtius, Armin Hansel, J. Kirkby, Markku Kulmala, Rainer Volkamer, Paul M. Winkler, Douglas R. Worsnop, Wei Nie, Neil M. Donahue, C. R. Hoyle, Jianhui Jiang, Urs Baltensperger, Josef Dommen, Imad El Haddad</author>
       <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41561-025-01645-z</guid>
+    </item>
+    <item>
+      <title>CatTSunami: Accelerating Transition State Energy Calculations with Pretrained Graph Neural Networks</title>
+      <link>https://doi.org/10.1021/acscatal.4c04272</link>
+      <description>Brook Wander, Muhammed Shuaibi, John R. Kitchin, Zachary W. Ulissi, C. Lawrence Zitnick, ACS Catalysis. None(None)] 2025. https://openalex.org/W4408448357
+
+                No abstract</description>
+      <author>Brook Wander, Muhammed Shuaibi, John R. Kitchin, Zachary W. Ulissi, C. Lawrence Zitnick</author>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04272</guid>
     </item>
   </channel>
 </rss>

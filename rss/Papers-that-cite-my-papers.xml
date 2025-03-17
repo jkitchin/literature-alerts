@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 16 Mar 2025 01:37:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 01:27:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Unlocking the catalytic performance of rare earth single atom catalysts for electrochemical nitrogen reduction reaction</title>
-      <link>https://doi.org/10.1016/j.colsurfa.2025.136591</link>
-      <description>Yongmao Hu, Ruochen Zhu, Xinyuan Yang, Haoyu Wang, Chunyi Lv, Xiaolong Zhou, Yanan Yu, Riming Hu, Shengqiang Zhang, Colloids and Surfaces A Physicochemical and Engineering Aspects. None(None)] 2025. https://openalex.org/W4408252177
-
-                No abstract</description>
-      <author>Yongmao Hu, Ruochen Zhu, Xinyuan Yang, Haoyu Wang, Chunyi Lv, Xiaolong Zhou, Yanan Yu, Riming Hu, Shengqiang Zhang</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2025.136591</guid>
-    </item>
-    <item>
-      <title>Composition tuning and heterostructure construction of Fe-doped Co-Ni hydroxide nanosheets for boosting oxygen electrocatalysis in rechargeable Zn-air batteries</title>
-      <link>https://doi.org/10.1016/j.cej.2025.161248</link>
-      <description>Zihan Zhang, Zhicheng Zheng, Nattapol Ma, Emmanuel Picheau, Nobuyuki Sakai, Yoshiyuki Sugahara, Takayoshi Sasaki, Renzhi Ma, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4408258101
-
-                No abstract</description>
-      <author>Zihan Zhang, Zhicheng Zheng, Nattapol Ma, Emmanuel Picheau, Nobuyuki Sakai, Yoshiyuki Sugahara, Takayoshi Sasaki, Renzhi Ma</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.161248</guid>
-    </item>
     <item>
       <title>Water Nucleation via Transient Bonds to Oxygen-Functionalized Graphite</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c08614</link>
@@ -80,10 +60,10 @@
     <item>
       <title>An Adsorption Isotherm That Includes the Interactions between Adsorbates</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c08754</link>
-      <description>Simon I. Hansen, Benjamin H. Sjo&#823;lin, Ivano E. Castelli, Tejs Vegge, Anker Degn Jensen, Jakob Munkholt Christensen, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4408291776
+      <description>Simon I. Hansen, Benjamin H. Sj&#248;lin, Ivano E. Castelli, Tejs Vegge, Anker Degn Jensen, Jakob Munkholt Christensen, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4408291776
 
                 No abstract</description>
-      <author>Simon I. Hansen, Benjamin H. Sjo&#823;lin, Ivano E. Castelli, Tejs Vegge, Anker Degn Jensen, Jakob Munkholt Christensen</author>
+      <author>Simon I. Hansen, Benjamin H. Sj&#248;lin, Ivano E. Castelli, Tejs Vegge, Anker Degn Jensen, Jakob Munkholt Christensen</author>
       <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c08754</guid>
     </item>
@@ -486,6 +466,76 @@
       <author>Zamaan Mukadam, Sihang Liu, S&#248;ren B. Scott, Yuxiang Zhou, Georg Kastlunger, Mary P. Ryan, Maria&#8208;Magdalena Titirici, Ifan E. L. Stephens</author>
       <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acselectrochem.4c00171</guid>
+    </item>
+    <item>
+      <title>Active phase discovery in heterogeneous catalysis via topology-guided sampling and machine learning</title>
+      <link>https://doi.org/10.1038/s41467-025-57824-4</link>
+      <description>Shisheng Zheng, Ximing Zhang, Heng-Su Liu, Ge-Hao Liang, S.J. Zhang, Wentao Zhang, Bingxu Wang, Jingling Yang, Xian&#8217;an Jin, Feng Pan, Jianfeng Li, Nature Communications. 16(1)] 2025. https://openalex.org/W4408444321
+
+                No abstract</description>
+      <author>Shisheng Zheng, Ximing Zhang, Heng-Su Liu, Ge-Hao Liang, S.J. Zhang, Wentao Zhang, Bingxu Wang, Jingling Yang, Xian&#8217;an Jin, Feng Pan, Jianfeng Li</author>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-57824-4</guid>
+    </item>
+    <item>
+      <title>CatTSunami: Accelerating Transition State Energy Calculations with Pretrained Graph Neural Networks</title>
+      <link>https://doi.org/10.1021/acscatal.4c04272</link>
+      <description>Brook Wander, Muhammed Shuaibi, John R. Kitchin, Zachary W. Ulissi, C. Lawrence Zitnick, ACS Catalysis. None(None)] 2025. https://openalex.org/W4408448357
+
+                No abstract</description>
+      <author>Brook Wander, Muhammed Shuaibi, John R. Kitchin, Zachary W. Ulissi, C. Lawrence Zitnick</author>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04272</guid>
+    </item>
+    <item>
+      <title>Fine-Tuning Graph Neural Networks via Active Learning: Unlocking the Potential of Graph Neural Networks Trained on Nonaqueous Systems for Aqueous CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
+      <link>https://doi.org/10.1021/acs.jctc.5c00089</link>
+      <description>Zihao Jiao, Yu Mao, Ruihu Lu, Ya Liu, Liejin Guo, Ziyun Wang, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4408453275
+
+                Graph neural networks (GNNs) have revolutionized catalysis research with their efficiency and accuracy in modeling complex chemical interactions. However, adapting GNNs trained on nonaqueous data sets to aqueous systems poses notable challenges due to intricate water interactions. In this study, we proposed an active learning-based fine-tuning approach to extend the applicability of GNNs to aqueous environments. The geometry optimization and transition state search workflows are designed to reduce computational costs while maintaining DFT-level accuracy. Applied to the CO2 reduction reaction, the workflow delivers a 2-3-fold acceleration in geometry optimization through a relaxed force threshold combined with DFT refinement. The versatility of the transition state search algorithm was demonstrated on key C-C coupling pathways, pinpointing *CO-*COH as the most energetically favorable pathway in aqueous systems of Cu and Cu-based Ag, Au, and Zn alloys. The Br&#248;nsted-Evans-Polanyi relationship remains robust under water-induced fluctuations, with alloyed metals such as Al, Ga, and Pd, along with Ag, Au, and Zn, exhibiting coupling efficiency comparable to that of Cu. Additionally, perturbation-based training on forces and energies extends the application of GNNs to aqueous ab initio molecular dynamics simulations, enabling efficient modeling of dynamical trajectories. This work presents novel approaches to adapting nonaqueous models for application in aqueous systems, highlighting GNNs' potential in solvated environments and laying a foundation for accelerating predictions of catalytic mechanisms under realistic conditions.</description>
+      <author>Zihao Jiao, Yu Mao, Ruihu Lu, Ya Liu, Liejin Guo, Ziyun Wang</author>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c00089</guid>
+    </item>
+    <item>
+      <title>In-situ transformation and synergistic electrocatalysis of asymmetric threefold hollow sites in rosebud-like ternary metal diselenide</title>
+      <link>https://doi.org/10.1016/j.cej.2025.161585</link>
+      <description>Shihao Wang, Lin Liao, Jinsong Wu, Haolin Tang, Haining Zhang, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4408462171
+
+                No abstract</description>
+      <author>Shihao Wang, Lin Liao, Jinsong Wu, Haolin Tang, Haining Zhang</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.161585</guid>
+    </item>
+    <item>
+      <title>Site-specific synergy in heterogeneous single atoms for efficient oxygen evolution</title>
+      <link>https://doi.org/10.1038/s41467-025-57864-w</link>
+      <description>Peiyu Ma, Jiawei Xue, Jihong Li, Heng Cao, Ruyang Wang, Ming J. Zuo, Zhirong Zhang, Jun Bao, Nature Communications. 16(1)] 2025. https://openalex.org/W4408474317
+
+                No abstract</description>
+      <author>Peiyu Ma, Jiawei Xue, Jihong Li, Heng Cao, Ruyang Wang, Ming J. Zuo, Zhirong Zhang, Jun Bao</author>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-57864-w</guid>
+    </item>
+    <item>
+      <title>Laser-Induced Strong Metal-Lunar Basalt Interaction for Boosted Hydrogen Evolution</title>
+      <link>https://doi.org/10.1016/j.nanoen.2025.110879</link>
+      <description>Bing Wang, Gap Soo Chang, Yue Xu, Fengyu Zhou, Xin Liu, Yingfang Yao, Xi Zhu, Qingmei Su, Zhigang Zou, Nano Energy. None(None)] 2025. https://openalex.org/W4408476239
+
+                No abstract</description>
+      <author>Bing Wang, Gap Soo Chang, Yue Xu, Fengyu Zhou, Xin Liu, Yingfang Yao, Xi Zhu, Qingmei Su, Zhigang Zou</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2025.110879</guid>
+    </item>
+    <item>
+      <title>Scalable training of trustworthy and energy-efficient predictive graph foundation models for atomistic materials modeling: a case study with HydraGNN</title>
+      <link>https://doi.org/10.1007/s11227-025-07029-9</link>
+      <description>Massimiliano Lupo Pasini, Jong Youl Choi, Kshitij Mehta, Pei Zhang, David W. Rogers, Jonghyun Bae, Khaled Z. Ibrahim, Ashwin M. Aji, Karl W. Schulz, Jord&#224; Polo, Prasanna Balaprakash, The Journal of Supercomputing. 81(4)] 2025. https://openalex.org/W4408430868
+
+                No abstract</description>
+      <author>Massimiliano Lupo Pasini, Jong Youl Choi, Kshitij Mehta, Pei Zhang, David W. Rogers, Jonghyun Bae, Khaled Z. Ibrahim, Ashwin M. Aji, Karl W. Schulz, Jord&#224; Polo, Prasanna Balaprakash</author>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11227-025-07029-9</guid>
     </item>
   </channel>
 </rss>
