@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Mar 17 01:27:21 2025
+Created on Tue Mar 18 01:25:11 2025
 
-Found 53 results from 2025-03-10 to 2025-03-17
+Found 55 results from 2025-03-11 to 2025-03-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W4407089073%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W4407089073%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544)
@@ -16,28 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176)
-
-## Water Nucleation via Transient Bonds to Oxygen-Functionalized Graphite   
-
-OpenAlex: https://openalex.org/W4408273073    
-Open access: False
-    
-[Frederik Doktor S. Simonsen](https://openalex.org/A5076751641), [Niels M. Mikkelsen](https://openalex.org/A5116388185), [Signe Kyrkjebø](https://openalex.org/A5041092407), [Prashant Srivastava](https://openalex.org/A5032589134), [Richard Balog](https://openalex.org/A5049774885), [Bjørk Hammer](https://openalex.org/A5081864343), [Karina Morgenstern](https://openalex.org/A5088456882), [Liv Hornekær](https://openalex.org/A5009546831), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.4c08614.
-    
-No abstract    
-
-    
-
-## Understanding AuPd Alloy Nanoparticle Structure under Vacuum Using DFT and Monte Carlo Methods   
-
-OpenAlex: https://openalex.org/W4408274680    
-Open access: False
-    
-[Conor T. Waldt](https://openalex.org/A5052463889), [Rajeev Kumar](https://openalex.org/A5075682336), [David Hibbitts](https://openalex.org/A5002779860), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.4c08571.
-    
-AuPd is a miscible metal alloy that is often used in catalysis. Supported AuPd catalysts, at high Au/Pd ratios, form single-atom alloys (SAAs) that have been shown to enhance rates and/or selectivities for many catalytic reactions, including (de)hydrogenations, hydrogenolysis, and C–C and C–O coupling reactions. While many computational studies have examined the stability of AuPd structures (the arrangement of atoms within the miscible alloy), most focused on generic alloys rather than SAAs and those that have closely investigated SAAs focused on single crystal surfaces. In this work, we use density functional theory (DFT) to calculate exchange energies (swapping an Au atom with a Pd atom) in a 201-atom truncated octahedral nanoparticle model with a focus on particles with high Au/Pd ratios. We calculate these exchange energies as a function of Pd location within the nanoparticle, the number of Pd atoms neighboring and near those exchange sites, and the total Pd content in the nanoparticle. These DFT-calculated exchange energies are also used to inform simple physics-based models (in contrast to cluster expansion or neural network models) that show good agreement with DFT-calculated values with relatively few regressed parameters. These models are then implemented into Monte Carlo (MC) simulations to predict the nanoparticle structure as a function of composition and temperature. The results show that Pd prefers to be in the subsurface of nanoparticles and that Pd prefers to be isolated from itself within Au. Both observations agree well with prior experimental and computational studies of single-crystal systems. We also show that the overall composition of the nanoparticle influences exchange energies by changing the electronic properties (e.g., Fermi level) of the system, which is relevant as Pd has one fewer valence electron than Au. MC simulations show that, in a vacuum, Pd begins to populate the surface of these ∼2 nm nanoparticles at around 20 mol % Pd (at 298 K) and that the number of Pd surface monomers, desired for SAA applications, goes through a maximum near 40 mol % Pd. As the temperature increases, Pd is more prevalent at the surface, but the influence of temperature is relatively muted. While AuPd structures are known to change in the presence of reactive gases (e.g., CO or O2), these studies characterize the baseline thermodynamic arrangements that can be used to understand surface restructuring during catalyst characterization and reaction studies.    
-
-    
 
 ## Vacancy Engineering in the First Coordination Shell of Single‐Atom Catalysts for Enhanced Hydrogen and Oxygen Evolution Reactions   
 
@@ -242,7 +220,7 @@ No abstract
 OpenAlex: https://openalex.org/W4408318929    
 Open access: False
     
-[Weixue Meng](https://openalex.org/A5036908507), [Rui Pang](https://openalex.org/A5081101203), [Ding Zhang](https://openalex.org/A5100727188), [Junge Yuan](https://openalex.org/A5101216433), [Lei Lu](https://openalex.org/A5100366022), [Yuanyuan Shang](https://openalex.org/A5076861550), [Yingjiu Zhang](https://openalex.org/A5030086846), [Anyuan Cao](https://openalex.org/A5108734696), Journal of Colloid and Interface Science. None(None)] 2025.https://doi.org/10.1016/j.jcis.2025.137309.
+[Weixue Meng](https://openalex.org/A5036908507), [Rui Pang](https://openalex.org/A5081101203), [Ding Zhang](https://openalex.org/A5100727188), [Junge Yuan](https://openalex.org/A5101216433), [Lei Lu](https://openalex.org/A5100366022), [Yuanyuan Shang](https://openalex.org/A5076861550), [Yingjiu Zhang](https://openalex.org/A5030086846), [Anyuan Cao](https://openalex.org/A5108734696), Journal of Colloid and Interface Science. 690(None)] 2025.https://doi.org/10.1016/j.jcis.2025.137309.
     
 No abstract    
 
@@ -528,9 +506,9 @@ The electrochemical synthesis of nitrogen-containing molecules from biomass-deri
 OpenAlex: https://openalex.org/W4408444321    
 Open access: True
     
-[Shisheng Zheng](https://openalex.org/A5067840867), [Ximing Zhang](https://openalex.org/A5043063705), [Heng-Su Liu](https://openalex.org/A5007076881), [Ge-Hao Liang](https://openalex.org/A5052753669), [S.J. Zhang](https://openalex.org/A5008252852), [Wentao Zhang](https://openalex.org/A5100459872), [Bingxu Wang](https://openalex.org/A5065643676), [Jingling Yang](https://openalex.org/A5044339430), [Xian’an Jin](https://openalex.org/A5100530299), [Feng Pan](https://openalex.org/A5055477551), [Jianfeng Li](https://openalex.org/A5100462032), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-57824-4 ([pdf](https://www.nature.com/articles/s41467-025-57824-4.pdf)).
+[Shisheng Zheng](https://openalex.org/A5067840867), [Ximing Zhang](https://openalex.org/A5043063705), [Heng-Su Liu](https://openalex.org/A5007076881), [Ge-Hao Liang](https://openalex.org/A5052753669), [S.J. Zhang](https://openalex.org/A5008252852), [Wentao Zhang](https://openalex.org/A5100459872), [Bingxu Wang](https://openalex.org/A5065643676), [Jingling Yang](https://openalex.org/A5044339430), [Xian’an Jin](https://openalex.org/A5100530299), [Feng Pan](https://openalex.org/A5055477551), [Jianfeng Li](https://openalex.org/A5100462032), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-57824-4.
     
-No abstract    
+Understanding active phases across interfaces, interphases, and even within the bulk under varying external conditions and environmental species is critical for advancing heterogeneous catalysis. Describing these phases through computational models faces the challenges in the generation and calculation of a vast array of atomic configurations. Here, we present a framework for the automatic and efficient exploration of active phases. This approach utilizes a topology-based algorithm leveraging persistent homology to systematically sample configurations across diverse coordination environments and material morphologies. Simultaneously, efficient machine learning force fields enable rapid computations. We demonstrate the effectiveness of this framework in two systems: hydrogen absorption in Pd, where hydrogen penetrates subsurface layers and the bulk, inducing a "hex" reconstruction critical for CO2 electroreduction, explored through 50,000 sampled configurations; and the oxidation dynamics of Pt clusters, where oxygen incorporation renders the clusters less active during oxygen reduction reactions, investigated through 100,000 sampled configurations. In both cases, the predicted active phases and their impacts on catalytic mechanisms closely align with previous experimental observations, indicating that the proposed strategy can model complex catalytic systems and discovery active phases under specific environmental conditions. Discovering active phases in heterocatalysis entails efficient configuration sampling and optimization. Here, the authors developed a framework based on topology and machine learning to effectively explore the active structures, applied in the CO2 electroreduction and Oxygen Reduction Reaction    
 
     
 
@@ -574,7 +552,7 @@ Open access: True
     
 [Peiyu Ma](https://openalex.org/A5063955135), [Jiawei Xue](https://openalex.org/A5001720256), [Jihong Li](https://openalex.org/A5063383376), [Heng Cao](https://openalex.org/A5079800526), [Ruyang Wang](https://openalex.org/A5033862876), [Ming J. Zuo](https://openalex.org/A5043676611), [Zhirong Zhang](https://openalex.org/A5100602201), [Jun Bao](https://openalex.org/A5086265105), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-57864-w.
     
-No abstract    
+Abstract Heterogeneous single-atom systems demonstrate potential to break performance limitations of single-atom catalysts through synergy interactions. The synergy in heterogeneous single atoms strongly dependes on their anchoring sites. Herein, we reveal the site-specific synergy in heterogeneous single atoms for oxygen evolution. The Ru T Ir V /CoOOH is fabricated by anchoring Ru single atoms onto three-fold facial center cubic hollow sites and Ir single atoms onto oxygen vacancy sites on CoOOH. Moreover, Ir T Ru V /CoOOH is also prepared by switching the anchoring sites of single atoms. Electrochemical measurements demonstrate the Ru T Ir V /CoOOH exhibits enhanced OER performance compared to Ir T Ru V /CoOOH. In-situ spectroscopic and mechanistic studies indicate that Ru single atoms at three-fold facial center cubic hollow sites serve as adsorption sites for key reaction intermediates, while Ir single atoms at oxygen vacancy sites stabilize the *OOH intermediates via hydrogen bonding interactions. This work discloses the correlation between the synergy in heterogeneous single atoms and their anchoring sites.    
 
     
 
@@ -584,6 +562,50 @@ OpenAlex: https://openalex.org/W4408476239
 Open access: False
     
 [Bing Wang](https://openalex.org/A5100382527), [Gap Soo Chang](https://openalex.org/A5087970170), [Yue Xu](https://openalex.org/A5043595651), [Fengyu Zhou](https://openalex.org/A5106407202), [Xin Liu](https://openalex.org/A5100352349), [Yingfang Yao](https://openalex.org/A5048939633), [Xi Zhu](https://openalex.org/A5066852437), [Qingmei Su](https://openalex.org/A5076229645), [Zhigang Zou](https://openalex.org/A5018143125), Nano Energy. None(None)] 2025.https://doi.org/10.1016/j.nanoen.2025.110879.
+    
+No abstract    
+
+    
+
+## Mechanistic insight into defective molybdenum carbide as cathode catalyst in Li-CO2 battery   
+
+OpenAlex: https://openalex.org/W4408479150    
+Open access: True
+    
+[Tingting Zhao](https://openalex.org/A5050774149), [Lixiang Yan](https://openalex.org/A5016844140), [Xueying Qiu](https://openalex.org/A5035818371), [Liubin Song](https://openalex.org/A5103132440), [Yanmei Nie](https://openalex.org/A5040331610), [Yuhao Xiong](https://openalex.org/A5030093529), [Ao Li](https://openalex.org/A5100359743), [Yukang Su](https://openalex.org/A5042150778), [Likai Yan](https://openalex.org/A5031103269), Deleted Journal. None(None)] 2025.https://doi.org/10.1016/j.fub.2025.100058.
+    
+No abstract    
+
+    
+
+## Influence of the Ti:Al:Cr proportion on the structure and oxidation resistance of ternary intermetallic coatings produced by non-vacuum electron beam cladding   
+
+OpenAlex: https://openalex.org/W4408489714    
+Open access: False
+    
+[Daria V. Lazurenko](https://openalex.org/A5000420935), [Alexey A. Ruktuev](https://openalex.org/A5040623089), [Yu. N. Malyutina](https://openalex.org/A5015784696), [Gleb Dovzhenko](https://openalex.org/A5005863100), [Lin Song](https://openalex.org/A5056729360), [Н. С. Александрова](https://openalex.org/A5050275281), [Elena Lozhkina](https://openalex.org/A5075796518), [E. V. Domarov](https://openalex.org/A5081695893), [Arina V. Ukhina](https://openalex.org/A5076746811), Intermetallics. 181(None)] 2025.https://doi.org/10.1016/j.intermet.2025.108745.
+    
+No abstract    
+
+    
+
+## Strain engineering in gradient-structured metallic glasses for excellent overall water splitting   
+
+OpenAlex: https://openalex.org/W4408491533    
+Open access: False
+    
+[Chaoqun Pei](https://openalex.org/A5043374812), [Shuangqin Chen](https://openalex.org/A5003876179), [Jiuyuan Xie](https://openalex.org/A5059834058), [Shidong Feng](https://openalex.org/A5087646699), [Mingyuan Yu](https://openalex.org/A5101529790), [Cheng Zhan](https://openalex.org/A5100710704), [Yuyang Qian](https://openalex.org/A5108991594), [Guannan Yang](https://openalex.org/A5009281929), [Yuxuan Chen](https://openalex.org/A5100342254), [Si Lan](https://openalex.org/A5082103171), [Erjun Kan](https://openalex.org/A5048140096), [Yue Wang](https://openalex.org/A5100372017), [Xiaoke Mu](https://openalex.org/A5021691584), [Horst Hahn](https://openalex.org/A5075404776), [Baoan Sun](https://openalex.org/A5048410691), [Gerhard Wilde](https://openalex.org/A5051284757), [Tao Feng](https://openalex.org/A5100678146), Materials Today. None(None)] 2025.https://doi.org/10.1016/j.mattod.2025.02.024.
+    
+No abstract    
+
+    
+
+## Synthesis of novel Fe0.11V2O5.15/g-C3N4 for electrochemical paracetamol detection and electrocatalytic water splitting   
+
+OpenAlex: https://openalex.org/W4408492629    
+Open access: False
+    
+[Shakeel Ahmad](https://openalex.org/A5068005484), [Iqra Fareed](https://openalex.org/A5037112136), [Muhammad Danish Khan](https://openalex.org/A5077306850), [Tahmina Maqsood](https://openalex.org/A5032926853), [Muhammad Saeed Akhtar](https://openalex.org/A5018967573), [Mashal Firdous](https://openalex.org/A5035541298), [Zulfiqar Ali](https://openalex.org/A5090392496), [Yahya Sandali](https://openalex.org/A5092449478), [Muhammad Bilal Tahir](https://openalex.org/A5054599473), [Faheem K. Butt](https://openalex.org/A5055386927), Materials Science in Semiconductor Processing. 192(None)] 2025.https://doi.org/10.1016/j.mssp.2025.109468.
     
 No abstract    
 

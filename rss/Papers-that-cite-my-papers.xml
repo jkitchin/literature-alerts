@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 17 Mar 2025 01:27:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 01:25:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Water Nucleation via Transient Bonds to Oxygen-Functionalized Graphite</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c08614</link>
-      <description>Frederik Doktor S. Simonsen, Niels M. Mikkelsen, Signe Kyrkjeb&#248;, Prashant Srivastava, Richard Balog, Bj&#248;rk Hammer, Karina Morgenstern, Liv Hornek&#230;r, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4408273073
-
-                No abstract</description>
-      <author>Frederik Doktor S. Simonsen, Niels M. Mikkelsen, Signe Kyrkjeb&#248;, Prashant Srivastava, Richard Balog, Bj&#248;rk Hammer, Karina Morgenstern, Liv Hornek&#230;r</author>
-      <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c08614</guid>
-    </item>
-    <item>
-      <title>Understanding AuPd Alloy Nanoparticle Structure under Vacuum Using DFT and Monte Carlo Methods</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c08571</link>
-      <description>Conor T. Waldt, Rajeev Kumar, David Hibbitts, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4408274680
-
-                AuPd is a miscible metal alloy that is often used in catalysis. Supported AuPd catalysts, at high Au/Pd ratios, form single-atom alloys (SAAs) that have been shown to enhance rates and/or selectivities for many catalytic reactions, including (de)hydrogenations, hydrogenolysis, and C&#8211;C and C&#8211;O coupling reactions. While many computational studies have examined the stability of AuPd structures (the arrangement of atoms within the miscible alloy), most focused on generic alloys rather than SAAs and those that have closely investigated SAAs focused on single crystal surfaces. In this work, we use density functional theory (DFT) to calculate exchange energies (swapping an Au atom with a Pd atom) in a 201-atom truncated octahedral nanoparticle model with a focus on particles with high Au/Pd ratios. We calculate these exchange energies as a function of Pd location within the nanoparticle, the number of Pd atoms neighboring and near those exchange sites, and the total Pd content in the nanoparticle. These DFT-calculated exchange energies are also used to inform simple physics-based models (in contrast to cluster expansion or neural network models) that show good agreement with DFT-calculated values with relatively few regressed parameters. These models are then implemented into Monte Carlo (MC) simulations to predict the nanoparticle structure as a function of composition and temperature. The results show that Pd prefers to be in the subsurface of nanoparticles and that Pd prefers to be isolated from itself within Au. Both observations agree well with prior experimental and computational studies of single-crystal systems. We also show that the overall composition of the nanoparticle influences exchange energies by changing the electronic properties (e.g., Fermi level) of the system, which is relevant as Pd has one fewer valence electron than Au. MC simulations show that, in a vacuum, Pd begins to populate the surface of these &#8764;2 nm nanoparticles at around 20 mol % Pd (at 298 K) and that the number of Pd surface monomers, desired for SAA applications, goes through a maximum near 40 mol % Pd. As the temperature increases, Pd is more prevalent at the surface, but the influence of temperature is relatively muted. While AuPd structures are known to change in the presence of reactive gases (e.g., CO or O2), these studies characterize the baseline thermodynamic arrangements that can be used to understand surface restructuring during catalyst characterization and reaction studies.</description>
-      <author>Conor T. Waldt, Rajeev Kumar, David Hibbitts</author>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c08571</guid>
-    </item>
     <item>
       <title>Vacancy Engineering in the First Coordination Shell of Single&#8208;Atom Catalysts for Enhanced Hydrogen and Oxygen Evolution Reactions</title>
       <link>https://doi.org/10.1002/smll.202412000</link>
@@ -210,11 +190,11 @@
     <item>
       <title>Ruthenium-cobalt alloy nanoparticles uniformly dispersed on carbon nanotube films for high-performance electrocatalytic hydrogen evolution</title>
       <link>https://doi.org/10.1016/j.jcis.2025.137309</link>
-      <description>Weixue Meng, Rui Pang, Ding Zhang, Junge Yuan, Lei Lu, Yuanyuan Shang, Yingjiu Zhang, Anyuan Cao, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4408318929
+      <description>Weixue Meng, Rui Pang, Ding Zhang, Junge Yuan, Lei Lu, Yuanyuan Shang, Yingjiu Zhang, Anyuan Cao, Journal of Colloid and Interface Science. 690(None)] 2025. https://openalex.org/W4408318929
 
                 No abstract</description>
       <author>Weixue Meng, Rui Pang, Ding Zhang, Junge Yuan, Lei Lu, Yuanyuan Shang, Yingjiu Zhang, Anyuan Cao</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137309</guid>
     </item>
     <item>
@@ -472,7 +452,7 @@
       <link>https://doi.org/10.1038/s41467-025-57824-4</link>
       <description>Shisheng Zheng, Ximing Zhang, Heng-Su Liu, Ge-Hao Liang, S.J. Zhang, Wentao Zhang, Bingxu Wang, Jingling Yang, Xian&#8217;an Jin, Feng Pan, Jianfeng Li, Nature Communications. 16(1)] 2025. https://openalex.org/W4408444321
 
-                No abstract</description>
+                Understanding active phases across interfaces, interphases, and even within the bulk under varying external conditions and environmental species is critical for advancing heterogeneous catalysis. Describing these phases through computational models faces the challenges in the generation and calculation of a vast array of atomic configurations. Here, we present a framework for the automatic and efficient exploration of active phases. This approach utilizes a topology-based algorithm leveraging persistent homology to systematically sample configurations across diverse coordination environments and material morphologies. Simultaneously, efficient machine learning force fields enable rapid computations. We demonstrate the effectiveness of this framework in two systems: hydrogen absorption in Pd, where hydrogen penetrates subsurface layers and the bulk, inducing a "hex" reconstruction critical for CO2 electroreduction, explored through 50,000 sampled configurations; and the oxidation dynamics of Pt clusters, where oxygen incorporation renders the clusters less active during oxygen reduction reactions, investigated through 100,000 sampled configurations. In both cases, the predicted active phases and their impacts on catalytic mechanisms closely align with previous experimental observations, indicating that the proposed strategy can model complex catalytic systems and discovery active phases under specific environmental conditions. Discovering active phases in heterocatalysis entails efficient configuration sampling and optimization. Here, the authors developed a framework based on topology and machine learning to effectively explore the active structures, applied in the CO2 electroreduction and Oxygen Reduction Reaction</description>
       <author>Shisheng Zheng, Ximing Zhang, Heng-Su Liu, Ge-Hao Liang, S.J. Zhang, Wentao Zhang, Bingxu Wang, Jingling Yang, Xian&#8217;an Jin, Feng Pan, Jianfeng Li</author>
       <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-57824-4</guid>
@@ -512,7 +492,7 @@
       <link>https://doi.org/10.1038/s41467-025-57864-w</link>
       <description>Peiyu Ma, Jiawei Xue, Jihong Li, Heng Cao, Ruyang Wang, Ming J. Zuo, Zhirong Zhang, Jun Bao, Nature Communications. 16(1)] 2025. https://openalex.org/W4408474317
 
-                No abstract</description>
+                Abstract Heterogeneous single-atom systems demonstrate potential to break performance limitations of single-atom catalysts through synergy interactions. The synergy in heterogeneous single atoms strongly dependes on their anchoring sites. Herein, we reveal the site-specific synergy in heterogeneous single atoms for oxygen evolution. The Ru T Ir V /CoOOH is fabricated by anchoring Ru single atoms onto three-fold facial center cubic hollow sites and Ir single atoms onto oxygen vacancy sites on CoOOH. Moreover, Ir T Ru V /CoOOH is also prepared by switching the anchoring sites of single atoms. Electrochemical measurements demonstrate the Ru T Ir V /CoOOH exhibits enhanced OER performance compared to Ir T Ru V /CoOOH. In-situ spectroscopic and mechanistic studies indicate that Ru single atoms at three-fold facial center cubic hollow sites serve as adsorption sites for key reaction intermediates, while Ir single atoms at oxygen vacancy sites stabilize the *OOH intermediates via hydrogen bonding interactions. This work discloses the correlation between the synergy in heterogeneous single atoms and their anchoring sites.</description>
       <author>Peiyu Ma, Jiawei Xue, Jihong Li, Heng Cao, Ruyang Wang, Ming J. Zuo, Zhirong Zhang, Jun Bao</author>
       <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-57864-w</guid>
@@ -526,6 +506,46 @@
       <author>Bing Wang, Gap Soo Chang, Yue Xu, Fengyu Zhou, Xin Liu, Yingfang Yao, Xi Zhu, Qingmei Su, Zhigang Zou</author>
       <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2025.110879</guid>
+    </item>
+    <item>
+      <title>Mechanistic insight into defective molybdenum carbide as cathode catalyst in Li-CO2 battery</title>
+      <link>https://doi.org/10.1016/j.fub.2025.100058</link>
+      <description>Tingting Zhao, Lixiang Yan, Xueying Qiu, Liubin Song, Yanmei Nie, Yuhao Xiong, Ao Li, Yukang Su, Likai Yan, Deleted Journal. None(None)] 2025. https://openalex.org/W4408479150
+
+                No abstract</description>
+      <author>Tingting Zhao, Lixiang Yan, Xueying Qiu, Liubin Song, Yanmei Nie, Yuhao Xiong, Ao Li, Yukang Su, Likai Yan</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fub.2025.100058</guid>
+    </item>
+    <item>
+      <title>Influence of the Ti:Al:Cr proportion on the structure and oxidation resistance of ternary intermetallic coatings produced by non-vacuum electron beam cladding</title>
+      <link>https://doi.org/10.1016/j.intermet.2025.108745</link>
+      <description>Daria V. Lazurenko, Alexey A. Ruktuev, Yu. N. Malyutina, Gleb Dovzhenko, Lin Song, &#1053;. &#1057;. &#1040;&#1083;&#1077;&#1082;&#1089;&#1072;&#1085;&#1076;&#1088;&#1086;&#1074;&#1072;, Elena Lozhkina, E. V. Domarov, Arina V. Ukhina, Intermetallics. 181(None)] 2025. https://openalex.org/W4408489714
+
+                No abstract</description>
+      <author>Daria V. Lazurenko, Alexey A. Ruktuev, Yu. N. Malyutina, Gleb Dovzhenko, Lin Song, &#1053;. &#1057;. &#1040;&#1083;&#1077;&#1082;&#1089;&#1072;&#1085;&#1076;&#1088;&#1086;&#1074;&#1072;, Elena Lozhkina, E. V. Domarov, Arina V. Ukhina</author>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.intermet.2025.108745</guid>
+    </item>
+    <item>
+      <title>Strain engineering in gradient-structured metallic glasses for excellent overall water splitting</title>
+      <link>https://doi.org/10.1016/j.mattod.2025.02.024</link>
+      <description>Chaoqun Pei, Shuangqin Chen, Jiuyuan Xie, Shidong Feng, Mingyuan Yu, Cheng Zhan, Yuyang Qian, Guannan Yang, Yuxuan Chen, Si Lan, Erjun Kan, Yue Wang, Xiaoke Mu, Horst Hahn, Baoan Sun, Gerhard Wilde, Tao Feng, Materials Today. None(None)] 2025. https://openalex.org/W4408491533
+
+                No abstract</description>
+      <author>Chaoqun Pei, Shuangqin Chen, Jiuyuan Xie, Shidong Feng, Mingyuan Yu, Cheng Zhan, Yuyang Qian, Guannan Yang, Yuxuan Chen, Si Lan, Erjun Kan, Yue Wang, Xiaoke Mu, Horst Hahn, Baoan Sun, Gerhard Wilde, Tao Feng</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mattod.2025.02.024</guid>
+    </item>
+    <item>
+      <title>Synthesis of novel Fe0.11V2O5.15/g-C3N4 for electrochemical paracetamol detection and electrocatalytic water splitting</title>
+      <link>https://doi.org/10.1016/j.mssp.2025.109468</link>
+      <description>Shakeel Ahmad, Iqra Fareed, Muhammad Danish Khan, Tahmina Maqsood, Muhammad Saeed Akhtar, Mashal Firdous, Zulfiqar Ali, Yahya Sandali, Muhammad Bilal Tahir, Faheem K. Butt, Materials Science in Semiconductor Processing. 192(None)] 2025. https://openalex.org/W4408492629
+
+                No abstract</description>
+      <author>Shakeel Ahmad, Iqra Fareed, Muhammad Danish Khan, Tahmina Maqsood, Muhammad Saeed Akhtar, Mashal Firdous, Zulfiqar Ali, Yahya Sandali, Muhammad Bilal Tahir, Faheem K. Butt</author>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mssp.2025.109468</guid>
     </item>
     <item>
       <title>Scalable training of trustworthy and energy-efficient predictive graph foundation models for atomistic materials modeling: a case study with HydraGNN</title>

@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 17 Mar 2025 01:27:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 01:25:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Supplementary material to "Biomass Burning Aerosol Radiative Effects in the Southeast Atlantic Depend Strongly on Meteorological Forcing Method"</title>
-      <link>https://doi.org/10.5194/egusphere-2025-511-supplement</link>
-      <description>Eric Giuffrida, KATE JOHNSON, Tyler Tatro, Paquita Zuidema, Hamish Gordon, No host. None(None)] 2025. https://openalex.org/W4408275898
-
-                No abstract</description>
-      <author>Eric Giuffrida, KATE JOHNSON, Tyler Tatro, Paquita Zuidema, Hamish Gordon</author>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2025-511-supplement</guid>
-    </item>
-    <item>
-      <title>Biomass Burning Aerosol Radiative Effects in the Southeast Atlantic Depend Strongly on Meteorological Forcing Method</title>
-      <link>https://doi.org/10.5194/egusphere-2025-511</link>
-      <description>Eric Giuffrida, KATE JOHNSON, Tyler Tatro, Paquita Zuidema, Hamish Gordon, No host. None(None)] 2025. https://openalex.org/W4408275910
-
-                Abstract. Smoke aerosols (BBA) from African fires may strongly impact Earth&#8217;s radiation budget in the southeast Atlantic (SEA), but the sign and magnitude of the overall radiative effect (RE) remains uncertain. Aerosol-climate models are needed to separately quantify direct, indirect, and semi-direct REs. Here we evaluate improved simulations with the UK Met Office&#8217;s Unified Model and with them explore how REs depend on the method used to match observed meteorology (nudging or running forecasts reinitialized at different frequencies). REs are calculated as differences in radiative fluxes between simulations with and without smoke emissions, and with and without aerosol absorption. All model setups agree on net warming for the SEA dominated by the direct effect. Simulated smoke, clouds, and the direct effect agree better with observations than previous studies using the same model, though biases in aerosol extinction and liquid water path remain. Changes in cloud droplet number concentration due to BBA self-lofting influence how cleanly we can separate cloud effects into semi-direct and indirect effects. Total RE, which remains unaffected, ranges from +3.0 to +7.9 W m&#8722;2. The 4.9 W m&#8722;2 spread arises mainly from simulated semi-direct effects. Forecasts three days long or less probably do not allow time for plausible differences in boundary layer properties due to semi-direct effects to accumulate. Free running simulations with and without smoke accumulate differences in meteorology that are likely spurious &#8216;butterfly effects&#8217;. We recommend future research quantifying BBA REs over weeks to months use meteorological forcing techniques that allow aerosol absorption to affect the boundary layer.</description>
-      <author>Eric Giuffrida, KATE JOHNSON, Tyler Tatro, Paquita Zuidema, Hamish Gordon</author>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2025-511</guid>
-    </item>
-    <item>
-      <title>Anthropogenic organic aerosol in Europe produced mainly through second-generation oxidation</title>
-      <link>https://doi.org/10.1038/s41561-025-01645-z</link>
-      <description>Mao Xiao, Mingyi Wang, Bernhard Mentler, Olga Garm&#1072;sh, Houssni Lamkaddam, Ugo Molteni, Mario Simon, Lauri Ahonen, A. Amorim, Andrea Baccarini, Paulus S. Bauer, Dexian Chen, Randall Chiu, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Lukas Fischer, Xu&#8208;Cheng He, Martin Heinritzi, Victoria Hofbauer, Changhyuk Kim, Andreas K&#252;rten, &#1040;. &#1053;. &#1050;&#1074;&#1072;&#1096;&#1085;&#1080;&#1085;, Katrianne Lehtipalo, Yuliang Liu, Huajun Mai, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Serge Mathot, Roy L. Mauldin, Antti Onnela, Tuukka Pet&#228;j&#228;, Lauriane L. J. Qu&#233;l&#233;ver, Matti Rissanen, Simone Schuchmann, Mikko Sipil&#228;, Dominik Stolzenburg, Yuri Stozhkov, Christian Tauber, Ant&#243;nio Tom&#233;, Robert Wagner, Chao Yan, Boxing Yang, Penglin Ye, Qiaozhi Zha, Joachim Curtius, Armin Hansel, J. Kirkby, Markku Kulmala, Rainer Volkamer, Paul M. Winkler, Douglas R. Worsnop, Wei Nie, Neil M. Donahue, C. R. Hoyle, Jianhui Jiang, Urs Baltensperger, Josef Dommen, Imad El Haddad, Nature Geoscience. None(None)] 2025. https://openalex.org/W4408275956
-
-                No abstract</description>
-      <author>Mao Xiao, Mingyi Wang, Bernhard Mentler, Olga Garm&#1072;sh, Houssni Lamkaddam, Ugo Molteni, Mario Simon, Lauri Ahonen, A. Amorim, Andrea Baccarini, Paulus S. Bauer, Dexian Chen, Randall Chiu, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Lukas Fischer, Xu&#8208;Cheng He, Martin Heinritzi, Victoria Hofbauer, Changhyuk Kim, Andreas K&#252;rten, &#1040;. &#1053;. &#1050;&#1074;&#1072;&#1096;&#1085;&#1080;&#1085;, Katrianne Lehtipalo, Yuliang Liu, Huajun Mai, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Serge Mathot, Roy L. Mauldin, Antti Onnela, Tuukka Pet&#228;j&#228;, Lauriane L. J. Qu&#233;l&#233;ver, Matti Rissanen, Simone Schuchmann, Mikko Sipil&#228;, Dominik Stolzenburg, Yuri Stozhkov, Christian Tauber, Ant&#243;nio Tom&#233;, Robert Wagner, Chao Yan, Boxing Yang, Penglin Ye, Qiaozhi Zha, Joachim Curtius, Armin Hansel, J. Kirkby, Markku Kulmala, Rainer Volkamer, Paul M. Winkler, Douglas R. Worsnop, Wei Nie, Neil M. Donahue, C. R. Hoyle, Jianhui Jiang, Urs Baltensperger, Josef Dommen, Imad El Haddad</author>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41561-025-01645-z</guid>
-    </item>
     <item>
       <title>CatTSunami: Accelerating Transition State Energy Calculations with Pretrained Graph Neural Networks</title>
       <link>https://doi.org/10.1021/acscatal.4c04272</link>
@@ -46,6 +16,16 @@
       <author>Brook Wander, Muhammed Shuaibi, John R. Kitchin, Zachary W. Ulissi, C. Lawrence Zitnick</author>
       <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04272</guid>
+    </item>
+    <item>
+      <title>Sources of Oxygenated Organic Molecules and Their Impacts on Organic Aerosol in China</title>
+      <link>https://doi.org/10.5194/egusphere-egu25-15281</link>
+      <description>Bin Zhao, Dejia Yin, Shuxiao Wang, Yicong He, Neil M. Donahue, No host. None(None)] 2025. https://openalex.org/W4408487061
+
+                Oxygenated organic molecules (OOMs), the oxidation products of organic precursors with low volatility and a high oxygen atom number, are an important driver of new particle formation (NPF) and secondary organic aerosols (SOA) formation. The sources and formation processes of OOMs are highly complicated, especially in populous regions (e.g., China) with diverse emissions of anthropogenic and biogenic precursors. However, current models fail to capture OOM formation from different precursors due to the absence of important reaction pathways (e.g., autoxidation, dimerization) and the oversimplified treatment of the oxidation of semi-volatile and intermediate-volatility precursors (I/SVOCs). In this work, we develop a Precursor-resolved Integrated two-dimensional Volatility Basis Set (I2D-VBS) model framework, which simulates the multi-generational ageing of organic emissions in the full volatility range on a precursor level and explicitly tracks irregular radical reactions, including autoxidation, dimerization, and RO isomerization followed by accelerated autoxidation. The parameterizations within the Precursor-resolved I2D-VBS are optimized by simulating chamber and flow-tube experiments measuring OOMs and SOA formed from individual precursors. We then incorporate the Precursor-resolved I2D-VBS in the CMAQ chemical transport model and simulate OOM formation in China. The CMAQ/I2D-VBS model successfully reproduced OOM concentrations at various sites across China, achieving accuracy within &amp;#177;40% for total OOM concentrations and within a factor of 2 for volatility-binned OOM concentrations. The model results reveal that over 60% of total OOM concentrations are from I/SVOC in China; nevertheless, for extremely low-volatility OOMs (logC*70%), followed by autoxidation (~20%). Overall, OOMs contribute around half of SOA concentrations in China, highlighting the critically important role of OOMs in SOA formation.</description>
+      <author>Bin Zhao, Dejia Yin, Shuxiao Wang, Yicong He, Neil M. Donahue</author>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-egu25-15281</guid>
     </item>
   </channel>
 </rss>
