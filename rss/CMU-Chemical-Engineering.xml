@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 20 Mar 2025 01:24:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 01:26:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,26 @@
       <author>Bin Zhao, Dejia Yin, Shuxiao Wang, Yicong He, Neil M. Donahue</author>
       <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5194/egusphere-egu25-15281</guid>
+    </item>
+    <item>
+      <title>Transferable Machine Learning Interatomic Potential for Pd-Catalyzed Cross-Coupling Reactions</title>
+      <link>https://doi.org/10.26434/chemrxiv-2025-n36r6</link>
+      <description>Dylan M. Anstine, R.I. Zubatyuk, Liliana C. Gallegos, Robert S. Paton, Olaf Wiest, Benjamin Nebgen, Travis E. Jones, Gabriel dos Passos Gomes, Sergei Tretiak, Olexandr Isayev, No host. None(None)] 2025. https://openalex.org/W4408546240
+
+                Finding efficient substrate-catalyst combinations for palladium-catalyzed cross-coupling reactions remains a critical challenge in synthetic chemistry, with broad implications for pharmaceutical and materials manufacturing. We report AIMNet2-Pd, a machine learned interatomic potential that enables rapid, accurate computational studies of palladium-catalyzed cross-coupling reactions. AIMNet2-Pd replaces computationally expensive electronic structure calculations with a neural network-based model that performs geometry optimization, transition state searches, and energy calculations in seconds while maintaining accuracy within 1-2 kcal mol&#8315;&#185; and ~0.1 &#197; compared to the reference QM calculations. AIMNet2-Pd makes computational high-throughput catalyst screening and mechanistic studies of realistic systems feasible by providing on-demand thermodynamic and kinetic predictions for each step of a catalytic cycle. Importantly, the applicability of the systems extends beyond the monophosphine ligands in Pd(0)/Pd(II) cycles for which it has been trained on to chemically diverse Pd complexes. This demonstrates AIMNet2-Pd's utility to serve as a general-purpose and high-throughput tool for studying catalytic reactions.</description>
+      <author>Dylan M. Anstine, R.I. Zubatyuk, Liliana C. Gallegos, Robert S. Paton, Olaf Wiest, Benjamin Nebgen, Travis E. Jones, Gabriel dos Passos Gomes, Sergei Tretiak, Olexandr Isayev</author>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2025-n36r6</guid>
+    </item>
+    <item>
+      <title>The impact of the Himalayan aerosol factory: results from high resolution numerical modelling of pure biogenic nucleation over the Himalayan valleys</title>
+      <link>https://doi.org/10.1039/d4fd00171k</link>
+      <description>Giancarlo Ciarelli, Arineh Cholakian, Manuel Bettineschi, Bruno Vitali, Bertrand Bessagnet, Victoria A. Sinclair, Johannes Mikkola, Imad El Haddad, Dino Zardi, Angela Marinoni, Alessandro Bigi, Paolo Tuccella, Jaana B&#228;ck, Hamish Gordon, Tuomo Nieminen, Markku Kulmala, Douglas R. Worsnop, Federico Bianchi, Faraday Discussions. None(None)] 2025. https://openalex.org/W4408591658
+
+                A schematic of the &#8220;Himalayan aerosol factory&#8221;. Courtesy of Sole L&#228;tti (https://kuvittajat.fi/).</description>
+      <author>Giancarlo Ciarelli, Arineh Cholakian, Manuel Bettineschi, Bruno Vitali, Bertrand Bessagnet, Victoria A. Sinclair, Johannes Mikkola, Imad El Haddad, Dino Zardi, Angela Marinoni, Alessandro Bigi, Paolo Tuccella, Jaana B&#228;ck, Hamish Gordon, Tuomo Nieminen, Markku Kulmala, Douglas R. Worsnop, Federico Bianchi</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4fd00171k</guid>
     </item>
   </channel>
 </rss>
