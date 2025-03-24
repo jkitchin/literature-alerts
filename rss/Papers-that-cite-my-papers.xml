@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 23 Mar 2025 01:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 01:36:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Mechanistic insight into defective molybdenum carbide as cathode catalyst in Li-CO2 battery</title>
-      <link>https://doi.org/10.1016/j.fub.2025.100058</link>
-      <description>Tingting Zhao, Lixiang Yan, Xueying Qiu, Liubin Song, Yanmei Nie, Yuhao Xiong, Ao Li, Yukang Su, Likai Yan, Deleted Journal. None(None)] 2025. https://openalex.org/W4408479150
-
-                No abstract</description>
-      <author>Tingting Zhao, Lixiang Yan, Xueying Qiu, Liubin Song, Yanmei Nie, Yuhao Xiong, Ao Li, Yukang Su, Likai Yan</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fub.2025.100058</guid>
-    </item>
-    <item>
-      <title>Influence of the Ti:Al:Cr proportion on the structure and oxidation resistance of ternary intermetallic coatings produced by non-vacuum electron beam cladding</title>
-      <link>https://doi.org/10.1016/j.intermet.2025.108745</link>
-      <description>Daria V. Lazurenko, Alexey A. Ruktuev, Yu. N. Malyutina, Gleb Dovzhenko, Lin Song, &#1053;. &#1057;. &#1040;&#1083;&#1077;&#1082;&#1089;&#1072;&#1085;&#1076;&#1088;&#1086;&#1074;&#1072;, Elena Lozhkina, E. V. Domarov, Arina V. Ukhina, Intermetallics. 181(None)] 2025. https://openalex.org/W4408489714
-
-                No abstract</description>
-      <author>Daria V. Lazurenko, Alexey A. Ruktuev, Yu. N. Malyutina, Gleb Dovzhenko, Lin Song, &#1053;. &#1057;. &#1040;&#1083;&#1077;&#1082;&#1089;&#1072;&#1085;&#1076;&#1088;&#1086;&#1074;&#1072;, Elena Lozhkina, E. V. Domarov, Arina V. Ukhina</author>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.intermet.2025.108745</guid>
-    </item>
-    <item>
-      <title>Strain engineering in gradient-structured metallic glasses for excellent overall water splitting</title>
-      <link>https://doi.org/10.1016/j.mattod.2025.02.024</link>
-      <description>Chaoqun Pei, Shuangqin Chen, Jiuyuan Xie, Shidong Feng, Mingyuan Yu, Cheng Zhan, Yuyang Qian, Guannan Yang, Yuxuan Chen, Si Lan, Erjun Kan, Yue Wang, Xiaoke Mu, Horst Hahn, Baoan Sun, Gerhard Wilde, Tao Feng, Materials Today. None(None)] 2025. https://openalex.org/W4408491533
-
-                No abstract</description>
-      <author>Chaoqun Pei, Shuangqin Chen, Jiuyuan Xie, Shidong Feng, Mingyuan Yu, Cheng Zhan, Yuyang Qian, Guannan Yang, Yuxuan Chen, Si Lan, Erjun Kan, Yue Wang, Xiaoke Mu, Horst Hahn, Baoan Sun, Gerhard Wilde, Tao Feng</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mattod.2025.02.024</guid>
-    </item>
-    <item>
-      <title>Synthesis of novel Fe0.11V2O5.15/g-C3N4 for electrochemical paracetamol detection and electrocatalytic water splitting</title>
-      <link>https://doi.org/10.1016/j.mssp.2025.109468</link>
-      <description>Shakeel Ahmad, Iqra Fareed, Muhammad Danish Khan, Tahmina Maqsood, Muhammad Saeed Akhtar, Mashal Firdous, Zulfiqar Ali, Yahya Sandali, Muhammad Bilal Tahir, Faheem K. Butt, Materials Science in Semiconductor Processing. 192(None)] 2025. https://openalex.org/W4408492629
-
-                No abstract</description>
-      <author>Shakeel Ahmad, Iqra Fareed, Muhammad Danish Khan, Tahmina Maqsood, Muhammad Saeed Akhtar, Mashal Firdous, Zulfiqar Ali, Yahya Sandali, Muhammad Bilal Tahir, Faheem K. Butt</author>
-      <pubDate>Sun, 16 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mssp.2025.109468</guid>
-    </item>
     <item>
       <title>In-Ti-Cu trimetallic sites mediated CO2 coordination model and enhanced surface frustrated Lewis pairs for controlling the selectivity of photoreduction of CO2</title>
       <link>https://doi.org/10.1016/j.apcata.2025.120206</link>
@@ -506,6 +466,66 @@
       <author>Areti Moutsiou, Andrea Olivati, Luis A. Cipriano, Alessandra Sivo, Sean M. Collins, Quentin M. Ramasse, Ik Seon Kwon, Giovanni Di Liberto, M. A. Kanso, Robert Wojcieszak, Gianfranco Pacchioni, Annamaria Petrozza, Gianvito Vil&#233;</author>
       <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05208</guid>
+    </item>
+    <item>
+      <title>Selectivity Control in the Nitrogen Reduction Reaction over Mo&lt;sub&gt;2&lt;/sub&gt;C MXene by a Nitrogen-Rich Environment</title>
+      <link>https://doi.org/10.1021/acscatal.4c04878</link>
+      <description>Divya Singh, Samad Razzaq, Ebrahim Tayyebi, Kai S. Exner, ACS Catalysis. None(None)] 2025. https://openalex.org/W4408707244
+
+                No abstract</description>
+      <author>Divya Singh, Samad Razzaq, Ebrahim Tayyebi, Kai S. Exner</author>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04878</guid>
+    </item>
+    <item>
+      <title>Bridging Oxide Thermodynamics and Site-Blocking: A Computational Study of ORR Activity on Platinum Nanoparticles</title>
+      <link>https://doi.org/10.1021/acscatal.5c00321</link>
+      <description>Tom Demeyere, Tom Ellaby, Misbah Sarwar, David Thompsett, Chris&#8208;Kriton Skylaris, ACS Catalysis. None(None)] 2025. https://openalex.org/W4408722053
+
+                No abstract</description>
+      <author>Tom Demeyere, Tom Ellaby, Misbah Sarwar, David Thompsett, Chris&#8208;Kriton Skylaris</author>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c00321</guid>
+    </item>
+    <item>
+      <title>Design the transition metal dichalcogenides supported single-atom catalysts for electroreduction of nitrate to ammonia</title>
+      <link>https://doi.org/10.1016/j.ces.2025.121573</link>
+      <description>Yawen Tong, Ning Yan, Chenghao Ye, Heng Liang, Ting Zeng, Jinzhe Zhang, Juntao Dai, Xiang&#8208;Kui Gu, Chemical Engineering Science. None(None)] 2025. https://openalex.org/W4408723236
+
+                No abstract</description>
+      <author>Yawen Tong, Ning Yan, Chenghao Ye, Heng Liang, Ting Zeng, Jinzhe Zhang, Juntao Dai, Xiang&#8208;Kui Gu</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2025.121573</guid>
+    </item>
+    <item>
+      <title>H&#8208;Embedding Induced Electron Localization in Pd Lattice for Improving Electrochemical Hydrogen Purification</title>
+      <link>https://doi.org/10.1002/smtd.202500249</link>
+      <description>Xuanwei Yin, Cong Wei, Chongyang Tang, Zenan Bian, B. Liu, Xinqiang Wang, Yaxiong Yang, Yanyan Fang, Hongge Pan, Gongming Wang, Small Methods. None(None)] 2025. https://openalex.org/W4408724624
+
+                Electrochemical hydrogen purification (EHP) technology with high-efficiency and easy-operation holds great potential in blended hydrogen transportation, which is currently restricted to proton exchange membrane system and Pt-based catalysts. As promising candidates used in alkaline anion exchange membrane system, Pd-based catalysts are hampered by the intense interaction between H* and delocalized 4d electrons, resulting in unsatisfactory catalytic activity. In this study, a marked enhancement of the alkaline membrane-based EHP performance is achieved, with hydrogen purity up to 99.96% separated from a CH4-H2 mixture, by strategically incorporating interstitial H atoms into Pd lattices for improving the anodic hydrogen oxidation reaction. Detailed characterizations and density functional theory calculations elucidate that the presence of interstitial H localizes free electrons into Pd-H covalent bonds, thereby weakening the interaction between surface-adsorbed H* and the catalytic surface. Moreover, operando spectroscopies and ab initio molecular dynamic simulations reveal that the enhanced interaction between the catalyst surface and interfacial water by electron delocalization, facilitates the desorption of H* to the interfacial water layer during catalysis. This research highlights the pivotal role of electronic localization in modulating the adsorption strength of key reaction intermediates for the design of efficient Pd-based catalysts.</description>
+      <author>Xuanwei Yin, Cong Wei, Chongyang Tang, Zenan Bian, B. Liu, Xinqiang Wang, Yaxiong Yang, Yanyan Fang, Hongge Pan, Gongming Wang</author>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202500249</guid>
+    </item>
+    <item>
+      <title>Assessing the Prospects, Costs, and Risks of Carbon Capture and Storage Implementation in Germany</title>
+      <link>https://doi.org/10.1016/j.ccst.2025.100418</link>
+      <description>Nicol&#225;s Malz, Pao-Yu Oei, Philipp Herpich, Carbon Capture Science &amp; Technology. None(None)] 2025. https://openalex.org/W4408733460
+
+                No abstract</description>
+      <author>Nicol&#225;s Malz, Pao-Yu Oei, Philipp Herpich</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ccst.2025.100418</guid>
+    </item>
+    <item>
+      <title>A Physicochemical Investigation on the Interaction of Aloe vera Extracts with Ascorbic Acid and Deoxyribonucleic Acid</title>
+      <link>https://doi.org/10.1134/s0012501625600019</link>
+      <description>Abbas Khan, Saira Naz, Muhammad Humayun, Noor Rehman, M. Bououdina, Nasrullah Shah, Khair Zaman, Khurram Shahzad Munawar, Doklady Physical Chemistry. 518(1-2)] 2024. https://openalex.org/W4408718269
+
+                No abstract</description>
+      <author>Abbas Khan, Saira Naz, Muhammad Humayun, Noor Rehman, M. Bououdina, Nasrullah Shah, Khair Zaman, Khurram Shahzad Munawar</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1134/s0012501625600019</guid>
     </item>
     <item>
       <title>Site-specific stabilizing effect of single atoms on spinel oxides for acidic oxygen evolution</title>
