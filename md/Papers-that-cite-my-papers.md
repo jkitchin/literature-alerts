@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Mar 24 01:36:32 2025
+Created on Tue Mar 25 01:27:03 2025
 
-Found 57 results from 2025-03-17 to 2025-03-24
+Found 61 results from 2025-03-18 to 2025-03-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W4407089073%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W4407089073%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544)
@@ -16,50 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176)
-
-## In-Ti-Cu trimetallic sites mediated CO2 coordination model and enhanced surface frustrated Lewis pairs for controlling the selectivity of photoreduction of CO2   
-
-OpenAlex: https://openalex.org/W4408496460    
-Open access: False
-    
-[Hui Zhao](https://openalex.org/A5079700843), [Jihai Duan](https://openalex.org/A5091523216), [Zisheng Zhang](https://openalex.org/A5101427646), [Weiwen Wang](https://openalex.org/A5100748337), Applied Catalysis A General. None(None)] 2025.https://doi.org/10.1016/j.apcata.2025.120206.
-    
-No abstract    
-
-    
-
-## Nanoscale high-entropy surface engineering promotes selective glycerol electro-oxidation to glycerate at high current density   
-
-OpenAlex: https://openalex.org/W4408502110    
-Open access: False
-    
-[Shuibo Wang](https://openalex.org/A5090513140), [Yichao Lin](https://openalex.org/A5006971744), [Y Li](https://openalex.org/A5029585700), [Ziqi Tian](https://openalex.org/A5043875055), [Yu Wang](https://openalex.org/A5100445300), [Zhiyi Lu](https://openalex.org/A5016168727), [Baoxin Ni](https://openalex.org/A5022112491), [Kun Jiang](https://openalex.org/A5002267722), [Hongbo Yu](https://openalex.org/A5100296180), [Shiwei Wang](https://openalex.org/A5100340289), [Hongfeng Yin](https://openalex.org/A5101506113), [Liang Chen](https://openalex.org/A5112386842), Nature Nanotechnology. None(None)] 2025.https://doi.org/10.1038/s41565-025-01881-9.
-    
-No abstract    
-
-    
-
-## Electrochemical synthesis of methane on (110) facets of carbides via MvK mechanism   
-
-OpenAlex: https://openalex.org/W4408508284    
-Open access: False
-    
-[Naveed Ashraf](https://openalex.org/A5087223446), [Younes Abghoui](https://openalex.org/A5073238551), Electrochimica Acta. None(None)] 2025.https://doi.org/10.1016/j.electacta.2025.146069.
-    
-No abstract    
-
-    
-
-## Insights into the Proton-Coupled Electron Transfer Mechanism in Fuel Cells   
-
-OpenAlex: https://openalex.org/W4408508765    
-Open access: False
-    
-[Muhammad Shahbaz Anwar](https://openalex.org/A5101903205), [Yong Yu](https://openalex.org/A5100509633), [Shahzad Rasool](https://openalex.org/A5013332437), [Nabeela Akbar](https://openalex.org/A5021908956), [Jianbing Huang](https://openalex.org/A5027751473), [Manish Singh](https://openalex.org/A5040281728), [Priyanka Gupta](https://openalex.org/A5084336122), [Shuo Wan](https://openalex.org/A5072429165), [Qiu‐An Huang](https://openalex.org/A5036094467), [Fan Yang](https://openalex.org/A5101625297), [Muhammad Khalid](https://openalex.org/A5000170064), [Rizwan Raza](https://openalex.org/A5043917821), [Jun Wang](https://openalex.org/A5063893308), [Yuzheng Lu](https://openalex.org/A5087035511), [Sining Yun](https://openalex.org/A5055426495), [Bin Zhu](https://openalex.org/A5073979973), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.5c00203.
-    
-Proton-coupled electron transfer (PCET) is not only an important fundamental process in energy systems but also a pivotal factor in enhancing electrocatalytic functions in fuel cells (FCs). This article investigates the PCET mechanism in low-temperature (300–500 °C) protonic ceramic fuel cells, focusing on its role in catalyzing the hydrogen oxidation reaction and the oxygen reduction reaction. Our findings reveal that PCET significantly enhances the electrocatalytic activity by mitigating polarization losses, reducing charge-transfer resistance by 1 to 2 orders of magnitude, and thereby accelerating the reaction kinetics compared to scenarios without PCET. Importantly, changes in relaxation time upon proton injection evidence the robustness of PCET. The marked reduction in activation energy to 0.31 eV further illustrates how PCET overcomes energy barriers, facilitating more efficient reaction pathways. These insights highlight the critical role of PCET in optimizing the electrocatalytic performance of FCs, underscoring its significant importance in advancing FC technology.    
-
-    
 
 ## Effect of Photodeposited Noble Metal Nanoparticles on the Sacrificial-Agent-Free H2O2 Photosynthesis Performance of g-C3N4   
 
@@ -573,6 +529,94 @@ OpenAlex: https://openalex.org/W4408733460
 Open access: True
     
 [Nicolás Malz](https://openalex.org/A5055724608), [Pao-Yu Oei](https://openalex.org/A5071738027), [Philipp Herpich](https://openalex.org/A5055289304), Carbon Capture Science & Technology. None(None)] 2025.https://doi.org/10.1016/j.ccst.2025.100418.
+    
+No abstract    
+
+    
+
+## Constructing CoNiRuIrMn High-entropy Alloy Network for Boosting Electrocatalytic Activity toward Alkaline Water Oxidation   
+
+OpenAlex: https://openalex.org/W4408735398    
+Open access: False
+    
+[Yan Su](https://openalex.org/A5037431207), [Linfeng Zhang](https://openalex.org/A5100689119), [Weimo Li](https://openalex.org/A5047902639), [Ruikai Qi](https://openalex.org/A5006634817), [Mengxiao Zhong](https://openalex.org/A5036429116), [Meijiao Xu](https://openalex.org/A5079373839), [Wei Song](https://openalex.org/A5110560476), [Xiaofeng Lu](https://openalex.org/A5075456232), Acta Materialia. None(None)] 2025.https://doi.org/10.1016/j.actamat.2025.120964.
+    
+No abstract    
+
+    
+
+## Different capture methods for various feed CO2 concentrations and flow rates from flue gas   
+
+OpenAlex: https://openalex.org/W4408746088    
+Open access: False
+    
+[Phạm Thị Lan Hương](https://openalex.org/A5049446158), [Y. B. N. Tran](https://openalex.org/A5061522035), [Tuan B.H. Nguyen](https://openalex.org/A5084383604), Clean Technologies and Environmental Policy. None(None)] 2025.https://doi.org/10.1007/s10098-025-03152-6.
+    
+No abstract    
+
+    
+
+## 2D Borophene Nanostructures: Recent Advances in Synthesis, Characterization, and Emerging Applications   
+
+OpenAlex: https://openalex.org/W4408746543    
+Open access: False
+    
+[Maria Batool](https://openalex.org/A5084941653), [Jahangir Ahmad Rather](https://openalex.org/A5022798803), [Akhtar Hussain Malik](https://openalex.org/A5107172743), [Waheed Ahmad Khanday](https://openalex.org/A5104990934), [Waseem Ahmad Wani](https://openalex.org/A5086479686), [Abdul Haleem Wani](https://openalex.org/A5024106064), [Rakesh Bhaskar](https://openalex.org/A5022288805), [Palanisamy Kannan](https://openalex.org/A5050955449), Surfaces and Interfaces. None(None)] 2025.https://doi.org/10.1016/j.surfin.2025.106296.
+    
+No abstract    
+
+    
+
+## Physical Significance of Descriptors to Predict the Band Center of High‐Entropy Nanoalloys   
+
+OpenAlex: https://openalex.org/W4408748740    
+Open access: True
+    
+[Yu̅suke Nanba](https://openalex.org/A5074654451), [Michihisa Koyama](https://openalex.org/A5060491556), Journal of Computational Chemistry. 46(8)] 2025.https://doi.org/10.1002/jcc.70086.
+    
+ABSTRACT The band center of d orbitals ( d ‐band center) has been widely used as an effective descriptor for analyzing material properties. However, in high‐entropy nanoalloys, the diverse atomic environments present challenges in systematically exploring all possible combinations. Due to computational resource limitations, generating a sufficient number of samples is infeasible. Consequently, the d ‐band center should be treated as a response variable in machine‐learning models. We calculated the d ‐band center for individual atoms and applied supervised learning techniques to identify key factors influencing its behavior. While several factors were identified, their physical significance in predicting d ‐band centers remained unclear. To address this issue, we incorporated various interatomic distance terms as descriptors, along with element‐based coordination numbers (ECN). The resulting model closely resembled the overlap integral of the Slater‐type orbital, and the regression coefficients of the ECN exhibited sensitivity to the effective principal quantum number and nuclear charge. Understanding the physical significance of these descriptors is crucial for improving property predictions and facilitating data collection on novel materials.    
+
+    
+
+## Bimetallic transition metal dichalcogenides NixMo1-xSSe as efficient electrocatalysts for hydrogen evolution reaction in protic electrolyte   
+
+OpenAlex: https://openalex.org/W4408751279    
+Open access: False
+    
+[R. Shwetharani](https://openalex.org/A5084693441), [Samriti Mehta](https://openalex.org/A5113328122), [Bhuneshwar Paswan](https://openalex.org/A5099634082), [Itika Kainthla](https://openalex.org/A5085850887), [Sumanth Dongre S](https://openalex.org/A5019704170), [Amitava Banerjee](https://openalex.org/A5041359367), [R. Geetha Balakrishna](https://openalex.org/A5085521291), Fuel. 394(None)] 2025.https://doi.org/10.1016/j.fuel.2025.135035.
+    
+No abstract    
+
+    
+
+## Novel two-dimensional ZnO materials for enhanced photocatalytic hydrogen evolution performance   
+
+OpenAlex: https://openalex.org/W4408755952    
+Open access: False
+    
+[Peixian Wang](https://openalex.org/A5090447303), [Bin Song](https://openalex.org/A5015923359), [Gaoling Zhao](https://openalex.org/A5078921776), Applied Surface Science. None(None)] 2025.https://doi.org/10.1016/j.apsusc.2025.163068.
+    
+No abstract    
+
+    
+
+## Self-activated oxophilic surface of porous molybdenum carbide nanosheets promotes hydrogen evolution activity in alkaline environment   
+
+OpenAlex: https://openalex.org/W4408756062    
+Open access: True
+    
+[Yong Li](https://openalex.org/A5100355454), [Weining Song](https://openalex.org/A5090182676), [Teng Gai](https://openalex.org/A5002563466), [Lipeng Wang](https://openalex.org/A5100378200), [Zhen Li](https://openalex.org/A5100332627), [Peng He](https://openalex.org/A5108981182), [Qi Liu](https://openalex.org/A5034064175), [Lawrence Yoon Suk Lee](https://openalex.org/A5028129738), Journal of Colloid and Interface Science. None(None)] 2025.https://doi.org/10.1016/j.jcis.2025.137423.
+    
+No abstract    
+
+    
+
+## Machine Learning Supported Annealing for Prediction of Grand Canonical Crystal Structures   
+
+OpenAlex: https://openalex.org/W4408757120    
+Open access: False
+    
+[Yannick Couzinié](https://openalex.org/A5018588711), [Yuya Seki](https://openalex.org/A5040695947), [Yusuke Nishiya](https://openalex.org/A5026476184), [Hirofumi Nishi](https://openalex.org/A5002463006), [Taichi Kosugi](https://openalex.org/A5004569261), [Shu Tanaka](https://openalex.org/A5057961231), [Yu‐ichiro Matsushita](https://openalex.org/A5025900726), Journal of the Physical Society of Japan. 94(4)] 2025.https://doi.org/10.7566/jpsj.94.044802.
     
 No abstract    
 

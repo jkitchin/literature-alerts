@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 24 Mar 2025 01:36:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 01:27:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>In-Ti-Cu trimetallic sites mediated CO2 coordination model and enhanced surface frustrated Lewis pairs for controlling the selectivity of photoreduction of CO2</title>
-      <link>https://doi.org/10.1016/j.apcata.2025.120206</link>
-      <description>Hui Zhao, Jihai Duan, Zisheng Zhang, Weiwen Wang, Applied Catalysis A General. None(None)] 2025. https://openalex.org/W4408496460
-
-                No abstract</description>
-      <author>Hui Zhao, Jihai Duan, Zisheng Zhang, Weiwen Wang</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcata.2025.120206</guid>
-    </item>
-    <item>
-      <title>Nanoscale high-entropy surface engineering promotes selective glycerol electro-oxidation to glycerate at high current density</title>
-      <link>https://doi.org/10.1038/s41565-025-01881-9</link>
-      <description>Shuibo Wang, Yichao Lin, Y Li, Ziqi Tian, Yu Wang, Zhiyi Lu, Baoxin Ni, Kun Jiang, Hongbo Yu, Shiwei Wang, Hongfeng Yin, Liang Chen, Nature Nanotechnology. None(None)] 2025. https://openalex.org/W4408502110
-
-                No abstract</description>
-      <author>Shuibo Wang, Yichao Lin, Y Li, Ziqi Tian, Yu Wang, Zhiyi Lu, Baoxin Ni, Kun Jiang, Hongbo Yu, Shiwei Wang, Hongfeng Yin, Liang Chen</author>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41565-025-01881-9</guid>
-    </item>
-    <item>
-      <title>Electrochemical synthesis of methane on (110) facets of carbides via MvK mechanism</title>
-      <link>https://doi.org/10.1016/j.electacta.2025.146069</link>
-      <description>Naveed Ashraf, Younes Abghoui, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4408508284
-
-                No abstract</description>
-      <author>Naveed Ashraf, Younes Abghoui</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146069</guid>
-    </item>
-    <item>
-      <title>Insights into the Proton-Coupled Electron Transfer Mechanism in Fuel Cells</title>
-      <link>https://doi.org/10.1021/acsami.5c00203</link>
-      <description>Muhammad Shahbaz Anwar, Yong Yu, Shahzad Rasool, Nabeela Akbar, Jianbing Huang, Manish Singh, Priyanka Gupta, Shuo Wan, Qiu&#8208;An Huang, Fan Yang, Muhammad Khalid, Rizwan Raza, Jun Wang, Yuzheng Lu, Sining Yun, Bin Zhu, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4408508765
-
-                Proton-coupled electron transfer (PCET) is not only an important fundamental process in energy systems but also a pivotal factor in enhancing electrocatalytic functions in fuel cells (FCs). This article investigates the PCET mechanism in low-temperature (300&#8211;500 &#176;C) protonic ceramic fuel cells, focusing on its role in catalyzing the hydrogen oxidation reaction and the oxygen reduction reaction. Our findings reveal that PCET significantly enhances the electrocatalytic activity by mitigating polarization losses, reducing charge-transfer resistance by 1 to 2 orders of magnitude, and thereby accelerating the reaction kinetics compared to scenarios without PCET. Importantly, changes in relaxation time upon proton injection evidence the robustness of PCET. The marked reduction in activation energy to 0.31 eV further illustrates how PCET overcomes energy barriers, facilitating more efficient reaction pathways. These insights highlight the critical role of PCET in optimizing the electrocatalytic performance of FCs, underscoring its significant importance in advancing FC technology.</description>
-      <author>Muhammad Shahbaz Anwar, Yong Yu, Shahzad Rasool, Nabeela Akbar, Jianbing Huang, Manish Singh, Priyanka Gupta, Shuo Wan, Qiu&#8208;An Huang, Fan Yang, Muhammad Khalid, Rizwan Raza, Jun Wang, Yuzheng Lu, Sining Yun, Bin Zhu</author>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c00203</guid>
-    </item>
     <item>
       <title>Effect of Photodeposited Noble Metal Nanoparticles on the Sacrificial-Agent-Free H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Photosynthesis Performance of g-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt;</title>
       <link>https://doi.org/10.1021/acsanm.5c00311</link>
@@ -516,6 +476,86 @@
       <author>Nicol&#225;s Malz, Pao-Yu Oei, Philipp Herpich</author>
       <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ccst.2025.100418</guid>
+    </item>
+    <item>
+      <title>Constructing CoNiRuIrMn High-entropy Alloy Network for Boosting Electrocatalytic Activity toward Alkaline Water Oxidation</title>
+      <link>https://doi.org/10.1016/j.actamat.2025.120964</link>
+      <description>Yan Su, Linfeng Zhang, Weimo Li, Ruikai Qi, Mengxiao Zhong, Meijiao Xu, Wei Song, Xiaofeng Lu, Acta Materialia. None(None)] 2025. https://openalex.org/W4408735398
+
+                No abstract</description>
+      <author>Yan Su, Linfeng Zhang, Weimo Li, Ruikai Qi, Mengxiao Zhong, Meijiao Xu, Wei Song, Xiaofeng Lu</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2025.120964</guid>
+    </item>
+    <item>
+      <title>Different capture methods for various feed CO2 concentrations and flow rates from flue gas</title>
+      <link>https://doi.org/10.1007/s10098-025-03152-6</link>
+      <description>Ph&#7841;m Th&#7883; Lan H&#432;&#417;ng, Y. B. N. Tran, Tuan B.H. Nguyen, Clean Technologies and Environmental Policy. None(None)] 2025. https://openalex.org/W4408746088
+
+                No abstract</description>
+      <author>Ph&#7841;m Th&#7883; Lan H&#432;&#417;ng, Y. B. N. Tran, Tuan B.H. Nguyen</author>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10098-025-03152-6</guid>
+    </item>
+    <item>
+      <title>2D Borophene Nanostructures: Recent Advances in Synthesis, Characterization, and Emerging Applications</title>
+      <link>https://doi.org/10.1016/j.surfin.2025.106296</link>
+      <description>Maria Batool, Jahangir Ahmad Rather, Akhtar Hussain Malik, Waheed Ahmad Khanday, Waseem Ahmad Wani, Abdul Haleem Wani, Rakesh Bhaskar, Palanisamy Kannan, Surfaces and Interfaces. None(None)] 2025. https://openalex.org/W4408746543
+
+                No abstract</description>
+      <author>Maria Batool, Jahangir Ahmad Rather, Akhtar Hussain Malik, Waheed Ahmad Khanday, Waseem Ahmad Wani, Abdul Haleem Wani, Rakesh Bhaskar, Palanisamy Kannan</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.106296</guid>
+    </item>
+    <item>
+      <title>Physical Significance of Descriptors to Predict the Band Center of High&#8208;Entropy Nanoalloys</title>
+      <link>https://doi.org/10.1002/jcc.70086</link>
+      <description>Yu&#773;suke Nanba, Michihisa Koyama, Journal of Computational Chemistry. 46(8)] 2025. https://openalex.org/W4408748740
+
+                ABSTRACT The band center of d orbitals ( d &#8208;band center) has been widely used as an effective descriptor for analyzing material properties. However, in high&#8208;entropy nanoalloys, the diverse atomic environments present challenges in systematically exploring all possible combinations. Due to computational resource limitations, generating a sufficient number of samples is infeasible. Consequently, the d &#8208;band center should be treated as a response variable in machine&#8208;learning models. We calculated the d &#8208;band center for individual atoms and applied supervised learning techniques to identify key factors influencing its behavior. While several factors were identified, their physical significance in predicting d &#8208;band centers remained unclear. To address this issue, we incorporated various interatomic distance terms as descriptors, along with element&#8208;based coordination numbers (ECN). The resulting model closely resembled the overlap integral of the Slater&#8208;type orbital, and the regression coefficients of the ECN exhibited sensitivity to the effective principal quantum number and nuclear charge. Understanding the physical significance of these descriptors is crucial for improving property predictions and facilitating data collection on novel materials.</description>
+      <author>Yu&#773;suke Nanba, Michihisa Koyama</author>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/jcc.70086</guid>
+    </item>
+    <item>
+      <title>Bimetallic transition metal dichalcogenides NixMo1-xSSe as efficient electrocatalysts for hydrogen evolution reaction in protic electrolyte</title>
+      <link>https://doi.org/10.1016/j.fuel.2025.135035</link>
+      <description>R. Shwetharani, Samriti Mehta, Bhuneshwar Paswan, Itika Kainthla, Sumanth Dongre S, Amitava Banerjee, R. Geetha Balakrishna, Fuel. 394(None)] 2025. https://openalex.org/W4408751279
+
+                No abstract</description>
+      <author>R. Shwetharani, Samriti Mehta, Bhuneshwar Paswan, Itika Kainthla, Sumanth Dongre S, Amitava Banerjee, R. Geetha Balakrishna</author>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.135035</guid>
+    </item>
+    <item>
+      <title>Novel two-dimensional ZnO materials for enhanced photocatalytic hydrogen evolution performance</title>
+      <link>https://doi.org/10.1016/j.apsusc.2025.163068</link>
+      <description>Peixian Wang, Bin Song, Gaoling Zhao, Applied Surface Science. None(None)] 2025. https://openalex.org/W4408755952
+
+                No abstract</description>
+      <author>Peixian Wang, Bin Song, Gaoling Zhao</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.163068</guid>
+    </item>
+    <item>
+      <title>Self-activated oxophilic surface of porous molybdenum carbide nanosheets promotes hydrogen evolution activity in alkaline environment</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.137423</link>
+      <description>Yong Li, Weining Song, Teng Gai, Lipeng Wang, Zhen Li, Peng He, Qi Liu, Lawrence Yoon Suk Lee, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4408756062
+
+                No abstract</description>
+      <author>Yong Li, Weining Song, Teng Gai, Lipeng Wang, Zhen Li, Peng He, Qi Liu, Lawrence Yoon Suk Lee</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137423</guid>
+    </item>
+    <item>
+      <title>Machine Learning Supported Annealing for Prediction of Grand Canonical Crystal Structures</title>
+      <link>https://doi.org/10.7566/jpsj.94.044802</link>
+      <description>Yannick Couzini&#233;, Yuya Seki, Yusuke Nishiya, Hirofumi Nishi, Taichi Kosugi, Shu Tanaka, Yu&#8208;ichiro Matsushita, Journal of the Physical Society of Japan. 94(4)] 2025. https://openalex.org/W4408757120
+
+                No abstract</description>
+      <author>Yannick Couzini&#233;, Yuya Seki, Yusuke Nishiya, Hirofumi Nishi, Taichi Kosugi, Shu Tanaka, Yu&#8208;ichiro Matsushita</author>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.7566/jpsj.94.044802</guid>
     </item>
     <item>
       <title>A Physicochemical Investigation on the Interaction of Aloe vera Extracts with Ascorbic Acid and Deoxyribonucleic Acid</title>
