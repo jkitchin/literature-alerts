@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Mar 25 01:27:03 2025
+Created on Wed Mar 26 01:26:29 2025
 
-Found 61 results from 2025-03-18 to 2025-03-25
+Found 62 results from 2025-03-19 to 2025-03-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W4407089073%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W4407089073%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544)
@@ -16,83 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176)
-
-## Effect of Photodeposited Noble Metal Nanoparticles on the Sacrificial-Agent-Free H2O2 Photosynthesis Performance of g-C3N4   
-
-OpenAlex: https://openalex.org/W4408513362    
-Open access: False
-    
-[Guodan Wang](https://openalex.org/A5053075798), [Tengfei Huang](https://openalex.org/A5018746635), [Yongsheng Tan](https://openalex.org/A5110821235), [Shiyan Liu](https://openalex.org/A5055336898), [Rong Wu](https://openalex.org/A5044429650), [Zebo Fang](https://openalex.org/A5109447053), [Baocheng Yang](https://openalex.org/A5115591146), [Shunhang Wei](https://openalex.org/A5022545790), ACS Applied Nano Materials. None(None)] 2025.https://doi.org/10.1021/acsanm.5c00311.
-    
-No abstract    
-
-    
-
-## Applications of machine learning in surfaces and interfaces   
-
-OpenAlex: https://openalex.org/W4408518586    
-Open access: True
-    
-[Shaofeng Xu](https://openalex.org/A5083234272), [Jing‐Yuan Wu](https://openalex.org/A5040743612), [Ying Guo](https://openalex.org/A5100723622), [Qing Zhang](https://openalex.org/A5100785938), [Xiaoxia Zhong](https://openalex.org/A5100636940), [Jinjin Li](https://openalex.org/A5100657123), [Wei Ren](https://openalex.org/A5007265691), Chemical Physics Reviews. 6(1)] 2025.https://doi.org/10.1063/5.0244175.
-    
-Surfaces and interfaces play key roles in chemical and material science. Understanding physical and chemical processes at complex surfaces and interfaces is a challenging task. Machine learning provides a powerful tool to help analyze and accelerate simulations. This comprehensive review affords an overview of the applications of machine learning in the study of surfaces and interfaces of chemical systems and materials. We categorize surfaces and interfaces into the following broad categories: solid–solid interface, solid–liquid interface, liquid–liquid interface, surface of solid, surface of liquid, and three-phase interfaces. High-throughput screening, combined machine learning and first-principles calculations, and machine learning force field accelerated molecular dynamics simulations are used to rational design and study physical and chemical processes of surfaces and interfaces in systems such as all-solid-state batteries, solar cells, and heterogeneous catalysis. This review provides detailed and comprehensive information on the applications of machine learning on surfaces and interfaces for chemical and material science.    
-
-    
-
-## Influence of Coverage Dependence on the Thermophysical Properties of Adsorbates and Its Impact on Microkinetic Models   
-
-OpenAlex: https://openalex.org/W4408528041    
-Open access: False
-    
-[Jongyoon Bae](https://openalex.org/A5003362349), [Bjarne Kreitz](https://openalex.org/A5000262655), [Andrew A. Peterson](https://openalex.org/A5049777382), [C. Franklin Goldsmith](https://openalex.org/A5015623304), Journal of Chemical Information and Modeling. None(None)] 2025.https://doi.org/10.1021/acs.jcim.4c02167.
-    
-This work focuses on the impact of lateral interactions on the thermophysical properties of adsorbates. We present different parametrizations for coverage-dependent enthalpy, entropy, and heat capacity in a mean-field microkinetic model. These models are tested against two systems, CO/Pt(111) and CO/Co(0001), using two different functionals. A detailed investigation into how coverage influences the thermophysical properties of CO* is presented. We place particular emphasis on studying the impact of coverage on the vibrational partition function and how this affects the entropy of adsorbates. Higher coverages typically lead to increased repulsive interactions, which should further constrain the large amplitude modes that contribute the most to the vibrational entropy. In some cases, however, the opposite effect occurred; the vibrational entropy actually increased because surface crowding forced adsorbates to different binding locations that had lower frequencies. Our results highlighted cases where coverage-dependent entropy should be included, such as for adsorbates with lateral vibrational modes and systems at high temperatures. These methods for including coverage-dependent properties into mean-field microkinetics in a thermodynamically consistent way are now available in the open-source software Cantera.    
-
-    
-
-## First-principles study of Ga2Ge2S3Se3 monolayer: a promising photocatalyst for water splitting   
-
-OpenAlex: https://openalex.org/W4408530124    
-Open access: True
-    
-[Trung D. Pham](https://openalex.org/A5000817897), [Hien D. Tong](https://openalex.org/A5014591962), RSC Advances. 15(10)] 2025.https://doi.org/10.1039/d5ra00812c.
-    
-The Ga 2 Ge 2 S 3 Se 3 monolayer: a promising 2D photocatalyst with high solar-to-hydrogen efficiency, efficient charge separation, and electron mobility.    
-
-    
-
-## Optimization of 3D Metal‐Based Assemblies for Efficient Electrocatalysis: Structural and Mechanistic Studies   
-
-OpenAlex: https://openalex.org/W4408530767    
-Open access: True
-    
-[Nicole L. D. Sui](https://openalex.org/A5080805692), [Jong‐Min Lee](https://openalex.org/A5100341474), Small. None(None)] 2025.https://doi.org/10.1002/smll.202410390.
-    
-Abstract The commercial utilization of low‐dimensional catalysts has been hindered by their propensity for agglomeration and stacking, greatly minimizing their utilization of active sites. To circumvent this problem, low‐dimensional materials can be assembled into systematic 3D architectures to synergistically retain the benefits of their constituent low‐dimensional nanomaterials, with value‐added bulk properties such as increased active surface area, improved charge transport pathways, and enhanced mass transfer, leading to higher catalytic activity and durability compared to their constituents. The hierarchical organization of low‐dimensional building blocks within 3D structures also enables precise control over the catalyst's morphology, composition, and surface chemistry, facilitating tailored design for specific electrochemical applications. Despite the surge in 3D metal‐based assemblies, there are no reviews encompassing the different types of metal‐based 3D assemblies from low‐dimensional nanomaterials for electrocatalysis. Herein, this review addresses this gap by investigating the various types of self‐supported 3D assemblies and exploring how their electrocatalytic performance can be elevated through structural modifications and mechanistic studies to tailor them for various electrochemical reactions.    
-
-    
-
-## Core/Shell‐Structured Carbon Support Boosting Fuel Cell Durability   
-
-OpenAlex: https://openalex.org/W4408536229    
-Open access: True
-    
-[Tian‐Wei Song](https://openalex.org/A5088339934), [Jun Yan](https://openalex.org/A5011227147), [Lei Tong](https://openalex.org/A5028255357), [Zirui Li](https://openalex.org/A5060260721), [Chang‐Song Ma](https://openalex.org/A5037089509), [Junjie Li](https://openalex.org/A5100367646), [Cong Xu](https://openalex.org/A5001858773), [Shuai Li](https://openalex.org/A5100424076), [Ru‐Yang Shao](https://openalex.org/A5061715769), [Ming J. Zuo](https://openalex.org/A5043676611), [Shengliang Zhong](https://openalex.org/A5066697006), [Shengqi Chu](https://openalex.org/A5058067441), [Hai‐Wei Liang](https://openalex.org/A5026669428), Advanced Materials. None(None)] 2025.https://doi.org/10.1002/adma.202414472.
-    
-Abstract To enhance the lifetime of proton exchange membrane fuel cells, developing highly durable platinum‐based cathode catalysts is essential. While two degradation pathways for the cathode catalyst—carbon corrosion and electrocatalyst (platinum nanoparticles) coarsening—have been identified, current approaches to enhance its durability are limited to addressing individual degradation pathways. Herein, the study develops a core/shell‐structured carbon support that is designed to afford cathode catalysts capable of simultaneously inhibiting carbon corrosion and electrocatalyst coarsening. The core/shell structure is distinguished by its bifunctional nature: the core is made of highly graphitized carbon tailored to build a robust carbon skeleton, and the shell comprises heteroatom‐doped amorphous carbon engineered to prevent electrocatalyst coarsening by chemical/physical anchoring of platinum nanoparticles. Thanks to this elaborate design, the catalyst surpasses the durability targets for carbon supports and electrocatalysts set by the U.S. Department of Energy, as supported by the achieved durability metrics after the square‐wave/triangle‐wave accelerated stress tests: electrochemical surface area loss at 13%/3%, mass activity loss at 27%/17%, and voltage loss of 29 mV (at 0.8 A cm − 2 )/4 mV (at 1.5 A cm − 2 ).    
-
-    
-
-## Trimodal Hierarchical Porous Carbon Nanoplates with Edge Curvature for Faster Mass Transfer and Enhanced Oxygen Reduction   
-
-OpenAlex: https://openalex.org/W4408540705    
-Open access: False
-    
-[Ruijing Xin](https://openalex.org/A5088611497), [Ho Ngoc Nam](https://openalex.org/A5019019449), [Quan Manh Phung](https://openalex.org/A5017511441), [Jing Tang](https://openalex.org/A5006160595), [Shengchun Ma](https://openalex.org/A5039874923), [Josua Markus](https://openalex.org/A5066523909), [Yuchen Dai](https://openalex.org/A5091905008), [Azhar Alowasheeir](https://openalex.org/A5003519767), [Nithima Khaorapapong](https://openalex.org/A5006437910), [Jie Wang](https://openalex.org/A5100440149), [Yusuke Yamauchi](https://openalex.org/A5037509120), [Yusuf Valentino Kaneti](https://openalex.org/A5034156919), ACS Nano. None(None)] 2025.https://doi.org/10.1021/acsnano.4c06404.
-    
-Although hierarchical porous carbon materials have been widely used for electrocatalysis, the role of curvature in carbon nanostructures during electrochemical reactions remains poorly understood due to a lack of experimental models featuring clearly defined curved geometries and periodic structures. In this study, we fabricate hierarchical porous cobalt- and nitrogen-containing carbon nanoplates with trimodal porosity (macro-, meso-, and micropores) and continuous, homogeneous curved edges (Co/N-CNP-CURV) using a polystyrene-directed templating approach. The Co/N-CNP-CURV catalyst exhibits excellent catalytic activity and stability for the alkaline oxygen reduction reaction, with a half-wave potential of 0.82 V and a minimal potential shift of 8 mV after 5000 cycles. The enhanced electrocatalytic activity is attributed to synergistic combinations of the trimodal porosity, abundant Co-Nx active sites, a high density of curved edges, and graphitic carbon encapsulated with cobalt nanoparticles. Density functional theory calculations reveal that the presence of curvature in Co/N-CNP-CURV is beneficial for enhancing the charge transfer from the catalyst to O2, lowering the adsorption energy of O2, and reducing the activation free energy barrier for the rate-determining step (*O2 + (H+ + e-) → *OOH). The study provides compelling experimental evidence supporting the critical role of the curvature effect in enhancing the electrocatalytic performance of nanoporous metal-containing carbon materials.    
-
-    
 
 ## CO2 Reduction Reactivity on the SiC Monolayer with Doped Topological Defects   
 
@@ -567,28 +490,6 @@ No abstract
 
     
 
-## Physical Significance of Descriptors to Predict the Band Center of High‐Entropy Nanoalloys   
-
-OpenAlex: https://openalex.org/W4408748740    
-Open access: True
-    
-[Yu̅suke Nanba](https://openalex.org/A5074654451), [Michihisa Koyama](https://openalex.org/A5060491556), Journal of Computational Chemistry. 46(8)] 2025.https://doi.org/10.1002/jcc.70086.
-    
-ABSTRACT The band center of d orbitals ( d ‐band center) has been widely used as an effective descriptor for analyzing material properties. However, in high‐entropy nanoalloys, the diverse atomic environments present challenges in systematically exploring all possible combinations. Due to computational resource limitations, generating a sufficient number of samples is infeasible. Consequently, the d ‐band center should be treated as a response variable in machine‐learning models. We calculated the d ‐band center for individual atoms and applied supervised learning techniques to identify key factors influencing its behavior. While several factors were identified, their physical significance in predicting d ‐band centers remained unclear. To address this issue, we incorporated various interatomic distance terms as descriptors, along with element‐based coordination numbers (ECN). The resulting model closely resembled the overlap integral of the Slater‐type orbital, and the regression coefficients of the ECN exhibited sensitivity to the effective principal quantum number and nuclear charge. Understanding the physical significance of these descriptors is crucial for improving property predictions and facilitating data collection on novel materials.    
-
-    
-
-## Bimetallic transition metal dichalcogenides NixMo1-xSSe as efficient electrocatalysts for hydrogen evolution reaction in protic electrolyte   
-
-OpenAlex: https://openalex.org/W4408751279    
-Open access: False
-    
-[R. Shwetharani](https://openalex.org/A5084693441), [Samriti Mehta](https://openalex.org/A5113328122), [Bhuneshwar Paswan](https://openalex.org/A5099634082), [Itika Kainthla](https://openalex.org/A5085850887), [Sumanth Dongre S](https://openalex.org/A5019704170), [Amitava Banerjee](https://openalex.org/A5041359367), [R. Geetha Balakrishna](https://openalex.org/A5085521291), Fuel. 394(None)] 2025.https://doi.org/10.1016/j.fuel.2025.135035.
-    
-No abstract    
-
-    
-
 ## Novel two-dimensional ZnO materials for enhanced photocatalytic hydrogen evolution performance   
 
 OpenAlex: https://openalex.org/W4408755952    
@@ -617,6 +518,105 @@ OpenAlex: https://openalex.org/W4408757120
 Open access: False
     
 [Yannick Couzinié](https://openalex.org/A5018588711), [Yuya Seki](https://openalex.org/A5040695947), [Yusuke Nishiya](https://openalex.org/A5026476184), [Hirofumi Nishi](https://openalex.org/A5002463006), [Taichi Kosugi](https://openalex.org/A5004569261), [Shu Tanaka](https://openalex.org/A5057961231), [Yu‐ichiro Matsushita](https://openalex.org/A5025900726), Journal of the Physical Society of Japan. 94(4)] 2025.https://doi.org/10.7566/jpsj.94.044802.
+    
+No abstract    
+
+    
+
+## Physical Significance of Descriptors to Predict the Band Center of High‐Entropy Nanoalloys   
+
+OpenAlex: https://openalex.org/W4408748740    
+Open access: True
+    
+[Yūsuke Nanba](https://openalex.org/A5074654451), [Michihisa Koyama](https://openalex.org/A5060491556), Journal of Computational Chemistry. 46(8)] 2025.https://doi.org/10.1002/jcc.70086.
+    
+ABSTRACT The band center of d orbitals ( d ‐band center) has been widely used as an effective descriptor for analyzing material properties. However, in high‐entropy nanoalloys, the diverse atomic environments present challenges in systematically exploring all possible combinations. Due to computational resource limitations, generating a sufficient number of samples is infeasible. Consequently, the d ‐band center should be treated as a response variable in machine‐learning models. We calculated the d ‐band center for individual atoms and applied supervised learning techniques to identify key factors influencing its behavior. While several factors were identified, their physical significance in predicting d ‐band centers remained unclear. To address this issue, we incorporated various interatomic distance terms as descriptors, along with element‐based coordination numbers (ECN). The resulting model closely resembled the overlap integral of the Slater‐type orbital, and the regression coefficients of the ECN exhibited sensitivity to the effective principal quantum number and nuclear charge. Understanding the physical significance of these descriptors is crucial for improving property predictions and facilitating data collection on novel materials.    
+
+    
+
+## Bimetallic transition metal dichalcogenides NixMo1-xSSe as efficient electrocatalysts for hydrogen evolution reaction in protic electrolyte   
+
+OpenAlex: https://openalex.org/W4408751279    
+Open access: False
+    
+[R. Shwetharani](https://openalex.org/A5084693441), [Samriti Mehta](https://openalex.org/A5113328122), [Bhuneshwar Paswan](https://openalex.org/A5099634082), [Itika Kainthla](https://openalex.org/A5085850887), [Sumanth Dongre S](https://openalex.org/A5019704170), [Amitava Banerjee](https://openalex.org/A5041359367), [R. Geetha Balakrishna](https://openalex.org/A5085521291), Fuel. 394(None)] 2025.https://doi.org/10.1016/j.fuel.2025.135035.
+    
+No abstract    
+
+    
+
+## Quantifying π-electron delocalization as a universal descriptor for ORR activity in MN4 catalysts   
+
+OpenAlex: https://openalex.org/W4408768117    
+Open access: False
+    
+[Miao‐Ying Chen](https://openalex.org/A5002287782), [Jiabo Le](https://openalex.org/A5063246493), [Haoran Wu](https://openalex.org/A5100769821), [Weidong Li](https://openalex.org/A5100369297), [Jianan Zhang](https://openalex.org/A5058865217), [Bang‐An Lu](https://openalex.org/A5046809209), Journal of Catalysis. None(None)] 2025.https://doi.org/10.1016/j.jcat.2025.116093.
+    
+No abstract    
+
+    
+
+## Sulfur doping activated metal–support interaction drives Pt nanoparticles to achieve acid–base hydrogen evolution reaction   
+
+OpenAlex: https://openalex.org/W4408769162    
+Open access: False
+    
+[Yagang Li](https://openalex.org/A5041744910), [Jiaqing Luo](https://openalex.org/A5044531978), [Peilin Liu](https://openalex.org/A5032986088), [Liangkun Zhang](https://openalex.org/A5077240986), [Weiyu Song](https://openalex.org/A5020457916), [Yuechang Wei](https://openalex.org/A5051289737), [Zhen Zhao](https://openalex.org/A5100423046), [Xiao Zhang](https://openalex.org/A5012791624), [Jian Liu](https://openalex.org/A5100414732), [Yuanqing Sun](https://openalex.org/A5015385632), Journal of Materials Chemistry A. None(None)] 2025.https://doi.org/10.1039/d4ta08499c.
+    
+The sulfur doping strategy activates the interfacial effect, thereby promoting Pt NPs to attain efficient acid–base hydrogen evolution.    
+
+    
+
+## Lattice thermal conductivity in the anharmonic overdamped regime   
+
+OpenAlex: https://openalex.org/W4408776904    
+Open access: False
+    
+[Đorđe Dangić](https://openalex.org/A5074251411), [Giovanni Caldarelli](https://openalex.org/A5061164980), [Raffaello Bianco](https://openalex.org/A5051744827), [Ivana Savić](https://openalex.org/A5009282407), [Ion Errea](https://openalex.org/A5052439473), Physical review. B./Physical review. B. 111(10)] 2025.https://doi.org/10.1103/physrevb.111.104314.
+    
+No abstract    
+
+    
+
+## Spillover Dynamics in Heterogeneous Catalysis on Singe‐Atom Alloys: A Theoretical Perspective   
+
+OpenAlex: https://openalex.org/W4408778659    
+Open access: False
+    
+[Shuyu Lin](https://openalex.org/A5103220095), [Rui Xiong](https://openalex.org/A5065454113), [Jun Chen](https://openalex.org/A5046810720), [Sen Lin](https://openalex.org/A5016546361), Wiley Interdisciplinary Reviews Computational Molecular Science. 15(2)] 2025.https://doi.org/10.1002/wcms.70011.
+    
+ABSTRACT Recent advances in single‐atom alloy ( SAA ) catalysts provide a unique platform for understanding spillover, due to the well‐defined nature of the active site for dissociative chemisorption. In particular, the use of spilled adsorbates following molecular dissociation on the host metal surface facilitates the generation of high‐value chemicals in subsequent catalytic reactions. Nevertheless, the factors that control the spillover process remain to be fully elucidated. This perspective discusses recent theoretical advances in the spillover dynamics on SAAs , with a particular focus on the dissociation and spillover processes of H 2 and CH 4 . It provides valuable insights into how various factors, such as energy transfer, nuclear quantum effects, gas‐adsorbate interactions, and adsorbate size, impact the diffusion behavior of hydrogen and methyl species on SAA surfaces. The article concludes with a discussion of future prospects. This perspective underscores the significance of spillover dynamics in heterogeneous catalysis, with important implications for improving catalytic performance.    
+
+    
+
+## Improving the Catalytic Selectivity of Reverse Water–Gas Shift Reaction Catalyzed by Ru/CeO2 Through the Addition of Yttrium Oxide   
+
+OpenAlex: https://openalex.org/W4408778954    
+Open access: True
+    
+[Alfredo Solís-García](https://openalex.org/A5086334687), [Karina Portillo-Cortez](https://openalex.org/A5012795627), [D. Domínguez](https://openalex.org/A5029120248), [S. Fuentes](https://openalex.org/A5055590543), [J.N. Díaz de León](https://openalex.org/A5013838258), [T.A. Zepeda](https://openalex.org/A5110670167), [Uriel Caudillo‐Flores](https://openalex.org/A5075597033), Catalysts. 15(4)] 2025.https://doi.org/10.3390/catal15040301.
+    
+This study reports the synthesis, characterization, and catalytic performance of a series of catalysts of Ru supported on CeO2-Y2O3 composites (Ru/CeYX; X = 0, 33, 66, and 100 wt.% Y2O3) for CO2 hydrogenation. Supported material modification (Y2O3-CeO2), by the Y2O3 incorporation, allowed a change in selectivity from methane to RWGS of the CO2 hydrogenation reaction. This change in selectivity is correlated with the variation in the physicochemical properties caused by Y2O3 addition. X-ray diffraction (XRD) analysis confirmed the formation of crystalline fluorite-phase CeO2 and α-Y2O3. High-resolution transmission electron microscopy (HR-TEM) and energy-dispersive X-ray spectroscopy (EDS) elemental mapping revealed the formation of a homogeneous CeO2-Y2O3 nanocomposite. As the Y2O3 content increased, the specific surface area, measured by BET, showed a decreasing trend from 106.3 to 51.7 m2 g−1. X-ray photoelectron spectroscopy (XPS) of Ce3d indicated a similar Ce3+/Ce4+ ratio across all CeO2-containing materials, while the O1s spectra showed a reduction in oxygen vacancies with increasing Y2O3 content, which is attributed to the decreased surface area upon composite formation. Catalytically, the addition of Y2O3 influenced both conversion and selectivity. CO2 conversion decreased with increasing Y2O3 content, with the lowest conversion observed for Ru/CeY100. Regarding selectivity, methane was the dominant product for Ru/CeY0 (pure CeO2), while CO was the main product for Ru/CeY33, Ru/CeY66, and Ru/CeY100, indicating a shift towards the reverse water–gas shift (RWGS) reaction. The highest RWGS reaction rate was observed with the Ru/CeY33 catalyst under all tested conditions. The observed differences in conversion and selectivity are attributed to a reduction in active sites due to the decrease in surface area and oxygen vacancies, both of which are important for CO2 adsorption. In order to verify the surface species catalytically active for RWGS, the samples were characterized by FTIR spectroscopy under reaction conditions.    
+
+    
+
+## Self-Promoting NO electrochemical reduction via N-N coupling by Surface-Adsorbed *NH intermediates on Mo2C nanosheets   
+
+OpenAlex: https://openalex.org/W4408782209    
+Open access: False
+    
+[Xiang Huang](https://openalex.org/A5100756502), [Xiangting Hu](https://openalex.org/A5016618490), [Jiong Wang](https://openalex.org/A5063026386), [Hu Xu](https://openalex.org/A5070255704), Journal of Catalysis. None(None)] 2025.https://doi.org/10.1016/j.jcat.2025.116097.
+    
+No abstract    
+
+    
+
+## Embedding transition metal atoms in S- modified porphyrin-expanded porphyrin tandem carbon-rich conjugated frameworks for efficient synthesis of C3 sugars   
+
+OpenAlex: https://openalex.org/W4408783757    
+Open access: False
+    
+[Huan Xing](https://openalex.org/A5111085246), [Ling Guo](https://openalex.org/A5032538499), Materials Today Communications. None(None)] 2025.https://doi.org/10.1016/j.mtcomm.2025.112333.
     
 No abstract    
 
@@ -674,6 +674,17 @@ Open access: False
 [Beatriz Dantas](https://openalex.org/A5107265849), [Austin Braniff](https://openalex.org/A5099515986), [Claudemi A. Nascimento](https://openalex.org/A5080072529), [Theodore Malencia](https://openalex.org/A5116734545), [Fernando V. Lima](https://openalex.org/A5008955099), [Yuhe Tian](https://openalex.org/A5083266245), Process Safety and Environmental Protection. None(None)] 2025.https://doi.org/10.1016/j.cherd.2025.03.010.
     
 No abstract    
+
+    
+
+## The Future of Catalysis: Applying Graph Neural Networks for Intelligent Catalyst Design   
+
+OpenAlex: https://openalex.org/W4408782647    
+Open access: False
+    
+[Zhihao Wang](https://openalex.org/A5012085744), [Wentao Li](https://openalex.org/A5084396019), [Siying Wang](https://openalex.org/A5115770416), [Xiaonan Wang](https://openalex.org/A5100410939), Wiley Interdisciplinary Reviews Computational Molecular Science. 15(2)] 2025.https://doi.org/10.1002/wcms.70010.
+    
+ABSTRACT With the increasing global demand for energy transition and environmental sustainability, catalysts play a vital role in mitigating global climate change, as they facilitate over 90% of chemical and material conversions. It is important to investigate the complex structures and properties of catalysts for enhanced performance, for which artificial intelligence (AI) methods, especially graph neural networks (GNNs) could be useful. In this article, we explore the cutting‐edge applications and future potential of GNNs in intelligent catalyst design. The fundamental theories of GNNs and their practical applications in catalytic material simulation and inverse design are first reviewed. We analyze the critical roles of GNNs in accelerating material screening, performance prediction, reaction pathway analysis, and mechanism modeling. By leveraging graph convolution techniques to accurately represent molecular structures, integrating symmetry constraints to ensure physical consistency, and applying generative models to efficiently explore the design space, these approaches work synergistically to enhance the efficiency and accuracy of catalyst design. Furthermore, we highlight high‐quality databases crucial for catalysis research and explore the innovative application of GNNs in thermocatalysis, electrocatalysis, photocatalysis, and biocatalysis. In the end, we highlight key directions for advancing GNNs in catalysis: dynamic frameworks for real‐time conditions, hierarchical models linking atomic details to catalyst features, multi‐task networks for performance prediction, and interpretability mechanisms to reveal critical reaction pathways. We believe these advancements will significantly broaden the role of GNNs in catalysis science, paving the way for more efficient, accurate, and sustainable catalyst design methodologies.    
 
     
 

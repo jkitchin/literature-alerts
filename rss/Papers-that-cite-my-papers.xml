@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 25 Mar 2025 01:27:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 01:26:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Effect of Photodeposited Noble Metal Nanoparticles on the Sacrificial-Agent-Free H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Photosynthesis Performance of g-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acsanm.5c00311</link>
-      <description>Guodan Wang, Tengfei Huang, Yongsheng Tan, Shiyan Liu, Rong Wu, Zebo Fang, Baocheng Yang, Shunhang Wei, ACS Applied Nano Materials. None(None)] 2025. https://openalex.org/W4408513362
-
-                No abstract</description>
-      <author>Guodan Wang, Tengfei Huang, Yongsheng Tan, Shiyan Liu, Rong Wu, Zebo Fang, Baocheng Yang, Shunhang Wei</author>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.5c00311</guid>
-    </item>
-    <item>
-      <title>Applications of machine learning in surfaces and interfaces</title>
-      <link>https://doi.org/10.1063/5.0244175</link>
-      <description>Shaofeng Xu, Jing&#8208;Yuan Wu, Ying Guo, Qing Zhang, Xiaoxia Zhong, Jinjin Li, Wei Ren, Chemical Physics Reviews. 6(1)] 2025. https://openalex.org/W4408518586
-
-                Surfaces and interfaces play key roles in chemical and material science. Understanding physical and chemical processes at complex surfaces and interfaces is a challenging task. Machine learning provides a powerful tool to help analyze and accelerate simulations. This comprehensive review affords an overview of the applications of machine learning in the study of surfaces and interfaces of chemical systems and materials. We categorize surfaces and interfaces into the following broad categories: solid&#8211;solid interface, solid&#8211;liquid interface, liquid&#8211;liquid interface, surface of solid, surface of liquid, and three-phase interfaces. High-throughput screening, combined machine learning and first-principles calculations, and machine learning force field accelerated molecular dynamics simulations are used to rational design and study physical and chemical processes of surfaces and interfaces in systems such as all-solid-state batteries, solar cells, and heterogeneous catalysis. This review provides detailed and comprehensive information on the applications of machine learning on surfaces and interfaces for chemical and material science.</description>
-      <author>Shaofeng Xu, Jing&#8208;Yuan Wu, Ying Guo, Qing Zhang, Xiaoxia Zhong, Jinjin Li, Wei Ren</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0244175</guid>
-    </item>
-    <item>
-      <title>Influence of Coverage Dependence on the Thermophysical Properties of Adsorbates and Its Impact on Microkinetic Models</title>
-      <link>https://doi.org/10.1021/acs.jcim.4c02167</link>
-      <description>Jongyoon Bae, Bjarne Kreitz, Andrew A. Peterson, C. Franklin Goldsmith, Journal of Chemical Information and Modeling. None(None)] 2025. https://openalex.org/W4408528041
-
-                This work focuses on the impact of lateral interactions on the thermophysical properties of adsorbates. We present different parametrizations for coverage-dependent enthalpy, entropy, and heat capacity in a mean-field microkinetic model. These models are tested against two systems, CO/Pt(111) and CO/Co(0001), using two different functionals. A detailed investigation into how coverage influences the thermophysical properties of CO* is presented. We place particular emphasis on studying the impact of coverage on the vibrational partition function and how this affects the entropy of adsorbates. Higher coverages typically lead to increased repulsive interactions, which should further constrain the large amplitude modes that contribute the most to the vibrational entropy. In some cases, however, the opposite effect occurred; the vibrational entropy actually increased because surface crowding forced adsorbates to different binding locations that had lower frequencies. Our results highlighted cases where coverage-dependent entropy should be included, such as for adsorbates with lateral vibrational modes and systems at high temperatures. These methods for including coverage-dependent properties into mean-field microkinetics in a thermodynamically consistent way are now available in the open-source software Cantera.</description>
-      <author>Jongyoon Bae, Bjarne Kreitz, Andrew A. Peterson, C. Franklin Goldsmith</author>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.4c02167</guid>
-    </item>
-    <item>
-      <title>First-principles study of Ga&lt;sub&gt;2&lt;/sub&gt;Ge&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;Se&lt;sub&gt;3&lt;/sub&gt; monolayer: a promising photocatalyst for water splitting</title>
-      <link>https://doi.org/10.1039/d5ra00812c</link>
-      <description>Trung D. Pham, Hien D. Tong, RSC Advances. 15(10)] 2025. https://openalex.org/W4408530124
-
-                The Ga 2 Ge 2 S 3 Se 3 monolayer: a promising 2D photocatalyst with high solar-to-hydrogen efficiency, efficient charge separation, and electron mobility.</description>
-      <author>Trung D. Pham, Hien D. Tong</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5ra00812c</guid>
-    </item>
-    <item>
-      <title>Optimization of 3D Metal&#8208;Based Assemblies for Efficient Electrocatalysis: Structural and Mechanistic Studies</title>
-      <link>https://doi.org/10.1002/smll.202410390</link>
-      <description>Nicole L. D. Sui, Jong&#8208;Min Lee, Small. None(None)] 2025. https://openalex.org/W4408530767
-
-                Abstract The commercial utilization of low&#8208;dimensional catalysts has been hindered by their propensity for agglomeration and stacking, greatly minimizing their utilization of active sites. To circumvent this problem, low&#8208;dimensional materials can be assembled into systematic 3D architectures to synergistically retain the benefits of their constituent low&#8208;dimensional nanomaterials, with value&#8208;added bulk properties such as increased active surface area, improved charge transport pathways, and enhanced mass transfer, leading to higher catalytic activity and durability compared to their constituents. The hierarchical organization of low&#8208;dimensional building blocks within 3D structures also enables precise control over the catalyst's morphology, composition, and surface chemistry, facilitating tailored design for specific electrochemical applications. Despite the surge in 3D metal&#8208;based assemblies, there are no reviews encompassing the different types of metal&#8208;based 3D assemblies from low&#8208;dimensional nanomaterials for electrocatalysis. Herein, this review addresses this gap by investigating the various types of self&#8208;supported 3D assemblies and exploring how their electrocatalytic performance can be elevated through structural modifications and mechanistic studies to tailor them for various electrochemical reactions.</description>
-      <author>Nicole L. D. Sui, Jong&#8208;Min Lee</author>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202410390</guid>
-    </item>
-    <item>
-      <title>Core/Shell&#8208;Structured Carbon Support Boosting Fuel Cell Durability</title>
-      <link>https://doi.org/10.1002/adma.202414472</link>
-      <description>Tian&#8208;Wei Song, Jun Yan, Lei Tong, Zirui Li, Chang&#8208;Song Ma, Junjie Li, Cong Xu, Shuai Li, Ru&#8208;Yang Shao, Ming J. Zuo, Shengliang Zhong, Shengqi Chu, Hai&#8208;Wei Liang, Advanced Materials. None(None)] 2025. https://openalex.org/W4408536229
-
-                Abstract To enhance the lifetime of proton exchange membrane fuel cells, developing highly durable platinum&#8208;based cathode catalysts is essential. While two degradation pathways for the cathode catalyst&#8212;carbon corrosion and electrocatalyst (platinum nanoparticles) coarsening&#8212;have been identified, current approaches to enhance its durability are limited to addressing individual degradation pathways. Herein, the study develops a core/shell&#8208;structured carbon support that is designed to afford cathode catalysts capable of simultaneously inhibiting carbon corrosion and electrocatalyst coarsening. The core/shell structure is distinguished by its bifunctional nature: the core is made of highly graphitized carbon tailored to build a robust carbon skeleton, and the shell comprises heteroatom&#8208;doped amorphous carbon engineered to prevent electrocatalyst coarsening by chemical/physical anchoring of platinum nanoparticles. Thanks to this elaborate design, the catalyst surpasses the durability targets for carbon supports and electrocatalysts set by the U.S. Department of Energy, as supported by the achieved durability metrics after the square&#8208;wave/triangle&#8208;wave accelerated stress tests: electrochemical surface area loss at 13%/3%, mass activity loss at 27%/17%, and voltage loss of 29 mV (at 0.8 A cm &#8722; 2 )/4 mV (at 1.5 A cm &#8722; 2 ).</description>
-      <author>Tian&#8208;Wei Song, Jun Yan, Lei Tong, Zirui Li, Chang&#8208;Song Ma, Junjie Li, Cong Xu, Shuai Li, Ru&#8208;Yang Shao, Ming J. Zuo, Shengliang Zhong, Shengqi Chu, Hai&#8208;Wei Liang</author>
-      <pubDate>Sun, 16 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202414472</guid>
-    </item>
-    <item>
-      <title>Trimodal Hierarchical Porous Carbon Nanoplates with Edge Curvature for Faster Mass Transfer and Enhanced Oxygen Reduction</title>
-      <link>https://doi.org/10.1021/acsnano.4c06404</link>
-      <description>Ruijing Xin, Ho Ngoc Nam, Quan Manh Phung, Jing Tang, Shengchun Ma, Josua Markus, Yuchen Dai, Azhar Alowasheeir, Nithima Khaorapapong, Jie Wang, Yusuke Yamauchi, Yusuf Valentino Kaneti, ACS Nano. None(None)] 2025. https://openalex.org/W4408540705
-
-                Although hierarchical porous carbon materials have been widely used for electrocatalysis, the role of curvature in carbon nanostructures during electrochemical reactions remains poorly understood due to a lack of experimental models featuring clearly defined curved geometries and periodic structures. In this study, we fabricate hierarchical porous cobalt- and nitrogen-containing carbon nanoplates with trimodal porosity (macro-, meso-, and micropores) and continuous, homogeneous curved edges (Co/N-CNP-CURV) using a polystyrene-directed templating approach. The Co/N-CNP-CURV catalyst exhibits excellent catalytic activity and stability for the alkaline oxygen reduction reaction, with a half-wave potential of 0.82 V and a minimal potential shift of 8 mV after 5000 cycles. The enhanced electrocatalytic activity is attributed to synergistic combinations of the trimodal porosity, abundant Co-Nx active sites, a high density of curved edges, and graphitic carbon encapsulated with cobalt nanoparticles. Density functional theory calculations reveal that the presence of curvature in Co/N-CNP-CURV is beneficial for enhancing the charge transfer from the catalyst to O2, lowering the adsorption energy of O2, and reducing the activation free energy barrier for the rate-determining step (*O2 + (H+ + e-) &#8594; *OOH). The study provides compelling experimental evidence supporting the critical role of the curvature effect in enhancing the electrocatalytic performance of nanoporous metal-containing carbon materials.</description>
-      <author>Ruijing Xin, Ho Ngoc Nam, Quan Manh Phung, Jing Tang, Shengchun Ma, Josua Markus, Yuchen Dai, Azhar Alowasheeir, Nithima Khaorapapong, Jie Wang, Yusuke Yamauchi, Yusuf Valentino Kaneti</author>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c06404</guid>
-    </item>
     <item>
       <title>CO&lt;sub&gt;2&lt;/sub&gt; Reduction Reactivity on the SiC Monolayer with Doped Topological Defects</title>
       <link>https://doi.org/10.1021/acs.energyfuels.4c05828</link>
@@ -508,26 +438,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.106296</guid>
     </item>
     <item>
-      <title>Physical Significance of Descriptors to Predict the Band Center of High&#8208;Entropy Nanoalloys</title>
-      <link>https://doi.org/10.1002/jcc.70086</link>
-      <description>Yu&#773;suke Nanba, Michihisa Koyama, Journal of Computational Chemistry. 46(8)] 2025. https://openalex.org/W4408748740
-
-                ABSTRACT The band center of d orbitals ( d &#8208;band center) has been widely used as an effective descriptor for analyzing material properties. However, in high&#8208;entropy nanoalloys, the diverse atomic environments present challenges in systematically exploring all possible combinations. Due to computational resource limitations, generating a sufficient number of samples is infeasible. Consequently, the d &#8208;band center should be treated as a response variable in machine&#8208;learning models. We calculated the d &#8208;band center for individual atoms and applied supervised learning techniques to identify key factors influencing its behavior. While several factors were identified, their physical significance in predicting d &#8208;band centers remained unclear. To address this issue, we incorporated various interatomic distance terms as descriptors, along with element&#8208;based coordination numbers (ECN). The resulting model closely resembled the overlap integral of the Slater&#8208;type orbital, and the regression coefficients of the ECN exhibited sensitivity to the effective principal quantum number and nuclear charge. Understanding the physical significance of these descriptors is crucial for improving property predictions and facilitating data collection on novel materials.</description>
-      <author>Yu&#773;suke Nanba, Michihisa Koyama</author>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/jcc.70086</guid>
-    </item>
-    <item>
-      <title>Bimetallic transition metal dichalcogenides NixMo1-xSSe as efficient electrocatalysts for hydrogen evolution reaction in protic electrolyte</title>
-      <link>https://doi.org/10.1016/j.fuel.2025.135035</link>
-      <description>R. Shwetharani, Samriti Mehta, Bhuneshwar Paswan, Itika Kainthla, Sumanth Dongre S, Amitava Banerjee, R. Geetha Balakrishna, Fuel. 394(None)] 2025. https://openalex.org/W4408751279
-
-                No abstract</description>
-      <author>R. Shwetharani, Samriti Mehta, Bhuneshwar Paswan, Itika Kainthla, Sumanth Dongre S, Amitava Banerjee, R. Geetha Balakrishna</author>
-      <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.135035</guid>
-    </item>
-    <item>
       <title>Novel two-dimensional ZnO materials for enhanced photocatalytic hydrogen evolution performance</title>
       <link>https://doi.org/10.1016/j.apsusc.2025.163068</link>
       <description>Peixian Wang, Bin Song, Gaoling Zhao, Applied Surface Science. None(None)] 2025. https://openalex.org/W4408755952
@@ -556,6 +466,96 @@
       <author>Yannick Couzini&#233;, Yuya Seki, Yusuke Nishiya, Hirofumi Nishi, Taichi Kosugi, Shu Tanaka, Yu&#8208;ichiro Matsushita</author>
       <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.7566/jpsj.94.044802</guid>
+    </item>
+    <item>
+      <title>Physical Significance of Descriptors to Predict the Band Center of High&#8208;Entropy Nanoalloys</title>
+      <link>https://doi.org/10.1002/jcc.70086</link>
+      <description>Y&#363;suke Nanba, Michihisa Koyama, Journal of Computational Chemistry. 46(8)] 2025. https://openalex.org/W4408748740
+
+                ABSTRACT The band center of d orbitals ( d &#8208;band center) has been widely used as an effective descriptor for analyzing material properties. However, in high&#8208;entropy nanoalloys, the diverse atomic environments present challenges in systematically exploring all possible combinations. Due to computational resource limitations, generating a sufficient number of samples is infeasible. Consequently, the d &#8208;band center should be treated as a response variable in machine&#8208;learning models. We calculated the d &#8208;band center for individual atoms and applied supervised learning techniques to identify key factors influencing its behavior. While several factors were identified, their physical significance in predicting d &#8208;band centers remained unclear. To address this issue, we incorporated various interatomic distance terms as descriptors, along with element&#8208;based coordination numbers (ECN). The resulting model closely resembled the overlap integral of the Slater&#8208;type orbital, and the regression coefficients of the ECN exhibited sensitivity to the effective principal quantum number and nuclear charge. Understanding the physical significance of these descriptors is crucial for improving property predictions and facilitating data collection on novel materials.</description>
+      <author>Y&#363;suke Nanba, Michihisa Koyama</author>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/jcc.70086</guid>
+    </item>
+    <item>
+      <title>Bimetallic transition metal dichalcogenides NixMo1-xSSe as efficient electrocatalysts for hydrogen evolution reaction in protic electrolyte</title>
+      <link>https://doi.org/10.1016/j.fuel.2025.135035</link>
+      <description>R. Shwetharani, Samriti Mehta, Bhuneshwar Paswan, Itika Kainthla, Sumanth Dongre S, Amitava Banerjee, R. Geetha Balakrishna, Fuel. 394(None)] 2025. https://openalex.org/W4408751279
+
+                No abstract</description>
+      <author>R. Shwetharani, Samriti Mehta, Bhuneshwar Paswan, Itika Kainthla, Sumanth Dongre S, Amitava Banerjee, R. Geetha Balakrishna</author>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.135035</guid>
+    </item>
+    <item>
+      <title>Quantifying &#960;-electron delocalization as a universal descriptor for ORR activity in MN4 catalysts</title>
+      <link>https://doi.org/10.1016/j.jcat.2025.116093</link>
+      <description>Miao&#8208;Ying Chen, Jiabo Le, Haoran Wu, Weidong Li, Jianan Zhang, Bang&#8208;An Lu, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4408768117
+
+                No abstract</description>
+      <author>Miao&#8208;Ying Chen, Jiabo Le, Haoran Wu, Weidong Li, Jianan Zhang, Bang&#8208;An Lu</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116093</guid>
+    </item>
+    <item>
+      <title>Sulfur doping activated metal&#8211;support interaction drives Pt nanoparticles to achieve acid&#8211;base hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1039/d4ta08499c</link>
+      <description>Yagang Li, Jiaqing Luo, Peilin Liu, Liangkun Zhang, Weiyu Song, Yuechang Wei, Zhen Zhao, Xiao Zhang, Jian Liu, Yuanqing Sun, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4408769162
+
+                The sulfur doping strategy activates the interfacial effect, thereby promoting Pt NPs to attain efficient acid&#8211;base hydrogen evolution.</description>
+      <author>Yagang Li, Jiaqing Luo, Peilin Liu, Liangkun Zhang, Weiyu Song, Yuechang Wei, Zhen Zhao, Xiao Zhang, Jian Liu, Yuanqing Sun</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta08499c</guid>
+    </item>
+    <item>
+      <title>Lattice thermal conductivity in the anharmonic overdamped regime</title>
+      <link>https://doi.org/10.1103/physrevb.111.104314</link>
+      <description>&#272;or&#273;e Dangi&#263;, Giovanni Caldarelli, Raffaello Bianco, Ivana Savi&#263;, Ion Errea, Physical review. B./Physical review. B. 111(10)] 2025. https://openalex.org/W4408776904
+
+                No abstract</description>
+      <author>&#272;or&#273;e Dangi&#263;, Giovanni Caldarelli, Raffaello Bianco, Ivana Savi&#263;, Ion Errea</author>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.111.104314</guid>
+    </item>
+    <item>
+      <title>Spillover Dynamics in Heterogeneous Catalysis on Singe&#8208;Atom Alloys: A Theoretical Perspective</title>
+      <link>https://doi.org/10.1002/wcms.70011</link>
+      <description>Shuyu Lin, Rui Xiong, Jun Chen, Sen Lin, Wiley Interdisciplinary Reviews Computational Molecular Science. 15(2)] 2025. https://openalex.org/W4408778659
+
+                ABSTRACT Recent advances in single&#8208;atom alloy ( SAA ) catalysts provide a unique platform for understanding spillover, due to the well&#8208;defined nature of the active site for dissociative chemisorption. In particular, the use of spilled adsorbates following molecular dissociation on the host metal surface facilitates the generation of high&#8208;value chemicals in subsequent catalytic reactions. Nevertheless, the factors that control the spillover process remain to be fully elucidated. This perspective discusses recent theoretical advances in the spillover dynamics on SAAs , with a particular focus on the dissociation and spillover processes of H 2 and CH 4 . It provides valuable insights into how various factors, such as energy transfer, nuclear quantum effects, gas&#8208;adsorbate interactions, and adsorbate size, impact the diffusion behavior of hydrogen and methyl species on SAA surfaces. The article concludes with a discussion of future prospects. This perspective underscores the significance of spillover dynamics in heterogeneous catalysis, with important implications for improving catalytic performance.</description>
+      <author>Shuyu Lin, Rui Xiong, Jun Chen, Sen Lin</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/wcms.70011</guid>
+    </item>
+    <item>
+      <title>Improving the Catalytic Selectivity of Reverse Water&#8211;Gas Shift Reaction Catalyzed by Ru/CeO2 Through the Addition of Yttrium Oxide</title>
+      <link>https://doi.org/10.3390/catal15040301</link>
+      <description>Alfredo Sol&#237;s-Garc&#237;a, Karina Portillo-Cortez, D. Dom&#237;nguez, S. Fuentes, J.N. D&#237;az de Le&#243;n, T.A. Zepeda, Uriel Caudillo&#8208;Flores, Catalysts. 15(4)] 2025. https://openalex.org/W4408778954
+
+                This study reports the synthesis, characterization, and catalytic performance of a series of catalysts of Ru supported on CeO2-Y2O3 composites (Ru/CeYX; X = 0, 33, 66, and 100 wt.% Y2O3) for CO2 hydrogenation. Supported material modification (Y2O3-CeO2), by the Y2O3 incorporation, allowed a change in selectivity from methane to RWGS of the CO2 hydrogenation reaction. This change in selectivity is correlated with the variation in the physicochemical properties caused by Y2O3 addition. X-ray diffraction (XRD) analysis confirmed the formation of crystalline fluorite-phase CeO2 and &#945;-Y2O3. High-resolution transmission electron microscopy (HR-TEM) and energy-dispersive X-ray spectroscopy (EDS) elemental mapping revealed the formation of a homogeneous CeO2-Y2O3 nanocomposite. As the Y2O3 content increased, the specific surface area, measured by BET, showed a decreasing trend from 106.3 to 51.7 m2 g&#8722;1. X-ray photoelectron spectroscopy (XPS) of Ce3d indicated a similar Ce3+/Ce4+ ratio across all CeO2-containing materials, while the O1s spectra showed a reduction in oxygen vacancies with increasing Y2O3 content, which is attributed to the decreased surface area upon composite formation. Catalytically, the addition of Y2O3 influenced both conversion and selectivity. CO2 conversion decreased with increasing Y2O3 content, with the lowest conversion observed for Ru/CeY100. Regarding selectivity, methane was the dominant product for Ru/CeY0 (pure CeO2), while CO was the main product for Ru/CeY33, Ru/CeY66, and Ru/CeY100, indicating a shift towards the reverse water&#8211;gas shift (RWGS) reaction. The highest RWGS reaction rate was observed with the Ru/CeY33 catalyst under all tested conditions. The observed differences in conversion and selectivity are attributed to a reduction in active sites due to the decrease in surface area and oxygen vacancies, both of which are important for CO2 adsorption. In order to verify the surface species catalytically active for RWGS, the samples were characterized by FTIR spectroscopy under reaction conditions.</description>
+      <author>Alfredo Sol&#237;s-Garc&#237;a, Karina Portillo-Cortez, D. Dom&#237;nguez, S. Fuentes, J.N. D&#237;az de Le&#243;n, T.A. Zepeda, Uriel Caudillo&#8208;Flores</author>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal15040301</guid>
+    </item>
+    <item>
+      <title>Self-Promoting NO electrochemical reduction via N-N coupling by Surface-Adsorbed *NH intermediates on Mo2C nanosheets</title>
+      <link>https://doi.org/10.1016/j.jcat.2025.116097</link>
+      <description>Xiang Huang, Xiangting Hu, Jiong Wang, Hu Xu, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4408782209
+
+                No abstract</description>
+      <author>Xiang Huang, Xiangting Hu, Jiong Wang, Hu Xu</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116097</guid>
+    </item>
+    <item>
+      <title>Embedding transition metal atoms in S- modified porphyrin-expanded porphyrin tandem carbon-rich conjugated frameworks for efficient synthesis of C3 sugars</title>
+      <link>https://doi.org/10.1016/j.mtcomm.2025.112333</link>
+      <description>Huan Xing, Ling Guo, Materials Today Communications. None(None)] 2025. https://openalex.org/W4408783757
+
+                No abstract</description>
+      <author>Huan Xing, Ling Guo</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2025.112333</guid>
     </item>
     <item>
       <title>A Physicochemical Investigation on the Interaction of Aloe vera Extracts with Ascorbic Acid and Deoxyribonucleic Acid</title>
@@ -606,6 +606,16 @@
       <author>Beatriz Dantas, Austin Braniff, Claudemi A. Nascimento, Theodore Malencia, Fernando V. Lima, Yuhe Tian</author>
       <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cherd.2025.03.010</guid>
+    </item>
+    <item>
+      <title>The Future of Catalysis: Applying Graph Neural Networks for Intelligent Catalyst Design</title>
+      <link>https://doi.org/10.1002/wcms.70010</link>
+      <description>Zhihao Wang, Wentao Li, Siying Wang, Xiaonan Wang, Wiley Interdisciplinary Reviews Computational Molecular Science. 15(2)] 2025. https://openalex.org/W4408782647
+
+                ABSTRACT With the increasing global demand for energy transition and environmental sustainability, catalysts play a vital role in mitigating global climate change, as they facilitate over 90% of chemical and material conversions. It is important to investigate the complex structures and properties of catalysts for enhanced performance, for which artificial intelligence (AI) methods, especially graph neural networks (GNNs) could be useful. In this article, we explore the cutting&#8208;edge applications and future potential of GNNs in intelligent catalyst design. The fundamental theories of GNNs and their practical applications in catalytic material simulation and inverse design are first reviewed. We analyze the critical roles of GNNs in accelerating material screening, performance prediction, reaction pathway analysis, and mechanism modeling. By leveraging graph convolution techniques to accurately represent molecular structures, integrating symmetry constraints to ensure physical consistency, and applying generative models to efficiently explore the design space, these approaches work synergistically to enhance the efficiency and accuracy of catalyst design. Furthermore, we highlight high&#8208;quality databases crucial for catalysis research and explore the innovative application of GNNs in thermocatalysis, electrocatalysis, photocatalysis, and biocatalysis. In the end, we highlight key directions for advancing GNNs in catalysis: dynamic frameworks for real&#8208;time conditions, hierarchical models linking atomic details to catalyst features, multi&#8208;task networks for performance prediction, and interpretability mechanisms to reveal critical reaction pathways. We believe these advancements will significantly broaden the role of GNNs in catalysis science, paving the way for more efficient, accurate, and sustainable catalyst design methodologies.</description>
+      <author>Zhihao Wang, Wentao Li, Siying Wang, Xiaonan Wang</author>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/wcms.70010</guid>
     </item>
     <item>
       <title>A novel and efficient In2O3@RhPt catalyst for solvent-free transfer hydrogenation of TDC to HTDC: Catalytic performance and mechanism</title>
