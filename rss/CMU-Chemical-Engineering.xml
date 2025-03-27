@@ -4,28 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 26 Mar 2025 01:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 01:26:05 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Transferable Machine Learning Interatomic Potential for Pd-Catalyzed Cross-Coupling Reactions</title>
-      <link>https://doi.org/10.26434/chemrxiv-2025-n36r6</link>
-      <description>Dylan M. Anstine, R.I. Zubatyuk, Liliana C. Gallegos, Robert S. Paton, Olaf Wiest, Benjamin Nebgen, Travis E. Jones, Gabriel dos Passos Gomes, Sergei Tretiak, Olexandr Isayev, No host. None(None)] 2025. https://openalex.org/W4408546240
-
-                Finding efficient substrate-catalyst combinations for palladium-catalyzed cross-coupling reactions remains a critical challenge in synthetic chemistry, with broad implications for pharmaceutical and materials manufacturing. We report AIMNet2-Pd, a machine learned interatomic potential that enables rapid, accurate computational studies of palladium-catalyzed cross-coupling reactions. AIMNet2-Pd replaces computationally expensive electronic structure calculations with a neural network-based model that performs geometry optimization, transition state searches, and energy calculations in seconds while maintaining accuracy within 1-2 kcal mol&#8315;&#185; and ~0.1 &#197; compared to the reference QM calculations. AIMNet2-Pd makes computational high-throughput catalyst screening and mechanistic studies of realistic systems feasible by providing on-demand thermodynamic and kinetic predictions for each step of a catalytic cycle. Importantly, the applicability of the systems extends beyond the monophosphine ligands in Pd(0)/Pd(II) cycles for which it has been trained on to chemically diverse Pd complexes. This demonstrates AIMNet2-Pd's utility to serve as a general-purpose and high-throughput tool for studying catalytic reactions.</description>
-      <author>Dylan M. Anstine, R.I. Zubatyuk, Liliana C. Gallegos, Robert S. Paton, Olaf Wiest, Benjamin Nebgen, Travis E. Jones, Gabriel dos Passos Gomes, Sergei Tretiak, Olexandr Isayev</author>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2025-n36r6</guid>
-    </item>
-    <item>
-      <title>The impact of the Himalayan aerosol factory: results from high resolution numerical modelling of pure biogenic nucleation over the Himalayan valleys</title>
-      <link>https://doi.org/10.1039/d4fd00171k</link>
-      <description>Giancarlo Ciarelli, Arineh Cholakian, Manuel Bettineschi, Bruno Vitali, Bertrand Bessagnet, Victoria A. Sinclair, Johannes Mikkola, Imad El Haddad, Dino Zardi, Angela Marinoni, Alessandro Bigi, Paolo Tuccella, Jaana B&#228;ck, Hamish Gordon, Tuomo Nieminen, Markku Kulmala, Douglas R. Worsnop, Federico Bianchi, Faraday Discussions. None(None)] 2025. https://openalex.org/W4408591658
-
-                Observational data collected in December 2014 at the base camp of Mount Everest, Nepal, indicated frequent new particle formation events of pure biogenic origin. Those events were speculated to be controlled by the along-valley winds forming in the valley connecting the Indo-Gangetic plain to the observational site, the Nepal Climate Observatory-Pyramid. The valley winds funnel highly oxygenated organic molecules of biogenic origin to higher elevations where they nucleate. The mechanism was referred to as "The Himalayan aerosol factory". Its geographical extent and climate implications are currently unknown. In view of this, we conducted numerical chemical model simulations to corroborate the presence of the mechanism, and to quantify its geographical extent. Our numerical simulations confirmed that biogenic emissions located in the valleys can be converted into ultra-low volatility organic compounds, transported to the observational site by the along-valley winds, and therein nucleate. The overall time scale of the process, from the release of biogenic emissions to the conversion to ultra-low volatile organic compounds to the arrival time at the observational site, was found to be around 4 hours, consistent with the predicted along-valley winds intensity and the geographical distribution of biogenic emissions. A first estimation of the maximum injection height of biogenic particles, and highly oxygenated organic molecules, indicated the presence of efficient nucleating gases and biogenic particles at an elevation as high as 5000-6000 m a.s.l. These results suggest that the Himalayan chain, under specific weather conditions, is a main contributor to the biogenic aerosol loads in the free troposphere. Considering these findings, field campaigns, especially at the entrance of the valley's floors, and research consortia supporting atmospheric research in Asian mountain regions, are highly encouraged.</description>
-      <author>Giancarlo Ciarelli, Arineh Cholakian, Manuel Bettineschi, Bruno Vitali, Bertrand Bessagnet, Victoria A. Sinclair, Johannes Mikkola, Imad El Haddad, Dino Zardi, Angela Marinoni, Alessandro Bigi, Paolo Tuccella, Jaana B&#228;ck, Hamish Gordon, Tuomo Nieminen, Markku Kulmala, Douglas R. Worsnop, Federico Bianchi</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4fd00171k</guid>
-    </item>
   </channel>
 </rss>

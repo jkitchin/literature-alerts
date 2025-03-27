@@ -1,49 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Mar 26 01:26:21 2025
+Created on Thu Mar 27 01:26:05 2025
 
-Found 2 results from 2025-03-19 to 2025-03-26
+Found 0 results from 2025-03-20 to 2025-03-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
-* Transferable Machine Learning Interatomic Potential for Pd-Catalyzed Cross-Coupling Reactions  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4408546240
-:TOPICS: Machine Learning in Materials Science, Asymmetric Hydrogenation and Catalysis, Catalytic Cross-Coupling Reactions
-:PUBLICATION_DATE: 2025-03-18
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2025-n36r6")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4408546240"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4408546240"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4408546240"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4408546240 (Open access: True)
-    
-[[https://openalex.org/A5042511909][Dylan M. Anstine]], [[https://openalex.org/A5083494710][R.I. Zubatyuk]], [[https://openalex.org/A5014333643][Liliana C. Gallegos]], [[https://openalex.org/A5021610812][Robert S. Paton]], [[https://openalex.org/A5029114040][Olaf Wiest]], [[https://openalex.org/A5081624801][Benjamin Nebgen]], [[https://openalex.org/A5055909996][Travis E. Jones]], [[https://openalex.org/A5048633127][Gabriel dos Passos Gomes]], [[https://openalex.org/A5056150849][Sergei Tretiak]], [[https://openalex.org/A5011932992][Olexandr Isayev]], No host. None(None)] 2025. https://doi.org/10.26434/chemrxiv-2025-n36r6  ([[https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67d7b7f7fa469535b97c021a/original/transferable-machine-learning-interatomic-potential-for-pd-catalyzed-cross-coupling-reactions.pdf][pdf]])
-     
-Finding efficient substrate-catalyst combinations for palladium-catalyzed cross-coupling reactions remains a critical challenge in synthetic chemistry, with broad implications for pharmaceutical and materials manufacturing. We report AIMNet2-Pd, a machine learned interatomic potential that enables rapid, accurate computational studies of palladium-catalyzed cross-coupling reactions. AIMNet2-Pd replaces computationally expensive electronic structure calculations with a neural network-based model that performs geometry optimization, transition state searches, and energy calculations in seconds while maintaining accuracy within 1-2 kcal mol⁻¹ and ~0.1 Å compared to the reference QM calculations. AIMNet2-Pd makes computational high-throughput catalyst screening and mechanistic studies of realistic systems feasible by providing on-demand thermodynamic and kinetic predictions for each step of a catalytic cycle. Importantly, the applicability of the systems extends beyond the monophosphine ligands in Pd(0)/Pd(II) cycles for which it has been trained on to chemically diverse Pd complexes. This demonstrates AIMNet2-Pd's utility to serve as a general-purpose and high-throughput tool for studying catalytic reactions.    
-
-    
-
-* The impact of the Himalayan aerosol factory: results from high resolution numerical modelling of pure biogenic nucleation over the Himalayan valleys  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4408591658
-:TOPICS: Atmospheric chemistry and aerosols, Atmospheric aerosols and clouds, Atmospheric and Environmental Gas Dynamics
-:PUBLICATION_DATE: 2025-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4fd00171k")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4408591658"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4408591658"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4408591658"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4408591658 (Open access: True)
-    
-[[https://openalex.org/A5071131825][Giancarlo Ciarelli]], [[https://openalex.org/A5035425155][Arineh Cholakian]], [[https://openalex.org/A5093784592][Manuel Bettineschi]], [[https://openalex.org/A5015000522][Bruno Vitali]], [[https://openalex.org/A5081559070][Bertrand Bessagnet]], [[https://openalex.org/A5040866867][Victoria A. Sinclair]], [[https://openalex.org/A5065117143][Johannes Mikkola]], [[https://openalex.org/A5080319960][Imad El Haddad]], [[https://openalex.org/A5073745043][Dino Zardi]], [[https://openalex.org/A5033428767][Angela Marinoni]], [[https://openalex.org/A5032180474][Alessandro Bigi]], [[https://openalex.org/A5038903661][Paolo Tuccella]], [[https://openalex.org/A5008805563][Jaana Bäck]], [[https://openalex.org/A5086004922][Hamish Gordon]], [[https://openalex.org/A5015236692][Tuomo Nieminen]], [[https://openalex.org/A5000471665][Markku Kulmala]], [[https://openalex.org/A5026978286][Douglas R. Worsnop]], [[https://openalex.org/A5075179945][Federico Bianchi]], Faraday Discussions. None(None)] 2025. https://doi.org/10.1039/d4fd00171k 
-     
-Observational data collected in December 2014 at the base camp of Mount Everest, Nepal, indicated frequent new particle formation events of pure biogenic origin. Those events were speculated to be controlled by the along-valley winds forming in the valley connecting the Indo-Gangetic plain to the observational site, the Nepal Climate Observatory-Pyramid. The valley winds funnel highly oxygenated organic molecules of biogenic origin to higher elevations where they nucleate. The mechanism was referred to as "The Himalayan aerosol factory". Its geographical extent and climate implications are currently unknown. In view of this, we conducted numerical chemical model simulations to corroborate the presence of the mechanism, and to quantify its geographical extent. Our numerical simulations confirmed that biogenic emissions located in the valleys can be converted into ultra-low volatility organic compounds, transported to the observational site by the along-valley winds, and therein nucleate. The overall time scale of the process, from the release of biogenic emissions to the conversion to ultra-low volatile organic compounds to the arrival time at the observational site, was found to be around 4 hours, consistent with the predicted along-valley winds intensity and the geographical distribution of biogenic emissions. A first estimation of the maximum injection height of biogenic particles, and highly oxygenated organic molecules, indicated the presence of efficient nucleating gases and biogenic particles at an elevation as high as 5000-6000 m a.s.l. These results suggest that the Himalayan chain, under specific weather conditions, is a main contributor to the biogenic aerosol loads in the free troposphere. Considering these findings, field campaigns, especially at the entrance of the valley's floors, and research consortia supporting atmospheric research in Asian mountain regions, are highly encouraged.    
-
-    
