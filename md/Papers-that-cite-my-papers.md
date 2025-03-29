@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Mar 28 01:26:17 2025
+Created on Sat Mar 29 01:25:44 2025
 
-Found 54 results from 2025-03-21 to 2025-03-28
+Found 47 results from 2025-03-22 to 2025-03-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W4407089073%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W4407089073%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544)
@@ -16,116 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2949887176)
-
-## Elucidating the Proton Source for CO2 Electro-Reduction on Cu(100) Using Many-Body Perturbation Theory   
-
-OpenAlex: https://openalex.org/W4408666044    
-Open access: False
-    
-[Dongfang Cheng](https://openalex.org/A5028424510), [Ziyang Wei](https://openalex.org/A5069720141), [Philippe Sautet](https://openalex.org/A5025258970), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.4c14108.
-    
-The protonation of CO is recognized as the rate-determining step in the generation of C1 products during the electrochemical CO2 reduction reaction (CO2RR) on Cu surfaces. However, the detailed mechanism and the precise proton source remain elusive. While density functional theory (DFT) calculations at the GGA level have been widely used, they struggle to accurately describe adsorbate-metal interactions and surface stability. Here, we employed the Random Phase Approximation (RPA), a method based on many-body perturbation theory, to overcome these limitations. We coupled the RPA framework with the linearized Poisson–Boltzmann equation to model solvation effects and a surface charging method to account for the influence of the electrochemical potential. Our study reveals that in neutral or alkaline electrolytes, adsorbed surface water acts as the proton source for *CO reduction to *COH over a broad potential range via the Grotthuss mechanism. At highly negative potentials, solvent water becomes the primary proton donor, with multiple competing mechanisms observed. In contrast, DFT-GGA functionals significantly underestimate the reaction barriers for *COH formation and consistently predict solvent water as the proton source across all potentials of interest. Additionally, RPA offers distinct insights into H2O adsorption and highlights the significant range of reducing potentials within which surface *OH can exist, which is crucial for accurate CO2RR modeling. These insights illustrate a pronounced divergence between RPA and DFT-GGA results. Our findings offer a fresh perspective on proton transfer in CO2RR and establish a framework for future theoretical studies on electrochemical processes.    
-
-    
-
-## Quantum Calculations of Hydrogen Absorption and Diffusivity in Bulk CeO2   
-
-OpenAlex: https://openalex.org/W4408667030    
-Open access: True
-    
-[J.C. Stimac](https://openalex.org/A5043166967), [Nir Goldman](https://openalex.org/A5029940031), ACS Omega. None(None)] 2025.https://doi.org/10.1021/acsomega.4c11470.
-    
-No abstract    
-
-    
-
-## Phase Engineering Modulates the Electronic Structure of the IrO2/MoS2 Heterojunction for Efficient and Stable Water Splitting   
-
-OpenAlex: https://openalex.org/W4408667767    
-Open access: False
-    
-[Shougang Sun](https://openalex.org/A5015024132), [Ziqi Wan](https://openalex.org/A5104259443), [Yingying Xu](https://openalex.org/A5004551049), [Xuemei Zhou](https://openalex.org/A5091222125), [Wei Gao](https://openalex.org/A5058725783), [Jinjie Qian](https://openalex.org/A5054473752), [Jie Gao](https://openalex.org/A5101615132), [Dong Cai](https://openalex.org/A5028444485), [Yongjie Ge](https://openalex.org/A5089563927), [Huagui Nie](https://openalex.org/A5030829372), [Zhi Yang](https://openalex.org/A5037700967), ACS Nano. None(None)] 2025.https://doi.org/10.1021/acsnano.4c18288.
-    
-The engineering of dual-functional catalytic systems capable of driving complete water dissociation in acidic environments represents a critical requirement for advancing proton exchange membrane electrolyzer technology, yet significant challenges remain. In this work, we investigate an IrO2/MoS2/CNT heterostructure catalyst demonstrating enhanced bifunctional performance for both the oxygen evolution reaction (OER) and hydrogen evolution reaction (HER) under acidic conditions. Strategic incorporation of IrO2 into the MoS2/CNT heterojunction induces a partial phase transformation from 2H to the metastable 1T configuration in MoS2, thereby modulating the electronic structure of IrO2 and improving the catalytic performance for overall water splitting. The optimized IrO2/MoS2/CNT catalyst exhibited exceptional overpotentials of 9 mV (HER) and 182 mV (OER) at a current density of 10 mA cm–2 in acidic media. Full-cell evaluations further confirmed its practical potential, showing a 1.47 V operation voltage that outperforms standard Pt/C||IrO2 counterparts by 120 mV. The experimental results revealed that the n–n heterojunction between IrO2/CNT and MoS2/CNT generates a built-in electric field, enhancing charge redistribution and electron transport. Moreover, density functional theory simulations further identify iridium centers as dominant catalytic loci, with a metastable 1T-MoS2 phase mediating charge equilibration at atomic interfaces. This modification facilitates *OH adsorption and *OOH deprotonation and lowers the kinetic barrier during the water-splitting process.    
-
-    
-
-## Adaptive-precision potentials for large-scale atomistic simulations   
-
-OpenAlex: https://openalex.org/W4408672723    
-Open access: True
-    
-[David Immel](https://openalex.org/A5114657853), [Ralf Drautz](https://openalex.org/A5022871779), [Godehard Sutmann](https://openalex.org/A5081075399), The Journal of Chemical Physics. 162(11)] 2025.https://doi.org/10.1063/5.0245877.
-    
-Large-scale atomistic simulations rely on interatomic potentials, providing an efficient representation of atomic energies and forces. Modern machine-learning (ML) potentials provide the most precise representation compared to electronic structure calculations, while traditional potentials provide a less precise but computationally much faster representation and, thus, allow simulations of larger systems. We present a method to combine a traditional and a ML potential into a multi-resolution description, leading to an adaptive-precision potential with an optimum of performance and precision in large, complex atomistic systems. The required precision is determined per atom by a local structure analysis and updated automatically during simulation. We use copper as demonstrator material with an embedded atom model as classical force field and an atomic cluster expansion (ACE) as ML potential, but, in principle, a broader class of potential combinations can be coupled by this method. The approach is developed for the molecular-dynamics simulator LAMMPS and includes a load-balancer to prevent problems due to the atom dependent force-calculation times, which makes it suitable for large-scale atomistic simulations. The developed adaptive-precision copper potential represents the ACE-forces with a precision of 10 me V/Å and the ACE-energy exactly for the precisely calculated atoms in a nanoindentation of 4 × 106 atoms calculated for 100 ps and shows a speedup of 11.3 compared with a full ACE simulation.    
-
-    
-
-## Unassisted electrochemical H2O2 production coupled to glycerol oxidation   
-
-OpenAlex: https://openalex.org/W4408672915    
-Open access: False
-    
-[Dongrak Oh](https://openalex.org/A5020707671), [Seon Woo Hwang](https://openalex.org/A5030845447), [Dong Yeon Kim](https://openalex.org/A5100667191), [Jesse E. Matthews](https://openalex.org/A5104667539), [Jin‐Young Lee](https://openalex.org/A5100420803), [Jaime E. Avilés Acosta](https://openalex.org/A5073188790), [Sang‐Won Lee](https://openalex.org/A5100360895), [Yi Xu](https://openalex.org/A5012899479), [Ara Cho](https://openalex.org/A5010026502), [Dong Un Lee](https://openalex.org/A5103119004), [Thomas F. Jaramillo](https://openalex.org/A5078810774), [Dong‐Hwa Seo](https://openalex.org/A5074384928), [Ji‐Wook Jang](https://openalex.org/A5061624173), Nature Synthesis. None(None)] 2025.https://doi.org/10.1038/s44160-025-00774-y.
-    
-No abstract    
-
-    
-
-## CNT‐Supported RuNi Composites Enable High Round‐Trip Efficiency in Regenerative Fuel Cells   
-
-OpenAlex: https://openalex.org/W4408674747    
-Open access: True
-    
-[Chunfeng Li](https://openalex.org/A5100627589), [Danning Li](https://openalex.org/A5102026137), [Lubing Li](https://openalex.org/A5071958488), [Haozhou Yang](https://openalex.org/A5007921737), [Yan Zhang](https://openalex.org/A5100456270), [Jinzhan Su](https://openalex.org/A5013789193), [Lei Wang](https://openalex.org/A5100435866), [Bin Liu](https://openalex.org/A5100395468), Advanced Materials. None(None)] 2025.https://doi.org/10.1002/adma.202500416.
-    
-Abstract Regenerative fuel cells hold significant potential for efficient, large‐scale energy storage by reversibly converting electrical energy into hydrogen and vice versa, making them essential for leveraging intermittent renewable energy sources. However, their practical implementation is hindered by the unsatisfactory efficiency. Addressing this challenge requires the development of cost‐effective electrocatalysts. In this study, a carbon nanotube (CNT)‐supported RuNi composite with low Ru loading is developed as an efficient and stable catalyst for alkaline hydrogen and oxygen electrocatalysis, including hydrogen evolution, oxygen evolution, hydrogen oxidation, and oxygen reduction reaction. Furthermore, a regenerative fuel cell using this catalyst composite is assembled and evaluated under practical relevant conditions. As anticipated, the system exhibits outstanding performance in both the electrolyzer and fuel cell modes. Specifically, it achieves a low cell voltage of 1.64 V to achieve a current density of 1 A cm − 2 for the electrolyzer mode and delivers a high output voltage of 0.52 V at the same current density in fuel cell mode, resulting in a round‐trip efficiency (RTE) of 31.6% without further optimization. The multifunctionality, high activity, and impressive RTE resulted by using the RuNi catalyst composites underscore its potential as a single catalyst for regenerative fuel cells.    
-
-    
-
-## Exploring the Intricacies of Glycerol Hydrodeoxygenation on Copper Surface: A Comprehensive Investigation with the Aid of Machine Learning Force Field   
-
-OpenAlex: https://openalex.org/W4408682965    
-Open access: False
-    
-[Srishti Gupta](https://openalex.org/A5072464011), [Ajin Rajan](https://openalex.org/A5113307331), [Edvin Fako](https://openalex.org/A5023400182), [Tiago J. Goncalves](https://openalex.org/A5025733746), [Imke B. Müller](https://openalex.org/A5000953723), [Jithin John Varghese](https://openalex.org/A5064427456), [Ansgar Schäfer](https://openalex.org/A5033360819), [Sandip De](https://openalex.org/A5076055212), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.5c00302.
-    
-No abstract    
-
-    
-
-## Efficient exploration of reaction pathways using reaction databases and active learning   
-
-OpenAlex: https://openalex.org/W4408687121    
-Open access: True
-    
-[Domantas Kuryla](https://openalex.org/A5093642948), [Gábor Cśanyi](https://openalex.org/A5025442671), [Adri C. T. van Duin](https://openalex.org/A5077401838), [Angelos Michaelides](https://openalex.org/A5056513432), The Journal of Chemical Physics. 162(11)] 2025.https://doi.org/10.1063/5.0235715.
-    
-The fast and accurate simulation of chemical reactions is a major goal of computational chemistry. Recently, the pursuit of this goal has been aided by machine learning interatomic potentials (MLIPs), which provide energies and forces at quantum mechanical accuracy but at a fraction of the cost of the reference quantum mechanical calculations. Assembling the training set of relevant configurations is key to building the MLIP. Here, we demonstrate two approaches to training reactive MLIPs based on reaction pathway information. One approach exploits reaction datasets containing reactant, product, and transition state structures. Using an SN2 reaction dataset, we accurately locate reaction pathways and transition state geometries of up to 170 unseen reactions. In another approach, which does not depend on data availability, we present an efficient active learning procedure that yields an accurate MLIP and converged minimum energy path given only the reaction end point structures, avoiding quantum mechanics driven reaction pathway search at any stage of training set construction. We demonstrate this procedure on an SN2 reaction in the gas phase and with a small number of solvating water molecules, predicting reaction barriers within 20 meV of the reference quantum chemistry method. We then apply the active learning procedure on a more complex reaction involving a nucleophilic aromatic substitution and proton transfer, comparing the results against the reactive ReaxFF force field. Our active learning procedure, in addition to rapidly finding reaction paths for individual reactions, provides an approach to building large reaction path databases for training transferable reactive machine learning potentials.    
-
-    
-
-## Computational Study of Tri-Atomic Catalyst-Loaded Two-Dimensional Graphenylene for Overall Water Splitting   
-
-OpenAlex: https://openalex.org/W4408689546    
-Open access: True
-    
-[Zhenghao Li](https://openalex.org/A5106484553), [Haifeng Wang](https://openalex.org/A5100386411), [Yan Gao](https://openalex.org/A5101471385), Catalysts. 15(4)] 2025.https://doi.org/10.3390/catal15040296.
-    
-As the energy crisis and environmental pollution continue to intensify, the demand for clean energy has increased. Using two-dimensional materials to catalyze overall water splitting is an important pathway for clean energy production. This study investigated the catalytic hydrogen evolution reaction (HER), oxygen evolution reaction (OER), and oxygen reduction reaction (ORR) of tri-atomic clusters supported on a two-dimensional material, graphenylene (GPN). The structural stability of GPN was thoroughly investigated, and materials were employed as substrates to support a series of 28 distinct trimer clusters composed of 3d, 4d, and 5d transition metals. Ideal combinations of these systems were screened and designed. The loading configurations of TM3@GPN in two different systems were systematically studied. The stability of the catalyst was assessed by calculating the binding and cohesive energies and by performing molecular dynamics simulations, to confirm the catalyst stability. The optimal bifunctional catalysts for overall water splitting were identified as Au3@GPN, Pt3@GPN, and Pd3@GPN, all of which demonstrated superior overall water splitting performance. As a novel two-dimensional material, biphenylene-based materials, when used to support metal clusters as bifunctional catalysts for water splitting, represent an efficient and innovative approach.    
-
-    
-
-## Gender Inequality in Scientific Production at Unicamp: a scientometric analysis of female participation essential for equity (2019–2023)   
-
-OpenAlex: https://openalex.org/W4408694460    
-Open access: True
-    
-[Márcio Souza Martins](https://openalex.org/A5070230170), [Francisco Tadeu Gonçalves de Oliveira Foz](https://openalex.org/A5093978709), [Oscar Eliel](https://openalex.org/A5040348998), [Marilda Solon Teixeira Bottesi](https://openalex.org/A5116731421), Cogent Education. 12(1)] 2025.https://doi.org/10.1080/2331186x.2025.2480502.
-    
-No abstract    
-
-    
 
 ## Auxetic γ-SnO monolayer as a high-performance catalyst for light-driven water splitting and oxygen reduction: Unveiling screening descriptors via machine learning-assisted dimensionality reduction strategy   
 
@@ -541,7 +431,40 @@ Open access: True
     
 [Qiyou Wang](https://openalex.org/A5103266483), [Tao Luo](https://openalex.org/A5038140139), [Xueying Cao](https://openalex.org/A5040375453), [Yujie Gong](https://openalex.org/A5101345273), [Yuxiang Liu](https://openalex.org/A5100751387), [Y. L. Xiao](https://openalex.org/A5053186213), [Hongmei Li](https://openalex.org/A5100377021), [Franz Gröbmeyer](https://openalex.org/A5031787898), [Ying‐Rui Lu](https://openalex.org/A5080261450), [Ting‐Shan Chan](https://openalex.org/A5076885525), [Chao Ma](https://openalex.org/A5025545087), [Kang Liu](https://openalex.org/A5100389906), [Junwei Fu](https://openalex.org/A5013848651), [Shiguo Zhang](https://openalex.org/A5031159142), [Changxu Liu](https://openalex.org/A5003441845), [Lin Zhang](https://openalex.org/A5001870176), [Liyuan Chai](https://openalex.org/A5108436495), [Emiliano Cortés](https://openalex.org/A5049936709), [Min Liu](https://openalex.org/A5100343920), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-57464-8 ([pdf](https://www.nature.com/articles/s41467-025-57464-8.pdf)).
     
+Abstract Single-atom catalysts (SACs) have received increasing attention due to their 100% atomic utilization efficiency. The electrochemical CO 2 reduction reaction (CO 2 RR) to CO using SAC offers a promising approach for CO 2 utilization, but achieving facile CO 2 adsorption and CO desorption remains challenging for traditional SACs. Instead of singling out specific atoms, we propose a strategy utilizing atoms from the entire lanthanide (Ln) group to facilitate the CO 2 RR. Density functional theory calculations, operando spectroscopy, and X-ray absorption spectroscopy elucidate the bridging adsorption mechanism for a representative erbium (Er) single-atom catalyst. As a result, we realize a series of Ln SACs spanning 14 elements that exhibit CO Faradaic efficiencies exceeding 90%. The Er catalyst achieves a high turnover frequency of ~130,000 h − 1 at 500 mA cm − 2 . Moreover, 34.7% full-cell energy efficiency and 70.4% single-pass CO 2 conversion efficiency are obtained at 200 mA cm − 2 with acidic electrolyte. This catalytic platform leverages the collective potential of the lanthanide group, introducing new possibilities for efficient CO 2 -to-CO conversion and beyond through the exploration of unique bonding motifs in single-atom catalysts.    
+
+    
+
+## Potential-Dependent Electrocatalytic Nitrogen Reduction Catalysis on Ni-Anchored γ-Al2O3(110) Surface   
+
+OpenAlex: https://openalex.org/W4408869529    
+Open access: False
+    
+[Deewan S. Teja](https://openalex.org/A5116809566), [Bhabani S. Mallik](https://openalex.org/A5078031554), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.4c08378.
+    
 No abstract    
+
+    
+
+## Understanding the activity origin and mechanisms of the oxygen reduction reaction on the tetramethyl metalloporphyrin/MoS2 electrocatalyst   
+
+OpenAlex: https://openalex.org/W4408873061    
+Open access: True
+    
+[Tran Phuong Dung](https://openalex.org/A5086156117), [Pham Tran Nguyen Nguyen](https://openalex.org/A5044786526), [Viorel Chihaia](https://openalex.org/A5102130084), [Do Ngoc Son](https://openalex.org/A5048914742), RSC Advances. 15(12)] 2025.https://doi.org/10.1039/d5ra00814j.
+    
+This study elucidated the impact of metal substitutions in MeTMP/MoS 2 on the mechanisms and activity of the ORR. The Co atom is the best substitution in MeTMP/MoS 2 catalysts, while the MoS 2 support favours the dissociative ORR mechanism.    
+
+    
+
+## Molecular Dynamics Simulation of Polymer Electrolyte Membrane for Understanding Structure and Proton Conductivity at Various Hydration Levels Using Neural Network Potential   
+
+OpenAlex: https://openalex.org/W4408888610    
+Open access: False
+    
+[Attila Táborosi](https://openalex.org/A5073287680), [Kentaro Aoki](https://openalex.org/A5004758377), [Nobuyuki Zettsu](https://openalex.org/A5008099662), [Michihisa Koyama](https://openalex.org/A5060491556), [Yuki Nagao](https://openalex.org/A5059630659), Macromolecules. None(None)] 2025.https://doi.org/10.1021/acs.macromol.4c02607.
+    
+Alkyl sulfonated polyimides (ASPIs), as alternative polymer electrolytes for fuel cells, are known to exhibit lyotropic liquid crystalline behavior upon water uptake, forming organized lamellar structures and achieving high proton conductivity. Previous experimental studies have shown that ASPIs with planar backbones exhibit enhanced proton conductivity (0.2 S/cm) compared to those with bent backbones (0.03 S/cm). To explain this difference at the atomistic level, molecular dynamics simulations were conducted using a universal neural network potential. The appearance of monomer unit length in planar ASPIs, indicating higher molecular order, was found to correlate with higher proton conductivity compared to that of bent ASPIs. Despite the similar deprotonation and solvation of sulfonic acid groups in both planar and bent ASPIs, the proton conductivity was independent of these factors. Directional mean square displacement analysis provided further insights into the differences in proton conductivity between planar and bent types.    
 
     
 

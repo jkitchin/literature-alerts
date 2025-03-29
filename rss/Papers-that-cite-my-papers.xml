@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 28 Mar 2025 01:26:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 01:25:44 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Elucidating the Proton Source for CO&lt;sub&gt;2&lt;/sub&gt; Electro-Reduction on Cu(100) Using Many-Body Perturbation Theory</title>
-      <link>https://doi.org/10.1021/jacs.4c14108</link>
-      <description>Dongfang Cheng, Ziyang Wei, Philippe Sautet, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4408666044
-
-                The protonation of CO is recognized as the rate-determining step in the generation of C1 products during the electrochemical CO2 reduction reaction (CO2RR) on Cu surfaces. However, the detailed mechanism and the precise proton source remain elusive. While density functional theory (DFT) calculations at the GGA level have been widely used, they struggle to accurately describe adsorbate-metal interactions and surface stability. Here, we employed the Random Phase Approximation (RPA), a method based on many-body perturbation theory, to overcome these limitations. We coupled the RPA framework with the linearized Poisson&#8211;Boltzmann equation to model solvation effects and a surface charging method to account for the influence of the electrochemical potential. Our study reveals that in neutral or alkaline electrolytes, adsorbed surface water acts as the proton source for *CO reduction to *COH over a broad potential range via the Grotthuss mechanism. At highly negative potentials, solvent water becomes the primary proton donor, with multiple competing mechanisms observed. In contrast, DFT-GGA functionals significantly underestimate the reaction barriers for *COH formation and consistently predict solvent water as the proton source across all potentials of interest. Additionally, RPA offers distinct insights into H2O adsorption and highlights the significant range of reducing potentials within which surface *OH can exist, which is crucial for accurate CO2RR modeling. These insights illustrate a pronounced divergence between RPA and DFT-GGA results. Our findings offer a fresh perspective on proton transfer in CO2RR and establish a framework for future theoretical studies on electrochemical processes.</description>
-      <author>Dongfang Cheng, Ziyang Wei, Philippe Sautet</author>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c14108</guid>
-    </item>
-    <item>
-      <title>Quantum Calculations of Hydrogen Absorption and Diffusivity in Bulk CeO&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acsomega.4c11470</link>
-      <description>J.C. Stimac, Nir Goldman, ACS Omega. None(None)] 2025. https://openalex.org/W4408667030
-
-                No abstract</description>
-      <author>J.C. Stimac, Nir Goldman</author>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c11470</guid>
-    </item>
-    <item>
-      <title>Phase Engineering Modulates the Electronic Structure of the IrO&lt;sub&gt;2&lt;/sub&gt;/MoS&lt;sub&gt;2&lt;/sub&gt; Heterojunction for Efficient and Stable Water Splitting</title>
-      <link>https://doi.org/10.1021/acsnano.4c18288</link>
-      <description>Shougang Sun, Ziqi Wan, Yingying Xu, Xuemei Zhou, Wei Gao, Jinjie Qian, Jie Gao, Dong Cai, Yongjie Ge, Huagui Nie, Zhi Yang, ACS Nano. None(None)] 2025. https://openalex.org/W4408667767
-
-                The engineering of dual-functional catalytic systems capable of driving complete water dissociation in acidic environments represents a critical requirement for advancing proton exchange membrane electrolyzer technology, yet significant challenges remain. In this work, we investigate an IrO2/MoS2/CNT heterostructure catalyst demonstrating enhanced bifunctional performance for both the oxygen evolution reaction (OER) and hydrogen evolution reaction (HER) under acidic conditions. Strategic incorporation of IrO2 into the MoS2/CNT heterojunction induces a partial phase transformation from 2H to the metastable 1T configuration in MoS2, thereby modulating the electronic structure of IrO2 and improving the catalytic performance for overall water splitting. The optimized IrO2/MoS2/CNT catalyst exhibited exceptional overpotentials of 9 mV (HER) and 182 mV (OER) at a current density of 10 mA cm&#8211;2 in acidic media. Full-cell evaluations further confirmed its practical potential, showing a 1.47 V operation voltage that outperforms standard Pt/C||IrO2 counterparts by 120 mV. The experimental results revealed that the n&#8211;n heterojunction between IrO2/CNT and MoS2/CNT generates a built-in electric field, enhancing charge redistribution and electron transport. Moreover, density functional theory simulations further identify iridium centers as dominant catalytic loci, with a metastable 1T-MoS2 phase mediating charge equilibration at atomic interfaces. This modification facilitates *OH adsorption and *OOH deprotonation and lowers the kinetic barrier during the water-splitting process.</description>
-      <author>Shougang Sun, Ziqi Wan, Yingying Xu, Xuemei Zhou, Wei Gao, Jinjie Qian, Jie Gao, Dong Cai, Yongjie Ge, Huagui Nie, Zhi Yang</author>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c18288</guid>
-    </item>
-    <item>
-      <title>Adaptive-precision potentials for large-scale atomistic simulations</title>
-      <link>https://doi.org/10.1063/5.0245877</link>
-      <description>David Immel, Ralf Drautz, Godehard Sutmann, The Journal of Chemical Physics. 162(11)] 2025. https://openalex.org/W4408672723
-
-                Large-scale atomistic simulations rely on interatomic potentials, providing an efficient representation of atomic energies and forces. Modern machine-learning (ML) potentials provide the most precise representation compared to electronic structure calculations, while traditional potentials provide a less precise but computationally much faster representation and, thus, allow simulations of larger systems. We present a method to combine a traditional and a ML potential into a multi-resolution description, leading to an adaptive-precision potential with an optimum of performance and precision in large, complex atomistic systems. The required precision is determined per atom by a local structure analysis and updated automatically during simulation. We use copper as demonstrator material with an embedded atom model as classical force field and an atomic cluster expansion (ACE) as ML potential, but, in principle, a broader class of potential combinations can be coupled by this method. The approach is developed for the molecular-dynamics simulator LAMMPS and includes a load-balancer to prevent problems due to the atom dependent force-calculation times, which makes it suitable for large-scale atomistic simulations. The developed adaptive-precision copper potential represents the ACE-forces with a precision of 10 me V/&#197; and the ACE-energy exactly for the precisely calculated atoms in a nanoindentation of 4 &#215; 106 atoms calculated for 100 ps and shows a speedup of 11.3 compared with a full ACE simulation.</description>
-      <author>David Immel, Ralf Drautz, Godehard Sutmann</author>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0245877</guid>
-    </item>
-    <item>
-      <title>Unassisted electrochemical H2O2 production coupled to glycerol oxidation</title>
-      <link>https://doi.org/10.1038/s44160-025-00774-y</link>
-      <description>Dongrak Oh, Seon Woo Hwang, Dong Yeon Kim, Jesse E. Matthews, Jin&#8208;Young Lee, Jaime E. Avil&#233;s Acosta, Sang&#8208;Won Lee, Yi Xu, Ara Cho, Dong Un Lee, Thomas F. Jaramillo, Dong&#8208;Hwa Seo, Ji&#8208;Wook Jang, Nature Synthesis. None(None)] 2025. https://openalex.org/W4408672915
-
-                No abstract</description>
-      <author>Dongrak Oh, Seon Woo Hwang, Dong Yeon Kim, Jesse E. Matthews, Jin&#8208;Young Lee, Jaime E. Avil&#233;s Acosta, Sang&#8208;Won Lee, Yi Xu, Ara Cho, Dong Un Lee, Thomas F. Jaramillo, Dong&#8208;Hwa Seo, Ji&#8208;Wook Jang</author>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s44160-025-00774-y</guid>
-    </item>
-    <item>
-      <title>CNT&#8208;Supported RuNi Composites Enable High Round&#8208;Trip Efficiency in Regenerative Fuel Cells</title>
-      <link>https://doi.org/10.1002/adma.202500416</link>
-      <description>Chunfeng Li, Danning Li, Lubing Li, Haozhou Yang, Yan Zhang, Jinzhan Su, Lei Wang, Bin Liu, Advanced Materials. None(None)] 2025. https://openalex.org/W4408674747
-
-                Abstract Regenerative fuel cells hold significant potential for efficient, large&#8208;scale energy storage by reversibly converting electrical energy into hydrogen and vice versa, making them essential for leveraging intermittent renewable energy sources. However, their practical implementation is hindered by the unsatisfactory efficiency. Addressing this challenge requires the development of cost&#8208;effective electrocatalysts. In this study, a carbon nanotube (CNT)&#8208;supported RuNi composite with low Ru loading is developed as an efficient and stable catalyst for alkaline hydrogen and oxygen electrocatalysis, including hydrogen evolution, oxygen evolution, hydrogen oxidation, and oxygen reduction reaction. Furthermore, a regenerative fuel cell using this catalyst composite is assembled and evaluated under practical relevant conditions. As anticipated, the system exhibits outstanding performance in both the electrolyzer and fuel cell modes. Specifically, it achieves a low cell voltage of 1.64 V to achieve a current density of 1 A cm &#8722; 2 for the electrolyzer mode and delivers a high output voltage of 0.52 V at the same current density in fuel cell mode, resulting in a round&#8208;trip efficiency (RTE) of 31.6% without further optimization. The multifunctionality, high activity, and impressive RTE resulted by using the RuNi catalyst composites underscore its potential as a single catalyst for regenerative fuel cells.</description>
-      <author>Chunfeng Li, Danning Li, Lubing Li, Haozhou Yang, Yan Zhang, Jinzhan Su, Lei Wang, Bin Liu</author>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202500416</guid>
-    </item>
-    <item>
-      <title>Exploring the Intricacies of Glycerol Hydrodeoxygenation on Copper Surface: A Comprehensive Investigation with the Aid of Machine Learning Force Field</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c00302</link>
-      <description>Srishti Gupta, Ajin Rajan, Edvin Fako, Tiago J. Goncalves, Imke B. M&#252;ller, Jithin John Varghese, Ansgar Sch&#228;fer, Sandip De, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4408682965
-
-                No abstract</description>
-      <author>Srishti Gupta, Ajin Rajan, Edvin Fako, Tiago J. Goncalves, Imke B. M&#252;ller, Jithin John Varghese, Ansgar Sch&#228;fer, Sandip De</author>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c00302</guid>
-    </item>
-    <item>
-      <title>Efficient exploration of reaction pathways using reaction databases and active learning</title>
-      <link>https://doi.org/10.1063/5.0235715</link>
-      <description>Domantas Kuryla, G&#225;bor C&#347;anyi, Adri C. T. van Duin, Angelos Michaelides, The Journal of Chemical Physics. 162(11)] 2025. https://openalex.org/W4408687121
-
-                The fast and accurate simulation of chemical reactions is a major goal of computational chemistry. Recently, the pursuit of this goal has been aided by machine learning interatomic potentials (MLIPs), which provide energies and forces at quantum mechanical accuracy but at a fraction of the cost of the reference quantum mechanical calculations. Assembling the training set of relevant configurations is key to building the MLIP. Here, we demonstrate two approaches to training reactive MLIPs based on reaction pathway information. One approach exploits reaction datasets containing reactant, product, and transition state structures. Using an SN2 reaction dataset, we accurately locate reaction pathways and transition state geometries of up to 170 unseen reactions. In another approach, which does not depend on data availability, we present an efficient active learning procedure that yields an accurate MLIP and converged minimum energy path given only the reaction end point structures, avoiding quantum mechanics driven reaction pathway search at any stage of training set construction. We demonstrate this procedure on an SN2 reaction in the gas phase and with a small number of solvating water molecules, predicting reaction barriers within 20 meV of the reference quantum chemistry method. We then apply the active learning procedure on a more complex reaction involving a nucleophilic aromatic substitution and proton transfer, comparing the results against the reactive ReaxFF force field. Our active learning procedure, in addition to rapidly finding reaction paths for individual reactions, provides an approach to building large reaction path databases for training transferable reactive machine learning potentials.</description>
-      <author>Domantas Kuryla, G&#225;bor C&#347;anyi, Adri C. T. van Duin, Angelos Michaelides</author>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0235715</guid>
-    </item>
-    <item>
-      <title>Computational Study of Tri-Atomic Catalyst-Loaded Two-Dimensional Graphenylene for Overall Water Splitting</title>
-      <link>https://doi.org/10.3390/catal15040296</link>
-      <description>Zhenghao Li, Haifeng Wang, Yan Gao, Catalysts. 15(4)] 2025. https://openalex.org/W4408689546
-
-                As the energy crisis and environmental pollution continue to intensify, the demand for clean energy has increased. Using two-dimensional materials to catalyze overall water splitting is an important pathway for clean energy production. This study investigated the catalytic hydrogen evolution reaction (HER), oxygen evolution reaction (OER), and oxygen reduction reaction (ORR) of tri-atomic clusters supported on a two-dimensional material, graphenylene (GPN). The structural stability of GPN was thoroughly investigated, and materials were employed as substrates to support a series of 28 distinct trimer clusters composed of 3d, 4d, and 5d transition metals. Ideal combinations of these systems were screened and designed. The loading configurations of TM3@GPN in two different systems were systematically studied. The stability of the catalyst was assessed by calculating the binding and cohesive energies and by performing molecular dynamics simulations, to confirm the catalyst stability. The optimal bifunctional catalysts for overall water splitting were identified as Au3@GPN, Pt3@GPN, and Pd3@GPN, all of which demonstrated superior overall water splitting performance. As a novel two-dimensional material, biphenylene-based materials, when used to support metal clusters as bifunctional catalysts for water splitting, represent an efficient and innovative approach.</description>
-      <author>Zhenghao Li, Haifeng Wang, Yan Gao</author>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/catal15040296</guid>
-    </item>
-    <item>
-      <title>Gender Inequality in Scientific Production at Unicamp: a scientometric analysis of female participation essential for equity (2019&#8211;2023)</title>
-      <link>https://doi.org/10.1080/2331186x.2025.2480502</link>
-      <description>M&#225;rcio Souza Martins, Francisco Tadeu Gon&#231;alves de Oliveira Foz, Oscar Eliel, Marilda Solon Teixeira Bottesi, Cogent Education. 12(1)] 2025. https://openalex.org/W4408694460
-
-                No abstract</description>
-      <author>M&#225;rcio Souza Martins, Francisco Tadeu Gon&#231;alves de Oliveira Foz, Oscar Eliel, Marilda Solon Teixeira Bottesi</author>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/2331186x.2025.2480502</guid>
-    </item>
     <item>
       <title>Auxetic &#947;-SnO monolayer as a high-performance catalyst for light-driven water splitting and oxygen reduction: Unveiling screening descriptors via machine learning-assisted dimensionality reduction strategy</title>
       <link>https://doi.org/10.1016/j.jpowsour.2025.236811</link>
@@ -482,10 +382,40 @@
       <link>https://doi.org/10.1038/s41467-025-57464-8</link>
       <description>Qiyou Wang, Tao Luo, Xueying Cao, Yujie Gong, Yuxiang Liu, Y. L. Xiao, Hongmei Li, Franz Gr&#246;bmeyer, Ying&#8208;Rui Lu, Ting&#8208;Shan Chan, Chao Ma, Kang Liu, Junwei Fu, Shiguo Zhang, Changxu Liu, Lin Zhang, Liyuan Chai, Emiliano Cort&#233;s, Min Liu, Nature Communications. 16(1)] 2025. https://openalex.org/W4408857437
 
-                No abstract</description>
+                Abstract Single-atom catalysts (SACs) have received increasing attention due to their 100% atomic utilization efficiency. The electrochemical CO 2 reduction reaction (CO 2 RR) to CO using SAC offers a promising approach for CO 2 utilization, but achieving facile CO 2 adsorption and CO desorption remains challenging for traditional SACs. Instead of singling out specific atoms, we propose a strategy utilizing atoms from the entire lanthanide (Ln) group to facilitate the CO 2 RR. Density functional theory calculations, operando spectroscopy, and X-ray absorption spectroscopy elucidate the bridging adsorption mechanism for a representative erbium (Er) single-atom catalyst. As a result, we realize a series of Ln SACs spanning 14 elements that exhibit CO Faradaic efficiencies exceeding 90%. The Er catalyst achieves a high turnover frequency of ~130,000 h &#8722; 1 at 500 mA cm &#8722; 2 . Moreover, 34.7% full-cell energy efficiency and 70.4% single-pass CO 2 conversion efficiency are obtained at 200 mA cm &#8722; 2 with acidic electrolyte. This catalytic platform leverages the collective potential of the lanthanide group, introducing new possibilities for efficient CO 2 -to-CO conversion and beyond through the exploration of unique bonding motifs in single-atom catalysts.</description>
       <author>Qiyou Wang, Tao Luo, Xueying Cao, Yujie Gong, Yuxiang Liu, Y. L. Xiao, Hongmei Li, Franz Gr&#246;bmeyer, Ying&#8208;Rui Lu, Ting&#8208;Shan Chan, Chao Ma, Kang Liu, Junwei Fu, Shiguo Zhang, Changxu Liu, Lin Zhang, Liyuan Chai, Emiliano Cort&#233;s, Min Liu</author>
       <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-57464-8</guid>
+    </item>
+    <item>
+      <title>Potential-Dependent Electrocatalytic Nitrogen Reduction Catalysis on Ni-Anchored &#947;-Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;(110) Surface</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c08378</link>
+      <description>Deewan S. Teja, Bhabani S. Mallik, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4408869529
+
+                No abstract</description>
+      <author>Deewan S. Teja, Bhabani S. Mallik</author>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c08378</guid>
+    </item>
+    <item>
+      <title>Understanding the activity origin and mechanisms of the oxygen reduction reaction on the tetramethyl metalloporphyrin/MoS&lt;sub&gt;2&lt;/sub&gt; electrocatalyst</title>
+      <link>https://doi.org/10.1039/d5ra00814j</link>
+      <description>Tran Phuong Dung, Pham Tran Nguyen Nguyen, Viorel Chihaia, Do Ngoc Son, RSC Advances. 15(12)] 2025. https://openalex.org/W4408873061
+
+                This study elucidated the impact of metal substitutions in MeTMP/MoS 2 on the mechanisms and activity of the ORR. The Co atom is the best substitution in MeTMP/MoS 2 catalysts, while the MoS 2 support favours the dissociative ORR mechanism.</description>
+      <author>Tran Phuong Dung, Pham Tran Nguyen Nguyen, Viorel Chihaia, Do Ngoc Son</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ra00814j</guid>
+    </item>
+    <item>
+      <title>Molecular Dynamics Simulation of Polymer Electrolyte Membrane for Understanding Structure and Proton Conductivity at Various Hydration Levels Using Neural Network Potential</title>
+      <link>https://doi.org/10.1021/acs.macromol.4c02607</link>
+      <description>Attila T&#225;borosi, Kentaro Aoki, Nobuyuki Zettsu, Michihisa Koyama, Yuki Nagao, Macromolecules. None(None)] 2025. https://openalex.org/W4408888610
+
+                Alkyl sulfonated polyimides (ASPIs), as alternative polymer electrolytes for fuel cells, are known to exhibit lyotropic liquid crystalline behavior upon water uptake, forming organized lamellar structures and achieving high proton conductivity. Previous experimental studies have shown that ASPIs with planar backbones exhibit enhanced proton conductivity (0.2 S/cm) compared to those with bent backbones (0.03 S/cm). To explain this difference at the atomistic level, molecular dynamics simulations were conducted using a universal neural network potential. The appearance of monomer unit length in planar ASPIs, indicating higher molecular order, was found to correlate with higher proton conductivity compared to that of bent ASPIs. Despite the similar deprotonation and solvation of sulfonic acid groups in both planar and bent ASPIs, the proton conductivity was independent of these factors. Directional mean square displacement analysis provided further insights into the differences in proton conductivity between planar and bent types.</description>
+      <author>Attila T&#225;borosi, Kentaro Aoki, Nobuyuki Zettsu, Michihisa Koyama, Yuki Nagao</author>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.macromol.4c02607</guid>
     </item>
     <item>
       <title>A Physicochemical Investigation on the Interaction of Aloe vera Extracts with Ascorbic Acid and Deoxyribonucleic Acid</title>
