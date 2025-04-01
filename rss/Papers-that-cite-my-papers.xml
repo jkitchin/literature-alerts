@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 31 Mar 2025 01:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 01:45:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Novel two-dimensional ZnO materials for enhanced photocatalytic hydrogen evolution performance</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.163068</link>
-      <description>Peixian Wang, Bin Song, Gaoling Zhao, Applied Surface Science. None(None)] 2025. https://openalex.org/W4408755952
-
-                No abstract</description>
-      <author>Peixian Wang, Bin Song, Gaoling Zhao</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.163068</guid>
-    </item>
-    <item>
-      <title>Machine Learning Supported Annealing for Prediction of Grand Canonical Crystal Structures</title>
-      <link>https://doi.org/10.7566/jpsj.94.044802</link>
-      <description>Yannick Couzini&#233;, Yuya Seki, Yusuke Nishiya, Hirofumi Nishi, Taichi Kosugi, Shu Tanaka, Yu&#8208;ichiro Matsushita, Journal of the Physical Society of Japan. 94(4)] 2025. https://openalex.org/W4408757120
-
-                No abstract</description>
-      <author>Yannick Couzini&#233;, Yuya Seki, Yusuke Nishiya, Hirofumi Nishi, Taichi Kosugi, Shu Tanaka, Yu&#8208;ichiro Matsushita</author>
-      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.7566/jpsj.94.044802</guid>
-    </item>
-    <item>
-      <title>Self-activated oxophilic surface of porous molybdenum carbide nanosheets promotes hydrogen evolution activity in alkaline environment</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.137423</link>
-      <description>Yong Li, Weining Song, Teng Gai, Lipeng Wang, Zhen Li, Peng He, Qi Liu, Lawrence Yoon Suk Lee, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4408756062
-
-                Molybdenum carbides are promising alternatives to Pt-based catalysts for the hydrogen evolution reaction (HER) due to their similar d-band electronic configuration. Notably, MoxC exhibits superior HER kinetics in alkaline media compared to acidic conditions, contrasting with Pt-based catalysts. Herein, we present 3D porous &#946;-Mo2C nanosheets, achieving an overpotential of 111 mV at 10 mA cm-2 in 1 M KOH, significantly lower than in acidic environments. Simulations on pristine Mo2C surface reveal that water dissociation poses a higher energy barrier in alkaline media, suggesting that crystal structure alone does not dictate kinetics. Operando attenuated total reflection surface-enhanced infrared absorption spectroscopy shows that Mo2C activates interfacial water, generating liquid-like and free water, and facilitates hydroxyl species adsorption, reducing activation energy to below 38.43 &#177; 0.19 kJ/mol. Our findings on the self-activation effect offer insights into the HER mechanism of Mo-based electrocatalysts and guide the design of highly active HER catalysts.</description>
-      <author>Yong Li, Weining Song, Teng Gai, Lipeng Wang, Zhen Li, Peng He, Qi Liu, Lawrence Yoon Suk Lee</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137423</guid>
-    </item>
-    <item>
-      <title>Quantifying &#960;-electron delocalization as a universal descriptor for ORR activity in MN4 catalysts</title>
-      <link>https://doi.org/10.1016/j.jcat.2025.116093</link>
-      <description>Miao&#8208;Ying Chen, Jiabo Le, Haoran Wu, Weidong Li, Jianan Zhang, Bang&#8208;An Lu, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4408768117
-
-                No abstract</description>
-      <author>Miao&#8208;Ying Chen, Jiabo Le, Haoran Wu, Weidong Li, Jianan Zhang, Bang&#8208;An Lu</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116093</guid>
-    </item>
-    <item>
-      <title>Sulfur doping activated metal&#8211;support interaction drives Pt nanoparticles to achieve acid&#8211;base hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1039/d4ta08499c</link>
-      <description>Yagang Li, Jiaqing Luo, Peilin Liu, Liangkun Zhang, Weiyu Song, Yuechang Wei, Zhen Zhao, Xiao Zhang, Jian Liu, Yuanqing Sun, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4408769162
-
-                The sulfur doping strategy activates the interfacial effect, thereby promoting Pt NPs to attain efficient acid&#8211;base hydrogen evolution.</description>
-      <author>Yagang Li, Jiaqing Luo, Peilin Liu, Liangkun Zhang, Weiyu Song, Yuechang Wei, Zhen Zhao, Xiao Zhang, Jian Liu, Yuanqing Sun</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta08499c</guid>
-    </item>
-    <item>
-      <title>Lattice thermal conductivity in the anharmonic overdamped regime</title>
-      <link>https://doi.org/10.1103/physrevb.111.104314</link>
-      <description>&#272;or&#273;e Dangi&#263;, Giovanni Caldarelli, Raffaello Bianco, Ivana Savi&#263;, Ion Errea, Physical review. B./Physical review. B. 111(10)] 2025. https://openalex.org/W4408776904
-
-                No abstract</description>
-      <author>&#272;or&#273;e Dangi&#263;, Giovanni Caldarelli, Raffaello Bianco, Ivana Savi&#263;, Ion Errea</author>
-      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.111.104314</guid>
-    </item>
-    <item>
-      <title>Spillover Dynamics in Heterogeneous Catalysis on Singe&#8208;Atom Alloys: A Theoretical Perspective</title>
-      <link>https://doi.org/10.1002/wcms.70011</link>
-      <description>Shuyu Lin, Rui Xiong, Jun Chen, Sen Lin, Wiley Interdisciplinary Reviews Computational Molecular Science. 15(2)] 2025. https://openalex.org/W4408778659
-
-                ABSTRACT Recent advances in single&#8208;atom alloy ( SAA ) catalysts provide a unique platform for understanding spillover, due to the well&#8208;defined nature of the active site for dissociative chemisorption. In particular, the use of spilled adsorbates following molecular dissociation on the host metal surface facilitates the generation of high&#8208;value chemicals in subsequent catalytic reactions. Nevertheless, the factors that control the spillover process remain to be fully elucidated. This perspective discusses recent theoretical advances in the spillover dynamics on SAAs , with a particular focus on the dissociation and spillover processes of H 2 and CH 4 . It provides valuable insights into how various factors, such as energy transfer, nuclear quantum effects, gas&#8208;adsorbate interactions, and adsorbate size, impact the diffusion behavior of hydrogen and methyl species on SAA surfaces. The article concludes with a discussion of future prospects. This perspective underscores the significance of spillover dynamics in heterogeneous catalysis, with important implications for improving catalytic performance.</description>
-      <author>Shuyu Lin, Rui Xiong, Jun Chen, Sen Lin</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/wcms.70011</guid>
-    </item>
-    <item>
-      <title>Improving the Catalytic Selectivity of Reverse Water&#8211;Gas Shift Reaction Catalyzed by Ru/CeO2 Through the Addition of Yttrium Oxide</title>
-      <link>https://doi.org/10.3390/catal15040301</link>
-      <description>Alfredo Sol&#237;s-Garc&#237;a, Karina Portillo-Cortez, D. Dom&#237;nguez, S. Fuentes, J.N. D&#237;az de Le&#243;n, T.A. Zepeda, Uriel Caudillo&#8208;Flores, Catalysts. 15(4)] 2025. https://openalex.org/W4408778954
-
-                This study reports the synthesis, characterization, and catalytic performance of a series of catalysts of Ru supported on CeO2-Y2O3 composites (Ru/CeYX; X = 0, 33, 66, and 100 wt.% Y2O3) for CO2 hydrogenation. Supported material modification (Y2O3-CeO2), by the Y2O3 incorporation, allowed a change in selectivity from methane to RWGS of the CO2 hydrogenation reaction. This change in selectivity is correlated with the variation in the physicochemical properties caused by Y2O3 addition. X-ray diffraction (XRD) analysis confirmed the formation of crystalline fluorite-phase CeO2 and &#945;-Y2O3. High-resolution transmission electron microscopy (HR-TEM) and energy-dispersive X-ray spectroscopy (EDS) elemental mapping revealed the formation of a homogeneous CeO2-Y2O3 nanocomposite. As the Y2O3 content increased, the specific surface area, measured by BET, showed a decreasing trend from 106.3 to 51.7 m2 g&#8722;1. X-ray photoelectron spectroscopy (XPS) of Ce3d indicated a similar Ce3+/Ce4+ ratio across all CeO2-containing materials, while the O1s spectra showed a reduction in oxygen vacancies with increasing Y2O3 content, which is attributed to the decreased surface area upon composite formation. Catalytically, the addition of Y2O3 influenced both conversion and selectivity. CO2 conversion decreased with increasing Y2O3 content, with the lowest conversion observed for Ru/CeY100. Regarding selectivity, methane was the dominant product for Ru/CeY0 (pure CeO2), while CO was the main product for Ru/CeY33, Ru/CeY66, and Ru/CeY100, indicating a shift towards the reverse water&#8211;gas shift (RWGS) reaction. The highest RWGS reaction rate was observed with the Ru/CeY33 catalyst under all tested conditions. The observed differences in conversion and selectivity are attributed to a reduction in active sites due to the decrease in surface area and oxygen vacancies, both of which are important for CO2 adsorption. In order to verify the surface species catalytically active for RWGS, the samples were characterized by FTIR spectroscopy under reaction conditions.</description>
-      <author>Alfredo Sol&#237;s-Garc&#237;a, Karina Portillo-Cortez, D. Dom&#237;nguez, S. Fuentes, J.N. D&#237;az de Le&#243;n, T.A. Zepeda, Uriel Caudillo&#8208;Flores</author>
-      <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/catal15040301</guid>
-    </item>
-    <item>
-      <title>Self-Promoting NO electrochemical reduction via N-N coupling by Surface-Adsorbed *NH intermediates on Mo2C nanosheets</title>
-      <link>https://doi.org/10.1016/j.jcat.2025.116097</link>
-      <description>Xiang Huang, Xiangting Hu, Jiong Wang, Hu Xu, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4408782209
-
-                No abstract</description>
-      <author>Xiang Huang, Xiangting Hu, Jiong Wang, Hu Xu</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116097</guid>
-    </item>
     <item>
       <title>Embedding transition metal atoms in S- modified porphyrin-expanded porphyrin tandem carbon-rich conjugated frameworks for efficient synthesis of C3 sugars</title>
       <link>https://doi.org/10.1016/j.mtcomm.2025.112333</link>
@@ -516,16 +426,6 @@
       <author>Xue&#8208;Feng Cheng, Qing Liu, Qimeng Sun, Huilong Dong, Dongyun Chen, Ying Zheng, Qingfeng Xu, Jianmei Lu</author>
       <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(24)60221-4</guid>
-    </item>
-    <item>
-      <title>The Future of Catalysis: Applying Graph Neural Networks for Intelligent Catalyst Design</title>
-      <link>https://doi.org/10.1002/wcms.70010</link>
-      <description>Zhihao Wang, Wentao Li, Siying Wang, Xiaonan Wang, Wiley Interdisciplinary Reviews Computational Molecular Science. 15(2)] 2025. https://openalex.org/W4408782647
-
-                ABSTRACT With the increasing global demand for energy transition and environmental sustainability, catalysts play a vital role in mitigating global climate change, as they facilitate over 90% of chemical and material conversions. It is important to investigate the complex structures and properties of catalysts for enhanced performance, for which artificial intelligence (AI) methods, especially graph neural networks (GNNs) could be useful. In this article, we explore the cutting&#8208;edge applications and future potential of GNNs in intelligent catalyst design. The fundamental theories of GNNs and their practical applications in catalytic material simulation and inverse design are first reviewed. We analyze the critical roles of GNNs in accelerating material screening, performance prediction, reaction pathway analysis, and mechanism modeling. By leveraging graph convolution techniques to accurately represent molecular structures, integrating symmetry constraints to ensure physical consistency, and applying generative models to efficiently explore the design space, these approaches work synergistically to enhance the efficiency and accuracy of catalyst design. Furthermore, we highlight high&#8208;quality databases crucial for catalysis research and explore the innovative application of GNNs in thermocatalysis, electrocatalysis, photocatalysis, and biocatalysis. In the end, we highlight key directions for advancing GNNs in catalysis: dynamic frameworks for real&#8208;time conditions, hierarchical models linking atomic details to catalyst features, multi&#8208;task networks for performance prediction, and interpretability mechanisms to reveal critical reaction pathways. We believe these advancements will significantly broaden the role of GNNs in catalysis science, paving the way for more efficient, accurate, and sustainable catalyst design methodologies.</description>
-      <author>Zhihao Wang, Wentao Li, Siying Wang, Xiaonan Wang</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/wcms.70010</guid>
     </item>
     <item>
       <title>Iterative charge equilibration for fourth-generation high-dimensional neural network potentials</title>
