@@ -1,8 +1,49 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Apr  2 01:36:00 2025
+Created on Thu Apr  3 01:26:41 2025
 
-Found 0 results from 2025-03-26 to 2025-04-02
+Found 2 results from 2025-03-27 to 2025-04-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
+* Mixed-integer Programming Representations of Linear Model Decision Tree Surrogates  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4409053249
+:TOPICS: Optimization and Mathematical Programming, Software Reliability and Analysis Research, Multi-Criteria Decision Making
+:PUBLICATION_DATE: 2023-11-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2540514")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409053249"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409053249"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409053249"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4409053249 (Open access: False)
+    
+[[https://openalex.org/A5092486945][Bashar Ammari]], [[https://openalex.org/A5026170862][Emma S. Johnson]], [[https://openalex.org/A5007541692][Georgia Stinchfield]], [[https://openalex.org/A5100387012][Taehun Kim]], [[https://openalex.org/A5031357535][Michael Bynum]], [[https://openalex.org/A5102842741][William E. Hart]], [[https://openalex.org/A5036452308][Joshua L. Pulsipher]], [[https://openalex.org/A5030631754][Carl D. Laird]], No host. None(None)] 2023. https://doi.org/10.2172/2540514 
+     
+No abstract    
+
+    
+
+* Mixed-Integer Programming Formulations for Decision Making with Linear Model Decision Tree Surrogates  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4409053263
+:TOPICS: Multi-Criteria Decision Making, Bayesian Modeling and Causal Inference, Optimization and Mathematical Programming
+:PUBLICATION_DATE: 2023-03-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2540537")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409053263"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409053263"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409053263"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4409053263 (Open access: False)
+    
+[[https://openalex.org/A5092486945][Bashar Ammari]], [[https://openalex.org/A5026170862][Emma S. Johnson]], [[https://openalex.org/A5007541692][Georgia Stinchfield]], [[https://openalex.org/A5031357535][Michael Bynum]], [[https://openalex.org/A5036452308][Joshua L. Pulsipher]], [[https://openalex.org/A5100387012][Taehun Kim]], [[https://openalex.org/A5102842741][William E. Hart]], [[https://openalex.org/A5030631754][Carl D. Laird]], No host. None(None)] 2023. https://doi.org/10.2172/2540537 
+     
+No abstract    
+
+    

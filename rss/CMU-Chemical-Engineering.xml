@@ -4,8 +4,28 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 02 Apr 2025 01:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 01:26:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Mixed-integer Programming Representations of Linear Model Decision Tree Surrogates</title>
+      <link>https://doi.org/10.2172/2540514</link>
+      <description>Bashar Ammari, Emma S. Johnson, Georgia Stinchfield, Taehun Kim, Michael Bynum, William E. Hart, Joshua L. Pulsipher, Carl D. Laird, No host. None(None)] 2023. https://openalex.org/W4409053249
+
+                No abstract</description>
+      <author>Bashar Ammari, Emma S. Johnson, Georgia Stinchfield, Taehun Kim, Michael Bynum, William E. Hart, Joshua L. Pulsipher, Carl D. Laird</author>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2540514</guid>
+    </item>
+    <item>
+      <title>Mixed-Integer Programming Formulations for Decision Making with Linear Model Decision Tree Surrogates</title>
+      <link>https://doi.org/10.2172/2540537</link>
+      <description>Bashar Ammari, Emma S. Johnson, Georgia Stinchfield, Michael Bynum, Joshua L. Pulsipher, Taehun Kim, William E. Hart, Carl D. Laird, No host. None(None)] 2023. https://openalex.org/W4409053263
+
+                No abstract</description>
+      <author>Bashar Ammari, Emma S. Johnson, Georgia Stinchfield, Michael Bynum, Joshua L. Pulsipher, Taehun Kim, William E. Hart, Carl D. Laird</author>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2540537</guid>
+    </item>
   </channel>
 </rss>
