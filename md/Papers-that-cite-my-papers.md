@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Apr  3 01:26:55 2025
+Created on Fri Apr  4 01:26:48 2025
 
-Found 55 results from 2025-03-27 to 2025-04-03
+Found 57 results from 2025-03-28 to 2025-04-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967)
@@ -16,50 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Lanthanide single-atom catalysts for efficient CO2-to-CO electroreduction   
-
-OpenAlex: https://openalex.org/W4408857437    
-Open access: True
-    
-[Qiyou Wang](https://openalex.org/A5103266483), [Tao Luo](https://openalex.org/A5038140139), [Xueying Cao](https://openalex.org/A5040375453), [Yujie Gong](https://openalex.org/A5101345273), [Yuxiang Liu](https://openalex.org/A5100751387), [Y. L. Xiao](https://openalex.org/A5053186213), [Hongmei Li](https://openalex.org/A5100377021), [Franz Gröbmeyer](https://openalex.org/A5031787898), [Ying‐Rui Lu](https://openalex.org/A5080261450), [Ting‐Shan Chan](https://openalex.org/A5076885525), [Chao Ma](https://openalex.org/A5025545087), [Kang Liu](https://openalex.org/A5100389906), [Junwei Fu](https://openalex.org/A5013848651), [Shiguo Zhang](https://openalex.org/A5031159142), [Changxu Liu](https://openalex.org/A5003441845), [Lin Zhang](https://openalex.org/A5001870176), [Liyuan Chai](https://openalex.org/A5108436495), [Emiliano Cortés](https://openalex.org/A5049936709), [Min Liu](https://openalex.org/A5100343920), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-57464-8 ([pdf](https://www.nature.com/articles/s41467-025-57464-8.pdf)).
-    
-Abstract Single-atom catalysts (SACs) have received increasing attention due to their 100% atomic utilization efficiency. The electrochemical CO 2 reduction reaction (CO 2 RR) to CO using SAC offers a promising approach for CO 2 utilization, but achieving facile CO 2 adsorption and CO desorption remains challenging for traditional SACs. Instead of singling out specific atoms, we propose a strategy utilizing atoms from the entire lanthanide (Ln) group to facilitate the CO 2 RR. Density functional theory calculations, operando spectroscopy, and X-ray absorption spectroscopy elucidate the bridging adsorption mechanism for a representative erbium (Er) single-atom catalyst. As a result, we realize a series of Ln SACs spanning 14 elements that exhibit CO Faradaic efficiencies exceeding 90%. The Er catalyst achieves a high turnover frequency of ~130,000 h − 1 at 500 mA cm − 2 . Moreover, 34.7% full-cell energy efficiency and 70.4% single-pass CO 2 conversion efficiency are obtained at 200 mA cm − 2 with acidic electrolyte. This catalytic platform leverages the collective potential of the lanthanide group, introducing new possibilities for efficient CO 2 -to-CO conversion and beyond through the exploration of unique bonding motifs in single-atom catalysts.    
-
-    
-
-## Potential-Dependent Electrocatalytic Nitrogen Reduction Catalysis on Ni-Anchored γ-Al2O3(110) Surface   
-
-OpenAlex: https://openalex.org/W4408869529    
-Open access: False
-    
-[Deewan S. Teja](https://openalex.org/A5116809566), [Bhabani S. Mallik](https://openalex.org/A5078031554), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.4c08378.
-    
-No abstract    
-
-    
-
-## Understanding the activity origin and mechanisms of the oxygen reduction reaction on the tetramethyl metalloporphyrin/MoS2 electrocatalyst   
-
-OpenAlex: https://openalex.org/W4408873061    
-Open access: True
-    
-[Tran Phuong Dung](https://openalex.org/A5086156117), [Pham Tran Nguyen Nguyen](https://openalex.org/A5044786526), [Viorel Chihaia](https://openalex.org/A5102130084), [Do Ngoc Son](https://openalex.org/A5048914742), RSC Advances. 15(12)] 2025.https://doi.org/10.1039/d5ra00814j.
-    
-This study elucidated the impact of metal substitutions in MeTMP/MoS 2 on the mechanisms and activity of the ORR. The Co atom is the best substitution in MeTMP/MoS 2 catalysts, while the MoS 2 support favours the dissociative ORR mechanism.    
-
-    
-
-## Molecular Dynamics Simulation of Polymer Electrolyte Membrane for Understanding Structure and Proton Conductivity at Various Hydration Levels Using Neural Network Potential   
-
-OpenAlex: https://openalex.org/W4408888610    
-Open access: False
-    
-[Attila Táborosi](https://openalex.org/A5073287680), [Kentaro Aoki](https://openalex.org/A5004758377), [Nobuyuki Zettsu](https://openalex.org/A5008099662), [Michihisa Koyama](https://openalex.org/A5060491556), [Yuki Nagao](https://openalex.org/A5059630659), Macromolecules. None(None)] 2025.https://doi.org/10.1021/acs.macromol.4c02607.
-    
-Alkyl sulfonated polyimides (ASPIs), as alternative polymer electrolytes for fuel cells, are known to exhibit lyotropic liquid crystalline behavior upon water uptake, forming organized lamellar structures and achieving high proton conductivity. Previous experimental studies have shown that ASPIs with planar backbones exhibit enhanced proton conductivity (0.2 S/cm) compared to those with bent backbones (0.03 S/cm). To explain this difference at the atomistic level, molecular dynamics simulations were conducted using a universal neural network potential. The appearance of monomer unit length in planar ASPIs, indicating higher molecular order, was found to correlate with higher proton conductivity compared to that of bent ASPIs. Despite the similar deprotonation and solvation of sulfonic acid groups in both planar and bent ASPIs, the proton conductivity was independent of these factors. Directional mean square displacement analysis provided further insights into the differences in proton conductivity between planar and bent types.    
-
-    
 
 ## The advantages of reheated and intercooled gas turbines for combined cycles with post-combustion CO2 capture and storage   
 
@@ -589,6 +545,61 @@ No abstract
 
     
 
+## V activated electro-epoxidation catalyst in membrane electrode assembly system for the production of propylene oxide   
+
+OpenAlex: https://openalex.org/W4409060602    
+Open access: True
+    
+[Yan Lin](https://openalex.org/A5059774413), [Hui Li](https://openalex.org/A5100423834), [Xiaodong Miao](https://openalex.org/A5114166182), [Yang Sun](https://openalex.org/A5043583752), [Hao Ren](https://openalex.org/A5041301033), [Xifeng Yu](https://openalex.org/A5070975346), [Wangyang Cui](https://openalex.org/A5108933998), [Mingbo Wu](https://openalex.org/A5063554744), [Zhongtao Li](https://openalex.org/A5061300084), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-58486-y.
+    
+No abstract    
+
+    
+
+## Materials for Electrocatalysis: Future Prospects in Energy Conversion   
+
+OpenAlex: https://openalex.org/W4409075137    
+Open access: False
+    
+[John M. George](https://openalex.org/A5063840395), [Susikumar Thangarasu](https://openalex.org/A5116874832), [J. Archana](https://openalex.org/A5066976698), [P. Justin Jesuraj](https://openalex.org/A5049775263), The Chemical Record. None(None)] 2025.https://doi.org/10.1002/tcr.202400254.
+    
+Abstract Electrocatalysts play a pivotal role in various energy conversion processes, such as water splitting, batteries, carbon dioxide reduction, and fuel cell reactions, by significantly reducing the energy barrier and enhancing reaction kinetics. This review highlights the potential of earth‐abundant electrocatalysts, with a particular focus on their capabilities in critical electrochemical reactions, including oxygen evolution reaction, carbon dioxide reduction reaction, oxygen reduction reaction and hydrogen evolution reaction. Emphasis is also placed on bifunctional, trifunctional, and tetrafunctional performance, showcasing their adaptability and effectiveness across diverse energy applications. Exploration is done on a range of promising materials, including transition metal chalcogenides, MXenes, metal‐organic frameworks, covalent organic frameworks, and layered double hydroxides. By examining their intrinsic properties, structural versatility, and surface engineering strategies, this review sheds light on the factors that govern their catalytic efficiency and stability. The integration of experimental advancements with theoretical insights provides a deeper understanding of mechanisms driving their catalytic activity. Additionally, we address the scalability, cost‐effectiveness, and environmental impact of these materials, underlining their potential for large‐scale deployment. By synthesizing recent progress and identifying challenges, this work delivers a roadmap for the model and application of multifunctional electrocatalysts, fostering innovations that align with the goals of sustainable energy systems.    
+
+    
+
+## Porous Antimony Tin Oxide with a Particle Assembly Structure as an IrO2 Support for an Efficient Oxygen Evolution Reaction in Proton-Exchange Membrane Water Electrolysis   
+
+OpenAlex: https://openalex.org/W4409076512    
+Open access: False
+    
+[Zuobo Yang](https://openalex.org/A5004187884), [Xiaokuan Wu](https://openalex.org/A5102632714), [Leilei Cai](https://openalex.org/A5104305021), [Jimmy Yun](https://openalex.org/A5101165186), [Jie Zhang](https://openalex.org/A5008720433), [Xin Liang](https://openalex.org/A5082435881), [Hong Zhao](https://openalex.org/A5101489926), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.5c00875.
+    
+Proton-exchange membrane water electrolysis (PEMWE) holds great promise for hydrogen production applications. However, the reliance of PEMWE membrane electrodes on high loadings of expensive iridium poses a significant barrier to their commercial viability. Therefore, the development of high-performance oxygen evolution catalysts with a low iridium content is of critical importance. In this research, a porous antimony tin oxide (ATO) conductive support with a particle assembly aggregate structure was fabricated by a carbon template removal method. ATO-supported IrO2 exhibits significantly improved oxygen evolution reaction (OER) activity, with a much lower overpotential compared to the unsupported IrO2 catalyst. Moreover, it achieves 1.8 V at 2 A cm-2 with an ultralow loading of iridium (0.3 mgIr cm-2) for the proton-exchange membrane electrolyzer. Characterization techniques and density functional theory calculations have elucidated that the enhanced performance is attributed to the porous morphology of ATO and the strong metal oxide-support interaction between IrO2 and the ATO support. These findings validate the practicality of conductive nanostructured antimony-tin-oxide-supported catalysts for PEMWE applications and offer a pathway for the design of low-Ir OER catalysts.    
+
+    
+
+## Polydisperse Pt Deposits Over TiO2‐Nanotube‐Array‐Supported Ru Nanoparticles: Harnessing the Interfacial Synergy for Efficient Hydrogen Evolution Electrocatalysis   
+
+OpenAlex: https://openalex.org/W4409084727    
+Open access: False
+    
+[Mila N. Krstajić Pajić](https://openalex.org/A5078000932), [Ana S. Dobrota](https://openalex.org/A5063501377), [Anca Mazare](https://openalex.org/A5068442632), [Sladjana Djurdjić](https://openalex.org/A5005962457), [Xin Zhou](https://openalex.org/A5001744159), [Nikita Denisov](https://openalex.org/A5042616956), [Natalia V. Skorodumova](https://openalex.org/A5013710184), [Dragan Manojlović](https://openalex.org/A5035964159), [Rastko Vasilić](https://openalex.org/A5000537710), [Igor A. Pašti](https://openalex.org/A5079797338), [Patrik Schmuki](https://openalex.org/A5073750190), [U.Č. Lačnjevac](https://openalex.org/A5065661057), Small. None(None)] 2025.https://doi.org/10.1002/smll.202411870.
+    
+Abstract Developing cost‐effective precious metal electrocatalysts for the hydrogen evolution reaction (HER) is key to realizing the economic viability of acidic water electrolysis. Herein, galvanic displacement is employed for in situ formation of bimetallic Pt/Ru deposits on H‐intercalated TiO 2 nanotube arrays. It is found that a two‐step procedure yields polydisperse deposits with a dominant fraction of Ru nanoparticles coated with atomic and subnanometric Pt islands. These Pt|Ru nanointerfaces induce charge transfer from Pt to Ru, which modulates the electronic structure of Pt sites for accelerated HER kinetics. By varying the platinization time in the second step, a balance between the exposure of catalytically active Pt|Ru nanointerfaces and the total number of Pt surface sites is achieved. The optimized composite, termed Ru‐30min@Pt‐30min, requires an overpotential of 58 mV to deliver a current density of 100 mA cm −2 in 1.0 m HClO 4 and maintains performance stability and structure integrity under prolonged operation. Moreover, it presents a 3.5‐fold increase in precious metal mass activity over Pt/C at η = 80 mV. Theoretical calculations reveal that the electronic interactions generated by Pt‐modification of Ru and hydrogenated TiO 2 surfaces provide multiple active sites with improved H ads energetics compared to pure Pt and Ru.    
+
+    
+
+## Carbon-Rich Selenide Monolayers as Metal-Free Catalysts for Oxygen Reduction Reactions: A First-Principles Investigation   
+
+OpenAlex: https://openalex.org/W4409092115    
+Open access: True
+    
+[Yao Xu](https://openalex.org/A5100692702), [Fengyu Li](https://openalex.org/A5061281298), Chemistry. 7(2)] 2025.https://doi.org/10.3390/chemistry7020055.
+    
+Carbon-based materials have garnered significant attention for electrocatalysis applications in fuel cells due to their unique structural and electronic properties, but rapid oxygen reduction reaction (ORR) at the cathode of fuel cells is challenging. Dopants are typically used as active sites for ORR, and increasing the number of active sites for carbon-based catalysts remains a challenge. Here, we carried out first-principles calculations for the electrocatalytic ORR performance of the recently reported monolayer superconductors of carbon-rich selenides. Remarkably, the abundant C atoms serve as the active centers instead of the foreign atoms (Se). All the free energy changes during the ORR process are downhill, suggesting that these carbon-rich selenides hold promise as metal-free electrocatalysts for ORR. Note that the promising electrocatalytic performance of carbon-rich selenides is theoretically predicted; validation is encouraged for experimental efforts.    
+
+    
+
 ## MgCo2O4 nanostructures as cathode electrodes for perspective application in electrochemical CO2 pumping   
 
 OpenAlex: https://openalex.org/W4408979232    
@@ -619,5 +630,16 @@ Open access: True
 [Stavros Ntalampiras](https://openalex.org/A5013285272), [Gabriele Pesando Gamacchio](https://openalex.org/A5116867935), PLoS ONE. 20(4)] 2025.https://doi.org/10.1371/journal.pone.0318543.
     
 Efficient precision livestock farming relies on having timely access to data and information that accurately describes both the animals and their surrounding environment. This paper advances classification of goat vocalizations leveraging a publicly available dataset recorded at diverse farms breeding different species. We developed a Convolutional Neural Network (CNN) architecture tailored for classifying goat vocalizations, yielding an average classification rate of 95.8% in discriminating various goat emotional states. To this end, we suitably augmented the existing dataset using pitch shifting and time stretching techniques boosting the robustness of the trained model. After thoroughly demonstrating the superiority of the designed architecture over the contrasting approaches, we provide insights into the underlying mechanisms governing the proposed CNN by carrying out an extensive interpretation study. More specifically, we conducted an explainability analysis to identify the time-frequency content within goat vocalisations that significantly impacts the classification process. Such an XAI-driven validation not only provides transparency in the decision-making process of the CNN model but also sheds light on the acoustic features crucial for distinguishing the considered classes. Last but not least, the proposed solution encompasses an interactive scheme able to provide valuable information to animal scientists regarding the analysis performed by the model highlighting the distinctive components of the considered goat vocalizations. Our findings underline the effectiveness of data augmentation techniques in bolstering classification accuracy and highlight the significance of leveraging XAI methodologies for validating and interpreting complex machine learning models applied to animal vocalizations.    
+
+    
+
+## Density Functional Theory Simulations of Skaergaardite (CuPd) with a Self-Consistent Hubbard U-Correction   
+
+OpenAlex: https://openalex.org/W4409091991    
+Open access: True
+    
+[Martino Napoli](https://openalex.org/A5116879574), [Assimo Maris](https://openalex.org/A5075537889), Chemistry. 7(2)] 2025.https://doi.org/10.3390/chemistry7020056.
+    
+The electronic and phonon bands of Skaergaardite are investigated using density functional theory (DFT) as implemented in Quantum ESPRESSO. Skaergaardite is a copper palladium mineral (CuPd) found in the Skaergaard intrusion with a CsCl-type (B2) structure. Due to its porous structure, it presents a large surface area available for interactions, which makes it a promising catalyst. The PBE-GGA functional with a Hubbard-like localized term (DFT+U) is combined with ultrasoft and norm-conserving pseudopotentials, and a conventional approach with a dense Monkhorst–Pack grid of k-points 12 × 12 × 12 is applied. The electronic valence bands are mainly constituted by 3d orbitals of Cu and 4d orbitals of Pd and a pseudo-gap can be recognized. With respect to DFT, DFT+U causes a general downward shift in the valence band. The acoustic and optical phonon branches are separated by a few cm−1 gap at about 150 cm−1 and show a density of state curve typical of ordered materials. These results highlight the reliability of DFT+U in studying bimetallic systems with scarce experimental benchmarks, offering insights into the behavior of Skaergaardite and its potential applications in material science such as reduction reactions and hydrogen storage.    
 
     
