@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 04 Apr 2025 01:26:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 01:25:44 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>The advantages of reheated and intercooled gas turbines for combined cycles with post-combustion CO2 capture and storage</title>
-      <link>https://doi.org/10.1016/j.ijggc.2025.104345</link>
-      <description>Andrea Zelaschi, Davide Bonalumi, Paolo Chiesa, Emanuele Martelli, International journal of greenhouse gas control. 144(None)] 2025. https://openalex.org/W4408899645
-
-                No abstract</description>
-      <author>Andrea Zelaschi, Davide Bonalumi, Paolo Chiesa, Emanuele Martelli</author>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijggc.2025.104345</guid>
-    </item>
-    <item>
-      <title>NiCoP-stabilized single atoms for efficient hydrogen evolution: A first-principles study</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.03.323</link>
-      <description>Yihong Sun, Jianfeng Wan, Wenyan Bi, Shizheng Xie, Menglin Yu, Yikai Hou, Tianen Li, Dongkui Zhou, Lebin Li, Baozhong Liu, International Journal of Hydrogen Energy. 120(None)] 2025. https://openalex.org/W4408903140
-
-                No abstract</description>
-      <author>Yihong Sun, Jianfeng Wan, Wenyan Bi, Shizheng Xie, Menglin Yu, Yikai Hou, Tianen Li, Dongkui Zhou, Lebin Li, Baozhong Liu</author>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.03.323</guid>
-    </item>
-    <item>
-      <title>Electrochemical Nitrate Reduction to Ammonia using &#947;-Fe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;/BCN in a Neutral Medium</title>
-      <link>https://doi.org/10.1021/acscatal.5c00936</link>
-      <description>Soniya Mariya Varghese, Anju Vakakuzhiyil Gopinathan, Sudhin Rathnakumaran, S. Sasikumar, Sooraj Kunnikuruvan, G. Ranga Rao, ACS Catalysis. None(None)] 2025. https://openalex.org/W4408903528
-
-                No abstract</description>
-      <author>Soniya Mariya Varghese, Anju Vakakuzhiyil Gopinathan, Sudhin Rathnakumaran, S. Sasikumar, Sooraj Kunnikuruvan, G. Ranga Rao</author>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c00936</guid>
-    </item>
-    <item>
-      <title>First-Principles Investigation of Monolayer Sc&lt;sub&gt;2&lt;/sub&gt;Se&lt;sub&gt;2&lt;/sub&gt;X&lt;sub&gt;2&lt;/sub&gt; (X = Cl, Br) as a High-Performance Photocatalyst for Efficient Water Splitting</title>
-      <link>https://doi.org/10.1021/acs.langmuir.5c00155</link>
-      <description>Dandan Mao, Rundong Wan, Zhengfu Zhang, Mengnie Li, Guocai Tian, Chen Song, Langmuir. None(None)] 2025. https://openalex.org/W4408905661
-
-                Two-dimensional materials hold substantial promise for photocatalytic water splitting, primarily due to their unique structural properties and high-efficiency light absorption. However, finding such applicable materials poses a huge challenge because there are many strict requirements to meet. In this study, we employ first-principles calculations to design and evaluate two monolayers, Sc2Se2X2 (X = Cl, Br), highlighting their potential as high-performance photocatalysts. these materials exhibit low activation energy barriers for water-splitting redox reactions, which facilitate high catalytic performance. The photogenerated electric field promotes oxygen adsorption, accelerating the overall reaction. The structural, mechanical, dynamical, and thermodynamic stabilities of these materials are confirmed through comprehensive analyses. With band gaps of 2.65 and 2.40 eV, respectively, these materials meet the band gap requirements for photocatalytic water splitting. Furthermore, a prominent characteristic of these materials is their significantly high electron mobility along the y-axis, reaching 26,560.74 and 17,634.01 cm2 V-1 s-1, which far surpasses the hole mobility. This characteristic effectively reduces electron-hole recombination and enhances photocatalytic performance. With solar-to-hydrogen efficiencies of 13.60% and 20.58%, respectively, these materials surpass the 10% threshold required for commercial photocatalytic applications. These findings indicate that monolayer Sc2Se2X2 (X = Cl, Br) has great theoretical potential for photocatalytic water splitting.</description>
-      <author>Dandan Mao, Rundong Wan, Zhengfu Zhang, Mengnie Li, Guocai Tian, Chen Song</author>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.5c00155</guid>
-    </item>
-    <item>
-      <title>NiMo LDH-Derived Mo@NiSe&lt;sub&gt;2&lt;/sub&gt; as Advanced Electrocatalysts for Hydrogen Evolution in Acidic and Alkaline Systems</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.4c06371</link>
-      <description>M Pratheeksha, Hemavathi NJ, Sumanth Dongre S, Suman Kalyan Sahoo, R. Geetha Balakrishna, R. Shwetharani, Energy &amp; Fuels. None(None)] 2025. https://openalex.org/W4408914637
-
-                No abstract</description>
-      <author>M Pratheeksha, Hemavathi NJ, Sumanth Dongre S, Suman Kalyan Sahoo, R. Geetha Balakrishna, R. Shwetharani</author>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c06371</guid>
-    </item>
-    <item>
-      <title>DeePMD-GNN: A DeePMD-kit Plugin for External Graph Neural Network Potentials</title>
-      <link>https://doi.org/10.1021/acs.jcim.4c02441</link>
-      <description>Jinzhe Zeng, Timothy J. Giese, Duo Zhang, Han Wang, Darrin M. York, Journal of Chemical Information and Modeling. None(None)] 2025. https://openalex.org/W4408914802
-
-                Machine learning potentials (MLPs) have revolutionized molecular simulation by providing efficient and accurate models for predicting atomic interactions. MLPs continue to advance and have had profound impact in applications that include drug discovery, enzyme catalysis, and materials design. The current landscape of MLP software presents challenges due to the limited interoperability between packages, which can lead to inconsistent benchmarking practices and necessitates separate interfaces with molecular dynamics (MD) software. To address these issues, we present DeePMD-GNN, a plugin for the DeePMD-kit framework that extends its capabilities to support external graph neural network (GNN) potentials.DeePMD-GNN enables the seamless integration of popular GNN-based models, such as NequIP and MACE, within the DeePMD-kit ecosystem. Furthermore, the new software infrastructure allows GNN models to be used within combined quantum mechanical/molecular mechanical (QM/MM) applications using the range corrected &#916;MLP formalism.We demonstrate the application of DeePMD-GNN by performing benchmark calculations of NequIP, MACE, and DPA-2 models developed under consistent training conditions to ensure fair comparison.</description>
-      <author>Jinzhe Zeng, Timothy J. Giese, Duo Zhang, Han Wang, Darrin M. York</author>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.4c02441</guid>
-    </item>
-    <item>
-      <title>Metal nitrides vs. metal carbides: a comparative analysis of catalysts for the hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1007/s43153-025-00552-5</link>
-      <description>Yuping Yang, Abdulrahman T. Ahmed, Pinank Patel, Hussein Riyadh Abdul Kareem Al&#8208;Hetty, Thiagarajan Ramachandran, Aman Shankhyan, Vikasdeep Singh Mann, Deepak K. Gupta, Muthena Kariem, Marwa Akram Nafea, Brazilian Journal of Chemical Engineering. None(None)] 2025. https://openalex.org/W4408916889
-
-                No abstract</description>
-      <author>Yuping Yang, Abdulrahman T. Ahmed, Pinank Patel, Hussein Riyadh Abdul Kareem Al&#8208;Hetty, Thiagarajan Ramachandran, Aman Shankhyan, Vikasdeep Singh Mann, Deepak K. Gupta, Muthena Kariem, Marwa Akram Nafea</author>
-      <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s43153-025-00552-5</guid>
-    </item>
-    <item>
-      <title>Enhanced oxygen evolution reaction (OER) activity in LiMgFe&#8322;O&#8324;: structural, morphological, and magnetic insights</title>
-      <link>https://doi.org/10.1007/s11581-025-06229-w</link>
-      <description>Nilesh N. Kengar, Atul D. Teli, Guruprasad A. Bhinge, C.M. Kanamadi, Ionics. None(None)] 2025. https://openalex.org/W4408920725
-
-                No abstract</description>
-      <author>Nilesh N. Kengar, Atul D. Teli, Guruprasad A. Bhinge, C.M. Kanamadi</author>
-      <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11581-025-06229-w</guid>
-    </item>
     <item>
       <title>Metal&#8208;Oxygen Octahedra Regulation of Iridium&#8208;Based Perovskites for Efficient and Durable Acidic Water Oxidation</title>
       <link>https://doi.org/10.1002/adfm.202506467</link>
@@ -546,16 +466,6 @@
       <author>M.V. Contreras-Mart&#237;nez, Irene Gatto, Alessandra Carbone, Goldie Oza, G. Sanghez de Luna, Domingo I. Garc&#237;a-Guti&#233;rrez, No&#233; Arjona, J. Ledesma&#8208;Garc&#237;a, L.G. Arr&#237;aga</author>
       <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.03.304</guid>
-    </item>
-    <item>
-      <title>Boosting Photocatalytic Hydrogen Evolution of 2D Multinary Copper Chalcogenide Nanocrystals Enabled by Tuning Metal Precursors</title>
-      <link>https://doi.org/10.1002/smll.202501503</link>
-      <description>Yu Li, Zheming Liu, Liya Zhang, Jie Chen, Shuaibing Wang, Mengmeng Ma, Zhe Yin, Zhongwei Man, Yi Ding, Zhijie Wang, Aiwei Tang, Small. None(None)] 2025. https://openalex.org/W4408921956
-
-                It is challenging to clarify modulation mechanisms and structure-activity relationships in the ion-regulation engineering of multinary copper chalcogenide nanocrystals (NCs) for solar-to-hydrogen conversion. Herein, quaternary 2D Cu-In-Zn-S NCs are fabricated using various indium precursors to expose a high proportion of (0002) crystal facets that are positively correlated with their photocatalytic activities. Theoretical calculations demonstrate that the specific adsorption of anions on the crystal facets significantly influences their anisotropic growth and, in turn, photocatalytic performance. Furthermore, 2D Cu-In-Ga-Zn-S (CIGZS) NCs are prepared by partially or completely substituting In3+ with Ga3+ cations. As the Ga3&#8314; content gradually increases, the resulting photocatalytic activities follow a bell-shaped trend. The initial increase is attributed to a synergistic effect of optimized catalytic ability and a stronger electron driving force introduced by Ga3&#8314; incorporation. However, excessive Ga3&#8314; substitution widens the bandgap, reducing light absorption and conversion, ultimately leading to a decline in photocatalytic activities. Notably, the photocatalytic activity of Cu-Ga-Zn-S NCs with the highest hydrogen evolution rate of 1566.8 &#181;mol g-1 h-1 under visible light surpassed those of all In-based NCs due to enhanced electron-hole separation efficiency and highly effective active sites. This study provides valuable insights into the rational design of multinary copper-based photocatalysts for solar-driven hydrogen production.</description>
-      <author>Yu Li, Zheming Liu, Liya Zhang, Jie Chen, Shuaibing Wang, Mengmeng Ma, Zhe Yin, Zhongwei Man, Yi Ding, Zhijie Wang, Aiwei Tang</author>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202501503</guid>
     </item>
     <item>
       <title>Explainable classification of goat vocalizations using convolutional neural networks</title>
