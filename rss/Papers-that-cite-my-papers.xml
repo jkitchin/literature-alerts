@@ -4,129 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 05 Apr 2025 01:25:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 01:39:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Metal&#8208;Oxygen Octahedra Regulation of Iridium&#8208;Based Perovskites for Efficient and Durable Acidic Water Oxidation</title>
-      <link>https://doi.org/10.1002/adfm.202506467</link>
-      <description>Yang Yang, Yu&#8208;Ting Chen, Yueying Yan, Bohan Yao, Huanhuan Xing, Dongxu Jiao, Zhicai Xing, Dewen Wang, Xiurong Yang, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4408934016
-
-                Abstract The dissolution and inactivation of anodic oxygen evolution reaction (OER) electrocatalysts remain significant barriers to the development of acidic water electrolysis. Here, the activity and stability of BaIrO 3 (BIO) perovskite are enhanced through the controlled regulation of metal&#8208;oxygen octahedra via B&#8208;site substitution with Co (BICO). During OER process, the dissolution of Ba and Co leads to the formation of highly active IrCoO x nanoparticles on the amorphous surface layers of BICO. The introduction of Co not only increases the concentration of high&#8208;valence Ir species with high activity but also prevents the excessive oxidation and dissolution of Ir by taking over its oxidation role during the reaction. Theoretical calculations reveal a substantial reduction in the energy barrier of the rate&#8208;determining step (RDS) after Co doping. BICO&#8208;2 electrocatalyst demonstrates exceptional OER performance, requiring an overpotential of 216 mV to achieve a current density of 10 mA cm &#8722;2 , while maintaining continuous operation for over 140 h without significant degradation, and boasting a stability number (S&#8208;number) of 4.3 &#215; 10 5 . Additionally, BICO&#8208;2 exhibits excellent activity and durability in proton exchange membranes (PEM) water electrolysis. This work introduces a novel approach for designing and fabricating efficient, long&#8208;lasting electrocatalysts, offering significant insights for advancing acidic water electrolysis technologies.</description>
-      <author>Yang Yang, Yu&#8208;Ting Chen, Yueying Yan, Bohan Yao, Huanhuan Xing, Dongxu Jiao, Zhicai Xing, Dewen Wang, Xiurong Yang</author>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202506467</guid>
-    </item>
-    <item>
-      <title>Synthesis of a 2D tungsten MXene for electrocatalysis</title>
-      <link>https://doi.org/10.1038/s44160-025-00773-z</link>
-      <description>Anupma Thakur, Wyatt J. Highland, Brian C. Wyatt, Jiayi Xu, Nithin Chandran, Bowen Zhang, Zachary D. Hood, Shiba P. Adhikari, Emad Oveisi, Barbara Pac&#225;kov&#225;, Fernando Vega, Jeffrey Simon, Colton Fruhling, Benjamin Reigle, Mohammad Asadi, Pawe&#322; Piotr Micha&#322;owski, Vladimir M. Shalaev, Alexandra Boltasseva, Thomas E. Beechem, Cong Liu, Babak Anasori, Nature Synthesis. None(None)] 2025. https://openalex.org/W4408934620
-
-                No abstract</description>
-      <author>Anupma Thakur, Wyatt J. Highland, Brian C. Wyatt, Jiayi Xu, Nithin Chandran, Bowen Zhang, Zachary D. Hood, Shiba P. Adhikari, Emad Oveisi, Barbara Pac&#225;kov&#225;, Fernando Vega, Jeffrey Simon, Colton Fruhling, Benjamin Reigle, Mohammad Asadi, Pawe&#322; Piotr Micha&#322;owski, Vladimir M. Shalaev, Alexandra Boltasseva, Thomas E. Beechem, Cong Liu, Babak Anasori</author>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s44160-025-00773-z</guid>
-    </item>
-    <item>
-      <title>Oxidation of interfacial cobalt controls the pH dependence of the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41557-025-01784-1</link>
-      <description>Jinzhen Huang, Adam H. Clark, Natasha Hales, Kenneth Crossley, Julie Guehl, Radim Skoup&#253;, Thomas J. Schmidt, Emiliana Fabbri, Nature Chemistry. None(None)] 2025. https://openalex.org/W4408934714
-
-                Transition metal oxides often undergo dynamic surface reconstruction under oxygen evolution reaction conditions to form the active state, which differs in response to the electrolyte pH. The resulting pH dependency of catalytic activity is commonly observed but poorly understood. Herein we track Co oxidation state changes at different pH-directed (hydr)oxide/electrolyte interfaces using operando X-ray absorption spectroscopy characterizations. Combined with in situ electrochemical analyses, we establish correlations between Co redox dynamics, the flat band potential and Co oxidation state changes to explain the pH dependency of the oxygen evolution activity. Alkaline environments provide a low flat band potential that yields a low-potential Co redox transformation, which favours surface reconstruction. Neutral and acidic environments afford an anodic shift of the Co redox transformation that increases the catalytic overpotential. The larger overpotential in neutral environments is attributable to poor Co atom polarizability and slow Co oxidation state changes. These findings reveal that interfacial Co oxidation state changes directly determine the pH dependency of the oxygen evolution reaction activity.</description>
-      <author>Jinzhen Huang, Adam H. Clark, Natasha Hales, Kenneth Crossley, Julie Guehl, Radim Skoup&#253;, Thomas J. Schmidt, Emiliana Fabbri</author>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41557-025-01784-1</guid>
-    </item>
-    <item>
-      <title>Toward a unified benchmark and framework for deep learning-based prediction of nuclear magnetic resonance chemical shifts</title>
-      <link>https://doi.org/10.1038/s43588-025-00783-z</link>
-      <description>Fanjie Xu, Wentao Guo, Feng Wang, Lin Yao, Hongshuai Wang, Fujie Tang, Zhifeng Gao, Linfeng Zhang, E Weinan, Zhong&#8208;Qun Tian, Jun Cheng, Nature Computational Science. None(None)] 2025. https://openalex.org/W4408934721
-
-                No abstract</description>
-      <author>Fanjie Xu, Wentao Guo, Feng Wang, Lin Yao, Hongshuai Wang, Fujie Tang, Zhifeng Gao, Linfeng Zhang, E Weinan, Zhong&#8208;Qun Tian, Jun Cheng</author>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s43588-025-00783-z</guid>
-    </item>
-    <item>
-      <title>Photoelectrochemical production of disinfectants from seawater</title>
-      <link>https://doi.org/10.1038/s41893-025-01530-y</link>
-      <description>Rui&#8208;Ting Gao, Zehua Gao, Nhat Truong Nguyen, Junxiang Chen, Xianhu Liu, Lei Wang, Limin Wu, Nature Sustainability. None(None)] 2025. https://openalex.org/W4408934833
-
-                No abstract</description>
-      <author>Rui&#8208;Ting Gao, Zehua Gao, Nhat Truong Nguyen, Junxiang Chen, Xianhu Liu, Lei Wang, Limin Wu</author>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41893-025-01530-y</guid>
-    </item>
-    <item>
-      <title>Understanding the Selectivity Differences of NO Electroreduction on Ag and Au Electrodes</title>
-      <link>https://doi.org/10.1021/acs.jpclett.5c00656</link>
-      <description>Lin Li, Dong Luan, Jun Long, Jianping Xiao, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4408939668
-
-                Although noble metals Ag and Au have similar chemical reactivities, their catalytic selectivity for NO electroreduction is significantly different. Namely, hydroxylamine is often considerably produced on Ag while not observed on the Au electrode. In this study, first-principles calculations and the electric field controlling constant potential (EFC-CP) method are adopted to unveil the underlying reasons. We first reveal a distinct NO* adsorption configuration, vertical on Ag and inclined on Au, leading to different reduction pathways to NOH* and HNO*, respectively. Via complete electrochemical barrier calculations and detailed kinetic analysis, we find the hydroxylamine selectivity difference between Ag and Au is mainly induced by adsorption strength of NH2OH*. On Ag, the obtained NH2OH* prefers to desorb and produce hydroxylamine, while NH2OH* is bonded strongly to Au and favors further reduction to ammonia. The study advances our understanding of factors regulating product selectivity, providing crucial insights for designing NO electroreduction catalysts toward hydroxylamine production.</description>
-      <author>Lin Li, Dong Luan, Jun Long, Jianping Xiao</author>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c00656</guid>
-    </item>
-    <item>
-      <title>Efficient screening and influencing effect of superior catalysts among TM@Janus WSSe for CO2RR to various C1 products</title>
-      <link>https://doi.org/10.1016/j.surfin.2025.106291</link>
-      <description>Xiunan Chen, Yuhong Huang, J. R. Niu, Haiping Lin, Xiumei Wei, Fei Ma, Surfaces and Interfaces. None(None)] 2025. https://openalex.org/W4408941742
-
-                No abstract</description>
-      <author>Xiunan Chen, Yuhong Huang, J. R. Niu, Haiping Lin, Xiumei Wei, Fei Ma</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.106291</guid>
-    </item>
-    <item>
-      <title>Dynamic in-situ reconstruction of active site circulators for photo-Fenton-like reactions</title>
-      <link>https://doi.org/10.1038/s41467-025-58392-3</link>
-      <description>Chang-Wei Bai, Fu-Qiao Yang, Pijun Duan, Zhiquan Zhang, Yi-Jiao Sun, Xin-Jia Chen, Fei Chen, Han&#8208;Qing Yu, Nature Communications. 16(1)] 2025. https://openalex.org/W4408944939
-
-                Developing efficient and stable heterogeneous catalysts for the continuous activation of oxidants is crucial to mitigating the global water resource crisis. Guided by computational predictions, this research achieved this goal through the synthesis of a modified graphitic carbon nitride with enhanced catalytic activity and stability. Its intrinsic activity was further amplified by dynamic in-situ reconstruction using the I&#8722;/I3&#8722; redox mediator system during photoreactions. Impressively, this reconstructed catalyst demonstrated the capability for at least 30 regeneration cycles while maintaining high purification efficacy. The mechanism underlying the in-situ reconstruction of active sites for periodate functionalization was elucidated through theoretical calculations, coupled with semi-in-situ X-ray photoelectron spectroscopy (XPS) and electrochemical analyses. The system's capacity to detoxify recalcitrant pollutants was demonstrated through successful Escherichia coli cultivation and Zebrafish embryo experiments. The economic feasibility and environmental impacts are quantitatively assessed by the Electrical Energy per Order (EE/O) metric and Life Cycle Assessment (LCA), confirming the system's scalability and applicability in real-world scenarios. This dual-site constrained interlayer insertion, and controllable in-situ catalyst reconstruction achieve durable robustness of the photocatalyst, paving the way for the development of sustainable catalytic water purification technologies. Efficient and stable heterogeneous catalysts for sustained oxidant activation are vital for solving the global water crisis but elusive. Here, the authors explore the in situ dynamic reconstruction of graphitic carbon nitride photocatalysts with iodine redox mediators, to develop a solar-driven Fenton-like system that activates periodate for effective and sustainable wastewater regeneration.</description>
-      <author>Chang-Wei Bai, Fu-Qiao Yang, Pijun Duan, Zhiquan Zhang, Yi-Jiao Sun, Xin-Jia Chen, Fei Chen, Han&#8208;Qing Yu</author>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-58392-3</guid>
-    </item>
-    <item>
-      <title>Influence of encapsulated transition metal atoms on the hydrophilic properties of C84 fullerene: A computational study</title>
-      <link>https://doi.org/10.1016/j.cplett.2025.142067</link>
-      <description>Shakhrizoda Matnazarova, Nosir Matyakubov, Umedjon Khalilov, Maksudbek Yusupov, Chemical Physics Letters. None(None)] 2025. https://openalex.org/W4408952322
-
-                No abstract</description>
-      <author>Shakhrizoda Matnazarova, Nosir Matyakubov, Umedjon Khalilov, Maksudbek Yusupov</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2025.142067</guid>
-    </item>
-    <item>
-      <title>Recent progress on transition metal-based amorphous ribbons as electrocatalysts for water splitting</title>
-      <link>https://doi.org/10.1007/s12613-024-3015-4</link>
-      <description>Tianjing Li, Hainan Sun, Zhenhua Dan, Lian Zhou, International Journal of Minerals Metallurgy and Materials. 32(4)] 2025. https://openalex.org/W4408952335
-
-                No abstract</description>
-      <author>Tianjing Li, Hainan Sun, Zhenhua Dan, Lian Zhou</author>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12613-024-3015-4</guid>
-    </item>
-    <item>
-      <title>Stability and Electronic Properties of 2&#8208;D Conductive Metal&#8211;Organic Frameworks M&lt;sub&gt;3&lt;/sub&gt;(C&lt;sub&gt;6&lt;/sub&gt;Se&lt;sub&gt;6&lt;/sub&gt;)</title>
-      <link>https://doi.org/10.1002/andp.202400397</link>
-      <description>Yue Zhang, Feifei Xu, Hao Ren, Wen Zhao, Annalen der Physik. None(None)] 2025. https://openalex.org/W4408955510
-
-                Abstract The stability and electronic properties of 2&#8208;D conducting metal&#8211;organic frameworks (MOFs) play a crucial role in their potential applications in energy&#8208;related processes. In this study, The structural stability and electronic characteristics of M 3 (C 6 Se 6 ) (M = Cr, Mn, Fe, Co, Ni, Cu, Mo, Ru, Rh, Pd, Ir, and Pt) are systematically investigated using first&#8208;principles calculations. Formation energy calculations and ab initio molecular dynamics simulations confirm the excellent thermodynamic and thermal stability of these frameworks. Additionally, density of states (DOS) analysis reveals that nine of these structures exhibit high electrical conductivity, making them promising for electronic and electrocatalytic applications. To further understand their electronic structure, the d &#8208;band center and crystal orbital Hamilton population (COHP) are analyzed, providing insight into the bonding characteristics and electronic interactions within the frameworks. Moreover, the catalytic performance of the conductive MOFs is evaluated as multifunctional catalysts for the hydrogen evolution reaction (HER), oxygen evolution reaction (OER), and oxygen reduction reaction (ORR). This study highlights the robust stability and tunable electronic properties of M 3 (C 6 Se 6 ), serving as a foundation for future investigations into their functional applications in energy conversion and storage technologies.</description>
-      <author>Yue Zhang, Feifei Xu, Hao Ren, Wen Zhao</author>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/andp.202400397</guid>
-    </item>
-    <item>
-      <title>Feasibility of Active and Durable Lattice Oxygen&#8208;Mediated Oxygen Evolution Electrocatalysts in Proton Exchange Membrane Water Electrolyzers Through d&lt;sup&gt;0&lt;/sup&gt; Metal Ion Incorporation</title>
-      <link>https://doi.org/10.1002/smll.202411374</link>
-      <description>Yeju Jang, Ho Young Kim, Dongmin Park, Sunghoon Han, Hyunwoo Jun, Jinkyu Park, Seongbeen Kim, Yousung Jung, Chang Hyuck Choi, Jong Hyun Jang, Seonggyu Lee, Jinwoo Lee, Small. None(None)] 2025. https://openalex.org/W4408956458
-
-                Abstract The primary hurdle faced in the practical application of proton exchange membrane water electrolyzer (PEMWE) involves improving the intrinsic kinetic activity of oxygen evolution reaction (OER) electrocatalysts while concurrently enhancing their durability. Although electrocatalysts based on lattice oxygen&#8208;mediated mechanism (LOM) have the potential to significantly enhance the activity in OER without being restricted by scaling relationships, they are neglected in acidic electrolytes due to limited durability. In this study, an innovative approach is presented to simultaneously promote the activation of lattice oxygen and improve the durability of LOM&#8208;based OER electrocatalysts by incorporating d 0 metal ions into the RuO 2 electrocatalyst. Leveraging the unique electronic properties of the d 0 metal ion, the O 2p band center and Ru&#8208;O covalency of the electrocatalyst are successfully engineered, resulting in the change in OER mechanism. Furthermore, in a single cell of PEMWE, the LOM&#8208;based electrocatalyst demonstrates outstanding performance, achieving 3.0 A cm &#8722;2 at 1.81 V and maintaining durability for 100 h at 200 mA cm &#8722;2 , surpassing commercial RuO 2 . This innovative strategy challenges the traditional viewpoint that suppressing lattice oxygen activation in OER is essential for enhancing PEMWE durability, offering new perspectives for the development of OER electrocatalysts in acidic electrolytes.</description>
-      <author>Yeju Jang, Ho Young Kim, Dongmin Park, Sunghoon Han, Hyunwoo Jun, Jinkyu Park, Seongbeen Kim, Yousung Jung, Chang Hyuck Choi, Jong Hyun Jang, Seonggyu Lee, Jinwoo Lee</author>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202411374</guid>
-    </item>
     <item>
       <title>Atomically Dispersed Tungsten Enhances CO Tolerance in Electrocatalytic Hydrogen Oxidation by Regulating the 5d-Orbital Electrons of Platinum</title>
       <link>https://doi.org/10.1016/j.apmate.2025.100288</link>
@@ -456,6 +336,16 @@
       <author>Yao Xu, Fengyu Li</author>
       <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/chemistry7020055</guid>
+    </item>
+    <item>
+      <title>Definition of Important Terms</title>
+      <link>https://doi.org/10.1002/9783527853205.ch4</link>
+      <description>, No host. None(None)] 2025. https://openalex.org/W4409187927
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/9783527853205.ch4</guid>
     </item>
     <item>
       <title>MgCo2O4 nanostructures as cathode electrodes for perspective application in electrochemical CO2 pumping</title>
