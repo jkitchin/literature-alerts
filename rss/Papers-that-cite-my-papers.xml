@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 06 Apr 2025 01:39:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 01:37:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Atomically Dispersed Tungsten Enhances CO Tolerance in Electrocatalytic Hydrogen Oxidation by Regulating the 5d-Orbital Electrons of Platinum</title>
-      <link>https://doi.org/10.1016/j.apmate.2025.100288</link>
-      <description>Xu Zhang, Peng Yu, Di Shen, Bin Cai, Tianyu Han, Ying Xie, Lei Wang, Advanced Powder Materials. None(None)] 2025. https://openalex.org/W4408965107
-
-                No abstract</description>
-      <author>Xu Zhang, Peng Yu, Di Shen, Bin Cai, Tianyu Han, Ying Xie, Lei Wang</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apmate.2025.100288</guid>
-    </item>
-    <item>
-      <title>Proximity electronic effect of adjacent Ni Site enhances compatibility of hydrogenation and deoxygenation over Cu Site to boost nitrate electroreduction to ammonia</title>
-      <link>https://doi.org/10.1016/s1872-2067(24)60221-4</link>
-      <description>Xue&#8208;Feng Cheng, Qing Liu, Qimeng Sun, Huilong Dong, Dongyun Chen, Ying Zheng, Qingfeng Xu, Jianmei Lu, CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 70(None)] 2025. https://openalex.org/W4408965558
-
-                No abstract</description>
-      <author>Xue&#8208;Feng Cheng, Qing Liu, Qimeng Sun, Huilong Dong, Dongyun Chen, Ying Zheng, Qingfeng Xu, Jianmei Lu</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(24)60221-4</guid>
-    </item>
-    <item>
-      <title>Controlling Reaction Pathways of Ethylene Hydroformylation Using Isolated Bimetallic Rhodium&#8211;Cobalt Sites</title>
-      <link>https://doi.org/10.1021/jacs.5c01105</link>
-      <description>Yong Yuan, Tianyou Mou, Sooyeon Hwang, William N. Porter, Ping Liu, Jingguang G. Chen, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4408967117
-
-                Designing efficient ligand-free heterogeneous catalysts for ethylene hydroformylation to produce C3 oxygenates is of importance for both fundamental research and practical applications, but it is often hindered by insufficient catalytic activity and selectivity. This work designs isolated rhodium-cobalt (Rh-Co) sites confined within a ZSM-5 zeolite to enhance ethylene hydroformylation rates and selectivity while maintaining catalyst stability. By adjusting the Co/Al ratio in Co-ZSM-5, different sizes of Co are formed; subsequent Rh introduction produces isolated Rh1Cox clusters with different Rh-Co coordination numbers (CNs). In-situ characterizations and density functional theory calculations reveal that a Rh-Co CN of 3, corresponding to an isolated Rh1Co3 site, provides optimal bindings to reaction intermediates and thus achieves the highest hydroformylation rates among supported Rh-based catalysts. This study demonstrates the role of coordination-tuning via a secondary metal in effectively controlling the reaction pathway over single Rh atom catalysts.</description>
-      <author>Yong Yuan, Tianyou Mou, Sooyeon Hwang, William N. Porter, Ping Liu, Jingguang G. Chen</author>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c01105</guid>
-    </item>
-    <item>
-      <title>Structure-Induced Iron Carbides for CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation into Liquid Fuels</title>
-      <link>https://doi.org/10.1021/acsami.5c00302</link>
-      <description>Jie Huang, Lisheng Guo, Zixuan Lu, Liru Zheng, Fang Chen, Jia&#8208;qi Bai, Mengdie Cai, Yuxue Wei, Jian Sun, Kaige Wang, Yong Jiang, Song Sun, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4408967393
-
-                Coal resources, due to their cheapness and high-energy density, are widely used in large quantities, causing greenhouse gas emissions in turn, and thus need to be utilized in a resourceful way to reduce carbon emissions. Herein, we designed an alternative route of value-added utilization using coal-based activated carbon support loaded with Fe nanoparticles for CO2 hydrogenation to liquid fuels. The coal-based derived carbon support with tunable structure, elemental composition, defects, and special surface area controlled by a proposed two-step coking-activation strategy, in which special scale-like or alveolate structures were obtained. It was demonstrated by characterization that the structure and defect of the carbon support affect the carburization behavior of iron species, and then the highest Fe5C2 content was found on FeK@AC-2.0-750 catalyst. The high level of exposure of active &#967;-Fe5C2 sites presents benign liquid fuel selectivity. In situ diffuse reflectance infrared Fourier transform spectroscopy and DFT calculation further support the improved carbon chain propagation over &#967;-Fe5C2 rather than &#952;-Fe3C. Compared with commercial carbon supports, its loaded Fe-based catalyst has a better performance with 29.3% CO2 conversion and 58.8% C5+ selectivity, respectively. These results provide new insights into the development of novel nanocarbons and the efficient utilization of coal-based resources as well as broaden the design of efficient iron-based catalysts for C1 chemistry.</description>
-      <author>Jie Huang, Lisheng Guo, Zixuan Lu, Liru Zheng, Fang Chen, Jia&#8208;qi Bai, Mengdie Cai, Yuxue Wei, Jian Sun, Kaige Wang, Yong Jiang, Song Sun</author>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c00302</guid>
-    </item>
-    <item>
-      <title>Dynamic evolution of cathode-electrolyte interphase in lithium metal batteries with ether electrolytes</title>
-      <link>https://doi.org/10.1016/j.joule.2025.101885</link>
-      <description>Yawei Chen, Menghao Li, Yulin Jie, Yue Liu, Zhengfeng Zhang, Peiping Yu, Wanxia Li, Yang Liu, Xinpeng Li, Zhanwu Lei, Pengfei Yan, Tao Cheng, Meng Gu, Shuhong Jiao, Ruiguo Cao, Joule. None(None)] 2025. https://openalex.org/W4408967833
-
-                No abstract</description>
-      <author>Yawei Chen, Menghao Li, Yulin Jie, Yue Liu, Zhengfeng Zhang, Peiping Yu, Wanxia Li, Yang Liu, Xinpeng Li, Zhanwu Lei, Pengfei Yan, Tao Cheng, Meng Gu, Shuhong Jiao, Ruiguo Cao</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.joule.2025.101885</guid>
-    </item>
-    <item>
-      <title>Extrinsic and Intrinsic Factors Governing the Electrochemical Oxidation of Propylene in Aqueous Solutions</title>
-      <link>https://doi.org/10.1021/jacs.5c02585</link>
-      <description>Tae Gyu Yun, Boqiang Chen, Sarah Wells, Young-Hwan Lim, Jun Seop Kim, Ana Guilherme Buzanich, Martin Radtke, Matthias M. Waegele, Marcel Risch, Alexis Grimaud, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4408971542
-
-                The electrochemical synthesis of commodity chemicals such as epoxides and glycols offers a sustainable alternative to conventional methods that involve hazardous chemicals. Efforts to improve the yield and selectivity of propylene oxidation using Pd-based catalysts have been shown to be highly sensitive to applied potential, pH, and electrochemical cell design. Record efficiencies and yields were obtained by substitution of PdO by 4d or 5d transition metals, including Pt, with thus far little rationale regarding the origin for the improvement. Through electrochemical analysis, scanning transmission electron microscopy, X-ray absorption spectroscopy, and surface-enhanced infrared absorption spectroscopy, we investigated the mechanism of propylene oxidation on Pd-based catalysts. We demonstrate that adsorbates forming on PdO, where Pd adopts a square-planar coordination [PdO4], differ from that forming on the surface of oxidized metallic Pd catalysts with an oxo intermediate mediating propylene oxidation on PdO. We further show that Pt substitution in PdO does not modify this oxo intermediate. Varying pH, we found that the onset for propylene oxidation is pH independent, indicating a potential-determining step where the proton is not involved in and similar reaction pathway in acidic and near-neutral conditions. Finally, our work undoubtedly demonstrates that high Faradaic efficiency toward propylene glycol and propylene oxide formation, such as those previously reported in the literature, can be achieved by means of electrode engineering and mastery of mass transport and local pH. Notably, we achieved &#8776;100% faradaic efficiency for propylene glycol at 1.7 V vs RHE in acidic media using a Pt-substituted PdO catalyst loaded onto a gas diffusion electrode.</description>
-      <author>Tae Gyu Yun, Boqiang Chen, Sarah Wells, Young-Hwan Lim, Jun Seop Kim, Ana Guilherme Buzanich, Martin Radtke, Matthias M. Waegele, Marcel Risch, Alexis Grimaud</author>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c02585</guid>
-    </item>
-    <item>
-      <title>Recent Development of Fibrous Materials for Electrocatalytic Water Splitting</title>
-      <link>https://doi.org/10.1016/j.apenergy.2025.125809</link>
-      <description>Weijian Xiao, Yuanyuan Li, Yan Zhang, Yang Gao, N. D. Qi, Ping Wang, Applied Energy. 389(None)] 2025. https://openalex.org/W4408973046
-
-                No abstract</description>
-      <author>Weijian Xiao, Yuanyuan Li, Yan Zhang, Yang Gao, N. D. Qi, Ping Wang</author>
-      <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apenergy.2025.125809</guid>
-    </item>
     <item>
       <title>Combustion synthesis of carbon hollow nanocubes: DFT modelling and electrochemical performance analysis</title>
       <link>https://doi.org/10.1016/j.carbon.2025.120268</link>

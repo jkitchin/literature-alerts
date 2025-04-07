@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Apr  6 01:39:32 2025
+Created on Mon Apr  7 01:37:50 2025
 
-Found 37 results from 2025-03-30 to 2025-04-06
+Found 30 results from 2025-03-31 to 2025-04-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967)
@@ -16,83 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Atomically Dispersed Tungsten Enhances CO Tolerance in Electrocatalytic Hydrogen Oxidation by Regulating the 5d-Orbital Electrons of Platinum   
-
-OpenAlex: https://openalex.org/W4408965107    
-Open access: True
-    
-[Xu Zhang](https://openalex.org/A5104314433), [Peng Yu](https://openalex.org/A5100682546), [Di Shen](https://openalex.org/A5076451494), [Bin Cai](https://openalex.org/A5053891639), [Tianyu Han](https://openalex.org/A5027184324), [Ying Xie](https://openalex.org/A5012050092), [Lei Wang](https://openalex.org/A5100726607), Advanced Powder Materials. None(None)] 2025.https://doi.org/10.1016/j.apmate.2025.100288.
-    
-No abstract    
-
-    
-
-## Proximity electronic effect of adjacent Ni Site enhances compatibility of hydrogenation and deoxygenation over Cu Site to boost nitrate electroreduction to ammonia   
-
-OpenAlex: https://openalex.org/W4408965558    
-Open access: False
-    
-[Xue‐Feng Cheng](https://openalex.org/A5104303398), [Qing Liu](https://openalex.org/A5115595338), [Qimeng Sun](https://openalex.org/A5101703593), [Huilong Dong](https://openalex.org/A5033039685), [Dongyun Chen](https://openalex.org/A5030816045), [Ying Zheng](https://openalex.org/A5021950531), [Qingfeng Xu](https://openalex.org/A5064958816), [Jianmei Lu](https://openalex.org/A5084564396), CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 70(None)] 2025.https://doi.org/10.1016/s1872-2067(24)60221-4.
-    
-No abstract    
-
-    
-
-## Controlling Reaction Pathways of Ethylene Hydroformylation Using Isolated Bimetallic Rhodium–Cobalt Sites   
-
-OpenAlex: https://openalex.org/W4408967117    
-Open access: False
-    
-[Yong Yuan](https://openalex.org/A5041615964), [Tianyou Mou](https://openalex.org/A5062136198), [Sooyeon Hwang](https://openalex.org/A5061315784), [William N. Porter](https://openalex.org/A5060526552), [Ping Liu](https://openalex.org/A5100442336), [Jingguang G. Chen](https://openalex.org/A5034358731), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.5c01105.
-    
-Designing efficient ligand-free heterogeneous catalysts for ethylene hydroformylation to produce C3 oxygenates is of importance for both fundamental research and practical applications, but it is often hindered by insufficient catalytic activity and selectivity. This work designs isolated rhodium-cobalt (Rh-Co) sites confined within a ZSM-5 zeolite to enhance ethylene hydroformylation rates and selectivity while maintaining catalyst stability. By adjusting the Co/Al ratio in Co-ZSM-5, different sizes of Co are formed; subsequent Rh introduction produces isolated Rh1Cox clusters with different Rh-Co coordination numbers (CNs). In-situ characterizations and density functional theory calculations reveal that a Rh-Co CN of 3, corresponding to an isolated Rh1Co3 site, provides optimal bindings to reaction intermediates and thus achieves the highest hydroformylation rates among supported Rh-based catalysts. This study demonstrates the role of coordination-tuning via a secondary metal in effectively controlling the reaction pathway over single Rh atom catalysts.    
-
-    
-
-## Structure-Induced Iron Carbides for CO2 Hydrogenation into Liquid Fuels   
-
-OpenAlex: https://openalex.org/W4408967393    
-Open access: False
-    
-[Jie Huang](https://openalex.org/A5103886824), [Lisheng Guo](https://openalex.org/A5081444687), [Zixuan Lu](https://openalex.org/A5101736676), [Liru Zheng](https://openalex.org/A5101299916), [Fang Chen](https://openalex.org/A5101748256), [Jia‐qi Bai](https://openalex.org/A5080019524), [Mengdie Cai](https://openalex.org/A5080829007), [Yuxue Wei](https://openalex.org/A5037840230), [Jian Sun](https://openalex.org/A5100742185), [Kaige Wang](https://openalex.org/A5100709366), [Yong Jiang](https://openalex.org/A5101480350), [Song Sun](https://openalex.org/A5078325730), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.5c00302.
-    
-Coal resources, due to their cheapness and high-energy density, are widely used in large quantities, causing greenhouse gas emissions in turn, and thus need to be utilized in a resourceful way to reduce carbon emissions. Herein, we designed an alternative route of value-added utilization using coal-based activated carbon support loaded with Fe nanoparticles for CO2 hydrogenation to liquid fuels. The coal-based derived carbon support with tunable structure, elemental composition, defects, and special surface area controlled by a proposed two-step coking-activation strategy, in which special scale-like or alveolate structures were obtained. It was demonstrated by characterization that the structure and defect of the carbon support affect the carburization behavior of iron species, and then the highest Fe5C2 content was found on FeK@AC-2.0-750 catalyst. The high level of exposure of active χ-Fe5C2 sites presents benign liquid fuel selectivity. In situ diffuse reflectance infrared Fourier transform spectroscopy and DFT calculation further support the improved carbon chain propagation over χ-Fe5C2 rather than θ-Fe3C. Compared with commercial carbon supports, its loaded Fe-based catalyst has a better performance with 29.3% CO2 conversion and 58.8% C5+ selectivity, respectively. These results provide new insights into the development of novel nanocarbons and the efficient utilization of coal-based resources as well as broaden the design of efficient iron-based catalysts for C1 chemistry.    
-
-    
-
-## Dynamic evolution of cathode-electrolyte interphase in lithium metal batteries with ether electrolytes   
-
-OpenAlex: https://openalex.org/W4408967833    
-Open access: False
-    
-[Yawei Chen](https://openalex.org/A5101526918), [Menghao Li](https://openalex.org/A5066398844), [Yulin Jie](https://openalex.org/A5068070718), [Yue Liu](https://openalex.org/A5100320127), [Zhengfeng Zhang](https://openalex.org/A5101898330), [Peiping Yu](https://openalex.org/A5050025864), [Wanxia Li](https://openalex.org/A5054536226), [Yang Liu](https://openalex.org/A5100355644), [Xinpeng Li](https://openalex.org/A5078395312), [Zhanwu Lei](https://openalex.org/A5101196398), [Pengfei Yan](https://openalex.org/A5086670941), [Tao Cheng](https://openalex.org/A5027704532), [Meng Gu](https://openalex.org/A5081504089), [Shuhong Jiao](https://openalex.org/A5015840376), [Ruiguo Cao](https://openalex.org/A5047801680), Joule. None(None)] 2025.https://doi.org/10.1016/j.joule.2025.101885.
-    
-No abstract    
-
-    
-
-## Extrinsic and Intrinsic Factors Governing the Electrochemical Oxidation of Propylene in Aqueous Solutions   
-
-OpenAlex: https://openalex.org/W4408971542    
-Open access: False
-    
-[Tae Gyu Yun](https://openalex.org/A5039746262), [Boqiang Chen](https://openalex.org/A5029893037), [Sarah Wells](https://openalex.org/A5011241146), [Young-Hwan Lim](https://openalex.org/A5074338972), [Jun Seop Kim](https://openalex.org/A5112988097), [Ana Guilherme Buzanich](https://openalex.org/A5072923036), [Martin Radtke](https://openalex.org/A5108145116), [Matthias M. Waegele](https://openalex.org/A5048073308), [Marcel Risch](https://openalex.org/A5068195942), [Alexis Grimaud](https://openalex.org/A5110288385), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.5c02585.
-    
-The electrochemical synthesis of commodity chemicals such as epoxides and glycols offers a sustainable alternative to conventional methods that involve hazardous chemicals. Efforts to improve the yield and selectivity of propylene oxidation using Pd-based catalysts have been shown to be highly sensitive to applied potential, pH, and electrochemical cell design. Record efficiencies and yields were obtained by substitution of PdO by 4d or 5d transition metals, including Pt, with thus far little rationale regarding the origin for the improvement. Through electrochemical analysis, scanning transmission electron microscopy, X-ray absorption spectroscopy, and surface-enhanced infrared absorption spectroscopy, we investigated the mechanism of propylene oxidation on Pd-based catalysts. We demonstrate that adsorbates forming on PdO, where Pd adopts a square-planar coordination [PdO4], differ from that forming on the surface of oxidized metallic Pd catalysts with an oxo intermediate mediating propylene oxidation on PdO. We further show that Pt substitution in PdO does not modify this oxo intermediate. Varying pH, we found that the onset for propylene oxidation is pH independent, indicating a potential-determining step where the proton is not involved in and similar reaction pathway in acidic and near-neutral conditions. Finally, our work undoubtedly demonstrates that high Faradaic efficiency toward propylene glycol and propylene oxide formation, such as those previously reported in the literature, can be achieved by means of electrode engineering and mastery of mass transport and local pH. Notably, we achieved ≈100% faradaic efficiency for propylene glycol at 1.7 V vs RHE in acidic media using a Pt-substituted PdO catalyst loaded onto a gas diffusion electrode.    
-
-    
-
-## Recent Development of Fibrous Materials for Electrocatalytic Water Splitting   
-
-OpenAlex: https://openalex.org/W4408973046    
-Open access: False
-    
-[Weijian Xiao](https://openalex.org/A5108911191), [Yuanyuan Li](https://openalex.org/A5100384457), [Yan Zhang](https://openalex.org/A5100456194), [Yang Gao](https://openalex.org/A5101859092), [N. D. Qi](https://openalex.org/A5067666102), [Ping Wang](https://openalex.org/A5100338674), Applied Energy. 389(None)] 2025.https://doi.org/10.1016/j.apenergy.2025.125809.
-    
-No abstract    
-
-    
 
 ## Combustion synthesis of carbon hollow nanocubes: DFT modelling and electrochemical performance analysis   
 
