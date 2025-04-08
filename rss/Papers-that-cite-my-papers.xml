@@ -4,139 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 07 Apr 2025 01:37:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 01:27:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Combustion synthesis of carbon hollow nanocubes: DFT modelling and electrochemical performance analysis</title>
-      <link>https://doi.org/10.1016/j.carbon.2025.120268</link>
-      <description>Hayk H. Nersisyan, Junmo Jeong, Hoyoung Suh, Jong&#8208;Hyeon Lee, Carbon. 238(None)] 2025. https://openalex.org/W4408983373
-
-                No abstract</description>
-      <author>Hayk H. Nersisyan, Junmo Jeong, Hoyoung Suh, Jong&#8208;Hyeon Lee</author>
-      <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2025.120268</guid>
-    </item>
-    <item>
-      <title>Updating the sub-nanometric cognition of reconstructed oxyhydroxide active phase for water oxidation</title>
-      <link>https://doi.org/10.1038/s41467-025-58424-y</link>
-      <description>Yu Sun, Yong Xie, Xiaoxuan Chen, Jing Wu, Peng Fei Liu, Xin Wang, Zhen Tian, Wenhao Zheng, Zhouyu Jiang, Zhuo Kang, Yue Zhang, Nature Communications. 16(1)] 2025. https://openalex.org/W4408984077
-
-                Unveiling structure-activity correlations at the sub-nanoscale remains an essential challenge in catalysis science. During electrocatalysis, dynamic structural evolution drives the ambiguous entanglement of crystals and electrons degrees of freedom that obscure the activity origin. Here, we track the structural evolution of Ni-based model pre-catalysts (Ni(OH)2, NiS2, NiSe2, NiTe), detailing their catalytically active state during water oxidation via operando techniques and theoretical calculations. We reveal the sub-nanometric structural difference of NiO6 unit with a regular distortion in the reconstructed active phase NiOOH, codetermined by the geometric (bond lengths) and electronic (covalency) structure of the pre-catalysts on both spatial and temporal scales. The symmetry-broken active units induce the delicate balance of the p and d orbitals in NiOOH, further steering the modulation of catalytic intermediate configurations and mechanisms, with improved performance. This work recognizes the fine structural differences of the active phases from the sub-nanometer scale, and quantitatively explains their influence on activity. Our findings provide a more intuitive design framework for high-efficiency materials through targeted symmetry engineering of active units. Unveiling structure-activity correlations is essential in catalysis science. Here, the authors report the structural evolution of Ni-based pre-catalysts during the reaction and demonstrate how sub-nanometric variations affect catalytic performance in the electrocatalytic oxygen evolution reaction.</description>
-      <author>Yu Sun, Yong Xie, Xiaoxuan Chen, Jing Wu, Peng Fei Liu, Xin Wang, Zhen Tian, Wenhao Zheng, Zhouyu Jiang, Zhuo Kang, Yue Zhang</author>
-      <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-58424-y</guid>
-    </item>
-    <item>
-      <title>In situ SO42&#8722; regulation of ZrFeCoNiAl-based high-entropy electrocatalysts to enhance O&#8211;O coupling in the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jmst.2025.01.061</link>
-      <description>Bingxuan Zhai, Yan He, Jiawen Chen, Xuemin Cui, Leping Liu, Journal of Material Science and Technology. None(None)] 2025. https://openalex.org/W4408985637
-
-                No abstract</description>
-      <author>Bingxuan Zhai, Yan He, Jiawen Chen, Xuemin Cui, Leping Liu</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jmst.2025.01.061</guid>
-    </item>
-    <item>
-      <title>Phase-engineered CoP-Co2P/coal-based carbon fibers composite as self-supporting electrocatalyst for efficient overall water splitting</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.137461</link>
-      <description>Mengran Lou, Ruiying Wang, Luxiang Wang, Yang Wang, Xinyue Jia, Fengrui Sun, Shengjiao Wen, Yali Cao, Tong Zeng, Zhiqian Li, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4408987024
-
-                No abstract</description>
-      <author>Mengran Lou, Ruiying Wang, Luxiang Wang, Yang Wang, Xinyue Jia, Fengrui Sun, Shengjiao Wen, Yali Cao, Tong Zeng, Zhiqian Li</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137461</guid>
-    </item>
-    <item>
-      <title>Hydrogen diffusion in magnesium using machine learning potentials: a comparative study</title>
-      <link>https://doi.org/10.1038/s41524-025-01555-z</link>
-      <description>Andrea Angeletti, Luca Leoni, Dario Massa, Luca Pasquini, Stefanos Papanikolaou, Cesare Franchini, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4408988998
-
-                No abstract</description>
-      <author>Andrea Angeletti, Luca Leoni, Dario Massa, Luca Pasquini, Stefanos Papanikolaou, Cesare Franchini</author>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01555-z</guid>
-    </item>
-    <item>
-      <title>Efficient Cu3 clusters on MXene (Ti2CO2) for CO electroreduction</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.163118</link>
-      <description>Tiantian Wang, Hailong Li, Yulong Li, Tianbin Yuan, Kan&#8208;Hao Xue, Feng Yu, Canqing Yu, Juan Hou, Applied Surface Science. None(None)] 2025. https://openalex.org/W4408989185
-
-                No abstract</description>
-      <author>Tiantian Wang, Hailong Li, Yulong Li, Tianbin Yuan, Kan&#8208;Hao Xue, Feng Yu, Canqing Yu, Juan Hou</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.163118</guid>
-    </item>
-    <item>
-      <title>Enhanced CO2 reduction on transition metal-doped AlN and GaN quantum dots: A DFT study</title>
-      <link>https://doi.org/10.1016/j.chemphys.2025.112723</link>
-      <description>Zhilong Wang, Nahed H. Teleb, Mahmoud A.S. Sakr, Omar H. Abd&#8208;Elkader, Hazem Abdelsalam, Qinfang Zhang, Chemical Physics. None(None)] 2025. https://openalex.org/W4408989503
-
-                No abstract</description>
-      <author>Zhilong Wang, Nahed H. Teleb, Mahmoud A.S. Sakr, Omar H. Abd&#8208;Elkader, Hazem Abdelsalam, Qinfang Zhang</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.chemphys.2025.112723</guid>
-    </item>
-    <item>
-      <title>Revealing the role of surface reconstruction and charge redistribution in M1M2-N4-Grs for bifunctional oxygen electrocatalysts</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.03.339</link>
-      <description>Yao Chen, Xuefei Liu, Gaofu Liu, Gang Wang, Degui Wang, Mingqiang Liu, Wu Yan, Zhen Wang, Abuduwayiti Aierken, Xuan Chen, Changsong Gao, Jinshun Bi, Wei Deng, Xuemin Zhang, Wenting Li, Yang Luo, Wentao Liang, Wenjun Xiao, International Journal of Hydrogen Energy. 121(None)] 2025. https://openalex.org/W4408989730
-
-                No abstract</description>
-      <author>Yao Chen, Xuefei Liu, Gaofu Liu, Gang Wang, Degui Wang, Mingqiang Liu, Wu Yan, Zhen Wang, Abuduwayiti Aierken, Xuan Chen, Changsong Gao, Jinshun Bi, Wei Deng, Xuemin Zhang, Wenting Li, Yang Luo, Wentao Liang, Wenjun Xiao</author>
-      <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.03.339</guid>
-    </item>
-    <item>
-      <title>PtMIr (M= Ni, Co, Fe, Mn, V, Ti) nanowires electrocatalysts towards ORR in acidic media</title>
-      <link>https://doi.org/10.1016/j.ces.2025.121592</link>
-      <description>Changhai Liang, Qiang Wang, Guangwei Li, Xiaoqiang Li, Sai Luo, Zhijia Han, Danmin Xing, Chuang Li, Chemical Engineering Science. None(None)] 2025. https://openalex.org/W4408991561
-
-                No abstract</description>
-      <author>Changhai Liang, Qiang Wang, Guangwei Li, Xiaoqiang Li, Sai Luo, Zhijia Han, Danmin Xing, Chuang Li</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2025.121592</guid>
-    </item>
-    <item>
-      <title>Enhancing catalytic reduction efficiency of MnSiB metallic glasses through boron modification by first-principles calculations</title>
-      <link>https://doi.org/10.1016/j.cplett.2025.142073</link>
-      <description>W. Zhu, S. Y. Tan, Y HUANG, Ke Gao, Peixin Fu, Lansong Yang, Huafeng Dong, Yuanzheng Yang, Chemical Physics Letters. None(None)] 2025. https://openalex.org/W4408991730
-
-                No abstract</description>
-      <author>W. Zhu, S. Y. Tan, Y HUANG, Ke Gao, Peixin Fu, Lansong Yang, Huafeng Dong, Yuanzheng Yang</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2025.142073</guid>
-    </item>
-    <item>
-      <title>Investigating the catalytic activity of transition metal/cyclo[18] carbon single atom catalysts for hydrogen evolution reaction: A DFT study</title>
-      <link>https://doi.org/10.1016/j.poly.2025.117522</link>
-      <description>Nuha Wazzan, Polyhedron. None(None)] 2025. https://openalex.org/W4408993821
-
-                No abstract</description>
-      <author>Nuha Wazzan</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.poly.2025.117522</guid>
-    </item>
-    <item>
-      <title>Asymmetric photooxidation of glycerol to hydroxypyruvic acid over Rb&#8211;Ir catalytic pairs on poly(heptazine imides)</title>
-      <link>https://doi.org/10.1038/s41565-025-01897-1</link>
-      <description>Zhenyuan Teng, Zhenzong Zhang, Ying Tu, Qitao Zhang, Nan Jian, Liujun Yang, Jiadong Xiao, Jie Ding, Lihong Huang, Teruhisa Ohno, Chengyin Wang, Dengsong Zhang, Han Yu, Jianmei Lu, Chenliang Su, Bin Liu, Nature Nanotechnology. None(None)] 2025. https://openalex.org/W4408994781
-
-                No abstract</description>
-      <author>Zhenyuan Teng, Zhenzong Zhang, Ying Tu, Qitao Zhang, Nan Jian, Liujun Yang, Jiadong Xiao, Jie Ding, Lihong Huang, Teruhisa Ohno, Chengyin Wang, Dengsong Zhang, Han Yu, Jianmei Lu, Chenliang Su, Bin Liu</author>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41565-025-01897-1</guid>
-    </item>
-    <item>
-      <title>Exploring the integration of sulfonated poly(phenylene sulfone) ionomers into the cathode catalyst layers of proton exchange membrane fuel cells</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2025.236896</link>
-      <description>Didem Yazili-Marini, Lionel Talley Fogang, Emanuele Marini, Tobias Morawietz, Giorgi Titvinidze, Joachim Bansmann, Markus H&#246;lzle, Ludwig J&#246;rissen, Journal of Power Sources. 641(None)] 2025. https://openalex.org/W4409007979
-
-                No abstract</description>
-      <author>Didem Yazili-Marini, Lionel Talley Fogang, Emanuele Marini, Tobias Morawietz, Giorgi Titvinidze, Joachim Bansmann, Markus H&#246;lzle, Ludwig J&#246;rissen</author>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.236896</guid>
-    </item>
     <item>
       <title>New insights into the long-range interaction mechanism of nitrogen reduction</title>
       <link>https://doi.org/10.1016/j.jechem.2025.03.024</link>
@@ -276,16 +146,6 @@
       <author/>
       <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/9783527853205.ch4</guid>
-    </item>
-    <item>
-      <title>MgCo2O4 nanostructures as cathode electrodes for perspective application in electrochemical CO2 pumping</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.03.304</link>
-      <description>M.V. Contreras-Mart&#237;nez, Irene Gatto, Alessandra Carbone, Goldie Oza, G. Sanghez de Luna, Domingo I. Garc&#237;a-Guti&#233;rrez, No&#233; Arjona, J. Ledesma&#8208;Garc&#237;a, L.G. Arr&#237;aga, International Journal of Hydrogen Energy. None(None)] 2025. https://openalex.org/W4408979232
-
-                No abstract</description>
-      <author>M.V. Contreras-Mart&#237;nez, Irene Gatto, Alessandra Carbone, Goldie Oza, G. Sanghez de Luna, Domingo I. Garc&#237;a-Guti&#233;rrez, No&#233; Arjona, J. Ledesma&#8208;Garc&#237;a, L.G. Arr&#237;aga</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.03.304</guid>
     </item>
     <item>
       <title>Explainable classification of goat vocalizations using convolutional neural networks</title>
