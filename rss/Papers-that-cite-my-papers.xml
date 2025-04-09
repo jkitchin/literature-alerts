@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 08 Apr 2025 01:27:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 01:27:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>New insights into the long-range interaction mechanism of nitrogen reduction</title>
-      <link>https://doi.org/10.1016/j.jechem.2025.03.024</link>
-      <description>Yumeng Cheng, Wei Chen, Cheng He, Wenxue Zhang, Journal of Energy Chemistry. None(None)] 2025. https://openalex.org/W4409016616
-
-                No abstract</description>
-      <author>Yumeng Cheng, Wei Chen, Cheng He, Wenxue Zhang</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2025.03.024</guid>
-    </item>
-    <item>
-      <title>Recent progress in understanding mechanism of electrochemical oxygen evolution reaction via operando/in situ characterizations</title>
-      <link>https://doi.org/10.1016/j.checat.2025.101332</link>
-      <description>Rashid Mehmood, Fuxiang Zhang, Chem Catalysis. None(None)] 2025. https://openalex.org/W4409037945
-
-                No abstract</description>
-      <author>Rashid Mehmood, Fuxiang Zhang</author>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.checat.2025.101332</guid>
-    </item>
-    <item>
-      <title>Toward improved descriptors by refining the complex reaction network in electrocatalysis</title>
-      <link>https://doi.org/10.1063/5.0255158</link>
-      <description>Lu Han, Huan Li, Jun Long, Hao Li, Jianping Xiao, The Journal of Chemical Physics. 162(13)] 2025. https://openalex.org/W4409038379
-
-                Electrocatalysis is one of the key technologies for developing sustainable and fossil resource free routes to produce fuels and chemicals. The limiting potential (UL), defined by the reaction free energy of the most difficult electrochemical step in a given pathway, is an effective descriptor for establishing the activity trend of a set of electrocatalysts, allowing high throughput screening of new catalysts. However, the reaction network of electrocatalytic processes is rather complex, especially for the reactions with necessary thermochemical steps, e.g., the synthesis of valuable C&#8211;N bond-containing chemicals. Thermochemical steps cannot be significantly enhanced by electrode potentials, where kinetics is a non-negligible issue at even high overpotentials. This makes it challenge by using limiting potential to accurately describe activity trends for the reactions with necessary thermochemical steps. To this end, we propose an effective scheme to determine an improved descriptor. We suggest refining the rather complex reaction network at first. In particular, it is suggested to decouple electro- and thermochemical steps and exclude the unfavorable pathways with an excessively high thermochemical barrier. Then, a global comparison among the other pathways can be made, to determine the optimal pathway and the improved descriptor (the reaction free energy of the most difficult step of the optimal pathway, defined as &#916;GrRPD-limiting). In addition, the studies on reaction kinetics are also suggested to understand the exception of the best catalysts and provide the direction of experimental optimization. This scheme is of a great compromise between practical efficiency and the accuracy toward the rational design of electrocatalysts.</description>
-      <author>Lu Han, Huan Li, Jun Long, Hao Li, Jianping Xiao</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0255158</guid>
-    </item>
-    <item>
-      <title>Surface strain hampers dissociation and induces curious rotational-alignment effect for HCl on the Au/Cu(111) alloy surface</title>
-      <link>https://doi.org/10.1063/5.0260125</link>
-      <description>Tianhui Liu, Bina Fu, Dong H. Zhang, The Journal of Chemical Physics. 162(13)] 2025. https://openalex.org/W4409038844
-
-                We present the first six-dimensional quantum dynamics study of HCl on a strained pseudomorphic monolayer of Au deposited on a Cu(111) substrate, utilizing a newly developed machine learning-based potential energy surface. The strain in the surface lattice, resulting from a 12.62% compression of the Au monolayer, induces a significant high barrier height (1.81 eV) and a tight saddle point. These effects lead to a marked suppression of the reactivity of ground-state HCl (v = 0) on Au/Cu(111), while the dissociation probability of vibrationally excited (v = 1) HCl increases substantially. As a result, the vibrational efficiency is notably higher compared to those for HCl on pure Au(111) and alloyed Au/Ag(111) surfaces. In addition, the surface strain induces a distinctive rotational alignment effect in the title reaction, where for HCl in the (v = 0, j) states, dissociation is most favorable when an HCl molecule collides with its rotation perpendicular to the Au/Cu(111) surface (the cartwheel alignment). In contrast, for HCl in the (v = 1, j) states, the opposite (helicopter) alignment is preferred. This leads to a pronounced difference in the effects of rotational excitation, depending on whether HCl is initially in the ground or excited vibrational state.</description>
-      <author>Tianhui Liu, Bina Fu, Dong H. Zhang</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0260125</guid>
-    </item>
-    <item>
-      <title>Quantum simulations of chemistry in first quantization with any basis set</title>
-      <link>https://doi.org/10.1038/s41534-025-00987-1</link>
-      <description>Timothy N. Georges, Marius Bothe, Christoph S&#252;nderhauf, Bjorn K. Berntson, R&#243;bert Izs&#225;k, Aleksei V. Ivanov, npj Quantum Information. 11(1)] 2025. https://openalex.org/W4409047502
-
-                No abstract</description>
-      <author>Timothy N. Georges, Marius Bothe, Christoph S&#252;nderhauf, Bjorn K. Berntson, R&#243;bert Izs&#225;k, Aleksei V. Ivanov</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41534-025-00987-1</guid>
-    </item>
     <item>
       <title>DFT study on single-atom catalysts of Fe-V2CS2 with low overpotential and high selectivity</title>
       <link>https://doi.org/10.1016/j.matlet.2025.138467</link>
@@ -146,16 +96,6 @@
       <author/>
       <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/9783527853205.ch4</guid>
-    </item>
-    <item>
-      <title>Explainable classification of goat vocalizations using convolutional neural networks</title>
-      <link>https://doi.org/10.1371/journal.pone.0318543</link>
-      <description>Stavros Ntalampiras, Gabriele Pesando Gamacchio, PLoS ONE. 20(4)] 2025. https://openalex.org/W4409049727
-
-                Efficient precision livestock farming relies on having timely access to data and information that accurately describes both the animals and their surrounding environment. This paper advances classification of goat vocalizations leveraging a publicly available dataset recorded at diverse farms breeding different species. We developed a Convolutional Neural Network (CNN) architecture tailored for classifying goat vocalizations, yielding an average classification rate of 95.8% in discriminating various goat emotional states. To this end, we suitably augmented the existing dataset using pitch shifting and time stretching techniques boosting the robustness of the trained model. After thoroughly demonstrating the superiority of the designed architecture over the contrasting approaches, we provide insights into the underlying mechanisms governing the proposed CNN by carrying out an extensive interpretation study. More specifically, we conducted an explainability analysis to identify the time-frequency content within goat vocalisations that significantly impacts the classification process. Such an XAI-driven validation not only provides transparency in the decision-making process of the CNN model but also sheds light on the acoustic features crucial for distinguishing the considered classes. Last but not least, the proposed solution encompasses an interactive scheme able to provide valuable information to animal scientists regarding the analysis performed by the model highlighting the distinctive components of the considered goat vocalizations. Our findings underline the effectiveness of data augmentation techniques in bolstering classification accuracy and highlight the significance of leveraging XAI methodologies for validating and interpreting complex machine learning models applied to animal vocalizations.</description>
-      <author>Stavros Ntalampiras, Gabriele Pesando Gamacchio</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0318543</guid>
     </item>
     <item>
       <title>Density Functional Theory Simulations of Skaergaardite (CuPd) with a Self-Consistent Hubbard U-Correction</title>

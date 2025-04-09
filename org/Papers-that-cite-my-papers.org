@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Apr  8 01:27:28 2025
+Created on Wed Apr  9 01:27:45 2025
 
-Found 16 results from 2025-04-01 to 2025-04-08
+Found 10 results from 2025-04-02 to 2025-04-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967]]
@@ -16,111 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* New insights into the long-range interaction mechanism of nitrogen reduction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409016616
-:TOPICS: Ammonia Synthesis and Nitrogen Reduction, Catalytic Processes in Materials Science, Hydrogen Storage and Materials
-:PUBLICATION_DATE: 2025-03-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jechem.2025.03.024")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409016616"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409016616"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409016616"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409016616 (Open access: False)
-    
-[[https://openalex.org/A5016772197][Yumeng Cheng]], [[https://openalex.org/A5100696747][Wei Chen]], [[https://openalex.org/A5100330324][Cheng He]], [[https://openalex.org/A5103211419][Wenxue Zhang]], Journal of Energy Chemistry. None(None)] 2025. https://doi.org/10.1016/j.jechem.2025.03.024 
-     
-No abstract    
-
-    
-
-* Recent progress in understanding mechanism of electrochemical oxygen evolution reaction via operando/in situ characterizations  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409037945
-:TOPICS: Electrocatalysts for Energy Conversion, Electrochemical Analysis and Applications, Fuel Cells and Related Materials
-:PUBLICATION_DATE: 2025-03-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.checat.2025.101332")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409037945"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409037945"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409037945"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409037945 (Open access: False)
-    
-[[https://openalex.org/A5056341133][Rashid Mehmood]], [[https://openalex.org/A5033612713][Fuxiang Zhang]], Chem Catalysis. None(None)] 2025. https://doi.org/10.1016/j.checat.2025.101332 
-     
-No abstract    
-
-    
-
-* Toward improved descriptors by refining the complex reaction network in electrocatalysis  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409038379
-:TOPICS: CO2 Reduction Techniques and Catalysts, Electrocatalysts for Energy Conversion, Electrochemical Analysis and Applications
-:PUBLICATION_DATE: 2025-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0255158")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409038379"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409038379"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409038379"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409038379 (Open access: True)
-    
-[[https://openalex.org/A5100717048][Lu Han]], [[https://openalex.org/A5112073574][Huan Li]], [[https://openalex.org/A5030617408][Jun Long]], [[https://openalex.org/A5100348631][Hao Li]], [[https://openalex.org/A5004947752][Jianping Xiao]], The Journal of Chemical Physics. 162(13)] 2025. https://doi.org/10.1063/5.0255158  ([[https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0255158/20463163/130901_1_5.0255158.pdf][pdf]])
-     
-Electrocatalysis is one of the key technologies for developing sustainable and fossil resource free routes to produce fuels and chemicals. The limiting potential (UL), defined by the reaction free energy of the most difficult electrochemical step in a given pathway, is an effective descriptor for establishing the activity trend of a set of electrocatalysts, allowing high throughput screening of new catalysts. However, the reaction network of electrocatalytic processes is rather complex, especially for the reactions with necessary thermochemical steps, e.g., the synthesis of valuable C–N bond-containing chemicals. Thermochemical steps cannot be significantly enhanced by electrode potentials, where kinetics is a non-negligible issue at even high overpotentials. This makes it challenge by using limiting potential to accurately describe activity trends for the reactions with necessary thermochemical steps. To this end, we propose an effective scheme to determine an improved descriptor. We suggest refining the rather complex reaction network at first. In particular, it is suggested to decouple electro- and thermochemical steps and exclude the unfavorable pathways with an excessively high thermochemical barrier. Then, a global comparison among the other pathways can be made, to determine the optimal pathway and the improved descriptor (the reaction free energy of the most difficult step of the optimal pathway, defined as ΔGrRPD-limiting). In addition, the studies on reaction kinetics are also suggested to understand the exception of the best catalysts and provide the direction of experimental optimization. This scheme is of a great compromise between practical efficiency and the accuracy toward the rational design of electrocatalysts.    
-
-    
-
-* Surface strain hampers dissociation and induces curious rotational-alignment effect for HCl on the Au/Cu(111) alloy surface  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409038844
-:TOPICS: Advanced Chemical Physics Studies, nanoparticles nucleation surface interactions, Physics of Superconductivity and Magnetism
-:PUBLICATION_DATE: 2025-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0260125")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409038844"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409038844"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409038844"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409038844 (Open access: False)
-    
-[[https://openalex.org/A5101464359][Tianhui Liu]], [[https://openalex.org/A5004521183][Bina Fu]], [[https://openalex.org/A5039069280][Dong H. Zhang]], The Journal of Chemical Physics. 162(13)] 2025. https://doi.org/10.1063/5.0260125 
-     
-We present the first six-dimensional quantum dynamics study of HCl on a strained pseudomorphic monolayer of Au deposited on a Cu(111) substrate, utilizing a newly developed machine learning-based potential energy surface. The strain in the surface lattice, resulting from a 12.62% compression of the Au monolayer, induces a significant high barrier height (1.81 eV) and a tight saddle point. These effects lead to a marked suppression of the reactivity of ground-state HCl (v = 0) on Au/Cu(111), while the dissociation probability of vibrationally excited (v = 1) HCl increases substantially. As a result, the vibrational efficiency is notably higher compared to those for HCl on pure Au(111) and alloyed Au/Ag(111) surfaces. In addition, the surface strain induces a distinctive rotational alignment effect in the title reaction, where for HCl in the (v = 0, j) states, dissociation is most favorable when an HCl molecule collides with its rotation perpendicular to the Au/Cu(111) surface (the cartwheel alignment). In contrast, for HCl in the (v = 1, j) states, the opposite (helicopter) alignment is preferred. This leads to a pronounced difference in the effects of rotational excitation, depending on whether HCl is initially in the ground or excited vibrational state.    
-
-    
-
-* Quantum simulations of chemistry in first quantization with any basis set  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409047502
-:TOPICS: Molecular spectroscopy and chirality, Spectroscopy and Quantum Chemical Studies, Advanced Chemical Physics Studies
-:PUBLICATION_DATE: 2025-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41534-025-00987-1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409047502"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409047502"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409047502"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409047502 (Open access: True)
-    
-[[https://openalex.org/A5107099535][Timothy N. Georges]], [[https://openalex.org/A5034897787][Marius Bothe]], [[https://openalex.org/A5052000773][Christoph Sünderhauf]], [[https://openalex.org/A5045950971][Bjorn K. Berntson]], [[https://openalex.org/A5000488148][Róbert Izsák]], [[https://openalex.org/A5065009192][Aleksei V. Ivanov]], npj Quantum Information. 11(1)] 2025. https://doi.org/10.1038/s41534-025-00987-1 
-     
-No abstract    
-
-    
 
 * DFT study on single-atom catalysts of Fe-V2CS2 with low overpotential and high selectivity  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -308,27 +203,6 @@ OpenAlex: https://openalex.org/W4409187927 (Open access: False)
 , No host. None(None)] 2025. https://doi.org/10.1002/9783527853205.ch4 
      
 No abstract    
-
-    
-
-* Explainable classification of goat vocalizations using convolutional neural networks  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409049727
-:TOPICS: Animal Vocal Communication and Behavior, Animal Behavior and Welfare Studies, Music and Audio Processing
-:PUBLICATION_DATE: 2025-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1371/journal.pone.0318543")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409049727"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409049727"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409049727"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409049727 (Open access: True)
-    
-[[https://openalex.org/A5013285272][Stavros Ntalampiras]], [[https://openalex.org/A5116867935][Gabriele Pesando Gamacchio]], PLoS ONE. 20(4)] 2025. https://doi.org/10.1371/journal.pone.0318543 
-     
-Efficient precision livestock farming relies on having timely access to data and information that accurately describes both the animals and their surrounding environment. This paper advances classification of goat vocalizations leveraging a publicly available dataset recorded at diverse farms breeding different species. We developed a Convolutional Neural Network (CNN) architecture tailored for classifying goat vocalizations, yielding an average classification rate of 95.8% in discriminating various goat emotional states. To this end, we suitably augmented the existing dataset using pitch shifting and time stretching techniques boosting the robustness of the trained model. After thoroughly demonstrating the superiority of the designed architecture over the contrasting approaches, we provide insights into the underlying mechanisms governing the proposed CNN by carrying out an extensive interpretation study. More specifically, we conducted an explainability analysis to identify the time-frequency content within goat vocalisations that significantly impacts the classification process. Such an XAI-driven validation not only provides transparency in the decision-making process of the CNN model but also sheds light on the acoustic features crucial for distinguishing the considered classes. Last but not least, the proposed solution encompasses an interactive scheme able to provide valuable information to animal scientists regarding the analysis performed by the model highlighting the distinctive components of the considered goat vocalizations. Our findings underline the effectiveness of data augmentation techniques in bolstering classification accuracy and highlight the significance of leveraging XAI methodologies for validating and interpreting complex machine learning models applied to animal vocalizations.    
 
     
 
