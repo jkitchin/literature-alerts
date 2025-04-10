@@ -1,69 +1,48 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Apr  9 01:27:37 2025
+Created on Thu Apr 10 01:27:05 2025
 
-Found 3 results from 2025-04-02 to 2025-04-09
+Found 2 results from 2025-04-03 to 2025-04-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
-* Guaranteeing rare earth minerals for a high tech future: an opportunity for cleaner technologies  :CMU_Chemical_Engineering:
+* Optimal reactive operation of general topology supply chain and manufacturing networks under disruptions  :CMU_Chemical_Engineering:
 :PROPERTIES:
-:UUID: https://openalex.org/W4409071722
-:TOPICS: Extraction and Separation Processes, Recycling and Waste Management Techniques, Geochemistry and Elemental Analysis
-:PUBLICATION_DATE: 2025-04-01
+:UUID: https://openalex.org/W4409149042
+:TOPICS: Supply Chain Resilience and Risk Management, Sustainable Supply Chain Management, Supply Chain and Inventory Management
+:PUBLICATION_DATE: 2025-04-03
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s10098-025-03158-0")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aic.18833")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409071722"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409071722"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409071722"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409149042"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409149042"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409149042"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4409071722 (Open access: False)
+OpenAlex: https://openalex.org/W4409149042 (Open access: True)
     
-[[https://openalex.org/A5027983186][Ana I. Torres]], Clean Technologies and Environmental Policy. None(None)] 2025. https://doi.org/10.1007/s10098-025-03158-0 
+[[https://openalex.org/A5067396423][Daniel Ovalle]], [[https://openalex.org/A5036452308][Joshua L. Pulsipher]], [[https://openalex.org/A5074409626][Yixin Ye]], [[https://openalex.org/A5092563435][Kyle Harshbarger]], [[https://openalex.org/A5054868519][Scott J. Bury]], [[https://openalex.org/A5030631754][Carl D. Laird]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], AIChE Journal. None(None)] 2025. https://doi.org/10.1002/aic.18833 
      
-No abstract    
+Abstract Supply and manufacturing networks in the chemical industry involve diverse processing steps across different locations, rendering their operation vulnerable to disruptions from unplanned events. Optimal responses should consider factors such as product allocation, delayed shipments, and price renegotiation, among other factors. In such context, we propose a multiperiod mixed‐integer linear programming model that integrates production, scheduling, shipping, and order management to minimize the financial impact of such disruptions. The model accommodates arbitrary supply chain topologies and incorporates various disruption scenarios, offering adaptability to real‐world complexities. A case study from the chemical industry demonstrates the scalability of the model under finer time discretization and explores the influence of disruption types and order management costs on optimal schedules. This approach provides a tractable, adaptable framework for developing responsive operational plans in supply chain and manufacturing networks under uncertainty.    
 
     
 
-* Mixed-integer Programming Representations of Linear Model Decision Tree Surrogates  :CMU_Chemical_Engineering:
+* Engineering an Electroactive Bacterial Cellulose-Carbon Nanotube Composite Membrane Against Staphylococcus Aureus  :CMU_Chemical_Engineering:
 :PROPERTIES:
-:UUID: https://openalex.org/W4409053249
-:TOPICS: Optimization and Mathematical Programming, Software Reliability and Analysis Research, Multi-Criteria Decision Making
-:PUBLICATION_DATE: 2023-11-01
+:UUID: https://openalex.org/W4409250357
+:TOPICS: Microbial Inactivation Methods, Electrospun Nanofibers in Biomedical Applications, Quantum-Dot Cellular Automata
+:PUBLICATION_DATE: 2025-01-01
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2540514")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.5210151")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409053249"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409053249"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409053249"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409250357"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409250357"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409250357"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4409053249 (Open access: False)
+OpenAlex: https://openalex.org/W4409250357 (Open access: False)
     
-[[https://openalex.org/A5092486945][Bashar Ammari]], [[https://openalex.org/A5026170862][Emma S. Johnson]], [[https://openalex.org/A5007541692][Georgia Stinchfield]], [[https://openalex.org/A5100387012][Taehun Kim]], [[https://openalex.org/A5031357535][Michael Bynum]], [[https://openalex.org/A5102842741][William E. Hart]], [[https://openalex.org/A5036452308][Joshua L. Pulsipher]], [[https://openalex.org/A5030631754][Carl D. Laird]], No host. None(None)] 2023. https://doi.org/10.2172/2540514 
-     
-No abstract    
-
-    
-
-* Mixed-Integer Programming Formulations for Decision Making with Linear Model Decision Tree Surrogates  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409053263
-:TOPICS: Multi-Criteria Decision Making, Bayesian Modeling and Causal Inference, Optimization and Mathematical Programming
-:PUBLICATION_DATE: 2023-03-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2540537")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409053263"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409053263"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409053263"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409053263 (Open access: False)
-    
-[[https://openalex.org/A5092486945][Bashar Ammari]], [[https://openalex.org/A5026170862][Emma S. Johnson]], [[https://openalex.org/A5007541692][Georgia Stinchfield]], [[https://openalex.org/A5031357535][Michael Bynum]], [[https://openalex.org/A5036452308][Joshua L. Pulsipher]], [[https://openalex.org/A5100387012][Taehun Kim]], [[https://openalex.org/A5102842741][William E. Hart]], [[https://openalex.org/A5030631754][Carl D. Laird]], No host. None(None)] 2023. https://doi.org/10.2172/2540537 
+[[https://openalex.org/A5027750308][Daniel L. Levin]], [[https://openalex.org/A5023468365][C. Royo]], [[https://openalex.org/A5023017337][Denis Johnson]], [[https://openalex.org/A5117072205][Shakira M. Martinez-Vasquez]], [[https://openalex.org/A5079754429][Soumalya Gosh]], [[https://openalex.org/A5042360668][Sricharani Rao Balmuri]], [[https://openalex.org/A5112849501][Abdoulaye Djire]], [[https://openalex.org/A5036535952][Bayaumy B. Mostafa]], [[https://openalex.org/A5044695139][Tagbo H. R. Niepa]], No host. None(None)] 2025. https://doi.org/10.2139/ssrn.5210151 
      
 No abstract    
 

@@ -4,38 +4,28 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 09 Apr 2025 01:27:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 01:27:05 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Guaranteeing rare earth minerals for a high tech future: an opportunity for cleaner technologies</title>
-      <link>https://doi.org/10.1007/s10098-025-03158-0</link>
-      <description>Ana I. Torres, Clean Technologies and Environmental Policy. None(None)] 2025. https://openalex.org/W4409071722
+      <title>Optimal reactive operation of general topology supply chain and manufacturing networks under disruptions</title>
+      <link>https://doi.org/10.1002/aic.18833</link>
+      <description>Daniel Ovalle, Joshua L. Pulsipher, Yixin Ye, Kyle Harshbarger, Scott J. Bury, Carl D. Laird, Ignacio E. Grossmann, AIChE Journal. None(None)] 2025. https://openalex.org/W4409149042
 
-                No abstract</description>
-      <author>Ana I. Torres</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10098-025-03158-0</guid>
+                Abstract Supply and manufacturing networks in the chemical industry involve diverse processing steps across different locations, rendering their operation vulnerable to disruptions from unplanned events. Optimal responses should consider factors such as product allocation, delayed shipments, and price renegotiation, among other factors. In such context, we propose a multiperiod mixed&#8208;integer linear programming model that integrates production, scheduling, shipping, and order management to minimize the financial impact of such disruptions. The model accommodates arbitrary supply chain topologies and incorporates various disruption scenarios, offering adaptability to real&#8208;world complexities. A case study from the chemical industry demonstrates the scalability of the model under finer time discretization and explores the influence of disruption types and order management costs on optimal schedules. This approach provides a tractable, adaptable framework for developing responsive operational plans in supply chain and manufacturing networks under uncertainty.</description>
+      <author>Daniel Ovalle, Joshua L. Pulsipher, Yixin Ye, Kyle Harshbarger, Scott J. Bury, Carl D. Laird, Ignacio E. Grossmann</author>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aic.18833</guid>
     </item>
     <item>
-      <title>Mixed-integer Programming Representations of Linear Model Decision Tree Surrogates</title>
-      <link>https://doi.org/10.2172/2540514</link>
-      <description>Bashar Ammari, Emma S. Johnson, Georgia Stinchfield, Taehun Kim, Michael Bynum, William E. Hart, Joshua L. Pulsipher, Carl D. Laird, No host. None(None)] 2023. https://openalex.org/W4409053249
+      <title>Engineering an Electroactive Bacterial Cellulose-Carbon Nanotube Composite Membrane Against Staphylococcus Aureus</title>
+      <link>https://doi.org/10.2139/ssrn.5210151</link>
+      <description>Daniel L. Levin, C. Royo, Denis Johnson, Shakira M. Martinez-Vasquez, Soumalya Gosh, Sricharani Rao Balmuri, Abdoulaye Djire, Bayaumy B. Mostafa, Tagbo H. R. Niepa, No host. None(None)] 2025. https://openalex.org/W4409250357
 
                 No abstract</description>
-      <author>Bashar Ammari, Emma S. Johnson, Georgia Stinchfield, Taehun Kim, Michael Bynum, William E. Hart, Joshua L. Pulsipher, Carl D. Laird</author>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2540514</guid>
-    </item>
-    <item>
-      <title>Mixed-Integer Programming Formulations for Decision Making with Linear Model Decision Tree Surrogates</title>
-      <link>https://doi.org/10.2172/2540537</link>
-      <description>Bashar Ammari, Emma S. Johnson, Georgia Stinchfield, Michael Bynum, Joshua L. Pulsipher, Taehun Kim, William E. Hart, Carl D. Laird, No host. None(None)] 2023. https://openalex.org/W4409053263
-
-                No abstract</description>
-      <author>Bashar Ammari, Emma S. Johnson, Georgia Stinchfield, Michael Bynum, Joshua L. Pulsipher, Taehun Kim, William E. Hart, Carl D. Laird</author>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2540537</guid>
+      <author>Daniel L. Levin, C. Royo, Denis Johnson, Shakira M. Martinez-Vasquez, Soumalya Gosh, Sricharani Rao Balmuri, Abdoulaye Djire, Bayaumy B. Mostafa, Tagbo H. R. Niepa</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5210151</guid>
     </item>
   </channel>
 </rss>
