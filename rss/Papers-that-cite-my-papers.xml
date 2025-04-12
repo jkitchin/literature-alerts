@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 11 Apr 2025 01:28:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 01:26:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Temperature-dependent kinetic analysis of direct air capture using a gravimetric approach in porous environments</title>
-      <link>https://doi.org/10.1007/s10450-025-00615-6</link>
-      <description>Yongqiang Wang, Dan Zhao, Gang Kevin Li, Adsorption. 31(4)] 2025. https://openalex.org/W4409128746
-
-                No abstract</description>
-      <author>Yongqiang Wang, Dan Zhao, Gang Kevin Li</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10450-025-00615-6</guid>
-    </item>
-    <item>
-      <title>Engineering cobalt coordination environment with dual heteroatom doping for boosting urea-assisted hydrogen evolution</title>
-      <link>https://doi.org/10.1016/j.fuel.2025.135161</link>
-      <description>Xueqing Pan, Jiaxiang Qiu, Siyuan Tang, Quanjiang Lv, Jianling Dong, Nan Jiang, Luyu Liu, Yangyang Wan, Xinchun Yang, Jian Han, Fuzhan Song, Fuel. 395(None)] 2025. https://openalex.org/W4409132377
-
-                No abstract</description>
-      <author>Xueqing Pan, Jiaxiang Qiu, Siyuan Tang, Quanjiang Lv, Jianling Dong, Nan Jiang, Luyu Liu, Yangyang Wan, Xinchun Yang, Jian Han, Fuzhan Song</author>
-      <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.135161</guid>
-    </item>
-    <item>
-      <title>Simultaneous Enhancement of the Activity and Durability of the Oxygen Reduction Reaction via Pd&lt;sub&gt;3&lt;/sub&gt;Mo@Pt/C Catalysts</title>
-      <link>https://doi.org/10.1021/acsami.4c19839</link>
-      <description>Jaeyoung Yoo, Chen&#8208;Hui Chan, Su-Yeon Choi, Doosun Hong, Sae Yane Paek, Kihoon Bang, Jong Min Kim, Dong-Hun Kim, Sang Soo Han, Hyuck Mo Lee, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4409140722
-
-                To overcome the limitations of conventional bimetallic catalysts in facilitating the oxygen reduction reaction (ORR), we employed density functional theory (DFT) screening to evaluate ternary Pd3X@Pt core@shell catalysts (X = transition metals), with the objective of increasing both the ORR activity and durability. Among the 25 candidates, Pd3Mo@Pt emerges as the most promising catalyst, showing a combination of a low limiting potential and a high dissolution potential. Experimental validation reveals that the carbon-supported Pd3Mo@Pt/C catalysts clearly exhibit exceptional mass activity (3.76 A mgPt-1) and specific activity (1.67 mA cm-2); these activities significantly surpass those of their Pt/C counterparts by factors of 10.2 and 3.18, respectively. Furthermore, these core@shell catalysts exhibit robust durability, while also exhibiting enhanced CO tolerance, as evidenced by CO stripping voltammetry. DFT calculations show that the superior activity and stability of Pd3Mo@Pt/C are attributed to the optimal modulation of the Pt surface electronic structures by the core elements, particularly Mo.</description>
-      <author>Jaeyoung Yoo, Chen&#8208;Hui Chan, Su-Yeon Choi, Doosun Hong, Sae Yane Paek, Kihoon Bang, Jong Min Kim, Dong-Hun Kim, Sang Soo Han, Hyuck Mo Lee</author>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c19839</guid>
-    </item>
-    <item>
-      <title>Investigation on the photocatalytic properties of SiI2/InSe and SiI2/InTe heterojunctions</title>
-      <link>https://doi.org/10.1016/j.solener.2025.113487</link>
-      <description>Ruyang Yan, Yuqi Wang, Yan Cong, Xumin Yang, Nan Zhang, Xiaobo Ma, Jie Wang, Xugang Huang, Zhaogang Liu, Qing Lv, Hongsheng Zhao, Huanming Chen, Solar Energy. 293(None)] 2025. https://openalex.org/W4409146356
-
-                No abstract</description>
-      <author>Ruyang Yan, Yuqi Wang, Yan Cong, Xumin Yang, Nan Zhang, Xiaobo Ma, Jie Wang, Xugang Huang, Zhaogang Liu, Qing Lv, Hongsheng Zhao, Huanming Chen</author>
-      <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.solener.2025.113487</guid>
-    </item>
-    <item>
-      <title>Assessing the Activity of Transition Metal Oxides for the Electrochemical N&lt;sub&gt;2&lt;/sub&gt; Oxidation to Nitrate</title>
-      <link>https://doi.org/10.1021/acscatal.4c07924</link>
-      <description>Haldrian Iriawan, Graham Leverick, Bar&#305;&#351; Alkan, Daniel Delgado, John Eom, Hongbin Xu, Sunmoon Yu, Livia Giordano, Annette Trunschke, Ifan E. L. Stephens, Yang Shao&#8208;Horn, ACS Catalysis. None(None)] 2025. https://openalex.org/W4409146723
-
-                No abstract</description>
-      <author>Haldrian Iriawan, Graham Leverick, Bar&#305;&#351; Alkan, Daniel Delgado, John Eom, Hongbin Xu, Sunmoon Yu, Livia Giordano, Annette Trunschke, Ifan E. L. Stephens, Yang Shao&#8208;Horn</author>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07924</guid>
-    </item>
     <item>
       <title>Harnessing machine learning for high-entropy alloy catalysis: a focus on adsorption energy prediction</title>
       <link>https://doi.org/10.1038/s41524-025-01579-5</link>
@@ -170,10 +120,10 @@
     <item>
       <title>Melting, Bubblelike Expansion, and Explosion of Superheated Plasmonic Nanoparticles</title>
       <link>https://doi.org/10.1103/physrevlett.134.136101</link>
-      <description>Simon Dold, Thomas Reichenbach, Alessandro Colombo, Jakob Jordan, Ingo Barke, Patrick Behrens, Nils Bernhardt, Jonathan Correa, S. D&#776;usterer, Benjamin Erk, Thomas Fennel, Linos Hecht, Andrea Heilrath, Robert Irsig, N. Iwe, Patrice Kolb, Bj&#246;rn Kruse, Bruno Langbehn, Bastian Manschwetus, Philipp Marienhagen, Franklin Martinez, K.&#8208;H. Meiwes&#8208;Broer, Kevin R. Oldenburg, Christopher Passow, Christian Peltz, Mario Sauppe, Fabian Seel, Rico Mayro P. Tanyag, R. Treusch, Anatoli Ulmer, Saida Walz, Michael Moseler, Thomas M&#246;ller, Daniela Rupp, Bernd von Issendorff, Physical Review Letters. 134(13)] 2025. https://openalex.org/W4409177514
+      <description>Simon Dold, Thomas Reichenbach, Alessandro Colombo, Jakob Jordan, Ingo Barke, Patrick Behrens, Nils Bernhardt, Jonathan Correa, S. D&#252;sterer, Benjamin Erk, Thomas Fennel, Linos Hecht, Andrea Heilrath, Robert Irsig, N. Iwe, Patrice Kolb, Bj&#246;rn Kruse, Bruno Langbehn, Bastian Manschwetus, Philipp Marienhagen, Franklin Martinez, K.&#8208;H. Meiwes&#8208;Broer, Kevin R. Oldenburg, Christopher Passow, Christian Peltz, Mario Sauppe, Fabian Seel, Rico Mayro P. Tanyag, R. Treusch, Anatoli Ulmer, Saida Walz, Michael Moseler, Thomas M&#246;ller, Daniela Rupp, Bernd von Issendorff, Physical Review Letters. 134(13)] 2025. https://openalex.org/W4409177514
 
                 We report on time-resolved coherent diffraction imaging of gas-phase silver nanoparticles, strongly heated via their plasmon resonance. The x-ray diffraction images reveal a broad range of phenomena for different excitation strengths, from simple melting over strong cavitation to explosive disintegration. Molecular dynamics simulations fully reproduce this behavior and show that the heating induces rather similar trajectories through the phase diagram in all cases, with the very different outcomes resulting solely from whether and where the stability limit of the metastable superheated liquid is crossed. Published by the American Physical Society 2025</description>
-      <author>Simon Dold, Thomas Reichenbach, Alessandro Colombo, Jakob Jordan, Ingo Barke, Patrick Behrens, Nils Bernhardt, Jonathan Correa, S. D&#776;usterer, Benjamin Erk, Thomas Fennel, Linos Hecht, Andrea Heilrath, Robert Irsig, N. Iwe, Patrice Kolb, Bj&#246;rn Kruse, Bruno Langbehn, Bastian Manschwetus, Philipp Marienhagen, Franklin Martinez, K.&#8208;H. Meiwes&#8208;Broer, Kevin R. Oldenburg, Christopher Passow, Christian Peltz, Mario Sauppe, Fabian Seel, Rico Mayro P. Tanyag, R. Treusch, Anatoli Ulmer, Saida Walz, Michael Moseler, Thomas M&#246;ller, Daniela Rupp, Bernd von Issendorff</author>
+      <author>Simon Dold, Thomas Reichenbach, Alessandro Colombo, Jakob Jordan, Ingo Barke, Patrick Behrens, Nils Bernhardt, Jonathan Correa, S. D&#252;sterer, Benjamin Erk, Thomas Fennel, Linos Hecht, Andrea Heilrath, Robert Irsig, N. Iwe, Patrice Kolb, Bj&#246;rn Kruse, Bruno Langbehn, Bastian Manschwetus, Philipp Marienhagen, Franklin Martinez, K.&#8208;H. Meiwes&#8208;Broer, Kevin R. Oldenburg, Christopher Passow, Christian Peltz, Mario Sauppe, Fabian Seel, Rico Mayro P. Tanyag, R. Treusch, Anatoli Ulmer, Saida Walz, Michael Moseler, Thomas M&#246;ller, Daniela Rupp, Bernd von Issendorff</author>
       <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1103/physrevlett.134.136101</guid>
     </item>
@@ -562,10 +512,70 @@
       <link>https://doi.org/10.1038/s41598-025-92095-5</link>
       <description>Tomoyuki Tsuyama, Tatsuki Oyama, Y. Azuma, Hirotada Ohashi, Masahiro Irie, Ayumi Yamakawa, Shoko Uetake, Takayuki Konno, Takahiro Ukai, Kazuhiko Ochiai, Nobuyuki Iwaoka, Atsushi Hashimoto, Yoshishige Okuno, Scientific Reports. 15(1)] 2025. https://openalex.org/W4409285818
 
-                No abstract</description>
+                We report the effects of reducing surface asperity size at the nanometer scale on metallic surfaces by plasma-assisted surface modification processes using simulations and experiments. Molecular dynamics (MD) simulations were conducted by irradiating various inert gas ions (Ne, Ar, Kr, and Xe) onto a cobalt slab with nanoscale asperities on the surface. The MD simulations showed that as the atomic number of the inert gas increased the surface asperity size was reduced more efficiently, while the etching rate decreased. The dependencies of the scattering behaviors on the inert gas ions originated from the mass exchange between the working gas ions and the slab atoms. Atomic force microscopy and X-ray fluorescence measurements were performed on hard disk media subjected to the surface modification processes. These measurements experimentally demonstrated that the density of nanoscale asperities was reduced with a lower etching rate as the atomic number of the inert gas increased, consistent with the simulation results. Through this study, we clarified that heavier working gases were more effective in reducing surface asperity size without significantly reducing the thickness of the material, which can contribute to better control of surface morphologies at the nanometer scale.</description>
       <author>Tomoyuki Tsuyama, Tatsuki Oyama, Y. Azuma, Hirotada Ohashi, Masahiro Irie, Ayumi Yamakawa, Shoko Uetake, Takayuki Konno, Takahiro Ukai, Kazuhiko Ochiai, Nobuyuki Iwaoka, Atsushi Hashimoto, Yoshishige Okuno</author>
       <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41598-025-92095-5</guid>
+    </item>
+    <item>
+      <title>Ligand-Tuned Surface Reconstruction Promotes Oxygen Evolution</title>
+      <link>https://doi.org/10.1016/j.apcatb.2025.125356</link>
+      <description>Guiling Wu, Qianlin Chen, Jinrong Min, Feng Wang, Yan Zhao, Zhaoyang Wang, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4409301686
+
+                No abstract</description>
+      <author>Guiling Wu, Qianlin Chen, Jinrong Min, Feng Wang, Yan Zhao, Zhaoyang Wang</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125356</guid>
+    </item>
+    <item>
+      <title>Unlocking design strategies for oxygen evolution reaction catalysts: Insights from a kinetic perspective via constrained ab initio molecular dynamics simulations</title>
+      <link>https://doi.org/10.1016/j.cej.2025.162357</link>
+      <description>Dongyup Shin, Sang Soo Han, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4409307402
+
+                No abstract</description>
+      <author>Dongyup Shin, Sang Soo Han</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.162357</guid>
+    </item>
+    <item>
+      <title>1D Package&#8208;Integrated Platinum Catalyst with Robust Interactions for Enhanced Cathodic Oxygen Reduction</title>
+      <link>https://doi.org/10.1002/adfm.202503111</link>
+      <description>Huiting Niu, Yan Liu, Lei Huang, Lebin Cai, Chenfeng Xia, Ruijuan Qi, Yu Mao, Wei Guo, Ziyun Wang, Bao Yu Xia, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4409308107
+
+                Abstract Durable electrocatalysts and optimal ionomer distribution in cathode catalyst layer (CCL) are crucial for the efficiency and lifetime of proton exchange membrane fuel cells (PEMFCs), especially at high currents. This work presents a 1D package&#8208;integrated platinum (Pt) catalyst designed to optimize mass exchange and boost cathodic oxygen reduction reaction (ORR). The package&#8208;integrated Pt catalyst not only enhances the active site utilization, activity, and stability of Pt alloys but also optimizes the ionomer coverage and oxygen transport within the CCL. It shows superior performance with a mass activity of 1.33 A mg Pt &#8722;1 and only a 12 mV decay in half&#8208;wave potential after 30 000 cycles. Additionally, it delivers impressive catalytic performance (320 mA cm &#8722;2 at 0.8 V), mass transport polarization (0.632 V at 2000 mA cm &#8722;2 ), and low oxygen transport resistance (0.03 s cm &#8722;1 ) in hydrogen&#8208;air fuel cells. This package&#8208;integrated catalyst with robust anti&#8208;ionomer interference and impressive transport capability is of great significance for designing efficient and long&#8208;lasting PEMFC cathodes.</description>
+      <author>Huiting Niu, Yan Liu, Lei Huang, Lebin Cai, Chenfeng Xia, Ruijuan Qi, Yu Mao, Wei Guo, Ziyun Wang, Bao Yu Xia</author>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202503111</guid>
+    </item>
+    <item>
+      <title>A review on the recent mechanisms investigation of PFAS electrochemical oxidation degradation: mechanisms, DFT calculation, and pathways</title>
+      <link>https://doi.org/10.3389/fenve.2025.1568542</link>
+      <description>Gengyang Li, Mengyun Peng, Qingguo Huang, Ching&#8208;Hua Huang, Yongsheng Chen, Gary L. Hawkins, Ke Li, Frontiers in Environmental Engineering. 4(None)] 2025. https://openalex.org/W4409308265
+
+                Per- and polyfluoroalkyl substances (PFAS) have drawn public concern recently due to their toxic properties and persistence in the environment, making it urgent to eliminate PFAS from contaminated water. Electrochemical oxidation (EO) has shown great promise for the destructive treatment of PFAS with direct electron transfer and hydroxyl radical (&#8901;OH)-mediated indirect reactions. One of the most popular electrodes is Magn&#233;li phase titanium suboxides. However, the degradation mechanisms of PFAS are still unsure and are under investigation now. The main methodology is the first-principal density functional theory (DFT) computation, which is recently used to explore the degradation mechanisms and interpret by-product formation during PFAS mineralization. From the literature review, the main applications of DFT computation for studying PFAS degradation mechanisms by EO include bond dissociation energy, absorption energy, activation energy, and overpotential &#951; for oxygen evolution reactions. The main degradation mechanisms and pathways of PFAS in the EO process include mass transfer, direct electron transfer, decarboxylation, peroxyl radical generation, hydroxylation, intramolecular rearrangement, and hydrolysis. In the recent 4 years, 11 papers performed DFT computation to explore the possible PFAS degradation mechanisms and pathways in the EO process. This paper&#8217;s objectives are to: 1) summarize the main degradation mechanisms of PFAS degradation in EO; 2) review the application of DFT computation for studying PFAS degradation mechanisms during EO; process; 3) review the possible degradation pathways of perfluorooctane sulfonoic acid (PFOS) and per-fluorooctanoic acid (PFOA) during EO process.</description>
+      <author>Gengyang Li, Mengyun Peng, Qingguo Huang, Ching&#8208;Hua Huang, Yongsheng Chen, Gary L. Hawkins, Ke Li</author>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/fenve.2025.1568542</guid>
+    </item>
+    <item>
+      <title>Engineering 3d-Printed Molybdenum Carbide Catalysts for Selective Co2 Reduction to Co</title>
+      <link>https://doi.org/10.2139/ssrn.5211448</link>
+      <description>Arturo Pajares, Mehmet Tanr&#305;verdi, Eduardo Couti&#241;o&#8208;Gonz&#225;lez, Jacob Andrade Arvizu, Maxim Guc, Pablo Guardia, H&#232;ctor Prats, Bart Michielsen, No host. None(None)] 2025. https://openalex.org/W4409310095
+
+                No abstract</description>
+      <author>Arturo Pajares, Mehmet Tanr&#305;verdi, Eduardo Couti&#241;o&#8208;Gonz&#225;lez, Jacob Andrade Arvizu, Maxim Guc, Pablo Guardia, H&#232;ctor Prats, Bart Michielsen</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5211448</guid>
+    </item>
+    <item>
+      <title>Design of bifunctional oxygen evolution/reduction electrocatalysts on g-C3N3 monolayer by a defect physics method</title>
+      <link>https://doi.org/10.1016/j.jcat.2025.116135</link>
+      <description>Jing Zhang, Liuming Yan, Chao Yang, Yanyan Qu, Aodi Zhang, Zhenzhen Feng, Wentao Wang, Pengfei Ou, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4409315993
+
+                No abstract</description>
+      <author>Jing Zhang, Liuming Yan, Chao Yang, Yanyan Qu, Aodi Zhang, Zhenzhen Feng, Wentao Wang, Pengfei Ou</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116135</guid>
     </item>
     <item>
       <title>GAPF-DFT: A graph-based alchemical perturbation density functional theory for catalytic high-entropy alloys</title>

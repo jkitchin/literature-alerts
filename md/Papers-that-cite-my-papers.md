@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Apr 11 01:28:11 2025
+Created on Sat Apr 12 01:26:01 2025
 
-Found 62 results from 2025-04-04 to 2025-04-11
+Found 63 results from 2025-04-05 to 2025-04-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967)
@@ -16,61 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Temperature-dependent kinetic analysis of direct air capture using a gravimetric approach in porous environments   
-
-OpenAlex: https://openalex.org/W4409128746    
-Open access: True
-    
-[Yongqiang Wang](https://openalex.org/A5100339971), [Dan Zhao](https://openalex.org/A5085045773), [Gang Kevin Li](https://openalex.org/A5055340435), Adsorption. 31(4)] 2025.https://doi.org/10.1007/s10450-025-00615-6.
-    
-No abstract    
-
-    
-
-## Engineering cobalt coordination environment with dual heteroatom doping for boosting urea-assisted hydrogen evolution   
-
-OpenAlex: https://openalex.org/W4409132377    
-Open access: False
-    
-[Xueqing Pan](https://openalex.org/A5023119068), [Jiaxiang Qiu](https://openalex.org/A5087450897), [Siyuan Tang](https://openalex.org/A5019833511), [Quanjiang Lv](https://openalex.org/A5004271426), [Jianling Dong](https://openalex.org/A5102367158), [Nan Jiang](https://openalex.org/A5101559934), [Luyu Liu](https://openalex.org/A5113084189), [Yangyang Wan](https://openalex.org/A5060400342), [Xinchun Yang](https://openalex.org/A5007065150), [Jian Han](https://openalex.org/A5035256991), [Fuzhan Song](https://openalex.org/A5102857321), Fuel. 395(None)] 2025.https://doi.org/10.1016/j.fuel.2025.135161.
-    
-No abstract    
-
-    
-
-## Simultaneous Enhancement of the Activity and Durability of the Oxygen Reduction Reaction via Pd3Mo@Pt/C Catalysts   
-
-OpenAlex: https://openalex.org/W4409140722    
-Open access: False
-    
-[Jaeyoung Yoo](https://openalex.org/A5103159795), [Chen‐Hui Chan](https://openalex.org/A5041933409), [Su-Yeon Choi](https://openalex.org/A5103029139), [Doosun Hong](https://openalex.org/A5052340292), [Sae Yane Paek](https://openalex.org/A5075819985), [Kihoon Bang](https://openalex.org/A5022841024), [Jong Min Kim](https://openalex.org/A5100416706), [Dong-Hun Kim](https://openalex.org/A5100733145), [Sang Soo Han](https://openalex.org/A5067470445), [Hyuck Mo Lee](https://openalex.org/A5007750616), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.4c19839.
-    
-To overcome the limitations of conventional bimetallic catalysts in facilitating the oxygen reduction reaction (ORR), we employed density functional theory (DFT) screening to evaluate ternary Pd3X@Pt core@shell catalysts (X = transition metals), with the objective of increasing both the ORR activity and durability. Among the 25 candidates, Pd3Mo@Pt emerges as the most promising catalyst, showing a combination of a low limiting potential and a high dissolution potential. Experimental validation reveals that the carbon-supported Pd3Mo@Pt/C catalysts clearly exhibit exceptional mass activity (3.76 A mgPt-1) and specific activity (1.67 mA cm-2); these activities significantly surpass those of their Pt/C counterparts by factors of 10.2 and 3.18, respectively. Furthermore, these core@shell catalysts exhibit robust durability, while also exhibiting enhanced CO tolerance, as evidenced by CO stripping voltammetry. DFT calculations show that the superior activity and stability of Pd3Mo@Pt/C are attributed to the optimal modulation of the Pt surface electronic structures by the core elements, particularly Mo.    
-
-    
-
-## Investigation on the photocatalytic properties of SiI2/InSe and SiI2/InTe heterojunctions   
-
-OpenAlex: https://openalex.org/W4409146356    
-Open access: False
-    
-[Ruyang Yan](https://openalex.org/A5048329291), [Yuqi Wang](https://openalex.org/A5038793785), [Yan Cong](https://openalex.org/A5100411076), [Xumin Yang](https://openalex.org/A5111705202), [Nan Zhang](https://openalex.org/A5100331273), [Xiaobo Ma](https://openalex.org/A5100297253), [Jie Wang](https://openalex.org/A5100440216), [Xugang Huang](https://openalex.org/A5111216265), [Zhaogang Liu](https://openalex.org/A5059346008), [Qing Lv](https://openalex.org/A5002316719), [Hongsheng Zhao](https://openalex.org/A5101746093), [Huanming Chen](https://openalex.org/A5027189102), Solar Energy. 293(None)] 2025.https://doi.org/10.1016/j.solener.2025.113487.
-    
-No abstract    
-
-    
-
-## Assessing the Activity of Transition Metal Oxides for the Electrochemical N2 Oxidation to Nitrate   
-
-OpenAlex: https://openalex.org/W4409146723    
-Open access: False
-    
-[Haldrian Iriawan](https://openalex.org/A5011968024), [Graham Leverick](https://openalex.org/A5038494253), [Barış Alkan](https://openalex.org/A5090487280), [Daniel Delgado](https://openalex.org/A5059987477), [John Eom](https://openalex.org/A5002514121), [Hongbin Xu](https://openalex.org/A5062744428), [Sunmoon Yu](https://openalex.org/A5048191120), [Livia Giordano](https://openalex.org/A5022371820), [Annette Trunschke](https://openalex.org/A5010271376), [Ifan E. L. Stephens](https://openalex.org/A5039064548), [Yang Shao‐Horn](https://openalex.org/A5100601237), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c07924.
-    
-No abstract    
-
-    
 
 ## Harnessing machine learning for high-entropy alloy catalysis: a focus on adsorption energy prediction   
 
@@ -198,7 +143,7 @@ No abstract
 OpenAlex: https://openalex.org/W4409177514    
 Open access: True
     
-[Simon Dold](https://openalex.org/A5080008673), [Thomas Reichenbach](https://openalex.org/A5043982372), [Alessandro Colombo](https://openalex.org/A5101602407), [Jakob Jordan](https://openalex.org/A5054000154), [Ingo Barke](https://openalex.org/A5073898139), [Patrick Behrens](https://openalex.org/A5010561629), [Nils Bernhardt](https://openalex.org/A5027348962), [Jonathan Correa](https://openalex.org/A5010244391), [S. D̈usterer](https://openalex.org/A5031570477), [Benjamin Erk](https://openalex.org/A5049246156), [Thomas Fennel](https://openalex.org/A5052685724), [Linos Hecht](https://openalex.org/A5077295960), [Andrea Heilrath](https://openalex.org/A5068693058), [Robert Irsig](https://openalex.org/A5067979446), [N. Iwe](https://openalex.org/A5004260047), [Patrice Kolb](https://openalex.org/A5002602073), [Björn Kruse](https://openalex.org/A5046438471), [Bruno Langbehn](https://openalex.org/A5000668700), [Bastian Manschwetus](https://openalex.org/A5035092520), [Philipp Marienhagen](https://openalex.org/A5091450300), [Franklin Martinez](https://openalex.org/A5020336373), [K.‐H. Meiwes‐Broer](https://openalex.org/A5015568796), [Kevin R. Oldenburg](https://openalex.org/A5039830611), [Christopher Passow](https://openalex.org/A5047582308), [Christian Peltz](https://openalex.org/A5042132769), [Mario Sauppe](https://openalex.org/A5005712476), [Fabian Seel](https://openalex.org/A5085977705), [Rico Mayro P. Tanyag](https://openalex.org/A5065563883), [R. Treusch](https://openalex.org/A5069439145), [Anatoli Ulmer](https://openalex.org/A5076830735), [Saida Walz](https://openalex.org/A5034229908), [Michael Moseler](https://openalex.org/A5082229037), [Thomas Möller](https://openalex.org/A5004092679), [Daniela Rupp](https://openalex.org/A5075886239), [Bernd von Issendorff](https://openalex.org/A5018054338), Physical Review Letters. 134(13)] 2025.https://doi.org/10.1103/physrevlett.134.136101.
+[Simon Dold](https://openalex.org/A5080008673), [Thomas Reichenbach](https://openalex.org/A5043982372), [Alessandro Colombo](https://openalex.org/A5101602407), [Jakob Jordan](https://openalex.org/A5054000154), [Ingo Barke](https://openalex.org/A5073898139), [Patrick Behrens](https://openalex.org/A5010561629), [Nils Bernhardt](https://openalex.org/A5027348962), [Jonathan Correa](https://openalex.org/A5010244391), [S. Düsterer](https://openalex.org/A5031570477), [Benjamin Erk](https://openalex.org/A5049246156), [Thomas Fennel](https://openalex.org/A5052685724), [Linos Hecht](https://openalex.org/A5077295960), [Andrea Heilrath](https://openalex.org/A5068693058), [Robert Irsig](https://openalex.org/A5067979446), [N. Iwe](https://openalex.org/A5004260047), [Patrice Kolb](https://openalex.org/A5002602073), [Björn Kruse](https://openalex.org/A5046438471), [Bruno Langbehn](https://openalex.org/A5000668700), [Bastian Manschwetus](https://openalex.org/A5035092520), [Philipp Marienhagen](https://openalex.org/A5091450300), [Franklin Martinez](https://openalex.org/A5020336373), [K.‐H. Meiwes‐Broer](https://openalex.org/A5015568796), [Kevin R. Oldenburg](https://openalex.org/A5039830611), [Christopher Passow](https://openalex.org/A5047582308), [Christian Peltz](https://openalex.org/A5042132769), [Mario Sauppe](https://openalex.org/A5005712476), [Fabian Seel](https://openalex.org/A5085977705), [Rico Mayro P. Tanyag](https://openalex.org/A5065563883), [R. Treusch](https://openalex.org/A5069439145), [Anatoli Ulmer](https://openalex.org/A5076830735), [Saida Walz](https://openalex.org/A5034229908), [Michael Moseler](https://openalex.org/A5082229037), [Thomas Möller](https://openalex.org/A5004092679), [Daniela Rupp](https://openalex.org/A5075886239), [Bernd von Issendorff](https://openalex.org/A5018054338), Physical Review Letters. 134(13)] 2025.https://doi.org/10.1103/physrevlett.134.136101.
     
 We report on time-resolved coherent diffraction imaging of gas-phase silver nanoparticles, strongly heated via their plasmon resonance. The x-ray diffraction images reveal a broad range of phenomena for different excitation strengths, from simple melting over strong cavitation to explosive disintegration. Molecular dynamics simulations fully reproduce this behavior and show that the heating induces rather similar trajectories through the phase diagram in all cases, with the very different outcomes resulting solely from whether and where the stability limit of the metastable superheated liquid is crossed. Published by the American Physical Society 2025    
 
@@ -628,6 +573,72 @@ OpenAlex: https://openalex.org/W4409285818
 Open access: True
     
 [Tomoyuki Tsuyama](https://openalex.org/A5112298886), [Tatsuki Oyama](https://openalex.org/A5088432966), [Y. Azuma](https://openalex.org/A5010191612), [Hirotada Ohashi](https://openalex.org/A5035501045), [Masahiro Irie](https://openalex.org/A5027705683), [Ayumi Yamakawa](https://openalex.org/A5116270372), [Shoko Uetake](https://openalex.org/A5116270373), [Takayuki Konno](https://openalex.org/A5110083921), [Takahiro Ukai](https://openalex.org/A5085162135), [Kazuhiko Ochiai](https://openalex.org/A5067411754), [Nobuyuki Iwaoka](https://openalex.org/A5074291502), [Atsushi Hashimoto](https://openalex.org/A5102766350), [Yoshishige Okuno](https://openalex.org/A5111931301), Scientific Reports. 15(1)] 2025.https://doi.org/10.1038/s41598-025-92095-5.
+    
+We report the effects of reducing surface asperity size at the nanometer scale on metallic surfaces by plasma-assisted surface modification processes using simulations and experiments. Molecular dynamics (MD) simulations were conducted by irradiating various inert gas ions (Ne, Ar, Kr, and Xe) onto a cobalt slab with nanoscale asperities on the surface. The MD simulations showed that as the atomic number of the inert gas increased the surface asperity size was reduced more efficiently, while the etching rate decreased. The dependencies of the scattering behaviors on the inert gas ions originated from the mass exchange between the working gas ions and the slab atoms. Atomic force microscopy and X-ray fluorescence measurements were performed on hard disk media subjected to the surface modification processes. These measurements experimentally demonstrated that the density of nanoscale asperities was reduced with a lower etching rate as the atomic number of the inert gas increased, consistent with the simulation results. Through this study, we clarified that heavier working gases were more effective in reducing surface asperity size without significantly reducing the thickness of the material, which can contribute to better control of surface morphologies at the nanometer scale.    
+
+    
+
+## Ligand-Tuned Surface Reconstruction Promotes Oxygen Evolution   
+
+OpenAlex: https://openalex.org/W4409301686    
+Open access: False
+    
+[Guiling Wu](https://openalex.org/A5054776641), [Qianlin Chen](https://openalex.org/A5038867859), [Jinrong Min](https://openalex.org/A5017127830), [Feng Wang](https://openalex.org/A5101513179), [Yan Zhao](https://openalex.org/A5050699488), [Zhaoyang Wang](https://openalex.org/A5100356542), Applied Catalysis B Environment and Energy. None(None)] 2025.https://doi.org/10.1016/j.apcatb.2025.125356.
+    
+No abstract    
+
+    
+
+## Unlocking design strategies for oxygen evolution reaction catalysts: Insights from a kinetic perspective via constrained ab initio molecular dynamics simulations   
+
+OpenAlex: https://openalex.org/W4409307402    
+Open access: True
+    
+[Dongyup Shin](https://openalex.org/A5081106916), [Sang Soo Han](https://openalex.org/A5067470445), Chemical Engineering Journal. None(None)] 2025.https://doi.org/10.1016/j.cej.2025.162357.
+    
+No abstract    
+
+    
+
+## 1D Package‐Integrated Platinum Catalyst with Robust Interactions for Enhanced Cathodic Oxygen Reduction   
+
+OpenAlex: https://openalex.org/W4409308107    
+Open access: False
+    
+[Huiting Niu](https://openalex.org/A5039883638), [Yan Liu](https://openalex.org/A5100351109), [Lei Huang](https://openalex.org/A5035236851), [Lebin Cai](https://openalex.org/A5015126135), [Chenfeng Xia](https://openalex.org/A5112673464), [Ruijuan Qi](https://openalex.org/A5015154651), [Yu Mao](https://openalex.org/A5029786087), [Wei Guo](https://openalex.org/A5019671436), [Ziyun Wang](https://openalex.org/A5100744706), [Bao Yu Xia](https://openalex.org/A5017108318), Advanced Functional Materials. None(None)] 2025.https://doi.org/10.1002/adfm.202503111.
+    
+Abstract Durable electrocatalysts and optimal ionomer distribution in cathode catalyst layer (CCL) are crucial for the efficiency and lifetime of proton exchange membrane fuel cells (PEMFCs), especially at high currents. This work presents a 1D package‐integrated platinum (Pt) catalyst designed to optimize mass exchange and boost cathodic oxygen reduction reaction (ORR). The package‐integrated Pt catalyst not only enhances the active site utilization, activity, and stability of Pt alloys but also optimizes the ionomer coverage and oxygen transport within the CCL. It shows superior performance with a mass activity of 1.33 A mg Pt −1 and only a 12 mV decay in half‐wave potential after 30 000 cycles. Additionally, it delivers impressive catalytic performance (320 mA cm −2 at 0.8 V), mass transport polarization (0.632 V at 2000 mA cm −2 ), and low oxygen transport resistance (0.03 s cm −1 ) in hydrogen‐air fuel cells. This package‐integrated catalyst with robust anti‐ionomer interference and impressive transport capability is of great significance for designing efficient and long‐lasting PEMFC cathodes.    
+
+    
+
+## A review on the recent mechanisms investigation of PFAS electrochemical oxidation degradation: mechanisms, DFT calculation, and pathways   
+
+OpenAlex: https://openalex.org/W4409308265    
+Open access: True
+    
+[Gengyang Li](https://openalex.org/A5040805160), [Mengyun Peng](https://openalex.org/A5064634628), [Qingguo Huang](https://openalex.org/A5085597475), [Ching‐Hua Huang](https://openalex.org/A5077558661), [Yongsheng Chen](https://openalex.org/A5100739160), [Gary L. Hawkins](https://openalex.org/A5085268663), [Ke Li](https://openalex.org/A5016668431), Frontiers in Environmental Engineering. 4(None)] 2025.https://doi.org/10.3389/fenve.2025.1568542.
+    
+Per- and polyfluoroalkyl substances (PFAS) have drawn public concern recently due to their toxic properties and persistence in the environment, making it urgent to eliminate PFAS from contaminated water. Electrochemical oxidation (EO) has shown great promise for the destructive treatment of PFAS with direct electron transfer and hydroxyl radical (⋅OH)-mediated indirect reactions. One of the most popular electrodes is Magnéli phase titanium suboxides. However, the degradation mechanisms of PFAS are still unsure and are under investigation now. The main methodology is the first-principal density functional theory (DFT) computation, which is recently used to explore the degradation mechanisms and interpret by-product formation during PFAS mineralization. From the literature review, the main applications of DFT computation for studying PFAS degradation mechanisms by EO include bond dissociation energy, absorption energy, activation energy, and overpotential η for oxygen evolution reactions. The main degradation mechanisms and pathways of PFAS in the EO process include mass transfer, direct electron transfer, decarboxylation, peroxyl radical generation, hydroxylation, intramolecular rearrangement, and hydrolysis. In the recent 4 years, 11 papers performed DFT computation to explore the possible PFAS degradation mechanisms and pathways in the EO process. This paper’s objectives are to: 1) summarize the main degradation mechanisms of PFAS degradation in EO; 2) review the application of DFT computation for studying PFAS degradation mechanisms during EO; process; 3) review the possible degradation pathways of perfluorooctane sulfonoic acid (PFOS) and per-fluorooctanoic acid (PFOA) during EO process.    
+
+    
+
+## Engineering 3d-Printed Molybdenum Carbide Catalysts for Selective Co2 Reduction to Co   
+
+OpenAlex: https://openalex.org/W4409310095    
+Open access: False
+    
+[Arturo Pajares](https://openalex.org/A5052406463), [Mehmet Tanrıverdi](https://openalex.org/A5000597777), [Eduardo Coutiño‐González](https://openalex.org/A5057268331), [Jacob Andrade Arvizu](https://openalex.org/A5117093286), [Maxim Guc](https://openalex.org/A5071757484), [Pablo Guardia](https://openalex.org/A5045239264), [Hèctor Prats](https://openalex.org/A5059106548), [Bart Michielsen](https://openalex.org/A5075966436), No host. None(None)] 2025.https://doi.org/10.2139/ssrn.5211448.
+    
+No abstract    
+
+    
+
+## Design of bifunctional oxygen evolution/reduction electrocatalysts on g-C3N3 monolayer by a defect physics method   
+
+OpenAlex: https://openalex.org/W4409315993    
+Open access: False
+    
+[Jing Zhang](https://openalex.org/A5015843109), [Liuming Yan](https://openalex.org/A5058302781), [Chao Yang](https://openalex.org/A5070685116), [Yanyan Qu](https://openalex.org/A5102023948), [Aodi Zhang](https://openalex.org/A5025627195), [Zhenzhen Feng](https://openalex.org/A5042469237), [Wentao Wang](https://openalex.org/A5100394150), [Pengfei Ou](https://openalex.org/A5023196725), Journal of Catalysis. None(None)] 2025.https://doi.org/10.1016/j.jcat.2025.116135.
     
 No abstract    
 

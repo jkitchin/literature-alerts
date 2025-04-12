@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 11 Apr 2025 01:28:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 01:25:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Optimal reactive operation of general topology supply chain and manufacturing networks under disruptions</title>
-      <link>https://doi.org/10.1002/aic.18833</link>
-      <description>Daniel Ovalle, Joshua L. Pulsipher, Yixin Ye, Kyle Harshbarger, Scott J. Bury, Carl D. Laird, Ignacio E. Grossmann, AIChE Journal. None(None)] 2025. https://openalex.org/W4409149042
-
-                Abstract Supply and manufacturing networks in the chemical industry involve diverse processing steps across different locations, rendering their operation vulnerable to disruptions from unplanned events. Optimal responses should consider factors such as product allocation, delayed shipments, and price renegotiation, among other factors. In such context, we propose a multiperiod mixed&#8208;integer linear programming model that integrates production, scheduling, shipping, and order management to minimize the financial impact of such disruptions. The model accommodates arbitrary supply chain topologies and incorporates various disruption scenarios, offering adaptability to real&#8208;world complexities. A case study from the chemical industry demonstrates the scalability of the model under finer time discretization and explores the influence of disruption types and order management costs on optimal schedules. This approach provides a tractable, adaptable framework for developing responsive operational plans in supply chain and manufacturing networks under uncertainty.</description>
-      <author>Daniel Ovalle, Joshua L. Pulsipher, Yixin Ye, Kyle Harshbarger, Scott J. Bury, Carl D. Laird, Ignacio E. Grossmann</author>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aic.18833</guid>
-    </item>
     <item>
       <title>Engineering an Electroactive Bacterial Cellulose-Carbon Nanotube Composite Membrane Against Staphylococcus Aureus</title>
       <link>https://doi.org/10.2139/ssrn.5210151</link>
@@ -46,6 +36,16 @@
       <author>Avery S. Daniels, Andrew J. Gellman, E. Charles H. Sykes</author>
       <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c00456</guid>
+    </item>
+    <item>
+      <title>From Barriers to Bridges: The GEES Program&#8217;s Impact on Low-Income Master&#8217;s Students&#8217; Success and Professional Development</title>
+      <link>https://doi.org/10.18260/1-2--54092</link>
+      <description>Ximing Li, Sylvanus N. Wosu, Keith Trahan, Tagbo H. R. Niepa, No host. None(None)] 2025. https://openalex.org/W4409294945
+
+                No abstract</description>
+      <author>Ximing Li, Sylvanus N. Wosu, Keith Trahan, Tagbo H. R. Niepa</author>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.18260/1-2--54092</guid>
     </item>
   </channel>
 </rss>
