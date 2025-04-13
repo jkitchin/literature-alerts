@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 12 Apr 2025 01:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 02:54:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -46,6 +46,16 @@
       <author>Ximing Li, Sylvanus N. Wosu, Keith Trahan, Tagbo H. R. Niepa</author>
       <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.18260/1-2--54092</guid>
+    </item>
+    <item>
+      <title>Integrated investment, retrofit and abandonment energy system planning with multi-timescale uncertainty using stabilised adaptive Benders decomposition</title>
+      <link>https://doi.org/10.1016/j.ejor.2025.04.005</link>
+      <description>Hongyu Zhang, Ignacio E. Grossmann, Ken McKinnon, Brage Rugstad Knudsen, Rodrigo Garcia Nava, Asgeir Tomasg&#229;rd, European Journal of Operational Research. None(None)] 2025. https://openalex.org/W4409351247
+
+                No abstract</description>
+      <author>Hongyu Zhang, Ignacio E. Grossmann, Ken McKinnon, Brage Rugstad Knudsen, Rodrigo Garcia Nava, Asgeir Tomasg&#229;rd</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ejor.2025.04.005</guid>
     </item>
   </channel>
 </rss>
