@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Apr 14 01:39:17 2025
+Created on Tue Apr 15 01:38:43 2025
 
-Found 60 results from 2025-04-07 to 2025-04-14
+Found 57 results from 2025-04-08 to 2025-04-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967)
@@ -16,72 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Reaction-Driven Varieties of Active Sites on Cu(100) in Electrochemical CO2 Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4409206316    
-Open access: False
-    
-[Shuoqi Zhang](https://openalex.org/A5035377349), [Qingli Tang](https://openalex.org/A5110718830), [Beien Zhu](https://openalex.org/A5038644064), [Yi Gao](https://openalex.org/A5085861365), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c07168.
-    
-No abstract    
-
-    
-
-## Ferroelectric Polarization Effects of Single‐Atom Catalysts on Water Oxidation   
-
-OpenAlex: https://openalex.org/W4409208207    
-Open access: False
-    
-[Hao Ma](https://openalex.org/A5078141964), [Xinyu Ye](https://openalex.org/A5061440496), [Xiaoning Li](https://openalex.org/A5100619626), [Zhichuan J. Xu](https://openalex.org/A5034440449), [Yuanmiao Sun](https://openalex.org/A5071536817), Advanced Materials. None(None)] 2025.https://doi.org/10.1002/adma.202500285.
-    
-Abstract The oxygen evolution reaction (OER) performance of single‐atom catalysts (SACs) heavily depends on their substrates. However, heterojunctions with traditional substrate materials often fail to provide the desired dynamic interface effects. Here, through a systematic study of the ferroelectric heterostructure In 2 Se 3 /C‐N‐M, the feasibility of using ferroelectric materials to achieve dynamic optimization of the OER activity on SACs is demonstrated. The ferroelectric In 2 Se 3 is confirmed to be an effective substrate for improving the stability of various SACs, supported by theoretical results of their negative formation energy and positive dissolution potential. Activity analysis indicates that among these In 2 Se 3 /C‐N‐M systems, the In 2 Se 3 /C‐N‐Ir can achieve near‐ideal catalytic activities through polarization switching. It can unprecedentedly catalyze OER via a hybrid pathway of adsorbate evolution mechanism and O‐O coupling mechanism under different pH conditions (from pH = 1 to pH = 13). Machine learning models have been developed to conduct feature analysis and make ultrafast predictions of OER activity, which identify that the interfacial charge transfer triggered by ferroelectric polarization is the key to fine‐tuning the OER performance of SACs. This work provides a theoretical framework that utilizes ferroelectric polarization as a powerful approach to navigate the design of efficient SACs.    
-
-    
-
-## Metal-free two-dimensional nanomaterials supported single atom catalysts for energy conversion   
-
-OpenAlex: https://openalex.org/W4409211302    
-Open access: False
-    
-[Yong Wan](https://openalex.org/A5006575032), [Mingming Zhang](https://openalex.org/A5100381691), [Cui Lai](https://openalex.org/A5035866564), [Fuhang Xu](https://openalex.org/A5112838095), [Shiyu Liu](https://openalex.org/A5100355120), [Yukui Fu](https://openalex.org/A5028315609), [Ling Li](https://openalex.org/A5091575788), Journal of Alloys and Compounds. None(None)] 2025.https://doi.org/10.1016/j.jallcom.2025.180261.
-    
-No abstract    
-
-    
-
-## Antisite defect unleashes catalytic potential in high-entropy intermetallics for oxygen reduction reaction   
-
-OpenAlex: https://openalex.org/W4409211400    
-Open access: True
-    
-[Tao Chen](https://openalex.org/A5100357740), [Xinkai Zhang](https://openalex.org/A5114049606), [Hangchao Wang](https://openalex.org/A5064092262), [Chonglin Yuan](https://openalex.org/A5090985091), [Yuxuan Zuo](https://openalex.org/A5004498747), [Chuan Gao](https://openalex.org/A5061786185), [Wukun Xiao](https://openalex.org/A5057265346), [Yue Yu](https://openalex.org/A5060509417), [Junfei Cai](https://openalex.org/A5001789413), [Tie Luo](https://openalex.org/A5023613713), [Yan Xiang](https://openalex.org/A5100611578), [Dingguo Xia](https://openalex.org/A5044728698), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-58679-5.
-    
-Developing highly active, low-cost, and durable catalysts for efficient oxygen reduction reactions remain a challenge, hindering the commercial viability of proton exchange membrane fuel cells (PEMFCs). In this study, an ordered PtZnFeCoNiCr high-entropy intermetallic electrocatalyst with Pt antisite point defects (PD-PZFCNC-HEI) is synthesized. The electrocatalyst shows high mass activity of 4.12 A mgPt-1 toward the oxygen reduction reaction (ORR), which is 33 times that of the commercial Pt/C. PEMFC, assembled with PD-PZFCNC-HEI as the cathode (0.05 mgPt cm-2), exhibits a peak power density of 1.9 W cm-2 and a high mass activity of 3.0 A mgPt-1 at 0.9 V. Theoretical calculations combined with in situ X-ray absorption fine structure results reveal that defect engineering optimizes Pt's electronic structure and activates non-noble metal site active centers, achieving exceptionally high ORR catalytic activity. This study provides guidance for the development of nanostructured ordered high-entropy intermetallic catalysts.    
-
-    
-
-## Accurate classification of materials with elEmBERT: Element embeddings for chemical benchmarks   
-
-OpenAlex: https://openalex.org/W4409216061    
-Open access: True
-    
-[Shokirbek Shermukhamedov](https://openalex.org/A5049844166), [Dilorom Mamurjonova](https://openalex.org/A5092905574), [Michael Probst](https://openalex.org/A5066350135), APL Machine Learning. 3(2)] 2025.https://doi.org/10.1063/5.0232529.
-    
-We introduce the elEmBERT model for chemical classification tasks. It is based on deep learning techniques, such as a multilayer encoder architecture. We demonstrate the opportunities offered by our approach on sets of organic, inorganic, and crystalline compounds. In particular, we developed and tested the model using the Materials Project and MoleculeNet benchmarks, which include crystal properties and drug design-related benchmarks. We also conduct an analysis of vector representations of chemical compounds, shedding light on the underlying patterns in structural data. Our model exhibits exceptional predictive capabilities and proves universally applicable to molecular and material datasets. For instance, on the Tox21 dataset, we achieved an average precision of 96%, surpassing the previously best result by 10%.    
-
-    
-
-## High Coverage Carbon Monoxide Adsorption on a ZnAl2O4 Surface: A DFT Study   
-
-OpenAlex: https://openalex.org/W4409219696    
-Open access: False
-    
-[Chunyan Sun](https://openalex.org/A5101713676), [Lihong Cheng](https://openalex.org/A5101852163), [Runping Ye](https://openalex.org/A5074190327), [Rongbin Zhang](https://openalex.org/A5065335946), [Qiang Li](https://openalex.org/A5038951945), [Gang Feng](https://openalex.org/A5065217556), [Shi Liu](https://openalex.org/A5100655371), Inorganic Chemistry. None(None)] 2025.https://doi.org/10.1021/acs.inorgchem.5c00722.
-    
-ZnAl2O4 spinel is widely used as a support in various reactions due to its thermal stability. Investigating the interaction between CO and ZnAl2O4 is essential for understanding the surface reaction mechanisms. In the present work, density functional theory (DFT) and ab initio atomistic thermodynamics were employed to investigate the adsorption of CO on perfect and O-defective ZnAl2O4 surfaces at varying CO coverages. The results reveal the formation of C* species and the subsequent aggregation can be hindered by the concentration of surface oxygen vacancy (Ovac) at low CO coverages. Notably, at high CO coverages, carbon deposition (CD) occurs on the ZnAl2O4 surfaces. ΔμCO is regulated below its threshold based on surface Ovac concentrations to control CO coverage and thereby suppress CD. At 523 K, the CO partial pressures should be maintained below 100, 10-3, 100, and 10-6 atm for surface with Ovac concentrations of 0, 12.5, 25, and 37.5%, respectively, to prevent CD on the surface. DFT-simulated IR spectra show that varying Ovac concentrations significantly affects the CO adsorption peak types and shifts, causing red shifts in vibrational frequencies for linearly adsorbed CO. These findings provide guidance for synthesizing ZnAl2O4 with varying Ovac concentrations to enhance catalyst efficiency and durability while mitigating CD.    
-
-    
 
 ## From lab to market: Economic viability of modern hydrogen evolution reaction catalysts   
 
@@ -622,6 +556,17 @@ No abstract
 
     
 
+## Modulating the covalency of Ru-O bonds by dynamic reconstruction for efficient acidic oxygen evolution   
+
+OpenAlex: https://openalex.org/W4409383439    
+Open access: True
+    
+[Luqi Wang](https://openalex.org/A5101733772), [Sung‐Fu Hung](https://openalex.org/A5060265950), [Sheng Zhao](https://openalex.org/A5002546727), [Yue Wang](https://openalex.org/A5090988144), [Shengli Bi](https://openalex.org/A5076369731), [Shaoxiong Li](https://openalex.org/A5101601644), [Jianjie Ma](https://openalex.org/A5015264004), [Chenchen Zhang](https://openalex.org/A5100408849), [Ying Zhang](https://openalex.org/A5101723568), [Linlin Li](https://openalex.org/A5100318907), [Tsung‐Yi Chen](https://openalex.org/A5014438110), [Han‐Yi Chen](https://openalex.org/A5084555578), [Feng Hu](https://openalex.org/A5075628250), [Yuping Wu](https://openalex.org/A5100368786), [Shiling Peng](https://openalex.org/A5069665654), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-58654-0.
+    
+Developing ruthenium-based oxide catalysts capable of suppressing lattice oxygen participation in the catalytic reaction process is crucial for maintaining stable oxygen evolution reaction (OER) under acidic conditions. Herein, we delicately construct a RuO2 nanoparticle-anchored LiCoO2 nanosheet electrocatalyst (RuO2/LiCoO2), achieving dynamic optimization of RuO2 during the reaction process and improving catalytic stability. Benefiting from the unique electrochemical delithiation characteristics of the LiCoO2 support, the covalency of the Ru-O bond is effectively regulated during the OER process. The weakened Ru-O covalent bond inhibits the participation of lattice oxygen in the catalytic reaction and ensures the continuous operation of the Ru active sites. Moreover, the extended Ru-O bond in the optimized RuO2/LiCoO2 catalyst reduces the formation energy barrier of the *OOH intermediates, accelerating the progress of the OER. As a result, the RuO2/LiCoO2 catalyst requires only an overpotential of 150 ± 2 mV at 10 mA cm-2 in 0.5 M H2SO4 and operates stably for 2000 h at 1 A cm-2 in a proton exchange membrane water electrolysis. This work opens new avenues for designing efficient ruthenium-based catalysts.    
+
+    
+
 ## Phosphorus-doped CuS@NF: A promising bifunctional electrocatalyst for enhanced water splitting efficiency   
 
 OpenAlex: https://openalex.org/W4409383592    
@@ -644,6 +589,39 @@ No abstract
 
     
 
+## Pristine metal-organic framework electrocatalysts for hydrogen production: Role of electrocatalyst properties in basic media   
+
+OpenAlex: https://openalex.org/W4409385084    
+Open access: True
+    
+[Liberty L. Mguni](https://openalex.org/A5072513496), [Olga K. Mmelesi](https://openalex.org/A5029911924), [Emmanuel Kweinor Tetteh](https://openalex.org/A5043899865), [Nombeko Graceful Sijadu](https://openalex.org/A5100009080), [Yali Yao](https://openalex.org/A5071411150), [Sudesh Rathilal](https://openalex.org/A5065548431), Cleaner Chemical Engineering. None(None)] 2025.https://doi.org/10.1016/j.clce.2025.100170.
+    
+No abstract    
+
+    
+
+## Automated Pynta-Based Curriculum for ML-Accelerated Calculation of Transition States   
+
+OpenAlex: https://openalex.org/W4409396104    
+Open access: True
+    
+[Trevor Price](https://openalex.org/A5058168207), [Saurabh Sivakumar](https://openalex.org/A5026080491), [Matthew S. Johnson](https://openalex.org/A5007408817), [Judit Zádor](https://openalex.org/A5018648223), [Ambarish Kulkarni](https://openalex.org/A5042039275), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.5c00305.
+    
+No abstract    
+
+    
+
+## Assessment of CO2 Sequestration in a Stack Storage Complex in the San Juan Basin, NM   
+
+OpenAlex: https://openalex.org/W4409400080    
+Open access: False
+    
+[Vida Ama Bodi](https://openalex.org/A5091985572), [William Ampomah](https://openalex.org/A5014163540), [Dung Bui](https://openalex.org/A5072296988), [Najmudeen Sibaweihi](https://openalex.org/A5082624549), No host. None(None)] 2025.https://doi.org/10.2118/224355-ms.
+    
+ABSTRACT Effective CO2 sequestration requires not only minimizing carbon emissions but also optimizing storage efficiency while ensuring the integrity of storage sites. This research focuses on the assessment of CO2 injection in a stack storage system, specifically targeting the Entrada (high-permeability) and Bluff (low-permeability) formations within the San Juan Basin. By leveraging a single well to inject CO2 across multiple formations, the goal is to enhance storage efficiency, reduce the spatial extent of CO2 plumes, and minimize the area requiring long-term monitoring. A high-resolution hydrodynamic reservoir model was developed and validated using historical injection rates and pressure data from nearby saltwater disposal wells. This model was used to simulate 30 years of CO2 injection, aiming to store 50MtCO2f through a stacked storage configuration. Three well-completion strategies were explored: (1) a base case with injection into Entrada only, (2) a case with commingled injection into both formations through a single well, and (3) 6 scenarios using smart well-completion techniques to simultaneously inject CO2 into the Entrada and Bluff formations at controlled rates. Different injection rates were tested to identify the best scenario that minimizes CO2 plume size while meeting the storage target. Simulation results from the base case of injecting into Entrada only revealed that at an injection rate of 80MMSCFD, 50MtCO2 can be injected over 30 years. The commingled injection case showed that over 90% of injected CO2 entered the Entrada formation, leading to larger plume size (64.69 square miles after 100 years of post-injection monitoring) and an expanded area requiring monitoring. In contrast, the optimized injection strategy, with CO2 allocated at varying rates (25%, 31%, and 34% of the total injection rate of 80MMSCD) to the Bluff formation, resulted in the best scenario case significantly reducing the Entrada plume spatial extent by 22% while increasing the plume size in the Bluff formation by approximately 94%, accompanied by a 77% increment in the storage capacity. Ultimately, the best scenario reduced the total area requiring monitoring, demonstrating the effectiveness of a stack storage approach in controlling CO2 migration and pressure fronts. This study highlights the importance of optimizing CO2 in stacked storage systems to maximize sequestration efficiency. By carefully managing injection rates, the spread of CO2 plumes can be controlled, reducing monitoring costs and ensuring safe, long-term storage. The findings provide valuable insights for improving the practical implementation of CO2 capture and storage projects using stack storage systems.    
+
+    
+
 ## Mesoporous Single-Crystalline Particles as Robust and Efficient Acidic Oxygen Evolution Catalysts   
 
 OpenAlex: https://openalex.org/W4409264530    
@@ -661,17 +639,6 @@ OpenAlex: https://openalex.org/W4409324074
 Open access: True
     
 [Vitor Gama](https://openalex.org/A5045049555), [Deepanjali Roy](https://openalex.org/A5071503944), [Fernando V. Lima](https://openalex.org/A5008955099), [Oishi Sanyal](https://openalex.org/A5069164780), Industrial & Engineering Chemistry Research. None(None)] 2025.https://doi.org/10.1021/acs.iecr.4c04553.
-    
-No abstract    
-
-    
-
-## Knowledge-guided large language model for material science   
-
-OpenAlex: https://openalex.org/W4409204146    
-Open access: True
-    
-[Guanjie Wang](https://openalex.org/A5013097344), [Jingjing Hu](https://openalex.org/A5101838775), [Jian Zhou](https://openalex.org/A5057226383), [Sen Liu](https://openalex.org/A5100358488), [Qi Li](https://openalex.org/A5100748959), [Zhimei Sun](https://openalex.org/A5059875221), No host. None(None)] 2025.https://doi.org/10.1016/j.revmat.2025.100007.
     
 No abstract    
 

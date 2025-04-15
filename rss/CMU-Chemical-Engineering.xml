@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 14 Apr 2025 01:39:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 01:38:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -76,6 +76,16 @@
       <author>Chetan R Chilkunda, John R. Kitchin, Robert D. Tilton</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d5dd00058k</guid>
+    </item>
+    <item>
+      <title>Repurposing a conventional oil refinery for biomass processing to aviation fuel: process design and techno-environmental evaluation for a real operating plant</title>
+      <link>https://doi.org/10.26434/chemrxiv-2025-1f1qk</link>
+      <description>Valeria Gonz&#225;lez, Alejandro Pedezert, Luc&#237;a Pittaluga, Soledad Guti&#233;rrez, Roberto Kreimerman, Ana I. Torres, No host. None(None)] 2025. https://openalex.org/W4409396446
+
+                This article presents the results of a project with a South American oil refinery that explored the production of sustainable aviation fuel (SAF) from local biomass resources. Two process flowsheets for the production of hydrocarbons in the aviation fuel range from oil-based crops (canola, Brassica carinata, sunflower, and soybean) and tallow via hydrotreating and later hydrocracking and isomerization are developed. In addition, an optimization-based methodology for estimating a detailed composition of hydrocarbons after the hydrotreating reaction from incomplete experimental data is presented. The properties of the obtained fuels are estimated and compared to the ASTM D7566 standard for renewable aviation fuel. An environmental assessment using the EPA-GREENSCOPE methodology for 26 indicators is performed for the final design. Overall, this design provides a jet fuel cut with attractive ASTM D7566 properties for all the considered feedstocks, higher yields for soybean oil and tallow, and sustainability scores exceeding 80% for all feeds and indices except those related to the production of smog when soybean oil is considered as the feed.</description>
+      <author>Valeria Gonz&#225;lez, Alejandro Pedezert, Luc&#237;a Pittaluga, Soledad Guti&#233;rrez, Roberto Kreimerman, Ana I. Torres</author>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2025-1f1qk</guid>
     </item>
   </channel>
 </rss>

@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 14 Apr 2025 01:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 01:38:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Reaction-Driven Varieties of Active Sites on Cu(100) in Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c07168</link>
-      <description>Shuoqi Zhang, Qingli Tang, Beien Zhu, Yi Gao, ACS Catalysis. None(None)] 2025. https://openalex.org/W4409206316
-
-                No abstract</description>
-      <author>Shuoqi Zhang, Qingli Tang, Beien Zhu, Yi Gao</author>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07168</guid>
-    </item>
-    <item>
-      <title>Ferroelectric Polarization Effects of Single&#8208;Atom Catalysts on Water Oxidation</title>
-      <link>https://doi.org/10.1002/adma.202500285</link>
-      <description>Hao Ma, Xinyu Ye, Xiaoning Li, Zhichuan J. Xu, Yuanmiao Sun, Advanced Materials. None(None)] 2025. https://openalex.org/W4409208207
-
-                Abstract The oxygen evolution reaction (OER) performance of single&#8208;atom catalysts (SACs) heavily depends on their substrates. However, heterojunctions with traditional substrate materials often fail to provide the desired dynamic interface effects. Here, through a systematic study of the ferroelectric heterostructure In 2 Se 3 /C&#8208;N&#8208;M, the feasibility of using ferroelectric materials to achieve dynamic optimization of the OER activity on SACs is demonstrated. The ferroelectric In 2 Se 3 is confirmed to be an effective substrate for improving the stability of various SACs, supported by theoretical results of their negative formation energy and positive dissolution potential. Activity analysis indicates that among these In 2 Se 3 /C&#8208;N&#8208;M systems, the In 2 Se 3 /C&#8208;N&#8208;Ir can achieve near&#8208;ideal catalytic activities through polarization switching. It can unprecedentedly catalyze OER via a hybrid pathway of adsorbate evolution mechanism and O&#8208;O coupling mechanism under different pH conditions (from pH = 1 to pH = 13). Machine learning models have been developed to conduct feature analysis and make ultrafast predictions of OER activity, which identify that the interfacial charge transfer triggered by ferroelectric polarization is the key to fine&#8208;tuning the OER performance of SACs. This work provides a theoretical framework that utilizes ferroelectric polarization as a powerful approach to navigate the design of efficient SACs.</description>
-      <author>Hao Ma, Xinyu Ye, Xiaoning Li, Zhichuan J. Xu, Yuanmiao Sun</author>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202500285</guid>
-    </item>
-    <item>
-      <title>Metal-free two-dimensional nanomaterials supported single atom catalysts for energy conversion</title>
-      <link>https://doi.org/10.1016/j.jallcom.2025.180261</link>
-      <description>Yong Wan, Mingming Zhang, Cui Lai, Fuhang Xu, Shiyu Liu, Yukui Fu, Ling Li, Journal of Alloys and Compounds. None(None)] 2025. https://openalex.org/W4409211302
-
-                No abstract</description>
-      <author>Yong Wan, Mingming Zhang, Cui Lai, Fuhang Xu, Shiyu Liu, Yukui Fu, Ling Li</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2025.180261</guid>
-    </item>
-    <item>
-      <title>Antisite defect unleashes catalytic potential in high-entropy intermetallics for oxygen reduction reaction</title>
-      <link>https://doi.org/10.1038/s41467-025-58679-5</link>
-      <description>Tao Chen, Xinkai Zhang, Hangchao Wang, Chonglin Yuan, Yuxuan Zuo, Chuan Gao, Wukun Xiao, Yue Yu, Junfei Cai, Tie Luo, Yan Xiang, Dingguo Xia, Nature Communications. 16(1)] 2025. https://openalex.org/W4409211400
-
-                Developing highly active, low-cost, and durable catalysts for efficient oxygen reduction reactions remain a challenge, hindering the commercial viability of proton exchange membrane fuel cells (PEMFCs). In this study, an ordered PtZnFeCoNiCr high-entropy intermetallic electrocatalyst with Pt antisite point defects (PD-PZFCNC-HEI) is synthesized. The electrocatalyst shows high mass activity of 4.12 A mgPt-1 toward the oxygen reduction reaction (ORR), which is 33 times that of the commercial Pt/C. PEMFC, assembled with PD-PZFCNC-HEI as the cathode (0.05 mgPt cm-2), exhibits a peak power density of 1.9 W cm-2 and a high mass activity of 3.0 A mgPt-1 at 0.9 V. Theoretical calculations combined with in situ X-ray absorption fine structure results reveal that defect engineering optimizes Pt's electronic structure and activates non-noble metal site active centers, achieving exceptionally high ORR catalytic activity. This study provides guidance for the development of nanostructured ordered high-entropy intermetallic catalysts.</description>
-      <author>Tao Chen, Xinkai Zhang, Hangchao Wang, Chonglin Yuan, Yuxuan Zuo, Chuan Gao, Wukun Xiao, Yue Yu, Junfei Cai, Tie Luo, Yan Xiang, Dingguo Xia</author>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-58679-5</guid>
-    </item>
-    <item>
-      <title>Accurate classification of materials with elEmBERT: Element embeddings for chemical benchmarks</title>
-      <link>https://doi.org/10.1063/5.0232529</link>
-      <description>Shokirbek Shermukhamedov, Dilorom Mamurjonova, Michael Probst, APL Machine Learning. 3(2)] 2025. https://openalex.org/W4409216061
-
-                We introduce the elEmBERT model for chemical classification tasks. It is based on deep learning techniques, such as a multilayer encoder architecture. We demonstrate the opportunities offered by our approach on sets of organic, inorganic, and crystalline compounds. In particular, we developed and tested the model using the Materials Project and MoleculeNet benchmarks, which include crystal properties and drug design-related benchmarks. We also conduct an analysis of vector representations of chemical compounds, shedding light on the underlying patterns in structural data. Our model exhibits exceptional predictive capabilities and proves universally applicable to molecular and material datasets. For instance, on the Tox21 dataset, we achieved an average precision of 96%, surpassing the previously best result by 10%.</description>
-      <author>Shokirbek Shermukhamedov, Dilorom Mamurjonova, Michael Probst</author>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0232529</guid>
-    </item>
-    <item>
-      <title>High Coverage Carbon Monoxide Adsorption on a ZnAl&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Surface: A DFT Study</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.5c00722</link>
-      <description>Chunyan Sun, Lihong Cheng, Runping Ye, Rongbin Zhang, Qiang Li, Gang Feng, Shi Liu, Inorganic Chemistry. None(None)] 2025. https://openalex.org/W4409219696
-
-                ZnAl2O4 spinel is widely used as a support in various reactions due to its thermal stability. Investigating the interaction between CO and ZnAl2O4 is essential for understanding the surface reaction mechanisms. In the present work, density functional theory (DFT) and ab initio atomistic thermodynamics were employed to investigate the adsorption of CO on perfect and O-defective ZnAl2O4 surfaces at varying CO coverages. The results reveal the formation of C* species and the subsequent aggregation can be hindered by the concentration of surface oxygen vacancy (Ovac) at low CO coverages. Notably, at high CO coverages, carbon deposition (CD) occurs on the ZnAl2O4 surfaces. &#916;&#956;CO is regulated below its threshold based on surface Ovac concentrations to control CO coverage and thereby suppress CD. At 523 K, the CO partial pressures should be maintained below 100, 10-3, 100, and 10-6 atm for surface with Ovac concentrations of 0, 12.5, 25, and 37.5%, respectively, to prevent CD on the surface. DFT-simulated IR spectra show that varying Ovac concentrations significantly affects the CO adsorption peak types and shifts, causing red shifts in vibrational frequencies for linearly adsorbed CO. These findings provide guidance for synthesizing ZnAl2O4 with varying Ovac concentrations to enhance catalyst efficiency and durability while mitigating CD.</description>
-      <author>Chunyan Sun, Lihong Cheng, Runping Ye, Rongbin Zhang, Qiang Li, Gang Feng, Shi Liu</author>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.5c00722</guid>
-    </item>
     <item>
       <title>From lab to market: Economic viability of modern hydrogen evolution reaction catalysts</title>
       <link>https://doi.org/10.1016/j.fuel.2025.135227</link>
@@ -558,6 +498,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125368</guid>
     </item>
     <item>
+      <title>Modulating the covalency of Ru-O bonds by dynamic reconstruction for efficient acidic oxygen evolution</title>
+      <link>https://doi.org/10.1038/s41467-025-58654-0</link>
+      <description>Luqi Wang, Sung&#8208;Fu Hung, Sheng Zhao, Yue Wang, Shengli Bi, Shaoxiong Li, Jianjie Ma, Chenchen Zhang, Ying Zhang, Linlin Li, Tsung&#8208;Yi Chen, Han&#8208;Yi Chen, Feng Hu, Yuping Wu, Shiling Peng, Nature Communications. 16(1)] 2025. https://openalex.org/W4409383439
+
+                Developing ruthenium-based oxide catalysts capable of suppressing lattice oxygen participation in the catalytic reaction process is crucial for maintaining stable oxygen evolution reaction (OER) under acidic conditions. Herein, we delicately construct a RuO2 nanoparticle-anchored LiCoO2 nanosheet electrocatalyst (RuO2/LiCoO2), achieving dynamic optimization of RuO2 during the reaction process and improving catalytic stability. Benefiting from the unique electrochemical delithiation characteristics of the LiCoO2 support, the covalency of the Ru-O bond is effectively regulated during the OER process. The weakened Ru-O covalent bond inhibits the participation of lattice oxygen in the catalytic reaction and ensures the continuous operation of the Ru active sites. Moreover, the extended Ru-O bond in the optimized RuO2/LiCoO2 catalyst reduces the formation energy barrier of the *OOH intermediates, accelerating the progress of the OER. As a result, the RuO2/LiCoO2 catalyst requires only an overpotential of 150 &#177; 2 mV at 10 mA cm-2 in 0.5 M H2SO4 and operates stably for 2000 h at 1 A cm-2 in a proton exchange membrane water electrolysis. This work opens new avenues for designing efficient ruthenium-based catalysts.</description>
+      <author>Luqi Wang, Sung&#8208;Fu Hung, Sheng Zhao, Yue Wang, Shengli Bi, Shaoxiong Li, Jianjie Ma, Chenchen Zhang, Ying Zhang, Linlin Li, Tsung&#8208;Yi Chen, Han&#8208;Yi Chen, Feng Hu, Yuping Wu, Shiling Peng</author>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-58654-0</guid>
+    </item>
+    <item>
       <title>Phosphorus-doped CuS@NF: A promising bifunctional electrocatalyst for enhanced water splitting efficiency</title>
       <link>https://doi.org/10.1016/j.apsusc.2025.163254</link>
       <description>Javid Barqi Mirzanlou, Moein Mehri, A.H. Salehi, Mohammad Zarei&#8208;Jelyani, Yalda Tarpoudi Baheri, Anisa Mutiara Badri, S. Morteza Mousavi&#8208;Khoshdel, Ximeng Liu, Applied Surface Science. None(None)] 2025. https://openalex.org/W4409383592
@@ -578,6 +528,36 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.04.071</guid>
     </item>
     <item>
+      <title>Pristine metal-organic framework electrocatalysts for hydrogen production: Role of electrocatalyst properties in basic media</title>
+      <link>https://doi.org/10.1016/j.clce.2025.100170</link>
+      <description>Liberty L. Mguni, Olga K. Mmelesi, Emmanuel Kweinor Tetteh, Nombeko Graceful Sijadu, Yali Yao, Sudesh Rathilal, Cleaner Chemical Engineering. None(None)] 2025. https://openalex.org/W4409385084
+
+                No abstract</description>
+      <author>Liberty L. Mguni, Olga K. Mmelesi, Emmanuel Kweinor Tetteh, Nombeko Graceful Sijadu, Yali Yao, Sudesh Rathilal</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.clce.2025.100170</guid>
+    </item>
+    <item>
+      <title>Automated Pynta-Based Curriculum for ML-Accelerated Calculation of Transition States</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c00305</link>
+      <description>Trevor Price, Saurabh Sivakumar, Matthew S. Johnson, Judit Z&#225;dor, Ambarish Kulkarni, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4409396104
+
+                No abstract</description>
+      <author>Trevor Price, Saurabh Sivakumar, Matthew S. Johnson, Judit Z&#225;dor, Ambarish Kulkarni</author>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c00305</guid>
+    </item>
+    <item>
+      <title>Assessment of CO2 Sequestration in a Stack Storage Complex in the San Juan Basin, NM</title>
+      <link>https://doi.org/10.2118/224355-ms</link>
+      <description>Vida Ama Bodi, William Ampomah, Dung Bui, Najmudeen Sibaweihi, No host. None(None)] 2025. https://openalex.org/W4409400080
+
+                ABSTRACT Effective CO2 sequestration requires not only minimizing carbon emissions but also optimizing storage efficiency while ensuring the integrity of storage sites. This research focuses on the assessment of CO2 injection in a stack storage system, specifically targeting the Entrada (high-permeability) and Bluff (low-permeability) formations within the San Juan Basin. By leveraging a single well to inject CO2 across multiple formations, the goal is to enhance storage efficiency, reduce the spatial extent of CO2 plumes, and minimize the area requiring long-term monitoring. A high-resolution hydrodynamic reservoir model was developed and validated using historical injection rates and pressure data from nearby saltwater disposal wells. This model was used to simulate 30 years of CO2 injection, aiming to store 50MtCO2f through a stacked storage configuration. Three well-completion strategies were explored: (1) a base case with injection into Entrada only, (2) a case with commingled injection into both formations through a single well, and (3) 6 scenarios using smart well-completion techniques to simultaneously inject CO2 into the Entrada and Bluff formations at controlled rates. Different injection rates were tested to identify the best scenario that minimizes CO2 plume size while meeting the storage target. Simulation results from the base case of injecting into Entrada only revealed that at an injection rate of 80MMSCFD, 50MtCO2 can be injected over 30 years. The commingled injection case showed that over 90% of injected CO2 entered the Entrada formation, leading to larger plume size (64.69 square miles after 100 years of post-injection monitoring) and an expanded area requiring monitoring. In contrast, the optimized injection strategy, with CO2 allocated at varying rates (25%, 31%, and 34% of the total injection rate of 80MMSCD) to the Bluff formation, resulted in the best scenario case significantly reducing the Entrada plume spatial extent by 22% while increasing the plume size in the Bluff formation by approximately 94%, accompanied by a 77% increment in the storage capacity. Ultimately, the best scenario reduced the total area requiring monitoring, demonstrating the effectiveness of a stack storage approach in controlling CO2 migration and pressure fronts. This study highlights the importance of optimizing CO2 in stacked storage systems to maximize sequestration efficiency. By carefully managing injection rates, the spread of CO2 plumes can be controlled, reducing monitoring costs and ensuring safe, long-term storage. The findings provide valuable insights for improving the practical implementation of CO2 capture and storage projects using stack storage systems.</description>
+      <author>Vida Ama Bodi, William Ampomah, Dung Bui, Najmudeen Sibaweihi</author>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2118/224355-ms</guid>
+    </item>
+    <item>
       <title>Mesoporous Single-Crystalline Particles as Robust and Efficient Acidic Oxygen Evolution Catalysts</title>
       <link>https://doi.org/10.1021/jacs.4c18390</link>
       <description>Yong Wang, Yunpu Qin, Sijia Liu, Yongzhi Zhao, Luan Liu, Di Zhang, Shangqing Zhao, Jianfang Liu, Jie Wang, Yadong Liu, Haoyang Wu, Baorui Jia, Xuanhui Qu, Hao Li, Mingli Qin, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4409264530
@@ -596,16 +576,6 @@
       <author>Vitor Gama, Deepanjali Roy, Fernando V. Lima, Oishi Sanyal</author>
       <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c04553</guid>
-    </item>
-    <item>
-      <title>Knowledge-guided large language model for material science</title>
-      <link>https://doi.org/10.1016/j.revmat.2025.100007</link>
-      <description>Guanjie Wang, Jingjing Hu, Jian Zhou, Sen Liu, Qi Li, Zhimei Sun, No host. None(None)] 2025. https://openalex.org/W4409204146
-
-                No abstract</description>
-      <author>Guanjie Wang, Jingjing Hu, Jian Zhou, Sen Liu, Qi Li, Zhimei Sun</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.revmat.2025.100007</guid>
     </item>
   </channel>
 </rss>
