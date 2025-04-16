@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 15 Apr 2025 01:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 01:38:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Engineering an Electroactive Bacterial Cellulose-Carbon Nanotube Composite Membrane Against Staphylococcus Aureus</title>
-      <link>https://doi.org/10.2139/ssrn.5210151</link>
-      <description>Daniel L. Levin, C. Royo, Denis Johnson, Shakira M. Martinez-Vasquez, Soumalya Gosh, Sricharani Rao Balmuri, Abdoulaye Djire, Bayaumy B. Mostafa, Tagbo H. R. Niepa, No host. None(None)] 2025. https://openalex.org/W4409250357
-
-                No abstract</description>
-      <author>Daniel L. Levin, C. Royo, Denis Johnson, Shakira M. Martinez-Vasquez, Soumalya Gosh, Sricharani Rao Balmuri, Abdoulaye Djire, Bayaumy B. Mostafa, Tagbo H. R. Niepa</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5210151</guid>
-    </item>
     <item>
       <title>Solving an inverse problem with generative models</title>
       <link>https://doi.org/10.26434/chemrxiv-2025-nl9gl</link>

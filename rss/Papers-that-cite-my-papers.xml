@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 15 Apr 2025 01:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 01:38:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>From lab to market: Economic viability of modern hydrogen evolution reaction catalysts</title>
-      <link>https://doi.org/10.1016/j.fuel.2025.135227</link>
-      <description>Margarita Ryabicheva, Yaroslav Zhigalenok, Saken Abdimomyn, &#1052;&#1072;zhyn Skakov, &#1040;. Zh. Miniyazov, Gainiya Zhanbolatova, Nuriya Mukhamedova, Zhanar Ospanova, Thierry Djenizian, Fyodor Malchik, Fuel. 395(None)] 2025. https://openalex.org/W4409228929
-
-                No abstract</description>
-      <author>Margarita Ryabicheva, Yaroslav Zhigalenok, Saken Abdimomyn, &#1052;&#1072;zhyn Skakov, &#1040;. Zh. Miniyazov, Gainiya Zhanbolatova, Nuriya Mukhamedova, Zhanar Ospanova, Thierry Djenizian, Fyodor Malchik</author>
-      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.135227</guid>
-    </item>
-    <item>
-      <title>Mini Review on Revisiting Marcus Theory and Novel Understanding Heterogeneous Electron Transfer by Programing Tools</title>
-      <link>https://doi.org/10.1002/elan.12045</link>
-      <description>Xuanze Wang, Jie Deng, Kulika Pithaksinsakul, Yachao Zhu, Jiaxin Ren, Jiangfeng Qian, Olivier Fontaine, Electroanalysis. 37(4)] 2025. https://openalex.org/W4409229211
-
-                Electron transfer is always the spotlight in electrochemistry, especially electrochemical energy storage. However, the current understanding of electron transfer, particularly in heterogeneous systems as explained by Marcus theory, faces challenges in accurately accounting for surface effects, solvent reorganization, and quantum tunneling, which are critical to real&#8208;world applications. Here, this review presents a comprehensive analysis of the heterogeneous electron transfer processes within the framework of Marcus theory, focusing on computing approaches using Python and Wolfram Language. The introduction outlines the significance of Marcus theory in explaining electron transfer reactions and sets the stage for the subsequent discussions. In the results and discussions section, the electron distribution in heterogeneous systems is explored, comparing the effects of different formalisms on electron transfer. A detailed comparison of the computational approaches using Python and Mathematica underscores the essential role of programing in tackling complex electron transfer models. These tools offer powerful, complementary capabilities for simulating the nuanced behavior of heterogeneous electron transfer processes, providing researchers with the flexibility and precision necessary to address the limitations of traditional theoretical methods. Finally, the work delves into the law of conservation of energy within the context of Marcus theory, offering a nuanced discussion of its implications for electron transfer studies. This review aims to equip researchers with practical insights and computing tools to enhance their understanding and application of Marcus theory in heterogeneous systems.</description>
-      <author>Xuanze Wang, Jie Deng, Kulika Pithaksinsakul, Yachao Zhu, Jiaxin Ren, Jiangfeng Qian, Olivier Fontaine</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/elan.12045</guid>
-    </item>
-    <item>
-      <title>Curvature-Influenced Electrocatalytic NRR Reactivity by Heme-like FeN4-Site on Carbon Materials</title>
-      <link>https://doi.org/10.3390/molecules30081670</link>
-      <description>Yajie Meng, Ziyue Huang, Xi Chen, Yingqi Li, Xueyuan Yan, Jiawei Xu, Hai&#8208;Yan Wei, Molecules. 30(8)] 2025. https://openalex.org/W4409245179
-
-                Two-dimensional carbon materials and their derivatives are widely applied as promising electrocatalysts and supports of single-atom sites. Theoretical investigations of 2D carbon materials are usually based on planar models, yet ignore local curvature brought on by possible surface distortion, which can be significant to the exact catalytic performance as has been realized in latest research. In this work, the curvature-influenced electrocatalytic nitrogen reduction reaction (NRR) reactivity of heme-like FeN4 single-atom site was predicted by a first-principle study, with FeN4-CNT(m,m) (m = 5~10) models adopted as local curvature models. The results showed that a larger local curvature is favored for NRR, with a lower limiting potential and higher N2 adsorption affinity, while a smaller local curvature shows lower NH3 desorption energy and is beneficial for catalyst recovery. Using electronic structures and logarithm fitting, we also found that FeN4-CNT(5,5) shows an intermediate-spin state, which is different from the high-spin state exhibited by other FeN4-CNT(m,m) (m = 6~10) models with a smaller local curvature.</description>
-      <author>Yajie Meng, Ziyue Huang, Xi Chen, Yingqi Li, Xueyuan Yan, Jiawei Xu, Hai&#8208;Yan Wei</author>
-      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/molecules30081670</guid>
-    </item>
-    <item>
-      <title>Enhancing the oxygen evolution reaction by tuning the electrode&#8211;electrolyte interface in nickel-based electrocatalysts</title>
-      <link>https://doi.org/10.1038/s42004-025-01508-z</link>
-      <description>Ben Wang, Tomohiro Fukushima, Hiro Minamimoto, Andrey Lyalin, Kei Murakoshi, Tetsuya Taketsugu, Communications Chemistry. 8(1)] 2025. https://openalex.org/W4409246364
-
-                A comprehensive understanding of the electrode-electrolyte interface in energy conversion systems remains challenging due to the complex and multifaceted nature of interfacial processes. This complexity hinders the development of more efficient electrocatalysts. In this work, we propose a hybrid approach to the theoretical description of the OER process on nickel-iron-based oxyhydroxides (&#947;-Ni1-xFexOOH) electrodes in alkaline media as a model system. Multiple reaction pathways represented by the single- and dual-site mechanisms were investigated by taking into account the realistic structure of the catalyst, the doping, and the solvation effects using a simple and computationally feasible strategy. Accounting for the variable solvation effects considerably affects the predicted overpotential in a roughly linear relationship between overpotential and dielectric constant. By incorporating quantum chemical simulations with kinetic modeling, we demonstrate that tuning the local solvation environment can significantly enhance the OER activity, opening new routine ways for elucidation of the emerging issues of OER processes on transition metal oxide surfaces and design of cost-effective, efficient electrocatalytic systems.</description>
-      <author>Ben Wang, Tomohiro Fukushima, Hiro Minamimoto, Andrey Lyalin, Kei Murakoshi, Tetsuya Taketsugu</author>
-      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s42004-025-01508-z</guid>
-    </item>
-    <item>
-      <title>High-entropy alloy enables multi-path electron synergism and lattice oxygen activation for enhanced oxygen evolution activity</title>
-      <link>https://doi.org/10.1038/s41467-025-58648-y</link>
-      <description>Tao Zhang, Hui-Feng Zhao, Zheng&#8208;Jie Chen, Qun Yang, Niu Gao, Li Li, Na Luo, Jian Zheng, Shanhu Bao, Jing Peng, Peng Xu, Xinwang Liu, Hai&#8208;Bin Yu, Nature Communications. 16(1)] 2025. https://openalex.org/W4409246456
-
-                Electrocatalytic oxygen evolution reaction (OER) is key to several energy technologies but suffers from low activity. Leveraging the lattice oxygen activation mechanism (LOM) is a strategy for boosting its activity. However, this approach faces significant thermodynamic challenges, requiring high-valent oxidation of metal ions without compromising their stability. We reveal that high-entropy alloys (HEAs) can efficiently activate the LOM through synergistic multi-path electron transfer. Specifically, the oxidation of nickel is enhanced by this electron transfer, aided by the integration of weaker Co-O bonds, enabling effective LOM at the Ni-Co dual-site. These insights allow the design of a NiFeCoCrW0.2 HEA that exhibits improved activity, achieving an overpotential of 220 mV at a current density of 10 mA cm-2. It also demonstrates good stability, maintaining the potential with less than 5% variation over 90 days at 100 mA cm-2 current density. This study sheds light on the synergistic effects that confer high activity in HEAs and contribute to the advancement of high-performance OER electrocatalysts.</description>
-      <author>Tao Zhang, Hui-Feng Zhao, Zheng&#8208;Jie Chen, Qun Yang, Niu Gao, Li Li, Na Luo, Jian Zheng, Shanhu Bao, Jing Peng, Peng Xu, Xinwang Liu, Hai&#8208;Bin Yu</author>
-      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-58648-y</guid>
-    </item>
-    <item>
-      <title>Rationally Designing Efficient Biomass Carbon Electrocatalysts for H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Synthesis and Near-Neutral Zn&#8211;Air Batteries with Preliminary Machine Learning Guidance</title>
-      <link>https://doi.org/10.1021/acsami.5c00377</link>
-      <description>Jiawei He, Zijun Shen, Shengchun Hu, Yuying Zhao, Qixin Yuan, Yuhan Wu, Kang Sun, Shule Wang, Jianchun Jiang, Mengmeng Fan, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4409248983
-
-                Biomass-based carbon materials are considered promising metal-free catalysts for the 2e- oxygen reduction reaction (ORR) to synthesize H2O2 and act as air electrodes in Zn-air batteries. However, optimization of the catalyst structure is a complex process due to the diversity of biomass precursors and synthesis parameters. Machine learning, a new artificial intelligence technology, has recently been used in various fields owing to its ability to rapidly analyze large amounts of data and guide material synthesis. Consequently, we constructed a machine learning model based on previously reported experimental data and guided the fabrication of a boron-doped biomass carbon catalyst for the 2e- ORR. The achieved catalytic performance exceeded most reported ORR catalysts in terms of H2O2 selectivity (90-95% in broad potentials of 0.30-0.68 V vs reversible hydrogen electrode), stability (maintaining over 90% selectivity for 12 h), yield (3450 mmol gcatalyst-1 h-1), and Faraday efficiency (over 90%). We applied the catalysts to Zn-air batteries and showed a high capacity (2856 mAh g-1) and stability twice that of traditional commercial metal catalysts. Therefore, this study proposed an effective machine learning model to guide the fabrication of biomass-based catalysts in the field of electrocatalysis.</description>
-      <author>Jiawei He, Zijun Shen, Shengchun Hu, Yuying Zhao, Qixin Yuan, Yuhan Wu, Kang Sun, Shule Wang, Jianchun Jiang, Mengmeng Fan</author>
-      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c00377</guid>
-    </item>
-    <item>
-      <title>Molecular iron phthalocyanines anchoring onto ZIF-67-derived cobalt-carbon nanomaterials as bifunctional oxygen catalysts</title>
-      <link>https://doi.org/10.1007/s11708-025-1001-9</link>
-      <description>Xiaoyu Lin, Danna Lin, Weiwu Zhang, Jie Liu, Yanqiong Shen, Jinjie Qian, Frontiers in Energy. None(None)] 2025. https://openalex.org/W4409250226
-
-                No abstract</description>
-      <author>Xiaoyu Lin, Danna Lin, Weiwu Zhang, Jie Liu, Yanqiong Shen, Jinjie Qian</author>
-      <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11708-025-1001-9</guid>
-    </item>
-    <item>
-      <title>Designing MXenes and MBenes-Supported Composites for Superior Electrocatalytic Nitrogen Reduction Reaction</title>
-      <link>https://doi.org/10.4018/979-8-3693-9546-2.ch009</link>
-      <description>P. Selvakumar, Ritu Dahiya, T. C. Manjunath, Santosh Kumar Nathsharma, IGI Global eBooks. None(None)] 2025. https://openalex.org/W4409250446
-
-                The pivotal area of research in the quest for sustainable and efficient methods although highly effective for industrial ammonia production, is energy-intensive and reliant on fossil fuels, contributing significantly to global carbon emissions. NRR offers a promising alternative, enabling ammonia synthesis at ambient temperatures and pressures using renewable energy sources. This reaction, where nitrogen is converted into ammonia through electrochemical means, mitigate environmental demand for green technologies in chemical manufacturing. At the core of NRR is the challenge of nitrogen activation, as molecular Electrocatalysts play a crucial role in facilitating this reaction by lowering the energy barriers associated with nitrogen dissociation and subsequent hydrogenation. Various materials, including precious metals, transition metal compounds, and novel carbon-based nanostructures, have been explored for their catalytic properties.</description>
-      <author>P. Selvakumar, Ritu Dahiya, T. C. Manjunath, Santosh Kumar Nathsharma</author>
-      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.4018/979-8-3693-9546-2.ch009</guid>
-    </item>
-    <item>
-      <title>Enhanced electrocatalytic performance of in situ pyrolized iron oxide-embedded carbon composite for sustainable hydrogen production</title>
-      <link>https://doi.org/10.1016/j.diamond.2025.112305</link>
-      <description>Ranjan S. Shetti, M. Sreenivasulu, T. Maiyalagan, Khuloud A. Alibrahim, Abdullah N. Alodhayb, Nagaraj P. Shetti, Diamond and Related Materials. None(None)] 2025. https://openalex.org/W4409250906
-
-                No abstract</description>
-      <author>Ranjan S. Shetti, M. Sreenivasulu, T. Maiyalagan, Khuloud A. Alibrahim, Abdullah N. Alodhayb, Nagaraj P. Shetti</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2025.112305</guid>
-    </item>
     <item>
       <title>Transformative valorization of semi-coking wastewater: Design of rare earth/nitrogen-codoped porous carbon for efficient water splitting</title>
       <link>https://doi.org/10.1016/j.ijhydene.2025.03.436</link>
@@ -558,6 +468,66 @@
       <guid isPermaLink="true">https://doi.org/10.2118/224355-ms</guid>
     </item>
     <item>
+      <title>Theoretical Study of Ni- and Cu-Doped Molybdenum Ditelluride Electrocatalysts for Carbon Dioxide Reduction to Formic Acid and Carbon Monoxide</title>
+      <link>https://doi.org/10.3390/catal15040377</link>
+      <description>Bin Zhao, Junyou Wang, Rui Wan, Zhongyao Li, Catalysts. 15(4)] 2025. https://openalex.org/W4409409343
+
+                Under mild conditions, the effective conversion of carbon dioxide (CO2) into formic acid (HCOOH) and carbon monoxide (CO) represents a promising avenue for mitigating greenhouse gas emissions and addressing energy crises. In this work, we analyzed the electro-catalytic activities of six metals (Ti, Fe, Ni, Cu, Zn, and Cr) anchored on monolayer molybdenum telluride (TM@MoTe2) for the CO2 reduction reaction (CO2RR) from CO2 to HCOOH and CO. Compared to the reversible hydrogen electrode, the limiting potential for HCOOH production on Ni@MoTe2 is only about &#8722;0.38 V, and it is only about &#8722;0.20 V for the CO production on Cu@MoTe2. The limiting potential is concerned with the free energies of *OCHO and *COOH. Both the CO2RRs suppress the competing hydrogen evolution reaction (HER) and exhibit good selectivity for the desired reaction products. These features enable the efficient conversion of CO2 into HCOOH on Ni@MoTe2 or CO on Cu@MoTe2. Our calculations could provide valuable insights for the design and synthesis of high-performance catalysts based on MoTe2.</description>
+      <author>Bin Zhao, Junyou Wang, Rui Wan, Zhongyao Li</author>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal15040377</guid>
+    </item>
+    <item>
+      <title>Predicting Adhesion Energies of Late Transition Metal Nanoparticles to Oxide Support Surfaces Using Oxide Reducibility and Metal Oxophilicity: Toward Predicting Catalyst Performance</title>
+      <link>https://doi.org/10.1021/acscatal.4c06983</link>
+      <description>Nida Janulaitis, Charles T. Campbell, ACS Catalysis. None(None)] 2025. https://openalex.org/W4409410723
+
+                No abstract</description>
+      <author>Nida Janulaitis, Charles T. Campbell</author>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06983</guid>
+    </item>
+    <item>
+      <title>Thermodynamic Origin of Li Underpotential and Overpotential Deposition on Current Collectors</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c01078</link>
+      <description>Jiankun Pu, Venkatasubramanian Viswanathan, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4409413029
+
+                No abstract</description>
+      <author>Jiankun Pu, Venkatasubramanian Viswanathan</author>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c01078</guid>
+    </item>
+    <item>
+      <title>Improving MoS2 hydrogen evolution performance in anion exchange membrane water electrolysis by using LaNi5 alloy as a co-catalyst</title>
+      <link>https://doi.org/10.1016/j.jallcom.2025.180420</link>
+      <description>Hao Shang, Hang Shi, Haoliang Yu, Xiaohong Hu, Yan Xia, Journal of Alloys and Compounds. 1025(None)] 2025. https://openalex.org/W4409416058
+
+                No abstract</description>
+      <author>Hao Shang, Hang Shi, Haoliang Yu, Xiaohong Hu, Yan Xia</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2025.180420</guid>
+    </item>
+    <item>
+      <title>Dual-type-II photocatalytic overall water splitting in a single covalent organic frameworks monolayer with polarized linkage</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.04.141</link>
+      <description>Chonggui Zhong, Liqun Song, Xiangqian Lu, Wei Qin, Yingcai Fan, Jingping Yu, International Journal of Hydrogen Energy. 127(None)] 2025. https://openalex.org/W4409416234
+
+                No abstract</description>
+      <author>Chonggui Zhong, Liqun Song, Xiangqian Lu, Wei Qin, Yingcai Fan, Jingping Yu</author>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.04.141</guid>
+    </item>
+    <item>
+      <title>Vanadium-Modulated Molybdenum/Nickel-Based Multi-Heterostructures finely tailoring d-Band centers for electrocatalytic water splitting</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.137543</link>
+      <description>Guimin Wang, Xueting Li, J J Wang, Haijing Yan, Dou Zhang, Chungui Tian, Zhang Hai-sheng, Yanqing Jiao, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4409417383
+
+                No abstract</description>
+      <author>Guimin Wang, Xueting Li, J J Wang, Haijing Yan, Dou Zhang, Chungui Tian, Zhang Hai-sheng, Yanqing Jiao</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137543</guid>
+    </item>
+    <item>
       <title>Mesoporous Single-Crystalline Particles as Robust and Efficient Acidic Oxygen Evolution Catalysts</title>
       <link>https://doi.org/10.1021/jacs.4c18390</link>
       <description>Yong Wang, Yunpu Qin, Sijia Liu, Yongzhi Zhao, Luan Liu, Di Zhang, Shangqing Zhao, Jianfang Liu, Jie Wang, Yadong Liu, Haoyang Wu, Baorui Jia, Xuanhui Qu, Hao Li, Mingli Qin, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4409264530
@@ -576,6 +546,16 @@
       <author>Vitor Gama, Deepanjali Roy, Fernando V. Lima, Oishi Sanyal</author>
       <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c04553</guid>
+    </item>
+    <item>
+      <title>Effects of surface termination and tensile strain on the thermal conductivity of the Ti3C2Tx MXene</title>
+      <link>https://doi.org/10.1016/j.commatsci.2025.113890</link>
+      <description>Jun Jiang, Hao Jin, Zhenzhen Xia, Yuting Zong, Jingwei Sun, &#1041;&#1086; &#1051;&#1102;, Computational Materials Science. 253(None)] 2025. https://openalex.org/W4409417078
+
+                No abstract</description>
+      <author>Jun Jiang, Hao Jin, Zhenzhen Xia, Yuting Zong, Jingwei Sun, &#1041;&#1086; &#1051;&#1102;</author>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2025.113890</guid>
     </item>
   </channel>
 </rss>
