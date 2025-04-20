@@ -1,32 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sat Apr 19 01:25:21 2025
+Created on Sun Apr 20 01:42:09 2025
 
-Found 3 results from 2025-04-12 to 2025-04-19
+Found 1 results from 2025-04-13 to 2025-04-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Mixed-Integer Linear Programming Formulation with Embedded Machine Learning Surrogates for the Design of Chemical Process Families   
-
-OpenAlex: https://openalex.org/W4409361480    
-Open access: True
-    
-[Georgia Stinchfield](https://openalex.org/A5007541692), [Natali Khalife](https://openalex.org/A5117110943), [Bashar Ammari](https://openalex.org/A5092486945), [Joshua Morgan](https://openalex.org/A5112228170), [Miguel Zamarripa](https://openalex.org/A5015881602), [Carl D. Laird](https://openalex.org/A5030631754), Industrial & Engineering Chemistry Research. None(None)] 2025.https://doi.org/10.1021/acs.iecr.4c03913.
-    
-No abstract    
-
-    
-
-## A Classiﬁcation-based Methodology for the Estimation of Binary Surfactant Critical Micelle Concentrations   
-
-OpenAlex: https://openalex.org/W4409366110    
-Open access: True
-    
-[Chetan R Chilkunda](https://openalex.org/A5117112191), [John R. Kitchin](https://openalex.org/A5003442464), [Robert D. Tilton](https://openalex.org/A5037506064), Digital Discovery. None(None)] 2025.https://doi.org/10.1039/d5dd00058k.
-    
-The commercial formulation development for multicomponent complex ﬂuids is time-intensive and data-intensive. There is a need for tools to expedite this process. This work develops an experimental and analytical high-throughput...    
-
-    
 
 ## Repurposing a conventional oil refinery for biomass processing to aviation fuel: process design and techno-environmental evaluation for a real operating plant   
 

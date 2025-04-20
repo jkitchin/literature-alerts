@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 19 Apr 2025 01:25:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 01:42:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Mixed-Integer Linear Programming Formulation with Embedded Machine Learning Surrogates for the Design of Chemical Process Families</title>
-      <link>https://doi.org/10.1021/acs.iecr.4c03913</link>
-      <description>Georgia Stinchfield, Natali Khalife, Bashar Ammari, Joshua Morgan, Miguel Zamarripa, Carl D. Laird, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4409361480
-
-                No abstract</description>
-      <author>Georgia Stinchfield, Natali Khalife, Bashar Ammari, Joshua Morgan, Miguel Zamarripa, Carl D. Laird</author>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c03913</guid>
-    </item>
-    <item>
-      <title>A Classi&#64257;cation-based Methodology for the Estimation of Binary Surfactant Critical Micelle Concentrations</title>
-      <link>https://doi.org/10.1039/d5dd00058k</link>
-      <description>Chetan R Chilkunda, John R. Kitchin, Robert D. Tilton, Digital Discovery. None(None)] 2025. https://openalex.org/W4409366110
-
-                The commercial formulation development for multicomponent complex &#64258;uids is time-intensive and data-intensive. There is a need for tools to expedite this process. This work develops an experimental and analytical high-throughput...</description>
-      <author>Chetan R Chilkunda, John R. Kitchin, Robert D. Tilton</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5dd00058k</guid>
-    </item>
     <item>
       <title>Repurposing a conventional oil refinery for biomass processing to aviation fuel: process design and techno-environmental evaluation for a real operating plant</title>
       <link>https://doi.org/10.26434/chemrxiv-2025-1f1qk</link>
