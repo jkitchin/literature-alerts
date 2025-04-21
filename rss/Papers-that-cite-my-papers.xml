@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 20 Apr 2025 01:42:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 01:41:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Modulating the covalency of Ru-O bonds by dynamic reconstruction for efficient acidic oxygen evolution</title>
-      <link>https://doi.org/10.1038/s41467-025-58654-0</link>
-      <description>Luqi Wang, Sung&#8208;Fu Hung, Sheng Zhao, Yue Wang, Shengli Bi, Shaoxiong Li, Jianjie Ma, Chenchen Zhang, Ying Zhang, Linlin Li, Tsung&#8208;Yi Chen, Han&#8208;Yi Chen, Feng Hu, Yuping Wu, Shiling Peng, Nature Communications. 16(1)] 2025. https://openalex.org/W4409383439
-
-                Developing ruthenium-based oxide catalysts capable of suppressing lattice oxygen participation in the catalytic reaction process is crucial for maintaining stable oxygen evolution reaction (OER) under acidic conditions. Herein, we delicately construct a RuO2 nanoparticle-anchored LiCoO2 nanosheet electrocatalyst (RuO2/LiCoO2), achieving dynamic optimization of RuO2 during the reaction process and improving catalytic stability. Benefiting from the unique electrochemical delithiation characteristics of the LiCoO2 support, the covalency of the Ru-O bond is effectively regulated during the OER process. The weakened Ru-O covalent bond inhibits the participation of lattice oxygen in the catalytic reaction and ensures the continuous operation of the Ru active sites. Moreover, the extended Ru-O bond in the optimized RuO2/LiCoO2 catalyst reduces the formation energy barrier of the *OOH intermediates, accelerating the progress of the OER. As a result, the RuO2/LiCoO2 catalyst requires only an overpotential of 150 &#177; 2 mV at 10 mA cm-2 in 0.5 M H2SO4 and operates stably for 2000 h at 1 A cm-2 in a proton exchange membrane water electrolysis. This work opens new avenues for designing efficient ruthenium-based catalysts.</description>
-      <author>Luqi Wang, Sung&#8208;Fu Hung, Sheng Zhao, Yue Wang, Shengli Bi, Shaoxiong Li, Jianjie Ma, Chenchen Zhang, Ying Zhang, Linlin Li, Tsung&#8208;Yi Chen, Han&#8208;Yi Chen, Feng Hu, Yuping Wu, Shiling Peng</author>
-      <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-58654-0</guid>
-    </item>
-    <item>
-      <title>Phosphorus-doped CuS@NF: A promising bifunctional electrocatalyst for enhanced water splitting efficiency</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.163254</link>
-      <description>Javid Barqi Mirzanlou, Moein Mehri, A.H. Salehi, Mohammad Zarei&#8208;Jelyani, Yalda Tarpoudi Baheri, Anisa Mutiara Badri, S. Morteza Mousavi&#8208;Khoshdel, Ximeng Liu, Applied Surface Science. None(None)] 2025. https://openalex.org/W4409383592
-
-                No abstract</description>
-      <author>Javid Barqi Mirzanlou, Moein Mehri, A.H. Salehi, Mohammad Zarei&#8208;Jelyani, Yalda Tarpoudi Baheri, Anisa Mutiara Badri, S. Morteza Mousavi&#8208;Khoshdel, Ximeng Liu</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.163254</guid>
-    </item>
-    <item>
-      <title>Electrocatalytic performance of Ni-based high-entropy alloys with unique structural features in alkaline and seawater electrolysis under &#8722;10 &#176;C</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.04.071</link>
-      <description>Yong Pan, Fachang Zhao, Guoning Ji, Songlin Xu, Ruiyu Li, Huiya Zhou, Rongda Zhao, Depeng Zhao, Fufa Wu, International Journal of Hydrogen Energy. 127(None)] 2025. https://openalex.org/W4409384654
-
-                No abstract</description>
-      <author>Yong Pan, Fachang Zhao, Guoning Ji, Songlin Xu, Ruiyu Li, Huiya Zhou, Rongda Zhao, Depeng Zhao, Fufa Wu</author>
-      <pubDate>Sat, 12 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.04.071</guid>
-    </item>
-    <item>
-      <title>Pristine metal-organic framework electrocatalysts for hydrogen production: Role of electrocatalyst properties in basic media</title>
-      <link>https://doi.org/10.1016/j.clce.2025.100170</link>
-      <description>Liberty L. Mguni, Olga K. Mmelesi, Emmanuel Kweinor Tetteh, Nombeko Graceful Sijadu, Yali Yao, Sudesh Rathilal, Cleaner Chemical Engineering. None(None)] 2025. https://openalex.org/W4409385084
-
-                No abstract</description>
-      <author>Liberty L. Mguni, Olga K. Mmelesi, Emmanuel Kweinor Tetteh, Nombeko Graceful Sijadu, Yali Yao, Sudesh Rathilal</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.clce.2025.100170</guid>
-    </item>
-    <item>
-      <title>Automated Pynta-Based Curriculum for ML-Accelerated Calculation of Transition States</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c00305</link>
-      <description>Trevor Price, Saurabh Sivakumar, Matthew S. Johnson, Judit Z&#225;dor, Ambarish Kulkarni, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4409396104
-
-                No abstract</description>
-      <author>Trevor Price, Saurabh Sivakumar, Matthew S. Johnson, Judit Z&#225;dor, Ambarish Kulkarni</author>
-      <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c00305</guid>
-    </item>
     <item>
       <title>Assessment of CO2 Sequestration in a Stack Storage Complex in the San Juan Basin, NM</title>
       <link>https://doi.org/10.2118/224355-ms</link>
@@ -652,7 +602,7 @@
       <link>https://doi.org/10.1021/acs.jpclett.5c00419</link>
       <description>Kun Xie, Dongbin Wang, Long Lin, Pengtao Wang, Xiangyu Guo, Shengli Zhang, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4409574466
 
-                No abstract</description>
+                In recent years, the TMN4 moieties have demonstrated significant catalytic activity for oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) in graphene, CxNy, and other carbon-based two-dimensional (2D) support materials. Modifying the coordination number and species of N atoms in the TMN4 moieties has proven to be an effective approach to regulate their catalytic activity. In this research, by incorporating different triphenylene ligands, we have successfully constructed TMA2B2 (TM = Co, Rh, Ir; A/B = N, O, S, Se) moieties with varying coordination environments within 2D metal organic frameworks (MOFs), which are linked by TM and triphenylene. These moieties serve as an effective model to elucidate the structure-property relationship of two-dimensional 2D-MOFs in OER and ORR. Our findings confirm that alterations in the coordination environment can finely tune the d-band electron distribution of the TM within the TMA2B2 unit, particularly activating the dyz and dz2 orbitals of O2, thereby influencing the interactions between TM and key intermediates. We discovered that the regulatory effect of the coordination environment is closely linked to the electronegativity of the coordinating atoms, which led us to establish reliable descriptors such as &#966;1 and &#966;2 to elucidate the impact of coordination environments on the performance of OER/ORR. This criterion can be applied to numerous other 2D-MOFs and provides an in-depth understanding of the structure-activity relationship facilitates the development of highly efficient bifunctional electrocatalysts for OER and ORR applications.</description>
       <author>Kun Xie, Dongbin Wang, Long Lin, Pengtao Wang, Xiangyu Guo, Shengli Zhang</author>
       <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c00419</guid>
@@ -666,6 +616,46 @@
       <author>Ayushi Tripathi, Trenton J. Wolter, Robert J. Twieg, Manos Mavrikakis, Nicholas L. Abbott</author>
       <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.4c03397</guid>
+    </item>
+    <item>
+      <title>Atomic Layer Deposition of PdRu&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Alloy Nanoparticles for Hydrogen Evolution Reaction Electrocatalysis in Acidic Media</title>
+      <link>https://doi.org/10.1021/acsanm.5c00794</link>
+      <description>Yu Liu, Tao&#8208;Qing Zi, Yue Huang, Shuai Zhang, Jawad Ali Shah Syed, Li Gao, Wei-Min Li, Aidong Li, ACS Applied Nano Materials. None(None)] 2025. https://openalex.org/W4409579688
+
+                No abstract</description>
+      <author>Yu Liu, Tao&#8208;Qing Zi, Yue Huang, Shuai Zhang, Jawad Ali Shah Syed, Li Gao, Wei-Min Li, Aidong Li</author>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.5c00794</guid>
+    </item>
+    <item>
+      <title>A Pulsed Tandem Electrocatalysis Strategy for CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
+      <link>https://doi.org/10.1021/jacs.5c00633</link>
+      <description>Hao Sun, Jing&#8208;yao Liu, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4409582450
+
+                Electroreduction of CO2 to value-added C2 products remains hindered by sluggish C-C coupling kinetics and competing side reactions. Inspired by the tandem catalytic mechanisms of multienzyme systems, we designed a dual-site single-atom nanozyme (DSAN) comprising FeN4 and FeO4 sites (FeN4-FeO4). Density functional theory (DFT) calculations under constant potential reveal that the FeN4 site functions as a CO generator, while the FeO4 site facilitates CO migration, C-C coupling, and subsequent C2 product formation. To further optimize the catalytic efficiency, we introduced a pulsed electrocatalysis strategy by alternating between zero potential and -0.7 V. This approach dynamically modulates active-site functions: at -0.70 V, CO2 adsorption and *CH3CH2OH formation are facilitated, while at 0 V, CO migration and C-C coupling are enhanced due to the spin-state transitions during potential switching. Additionally, the zero potential suppresses excessive hydrogenation of key intermediates, thereby improving CH3CH2OH selectivity. These findings highlight the synergistic strategy integrating tandem catalysis and pulsed potential control, offering a novel and effective approach for CO2-to-C2 conversion using SAN catalysts.</description>
+      <author>Hao Sun, Jing&#8208;yao Liu</author>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c00633</guid>
+    </item>
+    <item>
+      <title>Synergistic electroreduction of nitrate to ammonia via bimetallic Fe-Cu sites supported on hierarchical porous carbon</title>
+      <link>https://doi.org/10.1016/j.tramat.2025.100030</link>
+      <description>Yufeng Li, Pengpeng Qiu, Chunhong Qi, Minghao Li, Meng Xie, Guihua Zhu, Wei Luo, No host. None(None)] 2025. https://openalex.org/W4409583434
+
+                No abstract</description>
+      <author>Yufeng Li, Pengpeng Qiu, Chunhong Qi, Minghao Li, Meng Xie, Guihua Zhu, Wei Luo</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.tramat.2025.100030</guid>
+    </item>
+    <item>
+      <title>In-situ formation of SrCO3 microcrystals-decorated Fe3O4 nanosheets as an efficient and long-lasting catalyst for overall water splitting</title>
+      <link>https://doi.org/10.1016/j.cej.2025.162842</link>
+      <description>Amina Lahrichi, Youness El Issmaeli, Bruno G. Pollet, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4409590121
+
+                No abstract</description>
+      <author>Amina Lahrichi, Youness El Issmaeli, Bruno G. Pollet</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.162842</guid>
     </item>
     <item>
       <title>Fundamental Approaches to Corrosion Resistant Alloy Development</title>
