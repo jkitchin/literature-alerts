@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Apr 2025 01:41:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 01:37:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Assessment of CO2 Sequestration in a Stack Storage Complex in the San Juan Basin, NM</title>
-      <link>https://doi.org/10.2118/224355-ms</link>
-      <description>Vida Ama Bodi, William Ampomah, Dung Bui, Najmudeen Sibaweihi, No host. None(None)] 2025. https://openalex.org/W4409400080
-
-                ABSTRACT Effective CO2 sequestration requires not only minimizing carbon emissions but also optimizing storage efficiency while ensuring the integrity of storage sites. This research focuses on the assessment of CO2 injection in a stack storage system, specifically targeting the Entrada (high-permeability) and Bluff (low-permeability) formations within the San Juan Basin. By leveraging a single well to inject CO2 across multiple formations, the goal is to enhance storage efficiency, reduce the spatial extent of CO2 plumes, and minimize the area requiring long-term monitoring. A high-resolution hydrodynamic reservoir model was developed and validated using historical injection rates and pressure data from nearby saltwater disposal wells. This model was used to simulate 30 years of CO2 injection, aiming to store 50MtCO2f through a stacked storage configuration. Three well-completion strategies were explored: (1) a base case with injection into Entrada only, (2) a case with commingled injection into both formations through a single well, and (3) 6 scenarios using smart well-completion techniques to simultaneously inject CO2 into the Entrada and Bluff formations at controlled rates. Different injection rates were tested to identify the best scenario that minimizes CO2 plume size while meeting the storage target. Simulation results from the base case of injecting into Entrada only revealed that at an injection rate of 80MMSCFD, 50MtCO2 can be injected over 30 years. The commingled injection case showed that over 90% of injected CO2 entered the Entrada formation, leading to larger plume size (64.69 square miles after 100 years of post-injection monitoring) and an expanded area requiring monitoring. In contrast, the optimized injection strategy, with CO2 allocated at varying rates (25%, 31%, and 34% of the total injection rate of 80MMSCD) to the Bluff formation, resulted in the best scenario case significantly reducing the Entrada plume spatial extent by 22% while increasing the plume size in the Bluff formation by approximately 94%, accompanied by a 77% increment in the storage capacity. Ultimately, the best scenario reduced the total area requiring monitoring, demonstrating the effectiveness of a stack storage approach in controlling CO2 migration and pressure fronts. This study highlights the importance of optimizing CO2 in stacked storage systems to maximize sequestration efficiency. By carefully managing injection rates, the spread of CO2 plumes can be controlled, reducing monitoring costs and ensuring safe, long-term storage. The findings provide valuable insights for improving the practical implementation of CO2 capture and storage projects using stack storage systems.</description>
-      <author>Vida Ama Bodi, William Ampomah, Dung Bui, Najmudeen Sibaweihi</author>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2118/224355-ms</guid>
-    </item>
-    <item>
-      <title>Theoretical Study of Ni- and Cu-Doped Molybdenum Ditelluride Electrocatalysts for Carbon Dioxide Reduction to Formic Acid and Carbon Monoxide</title>
-      <link>https://doi.org/10.3390/catal15040377</link>
-      <description>Bin Zhao, Junyou Wang, Rui Wan, Zhongyao Li, Catalysts. 15(4)] 2025. https://openalex.org/W4409409343
-
-                Under mild conditions, the effective conversion of carbon dioxide (CO2) into formic acid (HCOOH) and carbon monoxide (CO) represents a promising avenue for mitigating greenhouse gas emissions and addressing energy crises. In this work, we analyzed the electro-catalytic activities of six metals (Ti, Fe, Ni, Cu, Zn, and Cr) anchored on monolayer molybdenum telluride (TM@MoTe2) for the CO2 reduction reaction (CO2RR) from CO2 to HCOOH and CO. Compared to the reversible hydrogen electrode, the limiting potential for HCOOH production on Ni@MoTe2 is only about &#8722;0.38 V, and it is only about &#8722;0.20 V for the CO production on Cu@MoTe2. The limiting potential is concerned with the free energies of *OCHO and *COOH. Both the CO2RRs suppress the competing hydrogen evolution reaction (HER) and exhibit good selectivity for the desired reaction products. These features enable the efficient conversion of CO2 into HCOOH on Ni@MoTe2 or CO on Cu@MoTe2. Our calculations could provide valuable insights for the design and synthesis of high-performance catalysts based on MoTe2.</description>
-      <author>Bin Zhao, Junyou Wang, Rui Wan, Zhongyao Li</author>
-      <pubDate>Sat, 12 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/catal15040377</guid>
-    </item>
-    <item>
-      <title>Predicting Adhesion Energies of Late Transition Metal Nanoparticles to Oxide Support Surfaces Using Oxide Reducibility and Metal Oxophilicity: Toward Predicting Catalyst Performance</title>
-      <link>https://doi.org/10.1021/acscatal.4c06983</link>
-      <description>Nida Janulaitis, Charles T. Campbell, ACS Catalysis. None(None)] 2025. https://openalex.org/W4409410723
-
-                No abstract</description>
-      <author>Nida Janulaitis, Charles T. Campbell</author>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06983</guid>
-    </item>
-    <item>
-      <title>Thermodynamic Origin of Li Underpotential and Overpotential Deposition on Current Collectors</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c01078</link>
-      <description>Jiankun Pu, Venkatasubramanian Viswanathan, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4409413029
-
-                No abstract</description>
-      <author>Jiankun Pu, Venkatasubramanian Viswanathan</author>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c01078</guid>
-    </item>
-    <item>
-      <title>Improving MoS2 hydrogen evolution performance in anion exchange membrane water electrolysis by using LaNi5 alloy as a co-catalyst</title>
-      <link>https://doi.org/10.1016/j.jallcom.2025.180420</link>
-      <description>Hao Shang, Hang Shi, Haoliang Yu, Xiaohong Hu, Yan Xia, Journal of Alloys and Compounds. 1025(None)] 2025. https://openalex.org/W4409416058
-
-                No abstract</description>
-      <author>Hao Shang, Hang Shi, Haoliang Yu, Xiaohong Hu, Yan Xia</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2025.180420</guid>
-    </item>
-    <item>
-      <title>Dual-type-II photocatalytic overall water splitting in a single covalent organic frameworks monolayer with polarized linkage</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.04.141</link>
-      <description>Chonggui Zhong, Liqun Song, Xiangqian Lu, Wei Qin, Yingcai Fan, Jingping Yu, International Journal of Hydrogen Energy. 127(None)] 2025. https://openalex.org/W4409416234
-
-                No abstract</description>
-      <author>Chonggui Zhong, Liqun Song, Xiangqian Lu, Wei Qin, Yingcai Fan, Jingping Yu</author>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.04.141</guid>
-    </item>
-    <item>
-      <title>Vanadium-Modulated Molybdenum/Nickel-Based Multi-Heterostructures finely tailoring d-Band centers for electrocatalytic water splitting</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.137543</link>
-      <description>Guimin Wang, Xueting Li, J J Wang, Haijing Yan, Dou Zhang, Chungui Tian, Zhang Hai-sheng, Yanqing Jiao, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4409417383
-
-                No abstract</description>
-      <author>Guimin Wang, Xueting Li, J J Wang, Haijing Yan, Dou Zhang, Chungui Tian, Zhang Hai-sheng, Yanqing Jiao</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137543</guid>
-    </item>
     <item>
       <title>First-principles insights into metallic doping effects on yttrium twin grain boundary</title>
       <link>https://doi.org/10.1016/j.chemphys.2025.112742</link>
@@ -658,6 +588,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.162842</guid>
     </item>
     <item>
+      <title>Computational insights into the photocatalytic conversion of CO2 to C2H4 on synergistic dual sites in tandem rhenium-bipyridine/copper-porphyrinic system</title>
+      <link>https://doi.org/10.1016/j.jcat.2025.116144</link>
+      <description>Debo Ding, Xiahe Chen, Hongli Wu, Hai&#8208;Min Shen, Teng&#8208;Shuo Zhang, Keke Wang, Yun&#8208;Fang Yang, Yuanbin She, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4409605256
+
+                No abstract</description>
+      <author>Debo Ding, Xiahe Chen, Hongli Wu, Hai&#8208;Min Shen, Teng&#8208;Shuo Zhang, Keke Wang, Yun&#8208;Fang Yang, Yuanbin She</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116144</guid>
+    </item>
+    <item>
+      <title>First-Principles Study on the CO2 Reduction Reaction (CO2RR) Performance of h-BN-Based Single-Atom Catalysts Modified with Transition Metals</title>
+      <link>https://doi.org/10.3390/nano15080628</link>
+      <description>Xiansheng Yu, Can Zhao, Qiaoyue Chen, Wei Lai, Xucai Zhao, Lili Zhang, Liqian Wu, Yineng Huang, Nanomaterials. 15(8)] 2025. https://openalex.org/W4409607392
+
+                The reasonable design of low-cost, high-activity single-atom catalysts (SACs) is crucial for achieving highly efficient electrochemical CO2RR. In this study, we systematically explore, using density functional theory (DFT), the performance of transition metal (TM = Mn, Fe, Co, Ni, Cu, Zn)-doped defect-type hexagonal boron nitride (h-BN) SACs TM@B&#8722;1N (B vacancy) and TM@BN&#8722;1 (N vacancy) in both CO2RR and the hydrogen evolution reaction (HER). Integrated crystal orbital Hamiltonian population (ICOHP) analysis reveals that these catalysts weaken the sp orbital hybridization of CO2, which promotes the formation of radical-state intermediates and significantly reduces the energy barrier for the hydrogenation reaction. Therefore, these theoretical calculations indicate that the Mn, Fe, Co@B&#8722;1N, and Co@BN&#8722;1 systems demonstrate excellent CO2 chemical adsorption properties. In the CO2RR pathway, Mn@B&#8722;1N exhibits the lowest limiting potential (UL = &#8722;0.524 V), and its higher d-band center (&#8722;0.334 eV), which aligns optimally with the adsorbate orbitals, highlights its excellent catalytic activity. Notably, Co@BN&#8722;1 exhibits the highest activity in HER, while UL is &#8722;0.217 V. Furthermore, comparative analysis reveals that Mn@B&#8722;1N shows 16.4 times higher selectivity for CO2RR than for HER. This study provides a theoretical framework for designing bifunctional SACs with selective reaction pathways. Mn@B&#8722;1N shows considerable potential for selective CO2 conversion, while Co@BN&#8722;1 demonstrates promising prospects for efficient hydrogen production.</description>
+      <author>Xiansheng Yu, Can Zhao, Qiaoyue Chen, Wei Lai, Xucai Zhao, Lili Zhang, Liqian Wu, Yineng Huang</author>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/nano15080628</guid>
+    </item>
+    <item>
       <title>Fundamental Approaches to Corrosion Resistant Alloy Development</title>
       <link>https://doi.org/10.5006/c2023-19410</link>
       <description>Christopher D Taylor, conference. None(None)] 2023. https://openalex.org/W4409501561
@@ -666,16 +616,6 @@
       <author>Christopher D Taylor</author>
       <pubDate>Sun, 19 Mar 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5006/c2023-19410</guid>
-    </item>
-    <item>
-      <title>Effects of surface termination and tensile strain on the thermal conductivity of the Ti3C2Tx MXene</title>
-      <link>https://doi.org/10.1016/j.commatsci.2025.113890</link>
-      <description>Jun Jiang, Hao Jin, Zhenzhen Xia, Yuting Zong, Jingwei Sun, &#1041;&#1086; &#1051;&#1102;, Computational Materials Science. 253(None)] 2025. https://openalex.org/W4409417078
-
-                No abstract</description>
-      <author>Jun Jiang, Hao Jin, Zhenzhen Xia, Yuting Zong, Jingwei Sun, &#1041;&#1086; &#1051;&#1102;</author>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2025.113890</guid>
     </item>
     <item>
       <title>First-Principles Investigation of the Influence of Rare Earth Element Doping on the Corrosion Characteristics of Mg (0001) surface</title>

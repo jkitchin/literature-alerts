@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Apr 21 01:41:29 2025
+Created on Tue Apr 22 01:37:45 2025
 
-Found 70 results from 2025-04-14 to 2025-04-21
+Found 64 results from 2025-04-15 to 2025-04-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967]]
@@ -16,153 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* Assessment of CO2 Sequestration in a Stack Storage Complex in the San Juan Basin, NM  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409400080
-:TOPICS: CO2 Sequestration and Geologic Interactions, Methane Hydrates and Related Phenomena, Groundwater flow and contamination studies
-:PUBLICATION_DATE: 2025-04-14
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2118/224355-ms")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409400080"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409400080"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409400080"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409400080 (Open access: False)
-    
-[[https://openalex.org/A5091985572][Vida Ama Bodi]], [[https://openalex.org/A5014163540][William Ampomah]], [[https://openalex.org/A5072296988][Dung Bui]], [[https://openalex.org/A5082624549][Najmudeen Sibaweihi]], No host. None(None)] 2025. https://doi.org/10.2118/224355-ms 
-     
-ABSTRACT Effective CO2 sequestration requires not only minimizing carbon emissions but also optimizing storage efficiency while ensuring the integrity of storage sites. This research focuses on the assessment of CO2 injection in a stack storage system, specifically targeting the Entrada (high-permeability) and Bluff (low-permeability) formations within the San Juan Basin. By leveraging a single well to inject CO2 across multiple formations, the goal is to enhance storage efficiency, reduce the spatial extent of CO2 plumes, and minimize the area requiring long-term monitoring. A high-resolution hydrodynamic reservoir model was developed and validated using historical injection rates and pressure data from nearby saltwater disposal wells. This model was used to simulate 30 years of CO2 injection, aiming to store 50MtCO2f through a stacked storage configuration. Three well-completion strategies were explored: (1) a base case with injection into Entrada only, (2) a case with commingled injection into both formations through a single well, and (3) 6 scenarios using smart well-completion techniques to simultaneously inject CO2 into the Entrada and Bluff formations at controlled rates. Different injection rates were tested to identify the best scenario that minimizes CO2 plume size while meeting the storage target. Simulation results from the base case of injecting into Entrada only revealed that at an injection rate of 80MMSCFD, 50MtCO2 can be injected over 30 years. The commingled injection case showed that over 90% of injected CO2 entered the Entrada formation, leading to larger plume size (64.69 square miles after 100 years of post-injection monitoring) and an expanded area requiring monitoring. In contrast, the optimized injection strategy, with CO2 allocated at varying rates (25%, 31%, and 34% of the total injection rate of 80MMSCD) to the Bluff formation, resulted in the best scenario case significantly reducing the Entrada plume spatial extent by 22% while increasing the plume size in the Bluff formation by approximately 94%, accompanied by a 77% increment in the storage capacity. Ultimately, the best scenario reduced the total area requiring monitoring, demonstrating the effectiveness of a stack storage approach in controlling CO2 migration and pressure fronts. This study highlights the importance of optimizing CO2 in stacked storage systems to maximize sequestration efficiency. By carefully managing injection rates, the spread of CO2 plumes can be controlled, reducing monitoring costs and ensuring safe, long-term storage. The findings provide valuable insights for improving the practical implementation of CO2 capture and storage projects using stack storage systems.    
-
-    
-
-* Theoretical Study of Ni- and Cu-Doped Molybdenum Ditelluride Electrocatalysts for Carbon Dioxide Reduction to Formic Acid and Carbon Monoxide  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409409343
-:TOPICS: CO2 Reduction Techniques and Catalysts, Carbon dioxide utilization in catalysis, Catalytic Processes in Materials Science
-:PUBLICATION_DATE: 2025-04-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/catal15040377")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409409343"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409409343"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409409343"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409409343 (Open access: True)
-    
-[[https://openalex.org/A5100729857][Bin Zhao]], [[https://openalex.org/A5101994096][Junyou Wang]], [[https://openalex.org/A5100449412][Rui Wan]], [[https://openalex.org/A5048114341][Zhongyao Li]], Catalysts. 15(4)] 2025. https://doi.org/10.3390/catal15040377 
-     
-Under mild conditions, the effective conversion of carbon dioxide (CO2) into formic acid (HCOOH) and carbon monoxide (CO) represents a promising avenue for mitigating greenhouse gas emissions and addressing energy crises. In this work, we analyzed the electro-catalytic activities of six metals (Ti, Fe, Ni, Cu, Zn, and Cr) anchored on monolayer molybdenum telluride (TM@MoTe2) for the CO2 reduction reaction (CO2RR) from CO2 to HCOOH and CO. Compared to the reversible hydrogen electrode, the limiting potential for HCOOH production on Ni@MoTe2 is only about −0.38 V, and it is only about −0.20 V for the CO production on Cu@MoTe2. The limiting potential is concerned with the free energies of *OCHO and *COOH. Both the CO2RRs suppress the competing hydrogen evolution reaction (HER) and exhibit good selectivity for the desired reaction products. These features enable the efficient conversion of CO2 into HCOOH on Ni@MoTe2 or CO on Cu@MoTe2. Our calculations could provide valuable insights for the design and synthesis of high-performance catalysts based on MoTe2.    
-
-    
-
-* Predicting Adhesion Energies of Late Transition Metal Nanoparticles to Oxide Support Surfaces Using Oxide Reducibility and Metal Oxophilicity: Toward Predicting Catalyst Performance  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409410723
-:TOPICS: Catalytic Processes in Materials Science, Catalysis and Oxidation Reactions, Electrocatalysts for Energy Conversion
-:PUBLICATION_DATE: 2025-04-14
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06983")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409410723"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409410723"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409410723"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409410723 (Open access: False)
-    
-[[https://openalex.org/A5072643747][Nida Janulaitis]], [[https://openalex.org/A5043532223][Charles T. Campbell]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.4c06983 
-     
-No abstract    
-
-    
-
-* Thermodynamic Origin of Li Underpotential and Overpotential Deposition on Current Collectors  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409413029
-:TOPICS: Advancements in Battery Materials, Advanced Battery Technologies Research, Advanced Battery Materials and Technologies
-:PUBLICATION_DATE: 2025-04-14
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.5c01078")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409413029"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409413029"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409413029"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409413029 (Open access: False)
-    
-[[https://openalex.org/A5002334084][Jiankun Pu]], [[https://openalex.org/A5081036535][Venkatasubramanian Viswanathan]], The Journal of Physical Chemistry C. None(None)] 2025. https://doi.org/10.1021/acs.jpcc.5c01078 
-     
-No abstract    
-
-    
-
-* Improving MoS2 hydrogen evolution performance in anion exchange membrane water electrolysis by using LaNi5 alloy as a co-catalyst  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409416058
-:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Hydrogen Storage and Materials
-:PUBLICATION_DATE: 2025-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jallcom.2025.180420")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409416058"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409416058"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409416058"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409416058 (Open access: False)
-    
-[[https://openalex.org/A5060202464][Hao Shang]], [[https://openalex.org/A5072233763][Hang Shi]], [[https://openalex.org/A5101385587][Haoliang Yu]], [[https://openalex.org/A5100744553][Xiaohong Hu]], [[https://openalex.org/A5101301251][Yan Xia]], Journal of Alloys and Compounds. 1025(None)] 2025. https://doi.org/10.1016/j.jallcom.2025.180420 
-     
-No abstract    
-
-    
-
-* Dual-type-II photocatalytic overall water splitting in a single covalent organic frameworks monolayer with polarized linkage  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409416234
-:TOPICS: Advanced Photocatalysis Techniques, Covalent Organic Framework Applications, Electrocatalysts for Energy Conversion
-:PUBLICATION_DATE: 2025-04-14
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2025.04.141")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409416234"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409416234"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409416234"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409416234 (Open access: False)
-    
-[[https://openalex.org/A5006464524][Chonggui Zhong]], [[https://openalex.org/A5018562036][Liqun Song]], [[https://openalex.org/A5049521400][Xiangqian Lu]], [[https://openalex.org/A5041358497][Wei Qin]], [[https://openalex.org/A5041648101][Yingcai Fan]], [[https://openalex.org/A5055749688][Jingping Yu]], International Journal of Hydrogen Energy. 127(None)] 2025. https://doi.org/10.1016/j.ijhydene.2025.04.141 
-     
-No abstract    
-
-    
-
-* Vanadium-Modulated Molybdenum/Nickel-Based Multi-Heterostructures finely tailoring d-Band centers for electrocatalytic water splitting  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409417383
-:TOPICS: Electrocatalysts for Energy Conversion, Ammonia Synthesis and Nitrogen Reduction, Molecular Junctions and Nanostructures
-:PUBLICATION_DATE: 2025-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2025.137543")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409417383"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409417383"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409417383"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409417383 (Open access: False)
-    
-[[https://openalex.org/A5070239826][Guimin Wang]], [[https://openalex.org/A5100685995][Xueting Li]], [[https://openalex.org/A5065027448][J J Wang]], [[https://openalex.org/A5106715998][Haijing Yan]], [[https://openalex.org/A5100449290][Dou Zhang]], [[https://openalex.org/A5101502916][Chungui Tian]], [[https://openalex.org/A5076829991][Zhang Hai-sheng]], [[https://openalex.org/A5013189975][Yanqing Jiao]], Journal of Colloid and Interface Science. None(None)] 2025. https://doi.org/10.1016/j.jcis.2025.137543 
-     
-No abstract    
-
-    
 
 * First-principles insights into metallic doping effects on yttrium twin grain boundary  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -1382,6 +1235,48 @@ No abstract
 
     
 
+* Computational insights into the photocatalytic conversion of CO2 to C2H4 on synergistic dual sites in tandem rhenium-bipyridine/copper-porphyrinic system  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4409605256
+:TOPICS: CO2 Reduction Techniques and Catalysts, Porphyrin and Phthalocyanine Chemistry, Metal-Organic Frameworks: Synthesis and Applications
+:PUBLICATION_DATE: 2025-04-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcat.2025.116144")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409605256"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409605256"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409605256"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4409605256 (Open access: False)
+    
+[[https://openalex.org/A5035495646][Debo Ding]], [[https://openalex.org/A5001484678][Xiahe Chen]], [[https://openalex.org/A5084225055][Hongli Wu]], [[https://openalex.org/A5076298842][Hai‐Min Shen]], [[https://openalex.org/A5058400750][Teng‐Shuo Zhang]], [[https://openalex.org/A5100622651][Keke Wang]], [[https://openalex.org/A5027346781][Yun‐Fang Yang]], [[https://openalex.org/A5063346330][Yuanbin She]], Journal of Catalysis. None(None)] 2025. https://doi.org/10.1016/j.jcat.2025.116144 
+     
+No abstract    
+
+    
+
+* First-Principles Study on the CO2 Reduction Reaction (CO2RR) Performance of h-BN-Based Single-Atom Catalysts Modified with Transition Metals  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4409607392
+:TOPICS: Ammonia Synthesis and Nitrogen Reduction, CO2 Reduction Techniques and Catalysts, Catalytic Processes in Materials Science
+:PUBLICATION_DATE: 2025-04-20
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/nano15080628")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409607392"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409607392"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409607392"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4409607392 (Open access: True)
+    
+[[https://openalex.org/A5023940942][Xiansheng Yu]], [[https://openalex.org/A5111558203][Can Zhao]], [[https://openalex.org/A5021583520][Qiaoyue Chen]], [[https://openalex.org/A5015135592][Wei Lai]], [[https://openalex.org/A5111349513][Xucai Zhao]], [[https://openalex.org/A5100461212][Lili Zhang]], [[https://openalex.org/A5091082915][Liqian Wu]], [[https://openalex.org/A5072588866][Yineng Huang]], Nanomaterials. 15(8)] 2025. https://doi.org/10.3390/nano15080628 
+     
+The reasonable design of low-cost, high-activity single-atom catalysts (SACs) is crucial for achieving highly efficient electrochemical CO2RR. In this study, we systematically explore, using density functional theory (DFT), the performance of transition metal (TM = Mn, Fe, Co, Ni, Cu, Zn)-doped defect-type hexagonal boron nitride (h-BN) SACs TM@B−1N (B vacancy) and TM@BN−1 (N vacancy) in both CO2RR and the hydrogen evolution reaction (HER). Integrated crystal orbital Hamiltonian population (ICOHP) analysis reveals that these catalysts weaken the sp orbital hybridization of CO2, which promotes the formation of radical-state intermediates and significantly reduces the energy barrier for the hydrogenation reaction. Therefore, these theoretical calculations indicate that the Mn, Fe, Co@B−1N, and Co@BN−1 systems demonstrate excellent CO2 chemical adsorption properties. In the CO2RR pathway, Mn@B−1N exhibits the lowest limiting potential (UL = −0.524 V), and its higher d-band center (−0.334 eV), which aligns optimally with the adsorbate orbitals, highlights its excellent catalytic activity. Notably, Co@BN−1 exhibits the highest activity in HER, while UL is −0.217 V. Furthermore, comparative analysis reveals that Mn@B−1N shows 16.4 times higher selectivity for CO2RR than for HER. This study provides a theoretical framework for designing bifunctional SACs with selective reaction pathways. Mn@B−1N shows considerable potential for selective CO2 conversion, while Co@BN−1 demonstrates promising prospects for efficient hydrogen production.    
+
+    
+
 * Fundamental Approaches to Corrosion Resistant Alloy Development  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4409501561
@@ -1400,27 +1295,6 @@ OpenAlex: https://openalex.org/W4409501561 (Open access: False)
 [[https://openalex.org/A5103698452][Christopher D Taylor]], conference. None(None)] 2023. https://doi.org/10.5006/c2023-19410 
      
 Abstract Given that the foundation of aqueous corrosion of alloys is rooted in electrochemistry, the search for new alloy formulations should be derived from the fundamental electrochemical properties of the elements and their compounds. Properties of relevance include the standard reduction potential of the elements, the electronic work function, the newly re-discovered property of the ionic work function, as well as additional properties such as the cohesive energy, the oxide formation potential, and the ability to catalyze the important cathodic reactions such as oxygen reduction reaction and hydrogen reduction reaction. Following trends in “materials informatics” an approach has been developed to create work flows for exploring new element combinations that can be optimized for one or more of these features. We demonstrate in this work how the approach may be followed to suggest new alloys with superior resistance to localized corrosion, and how it may be expanded to include microstructural characteristics as well as to provide a basis for more quantitative predictions of corrosion rates in a given environmental condition.    
-
-    
-
-* Effects of surface termination and tensile strain on the thermal conductivity of the Ti3C2Tx MXene  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409417078
-:TOPICS: MXene and MAX Phase Materials, 2D Materials and Applications, Ferroelectric and Negative Capacitance Devices
-:PUBLICATION_DATE: 2025-04-14
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.commatsci.2025.113890")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409417078"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409417078"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409417078"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409417078 (Open access: False)
-    
-[[https://openalex.org/A5033106248][Jun Jiang]], [[https://openalex.org/A5103409003][Hao Jin]], [[https://openalex.org/A5103419972][Zhenzhen Xia]], [[https://openalex.org/A5113102884][Yuting Zong]], [[https://openalex.org/A5065550612][Jingwei Sun]], [[https://openalex.org/A5115587783][Бо Лю]], Computational Materials Science. 253(None)] 2025. https://doi.org/10.1016/j.commatsci.2025.113890 
-     
-No abstract    
 
     
 
