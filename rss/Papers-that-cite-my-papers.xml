@@ -4,139 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Apr 2025 01:37:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 01:37:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>First-principles insights into metallic doping effects on yttrium twin grain boundary</title>
-      <link>https://doi.org/10.1016/j.chemphys.2025.112742</link>
-      <description>Guanlin Lyu, Yuanxu Zhu, Yuguo Sun, Panpan Gao, Ping Qian, Chemical Physics. None(None)] 2025. https://openalex.org/W4409419596
-
-                No abstract</description>
-      <author>Guanlin Lyu, Yuanxu Zhu, Yuguo Sun, Panpan Gao, Ping Qian</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.chemphys.2025.112742</guid>
-    </item>
-    <item>
-      <title>Static Subspace Approximation for Random Phase Approximation Correlation Energies: Applications to Materials for Catalysis and Electrochemistry</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c01276</link>
-      <description>Jacob M. Clary, Olivia Hull, Daniel Weinberg, Ravishankar Sundararaman, Mauro Del Ben, Derek Vigil&#8208;Fowler, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4409424379
-
-                Modeling complex materials using high-fidelity, ab initio methods at low cost is a fundamental goal for quantum chemical software packages. The GW approximation and random phase approximation (RPA) provide a unified description of both electronic structure and total energies using the same physics in a many-body perturbative approach that can be more accurate than generalized-gradient density functional theory (DFT) methods. However, GW/RPA implementations have historically been limited to either specific materials classes or application toward small chemical systems. The static subspace approximation allows for reduced cost full-frequency GW/RPA calculations and has previously been benchmarked thoroughly for GW calculations. Here, we describe our approach to including partial occupations of electronic orbitals in full-frequency GW and RPA calculations for the study of electrocatalysts. We benchmarked RPA total energy calculations using the subspace approximation across a diverse test suite of materials for a variety of computational parameters. The benchmarking quantifies the impact of different extrapolation procedures for representing the static polarizability at infinite screened cutoff, and shows that using screened cutoffs above 20-25 Ryd result in diminishing accuracy returns for predicting RPA total energies. Additionally, for moderately sized electrocatalytic models, 2-3 times fewer computational resources are used to compute RPA total energies by representing the static polarizability with 20-30% of the static subspace basis, with an error of approximately 0.01 eV or better in RPA adsorption energy calculations. Finally, we show that for these electrochemical models RPA can shift DFT adsorption energy shifts by up to 0.5 eV and that GW can frequently shift DFT eigenvalues of surface and adsorbate states by approximately 0.5-1 eV.</description>
-      <author>Jacob M. Clary, Olivia Hull, Daniel Weinberg, Ravishankar Sundararaman, Mauro Del Ben, Derek Vigil&#8208;Fowler</author>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c01276</guid>
-    </item>
-    <item>
-      <title>Space Charge, Modulating the Catalytic Activity of Single-Atom Metal Catalysts</title>
-      <link>https://doi.org/10.1021/jacs.4c17413</link>
-      <description>Hansol Choi, Seung&#8208;Jae Shin, Geunsu Bae, Junsic Cho, Man Ho Han, Moulay Tahar Sougrati, Fr&#233;d&#233;ric Jaouen, Kug&#8208;Seung Lee, Hyung&#8208;Suk Oh, Hyungjun Kim, Chang Hyuck Choi, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4409425033
-
-                Potential-induced electrode charging is a prerequisite to initiate electrochemical reactions at the electrode-electrolyte interface. The 'interface space charge' could dramatically alter the reaction environment and the charge density of the active site, both of which potentially affect the electrochemical activity. However, our understanding of the electrocatalytic role of space charge has been limited. Here, we separately modulate the amount of space charge (characterized by the areal density, &#963;) with maintaining the electrochemical potential for the oxygen reduction reaction (ORR) at the same level, by exploiting the unique structural feature of MeNC. We reveal that changes in &#963; control the ORR activity, which is computationally explained by the inductive polarization of the charge density at the active sites, affecting their turnover rates. To guide catalyst design including the space charge effect, we develop a new descriptor, explaining the activity trend in various metal centers and pH conditions using a single volcano. These findings offer fresh insights into the role of space charge in electrocatalysis, providing a new framework for optimizing catalyst design and performance.</description>
-      <author>Hansol Choi, Seung&#8208;Jae Shin, Geunsu Bae, Junsic Cho, Man Ho Han, Moulay Tahar Sougrati, Fr&#233;d&#233;ric Jaouen, Kug&#8208;Seung Lee, Hyung&#8208;Suk Oh, Hyungjun Kim, Chang Hyuck Choi</author>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c17413</guid>
-    </item>
-    <item>
-      <title>A Pt1Co1/CeO2 bimetallic single-atom catalyst with a strong Pt-Co synergistic effect for efficient oxidation of benzene</title>
-      <link>https://doi.org/10.1016/j.apcatb.2025.125369</link>
-      <description>Siyi Ma, Chao Feng, Fang Dong, Shixing Wu, Weiliang Han, Weigao Han, Zhicheng Tang, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4409429227
-
-                No abstract</description>
-      <author>Siyi Ma, Chao Feng, Fang Dong, Shixing Wu, Weiliang Han, Weigao Han, Zhicheng Tang</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125369</guid>
-    </item>
-    <item>
-      <title>Advancing CO&lt;sub&gt;2&lt;/sub&gt; Conversion with Cu&#8208;LDHs: A Review of Computational and Experimental Studies</title>
-      <link>https://doi.org/10.1002/tcr.202500014</link>
-      <description>Fabio Loprete, Eleonora Tosi Brandi, Francesco Calcagno, Jacopo De Maron, Andrea Fasolini, Riccardo Tarroni, Francesco Basile, Ivan Rivalta, The Chemical Record. None(None)] 2025. https://openalex.org/W4409431547
-
-                Abstract Layered Double Hydroxides (LDHs) are versatile materials with tuneable properties. They show promising electro&#8208; and photo&#8208;catalytic activity in the activation and conversion of CO 2 . Their unique properties make LDHs pivotal materials in emerging sustainable strategies for mitigating the effect of CO 2 emissions. However, the intricate structure&#8208;property relationship inherent to LDHs challenges their rational design. In this review, we provide a comprehensive overview of both experimental and computational studies about LDHs for photo&#8208; and electro&#8208;catalytic conversion of CO 2 , mainly focusing on Cu&#8208;based systems due to their superior performance in producing C 2 products. We present a background framework, describing the essentials computational and experimental tools, designed to support both experimentalists and theoreticians in the development of tailored LDH materials for efficient and sustainable CO 2 valorisation. Finally, we discuss future potential advancements, emphasizing the importance of new synergistic experimental&#8208;computational studies.</description>
-      <author>Fabio Loprete, Eleonora Tosi Brandi, Francesco Calcagno, Jacopo De Maron, Andrea Fasolini, Riccardo Tarroni, Francesco Basile, Ivan Rivalta</author>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/tcr.202500014</guid>
-    </item>
-    <item>
-      <title>Engineering the regulation strategy of active sites to explore the intrinsic mechanism over single&#8209;atom catalysts in electrocatalysis</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.137595</link>
-      <description>Wen Jiang, Qiang Xiao, Weidong Zhu, Fu&#8208;Min Zhang, Journal of Colloid and Interface Science. 693(None)] 2025. https://openalex.org/W4409434712
-
-                No abstract</description>
-      <author>Wen Jiang, Qiang Xiao, Weidong Zhu, Fu&#8208;Min Zhang</author>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137595</guid>
-    </item>
-    <item>
-      <title>Learning Pairwise Interaction for Extrapolative and Interpretable Machine Learning Interatomic Potentials with Physics-Informed Neural Network</title>
-      <link>https://doi.org/10.1021/acs.jctc.5c00090</link>
-      <description>Hoje Chun, Minjoon Hong, Seung Hyo Noh, Byungchan Han, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4409438855
-
-                Achieving both robust extrapolation and physical interpretability in machine learning interatomic potentials (ML-IPs) for atomistic simulation remains a significant challenge, particularly in data-scarce areas such as chemical reactions or complex, multicomponent materials at extreme conditions. Here, we present a pairwise-decomposed physics-informed neural network (P2Net) that parametrizes an analytical bond-order potential (BOP) layer to decouple the energy contributions of atomic pairs. By leveraging fundamental physical principles, P2Net demonstrates excellence at extrapolating beyond its training regime and accurately capturing molecular geometries far from equilibrium. The pairwise energy decomposition further empowers the bond analyses for deprotonation and SN2 reactions, which is not easy with most ML-IPs. The atomic pair energy offers how to elucidate the evolution of interatomic interactions as a reaction proceeds. Our methodology highlights enhanced data efficiency in building ML-IPs and facilitates more informative postsimulation analysis, thereby broadening the applicability of ML-IPs to complex and reactive systems.</description>
-      <author>Hoje Chun, Minjoon Hong, Seung Hyo Noh, Byungchan Han</author>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c00090</guid>
-    </item>
-    <item>
-      <title>Engineering bilayer GeSe/BiOI S-scheme heterojunction for solar-driven water-splitting hydrogen evolution</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.04.054</link>
-      <description>Nianjun Luo, Wenyi Tang, Biao Wang, Hongkuan Yuan, Hong Chen, International Journal of Hydrogen Energy. 127(None)] 2025. https://openalex.org/W4409441297
-
-                No abstract</description>
-      <author>Nianjun Luo, Wenyi Tang, Biao Wang, Hongkuan Yuan, Hong Chen</author>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.04.054</guid>
-    </item>
-    <item>
-      <title>Gold-modified nanoporous silicon for photoelectrochemical regulation of intracellular condensates</title>
-      <link>https://doi.org/10.1038/s41565-025-01878-4</link>
-      <description>Jing Zhang, Pengju Li, Jiping Yue, Lingyuan Meng, Wen Li, Chuan&#8208;Wang Yang, Saehyun Kim, Zhe Cheng, Asha Kamath, Samira Siahrostami, Bozhi Tian, Nature Nanotechnology. None(None)] 2025. https://openalex.org/W4409443008
-
-                No abstract</description>
-      <author>Jing Zhang, Pengju Li, Jiping Yue, Lingyuan Meng, Wen Li, Chuan&#8208;Wang Yang, Saehyun Kim, Zhe Cheng, Asha Kamath, Samira Siahrostami, Bozhi Tian</author>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41565-025-01878-4</guid>
-    </item>
-    <item>
-      <title>Recent advances in green H2O2 production via metal-based functional materials: applications, strategies, and catalytic mechanisms</title>
-      <link>https://doi.org/10.1007/s12598-025-03285-z</link>
-      <description>Danhua Jiao, Yongjun Li, Xiaodong Cai, Qizhao Wang, Yue Wang, Rare Metals. None(None)] 2025. https://openalex.org/W4409448006
-
-                No abstract</description>
-      <author>Danhua Jiao, Yongjun Li, Xiaodong Cai, Qizhao Wang, Yue Wang</author>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12598-025-03285-z</guid>
-    </item>
-    <item>
-      <title>Balsa Wood-Derived Carbon Enriched with Hydroxyl Functional Groups for Efficient CO&lt;sub&gt;2&lt;/sub&gt; Sorption</title>
-      <link>https://doi.org/10.1021/acssuschemeng.5c00880</link>
-      <description>Yuqing Meng, Manish Neupane, Drew M. Glenna, Asmita Jana, Wenhu Wang, Haiyan Zhao, Jin Qian, Yingchao Yang, Lu&#8208;Cun Wang, Seth W. Snyder, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2025. https://openalex.org/W4409449693
-
-                No abstract</description>
-      <author>Yuqing Meng, Manish Neupane, Drew M. Glenna, Asmita Jana, Wenhu Wang, Haiyan Zhao, Jin Qian, Yingchao Yang, Lu&#8208;Cun Wang, Seth W. Snyder</author>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.5c00880</guid>
-    </item>
-    <item>
-      <title>&lt;i&gt;In Situ&lt;/i&gt; Time-Resolved X-ray Absorption Spectroscopy Unveils Partial Re-Oxidation of Tellurium Cluster for Prolonged Lifespan in Hydrogen Evolution</title>
-      <link>https://doi.org/10.1021/jacs.5c00167</link>
-      <description>Jiayin Yuan, Chang Long, Yu Zhang, Miao Zhang, Jian Chang, Yong&#8208;Lei Wang, Hao Zhang, Rongying Liu, Sadaf Saeedi Garakani, &#214;zlem U&#287;uz, Jiayin Yuan, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4409449868
-
-                Efficient and long-lasting electrocatalysts are one of the key factors in determining their large-scale commercial viability. Although the fundamentals of deactivation and regeneration of electrocatalysts are crucial for understanding and sustaining durable activity, little has been conducted on metalloids compared to metal-derived ones. Herein, by virtue of in situ seconds-resolved X-ray absorption spectroscopy, we discovered the chemical evolution during the deactivation-regeneration cycles of tellurium clusters supported by nitrogen-doped carbon (termed Te-ACs@NC) as a high-performance electrocatalyst in the hydrogen evolution reaction (HER). Through in situ electrochemical reduction, Te-ACs@NC, which had been deactivated due to surface phase transitions in a previous HER process, was reactivated and regenerated for the next run, where partially oxidized Te was found, surprisingly, to perform better than its nonoxidized state. After 10 consecutive deactivation-regeneration cycles over 480 h, the Te-ACs@NC retained 85% of its initial catalytic activity. Theoretical studies suggest that local oxidation modulates the electronic distribution within individual Te clusters to optimize the adsorption energy of water molecules and reduce dissociation energy. This study provides fundamental insights into the rarely explored metalloid cluster catalysts during deactivation and regeneration and will assist in the future design and development of supported catalysts with high activity and long durability.</description>
-      <author>Jiayin Yuan, Chang Long, Yu Zhang, Miao Zhang, Jian Chang, Yong&#8208;Lei Wang, Hao Zhang, Rongying Liu, Sadaf Saeedi Garakani, &#214;zlem U&#287;uz, Jiayin Yuan</author>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c00167</guid>
-    </item>
-    <item>
-      <title>Accelerating hydrogen evolution catalyst discovery via data-driven strategy for high-performance single-atom catalysts embedded in h-BN</title>
-      <link>https://doi.org/10.1016/j.jechem.2025.04.002</link>
-      <description>Hwanyeol Park, Dae&#8208;Myeong Geum, Ho Jun Kim, Journal of Energy Chemistry. None(None)] 2025. https://openalex.org/W4409450188
-
-                No abstract</description>
-      <author>Hwanyeol Park, Dae&#8208;Myeong Geum, Ho Jun Kim</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2025.04.002</guid>
-    </item>
     <item>
       <title>Probing nuclear quantum effects in electrocatalysis via a machine-learning enhanced grand canonical constant potential approach</title>
       <link>https://doi.org/10.1038/s41467-025-58871-7</link>
@@ -608,6 +478,66 @@
       <guid isPermaLink="true">https://doi.org/10.3390/nano15080628</guid>
     </item>
     <item>
+      <title>The use of an Rh-intercalated SiC/graphene interface for CO2 electrochemical reduction: A theoretical investigation</title>
+      <link>https://doi.org/10.1016/j.susc.2025.122760</link>
+      <description>Munusamy Rajendran Ashwin Kishore, Karin Larsson, Surface Science. None(None)] 2025. https://openalex.org/W4409619063
+
+                No abstract</description>
+      <author>Munusamy Rajendran Ashwin Kishore, Karin Larsson</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2025.122760</guid>
+    </item>
+    <item>
+      <title>Visualization of the Key Proton Activities in Hydrogen Evolution Reaction by Electrochromic Catalyst</title>
+      <link>https://doi.org/10.1002/smll.202500631</link>
+      <description>Yaping Jiang, Jun Hu, Hang Cai, Hongxiang Zeng, Hongyu Wang, Jiangbei Wan, Zhen Wang, Zhigang Chen, Zhigang Zhao, Small. None(None)] 2025. https://openalex.org/W4409620546
+
+                Abstract The electrocatalytic hydrogen evolution reaction (HER) is a promising route to produce sustainable hydrogen energy carrier for global carbon neutrality. The HER performance is largely determined by the overall proton activities, but the identification of such key proton activities in microscopic HER process is rather difficult. Herein, the study demonstrates a visualized HER concept by integrating the fundamental HER process with electrochromic technology on a well&#8208;designed Pt@WO 3 platform in acidic electrolyte, where the overall proton activities in HER process can be rapidly discriminated by the color changes of Pt@WO 3 electrochromic electrode. In contrast to bare WO 3 counterpart, the Pt@WO 3 electrochromic electrode displays a rather more positive potential of initial&#8208;coloration state and faster decoloration rate associated with significantly improved reaction kinetics of hydrogen intercalation and deintercalation within WO 3 component. Correspondingly, the as&#8208;prepared Pt@WO 3 catalyst electrode exhibits a remarkable HER activity with a lower onset&#8208;potential (45 mV, proton adsorption and accumulation) and smaller Tafel slope (50 mV dec &#8722;1 , proton desorption), nearly 11.1&#8208; and 3.5&#8208;fold enhancement than those of bare WO 3 counterpart. It is believed that the work in integrating the interesting visualization functionality into fundamental HER process may improve the readability of such microscopic electrocatalytic reaction and advance the exploration of more intelligent electrocatalysts.</description>
+      <author>Yaping Jiang, Jun Hu, Hang Cai, Hongxiang Zeng, Hongyu Wang, Jiangbei Wan, Zhen Wang, Zhigang Chen, Zhigang Zhao</author>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202500631</guid>
+    </item>
+    <item>
+      <title>Electrooxidation of Thymol or Carvacrol to Obtain Thymoquinone on Defective Pt/CeO&lt;sub&gt;2&lt;/sub&gt; Catalyst</title>
+      <link>https://doi.org/10.1002/adfm.202424617</link>
+      <description>Liang Zhang, Wei Chen, Yuxuan Lu, Yimin Jiang, Liguang Lin, Shengkai Li, Fang Wang, Jianfeng Jia, Zhengjun Wang, Jun Li, Huile Jin, Jingjing Lv, Yuqin Zou, Shuangyin Wang, Shun Wang, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4409621900
+
+                Abstract Thymoquinone (TQ), a compound with diverse pharmacological benefits, faces limited availability from natural sources. In this study, the design of a highly efficient electrocatalyst, Pt clusters loaded on CeO 2 with rich oxygen vacancies (Vo&#8208;Pt/CeO 2 ), for the electrocatalytic oxidation of thymol (TY) or carvacrol to produce TQ is reported. The introduction of oxygen vacancies to the surface of Vo&#8208;Pt/CeO 2 significantly reduces the adsorption energy of TQ, facilitating its desorption and preventing product accumulation and catalyst poisoning. As a result, Vo&#8208;Pt/CeO 2 demonstrates exceptional electrocatalytic performance, achieving &#8776;100% selectivity and up to 98% yield of TQ under 1.2 V RHE . In situ, Raman spectroscopy indicates that the electrocatalytic oxidation mechanism of TY involves water attacking the TY intermediate to form thymohydroquinone, which is subsequently oxidized to TQ. Overall, this work provides novel insights into the catalyst design and presents a new strategy for sustainable TQ synthesis.</description>
+      <author>Liang Zhang, Wei Chen, Yuxuan Lu, Yimin Jiang, Liguang Lin, Shengkai Li, Fang Wang, Jianfeng Jia, Zhengjun Wang, Jun Li, Huile Jin, Jingjing Lv, Yuqin Zou, Shuangyin Wang, Shun Wang</author>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202424617</guid>
+    </item>
+    <item>
+      <title>N, S coordination in Co single atom catalyst promoting CO2RR towards HCOOH at negative potentials</title>
+      <link>https://doi.org/10.1016/j.mcat.2025.115137</link>
+      <description>H. L. Zhang, Maohuai Wang, Shoufu Cao, Zengxuan Chen, Siyuan Liu, Hongyu Chen, Yiqun Lisa Yin, Zhongyuan Yue, Shuxian Wei, Zhaojie Wang, Xiaoqing L&#252;, Molecular Catalysis. 581(None)] 2025. https://openalex.org/W4409624180
+
+                No abstract</description>
+      <author>H. L. Zhang, Maohuai Wang, Shoufu Cao, Zengxuan Chen, Siyuan Liu, Hongyu Chen, Yiqun Lisa Yin, Zhongyuan Yue, Shuxian Wei, Zhaojie Wang, Xiaoqing L&#252;</author>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2025.115137</guid>
+    </item>
+    <item>
+      <title>A Perspective on Multiscale Modeling of Explicit Solvation-Enabled Simulations of Catalysis at Liquid&#8211;Solid Interfaces</title>
+      <link>https://doi.org/10.1021/acscatal.5c01563</link>
+      <description>Ricardo A. Garc&#237;a C&#225;rcamo, Jiexin Shi, Ali Estejab, Tianjun Xie, Sanchari Bhattacharjee, Sayani Biswas, Cameron J. Bodenschatz, Xiuting Chen, Manish Maurya, Xiaohong Zhang, Rachel B. Getman, ACS Catalysis. None(None)] 2025. https://openalex.org/W4409625181
+
+                No abstract</description>
+      <author>Ricardo A. Garc&#237;a C&#225;rcamo, Jiexin Shi, Ali Estejab, Tianjun Xie, Sanchari Bhattacharjee, Sayani Biswas, Cameron J. Bodenschatz, Xiuting Chen, Manish Maurya, Xiaohong Zhang, Rachel B. Getman</author>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c01563</guid>
+    </item>
+    <item>
+      <title>Recent advances of HKUST-1 metal&#8211;organic frameworks in the biomedical applications: A comprehensive review</title>
+      <link>https://doi.org/10.1016/j.cej.2025.162753</link>
+      <description>Mohashin Kabir, Mahbubur Rahman, Tarikul Islam, Qi Meng, Hailei Liu, Minghua Li, Shaohua Wu, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4409626122
+
+                No abstract</description>
+      <author>Mohashin Kabir, Mahbubur Rahman, Tarikul Islam, Qi Meng, Hailei Liu, Minghua Li, Shaohua Wu</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.162753</guid>
+    </item>
+    <item>
       <title>Fundamental Approaches to Corrosion Resistant Alloy Development</title>
       <link>https://doi.org/10.5006/c2023-19410</link>
       <description>Christopher D Taylor, conference. None(None)] 2023. https://openalex.org/W4409501561
@@ -616,16 +546,6 @@
       <author>Christopher D Taylor</author>
       <pubDate>Sun, 19 Mar 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5006/c2023-19410</guid>
-    </item>
-    <item>
-      <title>First-Principles Investigation of the Influence of Rare Earth Element Doping on the Corrosion Characteristics of Mg (0001) surface</title>
-      <link>https://doi.org/10.1016/j.physb.2025.417198</link>
-      <description>Yuqi Gao, Guoning Bai, Hua Hou, Yuhong Zhao, Yongmei Zhang, Physica B Condensed Matter. None(None)] 2025. https://openalex.org/W4409424654
-
-                No abstract</description>
-      <author>Yuqi Gao, Guoning Bai, Hua Hou, Yuhong Zhao, Yongmei Zhang</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.physb.2025.417198</guid>
     </item>
     <item>
       <title>Unveiling Host-guest interactions and Stability of Amine-Functionalised Silica Sorbents for Carbon Capture</title>
