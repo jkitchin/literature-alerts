@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Apr 2025 01:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 01:41:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Computational insights into the photocatalytic conversion of CO2 to C2H4 on synergistic dual sites in tandem rhenium-bipyridine/copper-porphyrinic system</title>
-      <link>https://doi.org/10.1016/j.jcat.2025.116144</link>
-      <description>Debo Ding, Xiahe Chen, Hongli Wu, Hai&#8208;Min Shen, Teng&#8208;Shuo Zhang, Keke Wang, Yun&#8208;Fang Yang, Yuanbin She, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4409605256
-
-                No abstract</description>
-      <author>Debo Ding, Xiahe Chen, Hongli Wu, Hai&#8208;Min Shen, Teng&#8208;Shuo Zhang, Keke Wang, Yun&#8208;Fang Yang, Yuanbin She</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116144</guid>
-    </item>
     <item>
       <title>First-Principles Study on the CO2 Reduction Reaction (CO2RR) Performance of h-BN-Based Single-Atom Catalysts Modified with Transition Metals</title>
       <link>https://doi.org/10.3390/nano15080628</link>
@@ -310,10 +300,10 @@
     <item>
       <title>Universal Neural Network Potential Study of the Pt/CO Heterogeneous Catalytic System</title>
       <link>https://doi.org/10.1016/j.surfin.2025.106542</link>
-      <description>Gerardo Valadez Huerta, Yu&#773;suke Nanba, Michihisa Koyama, Surfaces and Interfaces. None(None)] 2025. https://openalex.org/W4409716699
+      <description>Gerardo Valadez Huerta, Y&#363;suke Nanba, Michihisa Koyama, Surfaces and Interfaces. None(None)] 2025. https://openalex.org/W4409716699
 
                 No abstract</description>
-      <author>Gerardo Valadez Huerta, Yu&#773;suke Nanba, Michihisa Koyama</author>
+      <author>Gerardo Valadez Huerta, Y&#363;suke Nanba, Michihisa Koyama</author>
       <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.106542</guid>
     </item>
@@ -532,7 +522,7 @@
       <link>https://doi.org/10.1021/acs.langmuir.5c01002</link>
       <description>Pramod Madhukar Gawal, Jumana Ishrat, Kalishankar Bhattacharyya, Animes Kumar Golder, Langmuir. None(None)] 2025. https://openalex.org/W4409784289
 
-                No abstract</description>
+                Photocatalytic CO2 reduction provides a sustainable route to combat climate change by converting CO2 into valuable chemicals by using sunlight. This study presents both experimental and theoretical insights into the reduction of CO2 to HCOOH using biomass-derived carbon dots embedded onto phytochemical-based CdS quantum dots. The 0D CDs/CdS QDs(bio) composites exhibit rich sulfur vacancies and a more negative conduction band, effectively inhibiting CdS photocorrosion (SO42-) while enhancing the CO2 adsorption and photocurrent response. Additionally, it reduced PL intensity and increased decay time, suggesting the enhancement of charge separation and suppression of charge recombination. The optimal 0.4CDs/CdS QDs(bio) composite exhibited a remarkable CO2 reduction to HCOOH formation yield of 439.51 &#956;mol g-1 h-1 (apparent quantum yield of 3.81%) while retaining its structural and morphological stability. Density functional theory calculations reveal HCOO* as a key intermediate, confirming the thermodynamic preference for HCOOH formation over CO with a free energy change of -0.71 eV. This study introduces a novel bio-based CdS QDs composite modified with biomass-derived CDs, providing mechanistic insights into photocatalytic CO2 reduction for sustainable fuel production.</description>
       <author>Pramod Madhukar Gawal, Jumana Ishrat, Kalishankar Bhattacharyya, Animes Kumar Golder</author>
       <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.5c01002</guid>
@@ -552,10 +542,100 @@
       <link>https://doi.org/10.1021/acs.jctc.5c00286</link>
       <description>Robert V. Stanton, Mehmet Cagri Kaymak, Anders M. N. Niklasson, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4409786188
 
-                No abstract</description>
+                We introduce a shadow molecular dynamics (MD) approach based on the Atom-Condensed Kohn-Sham second-order (ACKS2) charge-potential equilibration model. In contrast to regular flexible charge models, the ACKS2 model includes both flexible atomic charges and potential fluctuation parameters that allow for physically correct charge fragmentation and improved scaling of the polarizability. Our shadow MD scheme is based on an approximation of the ACKS2's flexible charge-potential energy function, in combination with extended Lagrangian Born-Oppenheimer MD. Utilizing this shadow charge-potential equilibration approach mitigates the costly overhead and stability problems associated with finding well-converged iterative solutions to the charges and potential fluctuations of the ACKS2 model in an MD simulation. Our work provides a robust and versatile framework for efficient, high-fidelity MD simulations of diverse physical phenomena and applications.</description>
       <author>Robert V. Stanton, Mehmet Cagri Kaymak, Anders M. N. Niklasson</author>
       <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c00286</guid>
+    </item>
+    <item>
+      <title>Direct seawater electrolysis: Breaking the dependency on noble metal-based electrocatalysts</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.04.387</link>
+      <description>Mi Gyoung Lee&#8236;, Seoungyeon Kim, Yong-Kul Lee, International Journal of Hydrogen Energy. 130(None)] 2025. https://openalex.org/W4409790242
+
+                No abstract</description>
+      <author>Mi Gyoung Lee&#8236;, Seoungyeon Kim, Yong-Kul Lee</author>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.04.387</guid>
+    </item>
+    <item>
+      <title>Fourteen-Membered Macrocyclic Cobalt Complex Structure as a Potential Basis for Durable and Active Non-platinum Group Metal Catalysts for Oxygen Reduction and Hydrogen Evolution Reactions</title>
+      <link>https://doi.org/10.1021/jacs.5c01306</link>
+      <description>Zhiqing Feng, Junya Ohyama, Soutaro Honda, Yasushi Iwata, Keisuke Awaya, Masato Machida, Masayuki Tsushida, Ryota Goto, Takeo Ichihara, Makoto Moriya, Yuta Nabae, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4409791038
+
+                No abstract</description>
+      <author>Zhiqing Feng, Junya Ohyama, Soutaro Honda, Yasushi Iwata, Keisuke Awaya, Masato Machida, Masayuki Tsushida, Ryota Goto, Takeo Ichihara, Makoto Moriya, Yuta Nabae</author>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c01306</guid>
+    </item>
+    <item>
+      <title>Accelerating the screening of catalysts for hydrogen evolution reaction in graphene materials based on DFT calculations and machine learning</title>
+      <link>https://doi.org/10.1016/j.mcat.2025.115152</link>
+      <description>Zikai Xiong, Shengjun Huo, Wanglai Cen, Jikun Feng, Jia&#8208;Hao Zeng, Meiling Hou, Yu Liu, Molecular Catalysis. 581(None)] 2025. https://openalex.org/W4409793550
+
+                No abstract</description>
+      <author>Zikai Xiong, Shengjun Huo, Wanglai Cen, Jikun Feng, Jia&#8208;Hao Zeng, Meiling Hou, Yu Liu</author>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2025.115152</guid>
+    </item>
+    <item>
+      <title>Laser Irradiated Noble Metal&#8208;Free High Entropy Oxide 2&#8208;D Sheets for Highly Efficient Anion Exchange Membrane Water Electrolyzers</title>
+      <link>https://doi.org/10.1002/adfm.202507930</link>
+      <description>H. Denny Kamaruddin, Jianghong Zhang, Yu Lu, Mingzhen Xiu, Yuefan Wei, Yizhong Huang, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4409810275
+
+                Abstract High entropy oxides (HEOs) have recently emerged as excellent alternative catalysts that can potentially replace noble metal catalysts such as RuO 2 and IrO 2 for water splitting applications. However, existing methods of synthesizing these catalysts are often tedious. In this work, a straightforward method is proposed using ultra&#8208;fast laser irradiation to synthesize heavily wrinkled noble metal&#8208;free (CoCuFeMnNi) 3 O 4 HEO 2&#8208;D sheets on nickel foam for excellent oxygen evolution reaction (OER) performance. These sheets facilitate the OER at a low overpotential of only 245 mV to achieve 10 mA cm &#8722;2 and is stable after 100 h of testing. This performance outmatches the majority of recently reported noble and noble metal&#8208;free HEA and HEO catalysts. As an anode in anion exchange water electrolyzer (AEMWE), a remarkably high current density of 1.722 A cm &#8722;2 is achieved at 2.0 V with negligible catalyst deterioration despite 70 h of testing. This result outranks the majority of other state&#8208;of&#8208;the&#8208;art AEMWE catalysts reported today. This work proves that laser irradiation synthesis enables the synthesis of efficient HEO catalysts, and is a pioneer synthesis of HEO 2&#8208;D interconnected sheets using laser irradiation. Crucially, this work proves that noble&#8208;metal free HEOs are highly efficient and durable catalysts in industrial AEMWE devices.</description>
+      <author>H. Denny Kamaruddin, Jianghong Zhang, Yu Lu, Mingzhen Xiu, Yuefan Wei, Yizhong Huang</author>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202507930</guid>
+    </item>
+    <item>
+      <title>Exploring Single-Atom Catalysis for Hydrogen Evolution and Storage: A DFT Insight into First-Row Transition Metal-Porphyrin Complexes (Porph@TMs)</title>
+      <link>https://doi.org/10.1016/j.jgsce.2025.205646</link>
+      <description>Faheem Abbas, Saleem Nawaz Khan, Sadaf Bibi, Muhammad Yousaf, Francis M. Enujekwu, Muhammad Salman Khan, Sami Ullah, Mohammed A. Assiri, Gas Science and Engineering. None(None)] 2025. https://openalex.org/W4409828949
+
+                No abstract</description>
+      <author>Faheem Abbas, Saleem Nawaz Khan, Sadaf Bibi, Muhammad Yousaf, Francis M. Enujekwu, Muhammad Salman Khan, Sami Ullah, Mohammed A. Assiri</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jgsce.2025.205646</guid>
+    </item>
+    <item>
+      <title>Novel Fe&#8208;Modulating Raney&#8208;Ni Electrodes toward High&#8208;Efficient and Durable AEM Water Electrolyzer</title>
+      <link>https://doi.org/10.1002/aenm.202501634</link>
+      <description>Tao Jiang, Xinge Jiang, Chongyang Jiang, Jian Wang, Yoann Danlos, Taikai Liu, Chunming Deng, Chaoyue Chen, Hanlin Liao, Vasileios Kyriakou, Advanced Energy Materials. None(None)] 2025. https://openalex.org/W4409832059
+
+                Abstract Anion exchange membrane (AEM) water electrolysis holds promise for green hydrogen production. One of the main challenges is the preparation of highly efficient electrodes with scalable techniques. Herein, a novel Fe&#8208;modulating Raney&#8208;Ni electrode (NFA&#8208;CA) is developed through atmospheric plasma spraying and chemical etching techniques. The resulting electrode demonstrates high bifunctional catalytic activities with low overpotentials and Tafel slopes (HER: 27 mV at 10 mA cm &#8722;2 , 20 mV dec &#8722;1 ; OER: 169 mV at 10 mA cm &#8722;2 , 49 mV dec &#8722;1 ), competing for precious&#8208;metal catalysts and leading transition&#8208;metal&#8208;based compounds reported in the literature. Moreover, the corresponding AEM electrolyzer only requires 1.56 V to drive 1 A cm &#8722;2 and exceptional durability for 1000 h. Moreover, the AEM cell can reach 2 A cm &#8722;2 at 1.79 V, exceeding the United States Department of Energy target for AWE systems (2 A cm &#8722;2 at 1.80 V). The highly efficient and durable performance is attributed to the NiFe nanocrystals (core)&#8208;NiFe hydroxide (shell) nanostructures created by the treatment. This structure not only facilitates superior electrocatalytic properties but it is also maintained after 1000 h of continuous operation. It is consider that the present approach can offer an attractive route for scalable fabrication of NiFe&#8208;based electrodes for industrial AEM water electrolyzers.</description>
+      <author>Tao Jiang, Xinge Jiang, Chongyang Jiang, Jian Wang, Yoann Danlos, Taikai Liu, Chunming Deng, Chaoyue Chen, Hanlin Liao, Vasileios Kyriakou</author>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202501634</guid>
+    </item>
+    <item>
+      <title>Polyoxometalated metal-organic framework superstructure for stable water oxidation</title>
+      <link>https://doi.org/10.1126/science.ads1466</link>
+      <description>Kaihang Yue, Ruihu Lu, Mingbin Gao, Fei Song, Yao Dai, Chenfeng Xia, Bingbao Mei, Hongliang Dong, Ruijuan Qi, Daliang Zhang, Jiangwei Zhang, Ziyun Wang, Fuqiang Huang, Bao Yu Xia, Ya Yan, Science. 388(6745)] 2025. https://openalex.org/W4409833855
+
+                Stable, nonprecious catalysts are vital for large-scale alkaline water electrolysis. Here, we report a grafted superstructure, MOF@POM, formed by self-assembling a metal-organic framework (MOF) with polyoxometalate (POM). In situ electrochemical transformation converts MOF into active metal (oxy)hydroxides to produce a catalyst with a low overpotential of 178 millivolts at 10 milliamperes per square centimeter in alkaline electrolyte. An anion exchange membrane water electrolyzer incorporating this catalyst achieves 3 amperes per square centimeter at 1.78 volts at 80&#176;C and stable operation at 2 amperes per square centimeter for 5140 hours at room temperature. In situ electrochemical spectroscopy and theoretical studies reveal that the synergistic interactions between metal atoms create a fast electron-transfer channel from catalytic iron and cobalt sites, nickel, and tungsten in the polyoxometalate to the electrode, stabilizing the metal sites and preventing dissolution.</description>
+      <author>Kaihang Yue, Ruihu Lu, Mingbin Gao, Fei Song, Yao Dai, Chenfeng Xia, Bingbao Mei, Hongliang Dong, Ruijuan Qi, Daliang Zhang, Jiangwei Zhang, Ziyun Wang, Fuqiang Huang, Bao Yu Xia, Ya Yan</author>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1126/science.ads1466</guid>
+    </item>
+    <item>
+      <title>Anomalous Diffusion of Metal Atoms on Oxide Surfaces: A Machine Learning Molecular Dynamics Study of Pt&lt;sub&gt;1&lt;/sub&gt;/TiO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c08512</link>
+      <description>U. Saleem, Shaama Mallikarjun Sharada, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4409835024
+
+                No abstract</description>
+      <author>U. Saleem, Shaama Mallikarjun Sharada</author>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c08512</guid>
+    </item>
+    <item>
+      <title>Deciphering dynamic structural modulation of exogenous Fe3+ integrated into Ni-based anode toward oxygen electrocatalysis for rechargeable zinc-air batteries</title>
+      <link>https://doi.org/10.1016/j.nanoen.2025.111071</link>
+      <description>Jingyi Han, Changmin Hou, Shihui Jiao, Xiaodi Niu, Lina Li, Jingqi Guan, Nano Energy. None(None)] 2025. https://openalex.org/W4409841602
+
+                No abstract</description>
+      <author>Jingyi Han, Changmin Hou, Shihui Jiao, Xiaodi Niu, Lina Li, Jingqi Guan</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2025.111071</guid>
     </item>
     <item>
       <title>Uncertainty quantification for neural network potential foundation models</title>
