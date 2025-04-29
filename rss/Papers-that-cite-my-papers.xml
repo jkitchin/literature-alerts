@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 28 Apr 2025 01:41:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 01:39:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>First-Principles Study on the CO2 Reduction Reaction (CO2RR) Performance of h-BN-Based Single-Atom Catalysts Modified with Transition Metals</title>
-      <link>https://doi.org/10.3390/nano15080628</link>
-      <description>Xiansheng Yu, Can Zhao, Qiaoyue Chen, Wei Lai, Xucai Zhao, Lili Zhang, Liqian Wu, Yineng Huang, Nanomaterials. 15(8)] 2025. https://openalex.org/W4409607392
-
-                The reasonable design of low-cost, high-activity single-atom catalysts (SACs) is crucial for achieving highly efficient electrochemical CO2RR. In this study, we systematically explore, using density functional theory (DFT), the performance of transition metal (TM = Mn, Fe, Co, Ni, Cu, Zn)-doped defect-type hexagonal boron nitride (h-BN) SACs TM@B&#8722;1N (B vacancy) and TM@BN&#8722;1 (N vacancy) in both CO2RR and the hydrogen evolution reaction (HER). Integrated crystal orbital Hamiltonian population (ICOHP) analysis reveals that these catalysts weaken the sp orbital hybridization of CO2, which promotes the formation of radical-state intermediates and significantly reduces the energy barrier for the hydrogenation reaction. Therefore, these theoretical calculations indicate that the Mn, Fe, Co@B&#8722;1N, and Co@BN&#8722;1 systems demonstrate excellent CO2 chemical adsorption properties. In the CO2RR pathway, Mn@B&#8722;1N exhibits the lowest limiting potential (UL = &#8722;0.524 V), and its higher d-band center (&#8722;0.334 eV), which aligns optimally with the adsorbate orbitals, highlights its excellent catalytic activity. Notably, Co@BN&#8722;1 exhibits the highest activity in HER, while UL is &#8722;0.217 V. Furthermore, comparative analysis reveals that Mn@B&#8722;1N shows 16.4 times higher selectivity for CO2RR than for HER. This study provides a theoretical framework for designing bifunctional SACs with selective reaction pathways. Mn@B&#8722;1N shows considerable potential for selective CO2 conversion, while Co@BN&#8722;1 demonstrates promising prospects for efficient hydrogen production.</description>
-      <author>Xiansheng Yu, Can Zhao, Qiaoyue Chen, Wei Lai, Xucai Zhao, Lili Zhang, Liqian Wu, Yineng Huang</author>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/nano15080628</guid>
-    </item>
-    <item>
-      <title>The use of an Rh-intercalated SiC/graphene interface for CO2 electrochemical reduction: A theoretical investigation</title>
-      <link>https://doi.org/10.1016/j.susc.2025.122760</link>
-      <description>Munusamy Rajendran Ashwin Kishore, Karin Larsson, Surface Science. None(None)] 2025. https://openalex.org/W4409619063
-
-                No abstract</description>
-      <author>Munusamy Rajendran Ashwin Kishore, Karin Larsson</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2025.122760</guid>
-    </item>
-    <item>
-      <title>Visualization of the Key Proton Activities in Hydrogen Evolution Reaction by Electrochromic Catalyst</title>
-      <link>https://doi.org/10.1002/smll.202500631</link>
-      <description>Yaping Jiang, Jun Hu, Hang Cai, Hongxiang Zeng, Hongyu Wang, Jiangbei Wan, Zhen Wang, Zhigang Chen, Zhigang Zhao, Small. None(None)] 2025. https://openalex.org/W4409620546
-
-                Abstract The electrocatalytic hydrogen evolution reaction (HER) is a promising route to produce sustainable hydrogen energy carrier for global carbon neutrality. The HER performance is largely determined by the overall proton activities, but the identification of such key proton activities in microscopic HER process is rather difficult. Herein, the study demonstrates a visualized HER concept by integrating the fundamental HER process with electrochromic technology on a well&#8208;designed Pt@WO 3 platform in acidic electrolyte, where the overall proton activities in HER process can be rapidly discriminated by the color changes of Pt@WO 3 electrochromic electrode. In contrast to bare WO 3 counterpart, the Pt@WO 3 electrochromic electrode displays a rather more positive potential of initial&#8208;coloration state and faster decoloration rate associated with significantly improved reaction kinetics of hydrogen intercalation and deintercalation within WO 3 component. Correspondingly, the as&#8208;prepared Pt@WO 3 catalyst electrode exhibits a remarkable HER activity with a lower onset&#8208;potential (45 mV, proton adsorption and accumulation) and smaller Tafel slope (50 mV dec &#8722;1 , proton desorption), nearly 11.1&#8208; and 3.5&#8208;fold enhancement than those of bare WO 3 counterpart. It is believed that the work in integrating the interesting visualization functionality into fundamental HER process may improve the readability of such microscopic electrocatalytic reaction and advance the exploration of more intelligent electrocatalysts.</description>
-      <author>Yaping Jiang, Jun Hu, Hang Cai, Hongxiang Zeng, Hongyu Wang, Jiangbei Wan, Zhen Wang, Zhigang Chen, Zhigang Zhao</author>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202500631</guid>
-    </item>
-    <item>
-      <title>Electrooxidation of Thymol or Carvacrol to Obtain Thymoquinone on Defective Pt/CeO&lt;sub&gt;2&lt;/sub&gt; Catalyst</title>
-      <link>https://doi.org/10.1002/adfm.202424617</link>
-      <description>Liang Zhang, Wei Chen, Yuxuan Lu, Yimin Jiang, Liguang Lin, Shengkai Li, Fang Wang, Jianfeng Jia, Zhengjun Wang, Jun Li, Huile Jin, Jingjing Lv, Yuqin Zou, Shuangyin Wang, Shun Wang, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4409621900
-
-                Abstract Thymoquinone (TQ), a compound with diverse pharmacological benefits, faces limited availability from natural sources. In this study, the design of a highly efficient electrocatalyst, Pt clusters loaded on CeO 2 with rich oxygen vacancies (Vo&#8208;Pt/CeO 2 ), for the electrocatalytic oxidation of thymol (TY) or carvacrol to produce TQ is reported. The introduction of oxygen vacancies to the surface of Vo&#8208;Pt/CeO 2 significantly reduces the adsorption energy of TQ, facilitating its desorption and preventing product accumulation and catalyst poisoning. As a result, Vo&#8208;Pt/CeO 2 demonstrates exceptional electrocatalytic performance, achieving &#8776;100% selectivity and up to 98% yield of TQ under 1.2 V RHE . In situ, Raman spectroscopy indicates that the electrocatalytic oxidation mechanism of TY involves water attacking the TY intermediate to form thymohydroquinone, which is subsequently oxidized to TQ. Overall, this work provides novel insights into the catalyst design and presents a new strategy for sustainable TQ synthesis.</description>
-      <author>Liang Zhang, Wei Chen, Yuxuan Lu, Yimin Jiang, Liguang Lin, Shengkai Li, Fang Wang, Jianfeng Jia, Zhengjun Wang, Jun Li, Huile Jin, Jingjing Lv, Yuqin Zou, Shuangyin Wang, Shun Wang</author>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202424617</guid>
-    </item>
-    <item>
-      <title>N, S coordination in Co single atom catalyst promoting CO2RR towards HCOOH at negative potentials</title>
-      <link>https://doi.org/10.1016/j.mcat.2025.115137</link>
-      <description>H. L. Zhang, Maohuai Wang, Shoufu Cao, Zengxuan Chen, Siyuan Liu, Hongyu Chen, Yiqun Lisa Yin, Zhongyuan Yue, Shuxian Wei, Zhaojie Wang, Xiaoqing L&#252;, Molecular Catalysis. 581(None)] 2025. https://openalex.org/W4409624180
-
-                No abstract</description>
-      <author>H. L. Zhang, Maohuai Wang, Shoufu Cao, Zengxuan Chen, Siyuan Liu, Hongyu Chen, Yiqun Lisa Yin, Zhongyuan Yue, Shuxian Wei, Zhaojie Wang, Xiaoqing L&#252;</author>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2025.115137</guid>
-    </item>
-    <item>
-      <title>A Perspective on Multiscale Modeling of Explicit Solvation-Enabled Simulations of Catalysis at Liquid&#8211;Solid Interfaces</title>
-      <link>https://doi.org/10.1021/acscatal.5c01563</link>
-      <description>Ricardo A. Garc&#237;a C&#225;rcamo, Jiexin Shi, Ali Estejab, Tianjun Xie, Sanchari Bhattacharjee, Sayani Biswas, Cameron J. Bodenschatz, Xiuting Chen, Manish Maurya, Xiaohong Zhang, Rachel B. Getman, ACS Catalysis. None(None)] 2025. https://openalex.org/W4409625181
-
-                No abstract</description>
-      <author>Ricardo A. Garc&#237;a C&#225;rcamo, Jiexin Shi, Ali Estejab, Tianjun Xie, Sanchari Bhattacharjee, Sayani Biswas, Cameron J. Bodenschatz, Xiuting Chen, Manish Maurya, Xiaohong Zhang, Rachel B. Getman</author>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c01563</guid>
-    </item>
-    <item>
-      <title>Recent advances of HKUST-1 metal&#8211;organic frameworks in the biomedical applications: A comprehensive review</title>
-      <link>https://doi.org/10.1016/j.cej.2025.162753</link>
-      <description>Mohashin Kabir, Mahbubur Rahman, Tarikul Islam, Qi Meng, Hailei Liu, Minghua Li, Shaohua Wu, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4409626122
-
-                No abstract</description>
-      <author>Mohashin Kabir, Mahbubur Rahman, Tarikul Islam, Qi Meng, Hailei Liu, Minghua Li, Shaohua Wu</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.162753</guid>
-    </item>
     <item>
       <title>The Recent Progress of High-Entropy Layered Double Hydroxides and High-Entropy Amorphous Materials for Water Electrocatalysis</title>
       <link>https://doi.org/10.1016/j.decarb.2025.100110</link>
@@ -636,6 +566,56 @@
       <author>Jingyi Han, Changmin Hou, Shihui Jiao, Xiaodi Niu, Lina Li, Jingqi Guan</author>
       <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2025.111071</guid>
+    </item>
+    <item>
+      <title>Enhancement of Oxygen Evolution Performance of water splitting at High Current Density by Novel Electrodeposited NiFe-LDH Coatings</title>
+      <link>https://doi.org/10.1016/j.electacta.2025.146332</link>
+      <description>Sim&#243;n G. Quiroz, Santiago Cartagena, Jorge A. Calder&#243;n, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4409846753
+
+                No abstract</description>
+      <author>Sim&#243;n G. Quiroz, Santiago Cartagena, Jorge A. Calder&#243;n</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146332</guid>
+    </item>
+    <item>
+      <title>First-principles investigation of grain boundary effects on fluorine-induced initial corrosion of NiCr alloys</title>
+      <link>https://doi.org/10.1016/j.commatsci.2025.113903</link>
+      <description>Hamdy Arkoub, Miaomiao Jin, Computational Materials Science. 255(None)] 2025. https://openalex.org/W4409846985
+
+                No abstract</description>
+      <author>Hamdy Arkoub, Miaomiao Jin</author>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2025.113903</guid>
+    </item>
+    <item>
+      <title>Single &#8211; atom Fe/N-embedded graphdiyne as catalysts for hydrogen evolution reaction: A DFT approach</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.04.136</link>
+      <description>Tung Pham, Minh T&#226;m L&#234;, Minh Thi Hong Le, Hoang Anh Nguyen, Hengquan Guo, Seung Geol Lee, Hsueh&#8208;Shih Chen, Nguyet N. T. Pham, International Journal of Hydrogen Energy. 130(None)] 2025. https://openalex.org/W4409850235
+
+                No abstract</description>
+      <author>Tung Pham, Minh T&#226;m L&#234;, Minh Thi Hong Le, Hoang Anh Nguyen, Hengquan Guo, Seung Geol Lee, Hsueh&#8208;Shih Chen, Nguyet N. T. Pham</author>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.04.136</guid>
+    </item>
+    <item>
+      <title>Design and performance evaluation of HfS2/AlSe heterostructure for enhanced photocatalytic water splitting</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.04.344</link>
+      <description>Lijun He, Cheng Mi, Qijun Huang, Liyan Wang, Kang Ma, Liang She, Mi Yu, Yong Qin, Ping Yang, International Journal of Hydrogen Energy. 130(None)] 2025. https://openalex.org/W4409850380
+
+                No abstract</description>
+      <author>Lijun He, Cheng Mi, Qijun Huang, Liyan Wang, Kang Ma, Liang She, Mi Yu, Yong Qin, Ping Yang</author>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.04.344</guid>
+    </item>
+    <item>
+      <title>Predicted Cyclic Voltammetry Simulations on Iridium Oxide Surfaces with Comparisons To Experiment</title>
+      <link>https://doi.org/10.1007/s11244-025-02093-0</link>
+      <description>Soonho Kwon, William A. Goddard, Topics in Catalysis. None(None)] 2025. https://openalex.org/W4409856607
+
+                No abstract</description>
+      <author>Soonho Kwon, William A. Goddard</author>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11244-025-02093-0</guid>
     </item>
     <item>
       <title>Uncertainty quantification for neural network potential foundation models</title>
