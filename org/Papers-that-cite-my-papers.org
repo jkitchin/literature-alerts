@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Apr 29 01:39:28 2025
+Created on Wed Apr 30 01:38:39 2025
 
-Found 64 results from 2025-04-22 to 2025-04-29
+Found 63 results from 2025-04-23 to 2025-04-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967]]
@@ -16,111 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* The Recent Progress of High-Entropy Layered Double Hydroxides and High-Entropy Amorphous Materials for Water Electrocatalysis  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409638521
-:TOPICS: Electrocatalysts for Energy Conversion, Advanced Photocatalysis Techniques, Catalytic Processes in Materials Science
-:PUBLICATION_DATE: 2025-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.decarb.2025.100110")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409638521"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409638521"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409638521"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409638521 (Open access: True)
-    
-[[https://openalex.org/A5041819933][Tadele Hunde Wondimu]], [[https://openalex.org/A5101436508][Yong Zuo]], [[https://openalex.org/A5083062334][A.A. Shah]], [[https://openalex.org/A5083106064][Puiki Leung]], [[https://openalex.org/A5038851430][Yilkal Dessie]], [[https://openalex.org/A5029764452][Filimon Hadish]], [[https://openalex.org/A5013295587][Cristina Flox]], [[https://openalex.org/A5100409446][Qiang Liao]], DeCarbon. None(None)] 2025. https://doi.org/10.1016/j.decarb.2025.100110 
-     
-No abstract    
-
-    
-
-* Synergistic Coupling of Ni-Oxalate Prism and Layered FeOOH for Oxygen Evolution Reaction in Anion Exchange Membrane Water Electrolysis  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409644052
-:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Advanced battery technologies research
-:PUBLICATION_DATE: 2025-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2025.125393")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409644052"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409644052"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409644052"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409644052 (Open access: False)
-    
-[[https://openalex.org/A5039715599][Sukhwa Hong]], [[https://openalex.org/A5101896334][Jiseon Kim]], [[https://openalex.org/A5065096122][Soonho Kwon]], [[https://openalex.org/A5051552545][Kahyun Ham]], [[https://openalex.org/A5060511791][Haowei Long]], [[https://openalex.org/A5035627473][William A. Goddard]], [[https://openalex.org/A5033596181][Kangwoo Cho]], [[https://openalex.org/A5057868460][Paul J. A. Kenis]], Applied Catalysis B Environment and Energy. None(None)] 2025. https://doi.org/10.1016/j.apcatb.2025.125393 
-     
-No abstract    
-
-    
-
-* One dimensional AWO4 and A2O3 structured high entropy oxide nanowires and their superior oxygen evolution reaction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409644800
-:TOPICS: Electrocatalysts for Energy Conversion, Catalytic Processes in Materials Science, Electronic and Structural Properties of Oxides
-:PUBLICATION_DATE: 2025-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jallcom.2025.180556")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409644800"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409644800"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409644800"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409644800 (Open access: False)
-    
-[[https://openalex.org/A5012103952][Lei Yang]], [[https://openalex.org/A5114124007][Yiting Dong]], [[https://openalex.org/A5101023252][Xiaoxian Tian]], [[https://openalex.org/A5011144900][Jun Yin]], [[https://openalex.org/A5114131963][Qingwan Wang]], [[https://openalex.org/A5024331174][Wanxin Wu]], [[https://openalex.org/A5054579017][Yingguo Yang]], [[https://openalex.org/A5018805700][Lulu Tang]], [[https://openalex.org/A5067028256][Xueqin Yuan]], Journal of Alloys and Compounds. None(None)] 2025. https://doi.org/10.1016/j.jallcom.2025.180556 
-     
-No abstract    
-
-    
-
-* Investigation of NiW@Pd nanocrystals for the electro-catalytic application in the fuel cell  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409648191
-:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Fuel Cells and Related Materials
-:PUBLICATION_DATE: 2025-04-21
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.21203/rs.3.rs-6317277/v1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409648191"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409648191"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409648191"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409648191 (Open access: False)
-    
-[[https://openalex.org/A5042254482][Ahmed B.M. Ibrahim]], [[https://openalex.org/A5006992337][Mohamed A. Habib]], [[https://openalex.org/A5036999970][Sidra Munir]], [[https://openalex.org/A5061051894][Fawad Ahmad]], No host. None(None)] 2025. https://doi.org/10.21203/rs.3.rs-6317277/v1 
-     
-Abstract The effective inter-conversion of electricity and chemicals via an electrochemical reaction, is significant for energy storage devices such as batteries and fuel cells. These fuel cells are regarded as promising solution to energy crisis in 21st century. The slow kinetics of oxygen reduction reaction (ORR) is one of the topmost barriers in this discipline and Pt-based catalysts are needed to boost the durability and activity of ORR. To cope with high cost and less accessibility of Pt/C catalyst, Pd based alloys are being expressed as potential replacements for Pt-based electro catalysts in fuel cells as cathodes for oxygen reduction reactions (ORR). But its performance and stability are less than those of Pt. The morphology and composition can be altered by alloying process to enhance their catalytic properties towards ORR. In this study, alloys of Pd with tungsten(W) and nickel(Ni) were synthesized and deposited the prepared material (NiWPd) onto the glassy carbon. Electrochemical investigations confirmed that NiWPd catalysts have improved electro catalytic activities towards oxygen reduction reaction (ORR) with higher specific and mass activities in comparison to Pd/C and Pt/C catalysts. 1.5% NiWPd showed highest ORR performance. Its mass activity came out to be 2.2mA/cm2 that was superior to Pd/C and Pt/C electro catalyst, due to dopants and geometrical impact.    
-
-    
-
-* Nucleation in Confinement: A Pathway to Size-Controlled Ultrasmall Icosahedral Silver Nanoparticles  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409655754
-:TOPICS: Nanocluster Synthesis and Applications, Gold and Silver Nanoparticles Synthesis and Applications, Advanced Nanomaterials in Catalysis
-:PUBLICATION_DATE: 2025-04-22
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.chemmater.5c00288")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409655754"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409655754"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409655754"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409655754 (Open access: False)
-    
-[[https://openalex.org/A5109153075][Rohan Parmar]], [[https://openalex.org/A5072376271][Raj Kumar Ramamoorthy]], [[https://openalex.org/A5059283678][Pierre Roblin]], [[https://openalex.org/A5068006855][Nicolas Ratel‐Ramond]], [[https://openalex.org/A5075434042][Lise‐Marie Lacroix]], [[https://openalex.org/A5090642051][Isaac Rodríguez-Ruiz]], [[https://openalex.org/A5051447891][Sébastien Teychené]], [[https://openalex.org/A5055054770][Guillaume Viau]], Chemistry of Materials. None(None)] 2025. https://doi.org/10.1021/acs.chemmater.5c00288 
-     
-No abstract    
-
-    
 
 * Theoretical screening and mechanism exploration of excellent OER/HER catalysts for Janus 2H-WSSe monolayer adsorbed transition metal single atoms  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -1042,7 +937,7 @@ OpenAlex: https://openalex.org/W4409791038 (Open access: False)
     
 [[https://openalex.org/A5070572571][Zhiqing Feng]], [[https://openalex.org/A5023127226][Junya Ohyama]], [[https://openalex.org/A5114154954][Soutaro Honda]], [[https://openalex.org/A5100858727][Yasushi Iwata]], [[https://openalex.org/A5063143560][Keisuke Awaya]], [[https://openalex.org/A5013139214][Masato Machida]], [[https://openalex.org/A5068026153][Masayuki Tsushida]], [[https://openalex.org/A5043156415][Ryota Goto]], [[https://openalex.org/A5076217195][Takeo Ichihara]], [[https://openalex.org/A5084453278][Makoto Moriya]], [[https://openalex.org/A5017398992][Yuta Nabae]], Journal of the American Chemical Society. None(None)] 2025. https://doi.org/10.1021/jacs.5c01306 
      
-No abstract    
+Non-platinum group metal catalysts for the oxygen reduction reaction (ORR) and hydrogen evolution reaction (HER) under acidic conditions were developed using a CoN4 complex with a 14-membered-ring hexaazamacrocyclic ligand (Co-14MR). The carbon-supported Co-14MR catalyst (Co-14MR/C) showed higher ORR and HER activities than a conventional carbon-supported 16-membered-ring Co phthalocyanine (CoPc/C) catalyst. Heat treatment of Co-14MR/C at 600 °C further enhanced its ORR and HER activity through structural modification of the Co active center via deprotonation of ligand amine groups. Density functional theory calculations indicated that the structural modifications of Co-14MR induced by heat treatment adjusted the adsorption energies of important intermediates in the ORR and HER toward optimal values, resulting in enhanced catalytic activity. The Co-14MR/C catalysts also exhibited higher durability in the ORR and HER than CoPc/C and Fe-14MR/C catalysts. Structural analysis suggested that the short Co-N bond lengths and small distortion of the CoN4 active site of the Co-14MR catalysts are the reasons for their high durability. These findings suggest that the Co-14MR structure is a promising design for non-platinum group metal catalysts for proton-exchange membrane fuel cells and water splitting.    
 
     
 
@@ -1298,6 +1193,111 @@ No abstract
 
     
 
+* Dopant-Induced Hexagonal to Orthorhombic Phase Transition in Fe2–xMoxP Nanorods and Its Influence on the Electrocatalytic Hydrogen Evolution Reaction  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4409867737
+:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Advancements in Battery Materials
+:PUBLICATION_DATE: 2025-04-28
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.chemmater.4c03479")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409867737"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409867737"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409867737"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4409867737 (Open access: True)
+    
+[[https://openalex.org/A5109743137][Jordon Baker]], [[https://openalex.org/A5100632510][Danyang Wang]], [[https://openalex.org/A5059607440][Md. Kawsar Alam]], [[https://openalex.org/A5058617942][Ka Un Lao]], [[https://openalex.org/A5038758119][Indika U. Arachchige]], Chemistry of Materials. None(None)] 2025. https://doi.org/10.1021/acs.chemmater.4c03479 
+     
+No abstract    
+
+    
+
+* Penta-SiAsP Monolayer: A Highly Stable Pentagonal Ternary Material with Photocatalytic Potential for Overall Water Splitting  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4409868693
+:TOPICS: 2D Materials and Applications, Advanced Photocatalysis Techniques, MXene and MAX Phase Materials
+:PUBLICATION_DATE: 2025-04-28
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s10562-025-05015-7")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409868693"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409868693"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409868693"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4409868693 (Open access: False)
+    
+[[https://openalex.org/A5078193661][Chenghao Yang]], [[https://openalex.org/A5108054412][Yanqing Shen]], [[https://openalex.org/A5100397195][Kexin Wang]], [[https://openalex.org/A5052852912][Xiangqian Jiang]], [[https://openalex.org/A5100878802][Long Pang]], [[https://openalex.org/A5091141565][E Peng]], [[https://openalex.org/A5010285977][Zhongxiang Zhou]], Catalysis Letters. 155(6)] 2025. https://doi.org/10.1007/s10562-025-05015-7 
+     
+No abstract    
+
+    
+
+* Unraveling the Defluorination Mechanism of Sodium Fluoro-Aluminates on Graphite: A First-Principles Study  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4409870458
+:TOPICS: Fiber-reinforced polymer composites, Inorganic Fluorides and Related Compounds, Advancements in Battery Materials
+:PUBLICATION_DATE: 2025-04-28
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpca.5c00956")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409870458"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409870458"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409870458"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4409870458 (Open access: False)
+    
+[[https://openalex.org/A5077924358][Min Tan]], [[https://openalex.org/A5101634497][Jingjing Yan]], [[https://openalex.org/A5108755595][Si Chung Chang]], [[https://openalex.org/A5103161785][Hui He]], [[https://openalex.org/A5100455239][Tao Li]], The Journal of Physical Chemistry A. None(None)] 2025. https://doi.org/10.1021/acs.jpca.5c00956 
+     
+The graphitized carbon blocks are used as cathode and anode materials on modern aluminum electrolyzers, which provide a reaction interface between molten salts and a graphitized cathode for the electrochemical reaction. The first-principle calculations were performed to clarify the defluorination mechanism of fluoro-aluminates on graphite cathodes in aluminum electrolysis for energy efficiency and carbon emission reduction. The adsorption behaviors of intermediates involved in defluorination reactions on graphite surfaces are analyzed, revealing their spontaneous adsorption based on their adsorption energies and charge density differences. Furthermore, the defluorination pathways of both single Na3AlF6 clusters and fluoride-aluminate polymers are elucidated. Notably, Na3AlF6, after undergoing the thermochemical defluorination process to obtain AlF3, preferentially undergoes electrochemical defluorination via Al-F-Al polymerization. The key findings indicate that the chemical defluorination of Na3AlF6 leading to NaAlF4 serves as a pivotal step, facilitating the overall defluorination process and enhancing the aluminum production efficiency. This work provides fundamental insights into optimizing aluminum electrolysis processes.    
+
+    
+
+* Protons Accumulate at the Graphene–Water Interface  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4409871406
+:TOPICS: Nanopore and Nanochannel Transport Studies, Spectroscopy and Quantum Chemical Studies, Electrochemical Analysis and Applications
+:PUBLICATION_DATE: 2025-04-28
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsnano.5c02053")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409871406"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409871406"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409871406"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4409871406 (Open access: True)
+    
+[[https://openalex.org/A5093427169][Xavier R. Advincula]], [[https://openalex.org/A5079875975][Kara D. Fong]], [[https://openalex.org/A5056513432][Angelos Michaelides]], [[https://openalex.org/A5026599330][Christoph Schran]], ACS Nano. None(None)] 2025. https://doi.org/10.1021/acsnano.5c02053 
+     
+No abstract    
+
+    
+
+* Computational High-Throughput Screening of High-Performance Transition Metal C8n8 Single-Atom Electrocatalysts for Oxygen Reduction Reaction  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4409875350
+:TOPICS: Electrocatalysts for Energy Conversion, Machine Learning in Materials Science, Advanced Memory and Neural Computing
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.5234301")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409875350"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409875350"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409875350"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4409875350 (Open access: False)
+    
+[[https://openalex.org/A5041916689][Keyuan Chen]], [[https://openalex.org/A5033756127][X.L. Zhang]], [[https://openalex.org/A5104093927][Li Ma]], [[https://openalex.org/A5067758134][Yongzhi Wu]], [[https://openalex.org/A5053460720][Haijin Li]], [[https://openalex.org/A5070586694][Jueyi Ye]], [[https://openalex.org/A5064010494][Ju Rong]], [[https://openalex.org/A5058708996][Xiaohua Yu]], [[https://openalex.org/A5102753819][Zhaohua Liu]], No host. None(None)] 2025. https://doi.org/10.2139/ssrn.5234301 
+     
+No abstract    
+
+    
+
 * Uncertainty quantification for neural network potential foundation models  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4409765509
@@ -1316,27 +1316,6 @@ OpenAlex: https://openalex.org/W4409765509 (Open access: True)
 [[https://openalex.org/A5108824162][Jenna A. Bilbrey]], [[https://openalex.org/A5063476184][Jesun Firoz]], [[https://openalex.org/A5059992631][Michael Ka Ho Lee]], [[https://openalex.org/A5016440514][Sutanay Choudhury]], npj Computational Materials. 11(1)] 2025. https://doi.org/10.1038/s41524-025-01572-y 
      
 Abstract For neural network potentials (NNPs) to gain widespread use, researchers must be able to trust model outputs. However, the blackbox nature of neural networks and their inherent stochasticity are often deterrents, especially for foundation models trained over broad swaths of chemical space. Uncertainty information provided at the time of prediction can help reduce aversion to NNPs. In this work, we detail two uncertainty quantification (UQ) methods. Readout ensembling, by finetuning the readout layers of an ensemble of foundation models, provides information about model uncertainty, while quantile regression, by replacing point predictions with distributional predictions, provides information about uncertainty within the underlying training data. We demonstrate our approach with the MACE-MP-0 model, applying UQ to the foundation model and a series of finetuned models. The uncertainties produced by the readout ensemble and quantile methods are demonstrated to be distinct measures by which the quality of the NNP output can be judged.    
-
-    
-
-* Regressing the self-consistent Hamiltonian and density from the non-self-consistent Hamiltonian  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409637053
-:TOPICS: Machine Learning in Materials Science, Advanced Chemical Physics Studies, Protein Structure and Dynamics
-:PUBLICATION_DATE: 2025-04-22
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.21203/rs.3.rs-6347952/v1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409637053"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409637053"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409637053"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409637053 (Open access: False)
-    
-[[https://openalex.org/A5082952294][S. Richter]], [[https://openalex.org/A5079206771][Thomas D. Kühne]], Research Square (Research Square). None(None)] 2025. https://doi.org/10.21203/rs.3.rs-6347952/v1 
-     
-Abstract We show that the non-self-consistent electronic Hamiltonian can be used as a chemical descriptor with all common invariances (i.e. translation, rotation, reflection, and permutation) via simple orthonormal matrix transformations. We used a linear regression on a labeled dataset of water dimer clusters with the aforementioned non-self-consistent Hamiltonian matrices as inputs to evaluate their potential as descriptors for predicting the self-consistent Hamiltonian and the corresponding ground-state electron density. Our regression tests were performed as a single layer ANN with a linear activation function to facilitate a relevance analysis. We further mapped our feature space data for non-linear regression up to third order polynomial multivariate regression. To further investigate the influence of the invariances a simplified relevance analysis on the input matrices was done using the trained weights of the input layer. This analysis revealed a shift in relevance from the intra-molecular part (without invariances) to the inter-molecular part of the input matrices when our invariances were applied.    
 
     
 

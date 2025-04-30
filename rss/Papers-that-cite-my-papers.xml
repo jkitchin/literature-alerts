@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Apr 2025 01:39:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 01:38:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>The Recent Progress of High-Entropy Layered Double Hydroxides and High-Entropy Amorphous Materials for Water Electrocatalysis</title>
-      <link>https://doi.org/10.1016/j.decarb.2025.100110</link>
-      <description>Tadele Hunde Wondimu, Yong Zuo, A.A. Shah, Puiki Leung, Yilkal Dessie, Filimon Hadish, Cristina Flox, Qiang Liao, DeCarbon. None(None)] 2025. https://openalex.org/W4409638521
-
-                No abstract</description>
-      <author>Tadele Hunde Wondimu, Yong Zuo, A.A. Shah, Puiki Leung, Yilkal Dessie, Filimon Hadish, Cristina Flox, Qiang Liao</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.decarb.2025.100110</guid>
-    </item>
-    <item>
-      <title>Synergistic Coupling of Ni-Oxalate Prism and Layered FeOOH for Oxygen Evolution Reaction in Anion Exchange Membrane Water Electrolysis</title>
-      <link>https://doi.org/10.1016/j.apcatb.2025.125393</link>
-      <description>Sukhwa Hong, Jiseon Kim, Soonho Kwon, Kahyun Ham, Haowei Long, William A. Goddard, Kangwoo Cho, Paul J. A. Kenis, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4409644052
-
-                No abstract</description>
-      <author>Sukhwa Hong, Jiseon Kim, Soonho Kwon, Kahyun Ham, Haowei Long, William A. Goddard, Kangwoo Cho, Paul J. A. Kenis</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125393</guid>
-    </item>
-    <item>
-      <title>One dimensional AWO4 and A2O3 structured high entropy oxide nanowires and their superior oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jallcom.2025.180556</link>
-      <description>Lei Yang, Yiting Dong, Xiaoxian Tian, Jun Yin, Qingwan Wang, Wanxin Wu, Yingguo Yang, Lulu Tang, Xueqin Yuan, Journal of Alloys and Compounds. None(None)] 2025. https://openalex.org/W4409644800
-
-                No abstract</description>
-      <author>Lei Yang, Yiting Dong, Xiaoxian Tian, Jun Yin, Qingwan Wang, Wanxin Wu, Yingguo Yang, Lulu Tang, Xueqin Yuan</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2025.180556</guid>
-    </item>
-    <item>
-      <title>Investigation of NiW@Pd nanocrystals for the electro-catalytic application in the fuel cell</title>
-      <link>https://doi.org/10.21203/rs.3.rs-6317277/v1</link>
-      <description>Ahmed B.M. Ibrahim, Mohamed A. Habib, Sidra Munir, Fawad Ahmad, No host. None(None)] 2025. https://openalex.org/W4409648191
-
-                Abstract The effective inter-conversion of electricity and chemicals via an electrochemical reaction, is significant for energy storage devices such as batteries and fuel cells. These fuel cells are regarded as promising solution to energy crisis in 21st century. The slow kinetics of oxygen reduction reaction (ORR) is one of the topmost barriers in this discipline and Pt-based catalysts are needed to boost the durability and activity of ORR. To cope with high cost and less accessibility of Pt/C catalyst, Pd based alloys are being expressed as potential replacements for Pt-based electro catalysts in fuel cells as cathodes for oxygen reduction reactions (ORR). But its performance and stability are less than those of Pt. The morphology and composition can be altered by alloying process to enhance their catalytic properties towards ORR. In this study, alloys of Pd with tungsten(W) and nickel(Ni) were synthesized and deposited the prepared material (NiWPd) onto the glassy carbon. Electrochemical investigations confirmed that NiWPd catalysts have improved electro catalytic activities towards oxygen reduction reaction (ORR) with higher specific and mass activities in comparison to Pd/C and Pt/C catalysts. 1.5% NiWPd showed highest ORR performance. Its mass activity came out to be 2.2mA/cm2 that was superior to Pd/C and Pt/C electro catalyst, due to dopants and geometrical impact.</description>
-      <author>Ahmed B.M. Ibrahim, Mohamed A. Habib, Sidra Munir, Fawad Ahmad</author>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-6317277/v1</guid>
-    </item>
-    <item>
-      <title>Nucleation in Confinement: A Pathway to Size-Controlled Ultrasmall Icosahedral Silver Nanoparticles</title>
-      <link>https://doi.org/10.1021/acs.chemmater.5c00288</link>
-      <description>Rohan Parmar, Raj Kumar Ramamoorthy, Pierre Roblin, Nicolas Ratel&#8208;Ramond, Lise&#8208;Marie Lacroix, Isaac Rodr&#237;guez-Ruiz, S&#233;bastien Teychen&#233;, Guillaume Viau, Chemistry of Materials. None(None)] 2025. https://openalex.org/W4409655754
-
-                No abstract</description>
-      <author>Rohan Parmar, Raj Kumar Ramamoorthy, Pierre Roblin, Nicolas Ratel&#8208;Ramond, Lise&#8208;Marie Lacroix, Isaac Rodr&#237;guez-Ruiz, S&#233;bastien Teychen&#233;, Guillaume Viau</author>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.5c00288</guid>
-    </item>
     <item>
       <title>Theoretical screening and mechanism exploration of excellent OER/HER catalysts for Janus 2H-WSSe monolayer adsorbed transition metal single atoms</title>
       <link>https://doi.org/10.1016/j.mssp.2025.109598</link>
@@ -492,7 +442,7 @@
       <link>https://doi.org/10.1021/jacs.5c01306</link>
       <description>Zhiqing Feng, Junya Ohyama, Soutaro Honda, Yasushi Iwata, Keisuke Awaya, Masato Machida, Masayuki Tsushida, Ryota Goto, Takeo Ichihara, Makoto Moriya, Yuta Nabae, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4409791038
 
-                No abstract</description>
+                Non-platinum group metal catalysts for the oxygen reduction reaction (ORR) and hydrogen evolution reaction (HER) under acidic conditions were developed using a CoN4 complex with a 14-membered-ring hexaazamacrocyclic ligand (Co-14MR). The carbon-supported Co-14MR catalyst (Co-14MR/C) showed higher ORR and HER activities than a conventional carbon-supported 16-membered-ring Co phthalocyanine (CoPc/C) catalyst. Heat treatment of Co-14MR/C at 600 &#176;C further enhanced its ORR and HER activity through structural modification of the Co active center via deprotonation of ligand amine groups. Density functional theory calculations indicated that the structural modifications of Co-14MR induced by heat treatment adjusted the adsorption energies of important intermediates in the ORR and HER toward optimal values, resulting in enhanced catalytic activity. The Co-14MR/C catalysts also exhibited higher durability in the ORR and HER than CoPc/C and Fe-14MR/C catalysts. Structural analysis suggested that the short Co-N bond lengths and small distortion of the CoN4 active site of the Co-14MR catalysts are the reasons for their high durability. These findings suggest that the Co-14MR structure is a promising design for non-platinum group metal catalysts for proton-exchange membrane fuel cells and water splitting.</description>
       <author>Zhiqing Feng, Junya Ohyama, Soutaro Honda, Yasushi Iwata, Keisuke Awaya, Masato Machida, Masayuki Tsushida, Ryota Goto, Takeo Ichihara, Makoto Moriya, Yuta Nabae</author>
       <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c01306</guid>
@@ -618,6 +568,56 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s11244-025-02093-0</guid>
     </item>
     <item>
+      <title>Dopant-Induced Hexagonal to Orthorhombic Phase Transition in Fe&lt;sub&gt;2&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Mo&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;P Nanorods and Its Influence on the Electrocatalytic Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acs.chemmater.4c03479</link>
+      <description>Jordon Baker, Danyang Wang, Md. Kawsar Alam, Ka Un Lao, Indika U. Arachchige, Chemistry of Materials. None(None)] 2025. https://openalex.org/W4409867737
+
+                No abstract</description>
+      <author>Jordon Baker, Danyang Wang, Md. Kawsar Alam, Ka Un Lao, Indika U. Arachchige</author>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.4c03479</guid>
+    </item>
+    <item>
+      <title>Penta-SiAsP Monolayer: A Highly Stable Pentagonal Ternary Material with Photocatalytic Potential for Overall Water Splitting</title>
+      <link>https://doi.org/10.1007/s10562-025-05015-7</link>
+      <description>Chenghao Yang, Yanqing Shen, Kexin Wang, Xiangqian Jiang, Long Pang, E Peng, Zhongxiang Zhou, Catalysis Letters. 155(6)] 2025. https://openalex.org/W4409868693
+
+                No abstract</description>
+      <author>Chenghao Yang, Yanqing Shen, Kexin Wang, Xiangqian Jiang, Long Pang, E Peng, Zhongxiang Zhou</author>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10562-025-05015-7</guid>
+    </item>
+    <item>
+      <title>Unraveling the Defluorination Mechanism of Sodium Fluoro-Aluminates on Graphite: A First-Principles Study</title>
+      <link>https://doi.org/10.1021/acs.jpca.5c00956</link>
+      <description>Min Tan, Jingjing Yan, Si Chung Chang, Hui He, Tao Li, The Journal of Physical Chemistry A. None(None)] 2025. https://openalex.org/W4409870458
+
+                The graphitized carbon blocks are used as cathode and anode materials on modern aluminum electrolyzers, which provide a reaction interface between molten salts and a graphitized cathode for the electrochemical reaction. The first-principle calculations were performed to clarify the defluorination mechanism of fluoro-aluminates on graphite cathodes in aluminum electrolysis for energy efficiency and carbon emission reduction. The adsorption behaviors of intermediates involved in defluorination reactions on graphite surfaces are analyzed, revealing their spontaneous adsorption based on their adsorption energies and charge density differences. Furthermore, the defluorination pathways of both single Na3AlF6 clusters and fluoride-aluminate polymers are elucidated. Notably, Na3AlF6, after undergoing the thermochemical defluorination process to obtain AlF3, preferentially undergoes electrochemical defluorination via Al-F-Al polymerization. The key findings indicate that the chemical defluorination of Na3AlF6 leading to NaAlF4 serves as a pivotal step, facilitating the overall defluorination process and enhancing the aluminum production efficiency. This work provides fundamental insights into optimizing aluminum electrolysis processes.</description>
+      <author>Min Tan, Jingjing Yan, Si Chung Chang, Hui He, Tao Li</author>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.5c00956</guid>
+    </item>
+    <item>
+      <title>Protons Accumulate at the Graphene&#8211;Water Interface</title>
+      <link>https://doi.org/10.1021/acsnano.5c02053</link>
+      <description>Xavier R. Advincula, Kara D. Fong, Angelos Michaelides, Christoph Schran, ACS Nano. None(None)] 2025. https://openalex.org/W4409871406
+
+                No abstract</description>
+      <author>Xavier R. Advincula, Kara D. Fong, Angelos Michaelides, Christoph Schran</author>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.5c02053</guid>
+    </item>
+    <item>
+      <title>Computational High-Throughput Screening of High-Performance Transition Metal C8n8 Single-Atom Electrocatalysts for Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.2139/ssrn.5234301</link>
+      <description>Keyuan Chen, X.L. Zhang, Li Ma, Yongzhi Wu, Haijin Li, Jueyi Ye, Ju Rong, Xiaohua Yu, Zhaohua Liu, No host. None(None)] 2025. https://openalex.org/W4409875350
+
+                No abstract</description>
+      <author>Keyuan Chen, X.L. Zhang, Li Ma, Yongzhi Wu, Haijin Li, Jueyi Ye, Ju Rong, Xiaohua Yu, Zhaohua Liu</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5234301</guid>
+    </item>
+    <item>
       <title>Uncertainty quantification for neural network potential foundation models</title>
       <link>https://doi.org/10.1038/s41524-025-01572-y</link>
       <description>Jenna A. Bilbrey, Jesun Firoz, Michael Ka Ho Lee, Sutanay Choudhury, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4409765509
@@ -626,16 +626,6 @@
       <author>Jenna A. Bilbrey, Jesun Firoz, Michael Ka Ho Lee, Sutanay Choudhury</author>
       <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01572-y</guid>
-    </item>
-    <item>
-      <title>Regressing the self-consistent Hamiltonian and density from the non-self-consistent Hamiltonian</title>
-      <link>https://doi.org/10.21203/rs.3.rs-6347952/v1</link>
-      <description>S. Richter, Thomas D. K&#252;hne, Research Square (Research Square). None(None)] 2025. https://openalex.org/W4409637053
-
-                Abstract We show that the non-self-consistent electronic Hamiltonian can be used as a chemical descriptor with all common invariances (i.e. translation, rotation, reflection, and permutation) via simple orthonormal matrix transformations. We used a linear regression on a labeled dataset of water dimer clusters with the aforementioned non-self-consistent Hamiltonian matrices as inputs to evaluate their potential as descriptors for predicting the self-consistent Hamiltonian and the corresponding ground-state electron density. Our regression tests were performed as a single layer ANN with a linear activation function to facilitate a relevance analysis. We further mapped our feature space data for non-linear regression up to third order polynomial multivariate regression. To further investigate the influence of the invariances a simplified relevance analysis on the input matrices was done using the trained weights of the input layer. This analysis revealed a shift in relevance from the intra-molecular part (without invariances) to the inter-molecular part of the input matrices when our invariances were applied.</description>
-      <author>S. Richter, Thomas D. K&#252;hne</author>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-6347952/v1</guid>
     </item>
     <item>
       <title>Science acceleration and accessibility with self-driving labs</title>
