@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Apr 2025 01:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 01:46:35 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -46,6 +46,26 @@
       <author>Victor Alves, John R. Kitchin</author>
       <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2025-hk886-v2</guid>
+    </item>
+    <item>
+      <title>Hydrophobic Ion Pairing for Simple, Non-Toxic Transfection</title>
+      <link>https://doi.org/10.1101/2025.04.25.650611</link>
+      <description>Mikaela A. Gray, Michelle Seeler, Catalina Montoya, Jaeyoung Park, D. Linh, Kathryn A. Whitehead, Julie A. Champion, No host. None(None)] 2025. https://openalex.org/W4409903359
+
+                Although biomacromolecules require intracellular delivery for therapeutic effect, existing transfection agents are often characterized by high cost, low efficiency, and/or cytotoxicity. Here, we describe a new transfection approach based on hydrophobic ion pairing (HIP), which involves the simple mixing of a hydrophobic counterion with charged biomacromolecules. Among tested cargoes (proteins, siRNA, and pDNA), the HIP siRNA system performed especially well, achieving silencing in fibroblasts (80%), T cells (90%), and neurons (70%). HIP siRNA was also highly potent in mice, with tropism dependent on the route of administration. Most notably, intraperitoneal administration enabled ~40% LAMP-1 knockdown in the pancreas, and intravenous delivery resulted in a remarkable 80% silencing in the heart. Heart delivery was also highly selectively, with no significant knockdown in the liver. Together, these data demonstrate a new, inexpensive approach to biomacromolecular delivery with the potential to target difficult-to-transfect organs, thus expanding the therapeutic potential of nucleic acids.</description>
+      <author>Mikaela A. Gray, Michelle Seeler, Catalina Montoya, Jaeyoung Park, D. Linh, Kathryn A. Whitehead, Julie A. Champion</author>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1101/2025.04.25.650611</guid>
+    </item>
+    <item>
+      <title>Event constrained programming</title>
+      <link>https://doi.org/10.1016/j.compchemeng.2025.109145</link>
+      <description>Daniel Ovalle, Stefan Mazzadi, Carl D. Laird, Ignacio E. Grossmann, Joshua L. Pulsipher, Computers &amp; Chemical Engineering. None(None)] 2025. https://openalex.org/W4409907298
+
+                No abstract</description>
+      <author>Daniel Ovalle, Stefan Mazzadi, Carl D. Laird, Ignacio E. Grossmann, Joshua L. Pulsipher</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2025.109145</guid>
     </item>
   </channel>
 </rss>

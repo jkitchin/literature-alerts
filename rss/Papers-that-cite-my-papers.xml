@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Apr 2025 01:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 01:46:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Theoretical screening and mechanism exploration of excellent OER/HER catalysts for Janus 2H-WSSe monolayer adsorbed transition metal single atoms</title>
-      <link>https://doi.org/10.1016/j.mssp.2025.109598</link>
-      <description>Zefang Li, Gangbing Song, Yukai An, Materials Science in Semiconductor Processing. 194(None)] 2025. https://openalex.org/W4409657957
-
-                No abstract</description>
-      <author>Zefang Li, Gangbing Song, Yukai An</author>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mssp.2025.109598</guid>
-    </item>
-    <item>
-      <title>Atomically precise Ni clusters inducing active NiN2 sites with uniform-large vacancies towards efficient CO2-to-CO conversion</title>
-      <link>https://doi.org/10.1038/s41467-025-59079-5</link>
-      <description>Guangyuan Xu, Xingjie Peng, Chuanqiang Wu, Shibo Xi, Huixin Xiang, Lei Feng, Zhendong Liu, Yi Duan, Li&#8208;Yong Gan, Si Chen, Yuan Kong, Yanzhe Ma, F.L. Nie, Jie Zhao, Xiao Hai, Su&#8208;Huai Wei, Meng Zhou, Tianfu Wang, Chuanhao Yao, Wu Zhou, Huan Yan, Nature Communications. 16(1)] 2025. https://openalex.org/W4409661358
-
-                CO2 electroreduction to CO promises to give an efficient strategy for CO2 fixation and transformation. However, current reported active sites fail to deliver sufficient activity with high CO Faradic efficiency (FEco) over a wide range of potential. Here, we show a general synthetic protocol to fabricate a batch of highly pure and active NiN2 catalysts with precise engineering of the uniform-large (UL) vacancy around the active sites, which is accomplished through the 'pre-deposition + pyrolysis' of various atomically precise Ni clusters (Nin) and in-situ etching of the support by the 'nano bomb' (sulfur-ligand in the clusters). The NiN2 sites with UL vacancies could achieve a high turnover frequency (TOF) of 350000 h-1 with ~100% FEco in a wide potential range of 1500 mV. In-situ infrared spectra and theoretical calculations reveal that a highly pure NiN2 site with UL vacancy contributes to this remarkable catalytic performance compared to the counterparts. This general synthetic strategy enables us to simultaneously engineer active sites and surrounding vacancies with the employment of atomically precise metal clusters, thereby enhancing catalytic performance for other specific reactions.</description>
-      <author>Guangyuan Xu, Xingjie Peng, Chuanqiang Wu, Shibo Xi, Huixin Xiang, Lei Feng, Zhendong Liu, Yi Duan, Li&#8208;Yong Gan, Si Chen, Yuan Kong, Yanzhe Ma, F.L. Nie, Jie Zhao, Xiao Hai, Su&#8208;Huai Wei, Meng Zhou, Tianfu Wang, Chuanhao Yao, Wu Zhou, Huan Yan</author>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-59079-5</guid>
-    </item>
-    <item>
-      <title>Hexaminobenzene in conductive metal-organic frameworks as bifunctional electrocatalysts for overall water splitting and metal-air batteries</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2025.237126</link>
-      <description>Anyang Wang, Xiting Wang, Xuhao Wan, Jun Jia, Zeyuan Li, Ke Xue, Rong Han, Zhaofu Zhang, Jun Wang, Yuzheng Guo, Journal of Power Sources. 644(None)] 2025. https://openalex.org/W4409661938
-
-                No abstract</description>
-      <author>Anyang Wang, Xiting Wang, Xuhao Wan, Jun Jia, Zeyuan Li, Ke Xue, Rong Han, Zhaofu Zhang, Jun Wang, Yuzheng Guo</author>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.237126</guid>
-    </item>
-    <item>
-      <title>Graph neural network-driven prediction of high-performance CO2 reduction catalysts based on Cu-based high-entropy alloys</title>
-      <link>https://doi.org/10.1016/s1872-2067(24)60264-0</link>
-      <description>Zihao Jiao, C. Zhang, Ya Liu, Liejin Guo, Ziyun Wang, CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 71(None)] 2025. https://openalex.org/W4409665084
-
-                No abstract</description>
-      <author>Zihao Jiao, C. Zhang, Ya Liu, Liejin Guo, Ziyun Wang</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(24)60264-0</guid>
-    </item>
-    <item>
-      <title>Tuning d-band electronic structure of Ni-Fe oxyhydroxides via doping engineering boosts seawater oxidation performance</title>
-      <link>https://doi.org/10.1016/s1872-2067(24)60255-x</link>
-      <description>Liyuan Xiao, Xue Bai, Jingyi Han, Zhenl&#252; Wang, Jingqi Guan, CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 71(None)] 2025. https://openalex.org/W4409665270
-
-                No abstract</description>
-      <author>Liyuan Xiao, Xue Bai, Jingyi Han, Zhenl&#252; Wang, Jingqi Guan</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(24)60255-x</guid>
-    </item>
-    <item>
-      <title>Insights into Structure-Activity Relationships between Y Zeolites and their n-C10 Hydrocracking Performances via Machine Learning Approaches</title>
-      <link>https://doi.org/10.1016/s1872-2067(24)60259-7</link>
-      <description>Qianyi Ma, Hong Nie, Ping Yang, Jianqiang Liu, Hongyi Gao, Wei David Wang, Shihao Dong, CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 71(None)] 2025. https://openalex.org/W4409665333
-
-                No abstract</description>
-      <author>Qianyi Ma, Hong Nie, Ping Yang, Jianqiang Liu, Hongyi Gao, Wei David Wang, Shihao Dong</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(24)60259-7</guid>
-    </item>
-    <item>
-      <title>Combining reinforcement learning with graph convolutional neural networks for efficient design of TiAl/TiAlN interfaces</title>
-      <link>https://doi.org/10.1111/jace.20590</link>
-      <description>Xinyu Jiang, Haofan Sun, Qiong Nian, Houlong Zhuang, Journal of the American Ceramic Society. None(None)] 2025. https://openalex.org/W4409668079
-
-                Abstract Ti/TiN coatings are used in a wide range of engineering applications due to their superior properties such as high hardness and toughness. Doping Al into Ti/TiN can further enhance properties and lead to even higher performance. Therefore, studying the atomic&#8208;level behavior of the TiAl/TiAlN interface is important. However, due to the large number of possible combinations for the 50 mol% Al&#8208;doped Ti/TiN system, it is time&#8208;consuming to use the DFT&#8208;based Monte Carlo methods to find the optimal TiAl/TiAlN system with a high work of adhesion. In this study, we use a graph convolutional neural network as an interatomic potential, combined with reinforcement learning, to improve the efficiency of finding optimal structures with a high work of adhesion. By inspecting the features of structures in neural networks, we found that the optimal structures follow a certain pattern of doping Al near the interface. The electronic structure and bonding analysis indicate that the optimal TiAl/TiAlN structures have higher bonding strength. We expect our approach to significantly accelerate the design of advanced ceramic coatings, which can lead to more durable and efficient materials for engineering applications.</description>
-      <author>Xinyu Jiang, Haofan Sun, Qiong Nian, Houlong Zhuang</author>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1111/jace.20590</guid>
-    </item>
-    <item>
-      <title>Multi-metal synergistic integration for electronic structure regulation in schreibersite-type Mo2Fe0.8Ru0.2P electrocatalysts: exceptional enhancement of activity and stability for alkaline hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jechem.2025.04.020</link>
-      <description>Peng Zhang, Shiyu Xu, Hao Li, Chenglin Cui, Sheng-Yang Huang, Zhengyang Li, Hyun Jun Song, Lirui Mao, Chan&#8208;Hwa Chung, Ho Seok Park, Jin Yong Lee, Ji Man Kim, Pil J. Yoo, Journal of Energy Chemistry. None(None)] 2025. https://openalex.org/W4409670884
-
-                No abstract</description>
-      <author>Peng Zhang, Shiyu Xu, Hao Li, Chenglin Cui, Sheng-Yang Huang, Zhengyang Li, Hyun Jun Song, Lirui Mao, Chan&#8208;Hwa Chung, Ho Seok Park, Jin Yong Lee, Ji Man Kim, Pil J. Yoo</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2025.04.020</guid>
-    </item>
-    <item>
-      <title>The Amsterdam Modeling Suite</title>
-      <link>https://doi.org/10.1063/5.0258496</link>
-      <description>Evert Jan Baerends, N&#233;stor F. Aguirre, N. Austin, Jochen Autschbach, F. Matthias Bickelhaupt, Rosa E. Bulo, Chiara Cappelli, Adri C. T. van Duin, Franco Egidi, C&#233;lia Fonseca Guerra, A. F&#246;rster, Mirko Franchini, T. P. M. Goumans, Thomas Heine, Matti Hellstr&#246;m, Christoph R. Jacob, Lasse Jensen, Mykhaylo Krykunov, Erik van Lenthe, Artur Michalak, Mariusz P. Mitoraj, Johannes Neugebauer, Valentin Paul Nicu, Pier Philipsen, Harry Ramanantoanina, Robert R&#252;ger, Georg Schreckenbach, Mauro Stener, Marcel Swart, J. M. Thijssen, Tom&#225;&#353; Trnka, Lucas Visscher, Alexei Yakovlev, Stan van Gisbergen, The Journal of Chemical Physics. 162(16)] 2025. https://openalex.org/W4409679285
-
-                In this paper, we present the Amsterdam Modeling Suite (AMS), a comprehensive software platform designed to support advanced molecular and materials simulations across a wide range of chemical and physical systems. AMS integrates cutting-edge quantum chemical methods, including Density Functional Theory (DFT) and time-dependent DFT, with molecular mechanics, fluid thermodynamics, machine learning techniques, and more, to enable multi-scale modeling of complex chemical systems. Its design philosophy allows for seamless coupling between components, facilitating simulations that range from small molecules to complex biomolecular and solid-state systems, making it a versatile tool for tackling interdisciplinary challenges, both in industry and in academia. The suite also emphasizes user accessibility, with an intuitive graphical interface, extensive scripting capabilities, and compatibility with high-performance computing environments.</description>
-      <author>Evert Jan Baerends, N&#233;stor F. Aguirre, N. Austin, Jochen Autschbach, F. Matthias Bickelhaupt, Rosa E. Bulo, Chiara Cappelli, Adri C. T. van Duin, Franco Egidi, C&#233;lia Fonseca Guerra, A. F&#246;rster, Mirko Franchini, T. P. M. Goumans, Thomas Heine, Matti Hellstr&#246;m, Christoph R. Jacob, Lasse Jensen, Mykhaylo Krykunov, Erik van Lenthe, Artur Michalak, Mariusz P. Mitoraj, Johannes Neugebauer, Valentin Paul Nicu, Pier Philipsen, Harry Ramanantoanina, Robert R&#252;ger, Georg Schreckenbach, Mauro Stener, Marcel Swart, J. M. Thijssen, Tom&#225;&#353; Trnka, Lucas Visscher, Alexei Yakovlev, Stan van Gisbergen</author>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0258496</guid>
-    </item>
-    <item>
-      <title>Tailored Transition-Metal-Anchored Indium Nitride Single-Atom Catalysts for Enhanced Electrochemical Nitrogen Reduction</title>
-      <link>https://doi.org/10.1021/acsaem.5c00569</link>
-      <description>Muhammad Tariq, K. Raghu Raja Pandiyan, Hsin&#8208;Tsung Chen, ACS Applied Energy Materials. None(None)] 2025. https://openalex.org/W4409684380
-
-                No abstract</description>
-      <author>Muhammad Tariq, K. Raghu Raja Pandiyan, Hsin&#8208;Tsung Chen</author>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.5c00569</guid>
-    </item>
     <item>
       <title>Assessment of Resource Usage in Industrial Effluent: Synthesis of V/CrNC Oxygen Reduction Catalyst from Ammonium Polyvanadate (APV) Precipitation Wastewater</title>
       <link>https://doi.org/10.1007/s40831-025-01085-4</link>
@@ -602,7 +502,7 @@
       <link>https://doi.org/10.1021/acsnano.5c02053</link>
       <description>Xavier R. Advincula, Kara D. Fong, Angelos Michaelides, Christoph Schran, ACS Nano. None(None)] 2025. https://openalex.org/W4409871406
 
-                No abstract</description>
+                Water's ability to autoionize into hydroxide and hydronium ions profoundly influences surface properties, rendering interfaces either basic or acidic. While it is well-established that protons show an affinity to the air-water interface, a critical knowledge gap exists in technologically relevant surfaces like the graphene-water interface. Here we use machine learning-based simulations with first-principles accuracy to unravel the behavior of hydroxide and hydronium ions at the graphene-water interface. Our findings reveal that protons accumulate at the graphene-water interface, with the hydronium ion predominantly residing in the first contact layer of water. In contrast, the hydroxide ion exhibits a bimodal distribution, found both near the surface and further away from it. Analysis of the underlying electronic structure reveals local polarization effects, resulting in counterintuitive charge rearrangement. Proton propensity to the graphene-water interface challenges the interpretation of surface experiments and is expected to have far-reaching consequences for ion conductivity, interfacial reactivity, and proton-mediated processes.</description>
       <author>Xavier R. Advincula, Kara D. Fong, Angelos Michaelides, Christoph Schran</author>
       <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsnano.5c02053</guid>
@@ -616,6 +516,66 @@
       <author>Keyuan Chen, X.L. Zhang, Li Ma, Yongzhi Wu, Haijin Li, Jueyi Ye, Ju Rong, Xiaohua Yu, Zhaohua Liu</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5234301</guid>
+    </item>
+    <item>
+      <title>Modulation the Coordination of Fe-Co Diatomic Sites with Boron Atom for Fuel Cells and Zn-Air Battery</title>
+      <link>https://doi.org/10.2139/ssrn.5233860</link>
+      <description>Dai Dang, Lin Zhang, Guifa Long, Chao Liu, Wenjun Fan, Jie Zheng, Tiejun Wang, Quanbing Liu, Xiaopeng Han, No host. None(None)] 2025. https://openalex.org/W4409882712
+
+                No abstract</description>
+      <author>Dai Dang, Lin Zhang, Guifa Long, Chao Liu, Wenjun Fan, Jie Zheng, Tiejun Wang, Quanbing Liu, Xiaopeng Han</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5233860</guid>
+    </item>
+    <item>
+      <title>Promoting electrocatalysts design combining general thermodynamic evaluation and specific kinetic study</title>
+      <link>https://doi.org/10.1016/j.jcat.2025.116175</link>
+      <description>Lu Han, Jun Long, Huan Li, Hao Li, Jianping Xiao, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4409887124
+
+                No abstract</description>
+      <author>Lu Han, Jun Long, Huan Li, Hao Li, Jianping Xiao</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116175</guid>
+    </item>
+    <item>
+      <title>One Size Fits All? Development of the CPOSS209 Data Set of Experimental and Hypothetical Polymorphs for Testing Computational Modeling Methods</title>
+      <link>https://doi.org/10.1021/acs.cgd.5c00255</link>
+      <description>Louise S. Price, Matteo Paloni, Matteo Salvalaglio, Sarah L. Price, Crystal Growth &amp; Design. None(None)] 2025. https://openalex.org/W4409887865
+
+                No abstract</description>
+      <author>Louise S. Price, Matteo Paloni, Matteo Salvalaglio, Sarah L. Price</author>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.cgd.5c00255</guid>
+    </item>
+    <item>
+      <title>A pH-dependent microkinetic modeling guided synthesis of porous dual-atom catalysts for efficient oxygen reduction in Zn&#8211;air batteries</title>
+      <link>https://doi.org/10.1039/d5ee00215j</link>
+      <description>Ting&#8208;Ting Li, Di Zhang, Yun Zhang, Dujuan Yang, Runxin Li, Fuyun Yu, Kengqiang Zhong, Xiaozhi Su, Tian&#8208;Wei Song, Long Jiao, Hai&#8208;Long Jiang, Guo&#8208;Ping Sheng, Jie Xu, Hao Li, Zhenyu Wu, Energy &amp; Environmental Science. None(None)] 2025. https://openalex.org/W4409889319
+
+                Guided by the pH-field microkinetic model, we developed an porous Fe 1 Co 1 &#8211;N&#8211;C ORR catalyst, which exhibited excellent performance in zinc&#8211;air batteries and provided insights for advanced catalysts.</description>
+      <author>Ting&#8208;Ting Li, Di Zhang, Yun Zhang, Dujuan Yang, Runxin Li, Fuyun Yu, Kengqiang Zhong, Xiaozhi Su, Tian&#8208;Wei Song, Long Jiao, Hai&#8208;Long Jiang, Guo&#8208;Ping Sheng, Jie Xu, Hao Li, Zhenyu Wu</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ee00215j</guid>
+    </item>
+    <item>
+      <title>Electrochemical Dissolution: Paths in High-Entropy Alloy Composition Space</title>
+      <link>https://doi.org/10.1007/s44210-025-00057-3</link>
+      <description>Mads K. Plenge, Jack K. Pedersen, Luis A. Cipriano, Jan Rossmeisl, Deleted Journal. None(None)] 2025. https://openalex.org/W4409906731
+
+                Abstract The stability of a nanoparticle catalyst during electrochemical reaction is crucial for its application. Despite increasing interest in multi-metallic alloy nanoparticles, such as high-entropy alloys (HEAs), for electrocatalysis and emerging models for their catalytic activity, there is limited work on frameworks that can predict the metastability of these alloys under reaction conditions, including stability against electrochemical surface dissolution. Incorporating electrochemical stability in multi-objective optimization would advance HEAs as a catalyst discovery platform. To address the knowledge gap on electrochemical stability, we propose a methodology for simulating the dissolution of n-element alloy nanoparticles comprised of density functional theory and machine-learning regression to calculate the dissolution potentials of the surface atoms. We demonstrate the methodology for the Ag&#8211;Au&#8211;Cu&#8211;Ir&#8211;Pd&#8211;Pt&#8211;Rh&#8211;Ru HEA system with the conditions of the oxygen reduction reaction. We investigated trends in stability against dissolution through a compositional grid search for the octo-metallic composition space, uncovering two alloying strategies to increase stability against electrochemical surface dissolution: Alloying with a noble metal or a metal with high relative surface energy. In the simulations, stabilization ensues from forming a protective surface layer, and consequently, the dissolution of persistent alloyed nanoparticles results in core&#8211;shell structures. The model enables tracing the evolution of the surface and dissolved composition during electrochemical dissolution, forming paths of dissolution and revealing unretainable surface compositions. Graphical Abstract</description>
+      <author>Mads K. Plenge, Jack K. Pedersen, Luis A. Cipriano, Jan Rossmeisl</author>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s44210-025-00057-3</guid>
+    </item>
+    <item>
+      <title>Enhancing economic viability in carbon capture and storage with enhanced oil recovery projects: A dynamic stochastic approach to CO2 monitoring cost optimization</title>
+      <link>https://doi.org/10.1016/j.cie.2025.111187</link>
+      <description>Peng Wu, Shansen Wei, Chengwei Lv, Qiangqiang Ren, Hong Wang, Computers &amp; Industrial Engineering. None(None)] 2025. https://openalex.org/W4409907428
+
+                No abstract</description>
+      <author>Peng Wu, Shansen Wei, Chengwei Lv, Qiangqiang Ren, Hong Wang</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cie.2025.111187</guid>
     </item>
     <item>
       <title>Uncertainty quantification for neural network potential foundation models</title>
