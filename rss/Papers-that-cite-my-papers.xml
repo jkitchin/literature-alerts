@@ -4,189 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 May 2025 01:46:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 01:39:15 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Assessment of Resource Usage in Industrial Effluent: Synthesis of V/CrNC Oxygen Reduction Catalyst from Ammonium Polyvanadate (APV) Precipitation Wastewater</title>
-      <link>https://doi.org/10.1007/s40831-025-01085-4</link>
-      <description>Han Yang, Yan Liu, Jibiao Han, Quan Yang, Yong Li, Ting&#8208;an Zhang, Journal of Sustainable Metallurgy. None(None)] 2025. https://openalex.org/W4409697055
-
-                No abstract</description>
-      <author>Han Yang, Yan Liu, Jibiao Han, Quan Yang, Yong Li, Ting&#8208;an Zhang</author>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s40831-025-01085-4</guid>
-    </item>
-    <item>
-      <title>Catalytic Activity of an Ensemble of Sites for CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation to Methanol on a ZrO&lt;sub&gt;2&lt;/sub&gt;-on-Cu Inverse Catalyst</title>
-      <link>https://doi.org/10.1021/jacs.5c00848</link>
-      <description>Zihan Yang, Simran Kumari, Anastassia N. Alexandrova, Philippe Sautet, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4409700371
-
-                The significant increase in CO2 emissions from heavy fossil fuel utilization has raised serious concerns, highlighting the need for effective methods to convert CO2 into value-added chemicals. Here, we report a computational investigation on the catalytic activity of ZrO2-on-Cu inverse catalysts for CO2 hydrogenation to methanol, considering highly dispersed ZrO2 trimers on Cu (111). Such clusters present a large ensemble of formate-containing configurations, Zr3On(OH)m(OCHO)l, making the evaluation of the catalytic activity very challenging. We found that the sites on the various catalyst configurations exhibit markedly different activities for formate hydrogenation, despite their similar free energy and composition. To understand these differences in reactivity, we examined the structural and electronic nature of the low free-energy catalyst configurations and identified that the energy of the lowest unoccupied orbital of the reacting formate, modified by its binding with the catalytic site, is a descriptor for the reaction energy of the formate hydrogenation step. From there, we screened an ensemble of catalyst structures using this descriptor to predict highly active metastable catalyst configurations and computed the reaction pathways and transition states for formate hydrogenation. From this investigation, we distinguished reactive from nonreactive sites and formate species on the ZrO2/Cu inverse catalyst based on structural and electronic features. We showed that rare metastable configurations control the activity. Additionally, an efficient method for examining the reactivity of a large number of coexisting catalyst structures was developed.</description>
-      <author>Zihan Yang, Simran Kumari, Anastassia N. Alexandrova, Philippe Sautet</author>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c00848</guid>
-    </item>
-    <item>
-      <title>Machine&#8208;Learning&#8208;Assisted Design and Optimization of Single&#8208;Atom Transition Metal&#8208;Incorporated Carbon Quantum Dot Catalysts for Electrocatalytic Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/cey2.70006</link>
-      <description>Unbeom Baeck, Min&#8208;Cheol Kim, Duong Nguyen Nguyen, Jaekyum Kim, Jaehyoung Lim, Yujin Chae, Namsoo Shin, Heechae Choi, Joon Young Kim, Chan&#8208;Hwa Chung, Woo&#8208;Seok Choe, Ho Seok Park, Uk Sim, Jung Kyu Kim, Carbon Energy. None(None)] 2025. https://openalex.org/W4409702011
-
-                ABSTRACT Hydrogen evolution reaction (HER) in acidic media has been spotlighted for hydrogen production since it is a favourable kinetics with the supplied protons from a counterpart compared to that within alkaline environment. However, there is no choice but to use a platinum&#8208;based catalyst yet. As for a noble metal&#8208;free electrocatalyst, incorporation of earth&#8208;abundant transition metal (TM) atoms into nanocarbon platforms has been extensively adopted. Although a data&#8208;driven methodology facilitates the rational design of TM&#8208;anchored carbon catalysts, its practical application suffers from either a simplified theoretical model or the prohibitive cost and complexity of experimental data generation. Herein, an effective and facile catalyst design strategy is proposed based on machine learning (ML) and its model verification using electrochemical methods accompanied by density functional theory simulations. Based on a Bayesian genetic algorithm ML model, the Ni&#8208;incorporated carbon quantum dots (Ni@CQD) loaded on a three&#8208;dimensional reduced graphene oxide conductor are proposed as the best HER catalyst amongst the various TM&#8208;incorporated CQDs under the optimal conditions of catalyst loading, electrode type, and temperature and pH of electrolyte. The ML results are validated with electrochemical experiments, where the Ni@CQD catalyst exhibited superior HER activity, requiring an overpotential of 151 mV to achieve 10 mA cm &#8722;2 with a Tafel slope of 52 mV dec &#8722;1 and impressive durability in acidic media up to 100 h. This methodology can provide an effective route for the rational design of highly active electrocatalysts for commercial applications.</description>
-      <author>Unbeom Baeck, Min&#8208;Cheol Kim, Duong Nguyen Nguyen, Jaekyum Kim, Jaehyoung Lim, Yujin Chae, Namsoo Shin, Heechae Choi, Joon Young Kim, Chan&#8208;Hwa Chung, Woo&#8208;Seok Choe, Ho Seok Park, Uk Sim, Jung Kyu Kim</author>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cey2.70006</guid>
-    </item>
-    <item>
-      <title>Empowering materials science with VASPKIT: a toolkit for enhanced simulation and analysis</title>
-      <link>https://doi.org/10.1038/s41596-025-01160-w</link>
-      <description>W. T. Geng, Ya-Chao Liu, Nan Xu, Gang Tang, Yoshiyuki Kawazoe, Vei Wang, Nature Protocols. None(None)] 2025. https://openalex.org/W4409706620
-
-                No abstract</description>
-      <author>W. T. Geng, Ya-Chao Liu, Nan Xu, Gang Tang, Yoshiyuki Kawazoe, Vei Wang</author>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41596-025-01160-w</guid>
-    </item>
-    <item>
-      <title>Nanoarchitectonics for Pentagon Defects in Carbon: Properties and Catalytic Role in Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1002/smtd.202500069</link>
-      <description>Guoping Chen, Taro Koide, Junji Nakamura, Katsuhiko Ariga, Small Methods. None(None)] 2025. https://openalex.org/W4409710258
-
-                Abstract The oxygen reduction reaction (ORR) is a crucial process in electrochemical energy technologies, featuring fuel cells and metal&#8208;air batteries in the coming carbon&#8208;neutral society. Carbon materials have garnered significant attention as economical, sustainable alternatives to precious metal catalysts. In particular, there have been increasing reports recently that pentagons introduced into graphitic carbons promote catalytic activity for ORR. In addition, interesting studies are reported on carbon materials&#8217; synthesis, characterization, and spin polarization properties with pentagonal defects. This review comprehensively summarizes the formation mechanism, characterization, spin, oxygen (O 2 ) adsorption, and ORR catalytic activity of carbon catalysts with pentagonal defects. By connecting the dots between theoretical insights and experimental results, this review elucidates the fundamental principles governing pentagon&#8208;related activity and offers perspectives on future directions for designing efficient ORR catalysts based on carbon materials.</description>
-      <author>Guoping Chen, Taro Koide, Junji Nakamura, Katsuhiko Ariga</author>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202500069</guid>
-    </item>
-    <item>
-      <title>Surface Reconstruction of Amorphous Ni&#9472;Co&#9472;S&#9472;O Material with a Functional Gradient Layer for Highly Efficient and Stable Alkaline Hydrogen Evolution</title>
-      <link>https://doi.org/10.1002/smll.202502293</link>
-      <description>Lijuan Liu, Yingqiu Zheng, Wenshu Chen, Yongping Du, Linfeng Hu, Guoqiang Luo, Qiang Shen, Jian Zhang, Small. None(None)] 2025. https://openalex.org/W4409710552
-
-                Abstract Alkaline water electrolysis holds potential for large&#8208;scale, high&#8208;purity hydrogen production. However, the slow kinetics of water dissociation and challenging conditions in alkaline environments complicate the search for an electrocatalyst with both high activity and durability. In this study, a highly active and stable amorphous electrocatalyst is introduced, 3Ni&#9472;Co&#9472;S&#9472;O, developed via a straightforward electrodeposition method for alkaline hydrogen evolution reaction (HER). Notably, the surface of the 3Ni&#9472;Co&#9472;S&#9472;O catalyst undergoes a compositional reconstruction during alkaline HER, yet maintains its amorphous structure. This reconstruction spans roughly 6 &#181;m, leading to a gradual decrease in Ni and S content and a corresponding increase in O concentration toward the surface, thereby forming a stable, gradient active layer. Benefitting from this layer and its amorphous nature, the 3Ni&#9472;Co&#9472;S&#9472;O catalyst demonstrates superior alkaline HER activity&#8212;requiring only 170 mV to achieve an industrial HER current density of 1000 mA cm &#8722;2 . It also showcases remarkable stability, with a mere 15 mV increase in overpotential during continuous HER at 300 mA cm &#8722;2 for 24 h, outperforming the commercial Pt/C catalyst. The research provides a novel approach to designing high&#8208;performance amorphous alkaline HER electrocatalysts cost&#8208;effectively and contributes insights for understanding and developing advanced amorphous catalysts across various applications.</description>
-      <author>Lijuan Liu, Yingqiu Zheng, Wenshu Chen, Yongping Du, Linfeng Hu, Guoqiang Luo, Qiang Shen, Jian Zhang</author>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202502293</guid>
-    </item>
-    <item>
-      <title>Regulating Na content and Mn defects in birnessite for high-voltage aqueous sodium-ion batteries</title>
-      <link>https://doi.org/10.1038/s41467-025-59223-1</link>
-      <description>Xiaohui Zhu, Jing Xu, Qinghua Zhang, Tao Shen, Yuhang Zhuang, Tingting Chen, Shuang Li, Lin Gu, Hui Xia, Nature Communications. 16(1)] 2025. https://openalex.org/W4409712858
-
-                Na-birnessite is a promising low-cost positive electrode material for aqueous sodium-ion batteries. However, its sodium storage capability is limited by narrow potential window and low redox activity in aqueous electrolytes. Herein, a Na-rich birnessite (NaMnO2&#8226;0.1H2O) with a highly ordered layered structure is reported as an advanced positive electrode for aqueous sodium-ion batteries, greatly suppressing Mn migration and its accompanying domino degradation effect, which enables a promoted upper charging cut-off potential up to 1.4 V (vs. Ag/AgCl), an enhanced specific capacity of 199.9 mAh g-1 at a specific current of 0.2 A g-1 based on the mass of active material for positive electrode, and greatly improved structural stability. In particular, a 3.0 V NaxH2-xTi2O5||NaMnO2&#8226;0.1H2O aqueous full cell prototype is validated, exhibiting a large specific energy of 117.1 Wh kg-1 based on the total mass of active materials in both positive and negative electrodes as well as a long cycle life. This work elucidates how interlayer chemistry and structural defects influence sodium ion storage in layered structures and provides opportunities for developing high-voltage aqueous batteries with large specific energy.</description>
-      <author>Xiaohui Zhu, Jing Xu, Qinghua Zhang, Tao Shen, Yuhang Zhuang, Tingting Chen, Shuang Li, Lin Gu, Hui Xia</author>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-59223-1</guid>
-    </item>
-    <item>
-      <title>Universal Neural Network Potential Study of the Pt/CO Heterogeneous Catalytic System</title>
-      <link>https://doi.org/10.1016/j.surfin.2025.106542</link>
-      <description>Gerardo Valadez Huerta, Y&#363;suke Nanba, Michihisa Koyama, Surfaces and Interfaces. None(None)] 2025. https://openalex.org/W4409716699
-
-                No abstract</description>
-      <author>Gerardo Valadez Huerta, Y&#363;suke Nanba, Michihisa Koyama</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.106542</guid>
-    </item>
-    <item>
-      <title>A Deep Generative Model for the Inverse Design of Transition Metal Ligands and Complexes</title>
-      <link>https://doi.org/10.1021/jacsau.5c00242</link>
-      <description>Magnus Strandgaard, Trond Linjordet, Hannes Kneiding, Arron L. Burnage, Ainara Nova, Jan H. Jensen, David Balcells, JACS Au. None(None)] 2025. https://openalex.org/W4409719662
-
-                No abstract</description>
-      <author>Magnus Strandgaard, Trond Linjordet, Hannes Kneiding, Arron L. Burnage, Ainara Nova, Jan H. Jensen, David Balcells</author>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacsau.5c00242</guid>
-    </item>
-    <item>
-      <title>Key Descriptors of Single-Atom Catalysts Supported on MXenes (Mo&lt;sub&gt;2&lt;/sub&gt;C, Ti&lt;sub&gt;2&lt;/sub&gt;C) Determining CO&lt;sub&gt;2&lt;/sub&gt; Activation</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c07850</link>
-      <description>Anna Vidal-L&#243;pez, Judith Mahringer, Aleix Comas&#8208;Vives, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4409723086
-
-                No abstract</description>
-      <author>Anna Vidal-L&#243;pez, Judith Mahringer, Aleix Comas&#8208;Vives</author>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07850</guid>
-    </item>
-    <item>
-      <title>EM-DAT: the Emergency Events Database</title>
-      <link>https://doi.org/10.1016/j.ijdrr.2025.105509</link>
-      <description>Damien Delforge, Valentin Wathelet, Regina Below, Cinzia Lanfredi Sofia, Margo Tonnelier, Joris Adriaan Frank van Loenhout, Niko Speybroeck, International Journal of Disaster Risk Reduction. None(None)] 2025. https://openalex.org/W4409724531
-
-                No abstract</description>
-      <author>Damien Delforge, Valentin Wathelet, Regina Below, Cinzia Lanfredi Sofia, Margo Tonnelier, Joris Adriaan Frank van Loenhout, Niko Speybroeck</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijdrr.2025.105509</guid>
-    </item>
-    <item>
-      <title>2D Novel o-B2N2 supported single-atom catalysts: Multifunctional activity in Hydrogen/Oxygen electrocatalysis</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.163335</link>
-      <description>Chunling Zhang, Xunzhe Zhang, Baonan Jia, Xinhui Zhang, Ge Wu, Jinbo Hao, Pengfei Lu, Applied Surface Science. None(None)] 2025. https://openalex.org/W4409726015
-
-                No abstract</description>
-      <author>Chunling Zhang, Xunzhe Zhang, Baonan Jia, Xinhui Zhang, Ge Wu, Jinbo Hao, Pengfei Lu</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.163335</guid>
-    </item>
-    <item>
-      <title>Expanding the Repertoire of Photoswitchable Unnatural Amino Acids for Enzyme Engineering</title>
-      <link>https://doi.org/10.1101/2025.04.17.649278</link>
-      <description>Caroline Hiefinger, Michela Marcon, Verena Pape, Guillem Casadevall, Ranit Lahmy, Julian Nazet, Michael H. Bartl, Astrid Bruckmann, S&#237;lvia Osuna, Burkhard Koenig, Andrea C. Kneuttinger, bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2025. https://openalex.org/W4409728204
-
-                Abstract Photoswitchable unnatural amino acids (psUAAs) play a crucial role in the engineering of light-sensitivity in enzymes, which holds significant promise for diverse applications such as biotherapy and biocatalysis. Besides near-quantitative photoconversion, the success and expediency of a psUAA for a certain application is defined by its interaction potential with the enzyme, its thermal stability and its effective wavelength of irradiation. To establish high versatility in the current repertoire, we have designed and synthesized six psUAAs based on azobenzene, arylazopyrazole, arylazothiazole, hemithioindigo and spiropyran photoswitches. The resulting psUAAs exhibit an enhanced interaction potential within an enzyme owing to their capacity for hydrogen bonding, ionic interactions, and metal ion coordination. Moreover, we observed diverse photochemical behaviors among the psUAAs, with four of them reversibly switching between the isomers with purely visible light. Notably, we identified orthogonal aminoacyl-tRNA synthetases that facilitate the incorporation of five of the six psUAAs co-translationally and computationally analyzed the synthetase-psUAA interactions. Finally, we evaluated the photochemical behavior of the five psUAAs within an enzymatic model and tested the photocontrol of catalysis confirming their diversity. Ultimately, our findings significantly expanded the repertoire of psUAAs and demonstrated their feasibility for enzyme engineering studies.</description>
-      <author>Caroline Hiefinger, Michela Marcon, Verena Pape, Guillem Casadevall, Ranit Lahmy, Julian Nazet, Michael H. Bartl, Astrid Bruckmann, S&#237;lvia Osuna, Burkhard Koenig, Andrea C. Kneuttinger</author>
-      <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1101/2025.04.17.649278</guid>
-    </item>
-    <item>
-      <title>Green Phosphorene: Theoretical Investigation of Its Promise as an Anode for High-Efficiency Lithium/Sodium-Ion Batteries</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c08089</link>
-      <description>E. Granda-Rodriguez, J. W. Gonz&#225;lez, J.D. Correa, Elizabeth Fl&#243;rez, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4409730397
-
-                No abstract</description>
-      <author>E. Granda-Rodriguez, J. W. Gonz&#225;lez, J.D. Correa, Elizabeth Fl&#243;rez</author>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c08089</guid>
-    </item>
-    <item>
-      <title>Symmetry-oriented enumeration method for molecular crystal structure prediction and its application</title>
-      <link>https://doi.org/10.1103/physrevb.111.134112</link>
-      <description>Xin Yu, Zengqi Xie, Yun-Ting Chen, Pengyue Gao, H. J. Zhao, Jian Lv, Yanchao Wang, Yanming Ma, Physical review. B./Physical review. B. 111(13)] 2025. https://openalex.org/W4409731164
-
-                No abstract</description>
-      <author>Xin Yu, Zengqi Xie, Yun-Ting Chen, Pengyue Gao, H. J. Zhao, Jian Lv, Yanchao Wang, Yanming Ma</author>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.111.134112</guid>
-    </item>
-    <item>
-      <title>Detection and Measurement of Interfacial Charge Transfer Relaxation Time: FeNi/NF Electrocatalysts for Water Splitting to Hydrogen</title>
-      <link>https://doi.org/10.1021/acsami.5c02561</link>
-      <description>Ahmed Halilu, Mahar Diana Hamid, Abubakar Abubakar Umar, Mohd Ali Hashim, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4409732503
-
-                A cost-effective nickel-iron (Ni-Fe) alloy with a predominant face-centered cubic(111) crystallographic orientation is demonstrated as a high-performance electrocatalyst for the hydrogen evolution reaction (HER). This alloy demonstrates mutual hybridization of Ni and Fe d-orbitals, bringing its valence energy level close to the Fermi level, comparable to that of the benchmark Pt/C catalyst. While water-splitting electrocatalysts typically undergo surface structural evolution after each reaction cycle, the time scale of surface reconstruction during HER remains uncharted. This study presents a NiFe/NF alloy with an enriched (111) orientation, an active surface area of 24,217 &#177; 0.1 cm2, an average crystallite size of 14.5 nm, and 0.634% lattice strain as an HER electrocatalyst. The electrocatalyst exhibits excellent performance towards HER, achieving a current density exceeding 800 mA/cm2, an overpotential of -133 mV, and a hydrogen turnover frequency of 2.8 &#215; 1012 s-1, and maintaining stable operation over 100 h. The distribution of relaxation time (DRT) analysis is introduced to deconvolute the HER process. A distinct high-frequency peak is attributed to interfacial charge transfer with a 2.38 &#215; 10-6 s relaxation time. Additionally, medium- and low-frequency peaks represent ion transport and hydrogen adsorption/desorption at 277.4 &#215; 10-6 and 905.1 &#215; 10-6 s relaxation times, respectively. The assignments can serve as a reference on the bulk and interfacial relaxation times critical for understanding electrocatalyst surface evolution using the DRT method, regardless of the material or type of electrochemical reaction. These findings are useful for advancing the design of low-cost, transition-metal-based alloys as catalysts for clean energy systems.</description>
-      <author>Ahmed Halilu, Mahar Diana Hamid, Abubakar Abubakar Umar, Mohd Ali Hashim</author>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c02561</guid>
-    </item>
-    <item>
-      <title>Recent advances in the measurement of thermochemical, electrochemical and photochemical efficiency of CO2 conversion to value-added products - its challenges and future directions</title>
-      <link>https://doi.org/10.1016/j.meaene.2025.100049</link>
-      <description>Subodh Chaudhari, Harish Pawar, Kajal Pawar, Pavan More, Deleted Journal. None(None)] 2025. https://openalex.org/W4409737971
-
-                No abstract</description>
-      <author>Subodh Chaudhari, Harish Pawar, Kajal Pawar, Pavan More</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.meaene.2025.100049</guid>
-    </item>
-    <item>
-      <title>Defective Carbon Catalysts with Graphitic N-Modified Adjacent Pentagons as Active Sites for Boosted Oxygen Reduction Reaction in Seawater</title>
-      <link>https://doi.org/10.1021/acsami.5c01475</link>
-      <description>Lei Wang, Xuan Liu, Mengting Huang, Yun Han, Panjie Guo, Run Huang, Runsheng Chen, Helong Wu, Jinyan Zhang, Shuangming Chen, Aijun Du, Xin Wang, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4409738001
-
-                Seawater electrocatalysis is highly desired for various energy storage and conversion systems, such as water splitting using seawater as an electrolyte and metal fuel cells. However, the adsorption of chloride ions (Cl-) on the active sites of cathodes would worsen the oxygen reduction reaction (ORR) activity and stability, thus lowering the battery performance. Herein, the coupling active sites of graphitic N-regulated adjacent pentagon defects in carbon nanosheets (GAP/CN) were first synthesized by a low-boiling-point metal-mediated partial N-removal strategy. Experimental and theoretical results affirm the advantageous cooperative effect between adjacent pentagons and graphitic N toward the ORR in a harsh seawater environment, where adjacent pentagons act as the authentic highly effective ORR active sites and surrounding graphitic N site serves as the structural regulator to weaken the binding strength of harmful Cl- to prevent catalyst poisoning. As a result, GAP/CN delivers excellent ORR activities in diverse electrolytes, including 0.1 M KOH (half-wave potential of 0.87 V), alkaline artificial seawater (half-wave potential of 0.87 V), and natural seawater (half-wave potential of 0.71 V), and also good long-term stability, which can be comparable to commercial Pt/C. This study provides valuable guidance for the rational design of ORR electrocatalysts for seawater-related energy-conversion devices.</description>
-      <author>Lei Wang, Xuan Liu, Mengting Huang, Yun Han, Panjie Guo, Run Huang, Runsheng Chen, Helong Wu, Jinyan Zhang, Shuangming Chen, Aijun Du, Xin Wang</author>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c01475</guid>
-    </item>
     <item>
       <title>Electrosynthesis of NH3 from low-concentration NO on cascade dual-site catalysts in neutral media</title>
       <link>https://doi.org/10.21203/rs.3.rs-6497629/v1</link>
@@ -256,6 +76,16 @@
       <author>Minsu Han, Tomota Nagaura, Ho Ngoc Nam, Zihao Yang, Azhar Alowasheeir, Quan Manh Phung, Takeshi Yanai, Jeonghun Kim, Saad M. Alshehri, Tansir Ahamad, Yoshio Bando, Yusuke Yamauchi</author>
       <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202501534</guid>
+    </item>
+    <item>
+      <title>Multi-scale Modeling and Experimental Investigation of Oxidation Behavior in Platinum Nanoparticles</title>
+      <link>https://doi.org/10.1039/d5cp00134j</link>
+      <description>Tom Demeyere, Husn U. Islam, Tom Ellaby, Misbah Sarwar, David Thompsett, Chris&#8208;Kriton Skylaris, Physical Chemistry Chemical Physics. None(None)] 2025. https://openalex.org/W4409775905
+
+                Hybrid experimental/simulation work to advance the understanding of platinum nanoparticle oxidation mechanisms.</description>
+      <author>Tom Demeyere, Husn U. Islam, Tom Ellaby, Misbah Sarwar, David Thompsett, Chris&#8208;Kriton Skylaris</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5cp00134j</guid>
     </item>
     <item>
       <title>Revealing the new role of surface states in interfacial charge transfer at zinc ferrite photoanodes for efficient photoelectrochemical water splitting</title>
@@ -578,6 +408,106 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cie.2025.111187</guid>
     </item>
     <item>
+      <title>High entropy alloy CoCrFeNiAlMox coatings as cost-effective bifunctional catalysts for enhanced water electrolysis efficiency</title>
+      <link>https://doi.org/10.1016/j.apsusc.2025.163357</link>
+      <description>Xiaoran Huo, Yuanwu Zhang, Jinyuan Zhong, Ge Zhou, Xiaojiao Zuo, Nannan Zhang, Xuelu Xu, Applied Surface Science. None(None)] 2025. https://openalex.org/W4409911950
+
+                No abstract</description>
+      <author>Xiaoran Huo, Yuanwu Zhang, Jinyuan Zhong, Ge Zhou, Xiaojiao Zuo, Nannan Zhang, Xuelu Xu</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.163357</guid>
+    </item>
+    <item>
+      <title>Optimal Solution for Modeling Electrocatalysis on Two-Dimensional Single-Atom Catalysts with Grand Canonical DFT</title>
+      <link>https://doi.org/10.1021/acscatal.5c00199</link>
+      <description>Zhen Liu, Yifan Sun, Yinghong Wang, Wei Zhang, Li&#8208;Hua Gan, Xiaohong Liu, Liu&#8208;Bin Zhao, ACS Catalysis. None(None)] 2025. https://openalex.org/W4409914615
+
+                No abstract</description>
+      <author>Zhen Liu, Yifan Sun, Yinghong Wang, Wei Zhang, Li&#8208;Hua Gan, Xiaohong Liu, Liu&#8208;Bin Zhao</author>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c00199</guid>
+    </item>
+    <item>
+      <title>Sr and Co Co-doping on Thermochemical Energy Storage Properties of CaMnO&lt;sub&gt;3&#8722;&#948;&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acsaem.5c00261</link>
+      <description>Ruiqing Zhang, Guanyu Li, Shiyi Chen, Wenguo Xiang, ACS Applied Energy Materials. None(None)] 2025. https://openalex.org/W4409917877
+
+                No abstract</description>
+      <author>Ruiqing Zhang, Guanyu Li, Shiyi Chen, Wenguo Xiang</author>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.5c00261</guid>
+    </item>
+    <item>
+      <title>Tribological and micromechanical performance of hard yet tough TiSiN/WN coatings: An experimental analysis of multilayer effects</title>
+      <link>https://doi.org/10.1016/j.ijrmhm.2025.107212</link>
+      <description>Olga Maksakova, Kateryna Smyrnova, Barbora Ludrovcov&#225;, Miroslav Sahul, Mari&#225;n Har&#353;&#225;ni, Martin Truchl&#253;, Miroslav Sahul, Tom&#225;&#353; Vopat, Matej Pa&#353;&#225;k, A.O. Kozak, A.D. Pogrebnjak, International Journal of Refractory Metals and Hard Materials. None(None)] 2025. https://openalex.org/W4409919530
+
+                No abstract</description>
+      <author>Olga Maksakova, Kateryna Smyrnova, Barbora Ludrovcov&#225;, Miroslav Sahul, Mari&#225;n Har&#353;&#225;ni, Martin Truchl&#253;, Miroslav Sahul, Tom&#225;&#353; Vopat, Matej Pa&#353;&#225;k, A.O. Kozak, A.D. Pogrebnjak</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijrmhm.2025.107212</guid>
+    </item>
+    <item>
+      <title>Gold-catalyzed construction of atomically rough surfaces towards high-efficiency ethanol electrooxidation</title>
+      <link>https://doi.org/10.1016/j.scib.2025.04.051</link>
+      <description>Qing Zeng, Mengyuan Ma, Hui Liu, Lin Xu, Shaonan Tian, Dong Chen, Jing Wang, Jun Yang, Science Bulletin. None(None)] 2025. https://openalex.org/W4409920621
+
+                No abstract</description>
+      <author>Qing Zeng, Mengyuan Ma, Hui Liu, Lin Xu, Shaonan Tian, Dong Chen, Jing Wang, Jun Yang</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.scib.2025.04.051</guid>
+    </item>
+    <item>
+      <title>Enhanced phosphoric acid tolerance and intrinsic activity of ordered platinum-zinc alloy catalysts for oxygen reduction reaction</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.137739</link>
+      <description>Hong Zhang, Huanqiao Li, Xiaoming Zhang, Shansheng Yu, Suli Wang, Gongquan Sun, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4409922306
+
+                No abstract</description>
+      <author>Hong Zhang, Huanqiao Li, Xiaoming Zhang, Shansheng Yu, Suli Wang, Gongquan Sun</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137739</guid>
+    </item>
+    <item>
+      <title>Oxygen electrocatalytic enhancement through strong hybridization of active centers</title>
+      <link>https://doi.org/10.1016/j.electacta.2025.146348</link>
+      <description>Xi Chen, Huating Liu, Xiang Qi, Jianxin Zhong, Zongyu Huang, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4409922436
+
+                No abstract</description>
+      <author>Xi Chen, Huating Liu, Xiang Qi, Jianxin Zhong, Zongyu Huang</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146348</guid>
+    </item>
+    <item>
+      <title>A grain boundary embrittlement genome for substitutional cubic alloys</title>
+      <link>https://doi.org/10.1063/5.0264543</link>
+      <description>Nutth Tuchinda, G. B. Olson, Christopher A. Schuh, Applied Physics Letters. 126(17)] 2025. https://openalex.org/W4409933088
+
+                Grain boundary chemistry plays a critical role for the properties of metals and alloys, yet there is a lack of consistent datasets for alloy design and development. With the advent of artificial intelligence and machine learning in materials science, open materials models and datasets can be used to overcome such challenges. Here, we use a universal interatomic potential to compute a grain boundary segregation and embrittlement genome for the &#931;5[001](210) grain boundary for FCC and BCC binary alloys. The grain boundary database calculated here serves as a design tool for the embrittlement of high-angle grain boundaries for alloys across 30 base metals of Ag, Al, Au, Ba, Ca, Ce, Co, Cr, Cs, Cu, Fe (both BCC and FCC), Ir, K, Li, Mo, Na, Nb, Ni, Pb, Pd, Pt, Rb, Rh, Sr, Ta, Ti, V, W, Yb, and Zr with 75 solute elements for each.</description>
+      <author>Nutth Tuchinda, G. B. Olson, Christopher A. Schuh</author>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0264543</guid>
+    </item>
+    <item>
+      <title>Advances in Nickel&#8208;Based Catalysts for Alkaline Water Electrolysis: Comprehensive Review of Current Research Direction for HER and OER Applications</title>
+      <link>https://doi.org/10.1002/tcr.202500049</link>
+      <description>Ivana Perovi&#263;, Stefan Mitrovi&#263;, Sne&#382;ana Brkovi&#263;, Igor A. Pa&#353;ti, The Chemical Record. None(None)] 2025. https://openalex.org/W4409950640
+
+                Abstract Nickel&#8208;based catalysts are among the most promising materials for electrocatalytic water splitting, particularly for the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) in alkaline media. Their abundance, cost&#8208;effectiveness, and tunable electrochemical properties make them attractive alternatives to precious metal catalysts. This review provides a comprehensive analysis of the advancements in nickel&#8208;based catalysts, including pure nickel, alloys, oxides, hydroxides, and spinels, emphasizing their synthesis methods, structural properties, and electrocatalytic performance. Recent nanostructuring, doping, and hybridization innovations with conductive supports have significantly enhanced catalytic activity, stability, and efficiency. Despite notable progress, challenges remain in improving long&#8208;term durability, minimizing surface degradation, and scaling up production for industrial applications. Addressing these limitations through advanced catalyst design, in situ characterization, and integration with renewable energy sources will be crucial for widely adopting nickel&#8208;based catalysts in sustainable hydrogen production. This review highlights the key developments and future directions in the field, underscoring the role of nickel&#8208;based materials in enabling the hydrogen economy and global decarbonization efforts.</description>
+      <author>Ivana Perovi&#263;, Stefan Mitrovi&#263;, Sne&#382;ana Brkovi&#263;, Igor A. Pa&#353;ti</author>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/tcr.202500049</guid>
+    </item>
+    <item>
+      <title>Theoretical Insights into the Activation and Conversion of Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction on 3&lt;i&gt;d&lt;/i&gt; Transition Metal&#8208;Doped Cu(111) Stepped Structures</title>
+      <link>https://doi.org/10.1002/celc.202500095</link>
+      <description>Lihong Yin, Jinxian Feng, Weng Fai Ip, Guangfu Luo, Hui Pan, ChemElectroChem. None(None)] 2025. https://openalex.org/W4409959087
+
+                The activation of CO 2 is essential for efficient electrochemical conversion, yet its weak physisorption on pristine Cu surfaces severely hinders catalytic performance. To overcome this limitation, we designed Cu stepped structures to create highly reactive sites for enhanced CO 2 adsorption and further doped the edges with 3 d transition metals (V, Cr, Mn, Fe, Co, and Ni) to improve CO 2 reduction. Density functional theory calculations reveal that these dopants significantly reduce the O&#63743;C&#63743;O angles and elongate the C&#63743;O bonds, transforming CO 2 from its original linear configuration into a bent geometry at the interface. Notably, dual&#8208;V and dual&#8208;Fe doping on Cu stepped surfaces demonstrates a strong interaction with CO 2 , leading to a high degree of activation. The computational results demonstrate that these modifications significantly enhance CO 2 activation and favor methane generation. This study provides valuable insights into the design of advanced Cu&#8208;based electrocatalysts for efficient and selective CO 2 activation, offering a pathway toward sustainable CO 2 utilization.</description>
+      <author>Lihong Yin, Jinxian Feng, Weng Fai Ip, Guangfu Luo, Hui Pan</author>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/celc.202500095</guid>
+    </item>
+    <item>
       <title>Uncertainty quantification for neural network potential foundation models</title>
       <link>https://doi.org/10.1038/s41524-025-01572-y</link>
       <description>Jenna A. Bilbrey, Jesun Firoz, Michael Ka Ho Lee, Sutanay Choudhury, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4409765509
@@ -586,6 +516,26 @@
       <author>Jenna A. Bilbrey, Jesun Firoz, Michael Ka Ho Lee, Sutanay Choudhury</author>
       <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01572-y</guid>
+    </item>
+    <item>
+      <title>LAGNet: better electron density prediction for LCAO-based data and drug-like substances</title>
+      <link>https://doi.org/10.1186/s13321-025-01010-7</link>
+      <description>Konstantin Ushenin, Kuzma Khrabrov, Artem Tsypin, Anton Ber, Egor Rumiantsev, Artur Kadurin, Journal of Cheminformatics. 17(1)] 2025. https://openalex.org/W4409922207
+
+                The electron density is an important object in quantum chemistry that is crucial for many downstream tasks in drug design. Recent deep learning approaches predict the electron density around a molecule from atom types and atom positions. Most of these methods use the plane wave (PW) numerical method as a source of ground-truth training data. However, the drug design field mostly uses the Linear Combination of Atomic Orbitals (LCAO) for computation of quantum properties. In this study, we focus on prediction of the electron density for drug-like substances and training neural networks with LCAO-based datasets. Our experiments show that proper handling of large amplitudes of core orbitals is crucial for training on LCAO-based data. We propose to store the electron density with the standard grids instead of the uniform grid. This allowed us to reduce the number of probing points per molecule by 43 times and reduce storage space requirements by 8 times. Finally, we propose a novel architecture based on the DeepDFT model that we name LAGNet. It is specifically designed and tuned for drug-like substances and &#8711;2 DFT dataset.</description>
+      <author>Konstantin Ushenin, Kuzma Khrabrov, Artem Tsypin, Anton Ber, Egor Rumiantsev, Artur Kadurin</author>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1186/s13321-025-01010-7</guid>
+    </item>
+    <item>
+      <title>The evolving role of programming and LLMs in the development of self-driving laboratories</title>
+      <link>https://doi.org/10.1063/5.0266757</link>
+      <description>John R. Kitchin, APL Machine Learning. 3(2)] 2025. https://openalex.org/W4409962774
+
+                Machine learning and automation are transforming scientific research, yet the implementation of self-driving laboratories (SDLs) remains costly and complex, and it remains difficult to learn how to use these facilities. To address this, we introduce Claude-Light, a lightweight, remotely accessible instrument designed for prototyping automation algorithms and machine learning workflows. Claude-Light integrates a REST API, a Raspberry Pi-based control system, and an RGB LED with a photometer that measures ten spectral outputs, providing a controlled but realistic experimental environment. This device enables users to explore automation at multiple levels, from basic programming and experimental design to machine learning-driven optimization. We demonstrate the application of Claude-Light in structured automation approaches, including traditional scripting, statistical design of experiments, and active learning methods. In addition, we explore the role of large language models (LLMs) in laboratory automation, highlighting their use in instrument selection, structured data extraction, function calling, and code generation. While LLMs present new opportunities for streamlining automation, they also introduce challenges related to reproducibility, security, and reliability. We discuss strategies to mitigate these risks while leveraging LLMs for enhanced efficiency in self-driving laboratories. Claude-Light provides a practical and accessible platform for students and researchers to develop automation skills and test algorithms before deploying them in larger-scale SDLs. By lowering the barrier to entry for automation in scientific research, this tool facilitates broader adoption of AI-driven experimentation and fosters innovation in autonomous laboratories.</description>
+      <author>John R. Kitchin</author>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0266757</guid>
     </item>
     <item>
       <title>Science acceleration and accessibility with self-driving labs</title>

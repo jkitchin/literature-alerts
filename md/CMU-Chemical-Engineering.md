@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu May  1 01:46:35 2025
+Created on Fri May  2 01:39:02 2025
 
-Found 6 results from 2025-04-24 to 2025-05-01
+Found 7 results from 2025-04-25 to 2025-05-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -69,5 +69,16 @@ Open access: True
 [Daniel Ovalle](https://openalex.org/A5067396423), [Stefan Mazzadi](https://openalex.org/A5117368934), [Carl D. Laird](https://openalex.org/A5030631754), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [Joshua L. Pulsipher](https://openalex.org/A5036452308), Computers & Chemical Engineering. None(None)] 2025.https://doi.org/10.1016/j.compchemeng.2025.109145.
     
 No abstract    
+
+    
+
+## The evolving role of programming and LLMs in the development of self-driving laboratories   
+
+OpenAlex: https://openalex.org/W4409962774    
+Open access: True
+    
+[John R. Kitchin](https://openalex.org/A5003442464), APL Machine Learning. 3(2)] 2025.https://doi.org/10.1063/5.0266757.
+    
+Machine learning and automation are transforming scientific research, yet the implementation of self-driving laboratories (SDLs) remains costly and complex, and it remains difficult to learn how to use these facilities. To address this, we introduce Claude-Light, a lightweight, remotely accessible instrument designed for prototyping automation algorithms and machine learning workflows. Claude-Light integrates a REST API, a Raspberry Pi-based control system, and an RGB LED with a photometer that measures ten spectral outputs, providing a controlled but realistic experimental environment. This device enables users to explore automation at multiple levels, from basic programming and experimental design to machine learning-driven optimization. We demonstrate the application of Claude-Light in structured automation approaches, including traditional scripting, statistical design of experiments, and active learning methods. In addition, we explore the role of large language models (LLMs) in laboratory automation, highlighting their use in instrument selection, structured data extraction, function calling, and code generation. While LLMs present new opportunities for streamlining automation, they also introduce challenges related to reproducibility, security, and reliability. We discuss strategies to mitigate these risks while leveraging LLMs for enhanced efficiency in self-driving laboratories. Claude-Light provides a practical and accessible platform for students and researchers to develop automation skills and test algorithms before deploying them in larger-scale SDLs. By lowering the barrier to entry for automation in scientific research, this tool facilitates broader adoption of AI-driven experimentation and fosters innovation in autonomous laboratories.    
 
     
