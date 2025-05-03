@@ -4,159 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 02 May 2025 01:39:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 01:36:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrosynthesis of NH3 from low-concentration NO on cascade dual-site catalysts in neutral media</title>
-      <link>https://doi.org/10.21203/rs.3.rs-6497629/v1</link>
-      <description>Min Liu, Xiaoxi Guo, Tongwei Wu, Hengfeng Li, Yanning Zhang, Chao Ma, Hongmei Li, Liyuan Chai, Haitao Zhao, No host. None(None)] 2025. https://openalex.org/W4409749339
-
-                Abstract Electrosynthesis of NH3 from low-concentration NO (NORR) in neutral media offers a sustainable nitrogen fixation strategy but is hindered by weak NO adsorption, slow water dissociation, and sluggish hydrogenation kinetics. Herein, we propose a new strategy that successfully overcomes these limitations through using an electron-donating motif to modulate NO-affinitive catalysts, thereby creating dual active site with synergistic functionality. Specifically, we integrate electron-donating nanoparticles into a Fe single-atom catalyst (FeSAC), where Fe sites ensure strong NO adsorption, while electron-donating motifs promote water dissociation and NO hydrogenation. In situ X-ray absorption spectroscopy (XAS), in situ attenuated total reflection-infrared spectroscopy (ATR-IR), and theoretical calculations reveal that electron-donating motifs increase Fe site electron density, strengthening NO adsorption. Additionally, these motifs also promote water dissociation, supplying protons to lower the NO hydrogenation barrier. This synergistic interplay enables a cascade reaction mechanism, delivering a remarkable Faradaic efficiency (FE) of 90.3% and a NH3 yield rate of 709.7 &#181;g h&#8722; 1 mgcat.&#8722;1 under 1.0 vol% NO in neutral media, outperforming pure FeSAC (NH3 yield rate: 444.2 &#181;g h&#8722; 1 mgcat.&#8722;1, FE: 56.6%) and prior high-NO-concentration systems. Notably, a record NH3 yield of 3123.8 &#181;g h&#8722; 1 mgcat.&#8722;1 was achieved in a membrane electrode assembly (MEA) electrolyzer under a 1.0 vol% NO. This work establishes a new paradigm in NORR by simultaneously enhancing NO adsorption, water dissociation, and hydrogenation kinetics, providing a scalable route for efficient NH3 electrosynthesis from dilute NO sources.</description>
-      <author>Min Liu, Xiaoxi Guo, Tongwei Wu, Hengfeng Li, Yanning Zhang, Chao Ma, Hongmei Li, Liyuan Chai, Haitao Zhao</author>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-6497629/v1</guid>
-    </item>
-    <item>
-      <title>Designing hydrogen spillover in &#8220;double&#8221; transition metal dichalcogenide system for hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2025.237081</link>
-      <description>Haoyu Yue, Bing Cong, Zhongnan Guo, Shuang Zhen, Pu Wang, Wenjing Guo, Wenxia Yuan, Journal of Power Sources. 644(None)] 2025. https://openalex.org/W4409754357
-
-                No abstract</description>
-      <author>Haoyu Yue, Bing Cong, Zhongnan Guo, Shuang Zhen, Pu Wang, Wenjing Guo, Wenxia Yuan</author>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.237081</guid>
-    </item>
-    <item>
-      <title>A machine learning model with minimize feature parameters for multi-type hydrogen evolution catalyst prediction</title>
-      <link>https://doi.org/10.1038/s41524-025-01607-4</link>
-      <description>Chao Wang, Bing Wang, Changhao Wang, A. Li, Zhipeng Chang, Ru&#8208;Zhi Wang, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4409762158
-
-                No abstract</description>
-      <author>Chao Wang, Bing Wang, Changhao Wang, A. Li, Zhipeng Chang, Ru&#8208;Zhi Wang</author>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01607-4</guid>
-    </item>
-    <item>
-      <title>In Situ Stm Study of Ni-Modified Pt(111) Electrodes: Structural Evolution and Hydrogen Evolution Activity in Koh</title>
-      <link>https://doi.org/10.2139/ssrn.5228962</link>
-      <description>Shuehlin Yau, Chao&#8208;Lin Chung, No host. None(None)] 2025. https://openalex.org/W4409766792
-
-                No abstract</description>
-      <author>Shuehlin Yau, Chao&#8208;Lin Chung</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5228962</guid>
-    </item>
-    <item>
-      <title>Trends in Self-citation Rates in High-impact Neurology, Neuroscience, and Psychiatry Journals</title>
-      <link>https://doi.org/10.7554/elife.88540.3</link>
-      <description>Matthew Rosenblatt, Saloni Mehta, Hannah Peterson, Javid Dadashkarimi, Raimundo Rodriguez, Maya L. Foster, Brendan Adkinson, Qinghao Liang, Violet M Kimble, Jean Ye, Marie C McCusker, Michael C. Farruggia, Max Rolison, Margaret L. Westwater, Rongtao Jiang, Stephanie Noble, Dustin Scheinost, No host. None(None)] 2025. https://openalex.org/W4409772274
-
-                Citation metrics influence academic reputation and career trajectories. Recent works have highlighted flaws in citation practices in the Neurosciences, such as the under-citation of women. However, self-citation rates&#8212;or how much authors cite themselves&#8212;have not yet been comprehensively investigated in the Neurosciences. This work characterizes self-citation rates in basic, translational, and clinical Neuroscience literature by collating 100,347 articles from 63 journals between the years 2000-2020. In analyzing over five million citations, we demonstrate four key findings: 1) increasing self-citation rates of Last Authors relative to First Authors, 2) lower self-citation rates in low- and middle-income countries, 3) gender differences in self-citation stemming from differences in the number of previously published papers, and 4) variations in self-citation rates by field. Our characterization of self-citation provides insight into citation practices that shape the perceived influence of authors in the Neurosciences, which in turn may impact what type of scientific research is done and who gets the opportunity to do it.</description>
-      <author>Matthew Rosenblatt, Saloni Mehta, Hannah Peterson, Javid Dadashkarimi, Raimundo Rodriguez, Maya L. Foster, Brendan Adkinson, Qinghao Liang, Violet M Kimble, Jean Ye, Marie C McCusker, Michael C. Farruggia, Max Rolison, Margaret L. Westwater, Rongtao Jiang, Stephanie Noble, Dustin Scheinost</author>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.7554/elife.88540.3</guid>
-    </item>
-    <item>
-      <title>Structural&#8208;Insensitive Descriptors N&lt;sub&gt;s,p&lt;/sub&gt; Based on M&#8208;N&lt;sub&gt;4&lt;/sub&gt;&#8208;OH Active Entity for Predicting and Enhancing ORR Activity in 3&lt;i&gt;d&lt;/i&gt; Transition Metal Catalysts</title>
-      <link>https://doi.org/10.1002/smll.202500789</link>
-      <description>Huan Li, Liyuan Yang, Weichao Wang, Jinchao Xu, Qi-Chao Shan, Gang Chen, Wen Wang, Ruiting Hao, Chunning Zhao, Xiang Wan, Weichao Wang, Small. None(None)] 2025. https://openalex.org/W4409773432
-
-                Abstract The development of high&#8208;performance ORR catalysts is challenged by the understanding how the delocalized electrons in s &#8208; and p &#8208;orbitals influence oxygen intermediate adsorption and overall catalytic performance. To address these challenges, the from active unit to bulk catalyst (FAUC) design strategy is employed to investigate the roles of s&#8208; and p&#8208; orbitals in ORR activity. Specifically, six M&#8208;N 4 &#8208;OH (M = V, Cr, Mn, Fe, Co, and Ni) catalyst systems are constructed and analyzed using density functional theory (DFT), this study reveals that, compared to d &#8208;orbitals, the delocalized electrons in the s&#8208; and p&#8208; orbitals (N s,p ) exhibit a significant volcano relationship with ORR activity. This superior predictive capability arises from the weaker dependence of s&#8208; and p&#8208; orbitals on the local coordination environment. Additionally, a structure&#8208;activity relationship is established where shortening M&#9472;O and M&#9472;N bond lengths significantly increases N s,p . Through modification strategies such as doping and loading, the Co&#9472;N bond lengths are regulated in Co&#8208;N 4 &#8208;OH&#8208;C, resulting in shorter bonds and increased N s,p , which shifted ORR catalytic activity closer to the volcano peak. These findings validate the N s,p descriptor's rationality and universality across various 3 d transition metals, providing new insights for the design of high&#8208;performance ORR catalysts.</description>
-      <author>Huan Li, Liyuan Yang, Weichao Wang, Jinchao Xu, Qi-Chao Shan, Gang Chen, Wen Wang, Ruiting Hao, Chunning Zhao, Xiang Wan, Weichao Wang</author>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202500789</guid>
-    </item>
-    <item>
-      <title>Selective Design of Mesoporous Bi&lt;sub&gt;2&lt;/sub&gt;Se&lt;sub&gt;3&lt;/sub&gt; Films with Orthorhombic and Rhombohedral Crystals</title>
-      <link>https://doi.org/10.1002/smll.202501534</link>
-      <description>Minsu Han, Tomota Nagaura, Ho Ngoc Nam, Zihao Yang, Azhar Alowasheeir, Quan Manh Phung, Takeshi Yanai, Jeonghun Kim, Saad M. Alshehri, Tansir Ahamad, Yoshio Bando, Yusuke Yamauchi, Small. None(None)] 2025. https://openalex.org/W4409773905
-
-                Abstract Materials with the same chemical composition can exhibit distinct properties depending on their crystal phases. Here, the synthesis of two types of mesoporous Bi 2 Se 3 films at different reduction potentials is reported and their application in electrochemical glucose sensing. Mesoporous Bi 2 Se 3 is synthesized by incorporating block copolymer micelle assemblies into the deposition solution and applying a reduction potential. To characterize the crystal phases accurately, Bi 2 Se 3 films are heat&#8208;treated at 200 &#176;C for 1 h in a nitrogen atmosphere. The results reveal that the Bi 2 Se 3 films synthesized under different conditions exhibit clearly distinct phases: rhombohedral ( R &#8208;Bi 2 Se 3 ) and orthorhombic ( O &#8208;Bi 2 Se 3 ). The R &#8208;Bi 2 Se 3 &#8208;8 nm, featuring 8 nm pores and synthesized at a more negative reduction potential, outperforms its nonporous counterpart, achieving a glucose sensing sensitivity of 0.143 &#181;A cm &#8722;2 &#181;M &#8722;1 and a detection limit of 6.2 &#181;M at pH 7.4 in 0.1 M phosphate&#8208;buffered saline solution. In contrast, the O &#8208;Bi 2 Se 3 , prepared at a relatively positive potential, exhibits no glucose&#8208;sensing activity. The inactivity of O &#8208;Bi 2 Se 3 for glucose oxidation is likely due to the energetically unfavorable intermediates, as predicted by density functional theory calculations. These findings underscore the critical role of crystal phase control in porous nanomaterials and pave the way for developing innovative porous systems.</description>
-      <author>Minsu Han, Tomota Nagaura, Ho Ngoc Nam, Zihao Yang, Azhar Alowasheeir, Quan Manh Phung, Takeshi Yanai, Jeonghun Kim, Saad M. Alshehri, Tansir Ahamad, Yoshio Bando, Yusuke Yamauchi</author>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202501534</guid>
-    </item>
-    <item>
-      <title>Multi-scale Modeling and Experimental Investigation of Oxidation Behavior in Platinum Nanoparticles</title>
-      <link>https://doi.org/10.1039/d5cp00134j</link>
-      <description>Tom Demeyere, Husn U. Islam, Tom Ellaby, Misbah Sarwar, David Thompsett, Chris&#8208;Kriton Skylaris, Physical Chemistry Chemical Physics. None(None)] 2025. https://openalex.org/W4409775905
-
-                Hybrid experimental/simulation work to advance the understanding of platinum nanoparticle oxidation mechanisms.</description>
-      <author>Tom Demeyere, Husn U. Islam, Tom Ellaby, Misbah Sarwar, David Thompsett, Chris&#8208;Kriton Skylaris</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5cp00134j</guid>
-    </item>
-    <item>
-      <title>Revealing the new role of surface states in interfacial charge transfer at zinc ferrite photoanodes for efficient photoelectrochemical water splitting</title>
-      <link>https://doi.org/10.1016/j.nanoen.2025.111066</link>
-      <description>Guang-Ping Yi, Hong Liu, Yiping Zhao, Tiger H. Tao, Qiang Wang, Pengyi Tang, Nano Energy. None(None)] 2025. https://openalex.org/W4409776851
-
-                No abstract</description>
-      <author>Guang-Ping Yi, Hong Liu, Yiping Zhao, Tiger H. Tao, Qiang Wang, Pengyi Tang</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2025.111066</guid>
-    </item>
-    <item>
-      <title>Transition metal dichalcogenides-based electrocatalysts for green hydrogen production via water electrolysis: Design principles and modulation strategies</title>
-      <link>https://doi.org/10.18686/cest294</link>
-      <description>Dai Zhang, Ying Guo, Clean Energy Science and Technology. 3(2)] 2025. https://openalex.org/W4409780590
-
-                The development of renewable energy-powered water electrolysis technology serves as a crucial prerequisite for realizing the large-scale application of hydrogen economy. Currently, commercial catalysts for water electrolysis predominantly rely on platinum-group noble metals, whose scarcity and exorbitant costs significantly hinder practical implementation of hydrogen production through water splitting. As promising alternatives to noble metal catalysts, transition metal dichalcogenides (TMDs) have attracted considerable research attention due to their high intrinsic catalytic activity and cost-effectiveness. Nevertheless, the catalytic performance of TMDs still lags behind that of noble metal benchmarks, prompting extensive and systematic investigations into performance enhancement and catalytic mechanisms. This review comprehensively summarizes strategic approaches for optimizing the electrocatalytic performance of TMDs in water electrolysis, integrating fundamental reaction principles, rational design philosophies for electrocatalysts, and the structure-property relationships of TMDs. Finally, we provide insightful perspectives on current challenges and future research directions in this rapidly evolving field.</description>
-      <author>Dai Zhang, Ying Guo</author>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.18686/cest294</guid>
-    </item>
-    <item>
-      <title>The Roles of Ions in Electrochemical Interface for Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acscatal.5c00700</link>
-      <description>Jaegeun Noh, Han-Joo Kim, Hyein Park, Dong Young Chung, ACS Catalysis. None(None)] 2025. https://openalex.org/W4409784084
-
-                No abstract</description>
-      <author>Jaegeun Noh, Han-Joo Kim, Hyein Park, Dong Young Chung</author>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c00700</guid>
-    </item>
-    <item>
-      <title>Dynamic protonation of ligand sites in molecular catalysts enhances electrochemical CO &lt;sub&gt;2&lt;/sub&gt; reduction</title>
-      <link>https://doi.org/10.1126/sciadv.adu6915</link>
-      <description>Libo Sun, Tan Su, A.C. Fisher, Jieqiong Shan, Wei Chen, Hua Zhang, Xin Wang, Science Advances. 11(17)] 2025. https://openalex.org/W4409784277
-
-                Molecular catalysts with functional group decorations are promising for electrocatalytic CO 2 reduction to produce valuable chemicals and fuels. Using nickel phthalocyanine derivatives with cyano, methoxy, and dimethylamino groups, this study unveils why decorating molecular catalysts with either electron-donating or electron-withdrawing groups can enhance their activity. Notably, the dimethylamino group&#8211;decorated catalyst demonstrated stable and nearly 100% CO 2 -to-CO reduction selectivity over a wide potential range and high CO partial current densities up to 300 milliamperes per square centimeter. Theoretical and in situ spectroscopic analyses revealed the critical role of dynamic protonation of ligand sites in activating the metal center, which can be facilitated by the decoration of electron-withdrawing groups. Conversely, electron-donating groups, although requiring higher energy for protonation, enhance the synergy between metal centers and protonated sites, favoring the formation of key *COOH intermediates and improving CO selectivity at higher bias. This study underscores the importance of dynamic protonation of ligand sites in optimizing functionalized molecular catalysts for enhanced CO 2 RR activity.</description>
-      <author>Libo Sun, Tan Su, A.C. Fisher, Jieqiong Shan, Wei Chen, Hua Zhang, Xin Wang</author>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adu6915</guid>
-    </item>
-    <item>
-      <title>Experimental and Theoretical Studies on Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction to HCOOH by Biomass-Derived Carbon Dots Embedded Phytochemical-Based CdS Quantum Dots</title>
-      <link>https://doi.org/10.1021/acs.langmuir.5c01002</link>
-      <description>Pramod Madhukar Gawal, Jumana Ishrat, Kalishankar Bhattacharyya, Animes Kumar Golder, Langmuir. None(None)] 2025. https://openalex.org/W4409784289
-
-                Photocatalytic CO2 reduction provides a sustainable route to combat climate change by converting CO2 into valuable chemicals by using sunlight. This study presents both experimental and theoretical insights into the reduction of CO2 to HCOOH using biomass-derived carbon dots embedded onto phytochemical-based CdS quantum dots. The 0D CDs/CdS QDs(bio) composites exhibit rich sulfur vacancies and a more negative conduction band, effectively inhibiting CdS photocorrosion (SO42-) while enhancing the CO2 adsorption and photocurrent response. Additionally, it reduced PL intensity and increased decay time, suggesting the enhancement of charge separation and suppression of charge recombination. The optimal 0.4CDs/CdS QDs(bio) composite exhibited a remarkable CO2 reduction to HCOOH formation yield of 439.51 &#956;mol g-1 h-1 (apparent quantum yield of 3.81%) while retaining its structural and morphological stability. Density functional theory calculations reveal HCOO* as a key intermediate, confirming the thermodynamic preference for HCOOH formation over CO with a free energy change of -0.71 eV. This study introduces a novel bio-based CdS QDs composite modified with biomass-derived CDs, providing mechanistic insights into photocatalytic CO2 reduction for sustainable fuel production.</description>
-      <author>Pramod Madhukar Gawal, Jumana Ishrat, Kalishankar Bhattacharyya, Animes Kumar Golder</author>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.5c01002</guid>
-    </item>
-    <item>
-      <title>Strain and ligand effects in the 1-D limit: reactivity of steps</title>
-      <link>https://doi.org/10.1038/s41524-025-01616-3</link>
-      <description>Onyinyechukwu Goodness Njoku, Paige Fronczak, Kara Smeltz, Ian T. McCrum, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4409786097
-
-                No abstract</description>
-      <author>Onyinyechukwu Goodness Njoku, Paige Fronczak, Kara Smeltz, Ian T. McCrum</author>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01616-3</guid>
-    </item>
-    <item>
-      <title>Shadow Molecular Dynamics for a Charge-Potential Equilibration Model</title>
-      <link>https://doi.org/10.1021/acs.jctc.5c00286</link>
-      <description>Robert V. Stanton, Mehmet Cagri Kaymak, Anders M. N. Niklasson, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4409786188
-
-                We introduce a shadow molecular dynamics (MD) approach based on the Atom-Condensed Kohn-Sham second-order (ACKS2) charge-potential equilibration model. In contrast to regular flexible charge models, the ACKS2 model includes both flexible atomic charges and potential fluctuation parameters that allow for physically correct charge fragmentation and improved scaling of the polarizability. Our shadow MD scheme is based on an approximation of the ACKS2's flexible charge-potential energy function, in combination with extended Lagrangian Born-Oppenheimer MD. Utilizing this shadow charge-potential equilibration approach mitigates the costly overhead and stability problems associated with finding well-converged iterative solutions to the charges and potential fluctuations of the ACKS2 model in an MD simulation. Our work provides a robust and versatile framework for efficient, high-fidelity MD simulations of diverse physical phenomena and applications.</description>
-      <author>Robert V. Stanton, Mehmet Cagri Kaymak, Anders M. N. Niklasson</author>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c00286</guid>
-    </item>
     <item>
       <title>Direct seawater electrolysis: Breaking the dependency on noble metal-based electrocatalysts</title>
       <link>https://doi.org/10.1016/j.ijhydene.2025.04.387</link>
@@ -508,14 +358,74 @@
       <guid isPermaLink="true">https://doi.org/10.1002/celc.202500095</guid>
     </item>
     <item>
-      <title>Uncertainty quantification for neural network potential foundation models</title>
-      <link>https://doi.org/10.1038/s41524-025-01572-y</link>
-      <description>Jenna A. Bilbrey, Jesun Firoz, Michael Ka Ho Lee, Sutanay Choudhury, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4409765509
+      <title>Internal hydrogen-bond enhanced two-electron oxygen reduction reaction for &#960;-d conjugated metal-organic framework to H2O2 synthesis</title>
+      <link>https://doi.org/10.1038/s41467-025-58628-2</link>
+      <description>Zhiyuan Sang, Yuqian Qiao, Rui Chen, Lichang Yin, Feng Hou, Ji Liang, Nature Communications. 16(1)] 2025. https://openalex.org/W4409965445
 
-                Abstract For neural network potentials (NNPs) to gain widespread use, researchers must be able to trust model outputs. However, the blackbox nature of neural networks and their inherent stochasticity are often deterrents, especially for foundation models trained over broad swaths of chemical space. Uncertainty information provided at the time of prediction can help reduce aversion to NNPs. In this work, we detail two uncertainty quantification (UQ) methods. Readout ensembling, by finetuning the readout layers of an ensemble of foundation models, provides information about model uncertainty, while quantile regression, by replacing point predictions with distributional predictions, provides information about uncertainty within the underlying training data. We demonstrate our approach with the MACE-MP-0 model, applying UQ to the foundation model and a series of finetuned models. The uncertainties produced by the readout ensemble and quantile methods are demonstrated to be distinct measures by which the quality of the NNP output can be judged.</description>
-      <author>Jenna A. Bilbrey, Jesun Firoz, Michael Ka Ho Lee, Sutanay Choudhury</author>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01572-y</guid>
+                No abstract</description>
+      <author>Zhiyuan Sang, Yuqian Qiao, Rui Chen, Lichang Yin, Feng Hou, Ji Liang</author>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-58628-2</guid>
+    </item>
+    <item>
+      <title>Ni Foam Supported Pd&#8208;Doped Zinc Spinel Oxide Nano&#8208;Electrocatalyst for Efficient Hydrogen Production Supported by DFT Study as Well Validated With Experimental Data</title>
+      <link>https://doi.org/10.1002/adsu.202500142</link>
+      <description>Refah S. Alkhaldi, M. Abdulwahab, M.A. Gondal, Mohamed Jaffer Sadiq Mohamed, M.A. Almessiere, A. Baykal, Abduljabar Q. Alsayoud, Advanced Sustainable Systems. None(None)] 2025. https://openalex.org/W4409966799
+
+                Abstract An innovative palladium&#8208;doped zinc cobalt oxide nanoelectrocatalyst, ZnPd x Co 2&#8208;x O 4 (0.00 &#8804; x &#8804; 0.08)@NF, is successfully synthesized using a hydrothermal method. The resulting material exhibits a spinel oxide phase, as confirmed by X&#8208;ray diffraction (XRD). The electrocatalytic performance of ZnPd x Co 2&#8208;x O 4 (0.00 &#8804; x &#8804; 0.08)@NF is evaluated for the hydrogen evolution reaction (HER). The results show significant improvements in efficient hydrogen production, with an overpotential of 31 mV, a Tafel slope of 54.36 mV dec&#8315; 1 , and sustained stability for over 72 h, using chronopotentiometry methods. Doping with 8.0% Pd concentration enhances the highest electrochemical performance of the nanoelectrocatalyst, supporting the idea that Pd doping improves HER activity. The results suggest that the increased electrochemical active surface area (ECSA) and faster charge transfer kinetics at the interface between the semiconductor and electrolyte contribute to enhanced performance. The DFT calculations performed in this work confirm the role of Pd in improving the catalytic activity of the ZnCo 2 O 4 spinel catalyst. Overall, this study has made a significant contribution to the development of sustainable energy solutions, offering a promising path toward the efficient production of hydrogen fuel.</description>
+      <author>Refah S. Alkhaldi, M. Abdulwahab, M.A. Gondal, Mohamed Jaffer Sadiq Mohamed, M.A. Almessiere, A. Baykal, Abduljabar Q. Alsayoud</author>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adsu.202500142</guid>
+    </item>
+    <item>
+      <title>A mini review on revolutionizing hydrogenation catalysis: unleashing transformative power of artificial intelligence</title>
+      <link>https://doi.org/10.1007/s00894-025-06376-x</link>
+      <description>Anurag Mishra, Vikesh G. Lade, Jyoti Ramesh Barmar, Ankush B. Bindwal, Ramesh P. Birmod, Journal of Molecular Modeling. 31(5)] 2025. https://openalex.org/W4409968805
+
+                No abstract</description>
+      <author>Anurag Mishra, Vikesh G. Lade, Jyoti Ramesh Barmar, Ankush B. Bindwal, Ramesh P. Birmod</author>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s00894-025-06376-x</guid>
+    </item>
+    <item>
+      <title>Built-in Electric Fields and Strain Modulated Photocatalytic Performance in Monolayer Janus Piezoelectric AlBX2(X = O/S/Se/Te)</title>
+      <link>https://doi.org/10.1016/j.physb.2025.417339</link>
+      <description>Hao An, Zhiyang Yuan, Chun-Sheng Liu, Lan Meng, Wei Yan, Xiaohong Yan, Physica B Condensed Matter. None(None)] 2025. https://openalex.org/W4409978877
+
+                No abstract</description>
+      <author>Hao An, Zhiyang Yuan, Chun-Sheng Liu, Lan Meng, Wei Yan, Xiaohong Yan</author>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.physb.2025.417339</guid>
+    </item>
+    <item>
+      <title>Ligand Engineering of Co&#8208;N&lt;sub&gt;4&lt;/sub&gt; Single&#8208;Atom Catalysts for Highly&#8208;Active and Stable Acidic Oxygen Evolution</title>
+      <link>https://doi.org/10.1002/advs.202502230</link>
+      <description>Taewon Jeong, Ki-Won Kim, Byung&#8208;Hyun Kim, Sang&#8208;Il Choi, Chang Hyuck Choi, Joonhee Kang, Myeongjin Kim, Advanced Science. None(None)] 2025. https://openalex.org/W4409983570
+
+                The development of stable and efficient single-atom catalysts (SACs) for the oxygen evolution reaction (OER) in acidic media remains challenging. This work reports a novel NH3-assisted pyrolysis strategy to synthesize Co-N4 SACs with controlled nitrogen coordination environments on crumpled graphene supports. The pyrrolic N4-coordinated Co sites demonstrate superior OER activity compared to their pyridinic counterparts, achieving an overpotential of 351 mV at 10 mA cm-2 in 0.5 m H2SO4. Combined density functional theory calculations and operando X-ray absorption spectroscopy reveal that the pyrrolic coordination environment facilitates enhanced OH- adsorption and subsequent OER kinetics due to its unique electronic structure and geometric flexibility. A multi-layered protective mechanism in the pyrrolic system enables exceptional stability during long-term acidic OER operation, stemming from higher defect formation energy of Co sites and strategic distribution of sacrificial nitrogen species in the graphene network. These findings provide fundamental insights into designing stable single-atom catalysts for challenging electrochemical applications.</description>
+      <author>Taewon Jeong, Ki-Won Kim, Byung&#8208;Hyun Kim, Sang&#8208;Il Choi, Chang Hyuck Choi, Joonhee Kang, Myeongjin Kim</author>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/advs.202502230</guid>
+    </item>
+    <item>
+      <title>Regulation of Electrostatic Shielding Effect by 18-Crown-6 Ether for Achieving Stable Deposition of Potassium Metal Anodes</title>
+      <link>https://doi.org/10.1021/acsenergylett.5c00797</link>
+      <description>Hyokyeong Kang, Hyeona Park, Josef Rizell, Aleksandar Matic, Shizhao Xiong, Dong&#8208;Kyu Kim, Hyeyoung Shin, Yangyang Liu, Xieyu Xu, Yang&#8208;Kook Sun, Jang&#8208;Yeon Hwang, ACS Energy Letters. None(None)] 2025. https://openalex.org/W4409983816
+
+                No abstract</description>
+      <author>Hyokyeong Kang, Hyeona Park, Josef Rizell, Aleksandar Matic, Shizhao Xiong, Dong&#8208;Kyu Kim, Hyeyoung Shin, Yangyang Liu, Xieyu Xu, Yang&#8208;Kook Sun, Jang&#8208;Yeon Hwang</author>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.5c00797</guid>
+    </item>
+    <item>
+      <title>Realizing Direct Hot-Electron Transfer from Metal Nanoparticles to Per- and Polyfluoroalkyl Substances</title>
+      <link>https://doi.org/10.1021/acs.jpclett.5c00373</link>
+      <description>P. K. Verma, Samir Kumar Nayak, Khushboo Bhardwaj, Sharma S. R. K. C. Yamijala, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4409984514
+
+                Per- and polyfluoroalkyl substances (PFAS) are a group of forever synthetic chemicals. They are widely utilized in industries and household appliances because of their remarkable stability and distinctive oil- and water-repellent properties. Despite their broad applications, unfortunately, PFAS are hazardous to all forms of life, including humans. In recent years, the environmental persistence of PFAS has raised significant interest in degrading these substances. However, the strong C-F bonds in these chemicals pose several challenges to their degradation. Plasmons of noble metal nanoparticles (NPs) offer many exciting applications, including photocatalytic reactions. However, an atomistic understanding of plasmon-driven processes remains elusive. In this work, using the real-time time-dependent density functional theory, we have studied the real-time formation of plasmons, hot-carrier generation, and subsequent direct hot-carrier transfer from metal NPs to the PFAS. Our simulations show that there is an apparent direct hot-electron transfer from NPs to PFAS. Moreover, using Ehrenfest dynamics simulations, we demonstrated that the transferred hot electrons can efficiently degrade PFAS without requiring any external thermal bath. Thus, our work provides an atomistic picture of plasmon-induced direct hot-carrier transfer from NPs to PFAS and the efficient degradation of PFAS. We strongly believe that this work generates the impetus to utilize plasmonic NPs to mitigate PFAS.</description>
+      <author>P. K. Verma, Samir Kumar Nayak, Khushboo Bhardwaj, Sharma S. R. K. C. Yamijala</author>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c00373</guid>
     </item>
     <item>
       <title>LAGNet: better electron density prediction for LCAO-based data and drug-like substances</title>
@@ -536,16 +446,6 @@
       <author>John R. Kitchin</author>
       <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0266757</guid>
-    </item>
-    <item>
-      <title>Science acceleration and accessibility with self-driving labs</title>
-      <link>https://doi.org/10.1038/s41467-025-59231-1</link>
-      <description>Richard B. Canty, Jeffrey A. Bennett, Keith A. Brown, Tonio Buonassisi, Sergei V. Kalinin, John R. Kitchin, Benji Maruyama, R. G. Moore, Joshua Schrier, Martin Seifrid, Shijing Sun, Tejs Vegge, Milad Abolhasani, Nature Communications. 16(1)] 2025. https://openalex.org/W4409768533
-
-                No abstract</description>
-      <author>Richard B. Canty, Jeffrey A. Bennett, Keith A. Brown, Tonio Buonassisi, Sergei V. Kalinin, John R. Kitchin, Benji Maruyama, R. G. Moore, Joshua Schrier, Martin Seifrid, Shijing Sun, Tejs Vegge, Milad Abolhasani</author>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-59231-1</guid>
     </item>
   </channel>
 </rss>
