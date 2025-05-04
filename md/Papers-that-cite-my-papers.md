@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sat May  3 01:36:42 2025
+Created on Sun May  4 01:47:25 2025
 
-Found 44 results from 2025-04-26 to 2025-05-03
+Found 41 results from 2025-04-27 to 2025-05-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544)
@@ -16,105 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Direct seawater electrolysis: Breaking the dependency on noble metal-based electrocatalysts   
-
-OpenAlex: https://openalex.org/W4409790242    
-Open access: False
-    
-[Mi Gyoung Lee‬](https://openalex.org/A5091704345), [Seoungyeon Kim](https://openalex.org/A5039570890), [Yong-Kul Lee](https://openalex.org/A5067799791), International Journal of Hydrogen Energy. 130(None)] 2025.https://doi.org/10.1016/j.ijhydene.2025.04.387.
-    
-No abstract    
-
-    
-
-## Fourteen-Membered Macrocyclic Cobalt Complex Structure as a Potential Basis for Durable and Active Non-platinum Group Metal Catalysts for Oxygen Reduction and Hydrogen Evolution Reactions   
-
-OpenAlex: https://openalex.org/W4409791038    
-Open access: False
-    
-[Zhiqing Feng](https://openalex.org/A5070572571), [Junya Ohyama](https://openalex.org/A5023127226), [Soutaro Honda](https://openalex.org/A5114154954), [Yasushi Iwata](https://openalex.org/A5100858727), [Keisuke Awaya](https://openalex.org/A5063143560), [Masato Machida](https://openalex.org/A5013139214), [Masayuki Tsushida](https://openalex.org/A5068026153), [Ryota Goto](https://openalex.org/A5043156415), [Takeo Ichihara](https://openalex.org/A5076217195), [Makoto Moriya](https://openalex.org/A5084453278), [Yuta Nabae](https://openalex.org/A5017398992), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.5c01306.
-    
-Non-platinum group metal catalysts for the oxygen reduction reaction (ORR) and hydrogen evolution reaction (HER) under acidic conditions were developed using a CoN4 complex with a 14-membered-ring hexaazamacrocyclic ligand (Co-14MR). The carbon-supported Co-14MR catalyst (Co-14MR/C) showed higher ORR and HER activities than a conventional carbon-supported 16-membered-ring Co phthalocyanine (CoPc/C) catalyst. Heat treatment of Co-14MR/C at 600 °C further enhanced its ORR and HER activity through structural modification of the Co active center via deprotonation of ligand amine groups. Density functional theory calculations indicated that the structural modifications of Co-14MR induced by heat treatment adjusted the adsorption energies of important intermediates in the ORR and HER toward optimal values, resulting in enhanced catalytic activity. The Co-14MR/C catalysts also exhibited higher durability in the ORR and HER than CoPc/C and Fe-14MR/C catalysts. Structural analysis suggested that the short Co-N bond lengths and small distortion of the CoN4 active site of the Co-14MR catalysts are the reasons for their high durability. These findings suggest that the Co-14MR structure is a promising design for non-platinum group metal catalysts for proton-exchange membrane fuel cells and water splitting.    
-
-    
-
-## Accelerating the screening of catalysts for hydrogen evolution reaction in graphene materials based on DFT calculations and machine learning   
-
-OpenAlex: https://openalex.org/W4409793550    
-Open access: False
-    
-[Zikai Xiong](https://openalex.org/A5102652397), [Shengjun Huo](https://openalex.org/A5044777812), [Wanglai Cen](https://openalex.org/A5113019637), [Jikun Feng](https://openalex.org/A5014317895), [Jia‐Hao Zeng](https://openalex.org/A5078041905), [Meiling Hou](https://openalex.org/A5052536068), [Yu Liu](https://openalex.org/A5100345955), Molecular Catalysis. 581(None)] 2025.https://doi.org/10.1016/j.mcat.2025.115152.
-    
-No abstract    
-
-    
-
-## Laser Irradiated Noble Metal‐Free High Entropy Oxide 2‐D Sheets for Highly Efficient Anion Exchange Membrane Water Electrolyzers   
-
-OpenAlex: https://openalex.org/W4409810275    
-Open access: False
-    
-[H. Denny Kamaruddin](https://openalex.org/A5028172256), [Jianghong Zhang](https://openalex.org/A5105068444), [Yu Lu](https://openalex.org/A5013905120), [Mingzhen Xiu](https://openalex.org/A5090759627), [Yuefan Wei](https://openalex.org/A5059060141), [Yizhong Huang](https://openalex.org/A5074771326), Advanced Functional Materials. None(None)] 2025.https://doi.org/10.1002/adfm.202507930.
-    
-Abstract High entropy oxides (HEOs) have recently emerged as excellent alternative catalysts that can potentially replace noble metal catalysts such as RuO 2 and IrO 2 for water splitting applications. However, existing methods of synthesizing these catalysts are often tedious. In this work, a straightforward method is proposed using ultra‐fast laser irradiation to synthesize heavily wrinkled noble metal‐free (CoCuFeMnNi) 3 O 4 HEO 2‐D sheets on nickel foam for excellent oxygen evolution reaction (OER) performance. These sheets facilitate the OER at a low overpotential of only 245 mV to achieve 10 mA cm −2 and is stable after 100 h of testing. This performance outmatches the majority of recently reported noble and noble metal‐free HEA and HEO catalysts. As an anode in anion exchange water electrolyzer (AEMWE), a remarkably high current density of 1.722 A cm −2 is achieved at 2.0 V with negligible catalyst deterioration despite 70 h of testing. This result outranks the majority of other state‐of‐the‐art AEMWE catalysts reported today. This work proves that laser irradiation synthesis enables the synthesis of efficient HEO catalysts, and is a pioneer synthesis of HEO 2‐D interconnected sheets using laser irradiation. Crucially, this work proves that noble‐metal free HEOs are highly efficient and durable catalysts in industrial AEMWE devices.    
-
-    
-
-## Exploring Single-Atom Catalysis for Hydrogen Evolution and Storage: A DFT Insight into First-Row Transition Metal-Porphyrin Complexes (Porph@TMs)   
-
-OpenAlex: https://openalex.org/W4409828949    
-Open access: False
-    
-[Faheem Abbas](https://openalex.org/A5082193714), [Saleem Nawaz Khan](https://openalex.org/A5079543685), [Sadaf Bibi](https://openalex.org/A5081020250), [Muhammad Yousaf](https://openalex.org/A5038981815), [Francis M. Enujekwu](https://openalex.org/A5001336274), [Muhammad Salman Khan](https://openalex.org/A5029803529), [Sami Ullah](https://openalex.org/A5100723390), [Mohammed A. Assiri](https://openalex.org/A5101599875), Gas Science and Engineering. None(None)] 2025.https://doi.org/10.1016/j.jgsce.2025.205646.
-    
-No abstract    
-
-    
-
-## Novel Fe‐Modulating Raney‐Ni Electrodes toward High‐Efficient and Durable AEM Water Electrolyzer   
-
-OpenAlex: https://openalex.org/W4409832059    
-Open access: True
-    
-[Tao Jiang](https://openalex.org/A5017918765), [Xinge Jiang](https://openalex.org/A5021354380), [Chongyang Jiang](https://openalex.org/A5063135732), [Jian Wang](https://openalex.org/A5100370328), [Yoann Danlos](https://openalex.org/A5110067864), [Taikai Liu](https://openalex.org/A5051885021), [Chunming Deng](https://openalex.org/A5024074724), [Chaoyue Chen](https://openalex.org/A5011883978), [Hanlin Liao](https://openalex.org/A5108681787), [Vasileios Kyriakou](https://openalex.org/A5041952195), Advanced Energy Materials. None(None)] 2025.https://doi.org/10.1002/aenm.202501634.
-    
-Abstract Anion exchange membrane (AEM) water electrolysis holds promise for green hydrogen production. One of the main challenges is the preparation of highly efficient electrodes with scalable techniques. Herein, a novel Fe‐modulating Raney‐Ni electrode (NFA‐CA) is developed through atmospheric plasma spraying and chemical etching techniques. The resulting electrode demonstrates high bifunctional catalytic activities with low overpotentials and Tafel slopes (HER: 27 mV at 10 mA cm −2 , 20 mV dec −1 ; OER: 169 mV at 10 mA cm −2 , 49 mV dec −1 ), competing for precious‐metal catalysts and leading transition‐metal‐based compounds reported in the literature. Moreover, the corresponding AEM electrolyzer only requires 1.56 V to drive 1 A cm −2 and exceptional durability for 1000 h. Moreover, the AEM cell can reach 2 A cm −2 at 1.79 V, exceeding the United States Department of Energy target for AWE systems (2 A cm −2 at 1.80 V). The highly efficient and durable performance is attributed to the NiFe nanocrystals (core)‐NiFe hydroxide (shell) nanostructures created by the treatment. This structure not only facilitates superior electrocatalytic properties but it is also maintained after 1000 h of continuous operation. It is consider that the present approach can offer an attractive route for scalable fabrication of NiFe‐based electrodes for industrial AEM water electrolyzers.    
-
-    
-
-## Polyoxometalated metal-organic framework superstructure for stable water oxidation   
-
-OpenAlex: https://openalex.org/W4409833855    
-Open access: False
-    
-[Kaihang Yue](https://openalex.org/A5061211337), [Ruihu Lu](https://openalex.org/A5065513785), [Mingbin Gao](https://openalex.org/A5014923308), [Fei Song](https://openalex.org/A5010194502), [Yao Dai](https://openalex.org/A5103389010), [Chenfeng Xia](https://openalex.org/A5112673464), [Bingbao Mei](https://openalex.org/A5060053004), [Hongliang Dong](https://openalex.org/A5102818049), [Ruijuan Qi](https://openalex.org/A5015154651), [Daliang Zhang](https://openalex.org/A5010844416), [Jiangwei Zhang](https://openalex.org/A5100771247), [Ziyun Wang](https://openalex.org/A5100744706), [Fuqiang Huang](https://openalex.org/A5021679611), [Bao Yu Xia](https://openalex.org/A5017108318), [Ya Yan](https://openalex.org/A5087851630), Science. 388(6745)] 2025.https://doi.org/10.1126/science.ads1466.
-    
-Stable, nonprecious catalysts are vital for large-scale alkaline water electrolysis. Here, we report a grafted superstructure, MOF@POM, formed by self-assembling a metal-organic framework (MOF) with polyoxometalate (POM). In situ electrochemical transformation converts MOF into active metal (oxy)hydroxides to produce a catalyst with a low overpotential of 178 millivolts at 10 milliamperes per square centimeter in alkaline electrolyte. An anion exchange membrane water electrolyzer incorporating this catalyst achieves 3 amperes per square centimeter at 1.78 volts at 80°C and stable operation at 2 amperes per square centimeter for 5140 hours at room temperature. In situ electrochemical spectroscopy and theoretical studies reveal that the synergistic interactions between metal atoms create a fast electron-transfer channel from catalytic iron and cobalt sites, nickel, and tungsten in the polyoxometalate to the electrode, stabilizing the metal sites and preventing dissolution.    
-
-    
-
-## Anomalous Diffusion of Metal Atoms on Oxide Surfaces: A Machine Learning Molecular Dynamics Study of Pt1/TiO2   
-
-OpenAlex: https://openalex.org/W4409835024    
-Open access: False
-    
-[U. Saleem](https://openalex.org/A5087282383), [Shaama Mallikarjun Sharada](https://openalex.org/A5014791144), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.4c08512.
-    
-No abstract    
-
-    
-
-## Deciphering dynamic structural modulation of exogenous Fe3+ integrated into Ni-based anode toward oxygen electrocatalysis for rechargeable zinc-air batteries   
-
-OpenAlex: https://openalex.org/W4409841602    
-Open access: False
-    
-[Jingyi Han](https://openalex.org/A5053838411), [Changmin Hou](https://openalex.org/A5012752742), [Shihui Jiao](https://openalex.org/A5024902833), [Xiaodi Niu](https://openalex.org/A5052867740), [Lina Li](https://openalex.org/A5100356919), [Jingqi Guan](https://openalex.org/A5074571254), Nano Energy. None(None)] 2025.https://doi.org/10.1016/j.nanoen.2025.111071.
-    
-No abstract    
-
-    
 
 ## Enhancement of Oxygen Evolution Performance of water splitting at High Current Density by Novel Electrodeposited NiFe-LDH Coatings   
 
@@ -476,6 +377,72 @@ Open access: False
 [P. K. Verma](https://openalex.org/A5079182706), [Samir Kumar Nayak](https://openalex.org/A5109680853), [Khushboo Bhardwaj](https://openalex.org/A5021770832), [Sharma S. R. K. C. Yamijala](https://openalex.org/A5085237782), The Journal of Physical Chemistry Letters. None(None)] 2025.https://doi.org/10.1021/acs.jpclett.5c00373.
     
 Per- and polyfluoroalkyl substances (PFAS) are a group of forever synthetic chemicals. They are widely utilized in industries and household appliances because of their remarkable stability and distinctive oil- and water-repellent properties. Despite their broad applications, unfortunately, PFAS are hazardous to all forms of life, including humans. In recent years, the environmental persistence of PFAS has raised significant interest in degrading these substances. However, the strong C-F bonds in these chemicals pose several challenges to their degradation. Plasmons of noble metal nanoparticles (NPs) offer many exciting applications, including photocatalytic reactions. However, an atomistic understanding of plasmon-driven processes remains elusive. In this work, using the real-time time-dependent density functional theory, we have studied the real-time formation of plasmons, hot-carrier generation, and subsequent direct hot-carrier transfer from metal NPs to the PFAS. Our simulations show that there is an apparent direct hot-electron transfer from NPs to PFAS. Moreover, using Ehrenfest dynamics simulations, we demonstrated that the transferred hot electrons can efficiently degrade PFAS without requiring any external thermal bath. Thus, our work provides an atomistic picture of plasmon-induced direct hot-carrier transfer from NPs to PFAS and the efficient degradation of PFAS. We strongly believe that this work generates the impetus to utilize plasmonic NPs to mitigate PFAS.    
+
+    
+
+## Two-dimensional alkali auride bimetallene semiconductors for activating photocatalytic water splitting: Synergistic interaction of electronegativity difference and carrier mobility   
+
+OpenAlex: https://openalex.org/W4409999744    
+Open access: False
+    
+[Jinbo Hao](https://openalex.org/A5001690348), [Bixuan Zhang](https://openalex.org/A5006118369), [Baonan Jia](https://openalex.org/A5048952708), [Xinhui Zhang](https://openalex.org/A5100756078), [Chunling Zhang](https://openalex.org/A5100439745), [Ge Wu](https://openalex.org/A5077789394), [Yuanzi Li](https://openalex.org/A5102303408), [Qiyu Li](https://openalex.org/A5102023185), [Shuli Gao](https://openalex.org/A5067341007), [Jiaojiao Pan](https://openalex.org/A5033743302), [Hengfeng Gong](https://openalex.org/A5006655856), [Pengfei Lu](https://openalex.org/A5101540137), Journal of Colloid and Interface Science. None(None)] 2025.https://doi.org/10.1016/j.jcis.2025.137723.
+    
+No abstract    
+
+    
+
+## The Role of Cu3+ in the Oxygen Evolution Activity of Copper Oxides   
+
+OpenAlex: https://openalex.org/W4410002913    
+Open access: False
+    
+[Pooja Basera](https://openalex.org/A5065228598), [Yang Zhao](https://openalex.org/A5101473068), [Angel T. Garcia‐Esparza](https://openalex.org/A5001820658), [Finn Babbe](https://openalex.org/A5037047569), [Neha Bothra](https://openalex.org/A5038483522), [John Vinson](https://openalex.org/A5053179503), [Dimosthenis Sokaras](https://openalex.org/A5064246875), [Junko Yano](https://openalex.org/A5087040660), [Shannon W. Boettcher](https://openalex.org/A5032458792), [Michal Bajdich](https://openalex.org/A5067205287), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.4c18147.
+    
+Cu-based oxides and hydroxides represent an important class of materials from a catalytic and corrosion perspective. In this study, we investigate the formation of bulk and surface Cu3+ species that are stable under water oxidation catalysis in alkaline media. So far, no direct evidence existed for the presence of hydroxides (CuOOH) or oxides, which were primarily proposed by theory. This work directly places CuOOH in the oxygen evolution reaction (OER) Pourbaix stability region with a calculated free energy of -208.68 kJ/mol, necessitating a revision of known Cu-H2O phase diagrams. We also predict that the active sites of CuOOH for the OER are consistent with a bridge O* site between the two Cu3+ atoms with onset at ≥1.6 V vs the reversible hydrogen electrode (RHE), aligning with experimentally observed Cu2+/3+ oxidation waves in cyclic voltammetry of Fe-free and Fe-spiked copper in alkaline media. Trace amounts of Fe (2 μg/mL (ppm) to 5 μg/mL) in the solution measurably enhance the catalytic activity of the OER, likely due to the adsorption of Fe species that serve as the active sites . Importantly, modulation excitation X-ray absorption spectroscopy (ME-XAS) of a Cu thin-film electrode shows a distinct Cu3+ fingerprint under OER conditions at 1.8 V vs RHE. Additionally, in situ Raman spectroscopy of polycrystalline Cu in 0.1 mol/L (M) KOH revealed features consistent with those calculated for CuOOH in addition to CuO. Overall, this work provides direct evidence of bulk electrochemical Cu3+ species under OER conditions and expands our longstanding understanding of the oxidation mechanism and catalytic activity of copper.    
+
+    
+
+## Femtosecond laser-induced diffusion and desorption of CO adsorbed on a weak electron–phonon coupling surface: Cu(110)   
+
+OpenAlex: https://openalex.org/W4410005931    
+Open access: False
+    
+[Federico J. Gonzalez](https://openalex.org/A5069381161), [Alberto S. Muzas](https://openalex.org/A5043230531), [J. I. Juaristi](https://openalex.org/A5083674420), [M. Alducin](https://openalex.org/A5064114895), [H. F. Busnengo](https://openalex.org/A5044343175), The Journal of Chemical Physics. 162(17)] 2025.https://doi.org/10.1063/5.0256832.
+    
+In this work, we perform molecular dynamics (MD) simulations of CO molecules chemisorbed on Cu(110) under femtosecond laser irradiation. We use the two temperature model and a previously developed potential energy surface based on density functional theory total energies (obtained using the nonlocal vdW-DF2 functional) and parameterized using artificial neural networks. We find that laser irradiation induces diffusion parallel to [1̄10] much more efficiently than parallel to [001] due to a significantly smaller energy barrier in the former case (i.e., 0.12 vs 0.49 eV). We also observe photoinduced desorption (an endothermic process characterized by ΔE = 0.6 eV) with a probability that exhibits a power law dependence with laser fluence. At the lowest fluence studied (F = 30 J m-2), for which experimental data are available, the theoretical photoinduced diffusion probabilities both parallel and perpendicular to [1̄10] agree with the measured values, whereas our calculations predict desorption probabilities smaller than those obtained in experiments. Our MD simulations show that (i) the energy exchange with the hot electron bath is the main responsible for photoinduced processes and (ii) phonons tend to reduce the kinetic energy of the adsorbate, as keeping fixed the position of the Cu atoms during the simulations (thereby quenching CO-phonon energy exchange) significantly increases CO diffusion and desorption probabilities. Thus, our study advances the understanding of ultrafast surface dynamics on metal surfaces with weak electron-phonon coupling, and we hope that it will motivate further experimental investigations.    
+
+    
+
+## First-principles analysis of effects of cerium doping on electrochemical corrosion behaviors of steel   
+
+OpenAlex: https://openalex.org/W4410012128    
+Open access: False
+    
+[Xiangjun Liu](https://openalex.org/A5100694698), [Zhongqiao Ma](https://openalex.org/A5113342256), [Changqiao Yang](https://openalex.org/A5102896464), [Xiang Li](https://openalex.org/A5100701415), [Jichun Yang](https://openalex.org/A5112938078), [Huiping Ren](https://openalex.org/A5110022778), [Hui Ma](https://openalex.org/A5002378444), Journal of Rare Earths. None(None)] 2025.https://doi.org/10.1016/j.jre.2025.04.027.
+    
+No abstract    
+
+    
+
+## The application and research progress of d-band center theory in the field of water electrolysis   
+
+OpenAlex: https://openalex.org/W4410016001    
+Open access: False
+    
+[Kui Li](https://openalex.org/A5100396632), [Zhiwei Tao](https://openalex.org/A5041306301), [Xinxia Ma](https://openalex.org/A5112680470), [Jiang Wu](https://openalex.org/A5023364642), [Tianyu Wu](https://openalex.org/A5011823896), [Chengjie Guo](https://openalex.org/A5101379589), [Yumin Qi](https://openalex.org/A5110365688), [Jinlei Yu](https://openalex.org/A5037308853), [Jiaqi Zheng](https://openalex.org/A5101513130), [Jianying Xue](https://openalex.org/A5046657299), International Journal of Hydrogen Energy. 132(None)] 2025.https://doi.org/10.1016/j.ijhydene.2025.02.305.
+    
+No abstract    
+
+    
+
+## Computational exploration of codoped Fe and Ru single-atom catalysts for the oxygen reduction reaction   
+
+OpenAlex: https://openalex.org/W4410016665    
+Open access: False
+    
+[Haojun Jia](https://openalex.org/A5034971788), [Chenru Duan](https://openalex.org/A5029457626), [Gianmarco Terrones](https://openalex.org/A5023330432), [Ilia Kevlishvili](https://openalex.org/A5009462742), [Heather J. Kulik](https://openalex.org/A5050671822), Journal of Catalysis. None(None)] 2025.https://doi.org/10.1016/j.jcat.2025.116163.
+    
+No abstract    
 
     
 
