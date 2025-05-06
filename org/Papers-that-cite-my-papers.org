@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Mon May  5 01:42:58 2025
+Created on Tue May  6 01:40:01 2025
 
-Found 44 results from 2025-04-28 to 2025-05-05
+Found 41 results from 2025-04-29 to 2025-05-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544]]
@@ -16,111 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* Predicted Cyclic Voltammetry Simulations on Iridium Oxide Surfaces with Comparisons To Experiment  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409856607
-:TOPICS: Electrochemical Analysis and Applications, Electrocatalysts for Energy Conversion, Advanced Memory and Neural Computing
-:PUBLICATION_DATE: 2025-04-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s11244-025-02093-0")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409856607"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409856607"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409856607"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409856607 (Open access: False)
-    
-[[https://openalex.org/A5065096122][Soonho Kwon]], [[https://openalex.org/A5035627473][William A. Goddard]], Topics in Catalysis. None(None)] 2025. https://doi.org/10.1007/s11244-025-02093-0 
-     
-No abstract    
-
-    
-
-* Dopant-Induced Hexagonal to Orthorhombic Phase Transition in Fe2–xMoxP Nanorods and Its Influence on the Electrocatalytic Hydrogen Evolution Reaction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409867737
-:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Advancements in Battery Materials
-:PUBLICATION_DATE: 2025-04-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.chemmater.4c03479")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409867737"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409867737"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409867737"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409867737 (Open access: True)
-    
-[[https://openalex.org/A5109743137][Jordon Baker]], [[https://openalex.org/A5100632510][Danyang Wang]], [[https://openalex.org/A5059607440][Md. Kawsar Alam]], [[https://openalex.org/A5058617942][Ka Un Lao]], [[https://openalex.org/A5038758119][Indika U. Arachchige]], Chemistry of Materials. None(None)] 2025. https://doi.org/10.1021/acs.chemmater.4c03479 
-     
-No abstract    
-
-    
-
-* Penta-SiAsP Monolayer: A Highly Stable Pentagonal Ternary Material with Photocatalytic Potential for Overall Water Splitting  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409868693
-:TOPICS: 2D Materials and Applications, Advanced Photocatalysis Techniques, MXene and MAX Phase Materials
-:PUBLICATION_DATE: 2025-04-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s10562-025-05015-7")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409868693"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409868693"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409868693"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409868693 (Open access: False)
-    
-[[https://openalex.org/A5078193661][Chenghao Yang]], [[https://openalex.org/A5108054412][Yanqing Shen]], [[https://openalex.org/A5100397195][Kexin Wang]], [[https://openalex.org/A5052852912][Xiangqian Jiang]], [[https://openalex.org/A5100878802][Long Pang]], [[https://openalex.org/A5091141565][E Peng]], [[https://openalex.org/A5010285977][Zhongxiang Zhou]], Catalysis Letters. 155(6)] 2025. https://doi.org/10.1007/s10562-025-05015-7 
-     
-No abstract    
-
-    
-
-* Unraveling the Defluorination Mechanism of Sodium Fluoro-Aluminates on Graphite: A First-Principles Study  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409870458
-:TOPICS: Fiber-reinforced polymer composites, Inorganic Fluorides and Related Compounds, Advancements in Battery Materials
-:PUBLICATION_DATE: 2025-04-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpca.5c00956")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409870458"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409870458"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409870458"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409870458 (Open access: False)
-    
-[[https://openalex.org/A5077924358][Min Tan]], [[https://openalex.org/A5101634497][Jingjing Yan]], [[https://openalex.org/A5108755595][Si Chung Chang]], [[https://openalex.org/A5103161785][Hui He]], [[https://openalex.org/A5100455239][Tao Li]], The Journal of Physical Chemistry A. None(None)] 2025. https://doi.org/10.1021/acs.jpca.5c00956 
-     
-The graphitized carbon blocks are used as cathode and anode materials on modern aluminum electrolyzers, which provide a reaction interface between molten salts and a graphitized cathode for the electrochemical reaction. The first-principle calculations were performed to clarify the defluorination mechanism of fluoro-aluminates on graphite cathodes in aluminum electrolysis for energy efficiency and carbon emission reduction. The adsorption behaviors of intermediates involved in defluorination reactions on graphite surfaces are analyzed, revealing their spontaneous adsorption based on their adsorption energies and charge density differences. Furthermore, the defluorination pathways of both single Na3AlF6 clusters and fluoride-aluminate polymers are elucidated. Notably, Na3AlF6, after undergoing the thermochemical defluorination process to obtain AlF3, preferentially undergoes electrochemical defluorination via Al-F-Al polymerization. The key findings indicate that the chemical defluorination of Na3AlF6 leading to NaAlF4 serves as a pivotal step, facilitating the overall defluorination process and enhancing the aluminum production efficiency. This work provides fundamental insights into optimizing aluminum electrolysis processes.    
-
-    
-
-* Protons Accumulate at the Graphene–Water Interface  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4409871406
-:TOPICS: Nanopore and Nanochannel Transport Studies, Spectroscopy and Quantum Chemical Studies, Electrochemical Analysis and Applications
-:PUBLICATION_DATE: 2025-04-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsnano.5c02053")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4409871406"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4409871406"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4409871406"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4409871406 (Open access: True)
-    
-[[https://openalex.org/A5093427169][Xavier R. Advincula]], [[https://openalex.org/A5079875975][Kara D. Fong]], [[https://openalex.org/A5056513432][Angelos Michaelides]], [[https://openalex.org/A5026599330][Christoph Schran]], ACS Nano. None(None)] 2025. https://doi.org/10.1021/acsnano.5c02053 
-     
-Water's ability to autoionize into hydroxide and hydronium ions profoundly influences surface properties, rendering interfaces either basic or acidic. While it is well-established that protons show an affinity to the air-water interface, a critical knowledge gap exists in technologically relevant surfaces like the graphene-water interface. Here we use machine learning-based simulations with first-principles accuracy to unravel the behavior of hydroxide and hydronium ions at the graphene-water interface. Our findings reveal that protons accumulate at the graphene-water interface, with the hydronium ion predominantly residing in the first contact layer of water. In contrast, the hydroxide ion exhibits a bimodal distribution, found both near the surface and further away from it. Analysis of the underlying electronic structure reveals local polarization effects, resulting in counterintuitive charge rearrangement. Proton propensity to the graphene-water interface challenges the interpretation of surface experiments and is expected to have far-reaching consequences for ion conductivity, interfacial reactivity, and proton-mediated processes.    
-
-    
 
 * Computational High-Throughput Screening of High-Performance Transition Metal C8n8 Single-Atom Electrocatalysts for Oxygen Reduction Reaction  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -546,7 +441,7 @@ No abstract
 :PROPERTIES:
 :UUID: https://openalex.org/W4409978877
 :TOPICS: Perovskite Materials and Applications, 2D Materials and Applications, Quantum Dots Synthesis And Properties
-:PUBLICATION_DATE: 2025-04-01
+:PUBLICATION_DATE: 2025-05-01
 :END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.physb.2025.417339")][Get bibtex entry]] 
@@ -557,7 +452,7 @@ No abstract
 
 OpenAlex: https://openalex.org/W4409978877 (Open access: False)
     
-[[https://openalex.org/A5111759239][Hao An]], [[https://openalex.org/A5002672630][Zhiyang Yuan]], [[https://openalex.org/A5100603038][Chun-Sheng Liu]], [[https://openalex.org/A5073312841][Lan Meng]], [[https://openalex.org/A5100765554][Wei Yan]], [[https://openalex.org/A5100367780][Xiaohong Yan]], Physica B Condensed Matter. None(None)] 2025. https://doi.org/10.1016/j.physb.2025.417339 
+[[https://openalex.org/A5111759239][Hao An]], [[https://openalex.org/A5002672630][Zhiyang Yuan]], [[https://openalex.org/A5100603038][Chun-Sheng Liu]], [[https://openalex.org/A5073312841][Lan Meng]], [[https://openalex.org/A5100765554][Wei Yan]], [[https://openalex.org/A5100367780][Xiaohong Yan]], Physica B Condensed Matter. 712(None)] 2025. https://doi.org/10.1016/j.physb.2025.417339 
      
 No abstract    
 
@@ -896,6 +791,48 @@ OpenAlex: https://openalex.org/W4410045038 (Open access: False)
 [[https://openalex.org/A5100568187][Yue Chu]], [[https://openalex.org/A5100449583][Yuhang Wang]], [[https://openalex.org/A5100366363][Di Zhang]], [[https://openalex.org/A5030108451][Xuedan Song]], [[https://openalex.org/A5100605678][Chang Yu]], [[https://openalex.org/A5100348631][Hao Li]], The Journal of Chemical Physics. 162(17)] 2025. https://doi.org/10.1063/5.0267969 
      
 The electrochemical carbon dioxide reduction reaction (CO2RR) represents a promising approach to mitigating climate change and addressing energy challenges by converting CO2 into value-added chemicals. Among various CO2RR products, CO is attractive due to its economic viability and industrial relevance. By integrating large-scale data mining (with 939 experimental performance data), we reveal that the catalytic performance of d-block transition metal-based single-atom catalysts (SACs) for CO2RR is influenced not only by the coordination environment but also significantly by pH. However, the unified model that could accurately depict the pH-dependent CO2RR to CO activity of d-block SACs is urgently needed. Herein, we conducted pH-dependent microkinetic modeling based upon density functional theory calculations and pH-electric field coupled microkinetic modeling to analyze CO2RR performance of 101 SACs. Our data-driven screening identifies 12 high-performance SACs with promising CO selectivity across different pH conditions, primarily based on Fe, Cu, and Ni centers. We establish a scaling relation between key intermediates (*COOH and *CO) and analyze their adsorption behaviors under varying electrochemical conditions. Furthermore, our pH-dependent microkinetic modeling reveals the critical role of electric field effects in determining catalytic performance, aligning well with experimental turnover frequency values. Most importantly, our theoretical model accurately captures the pH-dependent performance of CO2RR-to-CO on d-block SACs, which is experimentally validated and serves as a general theoretical framework for the rational design of high-performance CO2RR catalysts. Based on this model, we identify a series of promising M–N–C catalysts, providing a universal design principle for optimizing CO2-to-CO conversion.    
+
+    
+
+* A theoretical study on ion irradiation engineered defect formation and hydrogen evolution on two-dimensional MoS2  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4410055577
+:TOPICS: MXene and MAX Phase Materials, Advanced Memory and Neural Computing, 2D Materials and Applications
+:PUBLICATION_DATE: 2025-05-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.flatc.2025.100873")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4410055577"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4410055577"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4410055577"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4410055577 (Open access: False)
+    
+[[https://openalex.org/A5114243138][Jiahua Xu]], [[https://openalex.org/A5014070259][Tianzhao Li]], [[https://openalex.org/A5076095171][Wenjin Gao]], [[https://openalex.org/A5027377025][Miaogen Chen]], [[https://openalex.org/A5089428279][Jinge Wu]], [[https://openalex.org/A5043845686][Tianchao Niu]], [[https://openalex.org/A5052759689][Miao Zhou]], FlatChem. None(None)] 2025. https://doi.org/10.1016/j.flatc.2025.100873 
+     
+No abstract    
+
+    
+
+* First-Principles Study on Direct Z-Scheme SnC/SnS2 Heterostructures for Photocatalytic Water Splitting  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4410069172
+:TOPICS: Advanced Photocatalysis Techniques, Copper-based nanomaterials and applications, ZnO doping and properties
+:PUBLICATION_DATE: 2025-05-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/chemistry7030076")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4410069172"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4410069172"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4410069172"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4410069172 (Open access: True)
+    
+[[https://openalex.org/A5104166041][Sisi Zhou]], [[https://openalex.org/A5022734102][Yuliang Mao]], Chemistry. 7(3)] 2025. https://doi.org/10.3390/chemistry7030076 
+     
+Direct Z-scheme heterojunctions are known for their unique carrier mobility mechanism, which significantly improves photocatalytic water splitting efficiency. In this study, we use first-principles simulations to determine the stability, electrical, and photocatalytic properties of a SnC/SnS2 heterojunction. Analyses of the projected energy band and state density demonstrate that the SnC/SnS2 heterojunction exhibits an indirect band gap of 0.80 eV and a type-II band alignment. Analysis of its work function shows that the SnC/SnS2 heterojunction has a built-in electric field pointing from the SnC monolayer to the SnS2 monolayer. The band edge position and the differential charge density indicate that the SnC/SnS2 heterostructure exhibits a Z-scheme photocatalytic mechanism. Furthermore, the SnC/SnS2 heterojunction exhibits excellent visible-light absorption and high solar-to-hydrogen efficiency of 32.8%. It is found that the band gap and light absorption of the heterojunction can be effectively tuned by biaxial strain. These results demonstrate that the fabricated SnC/SnS2 heterojunction has significant photocatalysis potential.    
 
     
 

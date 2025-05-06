@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 05 May 2025 01:42:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 01:40:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Predicted Cyclic Voltammetry Simulations on Iridium Oxide Surfaces with Comparisons To Experiment</title>
-      <link>https://doi.org/10.1007/s11244-025-02093-0</link>
-      <description>Soonho Kwon, William A. Goddard, Topics in Catalysis. None(None)] 2025. https://openalex.org/W4409856607
-
-                No abstract</description>
-      <author>Soonho Kwon, William A. Goddard</author>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11244-025-02093-0</guid>
-    </item>
-    <item>
-      <title>Dopant-Induced Hexagonal to Orthorhombic Phase Transition in Fe&lt;sub&gt;2&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Mo&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;P Nanorods and Its Influence on the Electrocatalytic Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acs.chemmater.4c03479</link>
-      <description>Jordon Baker, Danyang Wang, Md. Kawsar Alam, Ka Un Lao, Indika U. Arachchige, Chemistry of Materials. None(None)] 2025. https://openalex.org/W4409867737
-
-                No abstract</description>
-      <author>Jordon Baker, Danyang Wang, Md. Kawsar Alam, Ka Un Lao, Indika U. Arachchige</author>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.4c03479</guid>
-    </item>
-    <item>
-      <title>Penta-SiAsP Monolayer: A Highly Stable Pentagonal Ternary Material with Photocatalytic Potential for Overall Water Splitting</title>
-      <link>https://doi.org/10.1007/s10562-025-05015-7</link>
-      <description>Chenghao Yang, Yanqing Shen, Kexin Wang, Xiangqian Jiang, Long Pang, E Peng, Zhongxiang Zhou, Catalysis Letters. 155(6)] 2025. https://openalex.org/W4409868693
-
-                No abstract</description>
-      <author>Chenghao Yang, Yanqing Shen, Kexin Wang, Xiangqian Jiang, Long Pang, E Peng, Zhongxiang Zhou</author>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10562-025-05015-7</guid>
-    </item>
-    <item>
-      <title>Unraveling the Defluorination Mechanism of Sodium Fluoro-Aluminates on Graphite: A First-Principles Study</title>
-      <link>https://doi.org/10.1021/acs.jpca.5c00956</link>
-      <description>Min Tan, Jingjing Yan, Si Chung Chang, Hui He, Tao Li, The Journal of Physical Chemistry A. None(None)] 2025. https://openalex.org/W4409870458
-
-                The graphitized carbon blocks are used as cathode and anode materials on modern aluminum electrolyzers, which provide a reaction interface between molten salts and a graphitized cathode for the electrochemical reaction. The first-principle calculations were performed to clarify the defluorination mechanism of fluoro-aluminates on graphite cathodes in aluminum electrolysis for energy efficiency and carbon emission reduction. The adsorption behaviors of intermediates involved in defluorination reactions on graphite surfaces are analyzed, revealing their spontaneous adsorption based on their adsorption energies and charge density differences. Furthermore, the defluorination pathways of both single Na3AlF6 clusters and fluoride-aluminate polymers are elucidated. Notably, Na3AlF6, after undergoing the thermochemical defluorination process to obtain AlF3, preferentially undergoes electrochemical defluorination via Al-F-Al polymerization. The key findings indicate that the chemical defluorination of Na3AlF6 leading to NaAlF4 serves as a pivotal step, facilitating the overall defluorination process and enhancing the aluminum production efficiency. This work provides fundamental insights into optimizing aluminum electrolysis processes.</description>
-      <author>Min Tan, Jingjing Yan, Si Chung Chang, Hui He, Tao Li</author>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.5c00956</guid>
-    </item>
-    <item>
-      <title>Protons Accumulate at the Graphene&#8211;Water Interface</title>
-      <link>https://doi.org/10.1021/acsnano.5c02053</link>
-      <description>Xavier R. Advincula, Kara D. Fong, Angelos Michaelides, Christoph Schran, ACS Nano. None(None)] 2025. https://openalex.org/W4409871406
-
-                Water's ability to autoionize into hydroxide and hydronium ions profoundly influences surface properties, rendering interfaces either basic or acidic. While it is well-established that protons show an affinity to the air-water interface, a critical knowledge gap exists in technologically relevant surfaces like the graphene-water interface. Here we use machine learning-based simulations with first-principles accuracy to unravel the behavior of hydroxide and hydronium ions at the graphene-water interface. Our findings reveal that protons accumulate at the graphene-water interface, with the hydronium ion predominantly residing in the first contact layer of water. In contrast, the hydroxide ion exhibits a bimodal distribution, found both near the surface and further away from it. Analysis of the underlying electronic structure reveals local polarization effects, resulting in counterintuitive charge rearrangement. Proton propensity to the graphene-water interface challenges the interpretation of surface experiments and is expected to have far-reaching consequences for ion conductivity, interfacial reactivity, and proton-mediated processes.</description>
-      <author>Xavier R. Advincula, Kara D. Fong, Angelos Michaelides, Christoph Schran</author>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.5c02053</guid>
-    </item>
     <item>
       <title>Computational High-Throughput Screening of High-Performance Transition Metal C8n8 Single-Atom Electrocatalysts for Oxygen Reduction Reaction</title>
       <link>https://doi.org/10.2139/ssrn.5234301</link>
@@ -260,11 +210,11 @@
     <item>
       <title>Built-in Electric Fields and Strain Modulated Photocatalytic Performance in Monolayer Janus Piezoelectric AlBX2(X = O/S/Se/Te)</title>
       <link>https://doi.org/10.1016/j.physb.2025.417339</link>
-      <description>Hao An, Zhiyang Yuan, Chun-Sheng Liu, Lan Meng, Wei Yan, Xiaohong Yan, Physica B Condensed Matter. None(None)] 2025. https://openalex.org/W4409978877
+      <description>Hao An, Zhiyang Yuan, Chun-Sheng Liu, Lan Meng, Wei Yan, Xiaohong Yan, Physica B Condensed Matter. 712(None)] 2025. https://openalex.org/W4409978877
 
                 No abstract</description>
       <author>Hao An, Zhiyang Yuan, Chun-Sheng Liu, Lan Meng, Wei Yan, Xiaohong Yan</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.physb.2025.417339</guid>
     </item>
     <item>
@@ -426,6 +376,26 @@
       <author>Yue Chu, Yuhang Wang, Di Zhang, Xuedan Song, Chang Yu, Hao Li</author>
       <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0267969</guid>
+    </item>
+    <item>
+      <title>A theoretical study on ion irradiation engineered defect formation and hydrogen evolution on two-dimensional MoS2</title>
+      <link>https://doi.org/10.1016/j.flatc.2025.100873</link>
+      <description>Jiahua Xu, Tianzhao Li, Wenjin Gao, Miaogen Chen, Jinge Wu, Tianchao Niu, Miao Zhou, FlatChem. None(None)] 2025. https://openalex.org/W4410055577
+
+                No abstract</description>
+      <author>Jiahua Xu, Tianzhao Li, Wenjin Gao, Miaogen Chen, Jinge Wu, Tianchao Niu, Miao Zhou</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.flatc.2025.100873</guid>
+    </item>
+    <item>
+      <title>First-Principles Study on Direct Z-Scheme SnC/SnS2 Heterostructures for Photocatalytic Water Splitting</title>
+      <link>https://doi.org/10.3390/chemistry7030076</link>
+      <description>Sisi Zhou, Yuliang Mao, Chemistry. 7(3)] 2025. https://openalex.org/W4410069172
+
+                Direct Z-scheme heterojunctions are known for their unique carrier mobility mechanism, which significantly improves photocatalytic water splitting efficiency. In this study, we use first-principles simulations to determine the stability, electrical, and photocatalytic properties of a SnC/SnS2 heterojunction. Analyses of the projected energy band and state density demonstrate that the SnC/SnS2 heterojunction exhibits an indirect band gap of 0.80 eV and a type-II band alignment. Analysis of its work function shows that the SnC/SnS2 heterojunction has a built-in electric field pointing from the SnC monolayer to the SnS2 monolayer. The band edge position and the differential charge density indicate that the SnC/SnS2 heterostructure exhibits a Z-scheme photocatalytic mechanism. Furthermore, the SnC/SnS2 heterojunction exhibits excellent visible-light absorption and high solar-to-hydrogen efficiency of 32.8%. It is found that the band gap and light absorption of the heterojunction can be effectively tuned by biaxial strain. These results demonstrate that the fabricated SnC/SnS2 heterojunction has significant photocatalysis potential.</description>
+      <author>Sisi Zhou, Yuliang Mao</author>
+      <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/chemistry7030076</guid>
     </item>
     <item>
       <title>LAGNet: better electron density prediction for LCAO-based data and drug-like substances</title>
