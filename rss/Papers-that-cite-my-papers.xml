@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 May 2025 01:40:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 01:40:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Computational High-Throughput Screening of High-Performance Transition Metal C8n8 Single-Atom Electrocatalysts for Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.2139/ssrn.5234301</link>
-      <description>Keyuan Chen, X.L. Zhang, Li Ma, Yongzhi Wu, Haijin Li, Jueyi Ye, Ju Rong, Xiaohua Yu, Zhaohua Liu, No host. None(None)] 2025. https://openalex.org/W4409875350
-
-                No abstract</description>
-      <author>Keyuan Chen, X.L. Zhang, Li Ma, Yongzhi Wu, Haijin Li, Jueyi Ye, Ju Rong, Xiaohua Yu, Zhaohua Liu</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5234301</guid>
-    </item>
-    <item>
-      <title>Modulation the Coordination of Fe-Co Diatomic Sites with Boron Atom for Fuel Cells and Zn-Air Battery</title>
-      <link>https://doi.org/10.2139/ssrn.5233860</link>
-      <description>Dai Dang, Lin Zhang, Guifa Long, Chao Liu, Wenjun Fan, Jie Zheng, Tiejun Wang, Quanbing Liu, Xiaopeng Han, No host. None(None)] 2025. https://openalex.org/W4409882712
-
-                No abstract</description>
-      <author>Dai Dang, Lin Zhang, Guifa Long, Chao Liu, Wenjun Fan, Jie Zheng, Tiejun Wang, Quanbing Liu, Xiaopeng Han</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5233860</guid>
-    </item>
-    <item>
-      <title>Promoting electrocatalysts design combining general thermodynamic evaluation and specific kinetic study</title>
-      <link>https://doi.org/10.1016/j.jcat.2025.116175</link>
-      <description>Lu Han, Jun Long, Huan Li, Hao Li, Jianping Xiao, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4409887124
-
-                No abstract</description>
-      <author>Lu Han, Jun Long, Huan Li, Hao Li, Jianping Xiao</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116175</guid>
-    </item>
-    <item>
-      <title>One Size Fits All? Development of the CPOSS209 Data Set of Experimental and Hypothetical Polymorphs for Testing Computational Modeling Methods</title>
-      <link>https://doi.org/10.1021/acs.cgd.5c00255</link>
-      <description>Louise S. Price, Matteo Paloni, Matteo Salvalaglio, Sarah L. Price, Crystal Growth &amp; Design. None(None)] 2025. https://openalex.org/W4409887865
-
-                No abstract</description>
-      <author>Louise S. Price, Matteo Paloni, Matteo Salvalaglio, Sarah L. Price</author>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.cgd.5c00255</guid>
-    </item>
-    <item>
-      <title>A pH-dependent microkinetic modeling guided synthesis of porous dual-atom catalysts for efficient oxygen reduction in Zn&#8211;air batteries</title>
-      <link>https://doi.org/10.1039/d5ee00215j</link>
-      <description>Ting&#8208;Ting Li, Di Zhang, Yun Zhang, Dujuan Yang, Runxin Li, Fuyun Yu, Kengqiang Zhong, Xiaozhi Su, Tian&#8208;Wei Song, Long Jiao, Hai&#8208;Long Jiang, Guo&#8208;Ping Sheng, Jie Xu, Hao Li, Zhenyu Wu, Energy &amp; Environmental Science. None(None)] 2025. https://openalex.org/W4409889319
-
-                Guided by the pH-field microkinetic model, we developed an porous Fe 1 Co 1 &#8211;N&#8211;C ORR catalyst, which exhibited excellent performance in zinc&#8211;air batteries and provided insights for advanced catalysts.</description>
-      <author>Ting&#8208;Ting Li, Di Zhang, Yun Zhang, Dujuan Yang, Runxin Li, Fuyun Yu, Kengqiang Zhong, Xiaozhi Su, Tian&#8208;Wei Song, Long Jiao, Hai&#8208;Long Jiang, Guo&#8208;Ping Sheng, Jie Xu, Hao Li, Zhenyu Wu</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5ee00215j</guid>
-    </item>
-    <item>
-      <title>Electrochemical Dissolution: Paths in High-Entropy Alloy Composition Space</title>
-      <link>https://doi.org/10.1007/s44210-025-00057-3</link>
-      <description>Mads K. Plenge, Jack K. Pedersen, Luis A. Cipriano, Jan Rossmeisl, Deleted Journal. None(None)] 2025. https://openalex.org/W4409906731
-
-                Abstract The stability of a nanoparticle catalyst during electrochemical reaction is crucial for its application. Despite increasing interest in multi-metallic alloy nanoparticles, such as high-entropy alloys (HEAs), for electrocatalysis and emerging models for their catalytic activity, there is limited work on frameworks that can predict the metastability of these alloys under reaction conditions, including stability against electrochemical surface dissolution. Incorporating electrochemical stability in multi-objective optimization would advance HEAs as a catalyst discovery platform. To address the knowledge gap on electrochemical stability, we propose a methodology for simulating the dissolution of n-element alloy nanoparticles comprised of density functional theory and machine-learning regression to calculate the dissolution potentials of the surface atoms. We demonstrate the methodology for the Ag&#8211;Au&#8211;Cu&#8211;Ir&#8211;Pd&#8211;Pt&#8211;Rh&#8211;Ru HEA system with the conditions of the oxygen reduction reaction. We investigated trends in stability against dissolution through a compositional grid search for the octo-metallic composition space, uncovering two alloying strategies to increase stability against electrochemical surface dissolution: Alloying with a noble metal or a metal with high relative surface energy. In the simulations, stabilization ensues from forming a protective surface layer, and consequently, the dissolution of persistent alloyed nanoparticles results in core&#8211;shell structures. The model enables tracing the evolution of the surface and dissolved composition during electrochemical dissolution, forming paths of dissolution and revealing unretainable surface compositions. Graphical Abstract</description>
-      <author>Mads K. Plenge, Jack K. Pedersen, Luis A. Cipriano, Jan Rossmeisl</author>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s44210-025-00057-3</guid>
-    </item>
     <item>
       <title>Enhancing economic viability in carbon capture and storage with enhanced oil recovery projects: A dynamic stochastic approach to CO2 monitoring cost optimization</title>
       <link>https://doi.org/10.1016/j.cie.2025.111187</link>
@@ -348,16 +288,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.physb.2025.417348</guid>
     </item>
     <item>
-      <title>Untangling the Mechanisms in Magneto&#8208;Electrocatalytic Oxygen Evolution</title>
-      <link>https://doi.org/10.1002/smll.202412852</link>
-      <description>Amy Radford, Dorottya Szalay, Qiming Chen, Mengfan Ying, Mingyu Luo, Xuelei Pan, Michail Stamatakis, Yiyang Li, Chen Wu, Shik Chi Edman Tsang, Small. None(None)] 2025. https://openalex.org/W4410035834
-
-                Abstract External magnetic fields emerge as a promising method for enhancing the electrocatalytic oxygen evolution reaction (OER), yet the underlying magneto&#8208;electric (ME) mechanisms are not well understood. The slow kinetics of OER make it a key challenge in electrocatalytic water&#8208;splitting, a promising technique for sustainable H 2 fuel production. Herein, a systematic approach is presented to analyzing the ME mechanisms governing OER, using metallic&#8208;plate (Ni foam, Ni sheet, and Pt sheet) and powder&#8208;based (Co 3 O 4 /BaFe 12 O 19 on carbon paper) electrodes. Through controlled experiments using varying magnetic field strengths and orientations, Lorentz force and spin&#8208;polarization mechanisms are separated. For metallic electrodes, the effects are orientation&#8208;dependent, indicating domination by Lorentz force. Magnetic flux density about the electrode surface is shown to govern the Lorentz force behavior. Interestingly, a &#8220;pseudo&#8221; effect is discovered which results from the relative position of the reference electrode, highlighting the importance of experimental design. The Co 3 O 4 systems display minimal orientation dependence, indicating spin&#8208;polarization domination. Introducing BaFe 12 O 19 as a magnetic co&#8208;catalyst further amplifies the ME effect, marking the first demonstration of magnetic co&#8208;catalyst enhancement in magneto&#8208;electrocatalysis. This work provides key insights into ME mechanisms, linking electrode composition, magnetism, and geometry to performance, offering new pathways for optimizing future magneto&#8208;electrocatalytic systems.</description>
-      <author>Amy Radford, Dorottya Szalay, Qiming Chen, Mengfan Ying, Mingyu Luo, Xuelei Pan, Michail Stamatakis, Yiyang Li, Chen Wu, Shik Chi Edman Tsang</author>
-      <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202412852</guid>
-    </item>
-    <item>
       <title>Deciphering Size and Shape Effects on the Structure Sensitivity of the CO&lt;sub&gt;2&lt;/sub&gt; Methanation Reaction on Nickel</title>
       <link>https://doi.org/10.1021/acscatal.4c08084</link>
       <description>Giulia Spano, Matteo Ferri, Raffaele Cheula, Matteo Monai, Bert M. Weckhuysen, Matteo Maestri, ACS Catalysis. None(None)] 2025. https://openalex.org/W4410037436
@@ -396,6 +326,46 @@
       <author>Sisi Zhou, Yuliang Mao</author>
       <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/chemistry7030076</guid>
+    </item>
+    <item>
+      <title>Untangling the Mechanisms in Magneto&#8208;Electrocatalytic Oxygen Evolution</title>
+      <link>https://doi.org/10.1002/smll.202412852</link>
+      <description>Amy Radford, Dorottya Szalay, Qiming Chen, Mengfan Ying, Mingyu Luo, Xuelei Pan, Michail Stamatakis, Yiyang Li, Chen Wu, Shik Chi Edman Tsang, Small. None(None)] 2025. https://openalex.org/W4410035834
+
+                Abstract External magnetic fields emerge as a promising method for enhancing the electrocatalytic oxygen evolution reaction (OER), yet the underlying magneto&#8208;electric (ME) mechanisms are not well understood. The slow kinetics of OER make it a key challenge in electrocatalytic water&#8208;splitting, a promising technique for sustainable H 2 fuel production. Herein, a systematic approach is presented to analyzing the ME mechanisms governing OER, using metallic&#8208;plate (Ni foam, Ni sheet, and Pt sheet) and powder&#8208;based (Co 3 O 4 /BaFe 12 O 19 on carbon paper) electrodes. Through controlled experiments using varying magnetic field strengths and orientations, Lorentz force and spin&#8208;polarization mechanisms are separated. For metallic electrodes, the effects are orientation&#8208;dependent, indicating domination by Lorentz force. Magnetic flux density about the electrode surface is shown to govern the Lorentz force behavior. Interestingly, a &#8220;pseudo&#8221; effect is discovered which results from the relative position of the reference electrode, highlighting the importance of experimental design. The Co 3 O 4 systems display minimal orientation dependence, indicating spin&#8208;polarization domination. Introducing BaFe 12 O 19 as a magnetic co&#8208;catalyst further amplifies the ME effect, marking the first demonstration of magnetic co&#8208;catalyst enhancement in magneto&#8208;electrocatalysis. This work provides key insights into ME mechanisms, linking electrode composition, magnetism, and geometry to performance, offering new pathways for optimizing future magneto&#8208;electrocatalytic systems.</description>
+      <author>Amy Radford, Dorottya Szalay, Qiming Chen, Mengfan Ying, Mingyu Luo, Xuelei Pan, Michail Stamatakis, Yiyang Li, Chen Wu, Shik Chi Edman Tsang</author>
+      <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202412852</guid>
+    </item>
+    <item>
+      <title>Atomic Energy Accuracy of Neural Network Potentials: Harnessing Pretraining and Transfer Learning</title>
+      <link>https://doi.org/10.1021/acs.jcim.5c00079</link>
+      <description>Gang Seob Jung, Journal of Chemical Information and Modeling. None(None)] 2025. https://openalex.org/W4410076782
+
+                Machine learning-based interatomic potentials (MLIPs) have transformed the prediction of potential energy surfaces (PESs), achieving accuracy comparable to ab initio calculations. However, atomic energy predictions, often assumed to lack physical meaning, remain underexplored. In this study, we demonstrate that inaccuracies in atomic energy predictions reduce the robustness and transferability of Neural Network Potentials (NNPs) and atomic energy error can be masked in total energy predictions due to error cancellation. We validate this finding using challenging configurations involving deformation and failure under tensile loading. By pretraining atomic energy predictions using empirical potentials and applying transfer learning with density functional theory (DFT) data, we achieve notable improvements in the accuracy of total energy, forces, and stress predictions. Furthermore, this approach enhances the robustness and transferability of NNPs, emphasizing the importance of atomic energy predictions in developing high-quality and reliable MLIPs.</description>
+      <author>Gang Seob Jung</author>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.5c00079</guid>
+    </item>
+    <item>
+      <title>CHIPS-FF: Evaluating Universal Machine Learning Force Fields for Material Properties</title>
+      <link>https://doi.org/10.1021/acsmaterialslett.5c00093</link>
+      <description>Daniel Wines, Kamal Choudhary, ACS Materials Letters. None(None)] 2025. https://openalex.org/W4410079056
+
+                No abstract</description>
+      <author>Daniel Wines, Kamal Choudhary</author>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.5c00093</guid>
+    </item>
+    <item>
+      <title>Integrated Strategies Toward the Capture and Electrochemical Conversion of Low&#8208;Concentration Carbon Dioxide</title>
+      <link>https://doi.org/10.1002/exp.20240006</link>
+      <description>Zhenyi Yang, Xingqiu Li, Xianglong Cui, Zhen Zheng, Penglun Zheng, Yu Zhang, Exploration. None(None)] 2025. https://openalex.org/W4410075584
+
+                ABSTRACT Electrochemical reduction of carbon dioxide (CO 2 ) has been considered a promising route to reduce net carbon emissions and thus mitigate global warming issues. In practice, it mainly involves two processes including the CO 2 capture and subsequent electrochemical conversion. From the perfective of feasible and economic benefits, it is of practical significance to develop integrated CO 2 capture and conversion systems in an efficient way. However, a majority of studies have been currently focusing on the independent process, and the development of integrated strategies is still in the initial stage. This review mainly covers the recent progress on the integrated technologies of CO 2 capture and electrochemical conversion, including the integration strategies, mechanisms, and corresponding issues. The advantages and disadvantages of those strategies are particularly discussed, aiming to identify the viable routes for future applications. To conclude, the challenges and prospects in terms of the research direction in this field are provided, with the hope of promoting practical CO 2 utilization from the fundamental aspects.</description>
+      <author>Zhenyi Yang, Xingqiu Li, Xianglong Cui, Zhen Zheng, Penglun Zheng, Yu Zhang</author>
+      <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/exp.20240006</guid>
     </item>
     <item>
       <title>LAGNet: better electron density prediction for LCAO-based data and drug-like substances</title>

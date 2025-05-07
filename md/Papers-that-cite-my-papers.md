@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue May  6 01:40:01 2025
+Created on Wed May  7 01:40:39 2025
 
-Found 41 results from 2025-04-29 to 2025-05-06
+Found 38 results from 2025-04-30 to 2025-05-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544)
@@ -16,72 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Computational High-Throughput Screening of High-Performance Transition Metal C8n8 Single-Atom Electrocatalysts for Oxygen Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4409875350    
-Open access: False
-    
-[Keyuan Chen](https://openalex.org/A5041916689), [X.L. Zhang](https://openalex.org/A5033756127), [Li Ma](https://openalex.org/A5104093927), [Yongzhi Wu](https://openalex.org/A5067758134), [Haijin Li](https://openalex.org/A5053460720), [Jueyi Ye](https://openalex.org/A5070586694), [Ju Rong](https://openalex.org/A5064010494), [Xiaohua Yu](https://openalex.org/A5058708996), [Zhaohua Liu](https://openalex.org/A5102753819), No host. None(None)] 2025.https://doi.org/10.2139/ssrn.5234301.
-    
-No abstract    
-
-    
-
-## Modulation the Coordination of Fe-Co Diatomic Sites with Boron Atom for Fuel Cells and Zn-Air Battery   
-
-OpenAlex: https://openalex.org/W4409882712    
-Open access: False
-    
-[Dai Dang](https://openalex.org/A5075707271), [Lin Zhang](https://openalex.org/A5024795113), [Guifa Long](https://openalex.org/A5024416620), [Chao Liu](https://openalex.org/A5064568780), [Wenjun Fan](https://openalex.org/A5021653164), [Jie Zheng](https://openalex.org/A5075537674), [Tiejun Wang](https://openalex.org/A5100438123), [Quanbing Liu](https://openalex.org/A5003760018), [Xiaopeng Han](https://openalex.org/A5025874763), No host. None(None)] 2025.https://doi.org/10.2139/ssrn.5233860.
-    
-No abstract    
-
-    
-
-## Promoting electrocatalysts design combining general thermodynamic evaluation and specific kinetic study   
-
-OpenAlex: https://openalex.org/W4409887124    
-Open access: False
-    
-[Lu Han](https://openalex.org/A5100717048), [Jun Long](https://openalex.org/A5030617408), [Huan Li](https://openalex.org/A5112073574), [Hao Li](https://openalex.org/A5100348631), [Jianping Xiao](https://openalex.org/A5004947752), Journal of Catalysis. None(None)] 2025.https://doi.org/10.1016/j.jcat.2025.116175.
-    
-No abstract    
-
-    
-
-## One Size Fits All? Development of the CPOSS209 Data Set of Experimental and Hypothetical Polymorphs for Testing Computational Modeling Methods   
-
-OpenAlex: https://openalex.org/W4409887865    
-Open access: True
-    
-[Louise S. Price](https://openalex.org/A5063549506), [Matteo Paloni](https://openalex.org/A5049011594), [Matteo Salvalaglio](https://openalex.org/A5048652523), [Sarah L. Price](https://openalex.org/A5003474186), Crystal Growth & Design. None(None)] 2025.https://doi.org/10.1021/acs.cgd.5c00255.
-    
-No abstract    
-
-    
-
-## A pH-dependent microkinetic modeling guided synthesis of porous dual-atom catalysts for efficient oxygen reduction in Zn–air batteries   
-
-OpenAlex: https://openalex.org/W4409889319    
-Open access: True
-    
-[Ting‐Ting Li](https://openalex.org/A5101841623), [Di Zhang](https://openalex.org/A5100366363), [Yun Zhang](https://openalex.org/A5100356836), [Dujuan Yang](https://openalex.org/A5008195087), [Runxin Li](https://openalex.org/A5083818637), [Fuyun Yu](https://openalex.org/A5021348138), [Kengqiang Zhong](https://openalex.org/A5054353286), [Xiaozhi Su](https://openalex.org/A5065231573), [Tian‐Wei Song](https://openalex.org/A5088339934), [Long Jiao](https://openalex.org/A5067093445), [Hai‐Long Jiang](https://openalex.org/A5038041764), [Guo‐Ping Sheng](https://openalex.org/A5080874179), [Jie Xu](https://openalex.org/A5019176524), [Hao Li](https://openalex.org/A5100348631), [Zhenyu Wu](https://openalex.org/A5089738815), Energy & Environmental Science. None(None)] 2025.https://doi.org/10.1039/d5ee00215j.
-    
-Guided by the pH-field microkinetic model, we developed an porous Fe 1 Co 1 –N–C ORR catalyst, which exhibited excellent performance in zinc–air batteries and provided insights for advanced catalysts.    
-
-    
-
-## Electrochemical Dissolution: Paths in High-Entropy Alloy Composition Space   
-
-OpenAlex: https://openalex.org/W4409906731    
-Open access: True
-    
-[Mads K. Plenge](https://openalex.org/A5039358071), [Jack K. Pedersen](https://openalex.org/A5069800926), [Luis A. Cipriano](https://openalex.org/A5059896559), [Jan Rossmeisl](https://openalex.org/A5083668074), Deleted Journal. None(None)] 2025.https://doi.org/10.1007/s44210-025-00057-3.
-    
-Abstract The stability of a nanoparticle catalyst during electrochemical reaction is crucial for its application. Despite increasing interest in multi-metallic alloy nanoparticles, such as high-entropy alloys (HEAs), for electrocatalysis and emerging models for their catalytic activity, there is limited work on frameworks that can predict the metastability of these alloys under reaction conditions, including stability against electrochemical surface dissolution. Incorporating electrochemical stability in multi-objective optimization would advance HEAs as a catalyst discovery platform. To address the knowledge gap on electrochemical stability, we propose a methodology for simulating the dissolution of n-element alloy nanoparticles comprised of density functional theory and machine-learning regression to calculate the dissolution potentials of the surface atoms. We demonstrate the methodology for the Ag–Au–Cu–Ir–Pd–Pt–Rh–Ru HEA system with the conditions of the oxygen reduction reaction. We investigated trends in stability against dissolution through a compositional grid search for the octo-metallic composition space, uncovering two alloying strategies to increase stability against electrochemical surface dissolution: Alloying with a noble metal or a metal with high relative surface energy. In the simulations, stabilization ensues from forming a protective surface layer, and consequently, the dissolution of persistent alloyed nanoparticles results in core–shell structures. The model enables tracing the evolution of the surface and dissolved composition during electrochemical dissolution, forming paths of dissolution and revealing unretainable surface compositions. Graphical Abstract    
-
-    
 
 ## Enhancing economic viability in carbon capture and storage with enhanced oil recovery projects: A dynamic stochastic approach to CO2 monitoring cost optimization   
 
@@ -391,17 +325,6 @@ No abstract
 
     
 
-## Untangling the Mechanisms in Magneto‐Electrocatalytic Oxygen Evolution   
-
-OpenAlex: https://openalex.org/W4410035834    
-Open access: True
-    
-[Amy Radford](https://openalex.org/A5061882531), [Dorottya Szalay](https://openalex.org/A5114195030), [Qiming Chen](https://openalex.org/A5100644705), [Mengfan Ying](https://openalex.org/A5073893609), [Mingyu Luo](https://openalex.org/A5102759622), [Xuelei Pan](https://openalex.org/A5043695923), [Michail Stamatakis](https://openalex.org/A5081859091), [Yiyang Li](https://openalex.org/A5100776876), [Chen Wu](https://openalex.org/A5101410665), [Shik Chi Edman Tsang](https://openalex.org/A5091670688), Small. None(None)] 2025.https://doi.org/10.1002/smll.202412852.
-    
-Abstract External magnetic fields emerge as a promising method for enhancing the electrocatalytic oxygen evolution reaction (OER), yet the underlying magneto‐electric (ME) mechanisms are not well understood. The slow kinetics of OER make it a key challenge in electrocatalytic water‐splitting, a promising technique for sustainable H 2 fuel production. Herein, a systematic approach is presented to analyzing the ME mechanisms governing OER, using metallic‐plate (Ni foam, Ni sheet, and Pt sheet) and powder‐based (Co 3 O 4 /BaFe 12 O 19 on carbon paper) electrodes. Through controlled experiments using varying magnetic field strengths and orientations, Lorentz force and spin‐polarization mechanisms are separated. For metallic electrodes, the effects are orientation‐dependent, indicating domination by Lorentz force. Magnetic flux density about the electrode surface is shown to govern the Lorentz force behavior. Interestingly, a “pseudo” effect is discovered which results from the relative position of the reference electrode, highlighting the importance of experimental design. The Co 3 O 4 systems display minimal orientation dependence, indicating spin‐polarization domination. Introducing BaFe 12 O 19 as a magnetic co‐catalyst further amplifies the ME effect, marking the first demonstration of magnetic co‐catalyst enhancement in magneto‐electrocatalysis. This work provides key insights into ME mechanisms, linking electrode composition, magnetism, and geometry to performance, offering new pathways for optimizing future magneto‐electrocatalytic systems.    
-
-    
-
 ## Deciphering Size and Shape Effects on the Structure Sensitivity of the CO2 Methanation Reaction on Nickel   
 
 OpenAlex: https://openalex.org/W4410037436    
@@ -443,6 +366,50 @@ Open access: True
 [Sisi Zhou](https://openalex.org/A5104166041), [Yuliang Mao](https://openalex.org/A5022734102), Chemistry. 7(3)] 2025.https://doi.org/10.3390/chemistry7030076.
     
 Direct Z-scheme heterojunctions are known for their unique carrier mobility mechanism, which significantly improves photocatalytic water splitting efficiency. In this study, we use first-principles simulations to determine the stability, electrical, and photocatalytic properties of a SnC/SnS2 heterojunction. Analyses of the projected energy band and state density demonstrate that the SnC/SnS2 heterojunction exhibits an indirect band gap of 0.80 eV and a type-II band alignment. Analysis of its work function shows that the SnC/SnS2 heterojunction has a built-in electric field pointing from the SnC monolayer to the SnS2 monolayer. The band edge position and the differential charge density indicate that the SnC/SnS2 heterostructure exhibits a Z-scheme photocatalytic mechanism. Furthermore, the SnC/SnS2 heterojunction exhibits excellent visible-light absorption and high solar-to-hydrogen efficiency of 32.8%. It is found that the band gap and light absorption of the heterojunction can be effectively tuned by biaxial strain. These results demonstrate that the fabricated SnC/SnS2 heterojunction has significant photocatalysis potential.    
+
+    
+
+## Untangling the Mechanisms in Magneto‐Electrocatalytic Oxygen Evolution   
+
+OpenAlex: https://openalex.org/W4410035834    
+Open access: True
+    
+[Amy Radford](https://openalex.org/A5061882531), [Dorottya Szalay](https://openalex.org/A5114195030), [Qiming Chen](https://openalex.org/A5100644705), [Mengfan Ying](https://openalex.org/A5073893609), [Mingyu Luo](https://openalex.org/A5102759622), [Xuelei Pan](https://openalex.org/A5043695923), [Michail Stamatakis](https://openalex.org/A5081859091), [Yiyang Li](https://openalex.org/A5100776876), [Chen Wu](https://openalex.org/A5101410665), [Shik Chi Edman Tsang](https://openalex.org/A5091670688), Small. None(None)] 2025.https://doi.org/10.1002/smll.202412852.
+    
+Abstract External magnetic fields emerge as a promising method for enhancing the electrocatalytic oxygen evolution reaction (OER), yet the underlying magneto‐electric (ME) mechanisms are not well understood. The slow kinetics of OER make it a key challenge in electrocatalytic water‐splitting, a promising technique for sustainable H 2 fuel production. Herein, a systematic approach is presented to analyzing the ME mechanisms governing OER, using metallic‐plate (Ni foam, Ni sheet, and Pt sheet) and powder‐based (Co 3 O 4 /BaFe 12 O 19 on carbon paper) electrodes. Through controlled experiments using varying magnetic field strengths and orientations, Lorentz force and spin‐polarization mechanisms are separated. For metallic electrodes, the effects are orientation‐dependent, indicating domination by Lorentz force. Magnetic flux density about the electrode surface is shown to govern the Lorentz force behavior. Interestingly, a “pseudo” effect is discovered which results from the relative position of the reference electrode, highlighting the importance of experimental design. The Co 3 O 4 systems display minimal orientation dependence, indicating spin‐polarization domination. Introducing BaFe 12 O 19 as a magnetic co‐catalyst further amplifies the ME effect, marking the first demonstration of magnetic co‐catalyst enhancement in magneto‐electrocatalysis. This work provides key insights into ME mechanisms, linking electrode composition, magnetism, and geometry to performance, offering new pathways for optimizing future magneto‐electrocatalytic systems.    
+
+    
+
+## Atomic Energy Accuracy of Neural Network Potentials: Harnessing Pretraining and Transfer Learning   
+
+OpenAlex: https://openalex.org/W4410076782    
+Open access: False
+    
+[Gang Seob Jung](https://openalex.org/A5080391508), Journal of Chemical Information and Modeling. None(None)] 2025.https://doi.org/10.1021/acs.jcim.5c00079.
+    
+Machine learning-based interatomic potentials (MLIPs) have transformed the prediction of potential energy surfaces (PESs), achieving accuracy comparable to ab initio calculations. However, atomic energy predictions, often assumed to lack physical meaning, remain underexplored. In this study, we demonstrate that inaccuracies in atomic energy predictions reduce the robustness and transferability of Neural Network Potentials (NNPs) and atomic energy error can be masked in total energy predictions due to error cancellation. We validate this finding using challenging configurations involving deformation and failure under tensile loading. By pretraining atomic energy predictions using empirical potentials and applying transfer learning with density functional theory (DFT) data, we achieve notable improvements in the accuracy of total energy, forces, and stress predictions. Furthermore, this approach enhances the robustness and transferability of NNPs, emphasizing the importance of atomic energy predictions in developing high-quality and reliable MLIPs.    
+
+    
+
+## CHIPS-FF: Evaluating Universal Machine Learning Force Fields for Material Properties   
+
+OpenAlex: https://openalex.org/W4410079056    
+Open access: True
+    
+[Daniel Wines](https://openalex.org/A5010732302), [Kamal Choudhary](https://openalex.org/A5019215236), ACS Materials Letters. None(None)] 2025.https://doi.org/10.1021/acsmaterialslett.5c00093.
+    
+No abstract    
+
+    
+
+## Integrated Strategies Toward the Capture and Electrochemical Conversion of Low‐Concentration Carbon Dioxide   
+
+OpenAlex: https://openalex.org/W4410075584    
+Open access: True
+    
+[Zhenyi Yang](https://openalex.org/A5101686892), [Xingqiu Li](https://openalex.org/A5042798454), [Xianglong Cui](https://openalex.org/A5086727628), [Zhen Zheng](https://openalex.org/A5102370917), [Penglun Zheng](https://openalex.org/A5061404216), [Yu Zhang](https://openalex.org/A5006297542), Exploration. None(None)] 2025.https://doi.org/10.1002/exp.20240006.
+    
+ABSTRACT Electrochemical reduction of carbon dioxide (CO 2 ) has been considered a promising route to reduce net carbon emissions and thus mitigate global warming issues. In practice, it mainly involves two processes including the CO 2 capture and subsequent electrochemical conversion. From the perfective of feasible and economic benefits, it is of practical significance to develop integrated CO 2 capture and conversion systems in an efficient way. However, a majority of studies have been currently focusing on the independent process, and the development of integrated strategies is still in the initial stage. This review mainly covers the recent progress on the integrated technologies of CO 2 capture and electrochemical conversion, including the integration strategies, mechanisms, and corresponding issues. The advantages and disadvantages of those strategies are particularly discussed, aiming to identify the viable routes for future applications. To conclude, the challenges and prospects in terms of the research direction in this field are provided, with the hope of promoting practical CO 2 utilization from the fundamental aspects.    
 
     
 
