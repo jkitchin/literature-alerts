@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Wed May  7 01:40:39 2025
+Created on Thu May  8 01:40:54 2025
 
-Found 38 results from 2025-04-30 to 2025-05-07
+Found 26 results from 2025-05-01 to 2025-05-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544)
@@ -16,127 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Enhancing economic viability in carbon capture and storage with enhanced oil recovery projects: A dynamic stochastic approach to CO2 monitoring cost optimization   
-
-OpenAlex: https://openalex.org/W4409907428    
-Open access: False
-    
-[Peng Wu](https://openalex.org/A5100339821), [Shansen Wei](https://openalex.org/A5101202422), [Chengwei Lv](https://openalex.org/A5088725709), [Qiangqiang Ren](https://openalex.org/A5018510396), [Hong Wang](https://openalex.org/A5100370992), Computers & Industrial Engineering. None(None)] 2025.https://doi.org/10.1016/j.cie.2025.111187.
-    
-No abstract    
-
-    
-
-## High entropy alloy CoCrFeNiAlMox coatings as cost-effective bifunctional catalysts for enhanced water electrolysis efficiency   
-
-OpenAlex: https://openalex.org/W4409911950    
-Open access: False
-    
-[Xiaoran Huo](https://openalex.org/A5040808647), [Yuanwu Zhang](https://openalex.org/A5017678380), [Jinyuan Zhong](https://openalex.org/A5100510454), [Ge Zhou](https://openalex.org/A5004639376), [Xiaojiao Zuo](https://openalex.org/A5109678007), [Nannan Zhang](https://openalex.org/A5071953631), [Xuelu Xu](https://openalex.org/A5061495121), Applied Surface Science. None(None)] 2025.https://doi.org/10.1016/j.apsusc.2025.163357.
-    
-No abstract    
-
-    
-
-## Optimal Solution for Modeling Electrocatalysis on Two-Dimensional Single-Atom Catalysts with Grand Canonical DFT   
-
-OpenAlex: https://openalex.org/W4409914615    
-Open access: False
-    
-[Zhen Liu](https://openalex.org/A5100412087), [Yifan Sun](https://openalex.org/A5101466288), [Yinghong Wang](https://openalex.org/A5100748557), [Wei Zhang](https://openalex.org/A5100441730), [Li‐Hua Gan](https://openalex.org/A5041424004), [Xiaohong Liu](https://openalex.org/A5100321213), [Liu‐Bin Zhao](https://openalex.org/A5061127427), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.5c00199.
-    
-No abstract    
-
-    
-
-## Sr and Co Co-doping on Thermochemical Energy Storage Properties of CaMnO3−δ   
-
-OpenAlex: https://openalex.org/W4409917877    
-Open access: False
-    
-[Ruiqing Zhang](https://openalex.org/A5100742203), [Guanyu Li](https://openalex.org/A5101494510), [Shiyi Chen](https://openalex.org/A5102898411), [Wenguo Xiang](https://openalex.org/A5040589268), ACS Applied Energy Materials. None(None)] 2025.https://doi.org/10.1021/acsaem.5c00261.
-    
-No abstract    
-
-    
-
-## Tribological and micromechanical performance of hard yet tough TiSiN/WN coatings: An experimental analysis of multilayer effects   
-
-OpenAlex: https://openalex.org/W4409919530    
-Open access: False
-    
-[Olga Maksakova](https://openalex.org/A5049972112), [Kateryna Smyrnova](https://openalex.org/A5054986673), [Barbora Ludrovcová](https://openalex.org/A5110726682), [Miroslav Sahul](https://openalex.org/A5066076070), [Marián Haršáni](https://openalex.org/A5028081502), [Martin Truchlý](https://openalex.org/A5060744360), [Miroslav Sahul](https://openalex.org/A5066076070), [Tomáš Vopat](https://openalex.org/A5059745939), [Matej Pašák](https://openalex.org/A5088273048), [A.O. Kozak](https://openalex.org/A5040759884), [A.D. Pogrebnjak](https://openalex.org/A5032907696), International Journal of Refractory Metals and Hard Materials. None(None)] 2025.https://doi.org/10.1016/j.ijrmhm.2025.107212.
-    
-No abstract    
-
-    
-
-## Gold-catalyzed construction of atomically rough surfaces towards high-efficiency ethanol electrooxidation   
-
-OpenAlex: https://openalex.org/W4409920621    
-Open access: False
-    
-[Qing Zeng](https://openalex.org/A5101938934), [Mengyuan Ma](https://openalex.org/A5101994357), [Hui Liu](https://openalex.org/A5100387656), [Lin Xu](https://openalex.org/A5103006901), [Shaonan Tian](https://openalex.org/A5048985259), [Dong Chen](https://openalex.org/A5100319456), [Jing Wang](https://openalex.org/A5100378593), [Jun Yang](https://openalex.org/A5115602257), Science Bulletin. None(None)] 2025.https://doi.org/10.1016/j.scib.2025.04.051.
-    
-No abstract    
-
-    
-
-## Enhanced phosphoric acid tolerance and intrinsic activity of ordered platinum-zinc alloy catalysts for oxygen reduction reaction   
-
-OpenAlex: https://openalex.org/W4409922306    
-Open access: False
-    
-[Hong Zhang](https://openalex.org/A5100430355), [Huanqiao Li](https://openalex.org/A5054722093), [Xiaoming Zhang](https://openalex.org/A5100462584), [Shansheng Yu](https://openalex.org/A5020651129), [Suli Wang](https://openalex.org/A5048079463), [Gongquan Sun](https://openalex.org/A5111716906), Journal of Colloid and Interface Science. None(None)] 2025.https://doi.org/10.1016/j.jcis.2025.137739.
-    
-No abstract    
-
-    
-
-## Oxygen electrocatalytic enhancement through strong hybridization of active centers   
-
-OpenAlex: https://openalex.org/W4409922436    
-Open access: False
-    
-[Xi Chen](https://openalex.org/A5100716237), [Huating Liu](https://openalex.org/A5109719172), [Xiang Qi](https://openalex.org/A5047513706), [Jianxin Zhong](https://openalex.org/A5100704775), [Zongyu Huang](https://openalex.org/A5045760868), Electrochimica Acta. None(None)] 2025.https://doi.org/10.1016/j.electacta.2025.146348.
-    
-No abstract    
-
-    
-
-## A grain boundary embrittlement genome for substitutional cubic alloys   
-
-OpenAlex: https://openalex.org/W4409933088    
-Open access: False
-    
-[Nutth Tuchinda](https://openalex.org/A5073129044), [G. B. Olson](https://openalex.org/A5076164975), [Christopher A. Schuh](https://openalex.org/A5055304339), Applied Physics Letters. 126(17)] 2025.https://doi.org/10.1063/5.0264543.
-    
-Grain boundary chemistry plays a critical role for the properties of metals and alloys, yet there is a lack of consistent datasets for alloy design and development. With the advent of artificial intelligence and machine learning in materials science, open materials models and datasets can be used to overcome such challenges. Here, we use a universal interatomic potential to compute a grain boundary segregation and embrittlement genome for the Σ5[001](210) grain boundary for FCC and BCC binary alloys. The grain boundary database calculated here serves as a design tool for the embrittlement of high-angle grain boundaries for alloys across 30 base metals of Ag, Al, Au, Ba, Ca, Ce, Co, Cr, Cs, Cu, Fe (both BCC and FCC), Ir, K, Li, Mo, Na, Nb, Ni, Pb, Pd, Pt, Rb, Rh, Sr, Ta, Ti, V, W, Yb, and Zr with 75 solute elements for each.    
-
-    
-
-## Advances in Nickel‐Based Catalysts for Alkaline Water Electrolysis: Comprehensive Review of Current Research Direction for HER and OER Applications   
-
-OpenAlex: https://openalex.org/W4409950640    
-Open access: False
-    
-[Ivana Perović](https://openalex.org/A5004989101), [Stefan Mitrović](https://openalex.org/A5102792313), [Snežana Brković](https://openalex.org/A5091072029), [Igor A. Pašti](https://openalex.org/A5079797338), The Chemical Record. None(None)] 2025.https://doi.org/10.1002/tcr.202500049.
-    
-Abstract Nickel‐based catalysts are among the most promising materials for electrocatalytic water splitting, particularly for the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) in alkaline media. Their abundance, cost‐effectiveness, and tunable electrochemical properties make them attractive alternatives to precious metal catalysts. This review provides a comprehensive analysis of the advancements in nickel‐based catalysts, including pure nickel, alloys, oxides, hydroxides, and spinels, emphasizing their synthesis methods, structural properties, and electrocatalytic performance. Recent nanostructuring, doping, and hybridization innovations with conductive supports have significantly enhanced catalytic activity, stability, and efficiency. Despite notable progress, challenges remain in improving long‐term durability, minimizing surface degradation, and scaling up production for industrial applications. Addressing these limitations through advanced catalyst design, in situ characterization, and integration with renewable energy sources will be crucial for widely adopting nickel‐based catalysts in sustainable hydrogen production. This review highlights the key developments and future directions in the field, underscoring the role of nickel‐based materials in enabling the hydrogen economy and global decarbonization efforts.    
-
-    
-
-## Theoretical Insights into the Activation and Conversion of Electrochemical CO2 Reduction on 3d Transition Metal‐Doped Cu(111) Stepped Structures   
-
-OpenAlex: https://openalex.org/W4409959087    
-Open access: True
-    
-[Lihong Yin](https://openalex.org/A5049661714), [Jinxian Feng](https://openalex.org/A5081686517), [Weng Fai Ip](https://openalex.org/A5012291309), [Guangfu Luo](https://openalex.org/A5005684838), [Hui Pan](https://openalex.org/A5075862322), ChemElectroChem. None(None)] 2025.https://doi.org/10.1002/celc.202500095.
-    
-The activation of CO 2 is essential for efficient electrochemical conversion, yet its weak physisorption on pristine Cu surfaces severely hinders catalytic performance. To overcome this limitation, we designed Cu stepped structures to create highly reactive sites for enhanced CO 2 adsorption and further doped the edges with 3 d transition metals (V, Cr, Mn, Fe, Co, and Ni) to improve CO 2 reduction. Density functional theory calculations reveal that these dopants significantly reduce the OCO angles and elongate the CO bonds, transforming CO 2 from its original linear configuration into a bent geometry at the interface. Notably, dual‐V and dual‐Fe doping on Cu stepped surfaces demonstrates a strong interaction with CO 2 , leading to a high degree of activation. The computational results demonstrate that these modifications significantly enhance CO 2 activation and favor methane generation. This study provides valuable insights into the design of advanced Cu‐based electrocatalysts for efficient and selective CO 2 activation, offering a pathway toward sustainable CO 2 utilization.    
-
-    
 
 ## Internal hydrogen-bond enhanced two-electron oxygen reduction reaction for π-d conjugated metal-organic framework to H2O2 synthesis   
 
@@ -410,17 +289,6 @@ Open access: True
 [Zhenyi Yang](https://openalex.org/A5101686892), [Xingqiu Li](https://openalex.org/A5042798454), [Xianglong Cui](https://openalex.org/A5086727628), [Zhen Zheng](https://openalex.org/A5102370917), [Penglun Zheng](https://openalex.org/A5061404216), [Yu Zhang](https://openalex.org/A5006297542), Exploration. None(None)] 2025.https://doi.org/10.1002/exp.20240006.
     
 ABSTRACT Electrochemical reduction of carbon dioxide (CO 2 ) has been considered a promising route to reduce net carbon emissions and thus mitigate global warming issues. In practice, it mainly involves two processes including the CO 2 capture and subsequent electrochemical conversion. From the perfective of feasible and economic benefits, it is of practical significance to develop integrated CO 2 capture and conversion systems in an efficient way. However, a majority of studies have been currently focusing on the independent process, and the development of integrated strategies is still in the initial stage. This review mainly covers the recent progress on the integrated technologies of CO 2 capture and electrochemical conversion, including the integration strategies, mechanisms, and corresponding issues. The advantages and disadvantages of those strategies are particularly discussed, aiming to identify the viable routes for future applications. To conclude, the challenges and prospects in terms of the research direction in this field are provided, with the hope of promoting practical CO 2 utilization from the fundamental aspects.    
-
-    
-
-## LAGNet: better electron density prediction for LCAO-based data and drug-like substances   
-
-OpenAlex: https://openalex.org/W4409922207    
-Open access: True
-    
-[Konstantin Ushenin](https://openalex.org/A5033352189), [Kuzma Khrabrov](https://openalex.org/A5082532694), [Artem Tsypin](https://openalex.org/A5088630233), [Anton Ber](https://openalex.org/A5099380821), [Egor Rumiantsev](https://openalex.org/A5060379735), [Artur Kadurin](https://openalex.org/A5019867253), Journal of Cheminformatics. 17(1)] 2025.https://doi.org/10.1186/s13321-025-01010-7.
-    
-The electron density is an important object in quantum chemistry that is crucial for many downstream tasks in drug design. Recent deep learning approaches predict the electron density around a molecule from atom types and atom positions. Most of these methods use the plane wave (PW) numerical method as a source of ground-truth training data. However, the drug design field mostly uses the Linear Combination of Atomic Orbitals (LCAO) for computation of quantum properties. In this study, we focus on prediction of the electron density for drug-like substances and training neural networks with LCAO-based datasets. Our experiments show that proper handling of large amplitudes of core orbitals is crucial for training on LCAO-based data. We propose to store the electron density with the standard grids instead of the uniform grid. This allowed us to reduce the number of probing points per molecule by 43 times and reduce storage space requirements by 8 times. Finally, we propose a novel architecture based on the DeepDFT model that we name LAGNet. It is specifically designed and tuned for drug-like substances and ∇2 DFT dataset.    
 
     
 
