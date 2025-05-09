@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 08 May 2025 01:40:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 01:40:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Internal hydrogen-bond enhanced two-electron oxygen reduction reaction for &#960;-d conjugated metal-organic framework to H2O2 synthesis</title>
-      <link>https://doi.org/10.1038/s41467-025-58628-2</link>
-      <description>Zhiyuan Sang, Yuqian Qiao, Rui Chen, Lichang Yin, Feng Hou, Ji Liang, Nature Communications. 16(1)] 2025. https://openalex.org/W4409965445
-
-                No abstract</description>
-      <author>Zhiyuan Sang, Yuqian Qiao, Rui Chen, Lichang Yin, Feng Hou, Ji Liang</author>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-58628-2</guid>
-    </item>
-    <item>
-      <title>Ni Foam Supported Pd&#8208;Doped Zinc Spinel Oxide Nano&#8208;Electrocatalyst for Efficient Hydrogen Production Supported by DFT Study as Well Validated With Experimental Data</title>
-      <link>https://doi.org/10.1002/adsu.202500142</link>
-      <description>Refah S. Alkhaldi, M. Abdulwahab, M.A. Gondal, Mohamed Jaffer Sadiq Mohamed, M.A. Almessiere, A. Baykal, Abduljabar Q. Alsayoud, Advanced Sustainable Systems. None(None)] 2025. https://openalex.org/W4409966799
-
-                Abstract An innovative palladium&#8208;doped zinc cobalt oxide nanoelectrocatalyst, ZnPd x Co 2&#8208;x O 4 (0.00 &#8804; x &#8804; 0.08)@NF, is successfully synthesized using a hydrothermal method. The resulting material exhibits a spinel oxide phase, as confirmed by X&#8208;ray diffraction (XRD). The electrocatalytic performance of ZnPd x Co 2&#8208;x O 4 (0.00 &#8804; x &#8804; 0.08)@NF is evaluated for the hydrogen evolution reaction (HER). The results show significant improvements in efficient hydrogen production, with an overpotential of 31 mV, a Tafel slope of 54.36 mV dec&#8315; 1 , and sustained stability for over 72 h, using chronopotentiometry methods. Doping with 8.0% Pd concentration enhances the highest electrochemical performance of the nanoelectrocatalyst, supporting the idea that Pd doping improves HER activity. The results suggest that the increased electrochemical active surface area (ECSA) and faster charge transfer kinetics at the interface between the semiconductor and electrolyte contribute to enhanced performance. The DFT calculations performed in this work confirm the role of Pd in improving the catalytic activity of the ZnCo 2 O 4 spinel catalyst. Overall, this study has made a significant contribution to the development of sustainable energy solutions, offering a promising path toward the efficient production of hydrogen fuel.</description>
-      <author>Refah S. Alkhaldi, M. Abdulwahab, M.A. Gondal, Mohamed Jaffer Sadiq Mohamed, M.A. Almessiere, A. Baykal, Abduljabar Q. Alsayoud</author>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adsu.202500142</guid>
-    </item>
-    <item>
-      <title>A mini review on revolutionizing hydrogenation catalysis: unleashing transformative power of artificial intelligence</title>
-      <link>https://doi.org/10.1007/s00894-025-06376-x</link>
-      <description>Anurag Mishra, Vikesh G. Lade, Jyoti Ramesh Barmar, Ankush B. Bindwal, Ramesh P. Birmod, Journal of Molecular Modeling. 31(5)] 2025. https://openalex.org/W4409968805
-
-                No abstract</description>
-      <author>Anurag Mishra, Vikesh G. Lade, Jyoti Ramesh Barmar, Ankush B. Bindwal, Ramesh P. Birmod</author>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s00894-025-06376-x</guid>
-    </item>
-    <item>
-      <title>Built-in Electric Fields and Strain Modulated Photocatalytic Performance in Monolayer Janus Piezoelectric AlBX2(X = O/S/Se/Te)</title>
-      <link>https://doi.org/10.1016/j.physb.2025.417339</link>
-      <description>Hao An, Zhiyang Yuan, Chun-Sheng Liu, Lan Meng, Wei Yan, Xiaohong Yan, Physica B Condensed Matter. 712(None)] 2025. https://openalex.org/W4409978877
-
-                No abstract</description>
-      <author>Hao An, Zhiyang Yuan, Chun-Sheng Liu, Lan Meng, Wei Yan, Xiaohong Yan</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.physb.2025.417339</guid>
-    </item>
-    <item>
-      <title>Ligand Engineering of Co&#8208;N&lt;sub&gt;4&lt;/sub&gt; Single&#8208;Atom Catalysts for Highly&#8208;Active and Stable Acidic Oxygen Evolution</title>
-      <link>https://doi.org/10.1002/advs.202502230</link>
-      <description>Taewon Jeong, Ki-Won Kim, Byung&#8208;Hyun Kim, Sang&#8208;Il Choi, Chang Hyuck Choi, Joonhee Kang, Myeongjin Kim, Advanced Science. None(None)] 2025. https://openalex.org/W4409983570
-
-                The development of stable and efficient single-atom catalysts (SACs) for the oxygen evolution reaction (OER) in acidic media remains challenging. This work reports a novel NH3-assisted pyrolysis strategy to synthesize Co-N4 SACs with controlled nitrogen coordination environments on crumpled graphene supports. The pyrrolic N4-coordinated Co sites demonstrate superior OER activity compared to their pyridinic counterparts, achieving an overpotential of 351 mV at 10 mA cm-2 in 0.5 m H2SO4. Combined density functional theory calculations and operando X-ray absorption spectroscopy reveal that the pyrrolic coordination environment facilitates enhanced OH- adsorption and subsequent OER kinetics due to its unique electronic structure and geometric flexibility. A multi-layered protective mechanism in the pyrrolic system enables exceptional stability during long-term acidic OER operation, stemming from higher defect formation energy of Co sites and strategic distribution of sacrificial nitrogen species in the graphene network. These findings provide fundamental insights into designing stable single-atom catalysts for challenging electrochemical applications.</description>
-      <author>Taewon Jeong, Ki-Won Kim, Byung&#8208;Hyun Kim, Sang&#8208;Il Choi, Chang Hyuck Choi, Joonhee Kang, Myeongjin Kim</author>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/advs.202502230</guid>
-    </item>
-    <item>
-      <title>Regulation of Electrostatic Shielding Effect by 18-Crown-6 Ether for Achieving Stable Deposition of Potassium Metal Anodes</title>
-      <link>https://doi.org/10.1021/acsenergylett.5c00797</link>
-      <description>Hyokyeong Kang, Hyeona Park, Josef Rizell, Aleksandar Matic, Shizhao Xiong, Dong&#8208;Kyu Kim, Hyeyoung Shin, Yangyang Liu, Xieyu Xu, Yang&#8208;Kook Sun, Jang&#8208;Yeon Hwang, ACS Energy Letters. None(None)] 2025. https://openalex.org/W4409983816
-
-                No abstract</description>
-      <author>Hyokyeong Kang, Hyeona Park, Josef Rizell, Aleksandar Matic, Shizhao Xiong, Dong&#8208;Kyu Kim, Hyeyoung Shin, Yangyang Liu, Xieyu Xu, Yang&#8208;Kook Sun, Jang&#8208;Yeon Hwang</author>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.5c00797</guid>
-    </item>
-    <item>
-      <title>Realizing Direct Hot-Electron Transfer from Metal Nanoparticles to Per- and Polyfluoroalkyl Substances</title>
-      <link>https://doi.org/10.1021/acs.jpclett.5c00373</link>
-      <description>P. K. Verma, Samir Kumar Nayak, Khushboo Bhardwaj, Sharma S. R. K. C. Yamijala, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4409984514
-
-                Per- and polyfluoroalkyl substances (PFAS) are a group of forever synthetic chemicals. They are widely utilized in industries and household appliances because of their remarkable stability and distinctive oil- and water-repellent properties. Despite their broad applications, unfortunately, PFAS are hazardous to all forms of life, including humans. In recent years, the environmental persistence of PFAS has raised significant interest in degrading these substances. However, the strong C-F bonds in these chemicals pose several challenges to their degradation. Plasmons of noble metal nanoparticles (NPs) offer many exciting applications, including photocatalytic reactions. However, an atomistic understanding of plasmon-driven processes remains elusive. In this work, using the real-time time-dependent density functional theory, we have studied the real-time formation of plasmons, hot-carrier generation, and subsequent direct hot-carrier transfer from metal NPs to the PFAS. Our simulations show that there is an apparent direct hot-electron transfer from NPs to PFAS. Moreover, using Ehrenfest dynamics simulations, we demonstrated that the transferred hot electrons can efficiently degrade PFAS without requiring any external thermal bath. Thus, our work provides an atomistic picture of plasmon-induced direct hot-carrier transfer from NPs to PFAS and the efficient degradation of PFAS. We strongly believe that this work generates the impetus to utilize plasmonic NPs to mitigate PFAS.</description>
-      <author>P. K. Verma, Samir Kumar Nayak, Khushboo Bhardwaj, Sharma S. R. K. C. Yamijala</author>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c00373</guid>
-    </item>
     <item>
       <title>Two-dimensional alkali auride bimetallene semiconductors for activating photocatalytic water splitting: Synergistic interaction of electronegativity difference and carrier mobility</title>
       <link>https://doi.org/10.1016/j.jcis.2025.137723</link>
@@ -256,16 +186,6 @@
       <author>Zhenyi Yang, Xingqiu Li, Xianglong Cui, Zhen Zheng, Penglun Zheng, Yu Zhang</author>
       <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/exp.20240006</guid>
-    </item>
-    <item>
-      <title>The evolving role of programming and LLMs in the development of self-driving laboratories</title>
-      <link>https://doi.org/10.1063/5.0266757</link>
-      <description>John R. Kitchin, APL Machine Learning. 3(2)] 2025. https://openalex.org/W4409962774
-
-                Machine learning and automation are transforming scientific research, yet the implementation of self-driving laboratories (SDLs) remains costly and complex, and it remains difficult to learn how to use these facilities. To address this, we introduce Claude-Light, a lightweight, remotely accessible instrument designed for prototyping automation algorithms and machine learning workflows. Claude-Light integrates a REST API, a Raspberry Pi-based control system, and an RGB LED with a photometer that measures ten spectral outputs, providing a controlled but realistic experimental environment. This device enables users to explore automation at multiple levels, from basic programming and experimental design to machine learning-driven optimization. We demonstrate the application of Claude-Light in structured automation approaches, including traditional scripting, statistical design of experiments, and active learning methods. In addition, we explore the role of large language models (LLMs) in laboratory automation, highlighting their use in instrument selection, structured data extraction, function calling, and code generation. While LLMs present new opportunities for streamlining automation, they also introduce challenges related to reproducibility, security, and reliability. We discuss strategies to mitigate these risks while leveraging LLMs for enhanced efficiency in self-driving laboratories. Claude-Light provides a practical and accessible platform for students and researchers to develop automation skills and test algorithms before deploying them in larger-scale SDLs. By lowering the barrier to entry for automation in scientific research, this tool facilitates broader adoption of AI-driven experimentation and fosters innovation in autonomous laboratories.</description>
-      <author>John R. Kitchin</author>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0266757</guid>
     </item>
   </channel>
 </rss>
