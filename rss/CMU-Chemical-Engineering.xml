@@ -4,18 +4,28 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 09 May 2025 01:40:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 01:36:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Distributed Control Method for Vehicle Cooperative Rendezvous</title>
-      <link>https://doi.org/10.2514/1.g008445</link>
-      <description>Zhenyu Wei, Zhijiang Shao, Lorenz T. Biegler, Journal of Guidance Control and Dynamics. None(None)] 2025. https://openalex.org/W4410007158
+      <title>Gas-phase observations of accretion products from stabilized Criegee intermediates in terpene ozonolysis with two dicarboxylic acids</title>
+      <link>https://doi.org/10.5194/acp-25-4655-2025</link>
+      <description>Yuanyuan Luo, Lauri Franzon, Jiangyi Zhang, Nina Sarnela, Neil M. Donahue, Theo Kurt&#233;n, Mikael Ehn, Atmospheric chemistry and physics. 25(9)] 2025. https://openalex.org/W4410093673
 
-                Cooperative rendezvous/docking is an enabling technology for future autonomous missions. However, it is still a challenge to design a fully distributed, stability-guaranteed control method for cooperative rendezvous. To address this issue, this paper proposes a distributed control method for an unmanned vehicle cooperative rendezvous mission. First, the cooperative rendezvous process is formulated as an optimal control problem. To decentralize the control framework, a rendezvous parameter is introduced, and the rendezvous parameter optimization algorithm is designed to guarantee the terminal rendezvous of autonomous vehicles while improving the system performance. On this basis, a distributed control framework, based on rendezvous parameter optimization, generates the control commands to achieve cooperative rendezvous. Results demonstrate the effectiveness of the proposed distributed control approach through three simulations.</description>
-      <author>Zhenyu Wei, Zhijiang Shao, Lorenz T. Biegler</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2514/1.g008445</guid>
+                Abstract. Criegee intermediates (CIs), formed from the ozonolysis of alkenes, are highly reactive species with diverse reaction pathways, with important roles in atmospheric chemistry. This study focuses on the formation of accretion products through reactions of thermally stabilized CIs (sCIs) from the ozonolysis of three different terpenes (&#945;-pinene, &#946;-pinene, and &#946;-caryophyllene) with malonic and oxalic acids. Our experimental results demonstrate that these reactions efficiently produce the expected accretion products, though with apparent variations in yields depending on the specific terpene and acid involved. To our knowledge, this is the first study to report direct gas-phase observations of expected adducts from several different terpene-derived sCIs and carboxylic acids, paving the way for a better understanding of the importance and atmospheric implications of these reactions, especially in terms of the aerosol-forming capabilities of these large product molecules.</description>
+      <author>Yuanyuan Luo, Lauri Franzon, Jiangyi Zhang, Nina Sarnela, Neil M. Donahue, Theo Kurt&#233;n, Mikael Ehn</author>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/acp-25-4655-2025</guid>
+    </item>
+    <item>
+      <title>Detection efficiency of a water condensation particle counter using electrically neutral sulfuric acid and sulfuric acid-dimethylamine clusters</title>
+      <link>https://doi.org/10.1080/02786826.2025.2496486</link>
+      <description>Darren Cheng, Joy Kiguru, Coty N. Jen, Aerosol Science and Technology. None(None)] 2025. https://openalex.org/W4410117804
+
+                No abstract</description>
+      <author>Darren Cheng, Joy Kiguru, Coty N. Jen</author>
+      <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1080/02786826.2025.2496486</guid>
     </item>
   </channel>
 </rss>
