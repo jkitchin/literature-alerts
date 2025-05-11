@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sat May 10 01:36:17 2025
+Created on Sun May 11 01:45:12 2025
 
-Found 2 results from 2025-05-03 to 2025-05-10
+Found 3 results from 2025-05-04 to 2025-05-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -25,5 +25,16 @@ Open access: False
 [Darren Cheng](https://openalex.org/A5015910436), [Joy Kiguru](https://openalex.org/A5117448431), [Coty N. Jen](https://openalex.org/A5055700187), Aerosol Science and Technology. None(None)] 2025.https://doi.org/10.1080/02786826.2025.2496486.
     
 No abstract    
+
+    
+
+## Dual-use capabilities of concern of biological AI models   
+
+OpenAlex: https://openalex.org/W4410204437    
+Open access: True
+    
+[Jaspreet Pannu](https://openalex.org/A5020208081), [Doni Bloomfield](https://openalex.org/A5102694663), [Robert MacKnight](https://openalex.org/A5060793099), [Magda‐Viola Hanke](https://openalex.org/A5083844769), [Alex W. Zhu](https://openalex.org/A5098777049), [Gabriel dos Passos Gomes](https://openalex.org/A5048633127), [Anita Cicero](https://openalex.org/A5052058831), [Thomas V. Inglesby](https://openalex.org/A5110586810), PLoS Computational Biology. 21(5)] 2025.https://doi.org/10.1371/journal.pcbi.1012975.
+    
+As a result of rapidly accelerating artificial intelligence (AI) capabilities, multiple national governments and multinational bodies have launched efforts to address safety, security and ethics issues related to AI models. One high priority among these efforts is the mitigation of misuse of AI models, such as for the development of chemical, biological, nuclear or radiological (CBRN) threats. Many biologists have for decades sought to reduce the risks of scientific research that could lead, through accident or misuse, to high-consequence disease outbreaks. Scientists have carefully considered what types of life sciences research have the potential for both benefit and risk (dual use), especially as scientific advances have accelerated our ability to engineer organisms. Here we describe how previous experience and study by scientists and policy professionals of dual-use research in the life sciences can inform dual-use capabilities of AI models trained using biological data. Of these dual-use capabilities, we argue that AI model evaluations should prioritize addressing those which enable high-consequence risks (i.e., large-scale harm to the public, such as transmissible disease outbreaks that could develop into pandemics), and that these risks should be evaluated prior to model deployment so as to allow potential biosafety and/or biosecurity measures. While biological research is on balance immensely beneficial, it is well recognized that some biological information or technologies could be intentionally or inadvertently misused to cause consequential harm to the public. AI-enabled life sciences research is no different. Scientists’ historical experience with identifying and mitigating dual-use biological risks can thus help inform new approaches to evaluating biological AI models. Identifying which AI capabilities pose the greatest biosecurity and biosafety concerns is necessary in order to establish targeted AI safety evaluation methods, secure these tools against accident and misuse, and avoid impeding immense potential benefits.    
 
     

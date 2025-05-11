@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 10 May 2025 01:36:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 01:45:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,16 @@
       <author>Darren Cheng, Joy Kiguru, Coty N. Jen</author>
       <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1080/02786826.2025.2496486</guid>
+    </item>
+    <item>
+      <title>Dual-use capabilities of concern of biological AI models</title>
+      <link>https://doi.org/10.1371/journal.pcbi.1012975</link>
+      <description>Jaspreet Pannu, Doni Bloomfield, Robert MacKnight, Magda&#8208;Viola Hanke, Alex W. Zhu, Gabriel dos Passos Gomes, Anita Cicero, Thomas V. Inglesby, PLoS Computational Biology. 21(5)] 2025. https://openalex.org/W4410204437
+
+                As a result of rapidly accelerating artificial intelligence (AI) capabilities, multiple national governments and multinational bodies have launched efforts to address safety, security and ethics issues related to AI models. One high priority among these efforts is the mitigation of misuse of AI models, such as for the development of chemical, biological, nuclear or radiological (CBRN) threats. Many biologists have for decades sought to reduce the risks of scientific research that could lead, through accident or misuse, to high-consequence disease outbreaks. Scientists have carefully considered what types of life sciences research have the potential for both benefit and risk (dual use), especially as scientific advances have accelerated our ability to engineer organisms. Here we describe how previous experience and study by scientists and policy professionals of dual-use research in the life sciences can inform dual-use capabilities of AI models trained using biological data. Of these dual-use capabilities, we argue that AI model evaluations should prioritize addressing those which enable high-consequence risks (i.e., large-scale harm to the public, such as transmissible disease outbreaks that could develop into pandemics), and that these risks should be evaluated prior to model deployment so as to allow potential biosafety and/or biosecurity measures. While biological research is on balance immensely beneficial, it is well recognized that some biological information or technologies could be intentionally or inadvertently misused to cause consequential harm to the public. AI-enabled life sciences research is no different. Scientists&#8217; historical experience with identifying and mitigating dual-use biological risks can thus help inform new approaches to evaluating biological AI models. Identifying which AI capabilities pose the greatest biosecurity and biosafety concerns is necessary in order to establish targeted AI safety evaluation methods, secure these tools against accident and misuse, and avoid impeding immense potential benefits.</description>
+      <author>Jaspreet Pannu, Doni Bloomfield, Robert MacKnight, Magda&#8208;Viola Hanke, Alex W. Zhu, Gabriel dos Passos Gomes, Anita Cicero, Thomas V. Inglesby</author>
+      <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1371/journal.pcbi.1012975</guid>
     </item>
   </channel>
 </rss>

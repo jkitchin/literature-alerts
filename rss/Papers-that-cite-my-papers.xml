@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 10 May 2025 01:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 01:45:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Manganese-containing electrocatalysts for sustainable acidic oxygen evolution</title>
-      <link>https://doi.org/10.1016/j.esci.2025.100427</link>
-      <description>Wenqi Jia, Licheng Miao, Xuejie Cao, Xiaojie Chen, Ting Jin, Fangyi Cheng, Lifang Jiao, Jun Chen, eScience. None(None)] 2025. https://openalex.org/W4410022192
-
-                No abstract</description>
-      <author>Wenqi Jia, Licheng Miao, Xuejie Cao, Xiaojie Chen, Ting Jin, Fangyi Cheng, Lifang Jiao, Jun Chen</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.esci.2025.100427</guid>
-    </item>
-    <item>
-      <title>From pages to patterns: Towards extracting catalytic knowledge from structure and text for transition-metal complexes and metal-organic frameworks</title>
-      <link>https://doi.org/10.1016/j.jcat.2025.116174</link>
-      <description>Aditya Nandy, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4410023182
-
-                No abstract</description>
-      <author>Aditya Nandy</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116174</guid>
-    </item>
-    <item>
-      <title>DeePMD-kit v3: A Multiple-Backend Framework for Machine Learning Potentials</title>
-      <link>https://doi.org/10.1021/acs.jctc.5c00340</link>
-      <description>Jinzhe Zeng, Duo Zhang, Anyang Peng, Xiangyu Zhang, S Z He, Yan Wang, Xinzijian Liu, Hangrui Bi, Yifan Li, Chun Cai, Chengqian Zhang, Yiming Du, Jiaxin Zhu, Pinghui Mo, Zhengtao Huang, Qiyu Zeng, Shaochen Shi, Xuejian Qin, Zhaoxi Yu, Chenxing Luo, Ye Ding, Yun&#8208;Pei Liu, Ruosong Shi, Zhenyu Wang, Sigbj&#248;rn L&#248;land Bore, Junhan Chang, Zhe Deng, Zhaonan Ding, Siyuan Han, Wanrun Jiang, Guolin Ke, Zhaoqing Liu, Denghui Lu, Koki Muraoka, Hananeh Oliaei, Anurag Kumar Singh, Haohui Que, Weihong Xu, Zhangmancang Xu, Yong&#8208;Bin Zhuang, Jiayu Dai, Timothy J. Giese, Weile Jia, Ben Bin Xu, Darrin M. York, Linfeng Zhang, Han Wang, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4410027863
-
-                In recent years, machine learning potentials (MLPs) have become indispensable tools in physics, chemistry, and materials science, driving the development of software packages for molecular dynamics (MD) simulations and related applications. These packages, typically built on specific machine learning frameworks, such as TensorFlow, PyTorch, or JAX, face integration challenges when advanced applications demand communication across different frameworks. The previous TensorFlow-based implementation of the DeePMD-kit exemplified these limitations. In this work, we introduce DeePMD-kit version 3, a significant update featuring a multibackend framework that supports TensorFlow, PyTorch, JAX, and PaddlePaddle backends, and demonstrate the versatility of this architecture through the integration of other MLP packages and of differentiable molecular force fields. This architecture allows seamless back-end switching with minimal modifications, enabling users and developers to integrate DeePMD-kit with other packages using different machine learning frameworks. This innovation facilitates the development of more complex and interoperable workflows, paving the way for broader applications of MLPs in scientific research.</description>
-      <author>Jinzhe Zeng, Duo Zhang, Anyang Peng, Xiangyu Zhang, S Z He, Yan Wang, Xinzijian Liu, Hangrui Bi, Yifan Li, Chun Cai, Chengqian Zhang, Yiming Du, Jiaxin Zhu, Pinghui Mo, Zhengtao Huang, Qiyu Zeng, Shaochen Shi, Xuejian Qin, Zhaoxi Yu, Chenxing Luo, Ye Ding, Yun&#8208;Pei Liu, Ruosong Shi, Zhenyu Wang, Sigbj&#248;rn L&#248;land Bore, Junhan Chang, Zhe Deng, Zhaonan Ding, Siyuan Han, Wanrun Jiang, Guolin Ke, Zhaoqing Liu, Denghui Lu, Koki Muraoka, Hananeh Oliaei, Anurag Kumar Singh, Haohui Que, Weihong Xu, Zhangmancang Xu, Yong&#8208;Bin Zhuang, Jiayu Dai, Timothy J. Giese, Weile Jia, Ben Bin Xu, Darrin M. York, Linfeng Zhang, Han Wang</author>
-      <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c00340</guid>
-    </item>
-    <item>
-      <title>First-principles investigation of Pt-doped Zr2CSeT (T = F, Cl, Br, I) as high-performance bifunctional ORR/OER catalysts</title>
-      <link>https://doi.org/10.1016/j.physb.2025.417348</link>
-      <description>Pengfei Liu, Xiao&#8208;Hong Li, Rui-Zhou Zhang, Hong&#8208;Ling Cui, Physica B Condensed Matter. None(None)] 2025. https://openalex.org/W4410031087
-
-                No abstract</description>
-      <author>Pengfei Liu, Xiao&#8208;Hong Li, Rui-Zhou Zhang, Hong&#8208;Ling Cui</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.physb.2025.417348</guid>
-    </item>
-    <item>
-      <title>Deciphering Size and Shape Effects on the Structure Sensitivity of the CO&lt;sub&gt;2&lt;/sub&gt; Methanation Reaction on Nickel</title>
-      <link>https://doi.org/10.1021/acscatal.4c08084</link>
-      <description>Giulia Spano, Matteo Ferri, Raffaele Cheula, Matteo Monai, Bert M. Weckhuysen, Matteo Maestri, ACS Catalysis. None(None)] 2025. https://openalex.org/W4410037436
-
-                No abstract</description>
-      <author>Giulia Spano, Matteo Ferri, Raffaele Cheula, Matteo Monai, Bert M. Weckhuysen, Matteo Maestri</author>
-      <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c08084</guid>
-    </item>
-    <item>
-      <title>Data-driven discovery of single-atom catalysts for CO2 reduction considering the pH-dependency at the reversible hydrogen electrode scale</title>
-      <link>https://doi.org/10.1063/5.0267969</link>
-      <description>Yue Chu, Yuhang Wang, Di Zhang, Xuedan Song, Chang Yu, Hao Li, The Journal of Chemical Physics. 162(17)] 2025. https://openalex.org/W4410045038
-
-                The electrochemical carbon dioxide reduction reaction (CO2RR) represents a promising approach to mitigating climate change and addressing energy challenges by converting CO2 into value-added chemicals. Among various CO2RR products, CO is attractive due to its economic viability and industrial relevance. By integrating large-scale data mining (with 939 experimental performance data), we reveal that the catalytic performance of d-block transition metal-based single-atom catalysts (SACs) for CO2RR is influenced not only by the coordination environment but also significantly by pH. However, the unified model that could accurately depict the pH-dependent CO2RR to CO activity of d-block SACs is urgently needed. Herein, we conducted pH-dependent microkinetic modeling based upon density functional theory calculations and pH-electric field coupled microkinetic modeling to analyze CO2RR performance of 101 SACs. Our data-driven screening identifies 12 high-performance SACs with promising CO selectivity across different pH conditions, primarily based on Fe, Cu, and Ni centers. We establish a scaling relation between key intermediates (*COOH and *CO) and analyze their adsorption behaviors under varying electrochemical conditions. Furthermore, our pH-dependent microkinetic modeling reveals the critical role of electric field effects in determining catalytic performance, aligning well with experimental turnover frequency values. Most importantly, our theoretical model accurately captures the pH-dependent performance of CO2RR-to-CO on d-block SACs, which is experimentally validated and serves as a general theoretical framework for the rational design of high-performance CO2RR catalysts. Based on this model, we identify a series of promising M&#8211;N&#8211;C catalysts, providing a universal design principle for optimizing CO2-to-CO conversion.</description>
-      <author>Yue Chu, Yuhang Wang, Di Zhang, Xuedan Song, Chang Yu, Hao Li</author>
-      <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0267969</guid>
-    </item>
     <item>
       <title>A theoretical study on ion irradiation engineered defect formation and hydrogen evolution on two-dimensional MoS2</title>
       <link>https://doi.org/10.1016/j.flatc.2025.100873</link>
@@ -86,16 +26,6 @@
       <author>Sisi Zhou, Yuliang Mao</author>
       <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/chemistry7030076</guid>
-    </item>
-    <item>
-      <title>Untangling the Mechanisms in Magneto&#8208;Electrocatalytic Oxygen Evolution</title>
-      <link>https://doi.org/10.1002/smll.202412852</link>
-      <description>Amy Radford, Dorottya Szalay, Qiming Chen, Mengfan Ying, Mingyu Luo, Xuelei Pan, Michail Stamatakis, Yiyang Li, Chen Wu, Shik Chi Edman Tsang, Small. None(None)] 2025. https://openalex.org/W4410035834
-
-                Abstract External magnetic fields emerge as a promising method for enhancing the electrocatalytic oxygen evolution reaction (OER), yet the underlying magneto&#8208;electric (ME) mechanisms are not well understood. The slow kinetics of OER make it a key challenge in electrocatalytic water&#8208;splitting, a promising technique for sustainable H 2 fuel production. Herein, a systematic approach is presented to analyzing the ME mechanisms governing OER, using metallic&#8208;plate (Ni foam, Ni sheet, and Pt sheet) and powder&#8208;based (Co 3 O 4 /BaFe 12 O 19 on carbon paper) electrodes. Through controlled experiments using varying magnetic field strengths and orientations, Lorentz force and spin&#8208;polarization mechanisms are separated. For metallic electrodes, the effects are orientation&#8208;dependent, indicating domination by Lorentz force. Magnetic flux density about the electrode surface is shown to govern the Lorentz force behavior. Interestingly, a &#8220;pseudo&#8221; effect is discovered which results from the relative position of the reference electrode, highlighting the importance of experimental design. The Co 3 O 4 systems display minimal orientation dependence, indicating spin&#8208;polarization domination. Introducing BaFe 12 O 19 as a magnetic co&#8208;catalyst further amplifies the ME effect, marking the first demonstration of magnetic co&#8208;catalyst enhancement in magneto&#8208;electrocatalysis. This work provides key insights into ME mechanisms, linking electrode composition, magnetism, and geometry to performance, offering new pathways for optimizing future magneto&#8208;electrocatalytic systems.</description>
-      <author>Amy Radford, Dorottya Szalay, Qiming Chen, Mengfan Ying, Mingyu Luo, Xuelei Pan, Michail Stamatakis, Yiyang Li, Chen Wu, Shik Chi Edman Tsang</author>
-      <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202412852</guid>
     </item>
     <item>
       <title>Atomic Energy Accuracy of Neural Network Potentials: Harnessing Pretraining and Transfer Learning</title>
@@ -432,7 +362,7 @@
       <link>https://doi.org/10.1038/s41467-025-59450-6</link>
       <description>Hongliang Zeng, Zheng Chen, Qiu Jiang, Qiu Zhong, Yuan Ji, Yizhen Chen, Jiawei Li, Chunxiao Liu, Runhao Zhang, Jialin Tang, Xiaoxia Xiong, Zhongyue Zhang, Zhaoyang Chen, Yizhou Dai, Chengbo Li, Yinfang Chen, Donghao Zhao, Xu Li, Tingting Zheng, Xin Xu, Chuan Xia, Nature Communications. 16(1)] 2025. https://openalex.org/W4410195245
 
-                No abstract</description>
+                Proton exchange membrane water electrolysis stands as a promising technology for sustainable hydrogen production, although its viability hinges on minimizing platinum (Pt) usage without sacrificing catalytic efficiency. Central to this challenge is enhancing the intrinsic activity of Pt while ensuring the stability of the catalyst. We herein present a Mo2TiC2 MXene-supported Pt nanocluster catalyst (Mo2TiC2-PtNC) that requires a minimal Pt content (36 &#956;g cm-2) to function, yet remains highly active and stable. Operando spectroscopy and theoretical simulation provide evidence for anomalous charge transfer from the MXene substrate to PtNC, thus generating highly efficient electron-rich Pt sites for robust hydrogen evolution. When incorporated into a proton exchange membrane electrolyzer, the catalyst affords more than 8700 h at 200 mA cm-2 under ambient temperature with a decay rate of just 2.2 &#956;V h-1. All the performance metrics of the present Mo2TiC2-PtNC catalysts are on par with or even surpass those of current hydrogen evolution electrocatalysts under identical operation conditions, thereby challenging the monopoly of high-loading Pt/C-20% in the current electrolyzer design.</description>
       <author>Hongliang Zeng, Zheng Chen, Qiu Jiang, Qiu Zhong, Yuan Ji, Yizhen Chen, Jiawei Li, Chunxiao Liu, Runhao Zhang, Jialin Tang, Xiaoxia Xiong, Zhongyue Zhang, Zhaoyang Chen, Yizhou Dai, Chengbo Li, Yinfang Chen, Donghao Zhao, Xu Li, Tingting Zheng, Xin Xu, Chuan Xia</author>
       <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-59450-6</guid>
@@ -446,6 +376,56 @@
       <author>Angelo Tricase, Mohsin Muhyuddin, Benjamin Erable, Plamen Atanassov, Deepak Pant, Carlo Santoro, Paolo Bollella</author>
       <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.237267</guid>
+    </item>
+    <item>
+      <title>Preparation of NiMnFeOx Electrocatalysts for Oxygen Evolution Reaction Using Galvanic Exchange</title>
+      <link>https://doi.org/10.1007/s12678-025-00958-2</link>
+      <description>Madis L&#252;si, Heiki Erikson, Helle&#8208;Mai Piirsoo, Arvo Kikas, Vambola Kisand, Kaupo Kukli, Kaido Tammeveski, Electrocatalysis. None(None)] 2025. https://openalex.org/W4410197043
+
+                No abstract</description>
+      <author>Madis L&#252;si, Heiki Erikson, Helle&#8208;Mai Piirsoo, Arvo Kikas, Vambola Kisand, Kaupo Kukli, Kaido Tammeveski</author>
+      <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12678-025-00958-2</guid>
+    </item>
+    <item>
+      <title>Evolving metal-organic frameworks for highly active oxygen evolution</title>
+      <link>https://doi.org/10.1016/j.matt.2025.102046</link>
+      <description>Pengqi Yang, Caoyu Yang, Zhengyan Wu, Zhiyong Tang, Matter. 8(5)] 2025. https://openalex.org/W4410201973
+
+                No abstract</description>
+      <author>Pengqi Yang, Caoyu Yang, Zhengyan Wu, Zhiyong Tang</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.matt.2025.102046</guid>
+    </item>
+    <item>
+      <title>&#916;-model correction of foundation model based on the model&#8217;s own understanding</title>
+      <link>https://doi.org/10.1063/5.0268264</link>
+      <description>Mads-Peter V. Christiansen, Bj&#248;rk Hammer, The Journal of Chemical Physics. 162(18)] 2025. https://openalex.org/W4410212317
+
+                Foundation models of interatomic potentials, the so called universal potentials, may require fine-tuning or residual corrections when applied to specific subclasses of materials. In the present work, we demonstrate how such an augmentation can be accomplished via &#916;-learning based on the representation already embedded in the universal potentials. The &#916;-model introduced is a Gaussian Process Regression (GPR) model, and various types of aggregation (global, species-separated, and atomic) of the representation vector are discussed. Employing a specific universal potential, CHGNet [Deng et al., Nat. Mach. Intell. 5, 1031 (2023)], in a global structure optimization setting, we find that it correctly describes the energetics of the &#8220;8&#8221; Cu oxide, which is an ultra-thin oxide film on Cu(111). The universal potential model even predicts a more favorable structure compared with that discussed in recent density functional theory-based literature. Moving to sulfur adatom overlayers on Cu(111), Ag(111), and Au(111), the CHGNet model, however, requires corrections. We demonstrate that these are efficiently provided via the GPR-based &#916;-model formulated on CHGNet&#8217;s own internal atomic embedding representation. The need for corrections is tracked to the scarcity of metal&#8211;sulfur atomic environments in the materials project database that CHGNet is trained on, leading to an overreliance on sulfur&#8211;sulfur atomic environments. Other universal potentials trained on the same data, MACE-MP0, SevenNet-0, and ORB-v2-only-MPtrj, show a similar behavior but with varying degrees of error, demonstrating the general need for augmentation schemes for universal potential models.</description>
+      <author>Mads-Peter V. Christiansen, Bj&#248;rk Hammer</author>
+      <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0268264</guid>
+    </item>
+    <item>
+      <title>Materials Learning Algorithms (MALA): Scalable machine learning for electronic structure calculations in large-scale atomistic simulations</title>
+      <link>https://doi.org/10.1016/j.cpc.2025.109654</link>
+      <description>Attila Cangi, Lenz Fiedler, Bartosz Brzoza, Karan Shah, Timothy J. Callow, Daniel Kotik, Steve Schmerler, Matthew C. Barry, James Goff, Andrew Rohskopf, Dayton J. Vogel, Normand A. Modine, Aidan P. Thompson, Sivasankaran Rajamanickam, Computer Physics Communications. None(None)] 2025. https://openalex.org/W4410218316
+
+                No abstract</description>
+      <author>Attila Cangi, Lenz Fiedler, Bartosz Brzoza, Karan Shah, Timothy J. Callow, Daniel Kotik, Steve Schmerler, Matthew C. Barry, James Goff, Andrew Rohskopf, Dayton J. Vogel, Normand A. Modine, Aidan P. Thompson, Sivasankaran Rajamanickam</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cpc.2025.109654</guid>
+    </item>
+    <item>
+      <title>Theoretical study on the regulation of ScCl2 electrocatalytic activity through functionalization with H, O, and F</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.05.027</link>
+      <description>Yusheng Wang, Yongqi Zhang, Nahong Song, Juanjuan Wang, Bin Xu, Fei Wang, International Journal of Hydrogen Energy. 136(None)] 2025. https://openalex.org/W4410218655
+
+                No abstract</description>
+      <author>Yusheng Wang, Yongqi Zhang, Nahong Song, Juanjuan Wang, Bin Xu, Fei Wang</author>
+      <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.05.027</guid>
     </item>
     <item>
       <title>Integrated Strategies Toward the Capture and Electrochemical Conversion of Low&#8208;Concentration Carbon Dioxide</title>
