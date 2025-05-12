@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 11 May 2025 01:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 01:44:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -36,6 +36,16 @@
       <author>Jaspreet Pannu, Doni Bloomfield, Robert MacKnight, Magda&#8208;Viola Hanke, Alex W. Zhu, Gabriel dos Passos Gomes, Anita Cicero, Thomas V. Inglesby</author>
       <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1371/journal.pcbi.1012975</guid>
+    </item>
+    <item>
+      <title>Nonlinear Model Predictive Control with an Infinite Horizon Approximation</title>
+      <link>https://doi.org/10.2139/ssrn.5249681</link>
+      <description>Lorenz T. Biegler, San Dinh, Yao Tong, Zhenyu Wei, Owen Gerdes, No host. None(None)] 2025. https://openalex.org/W4410253659
+
+                No abstract</description>
+      <author>Lorenz T. Biegler, San Dinh, Yao Tong, Zhenyu Wei, Owen Gerdes</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5249681</guid>
     </item>
   </channel>
 </rss>
