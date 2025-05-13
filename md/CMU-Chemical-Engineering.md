@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Mon May 12 01:44:01 2025
+Created on Tue May 13 01:41:34 2025
 
-Found 4 results from 2025-05-05 to 2025-05-12
+Found 5 results from 2025-05-06 to 2025-05-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -45,6 +45,17 @@ OpenAlex: https://openalex.org/W4410253659
 Open access: False
     
 [Lorenz T. Biegler](https://openalex.org/A5052825722), [San Dinh](https://openalex.org/A5059801671), [Yao Tong](https://openalex.org/A5101449128), [Zhenyu Wei](https://openalex.org/A5054103149), [Owen Gerdes](https://openalex.org/A5117500212), No host. None(None)] 2025.https://doi.org/10.2139/ssrn.5249681.
+    
+No abstract    
+
+    
+
+## Optimal Retrofit of Carbon Capture and Electrification Technologies in Oil Refineries for Reducing Direct CO2 Emissions   
+
+OpenAlex: https://openalex.org/W4410269108    
+Open access: True
+    
+[S. Chattopadhyay](https://openalex.org/A5046238706), [Kaliaperumal Karthikeyan](https://openalex.org/A5086436082), [Rahul Gandhi](https://openalex.org/A5021607259), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [Ana I. Torres](https://openalex.org/A5027983186), Industrial & Engineering Chemistry Research. None(None)] 2025.https://doi.org/10.1021/acs.iecr.4c04995.
     
 No abstract    
 

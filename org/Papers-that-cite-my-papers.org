@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Mon May 12 01:44:09 2025
+Created on Tue May 13 01:41:43 2025
 
-Found 61 results from 2025-05-05 to 2025-05-12
+Found 58 results from 2025-05-06 to 2025-05-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544]]
@@ -16,69 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* First-Principles Study on Direct Z-Scheme SnC/SnS2 Heterostructures for Photocatalytic Water Splitting  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4410069172
-:TOPICS: Advanced Photocatalysis Techniques, Copper-based nanomaterials and applications, ZnO doping and properties
-:PUBLICATION_DATE: 2025-05-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/chemistry7030076")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4410069172"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4410069172"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4410069172"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4410069172 (Open access: True)
-    
-[[https://openalex.org/A5104166041][Sisi Zhou]], [[https://openalex.org/A5022734102][Yuliang Mao]], Chemistry. 7(3)] 2025. https://doi.org/10.3390/chemistry7030076 
-     
-Direct Z-scheme heterojunctions are known for their unique carrier mobility mechanism, which significantly improves photocatalytic water splitting efficiency. In this study, we use first-principles simulations to determine the stability, electrical, and photocatalytic properties of a SnC/SnS2 heterojunction. Analyses of the projected energy band and state density demonstrate that the SnC/SnS2 heterojunction exhibits an indirect band gap of 0.80 eV and a type-II band alignment. Analysis of its work function shows that the SnC/SnS2 heterojunction has a built-in electric field pointing from the SnC monolayer to the SnS2 monolayer. The band edge position and the differential charge density indicate that the SnC/SnS2 heterostructure exhibits a Z-scheme photocatalytic mechanism. Furthermore, the SnC/SnS2 heterojunction exhibits excellent visible-light absorption and high solar-to-hydrogen efficiency of 32.8%. It is found that the band gap and light absorption of the heterojunction can be effectively tuned by biaxial strain. These results demonstrate that the fabricated SnC/SnS2 heterojunction has significant photocatalysis potential.    
-
-    
-
-* Atomic Energy Accuracy of Neural Network Potentials: Harnessing Pretraining and Transfer Learning  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4410076782
-:TOPICS: Machine Learning in Materials Science, Nuclear Materials and Properties, Nuclear Physics and Applications
-:PUBLICATION_DATE: 2025-05-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jcim.5c00079")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4410076782"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4410076782"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4410076782"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4410076782 (Open access: False)
-    
-[[https://openalex.org/A5080391508][Gang Seob Jung]], Journal of Chemical Information and Modeling. None(None)] 2025. https://doi.org/10.1021/acs.jcim.5c00079 
-     
-Machine learning-based interatomic potentials (MLIPs) have transformed the prediction of potential energy surfaces (PESs), achieving accuracy comparable to ab initio calculations. However, atomic energy predictions, often assumed to lack physical meaning, remain underexplored. In this study, we demonstrate that inaccuracies in atomic energy predictions reduce the robustness and transferability of Neural Network Potentials (NNPs) and atomic energy error can be masked in total energy predictions due to error cancellation. We validate this finding using challenging configurations involving deformation and failure under tensile loading. By pretraining atomic energy predictions using empirical potentials and applying transfer learning with density functional theory (DFT) data, we achieve notable improvements in the accuracy of total energy, forces, and stress predictions. Furthermore, this approach enhances the robustness and transferability of NNPs, emphasizing the importance of atomic energy predictions in developing high-quality and reliable MLIPs.    
-
-    
-
-* CHIPS-FF: Evaluating Universal Machine Learning Force Fields for Material Properties  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4410079056
-:TOPICS: Machine Learning in Materials Science, Advanced Materials Characterization Techniques, Nuclear Materials and Properties
-:PUBLICATION_DATE: 2025-05-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsmaterialslett.5c00093")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4410079056"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4410079056"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4410079056"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4410079056 (Open access: True)
-    
-[[https://openalex.org/A5010732302][Daniel Wines]], [[https://openalex.org/A5019215236][Kamal Choudhary]], ACS Materials Letters. None(None)] 2025. https://doi.org/10.1021/acsmaterialslett.5c00093 
-     
-No abstract    
-
-    
 
 * Hydroxide-mediated asymmetric Ni-O-Mn electron channels in MnOx@Ni(OH)2@NF monolithic catalyst for efficient and stable catalytic ozonation of methyl mercaptan  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -986,7 +923,7 @@ Abstract The need to constrain the use of fossil fuels causing global warming is
 * Platinum Nanoparticles on Metalloid Antimony Functionalized Graphitic Nanoplatelets for Enhanced Water Electrolysis  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4410240741
-:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Fuel Cells and Related Materials
+:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Advanced Photocatalysis Techniques
 :PUBLICATION_DATE: 2025-05-09
 :END:    
     
@@ -1130,24 +1067,24 @@ No abstract
 
     
 
-* Integrated Strategies Toward the Capture and Electrochemical Conversion of Low‐Concentration Carbon Dioxide  :Papers_that_cite_my_papers:
+* Influence of Co and Mn Doping on the Surface Reconstruction of Faceted NiO(111) Nanosheets after the Oxygen Evolution Reaction  :Papers_that_cite_my_papers:
 :PROPERTIES:
-:UUID: https://openalex.org/W4410075584
-:TOPICS: CO2 Reduction Techniques and Catalysts, Carbon Dioxide Capture Technologies, Molten salt chemistry and electrochemical processes
-:PUBLICATION_DATE: 2025-05-04
+:UUID: https://openalex.org/W4410258698
+:TOPICS: Transition Metal Oxide Nanomaterials, Semiconductor materials and devices, ZnO doping and properties
+:PUBLICATION_DATE: 2025-05-10
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/exp.20240006")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.5c00493")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4410075584"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4410075584"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4410075584"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4410258698"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4410258698"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4410258698"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4410075584 (Open access: True)
+OpenAlex: https://openalex.org/W4410258698 (Open access: True)
     
-[[https://openalex.org/A5101686892][Zhenyi Yang]], [[https://openalex.org/A5042798454][Xingqiu Li]], [[https://openalex.org/A5086727628][Xianglong Cui]], [[https://openalex.org/A5102370917][Zhen Zheng]], [[https://openalex.org/A5061404216][Penglun Zheng]], [[https://openalex.org/A5006297542][Yu Zhang]], Exploration. None(None)] 2025. https://doi.org/10.1002/exp.20240006 
+[[https://openalex.org/A5017898566][Konstantin K. Rücker]], [[https://openalex.org/A5069264392][Dereje H. Taffa]], [[https://openalex.org/A5025861092][Omeshwari Yadorao Bisen]], [[https://openalex.org/A5068195942][Marcel Risch]], [[https://openalex.org/A5113113158][Darius Hayes]], [[https://openalex.org/A5080704389][Elliot Brim]], [[https://openalex.org/A5079577690][Ryan M. Richards]], [[https://openalex.org/A5054302761][Corinna Harms]], [[https://openalex.org/A5058831690][Michael Wark]], [[https://openalex.org/A5085901073][Julian Lorenz]], The Journal of Physical Chemistry C. None(None)] 2025. https://doi.org/10.1021/acs.jpcc.5c00493 
      
-ABSTRACT Electrochemical reduction of carbon dioxide (CO 2 ) has been considered a promising route to reduce net carbon emissions and thus mitigate global warming issues. In practice, it mainly involves two processes including the CO 2 capture and subsequent electrochemical conversion. From the perfective of feasible and economic benefits, it is of practical significance to develop integrated CO 2 capture and conversion systems in an efficient way. However, a majority of studies have been currently focusing on the independent process, and the development of integrated strategies is still in the initial stage. This review mainly covers the recent progress on the integrated technologies of CO 2 capture and electrochemical conversion, including the integration strategies, mechanisms, and corresponding issues. The advantages and disadvantages of those strategies are particularly discussed, aiming to identify the viable routes for future applications. To conclude, the challenges and prospects in terms of the research direction in this field are provided, with the hope of promoting practical CO 2 utilization from the fundamental aspects.    
+No abstract    
 
     
 

@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 12 May 2025 01:44:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 01:41:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>First-Principles Study on Direct Z-Scheme SnC/SnS2 Heterostructures for Photocatalytic Water Splitting</title>
-      <link>https://doi.org/10.3390/chemistry7030076</link>
-      <description>Sisi Zhou, Yuliang Mao, Chemistry. 7(3)] 2025. https://openalex.org/W4410069172
-
-                Direct Z-scheme heterojunctions are known for their unique carrier mobility mechanism, which significantly improves photocatalytic water splitting efficiency. In this study, we use first-principles simulations to determine the stability, electrical, and photocatalytic properties of a SnC/SnS2 heterojunction. Analyses of the projected energy band and state density demonstrate that the SnC/SnS2 heterojunction exhibits an indirect band gap of 0.80 eV and a type-II band alignment. Analysis of its work function shows that the SnC/SnS2 heterojunction has a built-in electric field pointing from the SnC monolayer to the SnS2 monolayer. The band edge position and the differential charge density indicate that the SnC/SnS2 heterostructure exhibits a Z-scheme photocatalytic mechanism. Furthermore, the SnC/SnS2 heterojunction exhibits excellent visible-light absorption and high solar-to-hydrogen efficiency of 32.8%. It is found that the band gap and light absorption of the heterojunction can be effectively tuned by biaxial strain. These results demonstrate that the fabricated SnC/SnS2 heterojunction has significant photocatalysis potential.</description>
-      <author>Sisi Zhou, Yuliang Mao</author>
-      <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/chemistry7030076</guid>
-    </item>
-    <item>
-      <title>Atomic Energy Accuracy of Neural Network Potentials: Harnessing Pretraining and Transfer Learning</title>
-      <link>https://doi.org/10.1021/acs.jcim.5c00079</link>
-      <description>Gang Seob Jung, Journal of Chemical Information and Modeling. None(None)] 2025. https://openalex.org/W4410076782
-
-                Machine learning-based interatomic potentials (MLIPs) have transformed the prediction of potential energy surfaces (PESs), achieving accuracy comparable to ab initio calculations. However, atomic energy predictions, often assumed to lack physical meaning, remain underexplored. In this study, we demonstrate that inaccuracies in atomic energy predictions reduce the robustness and transferability of Neural Network Potentials (NNPs) and atomic energy error can be masked in total energy predictions due to error cancellation. We validate this finding using challenging configurations involving deformation and failure under tensile loading. By pretraining atomic energy predictions using empirical potentials and applying transfer learning with density functional theory (DFT) data, we achieve notable improvements in the accuracy of total energy, forces, and stress predictions. Furthermore, this approach enhances the robustness and transferability of NNPs, emphasizing the importance of atomic energy predictions in developing high-quality and reliable MLIPs.</description>
-      <author>Gang Seob Jung</author>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.5c00079</guid>
-    </item>
-    <item>
-      <title>CHIPS-FF: Evaluating Universal Machine Learning Force Fields for Material Properties</title>
-      <link>https://doi.org/10.1021/acsmaterialslett.5c00093</link>
-      <description>Daniel Wines, Kamal Choudhary, ACS Materials Letters. None(None)] 2025. https://openalex.org/W4410079056
-
-                No abstract</description>
-      <author>Daniel Wines, Kamal Choudhary</author>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.5c00093</guid>
-    </item>
     <item>
       <title>Hydroxide-mediated asymmetric Ni-O-Mn electron channels in MnOx@Ni(OH)2@NF monolithic catalyst for efficient and stable catalytic ozonation of methyl mercaptan</title>
       <link>https://doi.org/10.1016/j.cej.2025.163417</link>
@@ -538,14 +508,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137850</guid>
     </item>
     <item>
-      <title>Integrated Strategies Toward the Capture and Electrochemical Conversion of Low&#8208;Concentration Carbon Dioxide</title>
-      <link>https://doi.org/10.1002/exp.20240006</link>
-      <description>Zhenyi Yang, Xingqiu Li, Xianglong Cui, Zhen Zheng, Penglun Zheng, Yu Zhang, Exploration. None(None)] 2025. https://openalex.org/W4410075584
+      <title>Influence of Co and Mn Doping on the Surface Reconstruction of Faceted NiO(111) Nanosheets after the Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c00493</link>
+      <description>Konstantin K. R&#252;cker, Dereje H. Taffa, Omeshwari Yadorao Bisen, Marcel Risch, Darius Hayes, Elliot Brim, Ryan M. Richards, Corinna Harms, Michael Wark, Julian Lorenz, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4410258698
 
-                ABSTRACT Electrochemical reduction of carbon dioxide (CO 2 ) has been considered a promising route to reduce net carbon emissions and thus mitigate global warming issues. In practice, it mainly involves two processes including the CO 2 capture and subsequent electrochemical conversion. From the perfective of feasible and economic benefits, it is of practical significance to develop integrated CO 2 capture and conversion systems in an efficient way. However, a majority of studies have been currently focusing on the independent process, and the development of integrated strategies is still in the initial stage. This review mainly covers the recent progress on the integrated technologies of CO 2 capture and electrochemical conversion, including the integration strategies, mechanisms, and corresponding issues. The advantages and disadvantages of those strategies are particularly discussed, aiming to identify the viable routes for future applications. To conclude, the challenges and prospects in terms of the research direction in this field are provided, with the hope of promoting practical CO 2 utilization from the fundamental aspects.</description>
-      <author>Zhenyi Yang, Xingqiu Li, Xianglong Cui, Zhen Zheng, Penglun Zheng, Yu Zhang</author>
-      <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/exp.20240006</guid>
+                No abstract</description>
+      <author>Konstantin K. R&#252;cker, Dereje H. Taffa, Omeshwari Yadorao Bisen, Marcel Risch, Darius Hayes, Elliot Brim, Ryan M. Richards, Corinna Harms, Michael Wark, Julian Lorenz</author>
+      <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c00493</guid>
     </item>
     <item>
       <title>Machine&#8208;Learning&#8208;Based Design of Metallocene Catalysts for Controlled Olefin Copolymerization</title>
