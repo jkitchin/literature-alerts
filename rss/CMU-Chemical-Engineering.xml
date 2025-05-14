@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 13 May 2025 01:41:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 01:40:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Gas-phase observations of accretion products from stabilized Criegee intermediates in terpene ozonolysis with two dicarboxylic acids</title>
-      <link>https://doi.org/10.5194/acp-25-4655-2025</link>
-      <description>Yuanyuan Luo, Lauri Franzon, Jiangyi Zhang, Nina Sarnela, Neil M. Donahue, Theo Kurt&#233;n, Mikael Ehn, Atmospheric chemistry and physics. 25(9)] 2025. https://openalex.org/W4410093673
-
-                Abstract. Criegee intermediates (CIs), formed from the ozonolysis of alkenes, are highly reactive species with diverse reaction pathways, with important roles in atmospheric chemistry. This study focuses on the formation of accretion products through reactions of thermally stabilized CIs (sCIs) from the ozonolysis of three different terpenes (&#945;-pinene, &#946;-pinene, and &#946;-caryophyllene) with malonic and oxalic acids. Our experimental results demonstrate that these reactions efficiently produce the expected accretion products, though with apparent variations in yields depending on the specific terpene and acid involved. To our knowledge, this is the first study to report direct gas-phase observations of expected adducts from several different terpene-derived sCIs and carboxylic acids, paving the way for a better understanding of the importance and atmospheric implications of these reactions, especially in terms of the aerosol-forming capabilities of these large product molecules.</description>
-      <author>Yuanyuan Luo, Lauri Franzon, Jiangyi Zhang, Nina Sarnela, Neil M. Donahue, Theo Kurt&#233;n, Mikael Ehn</author>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/acp-25-4655-2025</guid>
-    </item>
     <item>
       <title>Detection efficiency of a water condensation particle counter using electrically neutral sulfuric acid and sulfuric acid-dimethylamine clusters</title>
       <link>https://doi.org/10.1080/02786826.2025.2496486</link>
