@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed May 14 01:40:26 2025
+Created on Thu May 15 12:06:35 2025
 
-Found 4 results from 2025-05-07 to 2025-05-14
+Found 5 results from 2025-05-08 to 2025-05-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Detection efficiency of a water condensation particle counter using electrically neutral sulfuric acid and sulfuric acid-dimethylamine clusters   
-
-OpenAlex: https://openalex.org/W4410117804    
-Open access: False
-    
-[Darren Cheng](https://openalex.org/A5015910436), [Joy Kiguru](https://openalex.org/A5117448431), [Coty N. Jen](https://openalex.org/A5055700187), Aerosol Science and Technology. None(None)] 2025.https://doi.org/10.1080/02786826.2025.2496486.
-    
-No abstract    
-
-    
 
 ## Dual-use capabilities of concern of biological AI models   
 
@@ -45,6 +34,28 @@ OpenAlex: https://openalex.org/W4410269108
 Open access: True
     
 [S. Chattopadhyay](https://openalex.org/A5046238706), [Kaliaperumal Karthikeyan](https://openalex.org/A5086436082), [Rahul Gandhi](https://openalex.org/A5021607259), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [Ana I. Torres](https://openalex.org/A5027983186), Industrial & Engineering Chemistry Research. None(None)] 2025.https://doi.org/10.1021/acs.iecr.4c04995.
+    
+No abstract    
+
+    
+
+## In vitro monitoring of Babesia microti infection dynamics in whole blood microenvironments   
+
+OpenAlex: https://openalex.org/W4410335725    
+Open access: False
+    
+[Chao Li](https://openalex.org/A5004641821), [Emily G. Bache](https://openalex.org/A5117533304), [Amy L. Apgar](https://openalex.org/A5117533305), [Danielle M. Tufts](https://openalex.org/A5089697602), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), No host. None(None)] 2025.https://doi.org/10.1101/2025.05.07.652765.
+    
+Babesiosis — a globally emerging tick-borne infectious disease primarily caused by the intraerythrocytic piroplasm parasite, Babesia microti — has traditionally been studied using animal models such as mice. Compared to animal models, microfluidic-based models offer advantages, including direct analysis of human samples (such as patient blood), enhanced assay capacity (including physical/optical access, consistency, and throughput), low costs, and easy adoption. Here, we report an open microfluidic platform named μ–Blood for monitoring B. microti infection dynamics in vitro. Compared to other microfluidic-based models, μ–Blood allows direct examination of infected and uninfected whole blood without preprocessing steps like blood dilution or cell isolation, minimizing observer artifacts and preserving the natural whole blood microenvironment. The system enables extended (days-long) monitoring of infection dynamics, including parasite identification, parasitemia measurement, and parasite-host cell interactions, using label-free phase contrast and fluorescence confocal microscopy. With its open microfluidic configuration, μ-Blood provides an in vitro model for studying blood-borne infections while maintaining integrity of the whole blood microenvironment.    
+
+    
+
+## Design and optimization of circular economy networks—A case study of PET   
+
+OpenAlex: https://openalex.org/W4410348848    
+Open access: True
+    
+[Abdulhakeem Ahmed](https://openalex.org/A5111285949), [Anoop N. Nair](https://openalex.org/A5087391017), [Ana I. Torres](https://openalex.org/A5027983186), Computers & Chemical Engineering. None(None)] 2025.https://doi.org/10.1016/j.compchemeng.2025.109164.
     
 No abstract    
 

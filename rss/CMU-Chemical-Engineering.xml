@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 14 May 2025 01:40:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 12:06:35 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Detection efficiency of a water condensation particle counter using electrically neutral sulfuric acid and sulfuric acid-dimethylamine clusters</title>
-      <link>https://doi.org/10.1080/02786826.2025.2496486</link>
-      <description>Darren Cheng, Joy Kiguru, Coty N. Jen, Aerosol Science and Technology. None(None)] 2025. https://openalex.org/W4410117804
-
-                No abstract</description>
-      <author>Darren Cheng, Joy Kiguru, Coty N. Jen</author>
-      <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/02786826.2025.2496486</guid>
-    </item>
     <item>
       <title>Dual-use capabilities of concern of biological AI models</title>
       <link>https://doi.org/10.1371/journal.pcbi.1012975</link>
@@ -46,6 +36,26 @@
       <author>S. Chattopadhyay, Kaliaperumal Karthikeyan, Rahul Gandhi, Ignacio E. Grossmann, Ana I. Torres</author>
       <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c04995</guid>
+    </item>
+    <item>
+      <title>In vitro monitoring of Babesia microti infection dynamics in whole blood microenvironments</title>
+      <link>https://doi.org/10.1101/2025.05.07.652765</link>
+      <description>Chao Li, Emily G. Bache, Amy L. Apgar, Danielle M. Tufts, Tagbo H. R. Niepa, No host. None(None)] 2025. https://openalex.org/W4410335725
+
+                Babesiosis &#8212; a globally emerging tick-borne infectious disease primarily caused by the intraerythrocytic piroplasm parasite, Babesia microti &#8212; has traditionally been studied using animal models such as mice. Compared to animal models, microfluidic-based models offer advantages, including direct analysis of human samples (such as patient blood), enhanced assay capacity (including physical/optical access, consistency, and throughput), low costs, and easy adoption. Here, we report an open microfluidic platform named &#956;&#8211;Blood for monitoring B. microti infection dynamics in vitro. Compared to other microfluidic-based models, &#956;&#8211;Blood allows direct examination of infected and uninfected whole blood without preprocessing steps like blood dilution or cell isolation, minimizing observer artifacts and preserving the natural whole blood microenvironment. The system enables extended (days-long) monitoring of infection dynamics, including parasite identification, parasitemia measurement, and parasite-host cell interactions, using label-free phase contrast and fluorescence confocal microscopy. With its open microfluidic configuration, &#956;-Blood provides an in vitro model for studying blood-borne infections while maintaining integrity of the whole blood microenvironment.</description>
+      <author>Chao Li, Emily G. Bache, Amy L. Apgar, Danielle M. Tufts, Tagbo H. R. Niepa</author>
+      <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1101/2025.05.07.652765</guid>
+    </item>
+    <item>
+      <title>Design and optimization of circular economy networks&#8212;A case study of PET</title>
+      <link>https://doi.org/10.1016/j.compchemeng.2025.109164</link>
+      <description>Abdulhakeem Ahmed, Anoop N. Nair, Ana I. Torres, Computers &amp; Chemical Engineering. None(None)] 2025. https://openalex.org/W4410348848
+
+                No abstract</description>
+      <author>Abdulhakeem Ahmed, Anoop N. Nair, Ana I. Torres</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2025.109164</guid>
     </item>
   </channel>
 </rss>
