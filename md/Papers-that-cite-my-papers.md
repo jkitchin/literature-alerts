@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu May 15 12:06:48 2025
+Created on Fri May 16 01:41:45 2025
 
-Found 51 results from 2025-05-08 to 2025-05-15
+Found 45 results from 2025-05-09 to 2025-05-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544)
@@ -16,61 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Single‐Atom Iridium Catalysts on Covalent Frameworks: Structural Tuning for Superior Oxygen Evolution   
-
-OpenAlex: https://openalex.org/W4410153879    
-Open access: False
-    
-[Leila Bahri](https://openalex.org/A5074291279), [Fekadu Tsegaye Dajan](https://openalex.org/A5068739709), [Marshet Getaye Sendeku](https://openalex.org/A5117461990), [Karim Harrath](https://openalex.org/A5086445869), Advanced Theory and Simulations. None(None)] 2025.https://doi.org/10.1002/adts.202500045.
-    
-Abstract The rational design of active and stable electrodes is crucial for the development of efficient and durable water electrolyzers. However, theoretical studies exploring the structural factors that dictate catalytic activity and dissolution stability remain scarce. This study investigates several factors by examining the trends in activity, stability, and the oxidation state of Ir single atoms during the oxygen evolution reaction (OER). Using computational methods such as Density Functional Theory (DFT) and Molecular Dynamics (MD) simulations, the structure of Ir single‐atom catalysts (SACs) is analyzed across a range of oxidation states, which is influenced by electrode potential and environmental pH. The findings indicate that applying potential to Ir SAC‐supported covalent organic framework (COF) in the range of 0.5 ∼ < U ∼ < 1.1 can lead to the formation of an OIrOH structure, resulting in outstanding OER activity. Importantly, while applying the electrode potential is not necessary to overcome the potential‐limiting step, it is crucial for the formation and stabilization of the highly active Ir SAC structure. This work offers valuable insights to guide experimental efforts in designing high‐performance Ir SACs with enhanced OER activity.    
-
-    
-
-## Unlocking Synergistic Catalysis in NiP: Dual Role of Electronic Structure and Lewis Acidity for Enhanced Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4410156533    
-Open access: True
-    
-[Jiazhou Liang](https://openalex.org/A5117085608), [Jiawei Li](https://openalex.org/A5108050420), [Junrong Yan](https://openalex.org/A5064805356), [Andrew M. Rappe](https://openalex.org/A5117085609), [Jing Yang](https://openalex.org/A5101985744), Catalysts. 15(5)] 2025.https://doi.org/10.3390/catal15050457.
-    
-Nickel phosphides (NixPy) are recognized as promising alternatives to noble-metal catalysts for the oxygen evolution reaction (OER). NiP, consisting of the equal stoichiometric ratio of Ni and P, could help quantify the catalytic effect of P and Ni. In this work, density functional theory (DFT) is employed to investigate the OER mechanism on NiP surfaces. We found that P atoms help stabilize O* at the adsorption sites. The rich electron donation from the Ni atom can alter the local charge distribution and enhance the interaction between O* and P atoms. Both oxygen intermediate adsorption energy and OER overpotential exhibit linear correlations with the charge of adsorption sites. Electron loss at the site induces the overall system to exhibit Lewis acidic characteristics, facilitating the OER and leading to a substantial overpotential reduction of up to 0.61 V compared to Lewis basic structures. Leveraging electronic structure theory and Lewis acid–base theory, we offer a new insight into the OER mechanism on the NiP surface, demonstrating that the catalytic activity of bulk metallic surface materials like NiP can be optimized by tailoring the local surface chemical environment.    
-
-    
-
-## Elucidating the role of potassium in methane steam reforming using first-principles-based kinetic Monte Carlo simulations   
-
-OpenAlex: https://openalex.org/W4410177224    
-Open access: False
-    
-[Sai Sharath Yadavalli](https://openalex.org/A5091701869), [Glenn Jones](https://openalex.org/A5083360052), [Carlos Fonte](https://openalex.org/A5117469624), [Michail Stamatakis](https://openalex.org/A5081859091), Journal of Catalysis. None(None)] 2025.https://doi.org/10.1016/j.jcat.2025.116203.
-    
-No abstract    
-
-    
-
-## In Situ Reconfigured Heterostructure Active Sites on Transition Metal Sulfides Heterojunction for Accelerated Water Oxidation   
-
-OpenAlex: https://openalex.org/W4410188613    
-Open access: False
-    
-[Li Huang](https://openalex.org/A5101455259), [Rui Gao](https://openalex.org/A5103268090), [Yunsheng Qiu](https://openalex.org/A5102981054), [Jian Zheng](https://openalex.org/A5076632947), [Wenjing Zhang](https://openalex.org/A5074449187), [Lirong Zheng](https://openalex.org/A5065268874), [Yunfeng Bai](https://openalex.org/A5101190624), [Zhongbo Hu](https://openalex.org/A5068531696), [Tianran Zhang](https://openalex.org/A5013342444), [Xiangfeng Liu](https://openalex.org/A5058350031), Inorganic Chemistry. None(None)] 2025.https://doi.org/10.1021/acs.inorgchem.5c00902.
-    
-Transition metal sulfides (TMSs) are promising noble-metal-free electrocatalysts for electrochemical water splitting due to their distinctive physical and chemical properties, but they usually undergo complicated structure reconfiguration during the oxygen evolution reaction (OER). Precisely controlling the in situ reconfiguration of TMSs for in situ generation of high-activity real active sites still remains a great challenge. Herein, we propose to in situ reconfigure heterostructure active-sites on transition metal sulfides via heterojunction engineering and achieve high OER performances on (Ni,Fe)S2/MoS2 catalysts. The continuous leaching of Mo and S during electrooxidation induces the reconfiguration, and the strong electronic interaction of (Ni,Fe)S2 and MoS2 generates the special Ni(OH)2/NiOOH/FeOOH heterostructure sites via an asynchronous reconfiguration of Fe and Ni. The (Ni,Fe)S2/MoS2 heterostructure catalyst therefore exhibits excellent OER activity (a small overpotential of 228 mV at 100 mA cm-2) and a low voltage in an alkaline water electrolyzer (1.44 V at 10 mA cm-2), outperforming the homogeneous Mo-free NiFe sulfide catalysts with conventional reconfiguration of Ni-doped FeOOH. This work sheds light on the precise structures design under complicated electrochemical reconstruction and broadens the horizon of reconstruction chemistry to design low-cost and efficient electrocatalysts.    
-
-    
-
-## From Micro-environments to Macroscopic Effects: How the Alkaline Hydrogen Evolution Reaction Drives Cu Cathodic Corrosion   
-
-OpenAlex: https://openalex.org/W4410192466    
-Open access: False
-    
-[Hori Pada Sarker](https://openalex.org/A5001727106), [Anshuman Goswami](https://openalex.org/A5079824478), [Michael T. Tang](https://openalex.org/A5088793790), [Frank Abild‐Pedersen](https://openalex.org/A5014248031), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c07768.
-    
-No abstract    
-
-    
 
 ## Flexible photo-assisted zinc-air battery achieved by heterojunction structure between oxygen-vacancy-rich CoFe2O4 and nitrogen-doped hollow carbon spheres   
 
@@ -498,17 +443,6 @@ Open access: False
 [Wenting Li](https://openalex.org/A5100440864), [Wenjun Xiao](https://openalex.org/A5101412949), [Gang Wang](https://openalex.org/A5100367480), [Degui Wang](https://openalex.org/A5082240190), [Mingqiang Liu](https://openalex.org/A5109111223), [Wu Yan](https://openalex.org/A5100321768), [Zhen Wang](https://openalex.org/A5100422368), [Abuduwayiti Aierken](https://openalex.org/A5072051258), [Xun Chen](https://openalex.org/A5101419086), [Changsong Gao](https://openalex.org/A5085544847), [Jinshun Bi](https://openalex.org/A5069723560), [Yang Luo](https://openalex.org/A5054716145), [Xuemin Zhang](https://openalex.org/A5100635327), [Yao Chen](https://openalex.org/A5100394271), [Wentao Liang](https://openalex.org/A5010311212), [Jiaxing Liu](https://openalex.org/A5091773275), [Xuefei Liu](https://openalex.org/A5056992365), Journal of Alloys and Compounds. None(None)] 2025.https://doi.org/10.1016/j.jallcom.2025.180961.
     
 No abstract    
-
-    
-
-## Machine‐Learning‐Based Design of Metallocene Catalysts for Controlled Olefin Copolymerization   
-
-OpenAlex: https://openalex.org/W4410168918    
-Open access: True
-    
-[Yongjun Kim](https://openalex.org/A5101852902), [Yeonjoon Kim](https://openalex.org/A5000294906), [Hyeonsu Kim](https://openalex.org/A5101434622), [Sungwoo Kang](https://openalex.org/A5034284195), [Jaewook Kim](https://openalex.org/A5100754677), [Kyung-Hoon Lee](https://openalex.org/A5101541840), [Wook Jeong](https://openalex.org/A5103798303), [Won Jong Lee](https://openalex.org/A5109210210), [Ho Ryu](https://openalex.org/A5102930610), [Kyungwoo Kim](https://openalex.org/A5101758476), [Woo Youn Kim](https://openalex.org/A5059653088), Chemistry - A European Journal. None(None)] 2025.https://doi.org/10.1002/chem.202500316.
-    
-Abstract Polyolefins are versatile materials for various purposes, but their functionality should be fine‐tuned for target applications including the mitigation of adverse environmental impacts. Producing such polymers with desired properties requires catalysts that can control polymerization at an atomistic level. However, complex reaction mechanisms and very limited experimental data make it difficult to design new efficient catalysts using conventional computational and data‐driven approaches. Here, we present a pragmatic strategy based on data‐efficient predictive models combined with a genetic algorithm to design new catalysts for controlled ethylene/hexene copolymerization. By deriving the chemically intuitive descriptors from the mechanistic analysis of the polymerization, we achieved the promising predictive models with small data applicable to various core structures and different experimental conditions, respectively. We screened catalysts through a virtual screening scheme combining a genetic algorithm and predictive models using chemically intuitive descriptors and considered their synthesizability through the manual inspections of experts. As a result, we successfully designed nine catalysts with desired comonomer ratios and diverse core structures.    
 
     
 

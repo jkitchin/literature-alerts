@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 15 May 2025 12:06:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 01:41:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Single&#8208;Atom Iridium Catalysts on Covalent Frameworks: Structural Tuning for Superior Oxygen Evolution</title>
-      <link>https://doi.org/10.1002/adts.202500045</link>
-      <description>Leila Bahri, Fekadu Tsegaye Dajan, Marshet Getaye Sendeku, Karim Harrath, Advanced Theory and Simulations. None(None)] 2025. https://openalex.org/W4410153879
-
-                Abstract The rational design of active and stable electrodes is crucial for the development of efficient and durable water electrolyzers. However, theoretical studies exploring the structural factors that dictate catalytic activity and dissolution stability remain scarce. This study investigates several factors by examining the trends in activity, stability, and the oxidation state of Ir single atoms during the oxygen evolution reaction (OER). Using computational methods such as Density Functional Theory (DFT) and Molecular Dynamics (MD) simulations, the structure of Ir single&#8208;atom catalysts (SACs) is analyzed across a range of oxidation states, which is influenced by electrode potential and environmental pH. The findings indicate that applying potential to Ir SAC&#8208;supported covalent organic framework (COF) in the range of 0.5 &#8764; &lt; U &#8764; &lt; 1.1 can lead to the formation of an OIrOH structure, resulting in outstanding OER activity. Importantly, while applying the electrode potential is not necessary to overcome the potential&#8208;limiting step, it is crucial for the formation and stabilization of the highly active Ir SAC structure. This work offers valuable insights to guide experimental efforts in designing high&#8208;performance Ir SACs with enhanced OER activity.</description>
-      <author>Leila Bahri, Fekadu Tsegaye Dajan, Marshet Getaye Sendeku, Karim Harrath</author>
-      <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adts.202500045</guid>
-    </item>
-    <item>
-      <title>Unlocking Synergistic Catalysis in NiP: Dual Role of Electronic Structure and Lewis Acidity for Enhanced Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.3390/catal15050457</link>
-      <description>Jiazhou Liang, Jiawei Li, Junrong Yan, Andrew M. Rappe, Jing Yang, Catalysts. 15(5)] 2025. https://openalex.org/W4410156533
-
-                Nickel phosphides (NixPy) are recognized as promising alternatives to noble-metal catalysts for the oxygen evolution reaction (OER). NiP, consisting of the equal stoichiometric ratio of Ni and P, could help quantify the catalytic effect of P and Ni. In this work, density functional theory (DFT) is employed to investigate the OER mechanism on NiP surfaces. We found that P atoms help stabilize O* at the adsorption sites. The rich electron donation from the Ni atom can alter the local charge distribution and enhance the interaction between O* and P atoms. Both oxygen intermediate adsorption energy and OER overpotential exhibit linear correlations with the charge of adsorption sites. Electron loss at the site induces the overall system to exhibit Lewis acidic characteristics, facilitating the OER and leading to a substantial overpotential reduction of up to 0.61 V compared to Lewis basic structures. Leveraging electronic structure theory and Lewis acid&#8211;base theory, we offer a new insight into the OER mechanism on the NiP surface, demonstrating that the catalytic activity of bulk metallic surface materials like NiP can be optimized by tailoring the local surface chemical environment.</description>
-      <author>Jiazhou Liang, Jiawei Li, Junrong Yan, Andrew M. Rappe, Jing Yang</author>
-      <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/catal15050457</guid>
-    </item>
-    <item>
-      <title>Elucidating the role of potassium in methane steam reforming using first-principles-based kinetic Monte Carlo simulations</title>
-      <link>https://doi.org/10.1016/j.jcat.2025.116203</link>
-      <description>Sai Sharath Yadavalli, Glenn Jones, Carlos Fonte, Michail Stamatakis, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4410177224
-
-                No abstract</description>
-      <author>Sai Sharath Yadavalli, Glenn Jones, Carlos Fonte, Michail Stamatakis</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116203</guid>
-    </item>
-    <item>
-      <title>In Situ Reconfigured Heterostructure Active Sites on Transition Metal Sulfides Heterojunction for Accelerated Water Oxidation</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.5c00902</link>
-      <description>Li Huang, Rui Gao, Yunsheng Qiu, Jian Zheng, Wenjing Zhang, Lirong Zheng, Yunfeng Bai, Zhongbo Hu, Tianran Zhang, Xiangfeng Liu, Inorganic Chemistry. None(None)] 2025. https://openalex.org/W4410188613
-
-                Transition metal sulfides (TMSs) are promising noble-metal-free electrocatalysts for electrochemical water splitting due to their distinctive physical and chemical properties, but they usually undergo complicated structure reconfiguration during the oxygen evolution reaction (OER). Precisely controlling the in situ reconfiguration of TMSs for in situ generation of high-activity real active sites still remains a great challenge. Herein, we propose to in situ reconfigure heterostructure active-sites on transition metal sulfides via heterojunction engineering and achieve high OER performances on (Ni,Fe)S2/MoS2 catalysts. The continuous leaching of Mo and S during electrooxidation induces the reconfiguration, and the strong electronic interaction of (Ni,Fe)S2 and MoS2 generates the special Ni(OH)2/NiOOH/FeOOH heterostructure sites via an asynchronous reconfiguration of Fe and Ni. The (Ni,Fe)S2/MoS2 heterostructure catalyst therefore exhibits excellent OER activity (a small overpotential of 228 mV at 100 mA cm-2) and a low voltage in an alkaline water electrolyzer (1.44 V at 10 mA cm-2), outperforming the homogeneous Mo-free NiFe sulfide catalysts with conventional reconfiguration of Ni-doped FeOOH. This work sheds light on the precise structures design under complicated electrochemical reconstruction and broadens the horizon of reconstruction chemistry to design low-cost and efficient electrocatalysts.</description>
-      <author>Li Huang, Rui Gao, Yunsheng Qiu, Jian Zheng, Wenjing Zhang, Lirong Zheng, Yunfeng Bai, Zhongbo Hu, Tianran Zhang, Xiangfeng Liu</author>
-      <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.5c00902</guid>
-    </item>
-    <item>
-      <title>From Micro-environments to Macroscopic Effects: How the Alkaline Hydrogen Evolution Reaction Drives Cu Cathodic Corrosion</title>
-      <link>https://doi.org/10.1021/acscatal.4c07768</link>
-      <description>Hori Pada Sarker, Anshuman Goswami, Michael T. Tang, Frank Abild&#8208;Pedersen, ACS Catalysis. None(None)] 2025. https://openalex.org/W4410192466
-
-                No abstract</description>
-      <author>Hori Pada Sarker, Anshuman Goswami, Michael T. Tang, Frank Abild&#8208;Pedersen</author>
-      <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07768</guid>
-    </item>
     <item>
       <title>Flexible photo-assisted zinc-air battery achieved by heterojunction structure between oxygen-vacancy-rich CoFe2O4 and nitrogen-doped hollow carbon spheres</title>
       <link>https://doi.org/10.1016/j.jcis.2025.137788</link>
@@ -446,16 +396,6 @@
       <author>Wenting Li, Wenjun Xiao, Gang Wang, Degui Wang, Mingqiang Liu, Wu Yan, Zhen Wang, Abuduwayiti Aierken, Xun Chen, Changsong Gao, Jinshun Bi, Yang Luo, Xuemin Zhang, Yao Chen, Wentao Liang, Jiaxing Liu, Xuefei Liu</author>
       <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2025.180961</guid>
-    </item>
-    <item>
-      <title>Machine&#8208;Learning&#8208;Based Design of Metallocene Catalysts for Controlled Olefin Copolymerization</title>
-      <link>https://doi.org/10.1002/chem.202500316</link>
-      <description>Yongjun Kim, Yeonjoon Kim, Hyeonsu Kim, Sungwoo Kang, Jaewook Kim, Kyung-Hoon Lee, Wook Jeong, Won Jong Lee, Ho Ryu, Kyungwoo Kim, Woo Youn Kim, Chemistry - A European Journal. None(None)] 2025. https://openalex.org/W4410168918
-
-                Abstract Polyolefins are versatile materials for various purposes, but their functionality should be fine&#8208;tuned for target applications including the mitigation of adverse environmental impacts. Producing such polymers with desired properties requires catalysts that can control polymerization at an atomistic level. However, complex reaction mechanisms and very limited experimental data make it difficult to design new efficient catalysts using conventional computational and data&#8208;driven approaches. Here, we present a pragmatic strategy based on data&#8208;efficient predictive models combined with a genetic algorithm to design new catalysts for controlled ethylene/hexene copolymerization. By deriving the chemically intuitive descriptors from the mechanistic analysis of the polymerization, we achieved the promising predictive models with small data applicable to various core structures and different experimental conditions, respectively. We screened catalysts through a virtual screening scheme combining a genetic algorithm and predictive models using chemically intuitive descriptors and considered their synthesizability through the manual inspections of experts. As a result, we successfully designed nine catalysts with desired comonomer ratios and diverse core structures.</description>
-      <author>Yongjun Kim, Yeonjoon Kim, Hyeonsu Kim, Sungwoo Kang, Jaewook Kim, Kyung-Hoon Lee, Wook Jeong, Won Jong Lee, Ho Ryu, Kyungwoo Kim, Woo Youn Kim</author>
-      <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/chem.202500316</guid>
     </item>
     <item>
       <title>Electrifying amine carbon capture with robust redox-tunable acids</title>
