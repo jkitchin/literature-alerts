@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 18 May 2025 01:46:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 01:46:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Structure and chemistry of uranium dioxide (UO&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1045" altimg="si83.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mtext&gt;2&lt;/mml:mtext&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt;) in water from first-principles molecular dynamics simulations</title>
-      <link>https://doi.org/10.1016/j.colsurfa.2025.136827</link>
-      <description>G. Rodrik, Yann Foucaud, Bertrand Siboulet, Magali Duvail, St&#233;phanie Szenknect, Jean&#8208;Fran&#231;ois Dufr&#234;che, Colloids and Surfaces A Physicochemical and Engineering Aspects. None(None)] 2025. https://openalex.org/W4410255792
-
-                No abstract</description>
-      <author>G. Rodrik, Yann Foucaud, Bertrand Siboulet, Magali Duvail, St&#233;phanie Szenknect, Jean&#8208;Fran&#231;ois Dufr&#234;che</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2025.136827</guid>
-    </item>
-    <item>
-      <title>Importance of local coordination microenvironment in regulating CO2 electroreduction catalyzed by Cr-corrole-based single-atom catalysts</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.137856</link>
-      <description>Lei Yang, Bin Li, Ruoya Wang, Meng Yang, Yuling Tang, Haiyan Wang, Chun Zhu, Jinxia Liang, Jun Li, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4410255807
-
-                No abstract</description>
-      <author>Lei Yang, Bin Li, Ruoya Wang, Meng Yang, Yuling Tang, Haiyan Wang, Chun Zhu, Jinxia Liang, Jun Li</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137856</guid>
-    </item>
-    <item>
-      <title>Spin-state-regulated dual-metal orbital engineering in heterostructured nanosheets for d-band center-optimized electrocatalytic water splitting</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.137850</link>
-      <description>Mengmeng Guo, Xianda Han, Hui Feng, Dong&#8208;Feng Chai, Wenzhi Zhang, Yue Li, Guohua Dong, Dongxuan Guo, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4410255898
-
-                No abstract</description>
-      <author>Mengmeng Guo, Xianda Han, Hui Feng, Dong&#8208;Feng Chai, Wenzhi Zhang, Yue Li, Guohua Dong, Dongxuan Guo</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137850</guid>
-    </item>
-    <item>
-      <title>Influence of Co and Mn Doping on the Surface Reconstruction of Faceted NiO(111) Nanosheets after the Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c00493</link>
-      <description>Konstantin K. R&#252;cker, Dereje H. Taffa, Omeshwari Yadorao Bisen, Marcel Risch, Darius Hayes, Elliot Brim, Ryan M. Richards, Corinna Harms, Michael Wark, Julian Lorenz, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4410258698
-
-                No abstract</description>
-      <author>Konstantin K. R&#252;cker, Dereje H. Taffa, Omeshwari Yadorao Bisen, Marcel Risch, Darius Hayes, Elliot Brim, Ryan M. Richards, Corinna Harms, Michael Wark, Julian Lorenz</author>
-      <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c00493</guid>
-    </item>
     <item>
       <title>Free-Energy Landscapes and Surface Dynamics in Methane Activation on Ni(511) via Machine Learning and Enhanced Sampling</title>
       <link>https://doi.org/10.1021/acscatal.5c00724</link>
@@ -468,6 +428,116 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202503628</guid>
     </item>
     <item>
+      <title>High strain rate compressive deformation behavior of nickel microparticles</title>
+      <link>https://doi.org/10.1016/j.mattod.2025.05.014</link>
+      <description>B. Bell&#243;n, Lalith Kumar Bhaskar, Tobias Brink, Raquel Aymerich&#8208;Armengol, Dipali Sonawane, D. Chatain, Gerhard Dehm, Rajaprakash Ramachandramoorthy, Materials Today. None(None)] 2025. https://openalex.org/W4410420387
+
+                No abstract</description>
+      <author>B. Bell&#243;n, Lalith Kumar Bhaskar, Tobias Brink, Raquel Aymerich&#8208;Armengol, Dipali Sonawane, D. Chatain, Gerhard Dehm, Rajaprakash Ramachandramoorthy</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mattod.2025.05.014</guid>
+    </item>
+    <item>
+      <title>In situ regulating the accessibility and structure of Fe-based catalytic sites to break trade-off between the activity and stability for oxygen reduction</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.137910</link>
+      <description>He Zhang, Jinyan Wu, Chaozhong Guo, Xiaoyu Dong, Chenyang Shu, Liumei Teng, Yao Liu, Hongdian Chen, Rong Jin, Caiyi Jiang, Junjie Zhou, Yujun Si, Honglin Li, Yong Zheng Pang, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4410421870
+
+                No abstract</description>
+      <author>He Zhang, Jinyan Wu, Chaozhong Guo, Xiaoyu Dong, Chenyang Shu, Liumei Teng, Yao Liu, Hongdian Chen, Rong Jin, Caiyi Jiang, Junjie Zhou, Yujun Si, Honglin Li, Yong Zheng Pang</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137910</guid>
+    </item>
+    <item>
+      <title>Construction of Atomic-Scale Compressive Strain for Oxime Electrosynthesis</title>
+      <link>https://doi.org/10.1021/jacs.5c03600</link>
+      <description>Lubing Qin, Yuping Chen, Ziyi Liu, Mengyao Chen, Qing Tang, Zhenghua Tang, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4410424796
+
+                Tuning the surface strain is a powerful strategy to enhance the catalytic activity of metal nanocatalysts, yet an atomically precise catalyst with intramolecular strain to unlock the atomic-level strain-structure-activity relationship is still highly desired. Herein, we report the synthesis, structural anatomy, and catalytic performance toward cyclohexanone oxime electrosynthesis of an atomically precise Ag16Cu18(C&#8801;C-C6H11)24 (Ag16Cu18) nanocluster, which has a Cu6 ring in the center. The Cu-Cu distance in the Cu6 ring is only 1.616 &#197; in a single crystal, the shortest Cu-Cu bond in Cu nanomaterials to date. Furthermore, once Ag16Cu18 was loaded onto carbon paper, the ultrashort Cu-Cu bond elongated to &#8764;2.40 &#197;, still showing strong intramolecular compressive strain. Ag16Cu18 exhibited excellent catalytic activity toward oxime electrosynthesis, manifested by a maximal Faradaic efficiency, yield, and yield rate of cyclohexanone oxime reaching 47.4%, 95.4%, and 2.66 mmol&#183;h-1&#183;cm-2 at -0.35 V, respectively. In-situ attenuated total reflection surface-enhanced infrared spectroscopy revealed that the Cu sites adjacent to the Ag atoms primarily reduce NO and stabilize it at the *NH2OH stage, while the Cu sites with compressive strain provide H* for NO reduction and adsorb cyclohexanone to react with *NH2OH, forming cyclohexanone oxime simultaneously. Density functional theory calculations confirmed the presence of compressive strain in the Cu6 ring, which facilitates H* formation and cyclohexanone adsorption, hence significantly contributing to oxime generation. This study not only reports a case of atomically precise clusters with intramolecular compressive strain but also provides an atomic-level understanding for employing bimetallic nanocluster-based catalysts toward the electrosynthesis of valuable organic molecules.</description>
+      <author>Lubing Qin, Yuping Chen, Ziyi Liu, Mengyao Chen, Qing Tang, Zhenghua Tang</author>
+      <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c03600</guid>
+    </item>
+    <item>
+      <title>Predicting practical reduction potential of electrolyte solvents via computational hydrogen electrode and interpretable machine-learning models</title>
+      <link>https://doi.org/10.1038/s41524-025-01582-w</link>
+      <description>Zonglin Yi, Yitong Zhou, Huan Liu, Li Li, Yan Zhao, Jiayuan Li, Yixuan Mao, Fangyuan Su, Cheng&#8208;Meng Chen, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4410431287
+
+                No abstract</description>
+      <author>Zonglin Yi, Yitong Zhou, Huan Liu, Li Li, Yan Zhao, Jiayuan Li, Yixuan Mao, Fangyuan Su, Cheng&#8208;Meng Chen</author>
+      <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01582-w</guid>
+    </item>
+    <item>
+      <title>Facile synthesis of palladium hierarchical nanosheet assemblies: unraveling the aggregation-induced synergistic effect for enhanced methanol oxidation reaction activity</title>
+      <link>https://doi.org/10.1039/d5ce00360a</link>
+      <description>Li&#8208;Juan Han, Yuanyuan Min, Yingying Wang, Feng Liu, Maochang Liu, Yiqun Zheng, CrystEngComm. None(None)] 2025. https://openalex.org/W4410432784
+
+                Hierarchical Pd nanosheet assemblies are prepared, exhibiting enhanced MOR activity arising from the aggregation-induced synergistic effect.</description>
+      <author>Li&#8208;Juan Han, Yuanyuan Min, Yingying Wang, Feng Liu, Maochang Liu, Yiqun Zheng</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ce00360a</guid>
+    </item>
+    <item>
+      <title>Prediction of local electric polarization using graph neural networks</title>
+      <link>https://doi.org/10.1103/physrevb.111.184105</link>
+      <description>Yuxing Ma, Yingwei Chen, Binhua Zhang, Yali Yang, Hongyu Yu, Xin-Gao Gong, Yang Zhong, Hongjun Xiang, Physical review. B./Physical review. B. 111(18)] 2025. https://openalex.org/W4410432848
+
+                No abstract</description>
+      <author>Yuxing Ma, Yingwei Chen, Binhua Zhang, Yali Yang, Hongyu Yu, Xin-Gao Gong, Yang Zhong, Hongjun Xiang</author>
+      <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.111.184105</guid>
+    </item>
+    <item>
+      <title>Tuning surface curvature in B and N co-doped CNT-derived Fe, Ru and Ir catalysts for electrochemical hydrogenation of N&lt;sub&gt;2&lt;/sub&gt; to NH&lt;sub&gt;3&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1039/d5cp00309a</link>
+      <description>Deewan S. Teja, Bhabani S. Mallik, Physical Chemistry Chemical Physics. None(None)] 2025. https://openalex.org/W4410438560
+
+                Modulating the CNT curvature enhances the catalytic performance of the electrocatalytic nitrogen reduction reaction (NRR).</description>
+      <author>Deewan S. Teja, Bhabani S. Mallik</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5cp00309a</guid>
+    </item>
+    <item>
+      <title>Electrocatalysts for the Oxygen Reduction Reaction in Proton Exchange Membrane Fuel Cells: Significant Advances, Major Challenges, and Future Directions</title>
+      <link>https://doi.org/10.1021/acscatal.5c00903</link>
+      <description>Sami Mohammed Alfaifi, Rajkamal Balu, Ken Chiang, Namita Roy Choudhury, Naba K. Dutta, ACS Catalysis. None(None)] 2025. https://openalex.org/W4410443701
+
+                No abstract</description>
+      <author>Sami Mohammed Alfaifi, Rajkamal Balu, Ken Chiang, Namita Roy Choudhury, Naba K. Dutta</author>
+      <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c00903</guid>
+    </item>
+    <item>
+      <title>TrIP2: Expanding the Transformer Interatomic Potential Demonstrates Architectural Scalability for Organic Compounds</title>
+      <link>https://doi.org/10.1021/acs.jpca.5c00391</link>
+      <description>Joshua L. Ebbert, Bryce Hedelius, Jyothish Joy, Daniel H. Ess, Dennis Della Corte, The Journal of Physical Chemistry A. None(None)] 2025. https://openalex.org/W4410451399
+
+                TrIP2 is an advanced version of the transformer interatomic potential (TrIP) trained on the expanded ANI-2x data set, including more diverse molecular configurations with sulfur, fluorine, and chlorine. It leverages the equivariant SE(3)-transformer architecture, incorporating physical biases and continuous atomic representations. TrIP was introduced as a highly promising transferable interatomic potential, which we show here to generalize to new atom types with no alterations to the underlying model design. Benchmarking on COMP6 energy and force calculations, structure minimization tasks, torsion drives, and applications to molecules with unexpected conformational energy minima demonstrates TrIP2's high accuracy and transferability. Direct architectural comparisons demonstrate superior performance against ANI-2x, while holistic model evaluations&#9472;including training data and level-of-theory considerations&#9472;show comparative performance with state-of-the-art models like AIMNet2 and MACE-OFF23. Notably, TrIP2 achieves state-of-the-art force prediction performance on the COMP6 benchmarks and closely approaches DFT-optimized structures in torsion drives and geometry optimization tasks. Without requiring any architectural modifications, TrIP2 successfully capitalizes on additional training data to deliver enhanced generalizability and precision, establishing itself as a robust and scalable framework capable of accommodating future expansions or applications to new domains with minimal reengineering.</description>
+      <author>Joshua L. Ebbert, Bryce Hedelius, Jyothish Joy, Daniel H. Ess, Dennis Della Corte</author>
+      <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.5c00391</guid>
+    </item>
+    <item>
+      <title>Sabatier Principle Revisited: The Role of Electronic Properties in Simple Catalytic Reactions</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c01822</link>
+      <description>Ram&#243;n Alain Miranda&#8208;Quintana, Niklas Adebar, Moritz Schulze, Jens Smiatek, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4410451410
+
+                No abstract</description>
+      <author>Ram&#243;n Alain Miranda&#8208;Quintana, Niklas Adebar, Moritz Schulze, Jens Smiatek</author>
+      <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c01822</guid>
+    </item>
+    <item>
+      <title>Electrocatalytic decomposition mechanism of hydroxyamine nitrate on the Cu(111) surface</title>
+      <link>https://doi.org/10.25259/ajc_86_2024</link>
+      <description>Li Men, Tianpeng Li, Xinbao Gao, Yin Huang, Arabian Journal of Chemistry. 0(None)] 2025. https://openalex.org/W4410453391
+
+                No abstract</description>
+      <author>Li Men, Tianpeng Li, Xinbao Gao, Yin Huang</author>
+      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.25259/ajc_86_2024</guid>
+    </item>
+    <item>
       <title>Fabrication of self-supporting hierarchical porous metallic glass for pH-universal hydrogen evolution reaction</title>
       <link>https://doi.org/10.1016/j.cej.2025.163667</link>
       <description>X. Zhao, Junsheng Liu, Heting Zhang, Jihan Jiang, Jiaqing Lin, Jianan Fu, Yu Zhang, Xin Li, Wenqing Ruan, Jiang Ma, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4410346966
@@ -476,6 +546,16 @@
       <author>X. Zhao, Junsheng Liu, Heting Zhang, Jihan Jiang, Jiaqing Lin, Jianan Fu, Yu Zhang, Xin Li, Wenqing Ruan, Jiang Ma</author>
       <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.163667</guid>
+    </item>
+    <item>
+      <title>Complex Iridate Solid Solutions for Catalyzing Oxygen Evolution Reaction: Comparison of Elemental Leaching and Stability Numbers</title>
+      <link>https://doi.org/10.1021/jacs.5c00380</link>
+      <description>Ki Hyun Park, Young-Hwan Lim, Hyung Bin Bae, Jun Seop Kim, S.-H. Lee, Dongho Kim, Sung&#8208;Yoon Chung, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4410449369
+
+                As predicted by the Hume-Rothery rules, forming solid solutions of rutile IrO2 with other metal oxides that have different crystal structures is thermodynamically challenging. Consequently, achieving high solubility of foreign elements in Ir-based solid-solution oxides has been significantly limited. We demonstrate that hexagonal-perovskite BaIrO3 can serve as a flexible matrix oxide capable of incorporating a wide spectrum of (post)transition-metal cations with different electronic structures, ranging from d0 to d10 configurations. Among 12 cation solutes, Ta5+, Nb5+, and Zr4+ are found to be stable without substantial leaching during the oxygen evolution reaction (OER) under acidic condition. Acceptor-type trivalent cations, including Sc3+, In3+, and Fe3+, are identified to leach out gradually from the particle surface while enhancing the OER catalytic activity. Both X-ray absorption spectroscopy and ab initio molecular dynamics simulations consistently show that the robust face-sharing [IrO6] octahedral framework of the solid solutions remains unperturbed unless electrochemical leaching rapidly occurs. As a result, notably high S-numbers, on the order of 106, are achievable at pH = 1. Although our work focuses on single-element incorporation, it is suggested that the solid-solution methodology is an effective strategy for developing stable, long-lasting OER catalysts with further reduced Ir usage for acidic water oxidation.</description>
+      <author>Ki Hyun Park, Young-Hwan Lim, Hyung Bin Bae, Jun Seop Kim, S.-H. Lee, Dongho Kim, Sung&#8208;Yoon Chung</author>
+      <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c00380</guid>
     </item>
     <item>
       <title>Comparative Study of Hydrogen Storage and Metal Hydride Systems: Future Energy Storage Solutions</title>
