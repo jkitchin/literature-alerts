@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 May 2025 01:45:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 01:42:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -36,6 +36,16 @@
       <author>Jongjun Park, Tae Hui Bae, S. Y. Kim, Seong-Eun Park, Yonghyun Choi, Masayoshi Tanaka, Jiwon Kim, Jaehee Jang, J. Yang, Heeyoung Lee, Tagbo H. R. Niepa, Shin Hyuk Kang, Jonghoon Choi</author>
       <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1186/s40580-025-00488-z</guid>
+    </item>
+    <item>
+      <title>Surrogate model optimization: a comparison case study with pooling problems of CO2 point sources</title>
+      <link>https://doi.org/10.1016/j.compchemeng.2025.109199</link>
+      <description>H&#233;ctor Pedrozo, Miguel Zamarripa, A. Uribe-Rodr&#237;guez, Grigorios Panagakos, M. Soledad D&#237;az, Lorenz T. Biegler, Computers &amp; Chemical Engineering. None(None)] 2025. https://openalex.org/W4410472923
+
+                No abstract</description>
+      <author>H&#233;ctor Pedrozo, Miguel Zamarripa, A. Uribe-Rodr&#237;guez, Grigorios Panagakos, M. Soledad D&#237;az, Lorenz T. Biegler</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2025.109199</guid>
     </item>
   </channel>
 </rss>

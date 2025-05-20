@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Mon May 19 01:45:58 2025
+Created on Tue May 20 01:42:21 2025
 
-Found 3 results from 2025-05-12 to 2025-05-19
+Found 4 results from 2025-05-13 to 2025-05-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -36,5 +36,16 @@ Open access: True
 [Jongjun Park](https://openalex.org/A5089195105), [Tae Hui Bae](https://openalex.org/A5008417301), [S. Y. Kim](https://openalex.org/A5101716327), [Seong-Eun Park](https://openalex.org/A5109162928), [Yonghyun Choi](https://openalex.org/A5113936606), [Masayoshi Tanaka](https://openalex.org/A5018575134), [Jiwon Kim](https://openalex.org/A5100462888), [Jaehee Jang](https://openalex.org/A5109441107), [J. Yang](https://openalex.org/A5008435972), [Heeyoung Lee](https://openalex.org/A5100709327), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), [Shin Hyuk Kang](https://openalex.org/A5109995093), [Jonghoon Choi](https://openalex.org/A5012952224), Nano Convergence. 12(1)] 2025.https://doi.org/10.1186/s40580-025-00488-z.
     
 Abstract Infections involving antibiotic-resistant bacteria have become a major problem. Pathogenic bacteria use mechanisms such as drug target bypass, target modification, and biofilm formation to evade treatment. To respond to these problems, antibacterial research using metal and metal oxide nanoparticles is currently active. Nanoparticles treat bacterial infections through reactive oxygen species generation or antibacterial ion release. However, their application has faced problems related to human compatibility, as they react non-specifically, targeting both mammalian and bacterial cells. In addition, ZnO nanoparticles show low antibacterial activity against Gram-negative bacteria. Thus, the demand for antibacterial substances with enhanced specificity and improved efficacy is increasing. We bound gold to the surface of ZnO nanoparticles, enabling photocatalytic and photothermal actions through visible light irradiation. To improve bacterial specificity, Concanavalin A (Con A), a lectin that can specifically target bacterial membrane lipopolysaccharides, was conjugated with the nanoparticles. We showed that Con A-conjugated Au/ZnO nanoparticles (Au/ZnO-Con A) exhibit photocatalytic and photothermal effects under white light, enhancing their antibacterial ability, and through enhanced specificity, increased antibacterial and anti-biofilm abilities were confirmed. The developed particles showed the potential to alleviate antibiotic resistance in a bacterial skin infection model, presenting a new platform for treating bacterial infections. Graphical Abstract    
+
+    
+
+## Surrogate model optimization: a comparison case study with pooling problems of CO2 point sources   
+
+OpenAlex: https://openalex.org/W4410472923    
+Open access: False
+    
+[Héctor Pedrozo](https://openalex.org/A5079899169), [Miguel Zamarripa](https://openalex.org/A5015881602), [A. Uribe-Rodríguez](https://openalex.org/A5007868705), [Grigorios Panagakos](https://openalex.org/A5028498558), [M. Soledad Díaz](https://openalex.org/A5042182449), [Lorenz T. Biegler](https://openalex.org/A5052825722), Computers & Chemical Engineering. None(None)] 2025.https://doi.org/10.1016/j.compchemeng.2025.109199.
+    
+No abstract    
 
     
