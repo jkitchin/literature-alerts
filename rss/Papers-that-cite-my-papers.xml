@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 May 2025 01:42:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 01:42:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enhanced electrocatalytic hydrogen evolution with CoNiFe(Cr/V) based high entropy alloy electrodes</title>
-      <link>https://doi.org/10.1063/5.0271005</link>
-      <description>Tahir Nawaz, Shahbaz Ahmad, Wael Abuzaid, Faisal Mustafa, Waqas Ahmad, S. El-Khatib, Mohamad Jawad Kaddoura, Abdul Hai Alami, Hussain Alawadhi, M. Egilmez, APL Materials. 13(5)] 2025. https://openalex.org/W4410299084
-
-                In this study, the electrocatalytic properties of single-phase face-centered cubic high entropy alloy electrodes with equiatomic compositions of CoNiFeCr, CoNiFeV, and CoNiFe(Cr/V) are explored for the hydrogen evolution reaction (HER) in 1M KOH and 0.5M H2SO4. Among these, the CoNiFe(Cr/V) High Entropy Alloy (HEA) electrodes exhibited superior performance, achieving overpotentials of 277 and 45 mV (vs reference hydrogen electrode) at 10 mA/cm2 in alkaline and acidic media, respectively, surpassing their counterparts and approaching the efficiency of commercial Raney-Ni and Pt/C catalysts. Long-term stability tests, including steady state chronoamperometry and potentiodynamic cyclic voltammetry, revealed remarkable corrosion resistance in both environments. The catalytic activity was significantly enhanced by the inclusion of Cr and V. These oxyphilic elements, with their larger atomic radii, induce a heterogeneous surface charge distribution that enhances the electrocatalytic performance of the CoNiFe(Cr/V) HEA. This work highlights a promising candidate for HER applications and sets the stage for a broader exploration of high entropy alloys in advanced catalytic systems.</description>
-      <author>Tahir Nawaz, Shahbaz Ahmad, Wael Abuzaid, Faisal Mustafa, Waqas Ahmad, S. El-Khatib, Mohamad Jawad Kaddoura, Abdul Hai Alami, Hussain Alawadhi, M. Egilmez</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0271005</guid>
-    </item>
-    <item>
-      <title>Redox Oscillation Enhanced Water&#8208;Enabled Electric Generator</title>
-      <link>https://doi.org/10.1002/adma.202504865</link>
-      <description>Puying Li, Jinguo Lin, Feng Liu, Guobin Lai, Yajie Hu, Tianlei Guang, Haiyan Wang, Huhu Cheng, Liangti Qu, Advanced Materials. None(None)] 2025. https://openalex.org/W4410309850
-
-                Abstract The energy crisis driven by the widespread use of fossil fuels highlights the urgent need for green energy solutions. A variety of green electric generators based on interfacial ion regulation have emerged in recent years. However, conventional electricity generation methods that rely solely on ion movement at interfaces suffer from a rapid decline in electrical signals due to poor ion&#8208;electron conversion at the interface. Inspired by the bioelectrical phenomena based on the variations in membrane potential and the glucose oxidation/reduction reactions, a redox oscillation enhanced water&#8208;enabled electric generator is herein proposed. The oscillating redox process not only boosts the ion&#8208;electron conversion at the interface but also enables the synergy between the non&#8208;Faraday current and the Faraday current. As a result, the generator achieves an impressive peak electric output of 1.20 mA cm &#8722;2 and 0.41 W m &#8722;2 for 60 days, outperforming various water&#8208;enabled electric generators. Furthermore, this generator can be integrated into a flexible unit for both portable and large&#8208;scale applications. This work presents a novel approach for enhancing the output of green energy devices based on interfacial ion migration.</description>
-      <author>Puying Li, Jinguo Lin, Feng Liu, Guobin Lai, Yajie Hu, Tianlei Guang, Haiyan Wang, Huhu Cheng, Liangti Qu</author>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202504865</guid>
-    </item>
-    <item>
-      <title>Interfacial Electronic Interactions Induced by Self&#8208;Assembled Amorphous RuCo Bimetallenes/MXene Heterostructures for Nitrate Electroreduction to Ammonia</title>
-      <link>https://doi.org/10.1002/smll.202502635</link>
-      <description>Qi Zhang, Jing Zhou, Cheng&#8208;Wei Kao, Shanqiang Gao, Jilong Li, Ying&#8208;Rui Lu, Dingwang Yuan, Nithyadharseni Palaniyandy, Yongwen Tan, Small. None(None)] 2025. https://openalex.org/W4410310044
-
-                Abstract Electrocatalytic nitrate reduction to ammonia (NO 3 RR) is an attractive green route to generate valuable ammonia and remove nitrates in industrial processes. However, under the intense competition of hydrogen evolution reactions (HER), it is a key challenge to improve the selectivity and reduce the energy consumption of the nitrate reduction reaction. Herein, a unique amorphous RuCo Bimetallenes confined on Ti 3 C 2 T x &#8208;MXene (RuCo/Ti 3 C 2 T x ) is reported as a highly efficient NO 3 RR catalyst, showing a remarkable Faradaic efficiency for ammonia of 94.7% at &#8722;0.2 V versus reversible hydrogen electrode (RHE), with the corresponding high ammonia yield rate of 98.8 mg h &#8722;1 mg cat &#8722;1 at &#8722;0.6 V versus RHE. Significantly, the RuCo/Ti 3 C 2 T x heterostructures are able to operate stably at 1 A cm &#8722;2 for over 100 h under membrane electrode assembly (MEA) conditions with a stabilized NH 3 Faraday efficiency. In&#8208;depth theoretical and operando spectroscopic investigations unveil that the in situ generation of heterojunction via interfacial Ru/Co&#9472;O bridges can induce charge redistribution through Ru/Co&#9472;O&#8208;Ti structure and modulate the electronic structure of RuCo Bimetallenes, significantly promoting * H production and the adsorption and activation of reactants/intermediates, while suppressing HER, thereby boosting NO 3 RR performance. This study offers a new insight the metal&#8208;support interaction for the development of high&#8208;performance electrocatalysts.</description>
-      <author>Qi Zhang, Jing Zhou, Cheng&#8208;Wei Kao, Shanqiang Gao, Jilong Li, Ying&#8208;Rui Lu, Dingwang Yuan, Nithyadharseni Palaniyandy, Yongwen Tan</author>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202502635</guid>
-    </item>
-    <item>
-      <title>High-entropy CoNiFeCuP nanoparticles as efficient and durable catalysts for alkaline oxygen evolution reaction</title>
-      <link>https://doi.org/10.1039/d5ta01149c</link>
-      <description>Heesoo Jeong, Yoonsu Park, Yeongbin Lee, Wooseok Jeong, Hyeonseok Lee, Gyuhyeon Kim, Goohwan Kim, Hyungbin Son, Don&#8208;Hyung Ha, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4410310338
-
-                High-entropy CoNiFeCuP nanoparticles show outstanding alkaline OER performance (244 mV@10 mA cm &#8722;2 , 100 h), driven by multimetal synergy and strong metal&#8211;phosphorus interactions, which modulate electronic structures and enhance stability.</description>
-      <author>Heesoo Jeong, Yoonsu Park, Yeongbin Lee, Wooseok Jeong, Hyeonseok Lee, Gyuhyeon Kim, Goohwan Kim, Hyungbin Son, Don&#8208;Hyung Ha</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5ta01149c</guid>
-    </item>
-    <item>
-      <title>Molybdenum Carbides</title>
-      <link>https://doi.org/10.1007/978-3-031-90263-5_2</link>
-      <description>Igor L. Shabalin, No host. None(None)] 2025. https://openalex.org/W4410312530
-
-                No abstract</description>
-      <author>Igor L. Shabalin</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-90263-5_2</guid>
-    </item>
     <item>
       <title>Enhanced catalytic performance of CoN4 single atom catalysts by engineering the first coordination spheres</title>
       <link>https://doi.org/10.1016/j.electacta.2025.146463</link>
@@ -210,11 +160,11 @@
     <item>
       <title>Breaking efficiency Limits in solar water Splitting: Ferroelectric CuInP2Se6 with Ni Single-Atom cocatalysts for enhanced carrier separation and activity</title>
       <link>https://doi.org/10.1016/j.jcis.2025.137886</link>
-      <description>Anyang Wang, Xiting Wang, Xuhao Wan, Jun Jia, Zeyuan Li, Wei Yu, Jinhao Su, Zhaofu Zhang, Yuzheng Guo, Jun Wang, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4410351434
+      <description>Anyang Wang, Xiting Wang, Xuhao Wan, Jun Jia, Zeyuan Li, Wei Yu, Jinhao Su, Zhaofu Zhang, Yuzheng Guo, Jun Wang, Journal of Colloid and Interface Science. 696(None)] 2025. https://openalex.org/W4410351434
 
                 No abstract</description>
       <author>Anyang Wang, Xiting Wang, Xuhao Wan, Jun Jia, Zeyuan Li, Wei Yu, Jinhao Su, Zhaofu Zhang, Yuzheng Guo, Jun Wang</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137886</guid>
     </item>
     <item>
@@ -566,6 +516,46 @@
       <author>Bichen Yuan, Qian Dang, Hai Liu, Marshet Getaye Sendeku, Jian Peng, Yameng Fan, Liang Cai, Aiqing Cao, Shiyao Chen, Hui Li, Yun Kuang, Fengmei Wang, Xiaoming Sun</author>
       <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-59710-5</guid>
+    </item>
+    <item>
+      <title>Highly stable and porous triple perovskite oxide as a bifunctional electrocatalyst for rechargeable Zn-air batteries</title>
+      <link>https://doi.org/10.1016/j.cej.2025.163928</link>
+      <description>Yousuf Ali, Swarit Dwivedi, Masood S. Alivand, A. Sanjid, Akshat Tanksale, Parama Chakraborty Banerjee, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4410475868
+
+                No abstract</description>
+      <author>Yousuf Ali, Swarit Dwivedi, Masood S. Alivand, A. Sanjid, Akshat Tanksale, Parama Chakraborty Banerjee</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.163928</guid>
+    </item>
+    <item>
+      <title>Growth of atmospheric freshly nucleated particles: a semi-empirical molecular dynamics study</title>
+      <link>https://doi.org/10.5194/ar-3-237-2025</link>
+      <description>Yosef Knattrup, Ivo Neefjes, Jakub Kube&#269;ka, Jonas Elm, Aerosol Research. 3(1)] 2025. https://openalex.org/W4410477656
+
+                Abstract. When simulating new particle formation rates, collisions in the system are approximated as hard spheres without long-range interactions. This simplification may lead to an underestimation of the actual formation rate. In this study, we employ semi-empirical molecular dynamics (SEMD) at the GFN1-xTB level of theory to probe the sticking process of the monomers sulfuric acid (SA), methanesulfonic acid (MSA), nitric acid (NA), formic acid (FA), ammonia (AM), methylamine (MA), dimethylamine (DMA), and trimethylamine (TMA) onto freshly nucleated particles (FNPs). The FNPs considered are (SA)10(AM)10, (SA)10(MA)10, (SA)10(DMA)10, and (SA)10(TMA)10. In general, we find that the hard-sphere kinetic approximation, which neglects long-range interactions, significantly underestimates the number of collisions leading to sticking. By calculating the sticking coefficient from SEMD simulations, we obtain enhancement factors of 2.3 and 1.5 for the SA + (SA)10(AM)10 and AM + (SA)10(AM)10 collisions, respectively. A comparison with OPLS (optimized potentials for liquid simulations) all-atom force field simulations shows similar enhancement factors of 2.4 and 1.6 for the SA + (SA)10(AM)10 and AM + (SA)10(AM)10 collisions, respectively. Compared to the force field simulations, SEMD exhibits a more isotropic sticking behavior, with the probability remaining near unity for small offsets before rapidly dropping to 0 % beyond a certain offset. In contrast, the force field simulations show a more gradual decline in sticking probability due to certain orientations still leading to sticking. The largest discrepancy between the two methods occurs at lower collision velocities &#8211; below 200 m s&#8722;1 for SA and below 400 m s&#8722;1 for AM &#8211; where force field simulations, even for head-on collisions, predict low or zero sticking probability. This has previously been attributed to periodic repulsions between the rotating collision partners caused by fluctuations in their charge distributions. In contrast, SEMD simulations do not exhibit this behavior. Since these low velocities are not significantly populated in our simulations, both methods yield similar enhancement factors. However, for systems with larger effective masses, where such velocities are more prevalent, we would expect the two methods to diverge.</description>
+      <author>Yosef Knattrup, Ivo Neefjes, Jakub Kube&#269;ka, Jonas Elm</author>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/ar-3-237-2025</guid>
+    </item>
+    <item>
+      <title>Another look at the often ignored role of oxygen functional groups in the oxygen reduction reaction: The promoting effect of carbonyls</title>
+      <link>https://doi.org/10.1016/j.carbon.2025.120449</link>
+      <description>Rui S. Ribeiro, Krzysztof Biernacki, Marc Florent, Alexandre L. Magalh&#227;es, Teresa J. Bandosz, M.F.R. Pereira, Carbon. None(None)] 2025. https://openalex.org/W4410478367
+
+                No abstract</description>
+      <author>Rui S. Ribeiro, Krzysztof Biernacki, Marc Florent, Alexandre L. Magalh&#227;es, Teresa J. Bandosz, M.F.R. Pereira</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2025.120449</guid>
+    </item>
+    <item>
+      <title>A MoO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;-incorporated RuAu composite electrocatalyst for the hydrogen evolution reaction in proton exchange membrane water electrolysis</title>
+      <link>https://doi.org/10.1039/d5ta01235j</link>
+      <description>Jae&#8208;Won Lee, Jinho Oh, Junhyeong Kim, Hee&#8208;Young Park, Sung Jong Yoo, Hyung&#8208;Kyu Lim, Jong Hyun Jang, Hyun S. Park, Sung Ki Cho, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4410479498
+
+                The electrocatalytic activity of RuAu for the hydrogen evolution reaction is improved by the formation of a composite with MoO x through electrodeposition.</description>
+      <author>Jae&#8208;Won Lee, Jinho Oh, Junhyeong Kim, Hee&#8208;Young Park, Sung Jong Yoo, Hyung&#8208;Kyu Lim, Jong Hyun Jang, Hyun S. Park, Sung Ki Cho</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ta01235j</guid>
     </item>
     <item>
       <title>Fabrication of self-supporting hierarchical porous metallic glass for pH-universal hydrogen evolution reaction</title>
