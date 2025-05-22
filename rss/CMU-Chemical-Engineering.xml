@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 May 2025 01:41:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 01:41:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>In vitro monitoring of Babesia microti infection dynamics in whole blood microenvironments</title>
-      <link>https://doi.org/10.1101/2025.05.07.652765</link>
-      <description>Chao Li, Emily G. Bache, Amy L. Apgar, Danielle M. Tufts, Tagbo H. R. Niepa, No host. None(None)] 2025. https://openalex.org/W4410335725
-
-                Babesiosis &#8212; a globally emerging tick-borne infectious disease primarily caused by the intraerythrocytic piroplasm parasite, Babesia microti &#8212; has traditionally been studied using animal models such as mice. Compared to animal models, microfluidic-based models offer advantages, including direct analysis of human samples (such as patient blood), enhanced assay capacity (including physical/optical access, consistency, and throughput), low costs, and easy adoption. Here, we report an open microfluidic platform named &#956;&#8211;Blood for monitoring B. microti infection dynamics in vitro. Compared to other microfluidic-based models, &#956;&#8211;Blood allows direct examination of infected and uninfected whole blood without preprocessing steps like blood dilution or cell isolation, minimizing observer artifacts and preserving the natural whole blood microenvironment. The system enables extended (days-long) monitoring of infection dynamics, including parasite identification, parasitemia measurement, and parasite-host cell interactions, using label-free phase contrast and fluorescence confocal microscopy. With its open microfluidic configuration, &#956;-Blood provides an in vitro model for studying blood-borne infections while maintaining integrity of the whole blood microenvironment.</description>
-      <author>Chao Li, Emily G. Bache, Amy L. Apgar, Danielle M. Tufts, Tagbo H. R. Niepa</author>
-      <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1101/2025.05.07.652765</guid>
-    </item>
-    <item>
-      <title>Design and optimization of circular economy networks&#8212;A case study of PET</title>
-      <link>https://doi.org/10.1016/j.compchemeng.2025.109164</link>
-      <description>Abdulhakeem Ahmed, Anoop N. Nair, Ana I. Torres, Computers &amp; Chemical Engineering. None(None)] 2025. https://openalex.org/W4410348848
-
-                No abstract</description>
-      <author>Abdulhakeem Ahmed, Anoop N. Nair, Ana I. Torres</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2025.109164</guid>
-    </item>
     <item>
       <title>Photocatalytic effect of gold-zinc oxide composite nanostructures for the selective and controlled killing of antibiotic-resistant bacteria and the removal of resistant bacterial biofilms from the body</title>
       <link>https://doi.org/10.1186/s40580-025-00488-z</link>
@@ -66,6 +46,16 @@
       <author>Coty N. Jen, James F. Davies</author>
       <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1080/02786826.2025.2468594</guid>
+    </item>
+    <item>
+      <title>Synthetic Strategy for mRNA Encapsulation and Gene Delivery with Nanoscale Metal&#8208;Organic Frameworks</title>
+      <link>https://doi.org/10.1002/adfm.202504465</link>
+      <description>Harrison Lawson, Nguy&#7877;n Huy Ho&#224;ng, Keng&#8208;Jung Lee, Nattarat Wongsuwan, Ayesha Tupe, Mengrou Lu, Mariah L. Arral, Anne Behre, Zihan Ling, Kathryn A. Whitehead, Adam W. Feinberg, Xi Ren, Siyang Zheng, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4410507430
+
+                Abstract Metal&#8208;organic frameworks (MOFs) have evolved from uses in catalysis and gas storage to exciting applications in biomedicine, particularly in drug delivery. Initially, MOFs are primarily used to deliver small molecules, recent innovations have shifted focus toward more complex nucleic acids like DNA, short guide RNA (sgRNA), and short interfering RNA (siRNA). Remarkably, no studies to date have demonstrated the encapsulation and delivery of messenger RNA (mRNA) via MOFs in vitro and in vivo. This study addresses that gap by identifying synthetic conditions to encapsulate and deliver mRNA using zeolitic imidazole framework&#8208;8 (ZIF&#8208;8). Early attempts show mRNA loading in ZIF&#8208;8 but loss of mRNA in biological media. To overcome this challenge, polyethyleneimine (PEI) is incorporated into the formulation, forming a robust polymer complex core&#8208;MOF shell particle. This system stabilizes mRNA complexes and delays their release, resulting in effective protein expression in multiple cell lines and mice, performing on par with commercial lipid&#8208;based systems. Here, the first investigation into thermally stable mRNA storage using ZIF&#8208;8 demonstrates successful protein expression after three months of room&#8208;temperature storage in vitro and one month in vivo. These findings broaden the scope of MOF&#8208;based therapeutic delivery and open new avenues for long&#8208;term mRNA storage and transport.</description>
+      <author>Harrison Lawson, Nguy&#7877;n Huy Ho&#224;ng, Keng&#8208;Jung Lee, Nattarat Wongsuwan, Ayesha Tupe, Mengrou Lu, Mariah L. Arral, Anne Behre, Zihan Ling, Kathryn A. Whitehead, Adam W. Feinberg, Xi Ren, Siyang Zheng</author>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202504465</guid>
     </item>
   </channel>
 </rss>

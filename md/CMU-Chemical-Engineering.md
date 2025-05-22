@@ -1,32 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed May 21 01:41:53 2025
+Created on Thu May 22 01:41:07 2025
 
-Found 6 results from 2025-05-14 to 2025-05-21
+Found 5 results from 2025-05-15 to 2025-05-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## In vitro monitoring of Babesia microti infection dynamics in whole blood microenvironments   
-
-OpenAlex: https://openalex.org/W4410335725    
-Open access: False
-    
-[Chao Li](https://openalex.org/A5004641821), [Emily G. Bache](https://openalex.org/A5117533304), [Amy L. Apgar](https://openalex.org/A5117533305), [Danielle M. Tufts](https://openalex.org/A5089697602), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), No host. None(None)] 2025.https://doi.org/10.1101/2025.05.07.652765.
-    
-Babesiosis — a globally emerging tick-borne infectious disease primarily caused by the intraerythrocytic piroplasm parasite, Babesia microti — has traditionally been studied using animal models such as mice. Compared to animal models, microfluidic-based models offer advantages, including direct analysis of human samples (such as patient blood), enhanced assay capacity (including physical/optical access, consistency, and throughput), low costs, and easy adoption. Here, we report an open microfluidic platform named μ–Blood for monitoring B. microti infection dynamics in vitro. Compared to other microfluidic-based models, μ–Blood allows direct examination of infected and uninfected whole blood without preprocessing steps like blood dilution or cell isolation, minimizing observer artifacts and preserving the natural whole blood microenvironment. The system enables extended (days-long) monitoring of infection dynamics, including parasite identification, parasitemia measurement, and parasite-host cell interactions, using label-free phase contrast and fluorescence confocal microscopy. With its open microfluidic configuration, μ-Blood provides an in vitro model for studying blood-borne infections while maintaining integrity of the whole blood microenvironment.    
-
-    
-
-## Design and optimization of circular economy networks—A case study of PET   
-
-OpenAlex: https://openalex.org/W4410348848    
-Open access: True
-    
-[Abdulhakeem Ahmed](https://openalex.org/A5111285949), [Anoop N. Nair](https://openalex.org/A5087391017), [Ana I. Torres](https://openalex.org/A5027983186), Computers & Chemical Engineering. None(None)] 2025.https://doi.org/10.1016/j.compchemeng.2025.109164.
-    
-No abstract    
-
-    
 
 ## Photocatalytic effect of gold-zinc oxide composite nanostructures for the selective and controlled killing of antibiotic-resistant bacteria and the removal of resistant bacterial biofilms from the body   
 
@@ -69,5 +47,16 @@ Open access: False
 [Coty N. Jen](https://openalex.org/A5055700187), [James F. Davies](https://openalex.org/A5067019268), Aerosol Science and Technology. 59(7)] 2025.https://doi.org/10.1080/02786826.2025.2468594.
     
 No abstract    
+
+    
+
+## Synthetic Strategy for mRNA Encapsulation and Gene Delivery with Nanoscale Metal‐Organic Frameworks   
+
+OpenAlex: https://openalex.org/W4410507430    
+Open access: True
+    
+[Harrison Lawson](https://openalex.org/A5012514972), [Nguyễn Huy Hoàng](https://openalex.org/A5100729447), [Keng‐Jung Lee](https://openalex.org/A5026347472), [Nattarat Wongsuwan](https://openalex.org/A5050359036), [Ayesha Tupe](https://openalex.org/A5095379199), [Mengrou Lu](https://openalex.org/A5110813392), [Mariah L. Arral](https://openalex.org/A5049474410), [Anne Behre](https://openalex.org/A5085559862), [Zihan Ling](https://openalex.org/A5051529193), [Kathryn A. Whitehead](https://openalex.org/A5010666650), [Adam W. Feinberg](https://openalex.org/A5086659893), [Xi Ren](https://openalex.org/A5101438045), [Siyang Zheng](https://openalex.org/A5086903169), Advanced Functional Materials. None(None)] 2025.https://doi.org/10.1002/adfm.202504465.
+    
+Abstract Metal‐organic frameworks (MOFs) have evolved from uses in catalysis and gas storage to exciting applications in biomedicine, particularly in drug delivery. Initially, MOFs are primarily used to deliver small molecules, recent innovations have shifted focus toward more complex nucleic acids like DNA, short guide RNA (sgRNA), and short interfering RNA (siRNA). Remarkably, no studies to date have demonstrated the encapsulation and delivery of messenger RNA (mRNA) via MOFs in vitro and in vivo. This study addresses that gap by identifying synthetic conditions to encapsulate and deliver mRNA using zeolitic imidazole framework‐8 (ZIF‐8). Early attempts show mRNA loading in ZIF‐8 but loss of mRNA in biological media. To overcome this challenge, polyethyleneimine (PEI) is incorporated into the formulation, forming a robust polymer complex core‐MOF shell particle. This system stabilizes mRNA complexes and delays their release, resulting in effective protein expression in multiple cell lines and mice, performing on par with commercial lipid‐based systems. Here, the first investigation into thermally stable mRNA storage using ZIF‐8 demonstrates successful protein expression after three months of room‐temperature storage in vitro and one month in vivo. These findings broaden the scope of MOF‐based therapeutic delivery and open new avenues for long‐term mRNA storage and transport.    
 
     
