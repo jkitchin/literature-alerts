@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu May 22 01:41:07 2025
+Created on Fri May 23 01:41:16 2025
 
-Found 5 results from 2025-05-15 to 2025-05-22
+Found 5 results from 2025-05-16 to 2025-05-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Photocatalytic effect of gold-zinc oxide composite nanostructures for the selective and controlled killing of antibiotic-resistant bacteria and the removal of resistant bacterial biofilms from the body   
-
-OpenAlex: https://openalex.org/W4410358349    
-Open access: True
-    
-[Jongjun Park](https://openalex.org/A5089195105), [Tae Hui Bae](https://openalex.org/A5008417301), [S. Y. Kim](https://openalex.org/A5101716327), [Seong-Eun Park](https://openalex.org/A5109162928), [Yonghyun Choi](https://openalex.org/A5113936606), [Masayoshi Tanaka](https://openalex.org/A5018575134), [Jiwon Kim](https://openalex.org/A5100462888), [Jaehee Jang](https://openalex.org/A5109441107), [J. Yang](https://openalex.org/A5008435972), [Heeyoung Lee](https://openalex.org/A5100709327), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), [Shin Hyuk Kang](https://openalex.org/A5109995093), [Jonghoon Choi](https://openalex.org/A5012952224), Nano Convergence. 12(1)] 2025.https://doi.org/10.1186/s40580-025-00488-z.
-    
-Abstract Infections involving antibiotic-resistant bacteria have become a major problem. Pathogenic bacteria use mechanisms such as drug target bypass, target modification, and biofilm formation to evade treatment. To respond to these problems, antibacterial research using metal and metal oxide nanoparticles is currently active. Nanoparticles treat bacterial infections through reactive oxygen species generation or antibacterial ion release. However, their application has faced problems related to human compatibility, as they react non-specifically, targeting both mammalian and bacterial cells. In addition, ZnO nanoparticles show low antibacterial activity against Gram-negative bacteria. Thus, the demand for antibacterial substances with enhanced specificity and improved efficacy is increasing. We bound gold to the surface of ZnO nanoparticles, enabling photocatalytic and photothermal actions through visible light irradiation. To improve bacterial specificity, Concanavalin A (Con A), a lectin that can specifically target bacterial membrane lipopolysaccharides, was conjugated with the nanoparticles. We showed that Con A-conjugated Au/ZnO nanoparticles (Au/ZnO-Con A) exhibit photocatalytic and photothermal effects under white light, enhancing their antibacterial ability, and through enhanced specificity, increased antibacterial and anti-biofilm abilities were confirmed. The developed particles showed the potential to alleviate antibiotic resistance in a bacterial skin infection model, presenting a new platform for treating bacterial infections. Graphical Abstract    
-
-    
 
 ## Surrogate model optimization: a comparison case study with pooling problems of CO2 point sources   
 
@@ -58,5 +47,16 @@ Open access: True
 [Harrison Lawson](https://openalex.org/A5012514972), [Nguyễn Huy Hoàng](https://openalex.org/A5100729447), [Keng‐Jung Lee](https://openalex.org/A5026347472), [Nattarat Wongsuwan](https://openalex.org/A5050359036), [Ayesha Tupe](https://openalex.org/A5095379199), [Mengrou Lu](https://openalex.org/A5110813392), [Mariah L. Arral](https://openalex.org/A5049474410), [Anne Behre](https://openalex.org/A5085559862), [Zihan Ling](https://openalex.org/A5051529193), [Kathryn A. Whitehead](https://openalex.org/A5010666650), [Adam W. Feinberg](https://openalex.org/A5086659893), [Xi Ren](https://openalex.org/A5101438045), [Siyang Zheng](https://openalex.org/A5086903169), Advanced Functional Materials. None(None)] 2025.https://doi.org/10.1002/adfm.202504465.
     
 Abstract Metal‐organic frameworks (MOFs) have evolved from uses in catalysis and gas storage to exciting applications in biomedicine, particularly in drug delivery. Initially, MOFs are primarily used to deliver small molecules, recent innovations have shifted focus toward more complex nucleic acids like DNA, short guide RNA (sgRNA), and short interfering RNA (siRNA). Remarkably, no studies to date have demonstrated the encapsulation and delivery of messenger RNA (mRNA) via MOFs in vitro and in vivo. This study addresses that gap by identifying synthetic conditions to encapsulate and deliver mRNA using zeolitic imidazole framework‐8 (ZIF‐8). Early attempts show mRNA loading in ZIF‐8 but loss of mRNA in biological media. To overcome this challenge, polyethyleneimine (PEI) is incorporated into the formulation, forming a robust polymer complex core‐MOF shell particle. This system stabilizes mRNA complexes and delays their release, resulting in effective protein expression in multiple cell lines and mice, performing on par with commercial lipid‐based systems. Here, the first investigation into thermally stable mRNA storage using ZIF‐8 demonstrates successful protein expression after three months of room‐temperature storage in vitro and one month in vivo. These findings broaden the scope of MOF‐based therapeutic delivery and open new avenues for long‐term mRNA storage and transport.    
+
+    
+
+## A Framework for Dynamic Modeling of Circular Economy Networks: The Polyethylene Terephthalate (PET) Packaging Supply Chain as a Case Study   
+
+OpenAlex: https://openalex.org/W4410550070    
+Open access: True
+    
+[Daniel Pert](https://openalex.org/A5030326616), [Ana I. Torres](https://openalex.org/A5027983186), Industrial & Engineering Chemistry Research. None(None)] 2025.https://doi.org/10.1021/acs.iecr.5c00273.
+    
+No abstract    
 
     
