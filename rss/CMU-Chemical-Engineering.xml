@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 May 2025 01:37:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 01:48:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -56,6 +56,26 @@
       <author>Daniel Pert, Ana I. Torres</author>
       <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.5c00273</guid>
+    </item>
+    <item>
+      <title>Double-layer structure and interfacial tension at an ionic surfactant-laden interface</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.137924</link>
+      <description>Emerson M. Uhlig, Aditya S. Khair, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4410616356
+
+                No abstract</description>
+      <author>Emerson M. Uhlig, Aditya S. Khair</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137924</guid>
+    </item>
+    <item>
+      <title>Advancing molecular machine learning representations with stereoelectronics-infused molecular graphs</title>
+      <link>https://doi.org/10.1038/s42256-025-01031-9</link>
+      <description>Daniil A. Boiko, Thiago Resch&#252;tzegger, Benjam&#237;n S&#225;nchez-Lengeling, Samuel M. Blau, Gabriel dos Passos Gomes, Nature Machine Intelligence. None(None)] 2025. https://openalex.org/W4410629037
+
+                No abstract</description>
+      <author>Daniil A. Boiko, Thiago Resch&#252;tzegger, Benjam&#237;n S&#225;nchez-Lengeling, Samuel M. Blau, Gabriel dos Passos Gomes</author>
+      <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s42256-025-01031-9</guid>
     </item>
   </channel>
 </rss>
