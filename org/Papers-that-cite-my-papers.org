@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Sun May 25 01:48:59 2025
+Created on Mon May 26 01:44:30 2025
 
-Found 56 results from 2025-05-18 to 2025-05-25
+Found 52 results from 2025-05-19 to 2025-05-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544]]
@@ -16,90 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* Two different metalloporphyrin composites as promising orr catalysts  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4410459434
-:TOPICS: Electrocatalysts for Energy Conversion, Porphyrin and Phthalocyanine Chemistry, Oxidative Organic Chemistry Reactions
-:PUBLICATION_DATE: 2025-05-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.inoche.2025.114702")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4410459434"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4410459434"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4410459434"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4410459434 (Open access: False)
-    
-[[https://openalex.org/A5018166861][Sergey M. Kuzmin]], [[https://openalex.org/A5058186237][Svetlana A. Chulovskaya]], [[https://openalex.org/A5067508936][Yuliya A. Filimonova]], [[https://openalex.org/A5026671786][V. I. Parfenyuk]], Inorganic Chemistry Communications. None(None)] 2025. https://doi.org/10.1016/j.inoche.2025.114702 
-     
-No abstract    
-
-    
-
-* A theoretical investigation of Ta3N5/BaTaO2N heterostructure for solar water splitting  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4410461407
-:TOPICS: Advanced Photocatalysis Techniques, MXene and MAX Phase Materials, Electronic and Structural Properties of Oxides
-:PUBLICATION_DATE: 2025-05-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jphotochem.2025.116511")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4410461407"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4410461407"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4410461407"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4410461407 (Open access: False)
-    
-[[https://openalex.org/A5008124677][Huan Zhang]], [[https://openalex.org/A5100735453][Yue Liu]], [[https://openalex.org/A5001744159][Xin Zhou]], Journal of Photochemistry and Photobiology A Chemistry. None(None)] 2025. https://doi.org/10.1016/j.jphotochem.2025.116511 
-     
-No abstract    
-
-    
-
-* Ultrahigh Pyrrolic Nitrogen Triggers High-Activity Sites in Carbon Catalysts for Selective Oxygen Reduction to Efficient H2O2 Production  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4410461573
-:TOPICS: Electrocatalysts for Energy Conversion, Catalytic Processes in Materials Science, Fuel Cells and Related Materials
-:PUBLICATION_DATE: 2025-05-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.carbon.2025.120450")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4410461573"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4410461573"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4410461573"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4410461573 (Open access: False)
-    
-[[https://openalex.org/A5103097031][Yanan Shi]], [[https://openalex.org/A5106481340][Menggai Jiao]], [[https://openalex.org/A5100700779][Chongyang Wang]], [[https://openalex.org/A5100692782][Lili Zhang]], [[https://openalex.org/A5084697857][Shaohui Sun]], Carbon. None(None)] 2025. https://doi.org/10.1016/j.carbon.2025.120450 
-     
-No abstract    
-
-    
-
-* Synergistic niobium and manganese co-doping into RuO2 nanocrystal enables PEM water splitting under high current  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4410462343
-:TOPICS: Electrocatalysts for Energy Conversion, Advanced Memory and Neural Computing, Semiconductor materials and devices
-:PUBLICATION_DATE: 2025-05-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-025-59710-5")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4410462343"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4410462343"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4410462343"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4410462343 (Open access: True)
-    
-[[https://openalex.org/A5113216952][Bichen Yuan]], [[https://openalex.org/A5104101741][Qian Dang]], [[https://openalex.org/A5100368942][Hai Liu]], [[https://openalex.org/A5089137593][Marshet Getaye Sendeku]], [[https://openalex.org/A5055868618][Jian Peng]], [[https://openalex.org/A5102007881][Yameng Fan]], [[https://openalex.org/A5080322920][Liang Cai]], [[https://openalex.org/A5102528812][Aiqing Cao]], [[https://openalex.org/A5114406831][Shiyao Chen]], [[https://openalex.org/A5100423864][Hui Li]], [[https://openalex.org/A5042347465][Yun Kuang]], [[https://openalex.org/A5100672623][Fengmei Wang]], [[https://openalex.org/A5100382892][Xiaoming Sun]], Nature Communications. 16(1)] 2025. https://doi.org/10.1038/s41467-025-59710-5 
-     
-Low-cost ruthenium-based catalysts with high activity have emerged as promising alternatives to iridium-based counterparts for acidic oxygen evolution reaction (OER) in proton exchange membrane water electrolyzers (PEMWE), but the poor stability under high current density remains as a key challenge. Here, we utilize the synergistic complementary strategy of introducing earth-abundant Mn and Nb dopants in ruthenium dioxide (RuO2) for Nb0.1Mn0.1Ru0.8O2 nanoparticle electrocatalyst that exhibits a low overpotential of 209 mV at 10 mA cm-2 and good stability of > 400 h at 0.2 A cm-2 in 0.5 M H2SO4. Significantly, a PEMWE device fabricated with Nb0.1Mn0.1Ru0.8O2 anode can operate continuously at least for 1000 h at 0.5 A cm-2 with 59 μV h-1 decay rate. Operando Raman spectroscopy analysis, differential electrochemical mass spectroscopy measurements, X-ray absorption spectroscopy analysis and theoretical calculations indicate that OER reaction on Nb0.1Mn0.1Ru0.8O2 primarily follows the adsorbate evolution mechanism with much favorable energy barrier accompanied by a locally passivated lattice oxygen mechanism (AEM-LPLOM) and the co-existed Nb and Mn in RuO2 crystal lattice could not only stabilize the lattice oxygen, but also relieve the valence state fluctuation of Ru site to stabilize the catalyst during the reaction.    
-
-    
 
 * Highly stable and porous triple perovskite oxide as a bifunctional electrocatalyst for rechargeable Zn-air batteries  :Papers_that_cite_my_papers:
 :PROPERTIES:

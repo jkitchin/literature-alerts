@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 May 2025 01:48:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 01:44:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Two different metalloporphyrin composites as promising orr catalysts</title>
-      <link>https://doi.org/10.1016/j.inoche.2025.114702</link>
-      <description>Sergey M. Kuzmin, Svetlana A. Chulovskaya, Yuliya A. Filimonova, V. I. Parfenyuk, Inorganic Chemistry Communications. None(None)] 2025. https://openalex.org/W4410459434
-
-                No abstract</description>
-      <author>Sergey M. Kuzmin, Svetlana A. Chulovskaya, Yuliya A. Filimonova, V. I. Parfenyuk</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.inoche.2025.114702</guid>
-    </item>
-    <item>
-      <title>A theoretical investigation of Ta3N5/BaTaO2N heterostructure for solar water splitting</title>
-      <link>https://doi.org/10.1016/j.jphotochem.2025.116511</link>
-      <description>Huan Zhang, Yue Liu, Xin Zhou, Journal of Photochemistry and Photobiology A Chemistry. None(None)] 2025. https://openalex.org/W4410461407
-
-                No abstract</description>
-      <author>Huan Zhang, Yue Liu, Xin Zhou</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jphotochem.2025.116511</guid>
-    </item>
-    <item>
-      <title>Ultrahigh Pyrrolic Nitrogen Triggers High-Activity Sites in Carbon Catalysts for Selective Oxygen Reduction to Efficient H2O2 Production</title>
-      <link>https://doi.org/10.1016/j.carbon.2025.120450</link>
-      <description>Yanan Shi, Menggai Jiao, Chongyang Wang, Lili Zhang, Shaohui Sun, Carbon. None(None)] 2025. https://openalex.org/W4410461573
-
-                No abstract</description>
-      <author>Yanan Shi, Menggai Jiao, Chongyang Wang, Lili Zhang, Shaohui Sun</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2025.120450</guid>
-    </item>
-    <item>
-      <title>Synergistic niobium and manganese co-doping into RuO2 nanocrystal enables PEM water splitting under high current</title>
-      <link>https://doi.org/10.1038/s41467-025-59710-5</link>
-      <description>Bichen Yuan, Qian Dang, Hai Liu, Marshet Getaye Sendeku, Jian Peng, Yameng Fan, Liang Cai, Aiqing Cao, Shiyao Chen, Hui Li, Yun Kuang, Fengmei Wang, Xiaoming Sun, Nature Communications. 16(1)] 2025. https://openalex.org/W4410462343
-
-                Low-cost ruthenium-based catalysts with high activity have emerged as promising alternatives to iridium-based counterparts for acidic oxygen evolution reaction (OER) in proton exchange membrane water electrolyzers (PEMWE), but the poor stability under high current density remains as a key challenge. Here, we utilize the synergistic complementary strategy of introducing earth-abundant Mn and Nb dopants in ruthenium dioxide (RuO2) for Nb0.1Mn0.1Ru0.8O2 nanoparticle electrocatalyst that exhibits a low overpotential of 209 mV at 10 mA cm-2 and good stability of &gt; 400 h at 0.2 A cm-2 in 0.5 M H2SO4. Significantly, a PEMWE device fabricated with Nb0.1Mn0.1Ru0.8O2 anode can operate continuously at least for 1000 h at 0.5 A cm-2 with 59 &#956;V h-1 decay rate. Operando Raman spectroscopy analysis, differential electrochemical mass spectroscopy measurements, X-ray absorption spectroscopy analysis and theoretical calculations indicate that OER reaction on Nb0.1Mn0.1Ru0.8O2 primarily follows the adsorbate evolution mechanism with much favorable energy barrier accompanied by a locally passivated lattice oxygen mechanism (AEM-LPLOM) and the co-existed Nb and Mn in RuO2 crystal lattice could not only stabilize the lattice oxygen, but also relieve the valence state fluctuation of Ru site to stabilize the catalyst during the reaction.</description>
-      <author>Bichen Yuan, Qian Dang, Hai Liu, Marshet Getaye Sendeku, Jian Peng, Yameng Fan, Liang Cai, Aiqing Cao, Shiyao Chen, Hui Li, Yun Kuang, Fengmei Wang, Xiaoming Sun</author>
-      <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-59710-5</guid>
-    </item>
     <item>
       <title>Highly stable and porous triple perovskite oxide as a bifunctional electrocatalyst for rechargeable Zn-air batteries</title>
       <link>https://doi.org/10.1016/j.cej.2025.163928</link>

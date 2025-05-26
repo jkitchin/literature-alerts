@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun May 25 01:48:49 2025
+Created on Mon May 26 01:44:23 2025
 
-Found 7 results from 2025-05-18 to 2025-05-25
+Found 6 results from 2025-05-19 to 2025-05-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Surrogate model optimization: a comparison case study with pooling problems of CO2 point sources   
-
-OpenAlex: https://openalex.org/W4410472923    
-Open access: False
-    
-[Héctor Pedrozo](https://openalex.org/A5079899169), [Miguel Zamarripa](https://openalex.org/A5015881602), [A. Uribe-Rodríguez](https://openalex.org/A5007868705), [Grigorios Panagakos](https://openalex.org/A5028498558), [M. Soledad Díaz](https://openalex.org/A5042182449), [Lorenz T. Biegler](https://openalex.org/A5052825722), Computers & Chemical Engineering. None(None)] 2025.https://doi.org/10.1016/j.compchemeng.2025.109199.
-    
-No abstract    
-
-    
 
 ## Magnetically Responsive Nanocultures for Direct Microbial Assessment in Soil Environments   
 
