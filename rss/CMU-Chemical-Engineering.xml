@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 26 May 2025 01:44:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 01:40:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Magnetically Responsive Nanocultures for Direct Microbial Assessment in Soil Environments</title>
-      <link>https://doi.org/10.1101/2025.05.17.654660</link>
-      <description>Huda Usman, Mehdi Molaei, Stephen D. House, Martin F. Haase, Cindi L. Dennis, Tagbo H. R. Niepa, No host. None(None)] 2025. https://openalex.org/W4410477537
-
-                Cultivating microorganisms in native-like conditions is vital for bioprospecting and accessing currently unculturable species. However, there remains a gap in scalable tools that can both mimic native microenvironments and enable targeted recovery of microbes from complex settings. Such approaches are essential to advance our understanding of microbial ecology, predict community functions, and discover novel biotherapeutics. We present magnetic nanocultures, a high-throughput microsystem for isolating and growing environmental microbes under near-native conditions. These nanoliter-scale bioreactors are encapsulated in semi-permeable membranes that form magnetic polymeric microcapsules using iron oxide nanoparticles within polydimethylsiloxane-based shells. This design offers mechanical stability and magnetic actuation, enabling efficient retrieval from soil-like environments. The nanocultures are optimized for optical and biological properties to support microbial encapsulation, growth, and sorting. Our study demonstrates the feasibility of using magnetically responsive microenvironments to cultivate elusive microbes, offering a promising platform for discovering previously uncultured or unknown microbial species.</description>
-      <author>Huda Usman, Mehdi Molaei, Stephen D. House, Martin F. Haase, Cindi L. Dennis, Tagbo H. R. Niepa</author>
-      <pubDate>Sun, 18 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1101/2025.05.17.654660</guid>
-    </item>
-    <item>
-      <title>Advancing aerosol science through early career research</title>
-      <link>https://doi.org/10.1080/02786826.2025.2468594</link>
-      <description>Coty N. Jen, James F. Davies, Aerosol Science and Technology. 59(7)] 2025. https://openalex.org/W4410485568
-
-                No abstract</description>
-      <author>Coty N. Jen, James F. Davies</author>
-      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/02786826.2025.2468594</guid>
-    </item>
     <item>
       <title>Synthetic Strategy for mRNA Encapsulation and Gene Delivery with Nanoscale Metal&#8208;Organic Frameworks</title>
       <link>https://doi.org/10.1002/adfm.202504465</link>
