@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 May 2025 01:40:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 01:42:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Synthetic Strategy for mRNA Encapsulation and Gene Delivery with Nanoscale Metal&#8208;Organic Frameworks</title>
-      <link>https://doi.org/10.1002/adfm.202504465</link>
-      <description>Harrison Lawson, Nguy&#7877;n Huy Ho&#224;ng, Keng&#8208;Jung Lee, Nattarat Wongsuwan, Ayesha Tupe, Mengrou Lu, Mariah L. Arral, Anne Behre, Zihan Ling, Kathryn A. Whitehead, Adam W. Feinberg, Xi Ren, Siyang Zheng, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4410507430
-
-                Abstract Metal&#8208;organic frameworks (MOFs) have evolved from uses in catalysis and gas storage to exciting applications in biomedicine, particularly in drug delivery. Initially, MOFs are primarily used to deliver small molecules, recent innovations have shifted focus toward more complex nucleic acids like DNA, short guide RNA (sgRNA), and short interfering RNA (siRNA). Remarkably, no studies to date have demonstrated the encapsulation and delivery of messenger RNA (mRNA) via MOFs in vitro and in vivo. This study addresses that gap by identifying synthetic conditions to encapsulate and deliver mRNA using zeolitic imidazole framework&#8208;8 (ZIF&#8208;8). Early attempts show mRNA loading in ZIF&#8208;8 but loss of mRNA in biological media. To overcome this challenge, polyethyleneimine (PEI) is incorporated into the formulation, forming a robust polymer complex core&#8208;MOF shell particle. This system stabilizes mRNA complexes and delays their release, resulting in effective protein expression in multiple cell lines and mice, performing on par with commercial lipid&#8208;based systems. Here, the first investigation into thermally stable mRNA storage using ZIF&#8208;8 demonstrates successful protein expression after three months of room&#8208;temperature storage in vitro and one month in vivo. These findings broaden the scope of MOF&#8208;based therapeutic delivery and open new avenues for long&#8208;term mRNA storage and transport.</description>
-      <author>Harrison Lawson, Nguy&#7877;n Huy Ho&#224;ng, Keng&#8208;Jung Lee, Nattarat Wongsuwan, Ayesha Tupe, Mengrou Lu, Mariah L. Arral, Anne Behre, Zihan Ling, Kathryn A. Whitehead, Adam W. Feinberg, Xi Ren, Siyang Zheng</author>
-      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202504465</guid>
-    </item>
     <item>
       <title>A Framework for Dynamic Modeling of Circular Economy Networks: The Polyethylene Terephthalate (PET) Packaging Supply Chain as a Case Study</title>
       <link>https://doi.org/10.1021/acs.iecr.5c00273</link>
@@ -28,16 +18,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.5c00273</guid>
     </item>
     <item>
-      <title>Double-layer structure and interfacial tension at an ionic surfactant-laden interface</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.137924</link>
-      <description>Emerson M. Uhlig, Aditya S. Khair, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4410616356
-
-                No abstract</description>
-      <author>Emerson M. Uhlig, Aditya S. Khair</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137924</guid>
-    </item>
-    <item>
       <title>Advancing molecular machine learning representations with stereoelectronics-infused molecular graphs</title>
       <link>https://doi.org/10.1038/s42256-025-01031-9</link>
       <description>Daniil A. Boiko, Thiago Resch&#252;tzegger, Benjam&#237;n S&#225;nchez-Lengeling, Samuel M. Blau, Gabriel dos Passos Gomes, Nature Machine Intelligence. None(None)] 2025. https://openalex.org/W4410629037
@@ -46,6 +26,16 @@
       <author>Daniil A. Boiko, Thiago Resch&#252;tzegger, Benjam&#237;n S&#225;nchez-Lengeling, Samuel M. Blau, Gabriel dos Passos Gomes</author>
       <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s42256-025-01031-9</guid>
+    </item>
+    <item>
+      <title>Double-layer structure and interfacial tension at an ionic surfactant-laden interface</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.137924</link>
+      <description>Emerson M. Uhlig, Aditya S. Khair, Journal of Colloid and Interface Science. 697(None)] 2025. https://openalex.org/W4410616356
+
+                No abstract</description>
+      <author>Emerson M. Uhlig, Aditya S. Khair</author>
+      <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137924</guid>
     </item>
   </channel>
 </rss>

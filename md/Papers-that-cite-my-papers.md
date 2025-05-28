@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue May 27 01:40:43 2025
+Created on Wed May 28 01:42:20 2025
 
-Found 64 results from 2025-05-20 to 2025-05-27
+Found 55 results from 2025-05-21 to 2025-05-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544)
@@ -16,105 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Electrochemical reduction of CO2 on S-triazine-based g-C3N4 surface modified with metal and nonmetal atoms: A DFT study   
-
-OpenAlex: https://openalex.org/W4410487213    
-Open access: True
-    
-[Hadis Pirdadeh Beyranvand](https://openalex.org/A5080677285), [Zahra Tavangar](https://openalex.org/A5051591758), Journal of CO2 Utilization. 97(None)] 2025.https://doi.org/10.1016/j.jcou.2025.103123.
-    
-No abstract    
-
-    
-
-## Rational Dual‐Atom Design to Boost Oxygen Reduction Reaction on Iron‐Based Electrocatalysts   
-
-OpenAlex: https://openalex.org/W4410490249    
-Open access: False
-    
-[Shengping You](https://openalex.org/A5089240577), [Chao Zhang](https://openalex.org/A5100460167), [Mingyu Yu](https://openalex.org/A5058643018), [Xin Tan](https://openalex.org/A5101728798), [Kaian Sun](https://openalex.org/A5028017378), [Yun Zheng](https://openalex.org/A5034122750), [Zewen Zhuang](https://openalex.org/A5089567081), [Wei Yan](https://openalex.org/A5100321772), [Jiujun Zhang](https://openalex.org/A5101499775), Small. None(None)] 2025.https://doi.org/10.1002/smll.202502102.
-    
-Abstract The oxygen reduction reaction (ORR) is critical for energy conversion technologies like fuel cells and metal–air batteries. However, advancing efficient and stable ORR catalysts remains a significant challenge. Iron‐based single‐atom catalysts (Fe SACs) have emerged as promising alternatives to precious metals. However, their catalytic performance and stability remain constrained. Introducing a second metal (M) to construct Fe─M dual‐atom catalysts (Fe─M DACs) is an effective strategy to enhance the performance of Fe SACs. This review provides a comprehensive overview of the recent advancements in Fe‐based DACs for ORR. It begins by examining the structural advantages of Fe─M DACs from the perspectives of electronic structure and reaction pathways. Next, the precise synthetic strategies for DACs are discussed, and the structure–performance relationships are explored, highlighting the role of the second metal in improving catalytic activity and stability. The review also covers in situ characterization techniques for real‐time observation of catalytic dynamics and reaction intermediates. Finally, future directions for Fe─M DACs are proposed, emphasizing the integration of advanced experimental strategies with theoretical simulations as well as artificial intelligence/machine learning to design highly active and stable ORR catalysts, aiming to expand the application of Fe─M DACs in energy conversion and storage technologies.    
-
-    
-
-## The AI-Driven Transformation in New Materials Manufacturing and the Development of Intelligent Sports   
-
-OpenAlex: https://openalex.org/W4410494090    
-Open access: True
-    
-[Fang Wang](https://openalex.org/A5007345192), [Shenhao Jiang](https://openalex.org/A5088296892), [Jun Li](https://openalex.org/A5027642792), Applied Sciences. 15(10)] 2025.https://doi.org/10.3390/app15105667.
-    
-The advancement of materials science has had a profound, even revolutionary, impact on sports. Materials are used in the sports field, equipment, and sportswear, each with distinct functionality and safety requirements. Additionally, diverse sport-related data require physical devices for collection, analysis, and storage, which can be crucial in athlete selection, performance assessment, strategy planning, and training optimization. Artificial intelligence, with its strong cognitive abilities, learning capacity, large-scale data processing, and adaptability, can effectively enhance efficiency, reduce errors, and lower costs. The integration of advanced materials and artificial intelligence (AI) has significantly enhanced the efficiency and precision of research and development in sports-related technologies, while also facilitating the innovation of training methodologies through intelligent data analytics. This convergence has initiated a transformative phase in the digitalization of the sports industry. Anchored in both theoretical analysis and practical implementation, this study seeks to construct a systematic cognitive framework that elucidates the interrelationship between material science and AI technologies. The aim is to assist sports professionals in understanding and leveraging this technological shift to support strategic decision-making and to foster sustainable, high-quality development within the field.    
-
-    
-
-## Promoting oxygen evolution in proton exchange membrane water electrolysis: controlling the oxidation state of electrochemically fabricated iridium–cobalt oxide catalysts   
-
-OpenAlex: https://openalex.org/W4410494952    
-Open access: False
-    
-[Kyeong‐Rim Yeo](https://openalex.org/A5006222668), [Hoyoung Kim](https://openalex.org/A5100670374), [Liangliang Xu](https://openalex.org/A5101978720), [Seongbeen Kim](https://openalex.org/A5064765232), [Jong Hyun Jang](https://openalex.org/A5067916861), [Jinwoo Lee](https://openalex.org/A5100398117), [Soo‐Kil Kim](https://openalex.org/A5051642325), Journal of Energy Chemistry. None(None)] 2025.https://doi.org/10.1016/j.jechem.2025.05.012.
-    
-No abstract    
-
-    
-
-## Pathways for martensitic high-pressure phase transitions in bismuth   
-
-OpenAlex: https://openalex.org/W4410496344    
-Open access: False
-    
-[Tim Schaffrinna](https://openalex.org/A5093927092), [Christopher Schröck](https://openalex.org/A5077613386), [Victor Milman](https://openalex.org/A5091906793), [B. Winkler](https://openalex.org/A5066300269), Physical review. B./Physical review. B. 111(17)] 2025.https://doi.org/10.1103/physrevb.111.174111.
-    
-No abstract    
-
-    
-
-## Electrodeposited Co Crystalline Islands Shelled with Facile Spontaneously Deposited Pt for Improved Oxygen Reduction   
-
-OpenAlex: https://openalex.org/W4410500418    
-Open access: True
-    
-[Jelena Golubović](https://openalex.org/A5024975320), [Lazar Rakočević](https://openalex.org/A5011044808), [Vladimir Rajić](https://openalex.org/A5088436659), [Miloš Milović](https://openalex.org/A5031354236), [Svetlana Štrbac](https://openalex.org/A5089753309), Catalysts. 15(5)] 2025.https://doi.org/10.3390/catal15050490.
-    
-The cobalt crystalline islands (Cocryst) were electrochemically deposited onto a glassy carbon (GC) support and then modified by a facile spontaneous deposition of platinum. The electrocatalytic activity of the resulting Cocryst-Pt core-shell catalyst was evaluated for the oxygen reduction reaction (ORR) in an alkaline medium. The XRD characterization of the Cocryst-Pt islands revealed that the cobalt core had a hexagonal close-packed (hcp) crystalline structure, and that the platinum shell exhibited a crystalline structure with a preferential (111) orientation. SEM images showed that the average lateral size of the Cocryst islands was 1.17 μm, which increased to 1.32 μm after adding platinum. The XPS analysis indicated that the outer layer of the bulk metallic Cocryst islands was fully oxidized. During the spontaneous deposition of platinum, the outer Co(OH)2 layer was dissolved, leaving the cobalt core in a metallic state, while the platinum shell remained only partially oxidized. The high electrochemically active surface area of the Cocryst-Pt/GC electrode, along with a suitable crystalline structure of the Cocryst-Pt islands, contributes to enhancing its ORR activity by providing a greater number of surface active sites for oxygen adsorption and subsequent reduction. The ORR on the Cocryst-Pt catalyst occurs via a four-electron reaction pathway, with onset and half-wave potentials of 1.07 V and 0.87 V, respectively, which exceed those of polycrystalline platinum and a commercial benchmark Pt/C.    
-
-    
-
-## Heterostructure of Fe3O4 Confined in Hierarchical Porous Carbon for Interface‐Enhanced Medical‐Grade H2O2 Electrosynthesis   
-
-OpenAlex: https://openalex.org/W4410502703    
-Open access: True
-    
-[Yanan Shi](https://openalex.org/A5103097031), [Lili Zhang](https://openalex.org/A5100461206), [Chongyang Wang](https://openalex.org/A5100700779), [Shaohui Sun](https://openalex.org/A5084697857), Advanced Science. None(None)] 2025.https://doi.org/10.1002/advs.202502388.
-    
-Abstract The electrocatalytic two‐electron oxygen reduction reaction (2e − ORR) presents an environmentally sustainable approach to produce hydrogen peroxide (H 2 O 2 ). Heterostructures coupling non‐noble transition metal oxides (TMOs) with carbon materials hold promise for 2e − ORR, but face challenges in controlling morphology, phase composition, and active centers. In this study, a hierarchically porous tremella‐like heterojunction characterized by ultrafine cubic Fe 3 O 4 nanoparticles within the amorphous carbon (UFe 3 O 4 @HPAC) is obtained using the integrated platform of green Fe‐based deep eutectic solvent via a two‐step annealing process. UFe 3 O 4 @HPAC exhibits remarkable overall and intrinsic 2e − ORR activity, delivering 96% H 2 O 2 selectivity and a turnover frequency (TOF) of 67.5 s −1 . Notably, UFe 3 O 4 @HPAC possesses superior H 2 O 2 production capabilities, showing long‐term stability of 100 h with a H 2 O 2 production rate of 8.1 g L −1 h −1 in flow‐cell, while achieving various medical‐grade H 2 O 2 concentrations (3.0–7.8 wt%). Additionally, integrating on‐site H 2 O 2 production with electro‐Fenton achieved rapid decomposition of contaminants. The unique heterostructure, with the synergistic effect of Fe 3 O 4 and amorphous carbon, enhances electronic conductivity. Moreover, the electronic redistribution at the interface of the heterostructure triggers the thermodynamically favorable multiple active sites of Fe and C centers for the 2e − ORR. This work offers a new perspective on transition metal‐based materials for H 2 O 2 production.    
-
-    
-
-## Competitive Optimization of Interfacial Water Dissociation and Hydroxyl Reductive Desorption of MoCoNi‐Based Catalysts for Superior Alkaline Hydrogen Evolution   
-
-OpenAlex: https://openalex.org/W4410506692    
-Open access: False
-    
-[C.R. Yang](https://openalex.org/A5108388087), [Serhii Makovetskyi](https://openalex.org/A5054003993), [Yanqing Yang](https://openalex.org/A5100674977), [I. J. Hsu](https://openalex.org/A5111461933), [S. Jean Hsieh](https://openalex.org/A5072808560), [Yao‐Chang Lee](https://openalex.org/A5011601787), [Shu‐Chih Haw](https://openalex.org/A5033046341), [Fu‐Te Tsai](https://openalex.org/A5081721871), [Wen‐Feng Liaw](https://openalex.org/A5073056697), Small. None(None)] 2025.https://doi.org/10.1002/smll.202503278.
-    
-Abstract Nano‐heterointerface serves as a catalytic center for water dissociation promoted by the concerted interaction of *OH on oxide and *H on nitride. Kinetic energetics of water dissociation and hydroxyl (de)stabilization are vital to surface coverage of reactive *H and surface charge for *OH reductive desorption. electron paramagnetic resonance spectra of DMPO‐H and DMPO‐OH unravel radical nature of water‐dissociated *H and *OH. coherent synergism of interfacial ensemble and electronic effects realizes TOF/η−ɛ d volcano as the net result of work‐function‐directed competition between interfacial water dissociation (covalent control) and *OH reductive desorption (ionic control) kinetics, manifesting that alkaline HER volcano shaped by d‐band descriptor originates from intricate balance guided by work function descriptor. Orchestrated with alkali metal cations on fine‐tuning covalent/ionic interaction between catalyst surface and water‐derived intermediates, microrod‐array N–MoCoNiAl/NF electrode (NF═Ni foam) drives 10 mA cm −2 at overpotential of 10 mV in 1 m KOH. The proposed pathway may provide insight into how the peculiar electronic structure of multi‐site heterojunction and the interfacial hard‐soft covalent/electrostatic interactions impact molecular‐level mechanism for efficient Volmer kinetics.    
-
-    
-
-## The importance of gas purity in catalytic ammonia synthesis   
-
-OpenAlex: https://openalex.org/W4410511974    
-Open access: True
-    
-[Simon I. Hansen](https://openalex.org/A5113319630), [Benjamin H. Sjo̷lin](https://openalex.org/A5020691398), [Ivano E. Castelli](https://openalex.org/A5047189415), [Tejs Vegge](https://openalex.org/A5083050334), [Anker Degn Jensen](https://openalex.org/A5053573711), [Jakob Munkholt Christensen](https://openalex.org/A5078066679), Journal of Catalysis. None(None)] 2025.https://doi.org/10.1016/j.jcat.2025.116223.
-    
-No abstract    
-
-    
 
 ## Theoretical Design of Cage-like Borophene Single Atom Catalyst for High Efficiency CO2RR   
 
@@ -523,17 +424,6 @@ No abstract
 
     
 
-## Strain effects on catalytic activity and stability of PdM nanoalloys with grain boundaries   
-
-OpenAlex: https://openalex.org/W4410696812    
-Open access: True
-    
-[Junpeng Wang](https://openalex.org/A5100669439), [Tao Jin](https://openalex.org/A5101448875), [Longfei Guo](https://openalex.org/A5003507322), [Zhen Li](https://openalex.org/A5100652229), [Chongyang Wang](https://openalex.org/A5100700777), [Shuang Shan](https://openalex.org/A5083200358), [Quan Tang](https://openalex.org/A5043603086), [Bowei Pan](https://openalex.org/A5015466180), [Fuyi Chen](https://openalex.org/A5057773703), RSC Advances. 15(22)] 2025.https://doi.org/10.1039/d5ra02127h.
-    
-The PdIr nanoalloys with core–shell structure and Janus-structured PdAg nanoalloys exhibited the best FDR and FOR catalytic activity.    
-
-    
-
 ## Coupling CoNi‐LDH and Fe2N Nanoparticles on N‐Doped Biomass‐Derived Carbon as Oxygen Electrocatalyst for Rechargeable Zn‐Air Batteries   
 
 OpenAlex: https://openalex.org/W4410698547    
@@ -666,14 +556,25 @@ No abstract
 
     
 
-## Seeing an Unobservable Fe(III)/Fe(IV) Redox Process of the Nonheme Iron N4Py Complex by High-Speed Surface-Enhanced Raman Spectroelectrochemistry   
+## Low-Loaded Catalyst Layers For Proton Exchange Membrane Fuel Cell Dynamic Operation Part 2: Modeling Study   
 
-OpenAlex: https://openalex.org/W4410510880    
+OpenAlex: https://openalex.org/W4410733805    
 Open access: True
     
-[C. Maurits de Roo](https://openalex.org/A5052070994), [W. J. Niels Klement](https://openalex.org/A5060789430), [Daniël R. Duijnstee](https://openalex.org/A5009670606), [Aleksandar Staykov](https://openalex.org/A5044660979), [Wesley R. Browne](https://openalex.org/A5046362975), Inorganic Chemistry. None(None)] 2025.https://doi.org/10.1021/acs.inorgchem.5c01017.
+[Florent Vandenberghe](https://openalex.org/A5012598800), [Fabrice Micoud](https://openalex.org/A5053058658), [Pascal Schott](https://openalex.org/A5004968393), [Marian Chatenet](https://openalex.org/A5047512137), Electrochimica Acta. None(None)] 2025.https://doi.org/10.1016/j.electacta.2025.146542.
     
-High-valent iron oxido species, central to many enzymatic and biomimetic catalyzed organic oxidative transformations, can be generated by direct electrochemical oxidation, circumventing high-energy O atom donor reagents. Electrochemical generation necessitates knowledge of the redox potentials involved, which is hindered by the lack of well-defined Fe(III)/Fe(IV) redox waves in the voltammetry of many iron-based catalysts. Hence, other approaches including chemical oxidation and bulk spectro(electro)chemical methods need to be taken. In the case of the well-studied oxidation catalyst, [(N4Py)Fe(II)OH2]2+, where N4Py is 1,1-bis(pyridin-2-yl)-N,N-bis(pyridin-2-ylmethyl)methanamine, estimates of the Fe(III/IV) redox potentials range from 0.4 to 1.3 V vs SCE. Here, we show that electrochemical surface-enhanced Raman scattering spectroscopy reveals "hidden" redox waves, and hence redox potentials, when coupled with cyclic voltammetry. Rapid spectral acquisition (>2 Hz) of surface-enhanced Raman spectra at electrochemically roughened gold electrodes enables real-time spectral acquisition during cyclic voltammetry. We show that the Fe(III)/Fe(IV) redox potential of [(N4Py)Fe(II)OH2]2+ is close to that determined earlier by chemical redox titrations (0.85 V vs SCE). Furthermore, comproportionation and adsorption processes are shown to impact the rates of electron transfer observed, which rationalizes the absence of a distinct Fe(III)/Fe(IV) redox wave in its cyclic voltammetry.    
+No abstract    
+
+    
+
+## Strain effects on catalytic activity and stability of PdM nanoalloys with grain boundaries   
+
+OpenAlex: https://openalex.org/W4410696812    
+Open access: True
+    
+[Junpeng Wang](https://openalex.org/A5100669439), [Tao Jin](https://openalex.org/A5101448875), [Longfei Guo](https://openalex.org/A5003507322), [Zhen Li](https://openalex.org/A5100652229), [Chongyang Wang](https://openalex.org/A5100700777), [Shuang Shan](https://openalex.org/A5083200358), [Quan Tang](https://openalex.org/A5043603086), [Bowei Pan](https://openalex.org/A5015466180), [Fuyi Chen](https://openalex.org/A5057773703), RSC Advances. 15(22)] 2025.https://doi.org/10.1039/d5ra02127h.
+    
+The PdIr nanoalloys with core–shell structure and Janus-structured PdAg nanoalloys exhibited the best FDR and FOR catalytic activity.    
 
     
 
