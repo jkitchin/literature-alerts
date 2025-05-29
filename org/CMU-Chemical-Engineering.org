@@ -1,31 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed May 28 01:42:11 2025
+Created on Thu May 29 01:41:58 2025
 
-Found 3 results from 2025-05-21 to 2025-05-28
+Found 2 results from 2025-05-22 to 2025-05-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* A Framework for Dynamic Modeling of Circular Economy Networks: The Polyethylene Terephthalate (PET) Packaging Supply Chain as a Case Study  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4410550070
-:TOPICS: Sustainable Supply Chain Management, Recycling and Waste Management Techniques, Sustainable Industrial Ecology
-:PUBLICATION_DATE: 2025-05-21
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.iecr.5c00273")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4410550070"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4410550070"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4410550070"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4410550070 (Open access: True)
-    
-[[https://openalex.org/A5030326616][Daniel Pert]], [[https://openalex.org/A5027983186][Ana I. Torres]], Industrial & Engineering Chemistry Research. None(None)] 2025. https://doi.org/10.1021/acs.iecr.5c00273 
-     
-No abstract    
-
-    
 
 * Advancing molecular machine learning representations with stereoelectronics-infused molecular graphs  :CMU_Chemical_Engineering:
 :PROPERTIES:
@@ -63,7 +42,7 @@ No abstract
 
 OpenAlex: https://openalex.org/W4410616356 (Open access: True)
     
-[[https://openalex.org/A5117642869][Emerson M. Uhlig]], [[https://openalex.org/A5018420940][Aditya S. Khair]], Journal of Colloid and Interface Science. 697(None)] 2025. https://doi.org/10.1016/j.jcis.2025.137924 
+[[https://openalex.org/A5117642869][Emerson M Uhlig]], [[https://openalex.org/A5018420940][Aditya S. Khair]], Journal of Colloid and Interface Science. 697(None)] 2025. https://doi.org/10.1016/j.jcis.2025.137924 
      
 No abstract    
 
