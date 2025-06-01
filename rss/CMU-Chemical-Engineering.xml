@@ -4,8 +4,28 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 31 May 2025 01:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 01:58:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>FOLR1-Targeted Oxygen-Delivering Nanosomes Enhance Chemo-Induced Apoptosis in Hypoxic Cancer</title>
+      <link>https://doi.org/10.2147/ijn.s513688</link>
+      <description>Gahyun Lee, Jiwon Kim, J. Yang, Yoon Jung Jang, Jaehee Jang, Masayoshi Tanaka, Tagbo H. R. Niepa, Heeyoung Lee, Jonghoon Choi, International Journal of Nanomedicine. Volume 20(None)] 2025. https://openalex.org/W4410829045
+
+                No abstract</description>
+      <author>Gahyun Lee, Jiwon Kim, J. Yang, Yoon Jung Jang, Jaehee Jang, Masayoshi Tanaka, Tagbo H. R. Niepa, Heeyoung Lee, Jonghoon Choi</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2147/ijn.s513688</guid>
+    </item>
+    <item>
+      <title>Computational Strategies for RTN Model for Supply Logistics of Carbon Dioxide for Carbon Capture and Storage</title>
+      <link>https://doi.org/10.1021/acs.iecr.5c00695</link>
+      <description>Soumya Shikha, Joelle Guisso, Anna Robert, Nouha Dkhili, Parveen Kumar, Ignacio E. Grossmann, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4410863166
+
+                No abstract</description>
+      <author>Soumya Shikha, Joelle Guisso, Anna Robert, Nouha Dkhili, Parveen Kumar, Ignacio E. Grossmann</author>
+      <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.5c00695</guid>
+    </item>
   </channel>
 </rss>
