@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Jun 2025 01:58:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 01:47:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Dynamics of C1 and C2 Products Formation on (110) Facets of Carbides</title>
-      <link>https://doi.org/10.1016/j.surfin.2025.106793</link>
-      <description>Naveed Ashraf, Younes Abghoui, Surfaces and Interfaces. None(None)] 2025. https://openalex.org/W4410712051
-
-                No abstract</description>
-      <author>Naveed Ashraf, Younes Abghoui</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.106793</guid>
-    </item>
-    <item>
-      <title>Understanding magnesium dissolution through Machine learning molecular dynamics</title>
-      <link>https://doi.org/10.1016/j.cej.2025.163578</link>
-      <description>Zhoulin Liu, Jianchun Sha, Guang&#8208;Ling Song, Ziliang Wang, Yinghe Zhang, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4410714218
-
-                No abstract</description>
-      <author>Zhoulin Liu, Jianchun Sha, Guang&#8208;Ling Song, Ziliang Wang, Yinghe Zhang</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.163578</guid>
-    </item>
-    <item>
-      <title>Activating Janus VSeTe monolayers for efficient HER by transition metal doping: A first-principles study</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.05.292</link>
-      <description>Lujing Zhao, W. L. Tan, Changmin Shi, D. Wang, Guangliang Cui, Hongmei Liu, Feifei Li, International Journal of Hydrogen Energy. 139(None)] 2025. https://openalex.org/W4410718270
-
-                No abstract</description>
-      <author>Lujing Zhao, W. L. Tan, Changmin Shi, D. Wang, Guangliang Cui, Hongmei Liu, Feifei Li</author>
-      <pubDate>Sun, 25 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.05.292</guid>
-    </item>
-    <item>
-      <title>Liquid&#8211;Liquid Interface-Based Thiocyanate Surface Treatment for Bright and Stable CsPbBr&lt;sub&gt;3&lt;/sub&gt; Nanocrystals</title>
-      <link>https://doi.org/10.1021/acs.chemmater.5c00803</link>
-      <description>Rachel Lifer, Nathan Rafisiman, Saar Shaek, Arghyadeep Basu, Yaron Kauffmann, Nicholas G. Pavlopoulos, Ivano E. Castelli, Lev Chuntonov, Yehonadav Bekenstein, Chemistry of Materials. None(None)] 2025. https://openalex.org/W4410718339
-
-                No abstract</description>
-      <author>Rachel Lifer, Nathan Rafisiman, Saar Shaek, Arghyadeep Basu, Yaron Kauffmann, Nicholas G. Pavlopoulos, Ivano E. Castelli, Lev Chuntonov, Yehonadav Bekenstein</author>
-      <pubDate>Sun, 25 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.5c00803</guid>
-    </item>
     <item>
       <title>Low-Loaded Catalyst Layers For Proton Exchange Membrane Fuel Cell Dynamic Operation Part 2: Modeling Study</title>
       <link>https://doi.org/10.1016/j.electacta.2025.146542</link>
@@ -56,16 +16,6 @@
       <author>Florent Vandenberghe, Fabrice Micoud, Pascal Schott, Marian Chatenet</author>
       <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146542</guid>
-    </item>
-    <item>
-      <title>Strain in Core&#8211;Shell Spinel Nanocrystals Enhances ORR Activity</title>
-      <link>https://doi.org/10.1021/acscatal.5c00896</link>
-      <description>Jonathan L. Rowell, Aditya Joshi, H. S. Tan, Dasol Yoon, Jason Manassa, Alex Stangel, Colin R. Bundschu, Yafu Jia, H&#233;ctor D. Abru&#241;a, Robert Hovden, David A. Muller, Richard D. Robinson, ACS Catalysis. None(None)] 2025. https://openalex.org/W4410714222
-
-                No abstract</description>
-      <author>Jonathan L. Rowell, Aditya Joshi, H. S. Tan, Dasol Yoon, Jason Manassa, Alex Stangel, Colin R. Bundschu, Yafu Jia, H&#233;ctor D. Abru&#241;a, Robert Hovden, David A. Muller, Richard D. Robinson</author>
-      <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c00896</guid>
     </item>
     <item>
       <title>Group-VIII-metal-based electrocatalysts for acidic hydrogen evolution reaction: Recent progress and perspectives</title>
@@ -240,11 +190,11 @@
     <item>
       <title>Magnetic graphene vacancies: atomic-scale O2 scissors mediated by antiferromagnetic exchange interaction&#8211;spin-orbit selective coupling effects</title>
       <link>https://doi.org/10.1016/j.jcis.2025.137998</link>
-      <description>Gu Gaoyuan, Ge Ruijie, Yan Zhou, Jianing Zhang, Wenhui Li, Chong Peng, Bi Changlong, Shuyi Yang, E. Tao, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4410796023
+      <description>Gu Gaoyuan, Ge Ruijie, Yan Zhou, Jianing Zhang, Wenhui Li, Chong Peng, Bi Changlong, Shuyi Yang, E. Tao, Journal of Colloid and Interface Science. 698(None)] 2025. https://openalex.org/W4410796023
 
                 No abstract</description>
       <author>Gu Gaoyuan, Ge Ruijie, Yan Zhou, Jianing Zhang, Wenhui Li, Chong Peng, Bi Changlong, Shuyi Yang, E. Tao</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.137998</guid>
     </item>
     <item>
@@ -538,6 +488,116 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2025.115401</guid>
     </item>
     <item>
+      <title>DFT investigation on boron doped &#945;-graphyne and &#945;-graphdiyne as bifunctional catalysts toward HER and ORR</title>
+      <link>https://doi.org/10.1016/j.comptc.2025.115306</link>
+      <description>Chuanbo Wang, Baotao Kang, Computational and Theoretical Chemistry. None(None)] 2025. https://openalex.org/W4410882506
+
+                No abstract</description>
+      <author>Chuanbo Wang, Baotao Kang</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2025.115306</guid>
+    </item>
+    <item>
+      <title>Real-space investigations of on-surface intermolecular radical transfer reactions assisted by persistent radicals</title>
+      <link>https://doi.org/10.1126/sciadv.adu9436</link>
+      <description>Huanjia Zhu, Junbo Wang, Kaifeng Niu, Yong Zhang, Yi Zhang, Chuan Deng, Peipei Huang, Deng&#8208;Yuan Li, Pei Nian Liu, Jianchen Lu, Johanna Ros&#233;n, Jonas Bj&#246;rk, Jinming Cai, Lifeng Chi, Qing Li, Science Advances. 11(22)] 2025. https://openalex.org/W4410886516
+
+                Synthesizing radicals that have both long lifetimes and high chemical reactivity remains a long-term challenge. Here, persistent phenyl radicals are successfully synthesized on Ag(111) by protecting the carbon radical site by designing the precursor molecule with suitable steric hindrance. As carbon-carbon coupling is prohibited, such radicals remain intact for longer than 6 hours at room temperature on Ag(111). Taking advantage of the long lifetimes, the as-synthesized radicals are directly characterized in the real space at the single-chemical-bond scale by means of bond-resolving scanning tunneling microscopy imaging. Accompanied by the excellent stability, the radicals exhibit high chemical reactivities and facilitate the intermolecular radical transfer reactions at extreme low temperature. The preparation of persistent radicals not only favors the characterization of a surface-stabilized radical in the real space but also aids in illuminating the detailed reaction pathways of subsequent radical-assisted reactions directly.</description>
+      <author>Huanjia Zhu, Junbo Wang, Kaifeng Niu, Yong Zhang, Yi Zhang, Chuan Deng, Peipei Huang, Deng&#8208;Yuan Li, Pei Nian Liu, Jianchen Lu, Johanna Ros&#233;n, Jonas Bj&#246;rk, Jinming Cai, Lifeng Chi, Qing Li</author>
+      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adu9436</guid>
+    </item>
+    <item>
+      <title>Spontaneous water dissociation on intermetallic electride LaCu0.67Si1.33 enhances electrochemical methanization of CO2</title>
+      <link>https://doi.org/10.1038/s41467-025-60353-9</link>
+      <description>Luming Zhang, Huan Ma, Yongfang Sun, Yilin Zhao, Huiying Deng, Yuhang Wang, Fei Wang, Xiaodong Wen, Mingchuan Luo, Nature Communications. 16(1)] 2025. https://openalex.org/W4410889205
+
+                Renewable electricity driven CO2 electroreduction into methane offers a sustainable route to mitigate our dependence on natural gas. However, this route is now limited by the unsatisfied efficiency and short durability, which originates from a kinetic disparity between water dissociation (WD) and proton-coupled electron transfer on existing catalysts. Herein, we harness the exceptional WD capability of the intermetallic electride (IE) materials for the electrocatalytic methanization from CO2. Combinative experimental and theoretical approaches strongly evidence a spontaneous WD on an IE LaCu0.67Si1.33 catalyst due to its unique electronic structure (strongly modified charge states, reversible lattice hydride ions and anionic electrons). Consequently, this catalyst exhibits improved methanization performance in alkaline flow cells, achieving a methane Faraday efficiency of 72% at -1.21 V versus the reversible hydrogen electrode (vs. RHE) and peak partial current density of 476.7 mA cm-2 at -1.52 V vs. RHE. Energetic calculations further establish the mechanistic link between WD and methanization processes on our catalyst, on which a lowered free energy barrier for the key *CO to *CHO transformation step is observed. This work sheds light on the pivotal role of WD and expands the repertoire of materials for efficient electrocatalytic methanization from CO2.</description>
+      <author>Luming Zhang, Huan Ma, Yongfang Sun, Yilin Zhao, Huiying Deng, Yuhang Wang, Fei Wang, Xiaodong Wen, Mingchuan Luo</author>
+      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-60353-9</guid>
+    </item>
+    <item>
+      <title>One-step preparation of star-shaped Fe5(PO4)4(OH)3-modified g-C3N4 for high-efficiency sacrificial-agent-free photocatalytic CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.138031</link>
+      <description>Yanan Di, Huaxin Li, Xianbo Yu, Chen Hu, Shuao Xie, Xiaoxue Xi, Wei Han, Zhongbo Hu, Xian Yue, Junhui Xiang, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4410890418
+
+                No abstract</description>
+      <author>Yanan Di, Huaxin Li, Xianbo Yu, Chen Hu, Shuao Xie, Xiaoxue Xi, Wei Han, Zhongbo Hu, Xian Yue, Junhui Xiang</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.138031</guid>
+    </item>
+    <item>
+      <title>Highly Efficient CO2 Electroreduction to Formate using Bismuth Nanodots within ZIF-8 Scaffold</title>
+      <link>https://doi.org/10.1016/j.ccst.2025.100450</link>
+      <description>Muhammad Usman, Munzir H. Suliman, Maryam Abdinejad, Jesse Kok, Hussain Al Naji, Aasif Helal, Zain H. Yamani, Gabriele Centi, Carbon Capture Science &amp; Technology. None(None)] 2025. https://openalex.org/W4410893603
+
+                No abstract</description>
+      <author>Muhammad Usman, Munzir H. Suliman, Maryam Abdinejad, Jesse Kok, Hussain Al Naji, Aasif Helal, Zain H. Yamani, Gabriele Centi</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ccst.2025.100450</guid>
+    </item>
+    <item>
+      <title>Revealing the Kinetic-Driven Oxygen Reduction Reaction Using Grand Canonical Ensemble Modeling</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c01724</link>
+      <description>Shibin Wang, Jin&#8208;Chang Guo, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4410893774
+
+                No abstract</description>
+      <author>Shibin Wang, Jin&#8208;Chang Guo</author>
+      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c01724</guid>
+    </item>
+    <item>
+      <title>Nano high-entropy materials for bifunctional oxygen electrocatalysis: Rational design, structure-activity relationships, and applications in rechargeable metal-air batteries</title>
+      <link>https://doi.org/10.1016/j.ensm.2025.104357</link>
+      <description>Tarekegn Heliso Dolla, Siyabonga Patrick Mbokazi, Thabo Matthews, Rhiyaad Mohamed, Ludwe L. Sikeyi, Usman Muhammad Tukur, Jiexi Wang, Phumlani F. Msomi, Winny Kgabo Maboya, Peter R. Makgwane, Nithyadharseni Palaniyandy, Mkhulu Mathe, Energy storage materials. None(None)] 2025. https://openalex.org/W4410894056
+
+                No abstract</description>
+      <author>Tarekegn Heliso Dolla, Siyabonga Patrick Mbokazi, Thabo Matthews, Rhiyaad Mohamed, Ludwe L. Sikeyi, Usman Muhammad Tukur, Jiexi Wang, Phumlani F. Msomi, Winny Kgabo Maboya, Peter R. Makgwane, Nithyadharseni Palaniyandy, Mkhulu Mathe</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ensm.2025.104357</guid>
+    </item>
+    <item>
+      <title>Constructing Novel 2D Composite Nanomaterials by Coupling Graphene or Silicene with TM3N2 MXene (TM = Nb, Ta, Mo, and W) to Achieve Highly Efficient HER Catalysts</title>
+      <link>https://doi.org/10.3390/molecules30112401</link>
+      <description>Xiuyi Zhang, Guangtao Yu, Wei Zhang, E Yang, Wei Chen, Molecules. 30(11)] 2025. https://openalex.org/W4410894714
+
+                MXenes have emerged as promising candidates for energy storage and catalyst design. Through detailed density functional theory (DFT) calculations, we designed a series of new 2D composite MXene-based nanomaterials by covering excellent TM3N2 MXenes (TM = Nb, Ta, Mo, and W) with graphene or buckled silicene. Our findings demonstrate that this coating can lead to high catalytic activity for hydrogen evolution reactions (HER) in these composite MXene-based systems, with silicene exhibiting superior performance compared to graphene. The relevant carbon and silicon atoms in the coated materials serve as active sites for HER due to complex electron transfer processes. Additionally, doping N or P atoms into graphene/silicene, which have similar atomic radii, but larger electronegativity than C/Si atoms, can further enhance the HER activity of adjacent carbon or silicon atoms, thus endowing the composite systems with higher HER catalytic performance. Coupled with their high stability and metallic conductivity, all these composite systems show great potential as electrocatalysts for HER. These remarkable findings offer new strategies and valuable insights for designing non-precious and highly efficient MXene-based HER electrocatalysts.</description>
+      <author>Xiuyi Zhang, Guangtao Yu, Wei Zhang, E Yang, Wei Chen</author>
+      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/molecules30112401</guid>
+    </item>
+    <item>
+      <title>Exploration of Oxygen Reduction Reaction Catalyzed by FePPc and Pz&#8208;FeTPr Conjugated Organic Polymer: Insights From Grand&#8208;Canonical Density Functional Theory</title>
+      <link>https://doi.org/10.1002/advs.202504887</link>
+      <description>Pengfei Yuan, Chong Li, Jianan Zhang, Fei Wang, Ying Zhao, Xuebo Chen, Advanced Science. None(None)] 2025. https://openalex.org/W4410898844
+
+                Abstract This report examines the oxygen reduction reaction (ORR) catalyzed by iron&#8208;polyphthalocyanine (FePPc) and pyrazine&#8208;linked iron&#8208;coordinated tetrapyrrole (Pz&#8208;FeTPr) conjugated organic polymer (COP) catalysts, utilizing grand&#8208;canonical density functional theory (GC&#8208;DFT) and microkinetic (MK) simulations. The computed half&#8208;wave potential for AA stacking FePPc under alkaline conditions is in strong agreement with experimental findings. The ORR mechanism for AA stacking FePPc is characterized by the * O 2 mechanism (), with the Fe site serving as the active site. In the case of Pz&#8208;FeTPr, the ORR mechanism is similarly governed by the * O 2 mechanism, with the Fe site remaining the active site at lower potentials (less than 0.5 V RHE , vs reversible hydrogen electrode). However, at higher potentials (greater than 0.5 V RHE ), the Fe site becomes obstructed by , resulting in a shift of the active site from the Fe site to a neighboring C site (designated as type A3). The corresponding ORR mechanism at the C site is denoted as mechanism (). This mechanism yields a calculated half&#8208;wave potential that aligns well with experimental observations. The mechanisms identified for FePPc and Pz&#8208;FeTPr can be substantiated by the Raman signals detected in experimental studies.</description>
+      <author>Pengfei Yuan, Chong Li, Jianan Zhang, Fei Wang, Ying Zhao, Xuebo Chen</author>
+      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/advs.202504887</guid>
+    </item>
+    <item>
+      <title>It&#8217;s What You Value: A Theoretical Framework for Unveiling Archaeological Heritage Values Through Text Mining</title>
+      <link>https://doi.org/10.1080/13505033.2025.2505405</link>
+      <description>H. Schwartz, Conservation and Management of Archaeological Sites. None(None)] 2025. https://openalex.org/W4410908330
+
+                No abstract</description>
+      <author>H. Schwartz</author>
+      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1080/13505033.2025.2505405</guid>
+    </item>
+    <item>
+      <title>Atomic Layer Deposited Ir Nanostructures on Titania Nanotube Layers for Efficient Alkaline Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1016/j.electacta.2025.146607</link>
+      <description>Bilal Bawab, Jhonatan Rodr&#237;guez&#8208;Pereira, Jan Michali&#269;ka, Miloslav Pouzar, Lud&#283;k Hrom&#225;dko, Ra&#250;l Zazpe, Jan M. Mac&#225;k, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4410909176
+
+                No abstract</description>
+      <author>Bilal Bawab, Jhonatan Rodr&#237;guez&#8208;Pereira, Jan Michali&#269;ka, Miloslav Pouzar, Lud&#283;k Hrom&#225;dko, Ra&#250;l Zazpe, Jan M. Mac&#225;k</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146607</guid>
+    </item>
+    <item>
       <title>Accelerating ultrastable catalyst exploration for large-scale water splitting</title>
       <link>https://doi.org/10.20517/cs.2025.47</link>
       <description>Ning Han, Bao&#8208;Lian Su, Chemical Synthesis. 5(3)] 2025. https://openalex.org/W4410757743
@@ -576,6 +636,16 @@
       <author>Weikun Chen, Taeyoung Kim</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ew01091d</guid>
+    </item>
+    <item>
+      <title>Innovations in chemical process control: challenges and opportunities</title>
+      <link>https://doi.org/10.1016/j.coche.2025.101148</link>
+      <description>Fernando V. Lima, Yuhe Tian, Helen Durand, Joel A. Paulson, Lorenz T. Biegler, Current Opinion in Chemical Engineering. 48(None)] 2025. https://openalex.org/W4410907732
+
+                No abstract</description>
+      <author>Fernando V. Lima, Yuhe Tian, Helen Durand, Joel A. Paulson, Lorenz T. Biegler</author>
+      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.coche.2025.101148</guid>
     </item>
     <item>
       <title>Nanocluster Active Sites Formed on Heterogeneous Thermal Catalysts and Electrocatalysts by &lt;i&gt;Operando&lt;/i&gt; Reactive Environments</title>
