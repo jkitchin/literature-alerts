@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Jun 2025 01:43:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 01:44:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Low-Loaded Catalyst Layers For Proton Exchange Membrane Fuel Cell Dynamic Operation Part 2: Modeling Study</title>
-      <link>https://doi.org/10.1016/j.electacta.2025.146542</link>
-      <description>Florent Vandenberghe, Fabrice Micoud, Pascal Schott, Marian Chatenet, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4410733805
-
-                No abstract</description>
-      <author>Florent Vandenberghe, Fabrice Micoud, Pascal Schott, Marian Chatenet</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146542</guid>
-    </item>
-    <item>
-      <title>Group-VIII-metal-based electrocatalysts for acidic hydrogen evolution reaction: Recent progress and perspectives</title>
-      <link>https://doi.org/10.1016/j.mattod.2025.05.013</link>
-      <description>Qingshui Xie, Linfeng Xiao, Xue Zhao, Qian Liu, Guangzhi Hu, Materials Today. None(None)] 2025. https://openalex.org/W4410737174
-
-                No abstract</description>
-      <author>Qingshui Xie, Linfeng Xiao, Xue Zhao, Qian Liu, Guangzhi Hu</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mattod.2025.05.013</guid>
-    </item>
-    <item>
-      <title>Parametrization of Zirconium for DFTB3/3OB: A Pathway to Study Complex Zr&#8208;Compounds for Biomedical and Material Science Applications</title>
-      <link>https://doi.org/10.1002/jcc.70140</link>
-      <description>Andreas Penz, Jakob Gamper, Josef M. Gallmetzer, Felix R. S. Purtscher, Thomas S. Hofer, Journal of Computational Chemistry. 46(14)] 2025. https://openalex.org/W4410739168
-
-                ABSTRACT This work presents the extension of the semi&#8208;empirical density functional tight binding method, DFTB3, to include zirconium for biomedical and material science applications. The parametrization of Zr has been carried out in consistency with already established 3OB parameters including the elements C, H, N, O, S, P, Mg, Zn, Na, K, Ca, F, Cl, Br, and I. Zirconium&#8208;ligand association and reaction energies have been compared with results from quantum chemical calculations obtained at MP2 and DFT (PBE and B3LYP) level of theory, as well as with those from the semi&#8208;empirical methods DFTB2/PTBP and GFN2&#8208;xTB. A structural validation has been carried out on 1,897 compounds reported in the Cambridge Structural Database, revealing an average root mean square deviation comparable to that obtained at semi&#8208;empirical (DFTB2/PTBP and GFN2&#8208;xTB) level of theory and via the novel neural network potential MACE&#8208;MP&#8208;0. To provide a critical validation of the newly derived parameters, the structure of the biomedically relevant Zr&#8208;DFO complex has been evaluated with respect to a DFT (B3LYP) reference calculation. In addition, extensive DFTB3 MD simulations of the two prominent metal&#8208;organic frameworks UiO&#8208;66 and UiO&#8208;67 have been performed. The results demonstrate the applicability of the newly developed parameters for the study of zirconium&#8208;containing metal&#8208;organic frameworks, when compared to experimental measurements, as well as computational approaches.</description>
-      <author>Andreas Penz, Jakob Gamper, Josef M. Gallmetzer, Felix R. S. Purtscher, Thomas S. Hofer</author>
-      <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/jcc.70140</guid>
-    </item>
-    <item>
-      <title>Enhanced Stability and Catalytic Performance of Iron&#8211;Manganese Dual-Atoms Supported on Graphene Edges for Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c02424</link>
-      <description>Sasfan Arman Wella, Ahmad N. Hakim, Muhammad Luqman Hakim, Nadya Amalia, Adhitya Gandaryus Saputro, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4410743503
-
-                No abstract</description>
-      <author>Sasfan Arman Wella, Ahmad N. Hakim, Muhammad Luqman Hakim, Nadya Amalia, Adhitya Gandaryus Saputro</author>
-      <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c02424</guid>
-    </item>
-    <item>
-      <title>Anharmonic effects control interaction of carbyne confined in carbon nanotubes shaping their vibrational properties</title>
-      <link>https://doi.org/10.1038/s41467-025-59863-3</link>
-      <description>Emil Parth, Andrea Corradini, Weili Cui, Davide Romanin, C. Schuster, Clara Freytag, Lei Shi, Kazuhiro Yanagi, Matteo Calandra, Thomas Pichler, Nature Communications. 16(1)] 2025. https://openalex.org/W4410754738
-
-                No abstract</description>
-      <author>Emil Parth, Andrea Corradini, Weili Cui, Davide Romanin, C. Schuster, Clara Freytag, Lei Shi, Kazuhiro Yanagi, Matteo Calandra, Thomas Pichler</author>
-      <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-59863-3</guid>
-    </item>
-    <item>
-      <title>Upcycling surplus acetone into long-chain chemicals using a tandem electro-biosystem</title>
-      <link>https://doi.org/10.1038/s41893-025-01568-y</link>
-      <description>Chunxiao Liu, Jiankang Zhao, Hongting Tang, Jing Xue, Weiqing Xue, Xu Li, Hongliang Li, Qiu Jiang, Tingting Zheng, Tao Yu, Jie Zeng, Chuan Xia, Nature Sustainability. None(None)] 2025. https://openalex.org/W4410755367
-
-                No abstract</description>
-      <author>Chunxiao Liu, Jiankang Zhao, Hongting Tang, Jing Xue, Weiqing Xue, Xu Li, Hongliang Li, Qiu Jiang, Tingting Zheng, Tao Yu, Jie Zeng, Chuan Xia</author>
-      <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41893-025-01568-y</guid>
-    </item>
-    <item>
-      <title>Ordered single active sites for cascade hydrogenation and hydroformylation reactions</title>
-      <link>https://doi.org/10.1038/s41929-025-01346-1</link>
-      <description>Xiaojun Lu, Jiazhen Wu, Xinyi He, Zichuang Li, Yangfan Lu, Wenqian Li, Jiang Li, Miao Xu, Yanpeng Qi, Qing Zhang, Yijia Liu, Meng Du, Toshio Kamiya, Hideo Hosono, Fusheng Pan, Jie&#8208;Sheng Chen, Tian&#8208;Nan Ye, Nature Catalysis. None(None)] 2025. https://openalex.org/W4410755960
-
-                No abstract</description>
-      <author>Xiaojun Lu, Jiazhen Wu, Xinyi He, Zichuang Li, Yangfan Lu, Wenqian Li, Jiang Li, Miao Xu, Yanpeng Qi, Qing Zhang, Yijia Liu, Meng Du, Toshio Kamiya, Hideo Hosono, Fusheng Pan, Jie&#8208;Sheng Chen, Tian&#8208;Nan Ye</author>
-      <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41929-025-01346-1</guid>
-    </item>
-    <item>
-      <title>Materials-discovery workflow guided by symbolic regression for identifying acid-stable oxides for electrocatalysis</title>
-      <link>https://doi.org/10.1038/s41524-025-01596-4</link>
-      <description>Akhil S. Nair, Lucas Foppa, Matthias Scheffler, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4410759542
-
-                No abstract</description>
-      <author>Akhil S. Nair, Lucas Foppa, Matthias Scheffler</author>
-      <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01596-4</guid>
-    </item>
-    <item>
-      <title>Effect of Fe&#8211;N&#8211;C single atom/cluster catalyst on ORR of PEMFC</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.05.294</link>
-      <description>Ruina Li, Xu&#8208;Wen Li, Qingcheng Liu, Hua Yue, Yang Meng, Yuanyuan Tian, International Journal of Hydrogen Energy. 139(None)] 2025. https://openalex.org/W4410760958
-
-                No abstract</description>
-      <author>Ruina Li, Xu&#8208;Wen Li, Qingcheng Liu, Hua Yue, Yang Meng, Yuanyuan Tian</author>
-      <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.05.294</guid>
-    </item>
     <item>
       <title>Cyclic Voltammetry&#8211;Synchronized Operando HERFD-XANES and RIXS Analyses of Adsorbed Structures and Bonding States of Active Oxygen Species on Pt Nanoparticle Electrocatalysts in PEFC</title>
       <link>https://doi.org/10.1021/acscatal.5c01160</link>
@@ -638,14 +548,24 @@
       <guid isPermaLink="true">https://doi.org/10.1002/admi.202500190</guid>
     </item>
     <item>
-      <title>Accelerating ultrastable catalyst exploration for large-scale water splitting</title>
-      <link>https://doi.org/10.20517/cs.2025.47</link>
-      <description>Ning Han, Bao&#8208;Lian Su, Chemical Synthesis. 5(3)] 2025. https://openalex.org/W4410757743
+      <title>Defect-Mediated Selectivity: Sulfur Vacancy Engineering in Tin Sulfide Boosts CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction to Formate</title>
+      <link>https://doi.org/10.1021/acs.chemmater.5c00438</link>
+      <description>Linping Wu, Miaomiao Liu, Min Bu, Rui Tang, Ling Han, Xiaobin Fu, Yuxuan Zhang, Linjuan Zhang, Miao Shen, Qian Yuan, Chemistry of Materials. None(None)] 2025. https://openalex.org/W4410941018
 
                 No abstract</description>
-      <author>Ning Han, Bao&#8208;Lian Su</author>
-      <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.20517/cs.2025.47</guid>
+      <author>Linping Wu, Miaomiao Liu, Min Bu, Rui Tang, Ling Han, Xiaobin Fu, Yuxuan Zhang, Linjuan Zhang, Miao Shen, Qian Yuan</author>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.5c00438</guid>
+    </item>
+    <item>
+      <title>Controlled overall water splitting in two-dimensional Sr(BiO2)2: Spontaneous oxygen evolution and regulated hydrogen production via isoelectronic doping and strain engineering</title>
+      <link>https://doi.org/10.1016/j.jallcom.2025.180919</link>
+      <description>Yuanfeng Xu, Hongjing Wang, Songsong Sun, Chang Liu, Yaning Song, Yanju Ji, Hao Zhang, Journal of Alloys and Compounds. None(None)] 2025. https://openalex.org/W4410942700
+
+                No abstract</description>
+      <author>Yuanfeng Xu, Hongjing Wang, Songsong Sun, Chang Liu, Yaning Song, Yanju Ji, Hao Zhang</author>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2025.180919</guid>
     </item>
     <item>
       <title>Highly Active and Stable Immobilized Iridium Complexes via Thermochemically Assisted Dangling Oxygen Participation for Electrochemical Oxygen Evolution Reaction</title>
@@ -696,6 +616,16 @@
       <author>Zhongliang Liu, Heng Liu, Kai Zhou, Miaomiao Liu, Tianrui Xue, Yongjun Shen, Hao Li, Huihui Li, Chunzhong Li</author>
       <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s11426-025-2653-y</guid>
+    </item>
+    <item>
+      <title>Discovery of chemically modified higher tungsten boride by means of hybrid GNN/DFT approach</title>
+      <link>https://doi.org/10.1038/s41524-025-01628-z</link>
+      <description>Nikita A. Matsokin, Roman A. Eremin, Alena Kuznetsova, Innokentiy S. Humonen, A. Krautsou, Vladimir D. Lazarev, Yuliya Z. Vassilyeva, A. Ya. Pak, Semen Budennyy, Alexander G. Kvashnin, Andrei A. Osiptsov, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4410940179
+
+                No abstract</description>
+      <author>Nikita A. Matsokin, Roman A. Eremin, Alena Kuznetsova, Innokentiy S. Humonen, A. Krautsou, Vladimir D. Lazarev, Yuliya Z. Vassilyeva, A. Ya. Pak, Semen Budennyy, Alexander G. Kvashnin, Andrei A. Osiptsov</author>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01628-z</guid>
     </item>
     <item>
       <title>Nanocluster Active Sites Formed on Heterogeneous Thermal Catalysts and Electrocatalysts by &lt;i&gt;Operando&lt;/i&gt; Reactive Environments</title>
