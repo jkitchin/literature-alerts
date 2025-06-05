@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 04 Jun 2025 01:44:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 01:42:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Cyclic Voltammetry&#8211;Synchronized Operando HERFD-XANES and RIXS Analyses of Adsorbed Structures and Bonding States of Active Oxygen Species on Pt Nanoparticle Electrocatalysts in PEFC</title>
-      <link>https://doi.org/10.1021/acscatal.5c01160</link>
-      <description>Hiroko Ariga-Miwa, Takehiko Sasaki, Tomohiro Sakata, Kotaro Higashi, Takefumi Yoshida, Oki Sekizawa, Takuma Kaneko, Tomoya Uruga, Yasuhiro Iwasawa, ACS Catalysis. None(None)] 2025. https://openalex.org/W4410762638
-
-                No abstract</description>
-      <author>Hiroko Ariga-Miwa, Takehiko Sasaki, Tomohiro Sakata, Kotaro Higashi, Takefumi Yoshida, Oki Sekizawa, Takuma Kaneko, Tomoya Uruga, Yasuhiro Iwasawa</author>
-      <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c01160</guid>
-    </item>
-    <item>
-      <title>Machine learning accelerated interfacial fluxionality in Ni-supported metal nitride ammonia synthesis catalysts</title>
-      <link>https://doi.org/10.1016/j.jcat.2025.116224</link>
-      <description>Pranav Roy, Brandon C. Bukowski, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4410769363
-
-                No abstract</description>
-      <author>Pranav Roy, Brandon C. Bukowski</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116224</guid>
-    </item>
-    <item>
-      <title>Mercapto-functionalized scaffold improves perovskite buried interfaces for tandem photovoltaics</title>
-      <link>https://doi.org/10.1038/s41467-025-59891-z</link>
-      <description>Jianan Wang, Shuaifeng Hu, He Zhu, Sanwan Liu, Zhongyong Zhang, Rui Chen, Junke Wang, Chenyang Shi, Jiaqi Zhang, Wentao Liu, X. Lei, Bin Liu, Yongyan Pan, Fumeng Ren, Hasan Raza, Qisen Zhou, Sibo Li, Longbin Qiu, Guanhaojie Zheng, Xiaojun Qin, Zhiguo Zhao, Shuang Yang, Neng Li, Jingbai Li, Atsushi Wakamiya, Zonghao Liu, Henry J. Snaith, Wei Chen, Nature Communications. 16(1)] 2025. https://openalex.org/W4410770556
-
-                No abstract</description>
-      <author>Jianan Wang, Shuaifeng Hu, He Zhu, Sanwan Liu, Zhongyong Zhang, Rui Chen, Junke Wang, Chenyang Shi, Jiaqi Zhang, Wentao Liu, X. Lei, Bin Liu, Yongyan Pan, Fumeng Ren, Hasan Raza, Qisen Zhou, Sibo Li, Longbin Qiu, Guanhaojie Zheng, Xiaojun Qin, Zhiguo Zhao, Shuang Yang, Neng Li, Jingbai Li, Atsushi Wakamiya, Zonghao Liu, Henry J. Snaith, Wei Chen</author>
-      <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-59891-z</guid>
-    </item>
-    <item>
-      <title>sprynger: Scriptable bibliometrics using a Python interface to Springer Nature</title>
-      <link>https://doi.org/10.1016/j.softx.2025.102186</link>
-      <description>Nathan Herrmann, Michael E. Rose, SoftwareX. 31(None)] 2025. https://openalex.org/W4410775033
-
-                No abstract</description>
-      <author>Nathan Herrmann, Michael E. Rose</author>
-      <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.softx.2025.102186</guid>
-    </item>
-    <item>
-      <title>DFT Study of Oxygen Adsorption by Single-Atom Catalysts on N-Doped Graphene: Implications for Oxygen Reduction Reactions</title>
-      <link>https://doi.org/10.1021/acsanm.5c01990</link>
-      <description>Luis Angel Alvarado-Leal, E. Per&#233;z&#8208;Tijerina, H. N. Fern&#225;ndez-Escamilla, J. M. Romo-Herrera, Noboru Takeuchi, Alejandro Toro&#8208;Labb&#233;, ACS Applied Nano Materials. None(None)] 2025. https://openalex.org/W4410776741
-
-                No abstract</description>
-      <author>Luis Angel Alvarado-Leal, E. Per&#233;z&#8208;Tijerina, H. N. Fern&#225;ndez-Escamilla, J. M. Romo-Herrera, Noboru Takeuchi, Alejandro Toro&#8208;Labb&#233;</author>
-      <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.5c01990</guid>
-    </item>
-    <item>
-      <title>First&#8208;Principles Screening of 3d&#8208;Transition&#8208;Metal&#8208;Doped Hydrous Cobalt Phosphate Catalysts for Enhanced Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/adts.202500010</link>
-      <description>Meena Rittiruam, Tinnakorn Saelee, Patcharaporn Khajondetchairit, Annop Ektarawong, Bj&#246;rn Alling, Rathawat Daengngern, Piyasan Praserthdam, Supareak Praserthdam, Advanced Theory and Simulations. None(None)] 2025. https://openalex.org/W4410780344
-
-                Abstract Hydrous cobalt phosphate (CoPO) is a promising OER catalyst, but its activity is limited by poor electron transport and weak intermediate binding. This study reveals how 3d transition metal dopants can be used to tune these properties through first&#8208;principles calculations. Sc, Ti, V, and Cr improve catalytic activity by promoting electron transfer and stabilizing *O intermediates, while Mn, Fe, Cu, and Zn reduce performance. Among all candidates, Ni doping strikes the optimal balance, enhancing conductivity and providing moderate *O binding energy that minimizes overpotential. These trends follow electronic descriptors such as d&#8208;band center and electronegativity, and are validated by volcano plot analysis. Ni&#8208;CoPO emerges as the most effective design, offering a clear strategy for improving OER catalysts by controlling dopant identity and electronic structure.</description>
-      <author>Meena Rittiruam, Tinnakorn Saelee, Patcharaporn Khajondetchairit, Annop Ektarawong, Bj&#246;rn Alling, Rathawat Daengngern, Piyasan Praserthdam, Supareak Praserthdam</author>
-      <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adts.202500010</guid>
-    </item>
-    <item>
-      <title>Efficient hydrogen evolution at Ni/CeO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; interfaces in anion-exchange membrane water electrolysers</title>
-      <link>https://doi.org/10.1039/d4ee06113f</link>
-      <description>Ibrahem O. Baibars, Haisen Huang, Yang Xiao, Shuhao Wang, Yan Nie, Chen Jia, Kamran Dastafkan, Chuan Zhao, Energy &amp; Environmental Science. None(None)] 2025. https://openalex.org/W4410781530
-
-                Simultaneous reduction of concentration and activation overpotentials at hierarchically porous Ni/CeO x interfaces in anion-exchange membrane water electrolysers.</description>
-      <author>Ibrahem O. Baibars, Haisen Huang, Yang Xiao, Shuhao Wang, Yan Nie, Chen Jia, Kamran Dastafkan, Chuan Zhao</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ee06113f</guid>
-    </item>
-    <item>
-      <title>Surface-Controlled TiO&lt;sub&gt;2&lt;/sub&gt; Nanocrystals with Catalytically Active Single-Site Co Incorporation for the Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/jacs.5c05795</link>
-      <description>Chang Liu, Soonho Kwon, Perrin Godbold, Grayson Johnson, Sooyeon Hwang, Cheng&#8208;Jun Sun, Hua Zhou, William A. Goddard, Sen Zhang, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4410788630
-
-                The design of advanced electrocatalysts is often hindered by uncertainties in identifying and controlling the active surfaces and catalytic centers within heterogeneous materials. Here we present the synthesis of single-site Co catalysts, substitutionally doped into surface-controlled TiO2 anatase nanocrystals, aimed at enhancing the oxygen evolution reaction (OER). Grand canonical quantum mechanics calculations reveal that the kinetics of the OER, following an adsorbate evolution mechanism, is markedly influenced by the coordination environment of Co. The simulations suggest significantly higher turnover frequencies when Co is doped into the (001) surface of TiO2 compared to the (101) surface. Consistent with the computational findings, experimental results show that Co-doped TiO2 (Co-TiO2) nanoplates with selectively exposed {001} surfaces exhibit enhanced current densities and turnover frequencies compared to Co-TiO2 nanobipyramids with {101} surfaces. This study highlights the synergy between theoretical calculations and precision synthesis in the development of more effective catalysts.</description>
-      <author>Chang Liu, Soonho Kwon, Perrin Godbold, Grayson Johnson, Sooyeon Hwang, Cheng&#8208;Jun Sun, Hua Zhou, William A. Goddard, Sen Zhang</author>
-      <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c05795</guid>
-    </item>
-    <item>
-      <title>Synchronization of Emerging Materials and their Synthetic Strategies for Efficient Alkaline Water Splitting</title>
-      <link>https://doi.org/10.1002/celc.202500014</link>
-      <description>Dun Chan, Chandan Kumar, Ashakiran Maibam, Sunghoon Yoo, Jaejun Park, Sumin Kim, Hayoung Kim, Thangjam Ibomcha Singh, Seunghyun Lee, ChemElectroChem. None(None)] 2025. https://openalex.org/W4410789907
-
-                Hydrogen is considered the &#8220;future fuel&#8221; due to its zero&#8208;carbon emissions, high gravimetric energy density, and sustainability. However, the generation of hydrogen through the splitting of water requires highly efficient bifunctional electrocatalysts to overcome the sluggish kinetics of each half&#8208;cell reaction, the oxygen evolution reaction (OER) at the anode and the hydrogen evolution reaction (HER) at the cathode. Various emerging materials, including metal&#8208;organic frameworks, 2D materials, single&#8208;atom catalysts, high&#8208;entropy alloys, perovskites, and MXenes, have shown great potential for OER and HER. However, the synthesis strategies for these materials vary significantly based on their unique physicochemical properties. There has been no proper study on synthesis strategies for each class of the emerging materials or synchronization of the heterostructures formed. The variety in emerging materials and available synthesis routes presents ample opportunity for further exploration of target&#8208;oriented materials with unique properties. This review covers recent advancement of emerging materials and their synchronization with existing synthesis strategies for high electrocatalytic activities in water splitting. The review further discusses the challenges and future opportunities for utilizing such emerging materials in water splitting.</description>
-      <author>Dun Chan, Chandan Kumar, Ashakiran Maibam, Sunghoon Yoo, Jaejun Park, Sumin Kim, Hayoung Kim, Thangjam Ibomcha Singh, Seunghyun Lee</author>
-      <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/celc.202500014</guid>
-    </item>
     <item>
       <title>Magnetic graphene vacancies: atomic-scale O2 scissors mediated by antiferromagnetic exchange interaction&#8211;spin-orbit selective coupling effects</title>
       <link>https://doi.org/10.1016/j.jcis.2025.137998</link>
@@ -566,16 +476,6 @@
       <author>Yuanfeng Xu, Hongjing Wang, Songsong Sun, Chang Liu, Yaning Song, Yanju Ji, Hao Zhang</author>
       <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2025.180919</guid>
-    </item>
-    <item>
-      <title>Highly Active and Stable Immobilized Iridium Complexes via Thermochemically Assisted Dangling Oxygen Participation for Electrochemical Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/smsc.202500027</link>
-      <description>Sang Youn Chae, Minee-Liane Choi, Si Young Lee, Jung Hyun Choi, Dae Won Kim, Je Seung Lee, Eun Duck Park, Jong Suk Yoo, Oh&#8208;Shim Joo, Small Science. None(None)] 2025. https://openalex.org/W4410778911
-
-                This study investigates the immobilization of dinuclear iridium&#8208;imidazole complexes onto indium tin oxides for the electrochemical oxygen evolution reaction (OER) in acidic media. The immobilized iridium complexes show exceptional catalytic activity and stability, which are attributed to the facile cleavage of the elongated &#956; &#63743;O bonds between the two iridium metal centers. This cleavage leads to the formation of dangling oxygen, which plays a crucial role in facilitating thermochemical water dissociation. O 2 is released through a dangling oxygen&#8211;participated mechanism, accompanied by the regeneration of the &#956; &#63743;O bonds. This unique OER mechanism, possibly specific to immobilized (strained) molecular catalysts, resembles the lattice oxygen participation mechanism reported for unstable oxides, but with the advantage of high stability in acidic media. This study not only identifies a new mechanism but can also inform the design of immobilized molecular catalysts with enhanced performance.</description>
-      <author>Sang Youn Chae, Minee-Liane Choi, Si Young Lee, Jung Hyun Choi, Dae Won Kim, Je Seung Lee, Eun Duck Park, Jong Suk Yoo, Oh&#8208;Shim Joo</author>
-      <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smsc.202500027</guid>
     </item>
     <item>
       <title>Enriched asymmetric &#960; electrons confining single-site Pt for acidic hydrogen evolution</title>
