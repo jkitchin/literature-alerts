@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Jun  5 01:42:40 2025
+Created on Fri Jun  6 01:42:12 2025
 
-Found 5 results from 2025-05-29 to 2025-06-05
+Found 5 results from 2025-05-30 to 2025-06-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## FOLR1-Targeted Oxygen-Delivering Nanosomes Enhance Chemo-Induced Apoptosis in Hypoxic Cancer   
-
-OpenAlex: https://openalex.org/W4410829045    
-Open access: True
-    
-[Gahyun Lee](https://openalex.org/A5062308269), [Jiwon Kim](https://openalex.org/A5100462888), [J. Yang](https://openalex.org/A5008435972), [Yoon Jung Jang](https://openalex.org/A5111535086), [Jaehee Jang](https://openalex.org/A5109441107), [Masayoshi Tanaka](https://openalex.org/A5018575134), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), [Heeyoung Lee](https://openalex.org/A5100709327), [Jonghoon Choi](https://openalex.org/A5012952224), International Journal of Nanomedicine. Volume 20(None)] 2025.https://doi.org/10.2147/ijn.s513688.
-    
-No abstract    
-
-    
 
 ## Computational Strategies for RTN Model for Supply Logistics of Carbon Dioxide for Carbon Capture and Storage   
 
@@ -56,6 +45,17 @@ OpenAlex: https://openalex.org/W4410907732
 Open access: False
     
 [Fernando V. Lima](https://openalex.org/A5008955099), [Yuhe Tian](https://openalex.org/A5083266245), [Helen Durand](https://openalex.org/A5021832071), [Joel A. Paulson](https://openalex.org/A5042465949), [Lorenz T. Biegler](https://openalex.org/A5052825722), Current Opinion in Chemical Engineering. 48(None)] 2025.https://doi.org/10.1016/j.coche.2025.101148.
+    
+No abstract    
+
+    
+
+## CFD Modeling of Concentration Polarization in High-Performance Flat-Sheet Modules   
+
+OpenAlex: https://openalex.org/W4410951088    
+Open access: False
+    
+[Héctor Pedrozo](https://openalex.org/A5079899169), [Cheick Dosso](https://openalex.org/A5093713938), [Thien Tran](https://openalex.org/A5037749425), [Lingxiang Zhu](https://openalex.org/A5002137675), [Victor Kusuma](https://openalex.org/A5041659494), [David Hopkinson](https://openalex.org/A5101028600), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Grigorios Panagakos](https://openalex.org/A5028498558), No host. None(None)] 2025.https://doi.org/10.2172/2568340.
     
 No abstract    
 

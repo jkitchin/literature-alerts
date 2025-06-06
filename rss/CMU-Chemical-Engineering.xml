@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Jun 2025 01:42:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 01:42:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>FOLR1-Targeted Oxygen-Delivering Nanosomes Enhance Chemo-Induced Apoptosis in Hypoxic Cancer</title>
-      <link>https://doi.org/10.2147/ijn.s513688</link>
-      <description>Gahyun Lee, Jiwon Kim, J. Yang, Yoon Jung Jang, Jaehee Jang, Masayoshi Tanaka, Tagbo H. R. Niepa, Heeyoung Lee, Jonghoon Choi, International Journal of Nanomedicine. Volume 20(None)] 2025. https://openalex.org/W4410829045
-
-                No abstract</description>
-      <author>Gahyun Lee, Jiwon Kim, J. Yang, Yoon Jung Jang, Jaehee Jang, Masayoshi Tanaka, Tagbo H. R. Niepa, Heeyoung Lee, Jonghoon Choi</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2147/ijn.s513688</guid>
-    </item>
     <item>
       <title>Computational Strategies for RTN Model for Supply Logistics of Carbon Dioxide for Carbon Capture and Storage</title>
       <link>https://doi.org/10.1021/acs.iecr.5c00695</link>
@@ -56,6 +46,16 @@
       <author>Fernando V. Lima, Yuhe Tian, Helen Durand, Joel A. Paulson, Lorenz T. Biegler</author>
       <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.coche.2025.101148</guid>
+    </item>
+    <item>
+      <title>CFD Modeling of Concentration Polarization in High-Performance Flat-Sheet Modules</title>
+      <link>https://doi.org/10.2172/2568340</link>
+      <description>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2025. https://openalex.org/W4410951088
+
+                No abstract</description>
+      <author>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
+      <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2568340</guid>
     </item>
   </channel>
 </rss>
