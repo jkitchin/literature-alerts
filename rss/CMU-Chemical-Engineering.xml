@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Jun 2025 01:42:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 01:41:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Computational Strategies for RTN Model for Supply Logistics of Carbon Dioxide for Carbon Capture and Storage</title>
-      <link>https://doi.org/10.1021/acs.iecr.5c00695</link>
-      <description>Soumya Shikha, Joelle Guisso, Anna Robert, Nouha Dkhili, Parveen Kumar, Ignacio E. Grossmann, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4410863166
-
-                No abstract</description>
-      <author>Soumya Shikha, Joelle Guisso, Anna Robert, Nouha Dkhili, Parveen Kumar, Ignacio E. Grossmann</author>
-      <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.5c00695</guid>
-    </item>
     <item>
       <title>Low-Level Direct Currents Eradicate Multi-Drug-Resistant Candida Auris Through Physiological Stress and Antifungal Permeation</title>
       <link>https://doi.org/10.2139/ssrn.5271751</link>
@@ -56,6 +46,36 @@
       <author>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
       <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2568340</guid>
+    </item>
+    <item>
+      <title>Quantifying Uncertainty in High CO&#8322; Capture rate with MEA Solvent Systems</title>
+      <link>https://doi.org/10.2172/2567978</link>
+      <description>Lingyan Deng, Katherine Hedrick, Joshua Morgan, Michael Matuszewski, Grigorios Panagakos, Daison Caballero, Miguel Zamarripa, Benjamin Omell, No host. None(None)] 2025. https://openalex.org/W4411023261
+
+                No abstract</description>
+      <author>Lingyan Deng, Katherine Hedrick, Joshua Morgan, Michael Matuszewski, Grigorios Panagakos, Daison Caballero, Miguel Zamarripa, Benjamin Omell</author>
+      <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2567978</guid>
+    </item>
+    <item>
+      <title>Validation of High-Flux Plate-and-Frame Membrane module design for CO2 capture: a CFD Approach</title>
+      <link>https://doi.org/10.2172/2568464</link>
+      <description>Cheick Dosso, Lingxiang Zhu, Victor Kusuma, Thien Tran, David Hopkinson, H&#233;ctor Pedrozo, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2025. https://openalex.org/W4411041545
+
+                No abstract</description>
+      <author>Cheick Dosso, Lingxiang Zhu, Victor Kusuma, Thien Tran, David Hopkinson, H&#233;ctor Pedrozo, Lorenz T. Biegler, Grigorios Panagakos</author>
+      <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2568464</guid>
+    </item>
+    <item>
+      <title>Process Systems Engineering-Informed Design and Scale-Up of Multi-stage Diafiltration Cascades for Lithium and Cobalt Recovery from Spent Lithium-Ion Batteries</title>
+      <link>https://doi.org/10.2172/2568411</link>
+      <description>Molly Dougher, Jason Yao, Chrysanthos E. Gounaris, Alexander W. Dowling, No host. None(None)] 2025. https://openalex.org/W4411041678
+
+                No abstract</description>
+      <author>Molly Dougher, Jason Yao, Chrysanthos E. Gounaris, Alexander W. Dowling</author>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2568411</guid>
     </item>
   </channel>
 </rss>
