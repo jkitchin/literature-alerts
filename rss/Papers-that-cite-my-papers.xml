@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 08 Jun 2025 01:51:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 01:49:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Atomic Layer Deposited Ir Nanostructures on Titania Nanotube Layers for Efficient Alkaline Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1016/j.electacta.2025.146607</link>
-      <description>Bilal Bawab, Jhonatan Rodr&#237;guez&#8208;Pereira, Jan Michali&#269;ka, Miloslav Pouzar, Lud&#283;k Hrom&#225;dko, Ra&#250;l Zazpe, Jan M. Mac&#225;k, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4410909176
-
-                No abstract</description>
-      <author>Bilal Bawab, Jhonatan Rodr&#237;guez&#8208;Pereira, Jan Michali&#269;ka, Miloslav Pouzar, Lud&#283;k Hrom&#225;dko, Ra&#250;l Zazpe, Jan M. Mac&#225;k</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146607</guid>
-    </item>
-    <item>
-      <title>Selective proton-coupled electron transfer engineering between CuxIny alloy and polyoxometalate medium for efficient CO2 electroreduction to CO</title>
-      <link>https://doi.org/10.1016/j.jcat.2025.116254</link>
-      <description>Wencong Sun, Chunxiang Li, Yuehua Tai, Li Zhou, Wenxue Tian, Shumiao Li, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4410910445
-
-                No abstract</description>
-      <author>Wencong Sun, Chunxiang Li, Yuehua Tai, Li Zhou, Wenxue Tian, Shumiao Li</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116254</guid>
-    </item>
-    <item>
-      <title>Tuning strain of Platinum-Cobalt-Zinc trimetallic nanoparticles for efficient oxygen reduction Catalysis</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.138046</link>
-      <description>Weizhi Wang, Yingying Cai, Pengfei Tian, Jing Xu, Fu&#8208;Zhen Xuan, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4410928228
-
-                No abstract</description>
-      <author>Weizhi Wang, Yingying Cai, Pengfei Tian, Jing Xu, Fu&#8208;Zhen Xuan</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.138046</guid>
-    </item>
-    <item>
-      <title>Understanding the Role of Hydroxyl Functionalization in Linear Poly(Ethylenimine) for Oxidation&#8208;Resistant Direct Air Capture of CO&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1002/adsu.202400960</link>
-      <description>Anthony J. Varni, L. Thigpen, Marcos F. Calegari Andrade, Maxwell A. T. Marple, Elwin Hunter&#8208;Sellars, Amitesh Maiti, Sichi Li, Simon H. Pang, Advanced Sustainable Systems. None(None)] 2025. https://openalex.org/W4410930554
-
-                Abstract Aminopolymer&#8208;based adsorbents are a prominent class of materials being used for direct air capture of CO 2 at the industrial scale. However, improving their working lifetime, specifically by increasing their resilience to oxidative degradation, remains an ongoing challenge. Toward this end, functionalization of aminopolymers with non&#8208;amine functionalities such as hydroxyls has emerged in recent years as a promising strategy toward improving adsorbent lifetime. Although there is a growing body of work demonstrating the effectiveness of this approach and investigating the origin of this improved stability, studies to date have primarily focused on branched aminopolymer systems such as branched poly(ethylenimine). In this work, hydroxyl&#8208;functionalized linear poly(ethylenimine) is used to continue to probe the underlying protective mechanism of this strategy. A combination of thermogravimetric analysis, NMR relaxometry, differential scanning calorimetry, and computational simulations is used to better understand the relationship between the extent of chemical functionalization, physical properties, and adsorbent performance.</description>
-      <author>Anthony J. Varni, L. Thigpen, Marcos F. Calegari Andrade, Maxwell A. T. Marple, Elwin Hunter&#8208;Sellars, Amitesh Maiti, Sichi Li, Simon H. Pang</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adsu.202400960</guid>
-    </item>
-    <item>
-      <title>Spectroelectrochemical Analysis of Oxygen Evolution by Nickel Hydroxide: Role of Oxygen Vacancies, Charge Transfer, and Silk Fibroin</title>
-      <link>https://doi.org/10.1002/admi.202500190</link>
-      <description>Eduardo R. do Nascimento, Michele Lemos de Souza, Alexandre G. Brolo, Wendel A. Alves, Advanced Materials Interfaces. None(None)] 2025. https://openalex.org/W4410930783
-
-                Abstract This study investigates the oxygen evolution reaction (OER) on nickel hydroxide (Ni(OH)&#8322;) catalysts, focusing on the roles of oxygen vacancies (O v ), charge transfer, and silk fibroin. Spectroelectrochemical techniques, including in situ surface&#8208;enhanced Raman (SERS) and UV&#8211;vis spectroscopy, revealed that O v formation and Ni&#8208;to&#8208;Au charge transfer facilitate the generation of high&#8208;valence Ni and superoxide species. A Mars&#8211;van Krevelen mechanism is proposed to describe the participation of lattice oxygen. Silk fibroin is found to enhance catalytic activity by lowering the activation energy of key intermediates, as indicated by higher transfer coefficients and Tafel slope analysis. At +300 mV overpotential, fibroin&#8208;modified samples exhibited intrinsic turnover frequencies (TOFs) of &#8776;0.7 s&#8315;&#185;, outperforming fibroin&#8208;free counterparts (&#8776;0.4 s&#8315;&#185;). These results highlight the synergy between structural defects and interfacial modifications in improving Ni(OH)&#8322;&#8208;based OER catalysts for sustainable energy applications.</description>
-      <author>Eduardo R. do Nascimento, Michele Lemos de Souza, Alexandre G. Brolo, Wendel A. Alves</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/admi.202500190</guid>
-    </item>
     <item>
       <title>Defect-Mediated Selectivity: Sulfur Vacancy Engineering in Tin Sulfide Boosts CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction to Formate</title>
       <link>https://doi.org/10.1021/acs.chemmater.5c00438</link>
@@ -486,16 +436,6 @@
       <author>Haoxiong Nan, Bingxu Chen, Li-Hui Mou, Yuanqing Wang, Jia Yu</author>
       <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2025.216834</guid>
-    </item>
-    <item>
-      <title>Modulating Ru&#8211;O bond covalency via Ga-doping for enhanced oxygen evolution reaction in acid</title>
-      <link>https://doi.org/10.1007/s11426-025-2653-y</link>
-      <description>Zhongliang Liu, Heng Liu, Kai Zhou, Miaomiao Liu, Tianrui Xue, Yongjun Shen, Hao Li, Huihui Li, Chunzhong Li, Science China Chemistry. None(None)] 2025. https://openalex.org/W4410915316
-
-                No abstract</description>
-      <author>Zhongliang Liu, Heng Liu, Kai Zhou, Miaomiao Liu, Tianrui Xue, Yongjun Shen, Hao Li, Huihui Li, Chunzhong Li</author>
-      <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11426-025-2653-y</guid>
     </item>
     <item>
       <title>Discovery of chemically modified higher tungsten boride by means of hybrid GNN/DFT approach</title>
