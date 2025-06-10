@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Jun 2025 01:49:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 01:45:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Defect-Mediated Selectivity: Sulfur Vacancy Engineering in Tin Sulfide Boosts CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction to Formate</title>
-      <link>https://doi.org/10.1021/acs.chemmater.5c00438</link>
-      <description>Linping Wu, Miaomiao Liu, Min Bu, Rui Tang, Ling Han, Xiaobin Fu, Yuxuan Zhang, Linjuan Zhang, Miao Shen, Qian Yuan, Chemistry of Materials. None(None)] 2025. https://openalex.org/W4410941018
-
-                No abstract</description>
-      <author>Linping Wu, Miaomiao Liu, Min Bu, Rui Tang, Ling Han, Xiaobin Fu, Yuxuan Zhang, Linjuan Zhang, Miao Shen, Qian Yuan</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.5c00438</guid>
-    </item>
-    <item>
-      <title>Controlled overall water splitting in two-dimensional Sr(BiO2)2: Spontaneous oxygen evolution and regulated hydrogen production via isoelectronic doping and strain engineering</title>
-      <link>https://doi.org/10.1016/j.jallcom.2025.180919</link>
-      <description>Yuanfeng Xu, Hongjing Wang, Songsong Sun, Chang Liu, Yaning Song, Yanju Ji, Hao Zhang, Journal of Alloys and Compounds. None(None)] 2025. https://openalex.org/W4410942700
-
-                No abstract</description>
-      <author>Yuanfeng Xu, Hongjing Wang, Songsong Sun, Chang Liu, Yaning Song, Yanju Ji, Hao Zhang</author>
-      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2025.180919</guid>
-    </item>
     <item>
       <title>(TM-O&amp;lt;sub&amp;gt;4&amp;lt;/sub&amp;gt;)&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt;@h-B&amp;lt;sub&amp;gt;12&amp;lt;/sub&amp;gt;N&amp;lt;sub&amp;gt;12&amp;lt;/sub&amp;gt; for Hydrogen Evolution Reaction and Achieving Highly Efficient Single-Functional Oxygen Evolution Reaction Catalysis via Axial Ligand Modification</title>
       <link>https://doi.org/10.12677/japc.2025.142037</link>
@@ -422,7 +402,7 @@
       <link>https://doi.org/10.1038/s41467-025-60400-5</link>
       <description>Yu Qiu, Mingzi Sun, Jiandong Wu, Chunxiao Chai, Shengwei Wang, Hong Huang, Xiao Zhao, Dongxu Jiao, Shan Xu, Dewen Wang, Xin Ge, Wei Zhang, Weitao Zheng, Yujiang Song, Jinchang Fan, Bolong Huang, Xiaoqiang Cui, Nature Communications. 16(1)] 2025. https://openalex.org/W4411077784
 
-                No abstract</description>
+                The efficiency of the oxygen reduction reaction (ORR) is limited by the scaling relationship in the conventional oxygen associative pathway. To break such limitations, we present an approach to effectively activate the oxygen dissociative pathway through co-confining single p-block (In, Sn, Pb) atoms and interstitial H atoms within Pd metallenes, leading to good ORR performance. PdPbHx metallenes exhibit a high mass activity of 1.36 A mg-1 at 0.95 V (vs. RHE), which is 46.9 times higher than that of the benchmark Pt/C. The minimal performance decay after 50,000 potential cycles confirms a good stability. In situ vibrational spectroscopy investigations and theoretical calculations highlight that interstitial H atoms facilitate the direct dissociation of O2 while single Pb atoms enhance O2 adsorption strength. The electroactive PdPbHx metallenes is attributed to the up-shifted Pd-4d orbitals induced by H and Pb atoms. This research supplies critical inspiration for developing highly efficient ORR electrocatalysts.</description>
       <author>Yu Qiu, Mingzi Sun, Jiandong Wu, Chunxiao Chai, Shengwei Wang, Hong Huang, Xiao Zhao, Dongxu Jiao, Shan Xu, Dewen Wang, Xin Ge, Wei Zhang, Weitao Zheng, Yujiang Song, Jinchang Fan, Bolong Huang, Xiaoqiang Cui</author>
       <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-60400-5</guid>
@@ -436,16 +416,6 @@
       <author>Haoxiong Nan, Bingxu Chen, Li-Hui Mou, Yuanqing Wang, Jia Yu</author>
       <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2025.216834</guid>
-    </item>
-    <item>
-      <title>Discovery of chemically modified higher tungsten boride by means of hybrid GNN/DFT approach</title>
-      <link>https://doi.org/10.1038/s41524-025-01628-z</link>
-      <description>Nikita A. Matsokin, Roman A. Eremin, Alena Kuznetsova, Innokentiy S. Humonen, A. Krautsou, Vladimir D. Lazarev, Yuliya Z. Vassilyeva, A. Ya. Pak, Semen Budennyy, Alexander G. Kvashnin, Andrei A. Osiptsov, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4410940179
-
-                No abstract</description>
-      <author>Nikita A. Matsokin, Roman A. Eremin, Alena Kuznetsova, Innokentiy S. Humonen, A. Krautsou, Vladimir D. Lazarev, Yuliya Z. Vassilyeva, A. Ya. Pak, Semen Budennyy, Alexander G. Kvashnin, Andrei A. Osiptsov</author>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01628-z</guid>
     </item>
     <item>
       <title>Macro-level Electrochemical Modeling Strategies of Low-Temperature and High-Temperature Electrolyzers for Hydrogen Production: A Review</title>

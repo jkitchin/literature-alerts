@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Jun  9 01:49:07 2025
+Created on Tue Jun 10 01:45:12 2025
 
-Found 46 results from 2025-06-02 to 2025-06-09
+Found 43 results from 2025-06-03 to 2025-06-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967)
@@ -16,28 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Defect-Mediated Selectivity: Sulfur Vacancy Engineering in Tin Sulfide Boosts CO2 Electroreduction to Formate   
-
-OpenAlex: https://openalex.org/W4410941018    
-Open access: False
-    
-[Linping Wu](https://openalex.org/A5024796661), [Miaomiao Liu](https://openalex.org/A5100379992), [Min Bu](https://openalex.org/A5018023581), [Rui Tang](https://openalex.org/A5100655714), [Ling Han](https://openalex.org/A5004127709), [Xiaobin Fu](https://openalex.org/A5020882781), [Yuxuan Zhang](https://openalex.org/A5100319902), [Linjuan Zhang](https://openalex.org/A5075377676), [Miao Shen](https://openalex.org/A5102815714), [Qian Yuan](https://openalex.org/A5090649609), Chemistry of Materials. None(None)] 2025.https://doi.org/10.1021/acs.chemmater.5c00438.
-    
-No abstract    
-
-    
-
-## Controlled overall water splitting in two-dimensional Sr(BiO2)2: Spontaneous oxygen evolution and regulated hydrogen production via isoelectronic doping and strain engineering   
-
-OpenAlex: https://openalex.org/W4410942700    
-Open access: False
-    
-[Yuanfeng Xu](https://openalex.org/A5062052894), [Hongjing Wang](https://openalex.org/A5024324765), [Songsong Sun](https://openalex.org/A5108688715), [Chang Liu](https://openalex.org/A5103155711), [Yaning Song](https://openalex.org/A5011018594), [Yanju Ji](https://openalex.org/A5101825980), [Hao Zhang](https://openalex.org/A5100396965), Journal of Alloys and Compounds. None(None)] 2025.https://doi.org/10.1016/j.jallcom.2025.180919.
-    
-No abstract    
-
-    
 
 ## (TM-O<sub>4</sub>)<sub>3</sub>@h-B<sub>12</sub>N<sub>12</sub> for Hydrogen Evolution Reaction and Achieving Highly Efficient Single-Functional Oxygen Evolution Reaction Catalysis via Axial Ligand Modification   
 
@@ -475,7 +453,7 @@ Open access: True
     
 [Yu Qiu](https://openalex.org/A5070511588), [Mingzi Sun](https://openalex.org/A5077976121), [Jiandong Wu](https://openalex.org/A5036793335), [Chunxiao Chai](https://openalex.org/A5085297450), [Shengwei Wang](https://openalex.org/A5115591441), [Hong Huang](https://openalex.org/A5101304431), [Xiao Zhao](https://openalex.org/A5058184619), [Dongxu Jiao](https://openalex.org/A5033538563), [Shan Xu](https://openalex.org/A5102673464), [Dewen Wang](https://openalex.org/A5069973371), [Xin Ge](https://openalex.org/A5100677883), [Wei Zhang](https://openalex.org/A5100441678), [Weitao Zheng](https://openalex.org/A5108050913), [Yujiang Song](https://openalex.org/A5023449620), [Jinchang Fan](https://openalex.org/A5048933060), [Bolong Huang](https://openalex.org/A5022350148), [Xiaoqiang Cui](https://openalex.org/A5086736710), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-60400-5.
     
-No abstract    
+The efficiency of the oxygen reduction reaction (ORR) is limited by the scaling relationship in the conventional oxygen associative pathway. To break such limitations, we present an approach to effectively activate the oxygen dissociative pathway through co-confining single p-block (In, Sn, Pb) atoms and interstitial H atoms within Pd metallenes, leading to good ORR performance. PdPbHx metallenes exhibit a high mass activity of 1.36 A mg-1 at 0.95 V (vs. RHE), which is 46.9 times higher than that of the benchmark Pt/C. The minimal performance decay after 50,000 potential cycles confirms a good stability. In situ vibrational spectroscopy investigations and theoretical calculations highlight that interstitial H atoms facilitate the direct dissociation of O2 while single Pb atoms enhance O2 adsorption strength. The electroactive PdPbHx metallenes is attributed to the up-shifted Pd-4d orbitals induced by H and Pb atoms. This research supplies critical inspiration for developing highly efficient ORR electrocatalysts.    
 
     
 
@@ -485,17 +463,6 @@ OpenAlex: https://openalex.org/W4411078806
 Open access: False
     
 [Haoxiong Nan](https://openalex.org/A5023784940), [Bingxu Chen](https://openalex.org/A5090771169), [Li-Hui Mou](https://openalex.org/A5086547994), [Yuanqing Wang](https://openalex.org/A5100321637), [Jia Yu](https://openalex.org/A5100734794), Coordination Chemistry Reviews. 542(None)] 2025.https://doi.org/10.1016/j.ccr.2025.216834.
-    
-No abstract    
-
-    
-
-## Discovery of chemically modified higher tungsten boride by means of hybrid GNN/DFT approach   
-
-OpenAlex: https://openalex.org/W4410940179    
-Open access: True
-    
-[Nikita A. Matsokin](https://openalex.org/A5036763143), [Roman A. Eremin](https://openalex.org/A5075927043), [Alena Kuznetsova](https://openalex.org/A5041892963), [Innokentiy S. Humonen](https://openalex.org/A5031338775), [A. Krautsou](https://openalex.org/A5027056164), [Vladimir D. Lazarev](https://openalex.org/A5007428683), [Yuliya Z. Vassilyeva](https://openalex.org/A5086492262), [A. Ya. Pak](https://openalex.org/A5032025541), [Semen Budennyy](https://openalex.org/A5009958025), [Alexander G. Kvashnin](https://openalex.org/A5032037959), [Andrei A. Osiptsov](https://openalex.org/A5117795038), npj Computational Materials. 11(1)] 2025.https://doi.org/10.1038/s41524-025-01628-z.
     
 No abstract    
 
