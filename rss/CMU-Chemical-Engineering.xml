@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 10 Jun 2025 01:45:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 01:44:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>CFD Modeling of Concentration Polarization in High-Performance Flat-Sheet Modules</title>
-      <link>https://doi.org/10.2172/2568340</link>
-      <description>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2025. https://openalex.org/W4410951088
-
-                No abstract</description>
-      <author>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
-      <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2568340</guid>
-    </item>
     <item>
       <title>Quantifying Uncertainty in High CO&#8322; Capture rate with MEA Solvent Systems</title>
       <link>https://doi.org/10.2172/2567978</link>

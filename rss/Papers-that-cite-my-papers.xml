@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 10 Jun 2025 01:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 01:44:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>(TM-O&amp;lt;sub&amp;gt;4&amp;lt;/sub&amp;gt;)&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt;@h-B&amp;lt;sub&amp;gt;12&amp;lt;/sub&amp;gt;N&amp;lt;sub&amp;gt;12&amp;lt;/sub&amp;gt; for Hydrogen Evolution Reaction and Achieving Highly Efficient Single-Functional Oxygen Evolution Reaction Catalysis via Axial Ligand Modification</title>
-      <link>https://doi.org/10.12677/japc.2025.142037</link>
-      <description>&#33451;&#34122; &#26446;, Journal of Advances in Physical Chemistry. 14(02)] 2025. https://openalex.org/W4410944936
-
-                No abstract</description>
-      <author>&#33451;&#34122; &#26446;</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.12677/japc.2025.142037</guid>
-    </item>
-    <item>
-      <title>Cobalt&#8211;Platinum Nanoparticle Encapsulated within Carbon Nanotube for Superior O&lt;sub&gt;2&lt;/sub&gt; Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acsaem.5c00209</link>
-      <description>Dikeshwar Halba, Animesh K. Ojha, Srimanta Pakhira, ACS Applied Energy Materials. None(None)] 2025. https://openalex.org/W4410948950
-
-                No abstract</description>
-      <author>Dikeshwar Halba, Animesh K. Ojha, Srimanta Pakhira</author>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.5c00209</guid>
-    </item>
-    <item>
-      <title>Foundation models for metallurgy?</title>
-      <link>https://doi.org/10.1557/s43577-025-00911-0</link>
-      <description>Daniel Marchand, MRS Bulletin. None(None)] 2025. https://openalex.org/W4410956524
-
-                No abstract</description>
-      <author>Daniel Marchand</author>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1557/s43577-025-00911-0</guid>
-    </item>
-    <item>
-      <title>Cation Vacancies in Ti&#8208;Deficient TiO&lt;sub&gt;2&lt;/sub&gt; Nanosheets Enable Highly Stable Trapping of Pt Single Atoms for Persistent Photocatalytic Hydrogen Evolution</title>
-      <link>https://doi.org/10.1002/smll.202502428</link>
-      <description>Hayoon Jung, Gihoon Cha, Hyesung Kim, Johannes Will, Xin Zhou, Zde&#328;&#283;k Ba&#271;ura, Giorgio Zoppellaro, Ana S. Dobrota, Natalia V. Skorodumova, Igor A. Pa&#353;ti, Bidyut Bikash Sarma, Jochen Schmidt, Erdmann Spiecker, Josef Breu, Patrik Schmuki, Small. None(None)] 2025. https://openalex.org/W4410958724
-
-                Abstract The stabilization of single&#8208;atom catalysts on semiconductor substrates is pivotal for advancing photocatalysis. TiO 2 , a widely employed photocatalyst, typically stabilizes single atoms at oxygen vacancies&#8212;sites that are accessible but prone to agglomeration under illumination. Here, we demonstrate that cation vacancies in Ti&#8208;deficient TiO 2 nanosheets provide highly stable anchoring sites for Pt single atoms, enabling persistent photocatalytic hydrogen evolution. Ultrathin TiO 2 nanosheets with intrinsic Ti 4+ vacancies are synthesized via lepidocrocite&#8208;type titanate delamination and Pt single atoms are selectively trapped within these vacancies through a simple immersion process. The resulting Pt&#8208;decorated nanosheets exhibit superior photocatalytic hydrogen evolution performance, outperforming both Pt nanoparticle&#8208;loaded nanosheets and benchmarked Pt single&#8208;atom catalysts on P25. Crucially, Pt atoms anchored at Ti 4+ vacancies display remarkable resistance to light&#8208;induced agglomeration, a key limitation of conventional single&#8208;atom photocatalysts. Density functional theory calculations reveal that Pt incorporation into Ti 4+ vacancies is highly thermodynamically favorable and optimizes hydrogen adsorption energetics for enhanced catalytic activity. This work highlights the critical role of cation defect engineering in stabilizing single&#8208;atom co&#8208;catalysts and advancing the efficiency and durability of photocatalytic hydrogen evolution.</description>
-      <author>Hayoon Jung, Gihoon Cha, Hyesung Kim, Johannes Will, Xin Zhou, Zde&#328;&#283;k Ba&#271;ura, Giorgio Zoppellaro, Ana S. Dobrota, Natalia V. Skorodumova, Igor A. Pa&#353;ti, Bidyut Bikash Sarma, Jochen Schmidt, Erdmann Spiecker, Josef Breu, Patrik Schmuki</author>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202502428</guid>
-    </item>
-    <item>
-      <title>Surface hydroxide accelerates acidic hydrogen oxidation kinetics</title>
-      <link>https://doi.org/10.21203/rs.3.rs-6674045/v1</link>
-      <description>Zhongbin Zhuang, Yanrong Xue, Jinjie Fang, Yu Mao, Xingdong Wang, Xuerui Liu, Ying&#8208;Rui Lu, Jiajing Pei, Jiazhan Li, Wei Zhu, Ziyun Wang, Research Square (Research Square). None(None)] 2025. https://openalex.org/W4410965423
-
-                Abstract Mechanistic understanding of hydrogen oxidation reaction (HOR) kinetics is crucial for developing high-performance fuel cell anode catalysts. Adsorbed hydroxide (OHad) significantly impacts HOR kinetics in alkaline conditions by directly participating as a reactant, but its impact in acidic conditions is overlooked due to its instability on metal surfaces and inability to be replenished. Here, we demonstrate that OHad can be stably anchored on Ru, Pd, and Rh surfaces in the HOR potential region through pre-electrooxidation treatment, significantly promoting their acidic HOR kinetics. In-situ spectroscopies and ab initio molecular dynamics simulation verify that OHad persists on pre-oxidized metal surfaces and alters the water orientation from &#8216;H-down&#8217; to &#8216;O-down&#8217; within the electric double layer. This change shortens the distance between adsorbed hydrogen (Had) and interfacial water and promotes the formation of the interfacial hydrogen-bond network, thereby weakening the apparent hydrogen binding energy and reducing Had desorption energy barriers from the catalyst surface to bulk electrolyte, enhancing acidic HOR kinetics. Inspired by the fundamental understandings, a Ru-RuOx(OH)y catalyst is synthesized, achieving a 41-fold enhancement in HOR mass activity compared with Ru/C. The Ru-RuOx(OH)y illustrates comparable performance to Pt in practical proton-exchange membrane fuel cell (PEMFC) applications and superior voltage reversal tolerance during start-up/shut-down processes, enabling the development of a totally Pt-free PEMFC.</description>
-      <author>Zhongbin Zhuang, Yanrong Xue, Jinjie Fang, Yu Mao, Xingdong Wang, Xuerui Liu, Ying&#8208;Rui Lu, Jiajing Pei, Jiazhan Li, Wei Zhu, Ziyun Wang</author>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-6674045/v1</guid>
-    </item>
-    <item>
-      <title>Theoretical screening of transition metal atoms supported on two-dimensional Janus VSSe for HER/OER/ORR single-atom catalysts</title>
-      <link>https://doi.org/10.1039/d4ta08896d</link>
-      <description>Zhengrui Li, Xinran Li, F. Jia, Libo Wang, Ping Li, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4410966451
-
-                A single-atom catalyst was designed by doping transition metal atoms on the surface of Janus material VSSe, which exhibited great catalytic performance in HER/OER/ORR reactions.</description>
-      <author>Zhengrui Li, Xinran Li, F. Jia, Libo Wang, Ping Li</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta08896d</guid>
-    </item>
-    <item>
-      <title>Spin crossover-driven diiron electrocatalyst boosts sustainable water oxidation</title>
-      <link>https://doi.org/10.1038/s41893-025-01571-3</link>
-      <description>Ching&#8208;Wei Tung, Wei Zhang, Tai-Ying Lai, Jiali Wang, You&#8208;Chiuan Chu, Guanbo Wang, Chia&#8208;Shuo Hsu, Yen&#8208;Fa Liao, Nozomu Hiraoka, Hirofumi Ishii, Xiao Cheng Zeng, Hao Ming Chen, Nature Sustainability. None(None)] 2025. https://openalex.org/W4410967320
-
-                No abstract</description>
-      <author>Ching&#8208;Wei Tung, Wei Zhang, Tai-Ying Lai, Jiali Wang, You&#8208;Chiuan Chu, Guanbo Wang, Chia&#8208;Shuo Hsu, Yen&#8208;Fa Liao, Nozomu Hiraoka, Hirofumi Ishii, Xiao Cheng Zeng, Hao Ming Chen</author>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41893-025-01571-3</guid>
-    </item>
-    <item>
-      <title>Data science in chemical engineering</title>
-      <link>https://doi.org/10.1016/b978-0-443-29058-9.00002-1</link>
-      <description>Francisco Javier L&#243;pez-Flores, Rogelio Ochoa-Barrag&#225;n, Alma Yunuen Raya-Tapia, C&#233;sar Ram&#237;rez&#8208;M&#225;rquez, Jos&#233; Mar&#237;a Ponce&#8208;Ortega, Elsevier eBooks. None(None)] 2025. https://openalex.org/W4410971308
-
-                No abstract</description>
-      <author>Francisco Javier L&#243;pez-Flores, Rogelio Ochoa-Barrag&#225;n, Alma Yunuen Raya-Tapia, C&#233;sar Ram&#237;rez&#8208;M&#225;rquez, Jos&#233; Mar&#237;a Ponce&#8208;Ortega</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-29058-9.00002-1</guid>
-    </item>
-    <item>
-      <title>Utilizing waste PET plastics derived metal-organic framework catalyst for the hydrodeoxygenation of lignin phenols</title>
-      <link>https://doi.org/10.1016/j.cej.2025.164392</link>
-      <description>Yasin Khani, Avnish Kumar, Jinwoo Hwang, Chang Hyun Ko, Jeong&#8208;Myeong Ha, Jeong Woo Han, Young-Kwon Park, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4410976464
-
-                No abstract</description>
-      <author>Yasin Khani, Avnish Kumar, Jinwoo Hwang, Chang Hyun Ko, Jeong&#8208;Myeong Ha, Jeong Woo Han, Young-Kwon Park</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.164392</guid>
-    </item>
     <item>
       <title>Experimental Evaluation of CoCO3 &amp;amp; CoS2 Electrocatalysts Supported on Carbon-cloth along with a DFT Approach Comparison</title>
       <link>https://doi.org/10.1016/j.electacta.2025.146620</link>
@@ -416,26 +326,6 @@
       <author>Haoxiong Nan, Bingxu Chen, Li-Hui Mou, Yuanqing Wang, Jia Yu</author>
       <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2025.216834</guid>
-    </item>
-    <item>
-      <title>Macro-level Electrochemical Modeling Strategies of Low-Temperature and High-Temperature Electrolyzers for Hydrogen Production: A Review</title>
-      <link>https://doi.org/10.1021/acs.iecr.4c05008</link>
-      <description>Krishna Murthy Busam, Sai Pushpitha Vudata, Wenyuan Li, Fernando V. Lima, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4410975213
-
-                No abstract</description>
-      <author>Krishna Murthy Busam, Sai Pushpitha Vudata, Wenyuan Li, Fernando V. Lima</author>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c05008</guid>
-    </item>
-    <item>
-      <title>Entropy study of adsorption of &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1735" altimg="si165.svg"&gt;&lt;mml:mi&gt;H&lt;/mml:mi&gt;&lt;/mml:math&gt; and &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1740" altimg="si166.svg"&gt;&lt;mml:mi&gt;O&lt;/mml:mi&gt;&lt;/mml:math&gt; atoms on &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1745" altimg="si11.svg"&gt;&lt;mml:mrow&gt;&lt;mml:mi&gt;A&lt;/mml:mi&gt;&lt;mml:mi&gt;g&lt;/mml:mi&gt;&lt;mml:mrow&gt;&lt;mml:mo&gt;(&lt;/mml:mo&gt;&lt;mml&#8230;</title>
-      <link>https://doi.org/10.1016/j.physa.2025.130693</link>
-      <description>Elizabeth del V. G&#243;mez, Fabricio Orlando Sanchez&#8211;Varretti, Luc&#305;&#769;a B. Avalle, A. J. Ram&#237;rez-Pastor, M. Cecilia Gim&#233;nez, Physica A Statistical Mechanics and its Applications. None(None)] 2025. https://openalex.org/W4410955528
-
-                No abstract</description>
-      <author>Elizabeth del V. G&#243;mez, Fabricio Orlando Sanchez&#8211;Varretti, Luc&#305;&#769;a B. Avalle, A. J. Ram&#237;rez-Pastor, M. Cecilia Gim&#233;nez</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.physa.2025.130693</guid>
     </item>
   </channel>
 </rss>
