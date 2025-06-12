@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 11 Jun 2025 01:44:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 01:43:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Experimental Evaluation of CoCO3 &amp;amp; CoS2 Electrocatalysts Supported on Carbon-cloth along with a DFT Approach Comparison</title>
-      <link>https://doi.org/10.1016/j.electacta.2025.146620</link>
-      <description>Aref Besharat, Negin Emadi Sohi, Seyedeh Mansoureh Hashemi, Mahdi Abolghasemi Rise, Shahram Raygan, Cyrus Zamani, Rouhollah Mehdinavaz Aghdam, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4410980379
-
-                No abstract</description>
-      <author>Aref Besharat, Negin Emadi Sohi, Seyedeh Mansoureh Hashemi, Mahdi Abolghasemi Rise, Shahram Raygan, Cyrus Zamani, Rouhollah Mehdinavaz Aghdam</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146620</guid>
-    </item>
-    <item>
-      <title>Theoretical insight on transition metal cluster-loaded crystalline carbon nitride for hydrogen evolution reactions</title>
-      <link>https://doi.org/10.1016/j.mcat.2025.115257</link>
-      <description>Jing Kong, Yi Li, Yongfan Zhang, Wei Lin, Molecular Catalysis. 583(None)] 2025. https://openalex.org/W4410989849
-
-                No abstract</description>
-      <author>Jing Kong, Yi Li, Yongfan Zhang, Wei Lin</author>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2025.115257</guid>
-    </item>
-    <item>
-      <title>The Role of Hydroxyl Species in the Alkaline Hydrogen Evolution Reaction over Transition Metal Surfaces</title>
-      <link>https://doi.org/10.1016/j.actphy.2025.100111</link>
-      <description>Ruizhi Duan, Xiaomei Wang, Panwang Zhou, Yang Liu, Can Li, Acta Physico-Chimica Sinica. None(None)] 2025. https://openalex.org/W4410991702
-
-                No abstract</description>
-      <author>Ruizhi Duan, Xiaomei Wang, Panwang Zhou, Yang Liu, Can Li</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.actphy.2025.100111</guid>
-    </item>
-    <item>
-      <title>Surface electron-donor-boosting single-atom nickel sites for CO2 electroreduction in pure water</title>
-      <link>https://doi.org/10.1016/j.checat.2025.101416</link>
-      <description>Huang Xiao-xiong, Linping Qian, Yi Ji, Wenzhe Niu, Yuncheng Hu, Liangyao Xue, Jingjing Li, Shuanglong Huang, Jiaqi Zhang, Youyong Li, Bo Zhang, Chem Catalysis. None(None)] 2025. https://openalex.org/W4410994270
-
-                No abstract</description>
-      <author>Huang Xiao-xiong, Linping Qian, Yi Ji, Wenzhe Niu, Yuncheng Hu, Liangyao Xue, Jingjing Li, Shuanglong Huang, Jiaqi Zhang, Youyong Li, Bo Zhang</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.checat.2025.101416</guid>
-    </item>
-    <item>
-      <title>Elucidating the Activity of Electrochemical Nitrate Reduction: High-Valent Anionic Intermediates as Kinetic Gatekeepers</title>
-      <link>https://doi.org/10.1021/jacs.5c05728</link>
-      <description>Sheng&#8722;Jie Qian, Hao Cao, X. C. Lv, Jun Li, Yang&#8208;Gang Wang, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4410995784
-
-                The persistent paradox in electrochemical nitrate reduction (NO3-RR)&#9472;the requirement of high overpotentials despite its highly exothermic nature&#9472;remains a critical roadblock for efficient ammonia electrosynthesis. Here, we resolve this conundrum by identifying a high-valent anionic intermediate as kinetic gatekeepers during the nitrate reduction on a single-atom catalyst by using AIMD simulations under explicit solvation and electrode potentials. Employing our self-developed constant-potential thermodynamic integration method, we reveal a stark kinetic barrier dichotomy: while the reaction is thermodynamically favorable governed by the N-O break, the protonation to oxygen at a low anionic state necessitates substantial activation energy. Mechanistic analysis uncovers that electrode polarization preactivates *NO3- into a metastable high-valent *NO32- intermediate, which serves as the key step to the following protonation process. Crucially, this intermediate's stabilization requires a highly negative potential, directly linking its formation to the observed overpotential. Furthermore, molecular dynamics simulations also demonstrate that K+ cations play a key role in electrostatically stabilizing the adsorption of negatively charged NO3- onto the negatively polarized cathode. This work calls for the urgent reconsideration of conventional nitrate reduction mechanisms and the exigency of refined interface design principles for improved nitrate electrocatalysis.</description>
-      <author>Sheng&#8722;Jie Qian, Hao Cao, X. C. Lv, Jun Li, Yang&#8208;Gang Wang</author>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c05728</guid>
-    </item>
-    <item>
-      <title>Nuclear quantum effects in two-hydrogen intermediates on graphene-embedded transition metal atoms</title>
-      <link>https://doi.org/10.1039/d5cp00820d</link>
-      <description>Erxun Han, Wei Fang, Ji Chen, Physical Chemistry Chemical Physics. None(None)] 2025. https://openalex.org/W4410995993
-
-                The NQEs can affect the structures and kinetics of two-hydrogen intermediates on graphene-embedded transition metal atoms.</description>
-      <author>Erxun Han, Wei Fang, Ji Chen</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5cp00820d</guid>
-    </item>
-    <item>
-      <title>Electrocatalysts Based on 2D Materials for Hydrogen Evolution Reactions</title>
-      <link>https://doi.org/10.1007/978-981-16-4480-1_58-1</link>
-      <description>Levna Chacko, R Fernandes, Christie Thomas Cherian, Nainesh K. Patel, No host. None(None)] 2025. https://openalex.org/W4411002744
-
-                No abstract</description>
-      <author>Levna Chacko, R Fernandes, Christie Thomas Cherian, Nainesh K. Patel</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-981-16-4480-1_58-1</guid>
-    </item>
     <item>
       <title>Mechanism of L12-Pt3Co intermetallic compounds in fuel cells modulated by oxygen functional groups on the surface of carbon supports</title>
       <link>https://doi.org/10.1016/j.ijhydene.2025.05.394</link>
