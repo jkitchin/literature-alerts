@@ -4,8 +4,58 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Jun 2025 01:52:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 01:50:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Advances in ORR Catalysis Promoted by Graphene-Supported Low-Cost Metal Clusters: A DFT Study</title>
+      <link>https://doi.org/10.1021/acsami.5c08441</link>
+      <description>Ida Ritacco, Giuseppe Santoriello, Matteo Farnesi Camellone, Lucia Caporaso, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4411347754
+
+                The oxygen reduction reaction (ORR), which converts molecular oxygen (O2) into water (H2O), is critical for renewable energy transformation processes. However, its industrial application is hindered by long conversion times. Recent studies suggest that transition metal clusters deposited on graphene are promising candidates for ORR catalysis. In this work, we employed density functional theory (DFT) calculations to explore the thermodynamically most stable energy profile of the ORR on pentamer metal clusters (Fe5, Co5, and Pt5) supported on undoped graphene and nitrogen-doped graphene (for Fe5), under standard electrochemical conditions (pH = 0 and U = 0). Both the "standard" intermediates (*OOH, *O, *OH) and the "unconventional" intermediates (*O*OH, *OH*OH) were studied, analyzing thermodynamic stability, adsorption energies, and the influence of the implicit water solvent. Our results reveal that the inclusion of "unconventional" intermediates significantly alters the reaction thermodynamics, presenting a new pathway that is energetically more favorable than the classical one. Catalytic performance predictions, based on the theoretical overpotential (&#951;ORR), indicate that the four catalysts exhibit good stability and high activity in both reduction mechanisms. In particular, Fe5@NGr shows the best catalytic performance in the "unconventional" mechanism, with an &#951;ORR close to zero. This study, for the first time, demonstrates how the metal cluster and the support's electronic and structural properties influence the stability of ORR intermediates and catalytic performance. The improved performance of Fe5@NGr in the "unconventional" mechanism highlights the importance of selecting the right metal and engineering the graphene support, particularly through N-doping, for the rational design of low-cost, high-performance catalysts.</description>
+      <author>Ida Ritacco, Giuseppe Santoriello, Matteo Farnesi Camellone, Lucia Caporaso</author>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c08441</guid>
+    </item>
+    <item>
+      <title>Understanding Methanol Electro-Oxidation Pathways on Nd-Based Metal Oxides via DFT and Electrochemical Studies</title>
+      <link>https://doi.org/10.1021/acs.langmuir.5c01441</link>
+      <description>Pooja Pooja, Ravinder Pawar, Langmuir. None(None)] 2025. https://openalex.org/W4411349638
+
+                In this study, we report for the first time the electrochemical performance of Nd-based metal oxides (NdNiO (NNO), NdCuO (NCO), and NdZnO (NZO)) as electrocatalysts for methanol electro-oxidation. Results show that NCO exhibits superior electrocatalytic performance with a low onset potential of 0.97 V versus reversible hydrogen electrode (RHE) and excellent resistance to CO poisoning. Electrochemical impedance spectroscopy (EIS) revealed a low charge transfer resistance (Rct) of 1.30 &#937;, indicating efficient electron transfer kinetics. The calculated mass activity (MA) of NCO was 1.68 A/mg, surpassing various reported Pt-based catalysts, such as Pt62Ru35/C (0.47 A/mg), Pt62Ru18Ni20-O/C (0.30 A/mg), and comparable to Pt62Ru18Ni20/C (1.91 A/mg). The density functional theory (DFT) calculation shows that NCO facilitates methanol oxidation through the CHO* intermediate, indicating efficient CO oxidation and CO2 release. The synergy between Cu 3d and O 2p orbitals plays a crucial role in enhancing the electrocatalytic performance. These findings highlight NCO as a promising and durable electrocatalyst in energy conversion technologies.</description>
+      <author>Pooja Pooja, Ravinder Pawar</author>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.5c01441</guid>
+    </item>
+    <item>
+      <title>Decoding d&#8208;Band Effects: Impact of Diverse Environments on Cobalt's Catalytic Performance in Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1002/cctc.202500437</link>
+      <description>Fatima Nasim, Muhammad Arif Nadeem, ChemCatChem. None(None)] 2025. https://openalex.org/W4411356455
+
+                Abstract The oxygen reduction reaction (ORR) is a pivotal process in energy transformation technologies such as fuel cells and metal&#8211;air batteries. Despite their efficiency, the widespread adoption of these technologies is hindered by the high cost and shortage of precious metal catalysts. Cobalt, with its intrinsic catalytic activity, cost&#8208;effectiveness, and abundance, has emerged as a promising alternative. This review explores the advancements in cobalt&#8208;based catalysts, focusing on the adjustment of their d&#8208;band center ( &#949; d ), a vital factor influencing catalytic activity. By tailoring the electronic structure through strategies such as nitrogen doping, alloying with transition metals, and surface engineering, significant improvements in ORR efficiency and stability have been achieved. Insights from density functional theory (DFT) have been instrumental in elucidating the relationship between the &#949; d and the adsorption/desorption dynamics of oxygen intermediates. This study highlights the synergistic effects of cobalt with other elements, which enhance electron transfer and optimize binding energies, achieving near&#8208;ideal catalytic performance. Furthermore, the review features the challenges of translating these materials to practical applications, emphasizing the need for scalable synthesis methods, enhanced durability, and environmentally sustainable practices. These findings establish cobalt&#8208;based catalysts as high&#8208;performance alternatives to precious metals, paving the way for their integration into next&#8208;generation energy systems.</description>
+      <author>Fatima Nasim, Muhammad Arif Nadeem</author>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202500437</guid>
+    </item>
+    <item>
+      <title>Axiomatic Design for Analysis and Noniterative Engineering of Photoelectrochemical Cells for CO&lt;sub&gt;2&lt;/sub&gt; Conversion at High Photon to Product Yield</title>
+      <link>https://doi.org/10.1021/aps.5c00004</link>
+      <description>Suzanne Assen, G. J. A. Sevink, Huub J. M. de Groot, Artificial photosynthesis.. None(None)] 2025. https://openalex.org/W4411377550
+
+                No abstract</description>
+      <author>Suzanne Assen, G. J. A. Sevink, Huub J. M. de Groot</author>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/aps.5c00004</guid>
+    </item>
+    <item>
+      <title>Machine learning-guided discovery of thermodynamically stable single-atom catalysts on functionalized MXenes for enhanced oxygen reduction and evolution reactions</title>
+      <link>https://doi.org/10.1039/d5ta02929e</link>
+      <description>Hengquan Guo, Seung Geol Lee, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4411378272
+
+                DFT and machine learning are combined to screen transition-metal-doped MXene (Ti 3 C 2 T 2 ) catalysts for oxygen electrocatalysis. Ni&#8211;Ti 3 C 2 S 2 and Cu&#8211;Ti 3 C 2 S 2 show low ORR/OER overpotentials, highlighting the power of ML-accelerated catalyst design.</description>
+      <author>Hengquan Guo, Seung Geol Lee</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ta02929e</guid>
+    </item>
   </channel>
 </rss>

@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Jun 22 01:52:21 2025
+Created on Mon Jun 23 01:50:43 2025
 
-Found 0 results from 2025-06-15 to 2025-06-22
+Found 5 results from 2025-06-16 to 2025-06-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967)
@@ -17,3 +17,57 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
 
+## Advances in ORR Catalysis Promoted by Graphene-Supported Low-Cost Metal Clusters: A DFT Study   
+
+OpenAlex: https://openalex.org/W4411347754    
+Open access: True
+    
+[Ida Ritacco](https://openalex.org/A5076483576), [Giuseppe Santoriello](https://openalex.org/A5094074236), [Matteo Farnesi Camellone](https://openalex.org/A5059856382), [Lucia Caporaso](https://openalex.org/A5089491313), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.5c08441.
+    
+The oxygen reduction reaction (ORR), which converts molecular oxygen (O2) into water (H2O), is critical for renewable energy transformation processes. However, its industrial application is hindered by long conversion times. Recent studies suggest that transition metal clusters deposited on graphene are promising candidates for ORR catalysis. In this work, we employed density functional theory (DFT) calculations to explore the thermodynamically most stable energy profile of the ORR on pentamer metal clusters (Fe5, Co5, and Pt5) supported on undoped graphene and nitrogen-doped graphene (for Fe5), under standard electrochemical conditions (pH = 0 and U = 0). Both the "standard" intermediates (*OOH, *O, *OH) and the "unconventional" intermediates (*O*OH, *OH*OH) were studied, analyzing thermodynamic stability, adsorption energies, and the influence of the implicit water solvent. Our results reveal that the inclusion of "unconventional" intermediates significantly alters the reaction thermodynamics, presenting a new pathway that is energetically more favorable than the classical one. Catalytic performance predictions, based on the theoretical overpotential (ηORR), indicate that the four catalysts exhibit good stability and high activity in both reduction mechanisms. In particular, Fe5@NGr shows the best catalytic performance in the "unconventional" mechanism, with an ηORR close to zero. This study, for the first time, demonstrates how the metal cluster and the support's electronic and structural properties influence the stability of ORR intermediates and catalytic performance. The improved performance of Fe5@NGr in the "unconventional" mechanism highlights the importance of selecting the right metal and engineering the graphene support, particularly through N-doping, for the rational design of low-cost, high-performance catalysts.    
+
+    
+
+## Understanding Methanol Electro-Oxidation Pathways on Nd-Based Metal Oxides via DFT and Electrochemical Studies   
+
+OpenAlex: https://openalex.org/W4411349638    
+Open access: False
+    
+[Pooja Pooja](https://openalex.org/A5108050947), [Ravinder Pawar](https://openalex.org/A5022720937), Langmuir. None(None)] 2025.https://doi.org/10.1021/acs.langmuir.5c01441.
+    
+In this study, we report for the first time the electrochemical performance of Nd-based metal oxides (NdNiO (NNO), NdCuO (NCO), and NdZnO (NZO)) as electrocatalysts for methanol electro-oxidation. Results show that NCO exhibits superior electrocatalytic performance with a low onset potential of 0.97 V versus reversible hydrogen electrode (RHE) and excellent resistance to CO poisoning. Electrochemical impedance spectroscopy (EIS) revealed a low charge transfer resistance (Rct) of 1.30 Ω, indicating efficient electron transfer kinetics. The calculated mass activity (MA) of NCO was 1.68 A/mg, surpassing various reported Pt-based catalysts, such as Pt62Ru35/C (0.47 A/mg), Pt62Ru18Ni20-O/C (0.30 A/mg), and comparable to Pt62Ru18Ni20/C (1.91 A/mg). The density functional theory (DFT) calculation shows that NCO facilitates methanol oxidation through the CHO* intermediate, indicating efficient CO oxidation and CO2 release. The synergy between Cu 3d and O 2p orbitals plays a crucial role in enhancing the electrocatalytic performance. These findings highlight NCO as a promising and durable electrocatalyst in energy conversion technologies.    
+
+    
+
+## Decoding d‐Band Effects: Impact of Diverse Environments on Cobalt's Catalytic Performance in Oxygen Reduction Reaction   
+
+OpenAlex: https://openalex.org/W4411356455    
+Open access: False
+    
+[Fatima Nasim](https://openalex.org/A5045298523), [Muhammad Arif Nadeem](https://openalex.org/A5058675280), ChemCatChem. None(None)] 2025.https://doi.org/10.1002/cctc.202500437.
+    
+Abstract The oxygen reduction reaction (ORR) is a pivotal process in energy transformation technologies such as fuel cells and metal–air batteries. Despite their efficiency, the widespread adoption of these technologies is hindered by the high cost and shortage of precious metal catalysts. Cobalt, with its intrinsic catalytic activity, cost‐effectiveness, and abundance, has emerged as a promising alternative. This review explores the advancements in cobalt‐based catalysts, focusing on the adjustment of their d‐band center ( ε d ), a vital factor influencing catalytic activity. By tailoring the electronic structure through strategies such as nitrogen doping, alloying with transition metals, and surface engineering, significant improvements in ORR efficiency and stability have been achieved. Insights from density functional theory (DFT) have been instrumental in elucidating the relationship between the ε d and the adsorption/desorption dynamics of oxygen intermediates. This study highlights the synergistic effects of cobalt with other elements, which enhance electron transfer and optimize binding energies, achieving near‐ideal catalytic performance. Furthermore, the review features the challenges of translating these materials to practical applications, emphasizing the need for scalable synthesis methods, enhanced durability, and environmentally sustainable practices. These findings establish cobalt‐based catalysts as high‐performance alternatives to precious metals, paving the way for their integration into next‐generation energy systems.    
+
+    
+
+## Axiomatic Design for Analysis and Noniterative Engineering of Photoelectrochemical Cells for CO2 Conversion at High Photon to Product Yield   
+
+OpenAlex: https://openalex.org/W4411377550    
+Open access: True
+    
+[Suzanne Assen](https://openalex.org/A5068172668), [G. J. A. Sevink](https://openalex.org/A5068591534), [Huub J. M. de Groot](https://openalex.org/A5023651872), Artificial photosynthesis.. None(None)] 2025.https://doi.org/10.1021/aps.5c00004.
+    
+No abstract    
+
+    
+
+## Machine learning-guided discovery of thermodynamically stable single-atom catalysts on functionalized MXenes for enhanced oxygen reduction and evolution reactions   
+
+OpenAlex: https://openalex.org/W4411378272    
+Open access: False
+    
+[Hengquan Guo](https://openalex.org/A5014210151), [Seung Geol Lee](https://openalex.org/A5002933973), Journal of Materials Chemistry A. None(None)] 2025.https://doi.org/10.1039/d5ta02929e.
+    
+DFT and machine learning are combined to screen transition-metal-doped MXene (Ti 3 C 2 T 2 ) catalysts for oxygen electrocatalysis. Ni–Ti 3 C 2 S 2 and Cu–Ti 3 C 2 S 2 show low ORR/OER overpotentials, highlighting the power of ML-accelerated catalyst design.    
+
+    
