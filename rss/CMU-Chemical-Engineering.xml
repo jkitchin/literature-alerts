@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Jun 2025 01:50:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 01:45:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Solving an inverse problem with generative models</title>
+      <link>https://doi.org/10.1039/d5dd00137d</link>
+      <description>John R. Kitchin, Digital Discovery. None(None)] 2025. https://openalex.org/W4411365766
+
+                Inverse problems, where we seek the values of inputs to a model that lead to a desired set of outputs, are a challenges subset of problems in science and engineering....</description>
+      <author>John R. Kitchin</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5dd00137d</guid>
+    </item>
   </channel>
 </rss>
