@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Jun 2025 01:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 01:45:37 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>John R. Kitchin</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d5dd00137d</guid>
+    </item>
+    <item>
+      <title>Rethinking chemical research in the age of large language models</title>
+      <link>https://doi.org/10.1038/s43588-025-00811-y</link>
+      <description>Robert MacKnight, Daniil A. Boiko, Jose Emilio Regio, Liliana C. Gallegos, Th&#233;o A. Neukomm, Gabriel dos Passos Gomes, Nature Computational Science. None(None)] 2025. https://openalex.org/W4411575899
+
+                No abstract</description>
+      <author>Robert MacKnight, Daniil A. Boiko, Jose Emilio Regio, Liliana C. Gallegos, Th&#233;o A. Neukomm, Gabriel dos Passos Gomes</author>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s43588-025-00811-y</guid>
     </item>
   </channel>
 </rss>
