@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Jun 2025 01:45:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 01:44:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Transition States Energies from Machine Learning: An Application to Reverse Water&#8211;Gas Shift on Single-Atom Alloys</title>
-      <link>https://doi.org/10.1021/acscatal.5c02818</link>
-      <description>Raffaele Cheula, Mie Andersen, ACS Catalysis. None(None)] 2025. https://openalex.org/W4411369078
-
-                No abstract</description>
-      <author>Raffaele Cheula, Mie Andersen</author>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c02818</guid>
-    </item>
-    <item>
-      <title>Multi&#8208;Task Learning in Homogeneous Catalysis: A Case Study for Predicting the Catalytic Performance in Ethylene Polymerization</title>
-      <link>https://doi.org/10.1002/jcc.70157</link>
-      <description>Zubair Sadiq, Wenhong Yang, Weishen Yang, Wen&#8208;Hua Sun, Journal of Computational Chemistry. 46(17)] 2025. https://openalex.org/W4411371031
-
-                ABSTRACT This study focuses on training a multi&#8208;task learning (MTL) type machine learning (ML) model to predict diverse catalytic performance of 195 bis(imino)pyridine transition metal complexes toward ethylene polymerization, with comparison to their single&#8208;task learning (STL) counterparts. The CatBoost MTL model outperforms all other models, showing predictions and generalization errors for the properties of catalytic activity ( R t 2 =0.741, R 2 = 0.985, Q 2 = 0.600), molecular weight ( R t 2 =0.873, R 2 = 0.997, Q 2 = 0.846), molecular weight distribution ( R t 2 =0.831, R 2 = 0.999, Q 2 = 0.839), and melting temperature ( R t 2 =0.813, R 2 = 0.992, Q 2 = 0.625) of the produced polymer. The interpretation of the model reveals that complexes with electron&#8208;donating groups, simple alkyl groups (such as methyl groups etc.), and a higher degree of unsaturation (presence of double or triple bonds) positively influence the predicted properties. Subsequently, providing insights into the underlying mechanisms of variation in catalytic performance, new complexes are designed with superior catalytic performances.</description>
-      <author>Zubair Sadiq, Wenhong Yang, Weishen Yang, Wen&#8208;Hua Sun</author>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/jcc.70157</guid>
-    </item>
-    <item>
-      <title>Advanced Fe Electrocatalysts: Unlocking Sustainable, Selective, and Durable Seawater Electrolysis</title>
-      <link>https://doi.org/10.1002/adfm.202506186</link>
-      <description>Diab Khalafallah, Libei Feng, Zhiyuan Sun, Shengfu Tong, Jue Wang, Qinfang Zhang, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4411374857
-
-                Abstract Seawater electrolysis (SWE) serves as a renewable alternative, significantly lowering the costs of electrolyzer technologies by eliminating the need for supplementary water purification operations, hence facilitating marine offshore H 2 generation and providing pure drinking water. Nonetheless, the intricate composition of seawater and the challenges associated with commercial SWE are significant, including local pH variations, solid impurities and precipitates, and the competition between the chlorine evolution reaction (CER) and oxygen evolution reaction (OER). To reshape the energy landscape and achieve carbon neutrality, the development of cost&#8208;efficient electrocatalysts for SWE with adjustable electrocatalytic activity, enhanced OER selectivity, and sustained stability under elevated current densities is a crucial consideration and pragmatic option. This review systematically elucidates the principles and mechanisms of SWE, analyzes corrosion resistance strategies, and identifies difficulties related to activity and durability to enhance comprehensive research and practical application of Fe&#8208;based electrocatalysts. It critically examines diverse contemporary methodologies for tailoring advanced Fe nanomaterials and summarizes the latest developments in various electrocatalysts for hydrogen evolution reaction (HER), OER in seawater, and overall seawater splitting (OSWS), supported by significant studies from recent literature. Furthermore, current challenges, opportunities, and distinctive insights for developing efficient and durable electrocatalysts and integrated seawater electrolyzers are well emphasized.</description>
-      <author>Diab Khalafallah, Libei Feng, Zhiyuan Sun, Shengfu Tong, Jue Wang, Qinfang Zhang</author>
-      <pubDate>Sun, 08 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202506186</guid>
-    </item>
-    <item>
-      <title>Water Nanofilms Mediate Adhesion and Heat Transfer at Hematite&#8208;Hydrocarbon Interfaces</title>
-      <link>https://doi.org/10.1002/admi.202500267</link>
-      <description>Fionn Carman, Fernando Bresme, Billy Wu, Daniele Dini, James P. Ewen, Advanced Materials Interfaces. None(None)] 2025. https://openalex.org/W4411376896
-
-                Abstract A detailed understanding of nanoscale heat transport at metal oxide&#8208;hydrocarbon interfaces is critical for many applications that require efficient thermal management. Under ambient conditions, water nanofilms are expected to form at these interfaces, but these are rarely accounted for in simulations. Using molecular dynamics simulations, it is shown that water nanofilms at the hydroxylated hematite/poly&#8208;&#945;&#8208;olefin (PAO) interface significantly affect wettability and thermal transport. Including water nanofilms improves agreement with experimental work of adhesion, which cannot be replicated with anhydrous systems using realistic solid&#8211;liquid interactions. For water films thicker than one monolayer, interfacial thermal resistance (ITR) converges to a consistent value, independent of solid&#8211;liquid interaction strength. This value is dominated by the ITR at the water/PAO interface. The ITR at the water/PAO interface is dependent on the surface area between the water film and the PAO and the magnitude of the interfacial potential. These simulations provide a more precise estimate of ITR at the hematite/PAO interface by accounting for surface hydration expected in experiments under ambient conditions. This study offers crucial insights into the roles of surface hydroxylation and water nanofilms in controlling wettability and thermal transport at industrially important interfaces.</description>
-      <author>Fionn Carman, Fernando Bresme, Billy Wu, Daniele Dini, James P. Ewen</author>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/admi.202500267</guid>
-    </item>
-    <item>
-      <title>Axiomatic Design for Analysis and Noniterative Engineering of Photoelectrochemical Cells for CO&lt;sub&gt;2&lt;/sub&gt; Conversion at High Photon to Product Yield</title>
-      <link>https://doi.org/10.1021/aps.5c00004</link>
-      <description>Suzanne Assen, G. J. A. Sevink, Huub J. M. de Groot, Artificial photosynthesis.. None(None)] 2025. https://openalex.org/W4411377550
-
-                No abstract</description>
-      <author>Suzanne Assen, G. J. A. Sevink, Huub J. M. de Groot</author>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/aps.5c00004</guid>
-    </item>
-    <item>
-      <title>Machine learning-guided discovery of thermodynamically stable single-atom catalysts on functionalized MXenes for enhanced oxygen reduction and evolution reactions</title>
-      <link>https://doi.org/10.1039/d5ta02929e</link>
-      <description>Hengquan Guo, Seung Geol Lee, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4411378272
-
-                DFT and machine learning are combined to screen transition-metal-doped MXene (Ti 3 C 2 T 2 ) catalysts for oxygen electrocatalysis. Ni&#8211;Ti 3 C 2 S 2 and Cu&#8211;Ti 3 C 2 S 2 show low ORR/OER overpotentials, highlighting the power of ML-accelerated catalyst design.</description>
-      <author>Hengquan Guo, Seung Geol Lee</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5ta02929e</guid>
-    </item>
-    <item>
-      <title>Ir&#8211;Co&lt;sub&gt;3&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt;/CoO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;H&lt;sub&gt;&lt;i&gt;y&lt;/i&gt;&lt;/sub&gt; Heterojunction Enables Efficient Alkaline Oxygen Evolution through Binuclear Ir&#8211;Co Active Sites</title>
-      <link>https://doi.org/10.1021/acssuschemeng.5c00603</link>
-      <description>Zheheng Jiang, Wei Liu, Muzammil Hussain, Hao Sun, Yun Kuang, Yaping Li, Wen Liu, Daojin Zhou, Xiaoming Sun, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2025. https://openalex.org/W4411383367
-
-                No abstract</description>
-      <author>Zheheng Jiang, Wei Liu, Muzammil Hussain, Hao Sun, Yun Kuang, Yaping Li, Wen Liu, Daojin Zhou, Xiaoming Sun</author>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.5c00603</guid>
-    </item>
     <item>
       <title>Diastereoselectivity Controlled by the Hydrogenation Mechanisms during the Electrochemical Reduction of a Carbonyl Group</title>
       <link>https://doi.org/10.1021/acscatal.4c06733</link>
@@ -472,7 +402,7 @@
       <link>https://doi.org/10.1063/5.0256958</link>
       <description>Karl R&#246;nnby, Michael Nolan, The Journal of Chemical Physics. 162(24)] 2025. https://openalex.org/W4411577203
 
-                Downscaling of metal interconnects has become a bottleneck in the back-end-of-line processing of CMOS semiconductor devices. The conductivity of the commonly used Cu metal drastically reduces at nanoscale, limiting its use as the devices shrink, as the metal starts forming non-conductive islands. This has led to the requirement for new interconnect metals such as Co and Ru, as they have a much higher tendency to form conductive films with horizontal growth at nanoscale. Understanding how the morphology of interconnects depends on the metals&#8217; atomistic properties and their interactions at diffusion barrier layers is necessary to continue the rapid development of interconnects. In this study, we have used first-principles density functional theory (DFT) relaxations, ab initio molecular dynamics, and neural network machine learning potentials (MLPs) to investigate how the morphology of Cu, Co, and Ru differs on TaN substrates. We investigate the binding of single metal atoms and four atom clusters to obtain the metals&#8217; substrate binding energy and metal&#8211;metal interaction energies. The morphology of the metals was then investigated by 15 ps molecular dynamics simulations with DFT and 5 ns with MLPs using larger metal structures that can display 2D and 3D morphologies. Comparing the binding energies with the obtained morphology allows us to demonstrate how the balance of metal&#8211;substrate and metal&#8211;metal interactions determines the morphology, while the MLP simulations allow longer timescale processes to be included. These insights help in the development of morphology predictors, allowing a rapid method for screening new interconnect materials with targeted horizontal growth on substrates used in semiconductors.</description>
+                Downscaling of metal interconnects has become a bottleneck in the back-end-of-line processing of CMOS semiconductor devices. The conductivity of the commonly used Cu metal drastically reduces at nanoscale, limiting its use as the devices shrink, as the metal starts forming non-conductive islands. This has led to the requirement for new interconnect metals such as Co and Ru, as they have a much higher tendency to form conductive films with horizontal growth at nanoscale. Understanding how the morphology of interconnects depends on the metals' atomistic properties and their interactions at diffusion barrier layers is necessary to continue the rapid development of interconnects. In this study, we have used first-principles density functional theory (DFT) relaxations, ab initio molecular dynamics, and neural network machine learning potentials (MLPs) to investigate how the morphology of Cu, Co, and Ru differs on TaN substrates. We investigate the binding of single metal atoms and four atom clusters to obtain the metals' substrate binding energy and metal-metal interaction energies. The morphology of the metals was then investigated by 15 ps molecular dynamics simulations with DFT and 5 ns with MLPs using larger metal structures that can display 2D and 3D morphologies. Comparing the binding energies with the obtained morphology allows us to demonstrate how the balance of metal-substrate and metal-metal interactions determines the morphology, while the MLP simulations allow longer timescale processes to be included. These insights help in the development of morphology predictors, allowing a rapid method for screening new interconnect materials with targeted horizontal growth on substrates used in semiconductors.</description>
       <author>Karl R&#246;nnby, Michael Nolan</author>
       <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0256958</guid>
@@ -496,6 +426,76 @@
       <author>Fatma Aras, Ulrich Burkhardt, Alim Ormeci, Horst Borrmann, S. G. Altendorf, Yuri Grin, Iryna Antonyshyn</author>
       <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialsau.5c00035</guid>
+    </item>
+    <item>
+      <title>Direct N2 to NH3 conversion on diamond-supported Ni4 cluster catalysts: A first-principle study</title>
+      <link>https://doi.org/10.1016/j.surfin.2025.107043</link>
+      <description>Ziwei Zhao, Kesheng Guo, Yongbing Zhao, Xiaowu Gao, Hansong Zhang, Yumin Zhang, Yannick J. Dappe, Xiaobin Chen, Yongjie Wang, Jiaqi Zhu, Surfaces and Interfaces. None(None)] 2025. https://openalex.org/W4411589936
+
+                No abstract</description>
+      <author>Ziwei Zhao, Kesheng Guo, Yongbing Zhao, Xiaowu Gao, Hansong Zhang, Yumin Zhang, Yannick J. Dappe, Xiaobin Chen, Yongjie Wang, Jiaqi Zhu</author>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.107043</guid>
+    </item>
+    <item>
+      <title>Alkali Cation Interactions with Superoxide Intermediates during the Oxygen Evolution Reaction on Ni&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Fe&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;OOH</title>
+      <link>https://doi.org/10.1021/acsenergylett.5c01481</link>
+      <description>Sarmad Iqbal, Pradipkumar Leuaa, Fabian Luca Buchauer, Umer Javed, Mike Tebyetekerwa, Laurence J. Hardwick, Christodoulos Chatzichristodoulou, ACS Energy Letters. None(None)] 2025. https://openalex.org/W4411592694
+
+                No abstract</description>
+      <author>Sarmad Iqbal, Pradipkumar Leuaa, Fabian Luca Buchauer, Umer Javed, Mike Tebyetekerwa, Laurence J. Hardwick, Christodoulos Chatzichristodoulou</author>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.5c01481</guid>
+    </item>
+    <item>
+      <title>Construction of iron-nickel metal-organic framework anchored on reduced graphene oxide for enhanced oxygen evolution reaction electrocatalysis</title>
+      <link>https://doi.org/10.1016/j.jpowsour.2025.237555</link>
+      <description>Mehran Nozari-Asbemarz, Hamideh Imanzadeh, Leila Hazraty, Behnam Babaei, Amirali Abbasi, Seyedsaeed Mehrabi-Kalajahi, Mikhail A. Vafolomeev, James J. Leahy, Mandana Amiri, Journal of Power Sources. 652(None)] 2025. https://openalex.org/W4411593445
+
+                No abstract</description>
+      <author>Mehran Nozari-Asbemarz, Hamideh Imanzadeh, Leila Hazraty, Behnam Babaei, Amirali Abbasi, Seyedsaeed Mehrabi-Kalajahi, Mikhail A. Vafolomeev, James J. Leahy, Mandana Amiri</author>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.237555</guid>
+    </item>
+    <item>
+      <title>Photoluminescence and Stability of 2D Ruddlesden&#8211;Popper Halide Perovskites</title>
+      <link>https://doi.org/10.3390/molecules30132716</link>
+      <description>Zhilin Ren, Zhengtian Yuan, Aleksandr A. Sergeev, Ivor Lon&#269;ari&#263;, Muhammad Umair Ali, Atta Ur Rehman, Kam Sing Wong, Yanling He, Juraj Ov&#269;ar, Jasminka Popovi&#263;, Aleksandra B. Djuri&#353;i&#263;, Molecules. 30(13)] 2025. https://openalex.org/W4411607447
+
+                Two-dimensional lead halide perovskites are of significant interest for a variety of practical applications. However, the relationships between their composition and properties are not fully clear. Here we investigated photoluminescence from 2D Ruddlesden&#8211;Popper perovskites with different bulky spacer cations. Significant differences in their optical properties and stability are observed, and perovskites with benzylammonium (BZA) and phenethylammonium (PEA) were selected for more detailed investigation of the observed stability differences due to their similar structure. We find that PEA2PbI4 exhibits more narrow emission and increased stability compared to BZA2PbI4. In addition, PEA2PbI4 exhibits self-healing of defects evident from PL enhancement, which is absent for BZA2PbI4. The observed differences between perovskites with BZA and PEA spacer cations can be attributed to differences in the formation of spacer cation vacancies.</description>
+      <author>Zhilin Ren, Zhengtian Yuan, Aleksandr A. Sergeev, Ivor Lon&#269;ari&#263;, Muhammad Umair Ali, Atta Ur Rehman, Kam Sing Wong, Yanling He, Juraj Ov&#269;ar, Jasminka Popovi&#263;, Aleksandra B. Djuri&#353;i&#263;</author>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/molecules30132716</guid>
+    </item>
+    <item>
+      <title>Accelerating Computational Modeling of Reactant Adsorption through a Combined MACE+DFT Approach: Furfural on Cu Surfaces</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c01790</link>
+      <description>Steffen Jeschke, Karen Wilson, Adam F. Lee, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4411608989
+
+                No abstract</description>
+      <author>Steffen Jeschke, Karen Wilson, Adam F. Lee</author>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c01790</guid>
+    </item>
+    <item>
+      <title>A &lt;scp&gt;DFT&lt;/scp&gt; Study on the Activity of &lt;scp&gt;FeMN&lt;sub&gt;6&lt;/sub&gt;&lt;/scp&gt;&#63743;C Dual&#8208;Atom Catalysts for Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1002/qua.70075</link>
+      <description>Jice Li, Zhizhao Zhang, Jiaxing Wang, Hui Liu, Limin Liang, Ying Li, International Journal of Quantum Chemistry. 125(13)] 2025. https://openalex.org/W4411616107
+
+                ABSTRACT The low&#8208;cost and highly active FeN 4 &#63743;C single&#8208;atom catalyst is currently one of the most promising oxygen reduction catalysts for replacing the precious metal catalysts in fuel cells. The electron occupation states of Fe 3d orbitals have been proved to play a determining role in the catalytic activity of FeN 4 &#63743;C. Herein, by adding the second transition&#8208;metal atom M to form FeMN 6 &#63743;C, we modulate the 3d&#8208;orbital splitting and spin states of Fe to uncover the spin effects on the adsorption energies of oxygen&#8208;containing intermediates and catalytic activity. The results reveal that the introduction of M gives rise to various electron occupation states and magnetic moments of the Fe atom, tuning the catalytic activity of FeN 4 &#63743;C. Among them, FeRhN 6 &#63743;C and FePdN 6 &#63743;C have low theoretical ORR overpotentials of 0.41 and 0.42 V. It is found that there is a volcano relation between the spin moments of Fe and the adsorption energies rather than the linear relation reported in other work.</description>
+      <author>Jice Li, Zhizhao Zhang, Jiaxing Wang, Hui Liu, Limin Liang, Ying Li</author>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/qua.70075</guid>
+    </item>
+    <item>
+      <title>Expanding the Structural and Compositional Space of Two-Dimensional M&lt;sub&gt;2&lt;/sub&gt;X&lt;sub&gt;2&lt;/sub&gt;T&lt;sub&gt;&lt;i&gt;y&lt;/i&gt;&lt;/sub&gt; Materials via Simulated Etching of Layered YM&lt;sub&gt;2&lt;/sub&gt;X&lt;sub&gt;2&lt;/sub&gt; Phases</title>
+      <link>https://doi.org/10.1021/acs.chemmater.5c00079</link>
+      <description>Pernilla Helmer, Rodrigo Mantovani Ronchi, Jonas Bj&#246;rk, Johanna Ros&#233;n, Chemistry of Materials. None(None)] 2025. https://openalex.org/W4411616956
+
+                No abstract</description>
+      <author>Pernilla Helmer, Rodrigo Mantovani Ronchi, Jonas Bj&#246;rk, Johanna Ros&#233;n</author>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.5c00079</guid>
     </item>
     <item>
       <title>Recent advances in heteroatom-doped RuO &lt;sub&gt;2&lt;/sub&gt; electrocatalysts for efficient acidic oxygen evolution reaction</title>
@@ -572,7 +572,7 @@
       <link>https://doi.org/10.1021/acs.jcim.5c01037</link>
       <description>Jae Young Kim, Dionisios G. Vlachos, Journal of Chemical Information and Modeling. None(None)] 2025. https://openalex.org/W4411549233
 
-                No abstract</description>
+                Molecular property prediction with limited data in novel chemical domains remains challenging. We introduce an approach based on the hypothesis that prediction difficulty increases systematically with distance from well-characterized regions in an appropriately defined structure-property space. Our framework combines nonlinear structure-property space embedding with distance-aware domain classification and uncertainty quantification. We create a structure-property embedding connecting molecular similarity with prediction difficulty, implement distance-aware classification balancing precision and true positive rate, and provide distance-based uncertainty estimates scaled by molecular similarity. Across four ecotoxicity data sets, our local models reduced root mean squared error by 28-48% for truly in-domain molecules compared to global models, with strong correlations (r = 0.40-0.62) between distance and prediction error. In a biolubricant base oil property application, our approach reduced prediction error by 29% compared to a global model and outperformed transfer learning and standard machine learning approaches. This framework's focus on relevant domains and distance-calibrated uncertainty estimates for limited, heterogeneous chemical data makes it broadly applicable across applications, such as toxicity prediction, drug discovery, and materials design.</description>
       <author>Jae Young Kim, Dionisios G. Vlachos</author>
       <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.5c01037</guid>
