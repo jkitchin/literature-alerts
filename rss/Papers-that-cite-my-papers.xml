@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 26 Jun 2025 01:44:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 01:45:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Diastereoselectivity Controlled by the Hydrogenation Mechanisms during the Electrochemical Reduction of a Carbonyl Group</title>
-      <link>https://doi.org/10.1021/acscatal.4c06733</link>
-      <description>Xin Yuan, Kwanpyung Lee, J. R. Schmidt, Kyoung&#8208;Shin Choi, ACS Catalysis. None(None)] 2025. https://openalex.org/W4411401811
-
-                No abstract</description>
-      <author>Xin Yuan, Kwanpyung Lee, J. R. Schmidt, Kyoung&#8208;Shin Choi</author>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06733</guid>
-    </item>
-    <item>
-      <title>Ab initio calculation of the effect of phosphorus substitution on MgAl&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e697" altimg="si21.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt;S&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e705" altimg="si31.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;4&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt; monolayer for electrocatalytic and water-splitting &#8230;</title>
-      <link>https://doi.org/10.1016/j.jpcs.2025.112880</link>
-      <description>Tarik Ouahrani, David Dell&#8217;Angelo, Ali Esquembre Ku&#269;ukali&#263;, Reda M. Boufatah, Micha&#235;l Badawi, Alfonso Mu&#241;oz, Daniel Errandonea, Journal of Physics and Chemistry of Solids. None(None)] 2025. https://openalex.org/W4411405303
-
-                No abstract</description>
-      <author>Tarik Ouahrani, David Dell&#8217;Angelo, Ali Esquembre Ku&#269;ukali&#263;, Reda M. Boufatah, Micha&#235;l Badawi, Alfonso Mu&#241;oz, Daniel Errandonea</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpcs.2025.112880</guid>
-    </item>
-    <item>
-      <title>Targeting Senescent Alveolar Type 2 Cells with a Gene-Editable FePt Dual-Atom Catalyst for Mitigating Idiopathic Pulmonary Fibrosis</title>
-      <link>https://doi.org/10.1021/acsnano.5c04686</link>
-      <description>Qianglan Lu, Chengwei Ye, Wei Mao, Fei Zeng, Zhiyong Liu, Ruiyue Chen, Xiao Cheng, Yanfeng Gao, Meng Wang, Mei Liu, Shaochun Tang, Yujun Song, ACS Nano. None(None)] 2025. https://openalex.org/W4411407384
-
-                Idiopathic pulmonary fibrosis (IPF) remains an age-related, fatal, incurable, epithelial-driven fibrotic lung disease despite the availability of approved antifibrotic drugs. The medical need for effective antipulmonary fibrotic therapies is thus very high. A promising therapeutic intervention for IPF is to target key cellular senescence processes in alveolar type 2 (AT2) cells. Herein, we introduce an inhalable gene-editable nanoplatform, comprising a CRISPR-Cas9 gene-editing system linked to a core FePt diatomic catalyst, encapsulated within a biocompatible hyaluronic acid (HA) surface layer (FePtR@HA). The FePt diatomic site facilitates H2O2 bridge adsorption, enabling efficient O-O bond cleavage and rapid catalytic conversion. The strong Fe-Pt interaction modulates the metal's d-band center, optimizing the adsorption of oxygen-containing intermediates. This precise regulation efficiently clears ROS, delivering robust antioxidant and antisenescence effects to AT2 cells. Simultaneously, the CRISPR-Cas9 gene editing system knocks down the pro-aging gene KAT7, reducing senescence-associated secretory phenotype (SASP) factors and further reversing AT2 cell senescence. Additionally, we demonstrated the antifibrotic efficacy of FePtR@HA in a lung-on-a-chip model, where it reprogrammed the fibrotic microenvironment, prevented myofibroblast recruitment to AT2 cells. Moreover, FePtR@HA showed satisfactory results in IPF mouse models, alleviating fibrosis and presenting a highly promising approach to combat the progression of IPF.</description>
-      <author>Qianglan Lu, Chengwei Ye, Wei Mao, Fei Zeng, Zhiyong Liu, Ruiyue Chen, Xiao Cheng, Yanfeng Gao, Meng Wang, Mei Liu, Shaochun Tang, Yujun Song</author>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.5c04686</guid>
-    </item>
-    <item>
-      <title>Carbon Dioxide Electroreduction on Gold without Metal or Organic Cations</title>
-      <link>https://doi.org/10.1021/acscatal.5c02785</link>
-      <description>Hansaem Jang, Christopher John O'Brien, Nathaniel J. D. Hill, Adrian M. Gardner, Iv&#225;n Scivetti, Gilberto Teobaldi, Alexander J. Cowan, ACS Catalysis. None(None)] 2025. https://openalex.org/W4411411737
-
-                No abstract</description>
-      <author>Hansaem Jang, Christopher John O'Brien, Nathaniel J. D. Hill, Adrian M. Gardner, Iv&#225;n Scivetti, Gilberto Teobaldi, Alexander J. Cowan</author>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c02785</guid>
-    </item>
-    <item>
-      <title>Machine Learning Force Fields in Electrochemistry: From Fundamentals to Applications</title>
-      <link>https://doi.org/10.1021/acsnano.5c05553</link>
-      <description>Ryosuke Jinnouchi, Saori Minami, ACS Nano. None(None)] 2025. https://openalex.org/W4411424580
-
-                This article reviews the foundations and applications of machine learning force fields (MLFFs) in electrochemistry, highlighting their role as a transformative tool in materials science. We first provide an overview of MLFFs, then discuss their applications in ionics and electrochemical reactions, and finally outline future directions. Most MLFF approaches use invariant or equivariant descriptors derived from body-order expansions to represent many-body atomic interactions. These descriptors feed into linear regression models, kernel methods, or neural networks to construct potential energy surfaces for gases, liquids, solids, and interfaces involving inorganic and organic materials. MLFFs have enabled a wide range of advances, including all-atom molecular dynamics (MD), data extraction from MD, and accelerated materials discovery. In MD simulations, MLFFs allow accurate evaluation of ionic conductivity via the fluctuation-dissipation theorem and nonequilibrium MD under electric fields, applied to both solid and polymer electrolytes. For electrochemical reactions, MLFFs and &#916;-ML models have been used to predict redox potentials in homogeneous and interfacial systems through thermodynamic integration. MLFFs also enable the extraction of key thermodynamic and kinetic information-such as free energy landscapes and local transport coefficients-from atomic trajectories, facilitating coarse-grained modeling of mass transport and reactions in complex electrolytes. In materials discovery, MLFFs have allowed high-throughput screening of 107 to 108 crystal structures, leading to the identification of promising Li-ion and Na-ion solid electrolytes. MLFFs are expected to continue evolving as a core technology in computational materials science, spanning a wide range from high-precision calculations to large-scale materials exploration.</description>
-      <author>Ryosuke Jinnouchi, Saori Minami</author>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.5c05553</guid>
-    </item>
-    <item>
-      <title>Theoretical Study on the Electronic Structure and Efficient Photocatalytic Hydrogen Evolution of Boron-Doped Fibrous Red Phosphorene</title>
-      <link>https://doi.org/10.7498/aps.74.20250540</link>
-      <description>Lu Yi-Lin, Dong Shengjie, Cui Fangchao, Dongming Chen, M.J. Zhuo, Acta Physica Sinica. 74(16)] 2025. https://openalex.org/W4411431553
-
-                Under the dual challenges of the energy crisis and environmental pollution, the technology of photocatalytic water splitting for hydrogen production has become a research hotspot in clean energy due to its green and sustainable characteristics. As a novel quasi-one-dimensional semiconductor material, fibrous red phosphorene (FRP) exhibits remarkable photocatalytic hydrogen evolution potential, owing to its moderate bandgap, high carrier mobility, and excellent air stability. Based on first-principles calculations, we systematically investigated the regulatory mechanisms of a series of non-metallic elements &lt;i&gt;X&lt;/i&gt; (B, C, N, O, Si, S, As, and Se) doping on the electronic structure and catalytic performance of single-layer FRP. The results show that the element &lt;i&gt;X&lt;/i&gt; can effectively enhance the hydrogen evolution reaction (HER) activity of single-layer FRP. Among them, four doped systems (S-doped at site 1, B-doped at sites 1/2/5) exhibit excellent catalytic activity for HER. In particular, the B-doped system at site 2 has the most ideal free energy of hydrogen adsorption (&#916;&lt;i&gt;G&lt;/i&gt;&lt;sub&gt;H*&lt;/sub&gt;), and its overpotential (&lt;i&gt;&#951;&lt;/i&gt; = -0.074 V) is comparable to that of the noble metal Pt catalyst. Through the analysis of the electronic structure, it is found that the enhancement of the HER catalytic activity is closely related to the downward shift of the &lt;i&gt;X&lt;/i&gt; pz-band center at the adsorption site. There is a direct proportional relationship between &#916;&lt;i&gt;G&lt;/i&gt;&lt;sub&gt;H*&lt;/sub&gt; and the &lt;i&gt;X&lt;/i&gt; &lt;i&gt;p&lt;/i&gt;&lt;sub&gt;z&lt;/sub&gt;-band center (R&lt;sup&gt;2&lt;/sup&gt; &#8805; 0.78), indicating that the &lt;i&gt;X&lt;/i&gt; &lt;i&gt;p&lt;/i&gt;&lt;sub&gt;z&lt;/sub&gt;-band center can serve as a key electronic descriptor for regulating the HER activity. Further verification by calculations using the HSE06 hybrid functional shows that the band edge positions of the B-doped system can span both sides of the redox potential of water, and the light absorption range covers the visible light region, indicating the thermodynamic feasibility and spectral response advantages of this system in the application of photocatalytic overall water splitting. This study provides important theoretical guidance for the design of efficient FRP-based photocatalytic materials based on the non-metallic doping strategy.</description>
-      <author>Lu Yi-Lin, Dong Shengjie, Cui Fangchao, Dongming Chen, M.J. Zhuo</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.7498/aps.74.20250540</guid>
-    </item>
-    <item>
-      <title>Role of pz band in hybrid carbon-bimetallic subnanocluster PtM (M = 3d, 4d, 5d block metals) catalysts to boost electrochemical oxygen reduction reaction</title>
-      <link>https://doi.org/10.1016/j.apsadv.2025.100792</link>
-      <description>Eoyoon Lee, Sangyong Shin, Hyunjoo Lee, Hyung Chul Ham, Applied Surface Science Advances. 28(None)] 2025. https://openalex.org/W4411438679
-
-                No abstract</description>
-      <author>Eoyoon Lee, Sangyong Shin, Hyunjoo Lee, Hyung Chul Ham</author>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsadv.2025.100792</guid>
-    </item>
     <item>
       <title>Aqueous Stability of Metallic Materials and Metal Oxides</title>
       <link>https://doi.org/10.1021/acs.chemmater.5c00455</link>
@@ -498,14 +428,44 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.5c00079</guid>
     </item>
     <item>
-      <title>Recent advances in heteroatom-doped RuO &lt;sub&gt;2&lt;/sub&gt; electrocatalysts for efficient acidic oxygen evolution reaction</title>
-      <link>https://doi.org/10.1080/14686996.2025.2520159</link>
-      <description>Yihao Zheng, Tao Zhou, Quan Zhang, Haixin Guo, Jianxun Yang, Baofu Ding, Huaiyu Shao, Xinchun Yang, Science and Technology of Advanced Materials. None(None)] 2025. https://openalex.org/W4411426184
+      <title>Light field&#8211;controlled PHz currents in intrinsic metals</title>
+      <link>https://doi.org/10.1126/sciadv.adv5406</link>
+      <description>Beatrix Feh&#233;r, V. Hanu&#353;, Weiwei Li, Zsuzsanna P&#225;pa, Judit Budai, Pallabi Paul, Adriana Szeghalmi, Zilong Wang, Matthias F. Kling, P&#233;ter Dombi, Science Advances. 11(26)] 2025. https://openalex.org/W4411629456
+
+                Oriented electric currents in metals are routinely driven by applying an external electric potential. Although the response of electrons to the external electric fields occurs within attoseconds, conventional electronics do not use this speed potential. Ultrashort laser pulses with controlled shapes of electric fields that switch direction at petahertz frequencies open perspectives for driving currents in metals. Light field&#8211;driven currents were demonstrated in various media including dielectrics, semiconductors, and topological insulators. Now, our research question is whether we can drive and control orders of magnitude more charge carriers in metals enabling ultrafast switching with practically low-energy, picojoule-level pulses. Here, we demonstrate the interaction of light with nanometer-thick metallic layers, which leads to a generation of light field&#8211;controlled electric currents. We show that the implantation of metallic layers into a dielectric matrix leads to up to 40 times increase of the sensitivity in contrast to a bare dielectric, decreasing the intensity threshold for lightwave electronics.</description>
+      <author>Beatrix Feh&#233;r, V. Hanu&#353;, Weiwei Li, Zsuzsanna P&#225;pa, Judit Budai, Pallabi Paul, Adriana Szeghalmi, Zilong Wang, Matthias F. Kling, P&#233;ter Dombi</author>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adv5406</guid>
+    </item>
+    <item>
+      <title>Strain Problems Got You in a Twist? Try StrainRelief: A Quantum-Accurate Tool for Ligand Strain Calculations</title>
+      <link>https://doi.org/10.1021/acs.jcim.5c00586</link>
+      <description>Ewan R. S. Wallace, Nathan C. Frey, Joshua A. Rackers, Journal of Chemical Information and Modeling. None(None)] 2025. https://openalex.org/W4411630021
 
                 No abstract</description>
-      <author>Yihao Zheng, Tao Zhou, Quan Zhang, Haixin Guo, Jianxun Yang, Baofu Ding, Huaiyu Shao, Xinchun Yang</author>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/14686996.2025.2520159</guid>
+      <author>Ewan R. S. Wallace, Nathan C. Frey, Joshua A. Rackers</author>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.5c00586</guid>
+    </item>
+    <item>
+      <title>Mn&#8211;Ce modified NiP electrocatalysts for HER: A combined computational and electrochemical study</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.150068</link>
+      <description>T. L. Remadevi, Anju Rajan, Akhila Muhammed, Sumi Vijayakumari Sasidharan Nair, Raghu Chatanathodi, S. Rijith, International Journal of Hydrogen Energy. 148(None)] 2025. https://openalex.org/W4411632753
+
+                No abstract</description>
+      <author>T. L. Remadevi, Anju Rajan, Akhila Muhammed, Sumi Vijayakumari Sasidharan Nair, Raghu Chatanathodi, S. Rijith</author>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.150068</guid>
+    </item>
+    <item>
+      <title>A theoretical investigation of transition metal-based MOF with different halogen coordination environments for CO2 reduction to C1 and C2 products</title>
+      <link>https://doi.org/10.1016/j.mcat.2025.115311</link>
+      <description>Z CHEN, Qiang Luo, Y.&#8208;L. QIU, Yang Liu, Xin Chen, Molecular Catalysis. 584(None)] 2025. https://openalex.org/W4411633063
+
+                No abstract</description>
+      <author>Z CHEN, Qiang Luo, Y.&#8208;L. QIU, Yang Liu, Xin Chen</author>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2025.115311</guid>
     </item>
     <item>
       <title>Reaction and reactor designs for improving electrochemical CO2 capture</title>
@@ -546,16 +506,6 @@
       <author>Yan Dong, Mengmeng Li, Yanli Liu, Jianming Lei, Haineng Bai, Yanmei Sun, Dunjun Chen, Dongjie Zhu, Rigao Wang, Yi Sun</author>
       <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/molecules30132669</guid>
-    </item>
-    <item>
-      <title>Kinetic Monte Carlo-Based Reactor Model Including Catalyst Shape Changes</title>
-      <link>https://doi.org/10.1021/acscatal.5c01592</link>
-      <description>Yuqi Yang, Anders Hellman, Henrik Gr&#246;nbeck, ACS Catalysis. None(None)] 2025. https://openalex.org/W4411394183
-
-                No abstract</description>
-      <author>Yuqi Yang, Anders Hellman, Henrik Gr&#246;nbeck</author>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c01592</guid>
     </item>
     <item>
       <title>Kinetic investigation of NH3 decomposition over Ru-based catalysts: The limiting role of H* surface coverage and its impact on reactor engineering</title>
