@@ -4,16 +4,16 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 27 Jun 2025 01:45:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 01:41:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
       <title>Rethinking chemical research in the age of large language models</title>
       <link>https://doi.org/10.1038/s43588-025-00811-y</link>
-      <description>Robert MacKnight, Daniil A. Boiko, Jose Emilio Regio, Liliana C. Gallegos, Th&#233;o A. Neukomm, Gabriel dos Passos Gomes, Nature Computational Science. None(None)] 2025. https://openalex.org/W4411575899
+      <description>Robert MacKnight, Daniil A. Boiko, Jose Emilio Regio, Liliana C. Gallegos, Th&#233;o A Neukomm, Gabriel dos Passos Gomes, Nature Computational Science. None(None)] 2025. https://openalex.org/W4411575899
 
                 No abstract</description>
-      <author>Robert MacKnight, Daniil A. Boiko, Jose Emilio Regio, Liliana C. Gallegos, Th&#233;o A. Neukomm, Gabriel dos Passos Gomes</author>
+      <author>Robert MacKnight, Daniil A. Boiko, Jose Emilio Regio, Liliana C. Gallegos, Th&#233;o A Neukomm, Gabriel dos Passos Gomes</author>
       <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s43588-025-00811-y</guid>
     </item>
@@ -26,6 +26,16 @@
       <author>D. P. Jones, Hunter Brown, Jacqueline M Nugent, August Mikkelsen, Ci Song, Damao Zhang, Susannah M. Burrows, Hamish Gordon, Andrew C. Kirby, Daniel T. McCoy</author>
       <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.22541/essoar.175087280.06595777/v1</guid>
+    </item>
+    <item>
+      <title>Predictive Modeling and Experimental Validation of Magnetophoretic Delivery of Magnetic Nanocultures</title>
+      <link>https://doi.org/10.1021/acsmaterialslett.5c00753</link>
+      <description>Ritu Chauhan, Huda Usman, Nitin Minocha, Mehdi Molaei, Tagbo H. R. Niepa, Meenesh R. Singh, ACS Materials Letters. None(None)] 2025. https://openalex.org/W4411636903
+
+                No abstract</description>
+      <author>Ritu Chauhan, Huda Usman, Nitin Minocha, Mehdi Molaei, Tagbo H. R. Niepa, Meenesh R. Singh</author>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.5c00753</guid>
     </item>
   </channel>
 </rss>

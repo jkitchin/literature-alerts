@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Jun 27 01:45:40 2025
+Created on Sat Jun 28 01:41:34 2025
 
-Found 2 results from 2025-06-20 to 2025-06-27
+Found 3 results from 2025-06-21 to 2025-06-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -21,7 +21,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 
 OpenAlex: https://openalex.org/W4411575899 (Open access: False)
     
-[[https://openalex.org/A5060793099][Robert MacKnight]], [[https://openalex.org/A5065327102][Daniil A. Boiko]], [[https://openalex.org/A5118605177][Jose Emilio Regio]], [[https://openalex.org/A5014333643][Liliana C. Gallegos]], [[https://openalex.org/A5118605178][Théo A. Neukomm]], [[https://openalex.org/A5048633127][Gabriel dos Passos Gomes]], Nature Computational Science. None(None)] 2025. https://doi.org/10.1038/s43588-025-00811-y 
+[[https://openalex.org/A5060793099][Robert MacKnight]], [[https://openalex.org/A5065327102][Daniil A. Boiko]], [[https://openalex.org/A5118605177][Jose Emilio Regio]], [[https://openalex.org/A5014333643][Liliana C. Gallegos]], [[https://openalex.org/A5118605178][Théo A Neukomm]], [[https://openalex.org/A5048633127][Gabriel dos Passos Gomes]], Nature Computational Science. None(None)] 2025. https://doi.org/10.1038/s43588-025-00811-y 
      
 No abstract    
 
@@ -43,6 +43,27 @@ No abstract
 OpenAlex: https://openalex.org/W4411628952 (Open access: False)
     
 [[https://openalex.org/A5041995234][D. P. Jones]], [[https://openalex.org/A5113809921][Hunter Brown]], [[https://openalex.org/A5043769751][Jacqueline M Nugent]], [[https://openalex.org/A5115775480][August Mikkelsen]], [[https://openalex.org/A5103217491][Ci Song]], [[https://openalex.org/A5019233669][Damao Zhang]], [[https://openalex.org/A5020853176][Susannah M. Burrows]], [[https://openalex.org/A5086004922][Hamish Gordon]], [[https://openalex.org/A5081266095][Andrew C. Kirby]], [[https://openalex.org/A5052404448][Daniel T. McCoy]], No host. None(None)] 2025. https://doi.org/10.22541/essoar.175087280.06595777/v1 
+     
+No abstract    
+
+    
+
+* Predictive Modeling and Experimental Validation of Magnetophoretic Delivery of Magnetic Nanocultures  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4411636903
+:TOPICS: Microfluidic and Bio-sensing Technologies, Minerals Flotation and Separation Techniques, Micro and Nano Robotics
+:PUBLICATION_DATE: 2025-06-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsmaterialslett.5c00753")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4411636903"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4411636903"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4411636903"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4411636903 (Open access: True)
+    
+[[https://openalex.org/A5003423341][Ritu Chauhan]], [[https://openalex.org/A5006410485][Huda Usman]], [[https://openalex.org/A5060188677][Nitin Minocha]], [[https://openalex.org/A5080442414][Mehdi Molaei]], [[https://openalex.org/A5044695139][Tagbo H. R. Niepa]], [[https://openalex.org/A5003372467][Meenesh R. Singh]], ACS Materials Letters. None(None)] 2025. https://doi.org/10.1021/acsmaterialslett.5c00753 
      
 No abstract    
 

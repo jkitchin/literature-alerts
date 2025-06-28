@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Jun 27 01:45:51 2025
+Created on Sat Jun 28 01:41:43 2025
 
-Found 53 results from 2025-06-20 to 2025-06-27
+Found 48 results from 2025-06-21 to 2025-06-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967)
@@ -16,94 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Aqueous Stability of Metallic Materials and Metal Oxides   
-
-OpenAlex: https://openalex.org/W4411459298    
-Open access: False
-    
-[Yizhan Zhang](https://openalex.org/A5074112631), [Lin Wang](https://openalex.org/A5100403274), [Elena Scivally](https://openalex.org/A5107769759), [Kenneth James](https://openalex.org/A5109145044), [Evelyn McBride](https://openalex.org/A5066879426), [Mahesh Jagathpriya Dheerasinghe](https://openalex.org/A5025874539), [Michael Shatruk](https://openalex.org/A5038653645), [Yan Zeng](https://openalex.org/A5073648643), [Bin Ouyang](https://openalex.org/A5070260665), Chemistry of Materials. None(None)] 2025.https://doi.org/10.1021/acs.chemmater.5c00455.
-    
-No abstract    
-
-    
-
-## Polaronic Competition Triggers the H2O2 Evolution on Perovskite Oxides during Water Oxidation   
-
-OpenAlex: https://openalex.org/W4411466009    
-Open access: True
-    
-[Mohsen Sotoudeh](https://openalex.org/A5021775157), [Axel Groß](https://openalex.org/A5080273102), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.5c02069.
-    
-No abstract    
-
-    
-
-## Stability Investigation on NiFeOx Electrocatalysts for Oxygen Evolution During on and off Cycles in Harsh Alkaline Conditions   
-
-OpenAlex: https://openalex.org/W4411466250    
-Open access: True
-    
-[Reika Suzuki](https://openalex.org/A5063088946), [Keisuke Obata](https://openalex.org/A5001701683), [Yutaka Sasaki](https://openalex.org/A5017510216), [Kiyohiro Adachi](https://openalex.org/A5073605078), [Kazuhiro Takanabe](https://openalex.org/A5077913046), ChemElectroChem. None(None)] 2025.https://doi.org/10.1002/celc.202500081.
-    
-Water electrolysis powered by renewable energy sources is a mature and practical technique to produce green hydrogen. Its production cost is heavily influenced by efficiency and durability, with a particular concern being the durability of anodes for oxygen evolution reaction (OER) in highly oxidative and acidic/alkaline environments at elevated temperatures. Durability during intermittent operations with renewable sources, factoring in on/off cycling, is also a consideration. This study investigates the durability of NiFeO x , one of the most active electrocatalysts in alkaline conditions, under various conditions including industrially relevant conditions: 7 M KOH at 80 °C and 600 mA cm −2 . The results show that on/off operations with extensive potential variation caused severe degradations compared to constant OER operations. However, stability improves slightly with the addition of saturated Fe 3+ ions into the electrolyte, preventing Fe leaching. By dissecting the degradation mechanism step‐by‐step, this study illuminates the limitations and assists in creating strategies for highly durable electrolysis systems.    
-
-    
-
-## Leveraging LLMs to identify patent-free glass materials   
-
-OpenAlex: https://openalex.org/W4411466319    
-Open access: False
-    
-[Shingo Urata](https://openalex.org/A5078010608), [N. Miya](https://openalex.org/A5111792599), [Ryota Hashimoto](https://openalex.org/A5101667587), [Teppei Konishi](https://openalex.org/A5061882470), [Kensuke Fujii](https://openalex.org/A5014773909), [Yumiko Katayama](https://openalex.org/A5060629369), [Kazuki Kanehara](https://openalex.org/A5024558352), Computational Materials Science. 258(None)] 2025.https://doi.org/10.1016/j.commatsci.2025.114022.
-    
-No abstract    
-
-    
-
-## Single Crystalline CoNi Selenite for Investigating a Metal Synergic Effect in Electrocatalytic Water Oxidation   
-
-OpenAlex: https://openalex.org/W4411466968    
-Open access: False
-    
-[Ting Wang](https://openalex.org/A5103139998), [Zhuoya Pei](https://openalex.org/A5020893901), [Dandan Chen](https://openalex.org/A5100424597), [Shujiao Yang](https://openalex.org/A5045947777), [Xiaohan Liu](https://openalex.org/A5100758662), [Jiwu Zhao](https://openalex.org/A5012680808), [Xuepeng Zhang](https://openalex.org/A5101540451), [Rui Cao](https://openalex.org/A5023594276), [Wei Zhang](https://openalex.org/A5100441671), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.5c02941.
-    
-No abstract    
-
-    
-
-## Single-Atom Cobalt on N-Doped Reduced Graphene Oxide Pushes the Oxygen Reduction Reaction toward 4-Electron Pathway   
-
-OpenAlex: https://openalex.org/W4411467810    
-Open access: False
-    
-[Francesca Risplendi](https://openalex.org/A5022186816), [Nadia Garino](https://openalex.org/A5033927474), [Juqin Zeng](https://openalex.org/A5051829015), [Adriano Sacco](https://openalex.org/A5029302428), [Shweta Mehta](https://openalex.org/A5002751624), [Chiara Deriu](https://openalex.org/A5072542249), [Laura Fabris](https://openalex.org/A5058963090), [M. Fontana](https://openalex.org/A5024025700), [Angelica Chiodoni](https://openalex.org/A5068163713), [Giancarlo Cicero](https://openalex.org/A5082225276), [Micaela Castellino](https://openalex.org/A5108127923), Research Square (Research Square). None(None)] 2025.https://doi.org/10.21203/rs.3.rs-6904882/v1.
-    
-Abstract We present a cobalt-based single-atom catalyst (SAC) anchored on nitrogen-doped reduced graphene oxide (Co-N-rGO), synthesized via a rapid, one-pot microwave-assisted method. Comprehensive characterization by FESEM, TEM, Raman spectroscopy, and X-ray photoelectron spectroscopy confirms the successful formation of atomically dispersed Co(II) centers, coordinated to oxygen-containing functional groups within the graphene matrix, with no evidence of metallic clusters or oxide nanoparticles. The atomically dispersed Co sites act as highly active centers for the oxygen reduction reaction (ORR) in alkaline media, delivering near four-electron transfer efficiency, a positive onset potential, and outstanding durability that surpasses commercial Pt/C catalysts. First-principles density functional theory (DFT) calculations corroborate the XPS findings and reveal the electronic structure of the Co–O coordination environment, offering atomistic insight into the catalytic mechanism. The synergy between precise site isolation, optimized local coordination, and electronic modulation enables the superior electrocatalytic performance of this Co SAC. This study establishes a versatile and scalable framework for engineering high-performance ORR catalysts featuring non-noble metal single-atom active sites.    
-
-    
-
-## Single Atom Engineering for Electrocatalysis: Fundamentals and Applications   
-
-OpenAlex: https://openalex.org/W4411469722    
-Open access: True
-    
-[Mario Urso](https://openalex.org/A5025365729), [Xiaohui Ju](https://openalex.org/A5049342258), [Radhika Nittoor‐Veedu](https://openalex.org/A5097794639), [Hyesung Lee](https://openalex.org/A5101641111), [Dagmar Zaoralová](https://openalex.org/A5072399500), [Michal Otyepka](https://openalex.org/A5041529029), [Martin Pumera](https://openalex.org/A5027346868), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.4c08027.
-    
-No abstract    
-
-    
-
-## Transfer Learning for Predictive Molecular Simulations: Data-Efficient Potential Energy Surfaces at CCSD(T) Accuracy   
-
-OpenAlex: https://openalex.org/W4411472096    
-Open access: False
-    
-[Silvan Käser](https://openalex.org/A5052562929), [Jeremy O. Richardson](https://openalex.org/A5037124074), [Markus Meuwly](https://openalex.org/A5010154021), Journal of Chemical Theory and Computation. None(None)] 2025.https://doi.org/10.1021/acs.jctc.5c00523.
-    
-Accurate potential energy surfaces (PESs) are critical for predictive molecular simulations. However, obtaining a PES at the highest levels of quantum chemical accuracy, such as CCSD(T), becomes computationally infeasible as molecular size increases. This work presents CCSD(T)-quality PESs using data-efficient techniques based on transfer learning to obtain state-of-the-art accuracy at a fraction of the computational cost for systems that would otherwise be intractable. Most importantly, the framework for accurate molecular simulations pursued here extends beyond specific observables and follows a rational strategy to obtain highest-accuracy PESs, which can be used for applications to spectroscopy and other experiments. As rigorous tests of the PESs, semiclassical tunnelling splittings for tropolone and the (propiolic acid)-(formic acid) dimer (PFD) as well as anharmonic frequencies for tropolone were determined. For tropolone, all observables are in excellent agreement with the experiment using the high-level PES, whereas for PFD, the agreement is less good but still orders of magnitude better than previous calculations.    
-
-    
 
 ## NiFe-based Electrocatalysts for Hydrogen Evolution Reaction in Alkaline Conditions: Recent Trends in the Design and Structure-Activity Correlations   
 
@@ -482,11 +394,11 @@ No abstract
 ## Light field–controlled PHz currents in intrinsic metals   
 
 OpenAlex: https://openalex.org/W4411629456    
-Open access: False
+Open access: True
     
 [Beatrix Fehér](https://openalex.org/A5081082443), [V. Hanuš](https://openalex.org/A5036669240), [Weiwei Li](https://openalex.org/A5002673060), [Zsuzsanna Pápa](https://openalex.org/A5058407959), [Judit Budai](https://openalex.org/A5038282785), [Pallabi Paul](https://openalex.org/A5048802347), [Adriana Szeghalmi](https://openalex.org/A5081253257), [Zilong Wang](https://openalex.org/A5100384115), [Matthias F. Kling](https://openalex.org/A5087798025), [Péter Dombi](https://openalex.org/A5067309698), Science Advances. 11(26)] 2025.https://doi.org/10.1126/sciadv.adv5406.
     
-Oriented electric currents in metals are routinely driven by applying an external electric potential. Although the response of electrons to the external electric fields occurs within attoseconds, conventional electronics do not use this speed potential. Ultrashort laser pulses with controlled shapes of electric fields that switch direction at petahertz frequencies open perspectives for driving currents in metals. Light field–driven currents were demonstrated in various media including dielectrics, semiconductors, and topological insulators. Now, our research question is whether we can drive and control orders of magnitude more charge carriers in metals enabling ultrafast switching with practically low-energy, picojoule-level pulses. Here, we demonstrate the interaction of light with nanometer-thick metallic layers, which leads to a generation of light field–controlled electric currents. We show that the implantation of metallic layers into a dielectric matrix leads to up to 40 times increase of the sensitivity in contrast to a bare dielectric, decreasing the intensity threshold for lightwave electronics.    
+Oriented electric currents in metals are routinely driven by applying an external electric potential. Although the response of electrons to the external electric fields occurs within attoseconds, conventional electronics do not use this speed potential. Ultrashort laser pulses with controlled shapes of electric fields that switch direction at petahertz frequencies open perspectives for driving currents in metals. Light field-driven currents were demonstrated in various media including dielectrics, semiconductors, and topological insulators. Now, our research question is whether we can drive and control orders of magnitude more charge carriers in metals enabling ultrafast switching with practically low-energy, picojoule-level pulses. Here, we demonstrate the interaction of light with nanometer-thick metallic layers, which leads to a generation of light field-controlled electric currents. We show that the implantation of metallic layers into a dielectric matrix leads to up to 40 times increase of the sensitivity in contrast to a bare dielectric, decreasing the intensity threshold for lightwave electronics.    
 
     
 
@@ -497,7 +409,7 @@ Open access: False
     
 [Ewan R. S. Wallace](https://openalex.org/A5118625474), [Nathan C. Frey](https://openalex.org/A5007068765), [Joshua A. Rackers](https://openalex.org/A5021192801), Journal of Chemical Information and Modeling. None(None)] 2025.https://doi.org/10.1021/acs.jcim.5c00586.
     
-No abstract    
+Ligand strain energy, the energy difference between the bound and unbound conformations of a ligand, is an important component of structure-based small molecule drug design. A large majority of observed ligands in protein-small molecule cocrystal structures bind in low-strain conformations, making strain energy a useful filter for structure-based drug design. In this work we present a tool for calculating ligand strain with a high accuracy. StrainRelief uses a MACE neural network potential (NNP), trained on a large database of density functional theory (DFT) calculations to estimate ligand strain of neutral molecules with quantum accuracy. We show that this tool estimates strain energy differences relative to DFT to within 1.4 kcal/mol, more accurately than alternative NNPs. These results highlight the utility of NNPs in drug discovery, and provide a useful tool for drug discovery teams.    
 
     
 
@@ -523,36 +435,80 @@ No abstract
 
     
 
-## Reaction and reactor designs for improving electrochemical CO2 capture   
+## Preparation of NiZr oxide amorphous/crystalline heterojunction for boosting hydrogen evolution reaction in alkaline by magnetron co-sputtering   
 
-OpenAlex: https://openalex.org/W4411451309    
+OpenAlex: https://openalex.org/W4411634584    
 Open access: False
     
-[Xinzhong Wang](https://openalex.org/A5056227360), [Jiashu Chen](https://openalex.org/A5101626366), [Yen‐Hsun Su](https://openalex.org/A5016497019), [Jie Wu](https://openalex.org/A5100349391), [Qing Xia](https://openalex.org/A5031728903), [Shanhe Gong](https://openalex.org/A5027690279), [Jingyu Sun](https://openalex.org/A5001893205), [Guangping Zheng](https://openalex.org/A5008491432), [Shi Xue Dou](https://openalex.org/A5028780342), [Xiao Zhang](https://openalex.org/A5100320883), Device. None(None)] 2025.https://doi.org/10.1016/j.device.2025.100837.
+[Jinsen Tian](https://openalex.org/A5027829469), [Mingwei Tang](https://openalex.org/A5044082682), [Junhao Qin](https://openalex.org/A5068158119), [Hao Zhang](https://openalex.org/A5118092824), [Jun Shen](https://openalex.org/A5033121105), International Journal of Hydrogen Energy. 148(None)] 2025.https://doi.org/10.1016/j.ijhydene.2025.150107.
     
 No abstract    
 
     
 
-## Global universal scaling and ultrasmall parameterization in machine-learning interatomic potentials with superlinearity   
+## Rapid flame induced dual-metal doping on WO3 electrode for boosting photo-electrochemical water oxidation   
 
-OpenAlex: https://openalex.org/W4411472404    
+OpenAlex: https://openalex.org/W4411653809    
 Open access: True
     
-[Yanxiao Hu](https://openalex.org/A5089786716), [Sheng Ye](https://openalex.org/A5100698452), [Jing Huang](https://openalex.org/A5101958937), [Xiaoxin Xu](https://openalex.org/A5049920459), [Yuyan Yang](https://openalex.org/A5069321702), [Mingqiang Zhang](https://openalex.org/A5062207689), [Yabei Wu](https://openalex.org/A5010162353), [Caichao Ye](https://openalex.org/A5100780506), [Jiong Yang](https://openalex.org/A5010008442), [Wenqing Zhang](https://openalex.org/A5100340230), Proceedings of the National Academy of Sciences. 122(25)] 2025.https://doi.org/10.1073/pnas.2503439122.
+[Seung Hun Roh](https://openalex.org/A5090220694), [Jaekyum Kim](https://openalex.org/A5065307714), [Won So](https://openalex.org/A5108770932), [Yuankai Li](https://openalex.org/A5079757002), [Won Tae Hong](https://openalex.org/A5026287233), [Hyun Min Kwon](https://openalex.org/A5007234821), [Sae Byeok Jo](https://openalex.org/A5070548242), [Wooseok Yang](https://openalex.org/A5051937422), [Byung‐Keun Oh](https://openalex.org/A5061583107), [Chan‐Hwa Chung](https://openalex.org/A5058192555), [Jongwook Park](https://openalex.org/A5024663468), [Chisung Ahn](https://openalex.org/A5086943411), [Byung‐Hyun Kim](https://openalex.org/A5101472216), [Jung Kyu Kim](https://openalex.org/A5052472508), Energy Materials. 5(10)] 2025.https://doi.org/10.20517/energymater.2025.59.
     
-Using machine learning (ML) to construct interatomic interactions and thus potential energy surface (PES) has become a common strategy for materials design and simulations. However, those current models of machine-learning interatomic potential (MLIP) consider no relevant physical constraints or global scaling and thus may owe intrinsic out-of-domain difficulty which underlies the challenges of model generalizability and physical scalability. Here, by incorporating the global universal scaling law, we develop an ultrasmall parameterized MLIP with superlinear expressive capability, named SUS 2 -MLIP. Due to the global scaling derived from the universal equation of state (UEOS), SUS 2 -MLIP not only has significantly reduced parameters by decoupling the element space from coordinate space but also naturally outcomes the out-of-domain difficulty and endows the model with inherent generalizability and scalability even with relatively small training dataset. The non-linearity-embedding transformation in radial function endows the model with superlinear expressive capability. SUS 2 -MLIP outperforms the state-of-the-art MLIP models with its exceptional computational efficiency, especially for multiple-element materials and physical scalability in property prediction. This work not only presents a highly efficient universal MLIP model but also sheds light on incorporating physical constraints into AI–aided materials simulation.    
+A bidirectional co-doping of transition metal Fe and post-transition metal Sn on WO3 photoanode via a facile one step flame-doping process demonstrates the challenging amelioration of both thermodynamic charge migration and surface catalytic kinetics, achieving high-efficient photoelectrochemical (PEC) water oxidation reaction in a neutral pH. The direct flamethrower with rapid thermal flux effectively induces the bidirectional doping of Fe3+ and Sn4+ into WO3 without damaging its nanostructure and fluorine-doped tin oxide glass substrate. From the synergetic effect of the dual-metal doping, the photoinduced charge migration and the surface water oxidation kinetics are effectively ameliorated. As a result, the Fe/Sn co-doped WO3 photoanode shows significantly enhanced PEC response with 6.16-fold higher photocurrent density performance at 1.23 VRHE than bare WO3. This work highlights the facile metal atom co-doping method without affecting intrinsic properties of photoanode and substrate for boosting the PEC water splitting performance and solar fuel production.    
 
     
 
-## sp 2 /sp 3 –Hybridized nitrogen–mediated electrochemical CO 2 capture and utilization   
+## Electric field induced soft breakdown of Ni81Fe19/α-Fe2O3 photoanodes for efficient photoelectrochemical water oxidation   
 
-OpenAlex: https://openalex.org/W4411472744    
-Open access: True
+OpenAlex: https://openalex.org/W4411657884    
+Open access: False
     
-[Zhenfang Zhang](https://openalex.org/A5058855220), [Yitong Li](https://openalex.org/A5100413887), [Yiwen Zhong](https://openalex.org/A5003464273), [Peng Li](https://openalex.org/A5100432648), [Lingfeng Zhu](https://openalex.org/A5100986866), [Zhi Zheng](https://openalex.org/A5054301156), [Baohua Jia](https://openalex.org/A5084237401), [Marie‐Laure David](https://openalex.org/A5066153531), [Yang Fu](https://openalex.org/A5019479128), [Hai Yu](https://openalex.org/A5018882725), [Tianyi Ma](https://openalex.org/A5069632856), Science Advances. 11(25)] 2025.https://doi.org/10.1126/sciadv.adw6592.
+[Junming Li](https://openalex.org/A5063360380), [Dongxue Liu](https://openalex.org/A5082528284), [Ke Wang](https://openalex.org/A5100688845), [Lei Xu](https://openalex.org/A5088774939), [Shi‐Jun Luo](https://openalex.org/A5085077165), [Dunhui Wang](https://openalex.org/A5050630571), Journal of Power Sources. 653(None)] 2025.https://doi.org/10.1016/j.jpowsour.2025.237768.
     
-Electrochemical carbon dioxide (CO 2 ) capture and utilization, powered by renewable energy, are essential to achieving net-zero emissions and CO 2 valorization. While remarkable progress has been made in catalysts, solution design, and system engineering, recent breakthroughs reveal that nitrogen-containing molecules—specifically sp 2 -hybridized structures (e.g., pyridine) and sp 3 -hybridized moieties (e.g., ethanolamine) —hold untapped potential to revolutionize both CO 2 capture and conversion. These structures have been demonstrated as the Holy Grail in facilitating CO 2 activation, stabilizing key intermediates, and streamlining reaction pathways—capabilities rarely achievable with conventional strategies. However, limited mechanistic understanding of their physicochemical properties and interactions with CO 2 hampers broader application. This review highlights recent advances in leveraging sp 2 /sp 3 -hybridized nitrogen structures, unpacks their molecular roles in electrochemical CO 2 management, and offers a unifying framework for their dual-functionality across capture and conversion. By illuminating these nitrogen-based motifs, we uncover practical design principles and open avenues for integrating expanded N-containing compounds into energy technologies—paving the way for next-generation carbon management strategies.    
+No abstract    
+
+    
+
+## Descriptor-Based Screening of Dual-Atom Photocatalysts for Efficient Urea Synthesis from CO2 and N2   
+
+OpenAlex: https://openalex.org/W4411667610    
+Open access: False
+    
+[Guang‐Hui Chen](https://openalex.org/A5089513739), [Chao Peng](https://openalex.org/A5065210158), [Bing-Hao Wang](https://openalex.org/A5024914172), [Biao Hu](https://openalex.org/A5100675283), [Xiong Wang](https://openalex.org/A5102519902), [Tian Sheng](https://openalex.org/A5102671733), [Xing-Sheng Hu](https://openalex.org/A5102657698), [Huijuan Wang](https://openalex.org/A5100376812), [Wei Shao](https://openalex.org/A5078512276), [Yang Li](https://openalex.org/A5112706438), [Jinxin Li](https://openalex.org/A5100711225), [Lang Chen](https://openalex.org/A5103259610), [Shuang‐Feng Yin](https://openalex.org/A5086761727), The Journal of Physical Chemistry Letters. None(None)] 2025.https://doi.org/10.1021/acs.jpclett.5c01152.
+    
+The development of efficient photocatalysts with high activity and selectivity for coreduction of N2 and CO2 under ambient conditions represents a highly promising but still challenging strategy for sustainable urea synthesis. In this study, using density functional theory (DFT) calculations, we present a comprehensive descriptor strategy integrating geometric, electronic, and energetic factors to screen Cu-metal dual-atom photocatalysts (CuM/CeO2, where M = 27 transition metals) for urea synthesis. According to the screening of the catalyst stability, coadsorption capability of N2 and CO2, energy barriers of the rate-determining step (RDS), and urea desorption energies, CuMn/CeO2 emerged as the most promising candidate photocatalyst. Through comprehensive analysis of the effects of the Cu-Mn interatomic distance on catalytic performance, a robust volcano-type relationship was established between the energy barrier for the RDS and the formation free energy of the key intermediate NCON (ΔGNCON). This relationship was found to be independent of the support examined in this study.    
+
+    
+
+## Pre-treated carbon additive enables reduction of metal loading in CoNiFe oxide-based OER electrocatalysts while maintaining performance   
+
+OpenAlex: https://openalex.org/W4411678934    
+Open access: False
+    
+[Trang Minh Pham](https://openalex.org/A5113307082), [Na Liu](https://openalex.org/A5100389744), [Stephan Bartling](https://openalex.org/A5059009629), [Nils Rockstroh](https://openalex.org/A5067238534), [Reinhard Eckelt](https://openalex.org/A5049259916), [Ju Wen](https://openalex.org/A5011717943), [Annette‐Enrica Surkus](https://openalex.org/A5055688484), [Robert Francke](https://openalex.org/A5062902347), Journal of Catalysis. None(None)] 2025.https://doi.org/10.1016/j.jcat.2025.116299.
+    
+No abstract    
+
+    
+
+## Adjacent boron-modified TiSiGeN4 for efficient photocatalytic nitrogen reduction: A comparison of doping and loading   
+
+OpenAlex: https://openalex.org/W4411679579    
+Open access: False
+    
+[Shilong Feng](https://openalex.org/A5102646828), [Zhe Sun](https://openalex.org/A5038144547), [Hengrui Jian](https://openalex.org/A5109704022), [Kun� Shi](https://openalex.org/A5036516611), [Qianqian Shen](https://openalex.org/A5102026076), [Jinbo Xue](https://openalex.org/A5027271527), Inorganic Chemistry Communications. None(None)] 2025.https://doi.org/10.1016/j.inoche.2025.114969.
+    
+No abstract    
+
+    
+
+## Ultrafine PdMo alloy nanowires mitigate excessive oxygen adsorption to enhance oxygen reduction in Zn-air batteries   
+
+OpenAlex: https://openalex.org/W4411679767    
+Open access: False
+    
+[Huaifang Teng](https://openalex.org/A5100590206), [Songliang Liu](https://openalex.org/A5020484594), [Donghang Xu](https://openalex.org/A5053149750), [Cong Zhang](https://openalex.org/A5100438406), [G.H Li](https://openalex.org/A5067896432), [Ming-Ying Zheng](https://openalex.org/A5072195410), [Xuejing Cui](https://openalex.org/A5048010832), [Xin Chen](https://openalex.org/A5100363059), [Luhua Jiang](https://openalex.org/A5002722827), Journal of Colloid and Interface Science. None(None)] 2025.https://doi.org/10.1016/j.jcis.2025.138273.
+    
+No abstract    
 
     
 
@@ -564,17 +520,6 @@ Open access: True
 [Yan Dong](https://openalex.org/A5100675437), [Mengmeng Li](https://openalex.org/A5110516930), [Yanli Liu](https://openalex.org/A5101694804), [Jianming Lei](https://openalex.org/A5074989014), [Haineng Bai](https://openalex.org/A5101456067), [Yanmei Sun](https://openalex.org/A5028969723), [Dunjun Chen](https://openalex.org/A5107908637), [Dongjie Zhu](https://openalex.org/A5103115243), [Rigao Wang](https://openalex.org/A5035793027), [Yi Sun](https://openalex.org/A5100411573), Molecules. 30(13)] 2025.https://doi.org/10.3390/molecules30132669.
     
 Slight changes in potassium levels can affect health. Therefore, rapid, reliable, and quantitative determination of potassium ion content is important for medical diagnosis. AlGaN, as a semiconductor material with good biocompatibility, has many advantages in the development of new potassium ion sensors. Understanding the adsorption behavior of a specific ion on the AlGaN surface and the eventual effect on AlGaN/GaN’s heterostructure interface is the key to obtaining high-performance nitride sensors. In this paper, we calculated the changes in the density of states and energy bands of the material after AlGaN adsorbed potassium ions through first-principles simulation. Combined with two-dimensional device simulation software, the changes in device performance caused by the changes in material properties are presented. The simulation results show that the adsorption of a single potassium ion can cause a current change in the order of milliamperes, providing a theoretical reference for the subsequent development of high-sensitivity potassium ion sensors.    
-
-    
-
-## Kinetic investigation of NH3 decomposition over Ru-based catalysts: The limiting role of H* surface coverage and its impact on reactor engineering   
-
-OpenAlex: https://openalex.org/W4411440199    
-Open access: False
-    
-[Yi Qiu](https://openalex.org/A5091579137), [Federico Sascha Franchi](https://openalex.org/A5045110791), [Nicola Usberti](https://openalex.org/A5050278943), [Alessandra Beretta](https://openalex.org/A5000185586), Fuel Processing Technology. 276(None)] 2025.https://doi.org/10.1016/j.fuproc.2025.108270.
-    
-No abstract    
 
     
 
