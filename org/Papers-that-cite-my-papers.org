@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Jun 29 01:54:27 2025
+Created on Mon Jun 30 01:50:19 2025
 
-Found 46 results from 2025-06-22 to 2025-06-29
+Found 47 results from 2025-06-23 to 2025-06-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967]]
@@ -16,48 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394074877]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* Electrochemical and Electrocatalytic Behavior of Platinum–Palladium Bulk Alloy Single Crystal Electrodes in Alkaline Media  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4411515934
-:TOPICS: Electrocatalysts for Energy Conversion, Electrochemical Analysis and Applications, Electrodeposition and Electroless Coatings
-:PUBLICATION_DATE: 2025-06-21
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.5c02416")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4411515934"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4411515934"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4411515934"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4411515934 (Open access: True)
-    
-[[https://openalex.org/A5025289228][Gabriel Melle]], [[https://openalex.org/A5029352707][Juan M. Feliú]], [[https://openalex.org/A5058030839][Rosa M. Arán‐Ais]], [[https://openalex.org/A5005047028][Enrique Herrero]], The Journal of Physical Chemistry C. None(None)] 2025. https://doi.org/10.1021/acs.jpcc.5c02416 
-     
-No abstract    
-
-    
-
-* Artificial Intelligence-Driven Catalyst Design for Electrocatalytic Hydrogen Production: Paradigm Innovation and Challenges in Material Discovery  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4411516850
-:TOPICS: Machine Learning in Materials Science, Electrocatalysts for Energy Conversion, Catalysis and Hydrodesulfurization Studies
-:PUBLICATION_DATE: 2025-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.scenem.2025.100010")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4411516850"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4411516850"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4411516850"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4411516850 (Open access: True)
-    
-[[https://openalex.org/A5045710217][Zhaoyong Jin]], [[https://openalex.org/A5030865411][Dongxu Gu]], [[https://openalex.org/A5100384492][Panpan Li]], [[https://openalex.org/A5051734953][Guilin Ye]], [[https://openalex.org/A5071577768][Haiou Zhu]], [[https://openalex.org/A5049678031][Kailun Wei]], [[https://openalex.org/A5100695880][Chunxiang Li]], [[https://openalex.org/A5053419913][Wenhui Zhong]], [[https://openalex.org/A5101521555][Wenjie Du]], [[https://openalex.org/A5102111177][Qing Zhu]], No host. None(None)] 2025. https://doi.org/10.1016/j.scenem.2025.100010 
-     
-No abstract    
-
-    
 
 * From Synthesis to Functionality: Borophene's Transformative Potential in Next‐Generation Electrocatalysis and Battery Applications  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -936,6 +894,69 @@ No abstract
 OpenAlex: https://openalex.org/W4411718410 (Open access: False)
     
 [[https://openalex.org/A5100395393][Yiming Zhang]], [[https://openalex.org/A5064949488][Lanling Zhao]], [[https://openalex.org/A5100384940][Jun Wang]], [[https://openalex.org/A5101413777][Yao Liu]], [[https://openalex.org/A5101537355][Zidong Zhang]], [[https://openalex.org/A5101437235][Wenwen Cai]], [[https://openalex.org/A5115589213][Jizhen Ma]], [[https://openalex.org/A5100412772][Jintao Zhang]], Journal of the American Chemical Society. None(None)] 2025. https://doi.org/10.1021/jacs.5c03061 
+     
+To develop effective electrocatalysts, the d-band center theory has been a reliable predictor of electrocatalytic activity in transition-metal-based catalysts. However, it fails to accurately describe magnetic systems influenced by spin polarization. Herein, phosphorus doping was introduced into cobalt diselenide on a hive-like carbon framework with nitrogen insertion (P-CoSe2@NC), which significantly enhances electrocatalytic performance for reversible CO2 conversion in an advanced Li-CO2 battery with specific capacities around 17,000 mAh g-1, high-rate performance, and good longevity exceeding 600 h in a pouch cell. Phosphorus doping induces lattice torsion in CoSe2, leading to strain-caused changes in the d-band center across different crystal planes, which are linked with the redistribution of spin states. To address the limitations of the traditional single d-band center model, the dual center model reveals how phosphorus doping effectively harmonizes the competition between spin orbitals, originating from changes in higher spin states. Such equilibrium moderates interactions with electrochemical intermediates to lower reaction energy barriers, enhancing reversible electrocatalysis for Li-CO2 batteries. Therefore, strain-induced changes in the d-band centers, coupled with alterations in spin states, underline the enhanced electrocatalytic performance observed. This work provides novel insights into regulating bifunctional electrocatalytic activities in spin-polarized systems through a dual d-band center approach, utilizing nonmetal doping to optimize performance.    
+
+    
+
+* Investigating the Potency of Boron Doping on Graphene Nanoclusters as Catalysts for CO Reduction Reaction  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4411724277
+:TOPICS: CO2 Reduction Techniques and Catalysts, Machine Learning in Materials Science, Advanced Thermoelectric Materials and Devices
+:PUBLICATION_DATE: 2025-06-27
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/slct.202500613")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4411724277"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4411724277"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4411724277"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4411724277 (Open access: True)
+    
+[[https://openalex.org/A5057838627][Arikasuci Fitonna Ridassepri]], [[https://openalex.org/A5059568941][Yutaro Umejima]], [[https://openalex.org/A5018853142][Shota Sato]], [[https://openalex.org/A5088140813][I Gusti Made Sanjaya]], [[https://openalex.org/A5015819137][Nur Hayati]], [[https://openalex.org/A5052890724][Samik Samik]], [[https://openalex.org/A5079483263][Jun Nakamura]], ChemistrySelect. 10(25)] 2025. https://doi.org/10.1002/slct.202500613 
+     
+Abstract Graphene materials exhibit significant potential as electrocatalysts for the CO reduction reaction (CORR), a crucial process for mitigating greenhouse gas emissions. This study investigates the impact of boron (B) doping on the catalytic performance of graphene nanoclusters (GNCs) for CORR using density functional theory (DFT). Pristine GNC (C 54 H 18 ) and B‐doped GNC (C 53 H 18 B) were examined through the computational hydrogen electrode (CHE) model. The results demonstrate that B doping slightly enhances adsorption energy, with C 53 H 18 B exhibiting higher adsorption energy (−2.40 × 10 −2 eV) than C 54 H 18 (−0.79 × 10 −2 eV), indicating a modest improvement in interaction strength, which is attributed to the electron‐deficient sites introduced by the B atom, which strengthen CO‐surface interactions, as evidenced by a shorter distance of 3.62 Å in C 53 H 18 B compared to 3.92 Å in C 54 H 18 . Free energy diagrams for both models reveal that methanol formation follows the same pathway: *CO → *CHO → *CH 2 O→ *OCH 3 →CH 3 OH. Notably, the overpotential required for spontaneous reaction is significantly lower for B‐GNC (0.89 V) than for the pristine GNC (1.50 V), indicating that B doping effectively enhances the electrocatalytic activity of GNCs for CORR. These findings highlight that B‐GNC is a promising candidate for metal‐free electrocatalysts with improved performance for sustainable COR applications.    
+
+    
+
+* Multivalence Driven High-Entropy Bimetallic Oxides for Acidic Water Oxidation  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4411736224
+:TOPICS: Electrocatalysts for Energy Conversion, Electronic and Structural Properties of Oxides, Catalytic Processes in Materials Science
+:PUBLICATION_DATE: 2025-06-27
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsnano.5c05602")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4411736224"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4411736224"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4411736224"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4411736224 (Open access: False)
+    
+[[https://openalex.org/A5091694557][Xianbing Miao]], [[https://openalex.org/A5100447471][Liang Wu]], [[https://openalex.org/A5101641417][Sheng Zhao]], [[https://openalex.org/A5043155245][J.H. Zhang]], [[https://openalex.org/A5024844898][Zi‐Jiang Liu]], [[https://openalex.org/A5039567536][Shiming Zhou]], ACS Nano. None(None)] 2025. https://doi.org/10.1021/acsnano.5c05602 
+     
+High-entropy materials have recently attracted much attention in diverse fields due to their tailorable compositions and unpredictable physicochemical properties. Generally, five or more metal elements occupying the same lattice sites in similar proportions are considered as a prerequisite for achieving high configuration entropy. Here we report an uncommon type of such material in V-doped RuO2, where the number of metal elements is reduced to only two. Both Ru and V ions are found in mixed oxidation states, which endow the bimetallic oxides with five different cations. Each of these cations behaves as an individual species to contribute to the configuration entropy, which is high enough to stabilize the single phase near the half-doping level. The large ionic disorder in this high-entropy oxide leads to lattice distortion, grain refining, and an evolution from metal to semiconductor, making it a superior electrochemical catalyst toward acidic water oxidation.    
+
+    
+
+* Design and Machine Learning-Assisted Evaluation of NHC-Functionalized C2N with Transition Metals for Efficient CO Reduction  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4411736604
+:TOPICS: CO2 Reduction Techniques and Catalysts, Advanced Photocatalysis Techniques, Ammonia Synthesis and Nitrogen Reduction
+:PUBLICATION_DATE: 2025-06-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.electacta.2025.146778")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4411736604"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4411736604"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4411736604"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4411736604 (Open access: False)
+    
+[[https://openalex.org/A5111307752][Jiasheng Peng]], [[https://openalex.org/A5075951735][Daifei Ye]], [[https://openalex.org/A5033993437][Yingying Fu]], [[https://openalex.org/A5102349289][Dian Zheng]], [[https://openalex.org/A5102848158][Xiaxia Gong]], [[https://openalex.org/A5100431703][Wei Liu]], [[https://openalex.org/A5089793356][Jing Xu]], Electrochimica Acta. None(None)] 2025. https://doi.org/10.1016/j.electacta.2025.146778 
      
 No abstract    
 
