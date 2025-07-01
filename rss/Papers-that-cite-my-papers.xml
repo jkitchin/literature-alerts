@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 30 Jun 2025 01:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 01:55:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>From Synthesis to Functionality: Borophene's Transformative Potential in Next&#8208;Generation Electrocatalysis and Battery Applications</title>
-      <link>https://doi.org/10.1002/sstr.202500186</link>
-      <description>Ozden Gunes Yildiz, Asli Ceren Can, Naeimeh Sadat Peighambardoust, Umut Aydemir, Small Structures. None(None)] 2025. https://openalex.org/W4411530039
-
-                Borophene, a novel two&#8208;dimensional boron allotrope, has rapidly emerged as a transformative material due to its unique atomic configurations and tunable properties. Its intrinsic electron deficiency gives rise to a diverse range of structural motifs from atomically thin flat sheets to corrugated and striped architectures that underpin remarkable mechanical strength, high electrical conductivity, and superior ion transport. This review comprehensively examines recent advances in borophene synthesis, stabilization, and functionalization. Special emphasis is placed on understanding how defect engineering, heteroatom doping, and the formation of heterostructures can mitigate borophene's inherent instability while enhancing its catalytic and electrochemical performance. In particular, borophene's potential in electrocatalytic water splitting is highlighted, where its abundant active sites facilitate efficient hydrogen evolution and oxygen evolution reactions as well as for high&#8208;capacity anodes in lithium&#8208;ion batteries, where storage capacities far exceed those of conventional materials. Though targeting distinct functions, both of these applications rely on shared electrochemical fundamentals and structural design strategies, supporting a unified treatment of borophene's energy applications. Despite promising theoretical and experimental results, challenges in scalable synthesis, stability, and integration persist, highlighting the need for advanced interdisciplinary strategies to fully harness borophene's potential in next&#8208;generation energy conversion and storage applications.</description>
-      <author>Ozden Gunes Yildiz, Asli Ceren Can, Naeimeh Sadat Peighambardoust, Umut Aydemir</author>
-      <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/sstr.202500186</guid>
-    </item>
-    <item>
-      <title>Electrocatalytic Reduction of Nitric Oxide to Ammonia on Defective ZnIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1002/aesr.202500152</link>
-      <description>M. T. Nasir, Qingchao Fang, Dimuthu Wijethunge, Xiuwen Zhou, Aijun Du, Advanced Energy and Sustainability Research. None(None)] 2025. https://openalex.org/W4411531005
-
-                The electrocatalytic nitric oxide reduction reaction (NORR) is a sustainable approach for converting the gas pollutant nitric oxide (NO) into value&#8208;added ammonia (NH 3 ). Currently, electrocatalytic synthesis remains a significant challenge due to the limited understanding of theoretical principles for designing highly active and selective catalysts. Herein, for the first time, hexagonal ZnIn 2 S 4 with a sulfur vacancy (V S ) as a potential NORR catalyst is systematically investigated using first&#8208;principles calculations. The hybridization between 5 p orbital of the indium (In) atom and absorbed NO leads to a strong interaction between the substrate and the adsorbate. The catalyst demonstrates excellent performance with a low limiting potential and prevents the formation of byproducts. Additionally, the hydrogen evolution reaction can be completely inhibited due to the deviation of the proton adsorption from the optimal zero value. Different from conventional d &#8208;block transitional metal catalysts, here, the exposed p &#8208;block indium acts catalytically active center for NORR. This work not only highlights a new sustainable catalyst for NORR but also offers an effective strategy for designing novel catalysts.</description>
-      <author>M. T. Nasir, Qingchao Fang, Dimuthu Wijethunge, Xiuwen Zhou, Aijun Du</author>
-      <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aesr.202500152</guid>
-    </item>
-    <item>
-      <title>Feature-Driven Prediction of HOMO&#8211;LUMO Gaps in Transition-Metal Complexes Using the SLEET Model: A SMILES-Based Transformer Framework</title>
-      <link>https://doi.org/10.1021/acs.jctc.5c00085</link>
-      <description>Sheng-Hsuan Hung, Zong-Rong Ye, Chi&#8208;Feng Cheng, An-Cheng Yang, Berlin Chen, Ming&#8208;Kang Tsai, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4411531753
-
-                A feature-driven model, SLEET, built upon the early reported SchNet-bs-RAN framework, that combines the approaches of SchNet and the bond-step representation weighted by the reduced atom number, is reported for evaluating the molecular electronic structure properties of transition-metal complexes (TMCs). Ligands were derived by segmenting purely two-dimensional SMILES representations, and metal-ligand interactions were modeled by using a Transformer-like architecture to construct a property prediction framework that aligns closely with chemical knowledge. This approach effectively captures the characteristics of the ligand field within TMCs. Consequently, the SLEET model delivers precise HOMO-LUMO gap predictions comparable to those achieved by three-dimensional information-based models while also demonstrating strong performance in predicting the molecular-weight-independent electronic properties.</description>
-      <author>Sheng-Hsuan Hung, Zong-Rong Ye, Chi&#8208;Feng Cheng, An-Cheng Yang, Berlin Chen, Ming&#8208;Kang Tsai</author>
-      <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c00085</guid>
-    </item>
-    <item>
-      <title>Inhibiting overoxidation of an &#945;-MnO&lt;sub&gt;2&lt;/sub&gt; electrocatalyst by the lattice strain effect for efficient water oxidation</title>
-      <link>https://doi.org/10.1039/d5ey00106d</link>
-      <description>Fangyi Li, Shan Guan, Jianming Liu, Changhao Liu, Junfeng Zhang, Ju Gu, Zhaosheng Li, Zhigang Zou, Zhen&#8208;Tao Yu, EES Catalysis. None(None)] 2025. https://openalex.org/W4411536551
-
-                The development of low-cost transition metal catalysts for use in alkaline water electrolysis (AWE) at high current densities is essential for achieving high-performance water splitting.</description>
-      <author>Fangyi Li, Shan Guan, Jianming Liu, Changhao Liu, Junfeng Zhang, Ju Gu, Zhaosheng Li, Zhigang Zou, Zhen&#8208;Tao Yu</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5ey00106d</guid>
-    </item>
-    <item>
-      <title>Role of Manganese Oxide Nanosheets in Pyrolyzed Carbonaceous Supports for Water Oxidation</title>
-      <link>https://doi.org/10.1021/acs.chemmater.5c00212</link>
-      <description>Andr&#233; Wark, Thorsten O. Schmidt, Richard W. Haid, Regina M. Kluge, Shinya Suzuki, Zyun Siroma, Egill Sk&#250;lason, Aliaksandr S. Bandarenka, Jun Maruyama, Chemistry of Materials. None(None)] 2025. https://openalex.org/W4411538125
-
-                No abstract</description>
-      <author>Andr&#233; Wark, Thorsten O. Schmidt, Richard W. Haid, Regina M. Kluge, Shinya Suzuki, Zyun Siroma, Egill Sk&#250;lason, Aliaksandr S. Bandarenka, Jun Maruyama</author>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.5c00212</guid>
-    </item>
-    <item>
-      <title>Machine learning high-throughput screening of double perovskites for enhanced acidic oxygen evolution</title>
-      <link>https://doi.org/10.1016/j.cej.2025.165258</link>
-      <description>Dong Hyeon Mok, Jaehyoung Lim, Hyunju Chang, Jungho Shin, Jiwoo Jang, Uk Sim, Geun Ho Gu, Seoin Back, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4411541201
-
-                No abstract</description>
-      <author>Dong Hyeon Mok, Jaehyoung Lim, Hyunju Chang, Jungho Shin, Jiwoo Jang, Uk Sim, Geun Ho Gu, Seoin Back</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.165258</guid>
-    </item>
     <item>
       <title>Diverse MOFs-derived carbon-based materials for advanced electrochemical energy applications</title>
       <link>https://doi.org/10.1016/j.enchem.2025.100163</link>
@@ -76,16 +16,6 @@
       <author>Chunyan Yang, Jian&#8208;Ping Lang</author>
       <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.enchem.2025.100163</guid>
-    </item>
-    <item>
-      <title>Coordination Engineering Modulates Spin-Polarization in Ruthenium Oxide to Enhance Acidic Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1016/j.apcatb.2025.125630</link>
-      <description>Lei Tan, Huilin Fan, Siyi Ding, Zian Zhao, Xiaotong Wu, Faiza Meharban, Yonghui Zhao, Qian Xu, Haojie Zhang, Chao Lin, Xiaopeng Li, Ralf B. Wehrspohn, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4411545654
-
-                No abstract</description>
-      <author>Lei Tan, Huilin Fan, Siyi Ding, Zian Zhao, Xiaotong Wu, Faiza Meharban, Yonghui Zhao, Qian Xu, Haojie Zhang, Chao Lin, Xiaopeng Li, Ralf B. Wehrspohn</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125630</guid>
     </item>
     <item>
       <title>Triggering Exothermic Water Dissociation on Copper via Rhenium Implantation for Enhanced Alkaline Hydrogen Generation</title>
@@ -458,6 +388,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146778</guid>
     </item>
     <item>
+      <title>Optimizing photocatalytic H2O2 rate over 100 mM&#183;g-1&#183;h-1 under air atmosphere on C3N5-based isotype heterojunction surface via simply altering heating-rates</title>
+      <link>https://doi.org/10.1016/j.jece.2025.117791</link>
+      <description>Wenwen Lv, Haining Cao, J. Zhuo, Yaodan Cao, Hongyan Liu, Maoquan Wu, Tongjie Yao, Sheng Li, Jie Wu, Journal of environmental chemical engineering. None(None)] 2025. https://openalex.org/W4411766262
+
+                No abstract</description>
+      <author>Wenwen Lv, Haining Cao, J. Zhuo, Yaodan Cao, Hongyan Liu, Maoquan Wu, Tongjie Yao, Sheng Li, Jie Wu</author>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2025.117791</guid>
+    </item>
+    <item>
+      <title>Coordination Engineering Modulates Spin-Polarization in Ruthenium Oxide to Enhance Acidic Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1016/j.apcatb.2025.125630</link>
+      <description>Lei Tan, Huilin Fan, Siyi Ding, Zian Zhao, Xiaotong Wu, Faiza Meharban, Yonghui Zhao, Qian Xu, Haojie Zhang, Chao Lin, Xiaopeng Li, Ralf B. Wehrspohn, Applied Catalysis B Environment and Energy. 378(None)] 2025. https://openalex.org/W4411545654
+
+                No abstract</description>
+      <author>Lei Tan, Huilin Fan, Siyi Ding, Zian Zhao, Xiaotong Wu, Faiza Meharban, Yonghui Zhao, Qian Xu, Haojie Zhang, Chao Lin, Xiaopeng Li, Ralf B. Wehrspohn</author>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125630</guid>
+    </item>
+    <item>
       <title>Distance-Aware Molecular Property Prediction in Nonlinear Structure&#8211;Property Space</title>
       <link>https://doi.org/10.1021/acs.jcim.5c01037</link>
       <description>Jae Young Kim, Dionisios G. Vlachos, Journal of Chemical Information and Modeling. None(None)] 2025. https://openalex.org/W4411549233
@@ -466,16 +416,6 @@
       <author>Jae Young Kim, Dionisios G. Vlachos</author>
       <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.5c01037</guid>
-    </item>
-    <item>
-      <title>Effect of Methylcellulose Chain Design on Gelation and Fibril Structure Using Coarse-Grained Modeling</title>
-      <link>https://doi.org/10.1021/acs.chemmater.5c00862</link>
-      <description>Stephen Kronenberger, Arthi Jayaraman, Chemistry of Materials. None(None)] 2025. https://openalex.org/W4411531326
-
-                No abstract</description>
-      <author>Stephen Kronenberger, Arthi Jayaraman</author>
-      <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.5c00862</guid>
     </item>
   </channel>
 </rss>
