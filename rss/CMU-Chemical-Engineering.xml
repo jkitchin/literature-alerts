@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Jul 2025 01:55:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 01:45:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Rethinking chemical research in the age of large language models</title>
-      <link>https://doi.org/10.1038/s43588-025-00811-y</link>
-      <description>Robert MacKnight, Daniil A. Boiko, Jose Emilio Regio, Liliana C. Gallegos, Th&#233;o A Neukomm, Gabriel dos Passos Gomes, Nature Computational Science. None(None)] 2025. https://openalex.org/W4411575899
-
-                No abstract</description>
-      <author>Robert MacKnight, Daniil A. Boiko, Jose Emilio Regio, Liliana C. Gallegos, Th&#233;o A Neukomm, Gabriel dos Passos Gomes</author>
-      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s43588-025-00811-y</guid>
-    </item>
     <item>
       <title>Surface observations from Atmospheric Radiation Measurement sites constrain the anthropogenic contribution to cloud droplet number</title>
       <link>https://doi.org/10.22541/essoar.175087280.06595777/v1</link>
@@ -36,6 +26,26 @@
       <author>Ritu Chauhan, Huda Usman, Nitin Minocha, Mehdi Molaei, Tagbo H. R. Niepa, Meenesh R. Singh</author>
       <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.5c00753</guid>
+    </item>
+    <item>
+      <title>GRAPSE: Graph-Based Retrieval Augmentation for Process Systems Engineering</title>
+      <link>https://doi.org/10.69997/sct.198790</link>
+      <description>Daniel Ovalle, Arpan Seth, John R. Kitchin, Carl D. Laird, Ignacio E. Grossmann, Systems and Control Transactions. 4(None)] 2025. https://openalex.org/W4411783084
+
+                Large Language Models have demonstrated potential in accelerating scientific discovery, but they face challenges when making inferences in rapidly evolving and niche domains like Process Systems Engineering (PSE). To address this, we propose a Graph-based Retrieval-Augmented Generation (RAG) pipeline specifically designed for PSE papers. Our pipeline includes custom document parsing, knowledge graph construction, and refinement to enhance retrieval accuracy. We evaluate the effectiveness of our approach using an automatically generated benchmark consisting entirely of PSE-related questions. The results show that our pipeline outperforms both non-RAG and vanilla RAG implementations in terms of relevant document retrieval and overall answer quality. Additionally, our implementation is fully customizable, allowing users to select the papers most relevant to their specific tasks. This framework is openly available, providing a flexible solution for those working in PSE or similar domains.</description>
+      <author>Daniel Ovalle, Arpan Seth, John R. Kitchin, Carl D. Laird, Ignacio E. Grossmann</author>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.69997/sct.198790</guid>
+    </item>
+    <item>
+      <title>A Comparison of Robust Modeling Approaches to Cope with Uncertainty in Independent Terms, considering the Forest Supply Chain Case Study</title>
+      <link>https://doi.org/10.69997/sct.158419</link>
+      <description>Frank Piedra-Jim&#233;nez, Ana I. Torres, Mar&#237;a Anal&#237;a Rodr&#237;guez, Systems and Control Transactions. 4(None)] 2025. https://openalex.org/W4411783123
+
+                Uncertainty plays a crucial role in strategic supply chain design. In this study, we explore robust approaches to model uncertainty when the non-deterministic parameters are placed in the independent term, on the right-hand side (RHS) of the constraints. We consider the "disjunctive adjustable column-wise robust optimization" (DACWRO), a disjunctive formulation introduced previously in our group, and compare it with the adjustable column-wise robust optimization (ACWRO) formulation, a specific technique for solving robust optimization problems when the original robust optimization approach may assume too-conservative results. Given that the proposed method is based on the generalized disjunctive programming (GDP) technique, it is a higher lever modelling approach that represents the discrete nature of the decision process. In addition, it provides alternative MILP representations that can be further tested and compared. The analysis assesses the computational performance and reformulation tightness of both approaches in the context of the forest supply chain design problem.</description>
+      <author>Frank Piedra-Jim&#233;nez, Ana I. Torres, Mar&#237;a Anal&#237;a Rodr&#237;guez</author>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.69997/sct.158419</guid>
     </item>
   </channel>
 </rss>

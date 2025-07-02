@@ -1,31 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Jul  1 01:55:29 2025
+Created on Wed Jul  2 01:45:03 2025
 
-Found 3 results from 2025-06-24 to 2025-07-01
+Found 4 results from 2025-06-25 to 2025-07-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Rethinking chemical research in the age of large language models  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4411575899
-:TOPICS: Machine Learning in Materials Science, Computational Drug Discovery Methods, Biomedical Text Mining and Ontologies
-:PUBLICATION_DATE: 2025-06-24
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s43588-025-00811-y")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4411575899"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4411575899"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4411575899"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4411575899 (Open access: False)
-    
-[[https://openalex.org/A5060793099][Robert MacKnight]], [[https://openalex.org/A5065327102][Daniil A. Boiko]], [[https://openalex.org/A5118605177][Jose Emilio Regio]], [[https://openalex.org/A5014333643][Liliana C. Gallegos]], [[https://openalex.org/A5118605178][Théo A Neukomm]], [[https://openalex.org/A5048633127][Gabriel dos Passos Gomes]], Nature Computational Science. None(None)] 2025. https://doi.org/10.1038/s43588-025-00811-y 
-     
-No abstract    
-
-    
 
 * Surface observations from Atmospheric Radiation Measurement sites constrain the anthropogenic contribution to cloud droplet number  :CMU_Chemical_Engineering:
 :PROPERTIES:
@@ -66,5 +45,47 @@ OpenAlex: https://openalex.org/W4411636903 (Open access: True)
 [[https://openalex.org/A5003423341][Ritu Chauhan]], [[https://openalex.org/A5006410485][Huda Usman]], [[https://openalex.org/A5060188677][Nitin Minocha]], [[https://openalex.org/A5080442414][Mehdi Molaei]], [[https://openalex.org/A5044695139][Tagbo H. R. Niepa]], [[https://openalex.org/A5003372467][Meenesh R. Singh]], ACS Materials Letters. None(None)] 2025. https://doi.org/10.1021/acsmaterialslett.5c00753 
      
 No abstract    
+
+    
+
+* GRAPSE: Graph-Based Retrieval Augmentation for Process Systems Engineering  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4411783084
+:TOPICS: Service-Oriented Architecture and Web Services, Process Optimization and Integration, Manufacturing Process and Optimization
+:PUBLICATION_DATE: 2025-06-30
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.69997/sct.198790")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4411783084"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4411783084"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4411783084"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4411783084 (Open access: False)
+    
+[[https://openalex.org/A5067396423][Daniel Ovalle]], [[https://openalex.org/A5037809021][Arpan Seth]], [[https://openalex.org/A5003442464][John R. Kitchin]], [[https://openalex.org/A5109041235][Carl D. Laird]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], Systems and Control Transactions. 4(None)] 2025. https://doi.org/10.69997/sct.198790 
+     
+Large Language Models have demonstrated potential in accelerating scientific discovery, but they face challenges when making inferences in rapidly evolving and niche domains like Process Systems Engineering (PSE). To address this, we propose a Graph-based Retrieval-Augmented Generation (RAG) pipeline specifically designed for PSE papers. Our pipeline includes custom document parsing, knowledge graph construction, and refinement to enhance retrieval accuracy. We evaluate the effectiveness of our approach using an automatically generated benchmark consisting entirely of PSE-related questions. The results show that our pipeline outperforms both non-RAG and vanilla RAG implementations in terms of relevant document retrieval and overall answer quality. Additionally, our implementation is fully customizable, allowing users to select the papers most relevant to their specific tasks. This framework is openly available, providing a flexible solution for those working in PSE or similar domains.    
+
+    
+
+* A Comparison of Robust Modeling Approaches to Cope with Uncertainty in Independent Terms, considering the Forest Supply Chain Case Study  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4411783123
+:TOPICS: Environmental Impact and Sustainability, Multi-Criteria Decision Making, Efficiency Analysis Using DEA
+:PUBLICATION_DATE: 2025-06-30
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.69997/sct.158419")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4411783123"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4411783123"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4411783123"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4411783123 (Open access: False)
+    
+[[https://openalex.org/A5091201904][Frank Piedra-Jiménez]], [[https://openalex.org/A5027983186][Ana I. Torres]], [[https://openalex.org/A5103124875][María Analía Rodríguez]], Systems and Control Transactions. 4(None)] 2025. https://doi.org/10.69997/sct.158419 
+     
+Uncertainty plays a crucial role in strategic supply chain design. In this study, we explore robust approaches to model uncertainty when the non-deterministic parameters are placed in the independent term, on the right-hand side (RHS) of the constraints. We consider the "disjunctive adjustable column-wise robust optimization" (DACWRO), a disjunctive formulation introduced previously in our group, and compare it with the adjustable column-wise robust optimization (ACWRO) formulation, a specific technique for solving robust optimization problems when the original robust optimization approach may assume too-conservative results. Given that the proposed method is based on the generalized disjunctive programming (GDP) technique, it is a higher lever modelling approach that represents the discrete nature of the decision process. In addition, it provides alternative MILP representations that can be further tested and compared. The analysis assesses the computational performance and reformulation tightness of both approaches in the context of the forest supply chain design problem.    
 
     
