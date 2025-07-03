@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 02 Jul 2025 01:45:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 01:45:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Surface observations from Atmospheric Radiation Measurement sites constrain the anthropogenic contribution to cloud droplet number</title>
-      <link>https://doi.org/10.22541/essoar.175087280.06595777/v1</link>
-      <description>D. P. Jones, Hunter Brown, Jacqueline M Nugent, August Mikkelsen, Ci Song, Damao Zhang, Susannah M. Burrows, Hamish Gordon, Andrew C. Kirby, Daniel T. McCoy, No host. None(None)] 2025. https://openalex.org/W4411628952
-
-                No abstract</description>
-      <author>D. P. Jones, Hunter Brown, Jacqueline M Nugent, August Mikkelsen, Ci Song, Damao Zhang, Susannah M. Burrows, Hamish Gordon, Andrew C. Kirby, Daniel T. McCoy</author>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.22541/essoar.175087280.06595777/v1</guid>
-    </item>
     <item>
       <title>Predictive Modeling and Experimental Validation of Magnetophoretic Delivery of Magnetic Nanocultures</title>
       <link>https://doi.org/10.1021/acsmaterialslett.5c00753</link>
@@ -46,6 +36,86 @@
       <author>Frank Piedra-Jim&#233;nez, Ana I. Torres, Mar&#237;a Anal&#237;a Rodr&#237;guez</author>
       <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.69997/sct.158419</guid>
+    </item>
+    <item>
+      <title>Teaching of Process Design Courses &#65533; The CMU experience, trends and challenges</title>
+      <link>https://doi.org/10.69997/sct.101971</link>
+      <description>Ana I. Torres, I.E. Grossmann, Systems and Control Transactions. 4(None)] 2025. https://openalex.org/W4411815432
+
+                Carnegie Mellon University (CMU) has a strong tradition and expertise in Chemical Process Systems Engineering. This short article comments on the CMU PSE-related courses and describes in more detail our approach to teaching Chemical Process Design. We discuss (i) our emphasis on proposing processes related to energy and sustainability and (ii) some of the challenges that are currently faced when teaching this course.</description>
+      <author>Ana I. Torres, I.E. Grossmann</author>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.69997/sct.101971</guid>
+    </item>
+    <item>
+      <title>Pareto optimal solutions for decarbonization of oil refineries under different electricity grid decarbonization scenarios</title>
+      <link>https://doi.org/10.69997/sct.102781</link>
+      <description>Kaliaperumal Karthikeyan, S. Chattopadhyay, Rahul Gandhi, Ignacio E. Grossmann, Ana I. Torres, Systems and Control Transactions. 4(None)] 2025. https://openalex.org/W4411815529
+
+                In response to global efforts to reduce carbon emissions, the oil refining sector, a major source of industrial emissions, has set ambitious decarbonization targets. This study analyzes trade-offs between minimizing CO2 emissions and costs through the use of Pareto optimal solutions. A superstructure optimization framework evaluates various technological pathways and timelines, employing a bi-criterion optimization approach using the ?-constraint method. Results show that cost-effective, higher-emission solutions often involve natural gas-based technologies with carbon capture, while expensive, low-emission solutions favor electric power-based technologies. The analysis incorporates detailed assumptions about grid carbon intensity of varying degrees and accounts for varying national policies. Comparative case studies across locations highlight how grid carbon profiles influence optimal strategies, providing insights to inform local policies and incentivize technologies.</description>
+      <author>Kaliaperumal Karthikeyan, S. Chattopadhyay, Rahul Gandhi, Ignacio E. Grossmann, Ana I. Torres</author>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.69997/sct.102781</guid>
+    </item>
+    <item>
+      <title>An Optimization-Based Law of Mass Action Precipitation/Dissolution Model</title>
+      <link>https://doi.org/10.69997/sct.132742</link>
+      <description>Chris Laliwala, Oluwamayowa Amusat, Ana I. Torres, Systems and Control Transactions. 4(None)] 2025. https://openalex.org/W4411815688
+
+                Rare earth elements (REE) and many other critical minerals are necessary for the manufacturing of modern everyday technologies, including microchips, batteries and electric motors. Recovery of these materials typically involves aqueous systems which can be modeled as chemical equilibrium problems. One common method for solving these problems is the law of mass action approach (LMA), where a system of non-linear equations involving the equilibrium constants is solved. However, despite being theoretically simple, these problems are in practice very difficult to solve. Currently, the use of iterative heuristics based on saturation indices to decide on which species and reactions to include in the calculations is the state of the art to arrive at a solution. Here, we present an optimization-based alternative to solve chemical equilibria problems involving precipitation/dissolution reactions without the need for such heuristics. Our approach is first validated against the LMA software MINTEQ and PHREEQC for a number of case studies, and then applied to a novel REE recovery process reported in the literature. Overall, our approach was found to have close agreement with MINTEQ and PHREEQC, and we were able to successfully replicate the reported yield and purity for the published REE process.</description>
+      <author>Chris Laliwala, Oluwamayowa Amusat, Ana I. Torres</author>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.69997/sct.132742</guid>
+    </item>
+    <item>
+      <title>A Computational Framework for Cyclic Steady-State Simulation of Dynamic Catalysis Systems: Application to Ammonia Synthesis</title>
+      <link>https://doi.org/10.69997/sct.105384</link>
+      <description>Carolina Colombo Tedesco, John R. Kitchin, Carl D. Laird, Systems and Control Transactions. 4(None)] 2025. https://openalex.org/W4411816096
+
+                Dynamic or Programmable Catalysis is an innovative strategy to improve heterogeneous catalysis processes by modulating the binding energies (BE) of adsorbates on a catalytic surface. The technique enables the periodic favoring of different reaction steps, overcoming limitations imposed by the Sabatier Principle and allowing for higher overall reaction rates, otherwise unattainable. Previously, we implemented a simultaneous simulation approach using the algebraic modeling language Pyomo and the solver IPOPT to obtain cyclic steady state results for a unimolecular reactive system with up to four-order of magnitude increases in computational performance compared to the previously reported sequential approach. The flexibility of the method allowed for the investigation of the influence of forcing signal parameters on system behavior and provided a framework for waveform design. In this study, we use a hybrid framework that combines the sequential and the simultaneous simulation approaches to find the cyclic steady state of a more complex system, of ammonia synthesis, comprising 19 reversible elementary reaction steps. The framework allowed us to investigate sine wave parameters with approximately 220 times less computational effort compared to the sequential approach alone. With the parameters studied, our findings indicate that frequencies exceeding 1000 Hz and compressive strains greater than 2% can negatively impact the system performance. Future work will focus on expanding the model to include lateral interactions between molecules, using other waveform as forcing signals, and integrating systematic mathematical optimization approaches. These advancements pave the way to establishing a general framework for identifying optimal waveforms across diverse dynamic catalysis systems.</description>
+      <author>Carolina Colombo Tedesco, John R. Kitchin, Carl D. Laird</author>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.69997/sct.105384</guid>
+    </item>
+    <item>
+      <title>Multiscale analysis through the use of biomass residues and CO2 towards energetic security at country scale via methane production</title>
+      <link>https://doi.org/10.69997/sct.149267</link>
+      <description>Guillermo Gal&#65533;n, Manuel Taifouris, Mariano Mart&#65533;n, Ignacio E. Grossmann, Systems and Control Transactions. 4(None)] 2025. https://openalex.org/W4411816103
+
+                The growing demand for sustainable energy has driven research into renewable methane production to reduce greenhouse gas emissions and reliance on fossil fuels. Promising feedstocks include lignocellulosic dry residues, wet waste, and captured CO2, converted via gasification, anaerobic digestion, and synthetic processes with renewable hydrogen. This study uses a multiscale approach to compare these sources, incorporating a techno-economic evaluation to identify key performance indicators (KPI) for facilities and renewable energy sources. A facility location pro- blem (FLP) determines plant locations and production capacities, considering material availability and transportation costs. The analysis focuses on the decentralised use of wastes and CO2 from point and diluted sources across Spain, employing an MILP model to optimise waste and CO2 utilisation alongside solar and wind energy systems. Results highlight lignocellulosic dry waste and CO2 captured with MEA from point sources as the most promising options. Sensitivity analysis predicts methane prices between 13.028 &#65533;/MWh and 47.216 &#65533;/MWh through 2050, requiring substantial investment for full methane self-sufficiency. With carbon taxes, the price could drop to 10.735 &#65533;/MWh by 2050, competitive with current natural gas prices.</description>
+      <author>Guillermo Gal&#65533;n, Manuel Taifouris, Mariano Mart&#65533;n, Ignacio E. Grossmann</author>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.69997/sct.149267</guid>
+    </item>
+    <item>
+      <title>Optimization models and algorithms for the Unit Commitment problem</title>
+      <link>https://doi.org/10.69997/sct.113099</link>
+      <description>Javal Vyas, Carl D. Laird, Ignacio E. Grossmann, Ricardo Lima, Iiro Harjunkoski, Jan Poland, Systems and Control Transactions. 4(None)] 2025. https://openalex.org/W4411816133
+
+                The unit commitment problem determines the optimal strategy to meet the electricity demand at minimum cost by committing power generation units at each point of time. Solving the unit commitment problem gives rise to a challenging optimization problem due to its combinatorial complexity and potentially long solution time requirements. Our proposed solution approach utilizes a decomposition method in conjunction with alternative models from the EGRET library. Results of this decomposition approach tested against four benchmarking systems show that significant computational speed ups are achieved.</description>
+      <author>Javal Vyas, Carl D. Laird, Ignacio E. Grossmann, Ricardo Lima, Iiro Harjunkoski, Jan Poland</author>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.69997/sct.113099</guid>
+    </item>
+    <item>
+      <title>A System-Dynamics Based Approach for Modeling Circular Economy Networks: Application to the Polyethylene Terephthalate (PET) Supply Chain</title>
+      <link>https://doi.org/10.69997/sct.107833</link>
+      <description>Daniel Pert, Ana I. Torres, Systems and Control Transactions. 4(None)] 2025. https://openalex.org/W4411816255
+
+                The transition to a circular economy (CE) requires agents in circular supply chain (SC) networks to take a variety of different initiatives, many of which are dynamic in nature. We use a system dynamics (SD)-based approach to develop a generic framework for dynamic modeling of CE networks and propose a prototypical circular SC network by combining dynamic models for five actors: a manufacturer, consumer, material recovery facility (MRF), recycling facility, and the Earth. We apply this framework to the supply chain for Polyethylene Terephthalate (PET) plastic packaging by considering different scenarios over a 65-year time horizon in the US. We include both &#65533;slow-down-the-loop&#65533; initiatives (i.e., those that extend product use time through demand reduction or reuse) and &#65533;close-the-loop&#65533; initiatives (i.e., those that reintroduce product to the supply chain through recycling) by the consumer, as well as sorting and recycling capacity expansion. We find that, given the current recycling infrastructure in the U.S., &#65533;slow-down-the-loop&#65533; initiatives are more effective than &#65533;close-the-loop&#65533; initiatives for improving circularity and minimizing environmental impact. However, combining the two initiatives eliminates the need for capacity expansion and leads to the highest circularity in the shortest amount of time.</description>
+      <author>Daniel Pert, Ana I. Torres</author>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.69997/sct.107833</guid>
+    </item>
+    <item>
+      <title>A Forest Biomass-to-Hydrogen Supply Chain Mathematical Model for Optimizing Carbon Emissions and Economic Metrics</title>
+      <link>https://doi.org/10.69997/sct.110922</link>
+      <description>Frank Piedra-Jim&#233;nez, Rishabh Mehta, Valeria Larnaudie, Mar&#237;a Anal&#237;a Rodr&#237;guez, Ana I. Torres, Systems and Control Transactions. 4(None)] 2025. https://openalex.org/W4411816258
+
+                This study introduces a mathematical programming approach to optimize biomass-to-hydrocarbon supply chain design and planning, aiming to balance economic and environmental outcomes. The model incorporates a range of residual biomass types from forestry, sawmills, and the pulp and paper industry, with the option to establish various processing facilities and technologies over a multi-period planning horizon. The analysis involves selecting forest areas, identifying biomass sources, and determining the optimal locations, technologies, and capacities for facilities converting wood-based residues into methanol and pyrolysis oil, which can be further refined into biodiesel and drop-in fuels. Using Life Cycle Assessment (LCA) in a gate-to-gate analysis, forest supply chain carbon emissions are estimated and integrated into the optimization model, extending previous research. A multi-objective framework is employed to minimize CO2-equivalent emissions while minimizing present costs, with efficient Pareto points evaluated in a case study focused on the Argentine forest industry.</description>
+      <author>Frank Piedra-Jim&#233;nez, Rishabh Mehta, Valeria Larnaudie, Mar&#237;a Anal&#237;a Rodr&#237;guez, Ana I. Torres</author>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.69997/sct.110922</guid>
     </item>
   </channel>
 </rss>
