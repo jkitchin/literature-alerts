@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 03 Jul 2025 01:45:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 01:44:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Predictive Modeling and Experimental Validation of Magnetophoretic Delivery of Magnetic Nanocultures</title>
-      <link>https://doi.org/10.1021/acsmaterialslett.5c00753</link>
-      <description>Ritu Chauhan, Huda Usman, Nitin Minocha, Mehdi Molaei, Tagbo H. R. Niepa, Meenesh R. Singh, ACS Materials Letters. None(None)] 2025. https://openalex.org/W4411636903
-
-                No abstract</description>
-      <author>Ritu Chauhan, Huda Usman, Nitin Minocha, Mehdi Molaei, Tagbo H. R. Niepa, Meenesh R. Singh</author>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.5c00753</guid>
-    </item>
     <item>
       <title>GRAPSE: Graph-Based Retrieval Augmentation for Process Systems Engineering</title>
       <link>https://doi.org/10.69997/sct.198790</link>
