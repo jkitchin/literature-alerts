@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 06 Jul 2025 01:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 01:50:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Optimizing photocatalytic H2O2 rate over 100 mM&#183;g-1&#183;h-1 under air atmosphere on C3N5-based isotype heterojunction surface via simply altering heating-rates</title>
-      <link>https://doi.org/10.1016/j.jece.2025.117791</link>
-      <description>Wenwen Lv, Haining Cao, J. Zhuo, Yaodan Cao, Hongyan Liu, Maoquan Wu, Tongjie Yao, Sheng Li, Jie Wu, Journal of environmental chemical engineering. None(None)] 2025. https://openalex.org/W4411766262
-
-                No abstract</description>
-      <author>Wenwen Lv, Haining Cao, J. Zhuo, Yaodan Cao, Hongyan Liu, Maoquan Wu, Tongjie Yao, Sheng Li, Jie Wu</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2025.117791</guid>
-    </item>
     <item>
       <title>Enhanced oxygen reduction reaction performance in boron carbon nitride through P doping for zinc-air batteries</title>
       <link>https://doi.org/10.1016/j.apsusc.2025.163913</link>
@@ -460,10 +450,10 @@
     <item>
       <title>Scalable synthesis of NiFe-layered double hydroxide for efficient anion exchange membrane electrolysis</title>
       <link>https://doi.org/10.1038/s41467-025-61356-2</link>
-      <description>&#193;lvaro Seijas&#8208;Da Silva, Adrian Hartert, V&#237;ctor Oestreicher, Jorge Romero, Camilo Jaramillo&#8208;Hern&#225;ndez, Luuk J. J. Muris, Gr&#233;goire Thorez, Bruno J. C. Vieira, Guillaume Ducourthial, Alice Fiocco, S&#233;bastien Legendre, Cristi&#225;n Huck&#8208;Iriart, Mart&#237;n Mizrahi, Diego L&#243;pez-Alcal&#225;, Anna T.S. Freiberg, Karl J. J. Mayrhofer, Jo&#227;o C. Waerenborgh, Jos&#233; J. Baldov&#237;, Serhiy Cherevko, M. Varela, Simon Thiele, Vicent Lloret, Gonzalo Abell&#225;n, Nature Communications. 16(1)] 2025. https://openalex.org/W4411983897
+      <description>&#193;lvaro Seijas&#8208;Da Silva, Adrian Hartert, V&#237;ctor Oestreicher, Jorge Romero, Camilo Jaramillo&#8208;Hern&#225;ndez, Luuk J J Muris, Gr&#233;goire Thorez, Bruno J. C. Vieira, Guillaume Ducourthial, Alice Fiocco, S&#233;bastien Legendre, Cristi&#225;n Huck&#8208;Iriart, Mart&#237;n Mizrahi, Diego L&#243;pez-Alcal&#225;, Anna T.S. Freiberg, Karl J. J. Mayrhofer, Jo&#227;o C. Waerenborgh, Jos&#233; J. Baldov&#237;, Serhiy Cherevko, M. Varela, Simon Thiele, Vicent Lloret, Gonzalo Abell&#225;n, Nature Communications. 16(1)] 2025. https://openalex.org/W4411983897
 
                 The alkaline oxygen evolution reaction is a key step in producing green hydrogen through water electrolysis, but its large-scale industrial application remains limited due to challenges with current electrocatalysts-particularly in terms of scalability, efficiency, and long-term stability. Here we show an industrially scalable synthesis of an active NiFe layered double hydroxide (NiFe-LDH) catalyst using a room-temperature, atmospheric-pressure route. The process involves homogeneous alkalinization, where chloride ions nucleophilically attack an epoxide ring, producing a low-dimensional, defect-rich NiFe-LDH with pronounced iron clustering. In-situ spectroscopy and ab-initio calculations reveal that these structural features maximize the conversion of the NiFe-LDH to the catalytic active phase and minimize the energy barrier, improving catalytic efficiency. When used as the anode in an anion exchange membrane water electrolyzer operating at 70 &#176;C, our material delivers 1 A cm&#8315;&#178; at 1.69 V in a 5 cm2 full-cell setup, with notable durability compared to conventional NiFe-LDHs. This scalable approach could considerably lower the cost of green hydrogen production by enabling more efficient alkaline electrolyzers.</description>
-      <author>&#193;lvaro Seijas&#8208;Da Silva, Adrian Hartert, V&#237;ctor Oestreicher, Jorge Romero, Camilo Jaramillo&#8208;Hern&#225;ndez, Luuk J. J. Muris, Gr&#233;goire Thorez, Bruno J. C. Vieira, Guillaume Ducourthial, Alice Fiocco, S&#233;bastien Legendre, Cristi&#225;n Huck&#8208;Iriart, Mart&#237;n Mizrahi, Diego L&#243;pez-Alcal&#225;, Anna T.S. Freiberg, Karl J. J. Mayrhofer, Jo&#227;o C. Waerenborgh, Jos&#233; J. Baldov&#237;, Serhiy Cherevko, M. Varela, Simon Thiele, Vicent Lloret, Gonzalo Abell&#225;n</author>
+      <author>&#193;lvaro Seijas&#8208;Da Silva, Adrian Hartert, V&#237;ctor Oestreicher, Jorge Romero, Camilo Jaramillo&#8208;Hern&#225;ndez, Luuk J J Muris, Gr&#233;goire Thorez, Bruno J. C. Vieira, Guillaume Ducourthial, Alice Fiocco, S&#233;bastien Legendre, Cristi&#225;n Huck&#8208;Iriart, Mart&#237;n Mizrahi, Diego L&#243;pez-Alcal&#225;, Anna T.S. Freiberg, Karl J. J. Mayrhofer, Jo&#227;o C. Waerenborgh, Jos&#233; J. Baldov&#237;, Serhiy Cherevko, M. Varela, Simon Thiele, Vicent Lloret, Gonzalo Abell&#225;n</author>
       <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-61356-2</guid>
     </item>
@@ -572,7 +562,7 @@
       <link>https://doi.org/10.1038/s41467-025-61129-x</link>
       <description>Hao Wang, Gui&#8208;Lin Zhuang, Yingjie Fan, Hua&#8208;Qing Yin, Wei Zhang, Zhe Wu, Shuang Yao, Tong&#8208;Bu Lu, Wenbin Lin, Zhiming Zhang, Nature Communications. 16(1)] 2025. https://openalex.org/W4412018624
 
-                No abstract</description>
+                Artificial photosynthesis provides an efficient strategy for solar energy storage via water splitting and CO2 reduction, but it remains a challenge in tuning artificial photosynthesis between these two competing reactions. Herein, we demonstrate photoinduced conversion of monometallic to bimetallic sites in a Fe-Co nitroprusside (FeCo-NP) to steer the reaction path from H2 evolution to CO2 reduction. Monometallic Co sites achieve efficient H2 production with 28.5 mmol g-1 activity and 85.4% selectivity. Photoinduced release of nitrosyl groups from Fe sites generates bimetallic Fe-Co sites, which suppress H2 evolution and enhance CO2 reduction, yielding 31.5 mmol g-1 activity and 87.3% selectivity for C1 products. Mechanistic investigations reveal that monometallic Co sites catalyze H2 evolution via H2O adsorption and O-H cleavage while bimetallic Fe-Co sites facilitate both H2O and CO2 adsorption and subsequent O and C hydrogenation for CO and HCOOH. This work uncovers a strategy to manipulate competing reaction pathways via photoinduced conversion of monometallic to bimetallic sites, which provides unique insights into addressing environmental issues and energy crises.</description>
       <author>Hao Wang, Gui&#8208;Lin Zhuang, Yingjie Fan, Hua&#8208;Qing Yin, Wei Zhang, Zhe Wu, Shuang Yao, Tong&#8208;Bu Lu, Wenbin Lin, Zhiming Zhang</author>
       <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-61129-x</guid>
@@ -616,6 +606,106 @@
       <author>Irina O. Nechitailova, Yulia A. Pankova, Mahmoud Eid, Dmitrii Yu. Molodtsov, Andrei A. Tereshchenko, Ilya Pankov, Alexander Soldatov, &#1040;. &#1040;. &#1040;&#1083;&#1077;&#1082;&#1089;&#1077;&#1077;&#1085;&#1082;&#1086;, Alexander A. Guda, Alexander D. Zagrebaev</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5339540</guid>
+    </item>
+    <item>
+      <title>Will It Blend? Mixing Numerical and Machine-Learned Physics Quantities for Accurate on-the-Fly Surrogate Modeling</title>
+      <link>https://doi.org/10.1007/978-3-031-97632-2_19</link>
+      <description>Michael Tynes, Kyle Chard, Ian Foster, Logan Ward, Lecture notes in computer science. None(None)] 2025. https://openalex.org/W4412042152
+
+                No abstract</description>
+      <author>Michael Tynes, Kyle Chard, Ian Foster, Logan Ward</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-97632-2_19</guid>
+    </item>
+    <item>
+      <title>Defect Formation and Electrical Transformation in SiO2 Thin Films via Ti-Induced Interdiffusion</title>
+      <link>https://doi.org/10.1016/j.actamat.2025.121313</link>
+      <description>Soon Joo Yoon, Jeong Woo Jeon, Junho Lee, JungHun Park, Chan&#8208;Woo Lee, Ki Jun Yu, Hyeonhu Bae, Ki&#8208;Hyun Kim, Keun Heo, Cheol Seong Hwang, Deok&#8208;Yong Cho, Taehun Lee, Youn&#8208;Kyoung Lee, Acta Materialia. None(None)] 2025. https://openalex.org/W4412043550
+
+                No abstract</description>
+      <author>Soon Joo Yoon, Jeong Woo Jeon, Junho Lee, JungHun Park, Chan&#8208;Woo Lee, Ki Jun Yu, Hyeonhu Bae, Ki&#8208;Hyun Kim, Keun Heo, Cheol Seong Hwang, Deok&#8208;Yong Cho, Taehun Lee, Youn&#8208;Kyoung Lee</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2025.121313</guid>
+    </item>
+    <item>
+      <title>Theoretical investigation of electrochemical CO reduction on carbonitrides</title>
+      <link>https://doi.org/10.1016/j.mtener.2025.101970</link>
+      <description>Muhammad Awais, Younes Abghoui, Materials Today Energy. None(None)] 2025. https://openalex.org/W4412044301
+
+                No abstract</description>
+      <author>Muhammad Awais, Younes Abghoui</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2025.101970</guid>
+    </item>
+    <item>
+      <title>Computational Modeling of Solid&#8211;Liquid Interfaces: From Ab Initio Methods to Machine-Learning Potentials</title>
+      <link>https://doi.org/10.1007/s41745-025-00475-7</link>
+      <description>Abhinav S. Raman, Journal of the Indian Institute of Science. None(None)] 2025. https://openalex.org/W4412046039
+
+                No abstract</description>
+      <author>Abhinav S. Raman</author>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s41745-025-00475-7</guid>
+    </item>
+    <item>
+      <title>Chemical Compensation Challenges in Processing Antiferroelectric PbZrO&lt;sub&gt;3&lt;/sub&gt; Thin Films</title>
+      <link>https://doi.org/10.1021/acsomega.5c04818</link>
+      <description>Milan Haddad, &#1042;. &#1040;. &#1051;&#1077;&#1073;&#1077;&#1076;&#1077;&#1074;, Kristina M. Holsgrove, Sergio Rivera-Cruz, Sarah J. Stock, Nikhilesh Maity, S. Lisenkov, I. Ponomareva, Amit Kumar, Lewys Jones, Nazanin Bassiri&#8208;Gharb, ACS Omega. None(None)] 2025. https://openalex.org/W4412047561
+
+                No abstract</description>
+      <author>Milan Haddad, &#1042;. &#1040;. &#1051;&#1077;&#1073;&#1077;&#1076;&#1077;&#1074;, Kristina M. Holsgrove, Sergio Rivera-Cruz, Sarah J. Stock, Nikhilesh Maity, S. Lisenkov, I. Ponomareva, Amit Kumar, Lewys Jones, Nazanin Bassiri&#8208;Gharb</author>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.5c04818</guid>
+    </item>
+    <item>
+      <title>Utilizing a machine-learned potential to explore enhanced radiation tolerance in the MoNbTaVW high-entropy alloy</title>
+      <link>https://doi.org/10.1016/j.jnucmat.2025.156004</link>
+      <description>Jiahui Liu, Jesper Byggm&#228;star, Zheyong Fan, Bing Bai, Ping Qian, Yanjing Su, Journal of Nuclear Materials. None(None)] 2025. https://openalex.org/W4412048424
+
+                No abstract</description>
+      <author>Jiahui Liu, Jesper Byggm&#228;star, Zheyong Fan, Bing Bai, Ping Qian, Yanjing Su</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jnucmat.2025.156004</guid>
+    </item>
+    <item>
+      <title>Doping or loading: unraveling the optimal anchoring strategy of single metal atom on Co3O4 for electrochemical nitrate reduction reaction</title>
+      <link>https://doi.org/10.1016/j.jechem.2025.06.060</link>
+      <description>Riming Hu, Haoyu Wang, Ruochen Zhu, Xinyuan Yang, Xiuxian Zhao, Fahao Ma, Jiayuan Yu, Xuchuan Jiang, Journal of Energy Chemistry. None(None)] 2025. https://openalex.org/W4412049091
+
+                No abstract</description>
+      <author>Riming Hu, Haoyu Wang, Ruochen Zhu, Xinyuan Yang, Xiuxian Zhao, Fahao Ma, Jiayuan Yu, Xuchuan Jiang</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2025.06.060</guid>
+    </item>
+    <item>
+      <title>Machine Learning-Assisted Activation of Lattice Oxygen in Fe-Co3o4 Catalysts for Boosting Electrocatalytic Oxygen Evolution Reaction in Acidic Conditions</title>
+      <link>https://doi.org/10.2139/ssrn.5340410</link>
+      <description>Yangshuo Liu, Yaotian Yan, Liang Qiao, Yao Meng, Jiehe Sui, Weimin Cai, Xiao Hang Zheng, No host. None(None)] 2025. https://openalex.org/W4412049902
+
+                No abstract</description>
+      <author>Yangshuo Liu, Yaotian Yan, Liang Qiao, Yao Meng, Jiehe Sui, Weimin Cai, Xiao Hang Zheng</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5340410</guid>
+    </item>
+    <item>
+      <title>Strain heterogeneity in RuO2 for efficient acidic oxygen evolution reaction in proton exchange membrane water electrolysis</title>
+      <link>https://doi.org/10.1038/s41467-025-58570-3</link>
+      <description>Xuejie Cao, Licheng Miao, Wenqi Jia, Hongye Qin, Guangliang Lin, Rongpeng Ma, Ting Jin, Lifang Jiao, Nature Communications. 16(1)] 2025. https://openalex.org/W4412050068
+
+                No abstract</description>
+      <author>Xuejie Cao, Licheng Miao, Wenqi Jia, Hongye Qin, Guangliang Lin, Rongpeng Ma, Ting Jin, Lifang Jiao</author>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-58570-3</guid>
+    </item>
+    <item>
+      <title>Gas-phase dispersion engineering of PtCo intermetallic catalysts with enhanced compressive strain for high-performance PEMFCs</title>
+      <link>https://doi.org/10.1016/j.jcat.2025.116314</link>
+      <description>Jun&#8208;Fei Shen, Guiming Wu, Na Tian, Hai&#8208;Wei Liang, Zhi&#8208;You Zhou, Shi&#8208;Gang Sun, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4412053494
+
+                No abstract</description>
+      <author>Jun&#8208;Fei Shen, Guiming Wu, Na Tian, Hai&#8208;Wei Liang, Zhi&#8208;You Zhou, Shi&#8208;Gang Sun</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116314</guid>
     </item>
     <item>
       <title>Model-based Operability and Safety Optimization for PEM Water Electrolysis</title>

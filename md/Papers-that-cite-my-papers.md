@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Jul  6 01:53:11 2025
+Created on Mon Jul  7 01:50:49 2025
 
-Found 68 results from 2025-06-29 to 2025-07-06
+Found 77 results from 2025-06-30 to 2025-07-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405)
@@ -16,17 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Optimizing photocatalytic H2O2 rate over 100 mM·g-1·h-1 under air atmosphere on C3N5-based isotype heterojunction surface via simply altering heating-rates   
-
-OpenAlex: https://openalex.org/W4411766262    
-Open access: False
-    
-[Wenwen Lv](https://openalex.org/A5060273315), [Haining Cao](https://openalex.org/A5110622285), [J. Zhuo](https://openalex.org/A5103157451), [Yaodan Cao](https://openalex.org/A5037552798), [Hongyan Liu](https://openalex.org/A5100332460), [Maoquan Wu](https://openalex.org/A5066113318), [Tongjie Yao](https://openalex.org/A5019400214), [Sheng Li](https://openalex.org/A5100359813), [Jie Wu](https://openalex.org/A5075470499), Journal of environmental chemical engineering. None(None)] 2025.https://doi.org/10.1016/j.jece.2025.117791.
-    
-No abstract    
-
-    
 
 ## Enhanced oxygen reduction reaction performance in boron carbon nitride through P doping for zinc-air batteries   
 
@@ -517,7 +506,7 @@ No abstract
 OpenAlex: https://openalex.org/W4411983897    
 Open access: True
     
-[Álvaro Seijas‐Da Silva](https://openalex.org/A5041679190), [Adrian Hartert](https://openalex.org/A5057347140), [Víctor Oestreicher](https://openalex.org/A5012758113), [Jorge Romero](https://openalex.org/A5016281829), [Camilo Jaramillo‐Hernández](https://openalex.org/A5092386348), [Luuk J. J. Muris](https://openalex.org/A5118803764), [Grégoire Thorez](https://openalex.org/A5118803765), [Bruno J. C. Vieira](https://openalex.org/A5023318581), [Guillaume Ducourthial](https://openalex.org/A5051215156), [Alice Fiocco](https://openalex.org/A5044726456), [Sébastien Legendre](https://openalex.org/A5078182135), [Cristián Huck‐Iriart](https://openalex.org/A5089308811), [Martín Mizrahi](https://openalex.org/A5065100389), [Diego López-Alcalá](https://openalex.org/A5078174445), [Anna T.S. Freiberg](https://openalex.org/A5056144599), [Karl J. J. Mayrhofer](https://openalex.org/A5053735446), [João C. Waerenborgh](https://openalex.org/A5032357919), [José J. Baldoví](https://openalex.org/A5023331891), [Serhiy Cherevko](https://openalex.org/A5032316007), [M. Varela](https://openalex.org/A5075294278), [Simon Thiele](https://openalex.org/A5030090315), [Vicent Lloret](https://openalex.org/A5020677451), [Gonzalo Abellán](https://openalex.org/A5053881395), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-61356-2.
+[Álvaro Seijas‐Da Silva](https://openalex.org/A5041679190), [Adrian Hartert](https://openalex.org/A5057347140), [Víctor Oestreicher](https://openalex.org/A5012758113), [Jorge Romero](https://openalex.org/A5016281829), [Camilo Jaramillo‐Hernández](https://openalex.org/A5092386348), [Luuk J J Muris](https://openalex.org/A5118803764), [Grégoire Thorez](https://openalex.org/A5118803765), [Bruno J. C. Vieira](https://openalex.org/A5023318581), [Guillaume Ducourthial](https://openalex.org/A5051215156), [Alice Fiocco](https://openalex.org/A5044726456), [Sébastien Legendre](https://openalex.org/A5078182135), [Cristián Huck‐Iriart](https://openalex.org/A5089308811), [Martín Mizrahi](https://openalex.org/A5065100389), [Diego López-Alcalá](https://openalex.org/A5078174445), [Anna T.S. Freiberg](https://openalex.org/A5056144599), [Karl J. J. Mayrhofer](https://openalex.org/A5053735446), [João C. Waerenborgh](https://openalex.org/A5032357919), [José J. Baldoví](https://openalex.org/A5023331891), [Serhiy Cherevko](https://openalex.org/A5032316007), [M. Varela](https://openalex.org/A5075294278), [Simon Thiele](https://openalex.org/A5030090315), [Vicent Lloret](https://openalex.org/A5020677451), [Gonzalo Abellán](https://openalex.org/A5053881395), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-61356-2.
     
 The alkaline oxygen evolution reaction is a key step in producing green hydrogen through water electrolysis, but its large-scale industrial application remains limited due to challenges with current electrocatalysts-particularly in terms of scalability, efficiency, and long-term stability. Here we show an industrially scalable synthesis of an active NiFe layered double hydroxide (NiFe-LDH) catalyst using a room-temperature, atmospheric-pressure route. The process involves homogeneous alkalinization, where chloride ions nucleophilically attack an epoxide ring, producing a low-dimensional, defect-rich NiFe-LDH with pronounced iron clustering. In-situ spectroscopy and ab-initio calculations reveal that these structural features maximize the conversion of the NiFe-LDH to the catalytic active phase and minimize the energy barrier, improving catalytic efficiency. When used as the anode in an anion exchange membrane water electrolyzer operating at 70 °C, our material delivers 1 A cm⁻² at 1.69 V in a 5 cm2 full-cell setup, with notable durability compared to conventional NiFe-LDHs. This scalable approach could considerably lower the cost of green hydrogen production by enabling more efficient alkaline electrolyzers.    
 
@@ -640,7 +629,7 @@ Open access: True
     
 [Hao Wang](https://openalex.org/A5100446198), [Gui‐Lin Zhuang](https://openalex.org/A5034742697), [Yingjie Fan](https://openalex.org/A5002581291), [Hua‐Qing Yin](https://openalex.org/A5101674880), [Wei Zhang](https://openalex.org/A5100415140), [Zhe Wu](https://openalex.org/A5015091824), [Shuang Yao](https://openalex.org/A5013387778), [Tong‐Bu Lu](https://openalex.org/A5054438192), [Wenbin Lin](https://openalex.org/A5057193669), [Zhiming Zhang](https://openalex.org/A5100328674), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-61129-x.
     
-No abstract    
+Artificial photosynthesis provides an efficient strategy for solar energy storage via water splitting and CO2 reduction, but it remains a challenge in tuning artificial photosynthesis between these two competing reactions. Herein, we demonstrate photoinduced conversion of monometallic to bimetallic sites in a Fe-Co nitroprusside (FeCo-NP) to steer the reaction path from H2 evolution to CO2 reduction. Monometallic Co sites achieve efficient H2 production with 28.5 mmol g-1 activity and 85.4% selectivity. Photoinduced release of nitrosyl groups from Fe sites generates bimetallic Fe-Co sites, which suppress H2 evolution and enhance CO2 reduction, yielding 31.5 mmol g-1 activity and 87.3% selectivity for C1 products. Mechanistic investigations reveal that monometallic Co sites catalyze H2 evolution via H2O adsorption and O-H cleavage while bimetallic Fe-Co sites facilitate both H2O and CO2 adsorption and subsequent O and C hydrogenation for CO and HCOOH. This work uncovers a strategy to manipulate competing reaction pathways via photoinduced conversion of monometallic to bimetallic sites, which provides unique insights into addressing environmental issues and energy crises.    
 
     
 
@@ -683,6 +672,116 @@ OpenAlex: https://openalex.org/W4412023468
 Open access: False
     
 [Irina O. Nechitailova](https://openalex.org/A5098490670), [Yulia A. Pankova](https://openalex.org/A5073284516), [Mahmoud Eid](https://openalex.org/A5085118798), [Dmitrii Yu. Molodtsov](https://openalex.org/A5098402955), [Andrei A. Tereshchenko](https://openalex.org/A5071574900), [Ilya Pankov](https://openalex.org/A5039041883), [Alexander Soldatov](https://openalex.org/A5103266016), [А. А. Алексеенко](https://openalex.org/A5089436494), [Alexander A. Guda](https://openalex.org/A5047279545), [Alexander D. Zagrebaev](https://openalex.org/A5057561456), No host. None(None)] 2025.https://doi.org/10.2139/ssrn.5339540.
+    
+No abstract    
+
+    
+
+## Will It Blend? Mixing Numerical and Machine-Learned Physics Quantities for Accurate on-the-Fly Surrogate Modeling   
+
+OpenAlex: https://openalex.org/W4412042152    
+Open access: False
+    
+[Michael Tynes](https://openalex.org/A5022288281), [Kyle Chard](https://openalex.org/A5065464552), [Ian Foster](https://openalex.org/A5032231503), [Logan Ward](https://openalex.org/A5021403239), Lecture notes in computer science. None(None)] 2025.https://doi.org/10.1007/978-3-031-97632-2_19.
+    
+No abstract    
+
+    
+
+## Defect Formation and Electrical Transformation in SiO2 Thin Films via Ti-Induced Interdiffusion   
+
+OpenAlex: https://openalex.org/W4412043550    
+Open access: False
+    
+[Soon Joo Yoon](https://openalex.org/A5104244852), [Jeong Woo Jeon](https://openalex.org/A5047831228), [Junho Lee](https://openalex.org/A5100366245), [JungHun Park](https://openalex.org/A5014278622), [Chan‐Woo Lee](https://openalex.org/A5101818679), [Ki Jun Yu](https://openalex.org/A5006572968), [Hyeonhu Bae](https://openalex.org/A5091367601), [Ki‐Hyun Kim](https://openalex.org/A5100459366), [Keun Heo](https://openalex.org/A5056140406), [Cheol Seong Hwang](https://openalex.org/A5027075775), [Deok‐Yong Cho](https://openalex.org/A5076097064), [Taehun Lee](https://openalex.org/A5100624383), [Youn‐Kyoung Lee](https://openalex.org/A5091554546), Acta Materialia. None(None)] 2025.https://doi.org/10.1016/j.actamat.2025.121313.
+    
+No abstract    
+
+    
+
+## Theoretical investigation of electrochemical CO reduction on carbonitrides   
+
+OpenAlex: https://openalex.org/W4412044301    
+Open access: False
+    
+[Muhammad Awais](https://openalex.org/A5100778583), [Younes Abghoui](https://openalex.org/A5073238551), Materials Today Energy. None(None)] 2025.https://doi.org/10.1016/j.mtener.2025.101970.
+    
+No abstract    
+
+    
+
+## Computational Modeling of Solid–Liquid Interfaces: From Ab Initio Methods to Machine-Learning Potentials   
+
+OpenAlex: https://openalex.org/W4412046039    
+Open access: False
+    
+[Abhinav S. Raman](https://openalex.org/A5051198619), Journal of the Indian Institute of Science. None(None)] 2025.https://doi.org/10.1007/s41745-025-00475-7.
+    
+No abstract    
+
+    
+
+## Chemical Compensation Challenges in Processing Antiferroelectric PbZrO3 Thin Films   
+
+OpenAlex: https://openalex.org/W4412047561    
+Open access: True
+    
+[Milan Haddad](https://openalex.org/A5109685575), [В. А. Лебедев](https://openalex.org/A5001791092), [Kristina M. Holsgrove](https://openalex.org/A5056649975), [Sergio Rivera-Cruz](https://openalex.org/A5118830159), [Sarah J. Stock](https://openalex.org/A5050363735), [Nikhilesh Maity](https://openalex.org/A5082514527), [S. Lisenkov](https://openalex.org/A5043359310), [I. Ponomareva](https://openalex.org/A5047091694), [Amit Kumar](https://openalex.org/A5100629217), [Lewys Jones](https://openalex.org/A5007377789), [Nazanin Bassiri‐Gharb](https://openalex.org/A5051461395), ACS Omega. None(None)] 2025.https://doi.org/10.1021/acsomega.5c04818.
+    
+No abstract    
+
+    
+
+## Utilizing a machine-learned potential to explore enhanced radiation tolerance in the MoNbTaVW high-entropy alloy   
+
+OpenAlex: https://openalex.org/W4412048424    
+Open access: False
+    
+[Jiahui Liu](https://openalex.org/A5100326014), [Jesper Byggmästar](https://openalex.org/A5014554135), [Zheyong Fan](https://openalex.org/A5028970783), [Bing Bai](https://openalex.org/A5101944987), [Ping Qian](https://openalex.org/A5046561934), [Yanjing Su](https://openalex.org/A5060011729), Journal of Nuclear Materials. None(None)] 2025.https://doi.org/10.1016/j.jnucmat.2025.156004.
+    
+No abstract    
+
+    
+
+## Doping or loading: unraveling the optimal anchoring strategy of single metal atom on Co3O4 for electrochemical nitrate reduction reaction   
+
+OpenAlex: https://openalex.org/W4412049091    
+Open access: False
+    
+[Riming Hu](https://openalex.org/A5019628107), [Haoyu Wang](https://openalex.org/A5100719801), [Ruochen Zhu](https://openalex.org/A5102506338), [Xinyuan Yang](https://openalex.org/A5101009631), [Xiuxian Zhao](https://openalex.org/A5020217166), [Fahao Ma](https://openalex.org/A5101145653), [Jiayuan Yu](https://openalex.org/A5074653939), [Xuchuan Jiang](https://openalex.org/A5002962596), Journal of Energy Chemistry. None(None)] 2025.https://doi.org/10.1016/j.jechem.2025.06.060.
+    
+No abstract    
+
+    
+
+## Machine Learning-Assisted Activation of Lattice Oxygen in Fe-Co3o4 Catalysts for Boosting Electrocatalytic Oxygen Evolution Reaction in Acidic Conditions   
+
+OpenAlex: https://openalex.org/W4412049902    
+Open access: False
+    
+[Yangshuo Liu](https://openalex.org/A5024643618), [Yaotian Yan](https://openalex.org/A5001942876), [Liang Qiao](https://openalex.org/A5100754475), [Yao Meng](https://openalex.org/A5066580963), [Jiehe Sui](https://openalex.org/A5032492683), [Weimin Cai](https://openalex.org/A5000790989), [Xiao Hang Zheng](https://openalex.org/A5000148707), No host. None(None)] 2025.https://doi.org/10.2139/ssrn.5340410.
+    
+No abstract    
+
+    
+
+## Strain heterogeneity in RuO2 for efficient acidic oxygen evolution reaction in proton exchange membrane water electrolysis   
+
+OpenAlex: https://openalex.org/W4412050068    
+Open access: True
+    
+[Xuejie Cao](https://openalex.org/A5071631246), [Licheng Miao](https://openalex.org/A5049252022), [Wenqi Jia](https://openalex.org/A5101068894), [Hongye Qin](https://openalex.org/A5039881332), [Guangliang Lin](https://openalex.org/A5005782269), [Rongpeng Ma](https://openalex.org/A5073801780), [Ting Jin](https://openalex.org/A5100661546), [Lifang Jiao](https://openalex.org/A5014197896), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-58570-3.
+    
+No abstract    
+
+    
+
+## Gas-phase dispersion engineering of PtCo intermetallic catalysts with enhanced compressive strain for high-performance PEMFCs   
+
+OpenAlex: https://openalex.org/W4412053494    
+Open access: False
+    
+[Jun‐Fei Shen](https://openalex.org/A5111011993), [Guiming Wu](https://openalex.org/A5007279267), [Na Tian](https://openalex.org/A5050506728), [Hai‐Wei Liang](https://openalex.org/A5026669428), [Zhi‐You Zhou](https://openalex.org/A5076196589), [Shi‐Gang Sun](https://openalex.org/A5100673667), Journal of Catalysis. None(None)] 2025.https://doi.org/10.1016/j.jcat.2025.116314.
     
 No abstract    
 
