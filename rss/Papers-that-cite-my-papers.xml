@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 07 Jul 2025 01:50:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 01:46:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enhanced oxygen reduction reaction performance in boron carbon nitride through P doping for zinc-air batteries</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.163913</link>
-      <description>Fang Liu, Shiqing Zhang, Shaokai Ma, Zhaoyang Cao, Ying Li, Y.R. Ma, Xuewen Xu, Jun Zhang, Yanming Xue, Chengchun Tang, Applied Surface Science. 710(None)] 2025. https://openalex.org/W4411772312
-
-                No abstract</description>
-      <author>Fang Liu, Shiqing Zhang, Shaokai Ma, Zhaoyang Cao, Ying Li, Y.R. Ma, Xuewen Xu, Jun Zhang, Yanming Xue, Chengchun Tang</author>
-      <pubDate>Sun, 29 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.163913</guid>
-    </item>
-    <item>
-      <title>Unraveling the Formation Kinetics of the First Intermediate in the Oxygen Evolution Reaction on MnO&lt;sub&gt;&lt;b&gt;&lt;i&gt;x&lt;/i&gt;&lt;/b&gt;&lt;/sub&gt; with Different Electron Configurations</title>
-      <link>https://doi.org/10.1021/jacs.4c18273</link>
-      <description>Ruifang Wei, Dongfeng Li, Panwang Zhou, Runze Liu, Chenwei Ni, Zeyu Cheng, Xiuli Wang, Can Li, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4411779753
-
-                No abstract</description>
-      <author>Ruifang Wei, Dongfeng Li, Panwang Zhou, Runze Liu, Chenwei Ni, Zeyu Cheng, Xiuli Wang, Can Li</author>
-      <pubDate>Sun, 29 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c18273</guid>
-    </item>
-    <item>
-      <title>Mussel&#8208;Inspired Self&#8208;Assembly of PtO&lt;sub&gt;4&lt;/sub&gt; Atomic Catalysts for Interfacial Synergistic Hydrogen Evolution</title>
-      <link>https://doi.org/10.1002/advs.202507807</link>
-      <description>Yeo Hoon Yoon, Karthikeyan Jeyakumar, Gang San Lee, Jayaraman Balamurugan, Suchithra Padmajan Sasikala, Chan Woo Lee, Chuanwei Cheng, Jun Beom Kim, Haeshin Lee, Sang Ouk Kim, Advanced Science. None(None)] 2025. https://openalex.org/W4411786099
-
-                Abstract Molecular self&#8208;assembly strategy for Pt&#8208;O electrocatalysts is presented, achieved by facile solution processing of dopamine monomers. This mussel&#8208;inspired strategy ensures a highly defined PtO 4 atomic structure with uniform monolayer deposition across various 2D nanomaterials. By leveraging the intimate interplay between PtO 4 sites and 2D substrates, while maintaining a consistent coordination environment, underlying mechanism for enhanced kinetics in interfacial synergistic hydrogen evolution reaction is systematically elucidated. Notably, the self&#8208;assembled PtO 4 site exhibits up to a 30&#8208;fold enhancement of mass activity compared to commercial Pt/C catalysts, contingent upon the choice of substrate material. Theoretical investigation illustrates facilitated electron transfer, optimized energy barriers, and additional reaction pathways resulting from the synergistic interplay between PtO 4 and Ti 3 C 2 O 2 MXene. This straightforward, energy&#8208;efficient, and highly reliable scheme for atomic&#8208;level catalysts prospects a valuable platform toward sub&#8208;molecular level engineering of tailored electronic structures and properties.</description>
-      <author>Yeo Hoon Yoon, Karthikeyan Jeyakumar, Gang San Lee, Jayaraman Balamurugan, Suchithra Padmajan Sasikala, Chan Woo Lee, Chuanwei Cheng, Jun Beom Kim, Haeshin Lee, Sang Ouk Kim</author>
-      <pubDate>Sun, 29 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/advs.202507807</guid>
-    </item>
-    <item>
-      <title>Optimization of Catalysts Using Computational Chemistry, Machine Learning, and Cheminformatics</title>
-      <link>https://doi.org/10.1002/9783527847068.ch06</link>
-      <description>David Dalmau, Juan V. Alegre&#8208;Requena, No host. None(None)] 2025. https://openalex.org/W4411788773
-
-                No abstract</description>
-      <author>David Dalmau, Juan V. Alegre&#8208;Requena</author>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/9783527847068.ch06</guid>
-    </item>
-    <item>
-      <title>Benchmark of Approximate Quantum Chemical and Machine Learning Potentials for Biochemical Proton Transfer Reactions</title>
-      <link>https://doi.org/10.1021/acs.jctc.5c00690</link>
-      <description>Guilherme M. Arantes, Jan &#344;ez&#225;&#269;, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4411792069
-
-                Proton transfer reactions are among the most common chemical transformations and are central to enzymatic catalysis and bioenergetic processes. Their mechanisms are often investigated using DFT or approximate quantum chemical methods, whose accuracy directly impacts the reliability of the simulations. Here, a comprehensive set of semiempirical molecular orbital and tight-binding DFT approaches, along with recently developed machine learning (ML) potentials, are benchmarked against high-level MP2 reference data for a curated set of proton transfer reactions representative of biochemical systems. Relative energies, geometries, and dipole moments are evaluated for isolated reactions. Microsolvated reactions are also simulated using a hybrid QM/MM partition. Traditional DFT methods offer high accuracy in general but show markedly larger deviations for proton transfers involving nitrogen-containing groups. Among approximate models, RM1, PM6, PM7, DFTB2-NH, DFTB3, and GFN2-xTB show reasonable accuracy across properties, though their performance varies by chemical group. The ML-corrected (&#916;-learning) model PM6-ML improves accuracy for all properties and chemical groups and transfers well to QM/MM simulations. Conversely, standalone ML potentials perform poorly for most reactions. These results provide a basis for evaluating approximate methods and selecting potentials for proton transfer simulations in complex environments.</description>
-      <author>Guilherme M. Arantes, Jan &#344;ez&#225;&#269;</author>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c00690</guid>
-    </item>
     <item>
       <title>fastatomstruct: A High-Performance Library for Structural and Dynamical Analysis of Atomic Systems</title>
       <link>https://doi.org/10.21105/joss.08106</link>
@@ -628,16 +578,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2025.121313</guid>
     </item>
     <item>
-      <title>Theoretical investigation of electrochemical CO reduction on carbonitrides</title>
-      <link>https://doi.org/10.1016/j.mtener.2025.101970</link>
-      <description>Muhammad Awais, Younes Abghoui, Materials Today Energy. None(None)] 2025. https://openalex.org/W4412044301
-
-                No abstract</description>
-      <author>Muhammad Awais, Younes Abghoui</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2025.101970</guid>
-    </item>
-    <item>
       <title>Computational Modeling of Solid&#8211;Liquid Interfaces: From Ab Initio Methods to Machine-Learning Potentials</title>
       <link>https://doi.org/10.1007/s41745-025-00475-7</link>
       <description>Abhinav S. Raman, Journal of the Indian Institute of Science. None(None)] 2025. https://openalex.org/W4412046039
@@ -668,16 +608,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jnucmat.2025.156004</guid>
     </item>
     <item>
-      <title>Doping or loading: unraveling the optimal anchoring strategy of single metal atom on Co3O4 for electrochemical nitrate reduction reaction</title>
-      <link>https://doi.org/10.1016/j.jechem.2025.06.060</link>
-      <description>Riming Hu, Haoyu Wang, Ruochen Zhu, Xinyuan Yang, Xiuxian Zhao, Fahao Ma, Jiayuan Yu, Xuchuan Jiang, Journal of Energy Chemistry. None(None)] 2025. https://openalex.org/W4412049091
-
-                No abstract</description>
-      <author>Riming Hu, Haoyu Wang, Ruochen Zhu, Xinyuan Yang, Xiuxian Zhao, Fahao Ma, Jiayuan Yu, Xuchuan Jiang</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2025.06.060</guid>
-    </item>
-    <item>
       <title>Machine Learning-Assisted Activation of Lattice Oxygen in Fe-Co3o4 Catalysts for Boosting Electrocatalytic Oxygen Evolution Reaction in Acidic Conditions</title>
       <link>https://doi.org/10.2139/ssrn.5340410</link>
       <description>Yangshuo Liu, Yaotian Yan, Liang Qiao, Yao Meng, Jiehe Sui, Weimin Cai, Xiao Hang Zheng, No host. None(None)] 2025. https://openalex.org/W4412049902
@@ -692,7 +622,7 @@
       <link>https://doi.org/10.1038/s41467-025-58570-3</link>
       <description>Xuejie Cao, Licheng Miao, Wenqi Jia, Hongye Qin, Guangliang Lin, Rongpeng Ma, Ting Jin, Lifang Jiao, Nature Communications. 16(1)] 2025. https://openalex.org/W4412050068
 
-                No abstract</description>
+                Developing acid-stable and active ruthenium dioxide (RuO2) catalysts for the oxygen evolution reaction (OER) is crucial for facilitating the large-scale applications of proton exchange membrane water electrolysis (PEMWE) for hydrogen production. Here, we propose a strain heterogeneity engineering strategy to simultaneously enhance the OER stability and activity of RuO2 electrocatalysts by introducing single-atom platinum (Pt). In a PEM water electrolyzer, the resultant Pt-RuO2 catalyst archives 3 A cm-2 at a low voltage of 1.791 V and maintains a stable performance for over 500 h at 500 mA cm-2. These performance metrics highlight its potential for practical applications. Experiments and calculations analyses confirm that the bulk tensile strain effectively stabilizes the entire structure of electrocatalysts, while the regions of compressive strain are identified as highly active catalytic sites, where the weakened binding energy of oxo-intermediates improves the catalytic activity.</description>
       <author>Xuejie Cao, Licheng Miao, Wenqi Jia, Hongye Qin, Guangliang Lin, Rongpeng Ma, Ting Jin, Lifang Jiao</author>
       <pubDate>Sat, 05 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-58570-3</guid>
@@ -706,6 +636,56 @@
       <author>Jun&#8208;Fei Shen, Guiming Wu, Na Tian, Hai&#8208;Wei Liang, Zhi&#8208;You Zhou, Shi&#8208;Gang Sun</author>
       <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116314</guid>
+    </item>
+    <item>
+      <title>Theoretical investigation of electrochemical CO reduction on carbonitrides</title>
+      <link>https://doi.org/10.1016/j.mtener.2025.101970</link>
+      <description>Muhammad Awais, Younes Abghoui, Materials Today Energy. None(None)] 2025. https://openalex.org/W4412044301
+
+                No abstract</description>
+      <author>Muhammad Awais, Younes Abghoui</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2025.101970</guid>
+    </item>
+    <item>
+      <title>Doping or loading: unraveling the optimal anchoring strategy of single metal atom on Co3O4 for electrochemical nitrate reduction reaction</title>
+      <link>https://doi.org/10.1016/j.jechem.2025.06.060</link>
+      <description>Riming Hu, Haoyu Wang, Ruochen Zhu, Xinyuan Yang, Xiuxian Zhao, Fahao Ma, Jiayuan Yu, Xuchuan Jiang, Journal of Energy Chemistry. None(None)] 2025. https://openalex.org/W4412049091
+
+                No abstract</description>
+      <author>Riming Hu, Haoyu Wang, Ruochen Zhu, Xinyuan Yang, Xiuxian Zhao, Fahao Ma, Jiayuan Yu, Xuchuan Jiang</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2025.06.060</guid>
+    </item>
+    <item>
+      <title>Domain Specific Language for Materials Modeling</title>
+      <link>https://doi.org/10.1007/978-3-031-97564-6_18</link>
+      <description>Ivan Kondov, Rodrigo Cort&#233;s&#8208;Mej&#237;a, Marvin M&#252;ller, Nikolai Pfisterer, S Sreenivasan, Lecture notes in computer science. None(None)] 2025. https://openalex.org/W4412055324
+
+                No abstract</description>
+      <author>Ivan Kondov, Rodrigo Cort&#233;s&#8208;Mej&#237;a, Marvin M&#252;ller, Nikolai Pfisterer, S Sreenivasan</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-97564-6_18</guid>
+    </item>
+    <item>
+      <title>Partially reduced PdOx nanoparticles strongly interacting with defect-rich ceria via dynamic redox pulse for complete methane oxidation</title>
+      <link>https://doi.org/10.1016/j.apcatb.2025.125672</link>
+      <description>Seung-Hee Ryu, Seokhyun Choung, Yunji Choi, Hyunjoo Lee, Joon&#8208;Hwan Choi, Jeong Woo Han, Hojin Jeong, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4412055487
+
+                No abstract</description>
+      <author>Seung-Hee Ryu, Seokhyun Choung, Yunji Choi, Hyunjoo Lee, Joon&#8208;Hwan Choi, Jeong Woo Han, Hojin Jeong</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125672</guid>
+    </item>
+    <item>
+      <title>Spin-blockade effect of chiral multi-branch Au nanoparticles for mediating oxygen evolution reaction of electro-catalytic water splitting</title>
+      <link>https://doi.org/10.1016/j.cej.2025.165517</link>
+      <description>Rui Tian, Lufei Huang, Ying Li, Dewei Zhang, Shenghong Ju, Baowen Zhou, Lin Yao, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4412055696
+
+                No abstract</description>
+      <author>Rui Tian, Lufei Huang, Ying Li, Dewei Zhang, Shenghong Ju, Baowen Zhou, Lin Yao</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.165517</guid>
     </item>
     <item>
       <title>Model-based Operability and Safety Optimization for PEM Water Electrolysis</title>
