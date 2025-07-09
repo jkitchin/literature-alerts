@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Jul  8 01:46:09 2025
+Created on Wed Jul  9 01:47:21 2025
 
-Found 75 results from 2025-07-01 to 2025-07-08
+Found 77 results from 2025-07-02 to 2025-07-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405)
@@ -16,50 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## fastatomstruct: A High-Performance Library for Structural and Dynamical Analysis of Atomic Systems   
-
-OpenAlex: https://openalex.org/W4411801452    
-Open access: True
-    
-[Nils Holle](https://openalex.org/A5077704086), [Sebastian Walfort](https://openalex.org/A5026798343), [Riccardo Mazzarello](https://openalex.org/A5090166730), [Martin Salinga](https://openalex.org/A5045942966), The Journal of Open Source Software. 10(110)] 2025.https://doi.org/10.21105/joss.08106.
-    
-No abstract    
-
-    
-
-## Insight into the oxygen evolution reaction mechanism catalyzed by phosphate-substituted FeCo2O4 nanosheets: proton-coupled electron transfer assisted adsorbate evolution mechanism investigated by in situ NAP-XPS   
-
-OpenAlex: https://openalex.org/W4411809016    
-Open access: False
-    
-[Nut Thanasuwannakul](https://openalex.org/A5118711393), [Chueh‐Cheng Yang](https://openalex.org/A5039728500), [Pantita Prapamonton](https://openalex.org/A5118711394), [Chia-Hsin Wang](https://openalex.org/A5112421836), [Nguyet N. T. Pham](https://openalex.org/A5022483359), [Yu‐Hsu Chang](https://openalex.org/A5064779642), Journal of Materials Chemistry A. None(None)] 2025.https://doi.org/10.1039/d5ta02093j.
-    
-This study explores phosphate-substituted FeCo 2 O 4 as catalysts for the oxygen evolution reaction. In situ NAP-XPS analysis elucidates the reaction pathway, with proton-coupled electron transfer identified as a critical mechanistic step.    
-
-    
-
-## Exploring the heterointerface of silver nanoparticles and cobalt oxide nanorings toward the oxygen reduction reaction   
-
-OpenAlex: https://openalex.org/W4411813765    
-Open access: False
-    
-[Fatima Nasim](https://openalex.org/A5045298523), [Hira Malik](https://openalex.org/A5045874782), [Guobao Xu](https://openalex.org/A5112146733), [Huilong Dong](https://openalex.org/A5033039685), [Muhammad Arif Nadeem](https://openalex.org/A5058675280), Journal of Materials Chemistry A. None(None)] 2025.https://doi.org/10.1039/d5ta01457c.
-    
-A unique Ag/Co 3 O 4 interface anchored on nitrogen-doped carbon nanosheets was synthesized via a one-pot route. The heterostructure exhibits excellent ORR performance, outperforming Pt-based catalysts due to synergistic interfacial effects.    
-
-    
-
-## Dual Engineering of Electronic Structure and Lattice Strain via Ce Doping in NiMn‐LDH for Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4411848913    
-Open access: False
-    
-[Shashwat Bishwanathan](https://openalex.org/A5093911026), [Nitash Kaushik](https://openalex.org/A5010507219), [Simran Kaur Oberoi](https://openalex.org/A5049775794), [Prashant Kumar Gupta](https://openalex.org/A5075831984), ChemistrySelect. 10(25)] 2025.https://doi.org/10.1002/slct.202502125.
-    
-Abstract Water electrolysis is a more sustainable way to produce green hydrogen than steam methanol reforming or coal gasification. Its efficiency is limited by slow oxygen evolution processes at the anode. Highly effective anodic electrocatalysts are difficult to produce. Layered double hydroxide is a promising and thoroughly researched OER material, however, long‐term stability issues arise. In this study, we examine the modification of the electronic structure of NiMn LDH through the introduction of Ce doping. The analysis of the material using XPS and XRD indicates that Ce is effectively integrated into the NiMn crystal structure, resulting in lattice distortion and alterations to the electronic structure when doped at concentrations of up to 5%. Furthermore, various electrochemical characterizations indicated that Ce doping increased the number of electrochemically active sites, improved electronic conductivity, and optimized the electrochemical kinetics. The 5% Ce‐doped NiMn LDH demonstrated a current density of 30 mA/cm 2 at an overpotential of 561 mV, which is significantly lower than the 638 mV overpotential observed for NiMn LDH and considerably superior to that of commercial RuO 2 . The system exhibited complete stability throughout a 15‐h operational duration at a consistent applied current density of 15 mA/cm 2 , with no indications of degradation observed.    
-
-    
 
 ## Atomic-Scale Insights into Electrochemical Hydrazine Oxidation on Mo2C MXene   
 
@@ -298,17 +254,6 @@ OpenAlex: https://openalex.org/W4411937000
 Open access: True
     
 [Yuan Tian](https://openalex.org/A5050943575), [Tongtong Li](https://openalex.org/A5100606448), [Jianbo Pang](https://openalex.org/A5007077402), [Yumei Zhou](https://openalex.org/A5006382294), [Dezhen Xue](https://openalex.org/A5026902132), [Xiangdong Ding](https://openalex.org/A5071006086), [Turab Lookman](https://openalex.org/A5087470453), npj Computational Materials. 11(1)] 2025.https://doi.org/10.1038/s41524-025-01704-4.
-    
-No abstract    
-
-    
-
-## How far are volcanologists from volcanoes?   
-
-OpenAlex: https://openalex.org/W4411951833    
-Open access: True
-    
-[Gilles Seropian](https://openalex.org/A5060973324), [Thomas J. Aubry](https://openalex.org/A5087696645), [Jamie Farquharson](https://openalex.org/A5025252439), [James Hickey](https://openalex.org/A5058351795), Bulletin of Volcanology. 87(8)] 2025.https://doi.org/10.1007/s00445-025-01849-6.
     
 No abstract    
 
@@ -710,6 +655,17 @@ No abstract
 
     
 
+## How far are volcanologists from volcanoes?   
+
+OpenAlex: https://openalex.org/W4411951833    
+Open access: True
+    
+[Gilles Seropian](https://openalex.org/A5060973324), [Thomas J. Aubry](https://openalex.org/A5087696645), [Jamie Farquharson](https://openalex.org/A5025252439), [James Hickey](https://openalex.org/A5058351795), Bulletin of Volcanology. 87(8)] 2025.https://doi.org/10.1007/s00445-025-01849-6.
+    
+Abstract Volcanoes are not randomly located on Earth, neither are volcanologists. We explored the physical distance between volcanologists and volcanoes by considering two categories of volcanoes: all volcanoes with a confirmed eruption in the Holocene and volcanoes that erupted in the past 50 years (1974–2024). We computed the distance between these volcanoes and the affiliation addresses from volcanologists, defined here as authors having published in the main volcanology journals. We then investigated the dependence of this distance on further bibliometric parameters, such as the journal published in or the author position. Affiliations were extracted from articles published since 1980 in four of the main English-speaking volcanology-focused journals in the Scopus database. Around 27% of volcanologists are based within 100 km of a Holocene volcano, compared to 14% of the world population. More than 85% of volcanologists are within 1000 km of a Holocene volcano, but 48% need to travel over 1000 km to visit a volcano that erupted in the past 50 years. We tested whether distance to the nearest volcano correlates with author position. We observed that researchers working nearer volcanoes tend to lead articles with more co-authors, which is robustly supported by statistical tests. We also found that authors in further positions tend to be based nearer recently active volcanoes, though this correlation is less significant. Using keywords to identify each article’s studied volcano, we performed single volcano analysis for the 25 most frequently studied volcanoes in the dataset. We observed significant differences in the distance from authors to the target volcano. For instance, we obtained median author-volcano distances of 9 km for Campi Flegrei and 11,735 km for Merapi. Our analyses also permitted a very simplistic estimate of the carbon footprint from fieldwork travel, yielding CO $$_{\varvec{2}}$$     2     equivalent emissions of about 1 ton per travelling author, with an order of magnitude uncertainty. The database presented is very rich and could serve future efforts in science strategy, equality, diversity and inclusivity, outreach, and sustainability.    
+
+    
+
 ## Theoretical investigation of electrochemical CO reduction on carbonitrides   
 
 OpenAlex: https://openalex.org/W4412044301    
@@ -765,23 +721,78 @@ No abstract
 
     
 
-## Model-based Operability and Safety Optimization for PEM Water Electrolysis   
+## Phosphorus‐Doped Highly Crystalline Carbon for High Platinum Stability and Robust Support in Proton‐Exchange Membrane Fuel Cells   
 
-OpenAlex: https://openalex.org/W4411815687    
+OpenAlex: https://openalex.org/W4412066895    
+Open access: True
+    
+[Han Seul Kim](https://openalex.org/A5027070724), [Seung Min Woo](https://openalex.org/A5029148407), [Gi-Hwan Kang](https://openalex.org/A5103165221), [Sang‐Hoon You](https://openalex.org/A5023820275), [Sang‐Seok Lee](https://openalex.org/A5103013974), [Su Bin Park](https://openalex.org/A5101826172), [Jae Hyun Park](https://openalex.org/A5100369517), [Y.‐H. Cho](https://openalex.org/A5053578792), [Kyung Rog Lee](https://openalex.org/A5040437159), [Kug‐Seung Lee](https://openalex.org/A5078186897), [Yong‐Tae Kim](https://openalex.org/A5100658302), [Seung‐Ho Yu](https://openalex.org/A5083133451), [Il‐Kyu Park](https://openalex.org/A5032160372), [Sung Jong Yoo](https://openalex.org/A5066553887), Small Methods. None(None)] 2025.https://doi.org/10.1002/smtd.202500481.
+    
+Abstract Proton‐exchange membrane fuel cells (PEMFCs) require durable and efficient catalyst supports to overcome the limitations of Pt‐based catalysts and conventional low‐crystalline carbon (LCC) supports, such as high cost, susceptibility to corrosion, and poor electrochemical durability. While highly crystalline carbon (HCC) offers improved stability, its intrinsic hydrophobicity and low defect density hinder Pt nanoparticles (NPs) nucleation and dispersion. In this study, a spin‐on‐dopant (SOD) approach is employed to synthesize phosphorus‐incorporated HCC (HCC P ) providing stable anchoring sites that facilitate uniform Pt NPs distribution. Compared to commercial Pt/LCC, Pt/HCC P exhibits enhanced thermal stability and oxidation resistance, with an oxidation onset temperature ≈90 °C higher. Accelerated durability tests reveal only a 2 mV half‐wave potential shift and a minimal electrochemical surface area (ECSA) loss of 1.9% after 20 000 cycles, significantly lower than the 47.1% ECSA loss observed for Pt/LCC. Single‐cell tests further confirm that Pt/HCC P retains 92.4% of its initial power density, outperforming Pt/LCC. The incorporation of phosphorus improves Pt NPs stabilization on the superhydrophobic HCC surface, enhancing Pt utilization and long‐term durability. This study provides valuable insights into the development of high‐performance carbon supports for PEMFC catalysts.    
+
+    
+
+## Curvature effect of TMN4 sites on carbon nanotube for electrochemical reduction of carbon dioxide revealed by machine learning   
+
+OpenAlex: https://openalex.org/W4412071431    
 Open access: False
     
-[Beatriz Dantas](https://openalex.org/A5107265849), [Sahithi Srijana Akundi](https://openalex.org/A5092498561), [Yuanxing Liu](https://openalex.org/A5038110449), [Austin Braniff](https://openalex.org/A5099515986), [Shayan S. Niknezhad](https://openalex.org/A5094136723), Systems and Control Transactions. 4(None)] 2025.https://doi.org/10.69997/sct.132227.
+[Aling Ma](https://openalex.org/A5009783384), [YuShan Pang](https://openalex.org/A5102634533), [Zongpeng Ding](https://openalex.org/A5012102127), [Guohong Fan](https://openalex.org/A5038934588), [Hong Xu](https://openalex.org/A5017163237), Electrochimica Acta. None(None)] 2025.https://doi.org/10.1016/j.electacta.2025.146862.
     
-In this paper, we present a systematic approach to quantify the safe operating window of a proton exchange membrane water electrolysis (PEMWE) system considering energy intermittency and varying hydrogen demand. The PEMWE model has been developed based on first principles, with the polarization curve validated against a lab-scale experimental setup. The impact of key operational variables is investigated which include voltage, inlet temperature, and water flowrate (utilized for both feed and system cooling). Emphasis is given on operating temperature, a safety-critical variable, as its elevation can pose significant hydrogen safety risks within both the electrolyzer cells and the storage system. The impact of temperature on process safety is quantified via a risk index considering the fault probability and consequence severity. Process operability analysis is employed to assess the achievability of a safe and feasible region for design and operations. This analysis provides a comprehensive framework to optimize PEMWE systems for enhanced operational flexibility and robust performance with application to modular hydrogen production using renewable energy sources.    
+No abstract    
 
     
 
-## Surface oxidation mechanism and mechanical properties of lightweight high-entropy alloys AlCrMoTi and AlCrMoTiV based on site preference   
+## Off-Equilibrium Reactivity of Boron-Enriched Metal Diboride Surfaces in Electroreduction Conditions   
 
-OpenAlex: https://openalex.org/W4411839657    
+OpenAlex: https://openalex.org/W4412073651    
 Open access: False
     
-[Cheng Qian](https://openalex.org/A5101403400), [Xiaoqiong Zhang](https://openalex.org/A5003111302), [Xingyu Chen](https://openalex.org/A5100387343), [Longju Su](https://openalex.org/A5059354993), [Rong Chen](https://openalex.org/A5101529416), [Jiansen Wen](https://openalex.org/A5074939638), [Bo Wu](https://openalex.org/A5008331796), Surfaces and Interfaces. None(None)] 2025.https://doi.org/10.1016/j.surfin.2025.107071.
+[Zisheng Zhang](https://openalex.org/A5004503548), [Frank Abild‐Pedersen](https://openalex.org/A5014248031), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.5c04054.
+    
+No abstract    
+
+    
+
+## Photocatalytic reduction of CO2 over porous ultrathin NiO nanosheets with oxygen vacancies   
+
+OpenAlex: https://openalex.org/W4412074891    
+Open access: False
+    
+[Rui Li](https://openalex.org/A5100448355), [Pengfei Feng](https://openalex.org/A5102023242), [Bonan Li](https://openalex.org/A5045355553), [Jiayu Zhu](https://openalex.org/A5112126389), [Yali Zhang](https://openalex.org/A5109302680), [Ze Zhang](https://openalex.org/A5100379785), [Jiangwei Zhang](https://openalex.org/A5100771247), [Yong Ding](https://openalex.org/A5101937931), CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 73(None)] 2025.https://doi.org/10.1016/s1872-2067(25)64687-0.
+    
+No abstract    
+
+    
+
+## Planar [Cu–S]–Organic Framework for Selective and Low‐Overpotential CO2 Reduction to Formate   
+
+OpenAlex: https://openalex.org/W4412075137    
+Open access: True
+    
+[Khatereh Roohi](https://openalex.org/A5084439148), [Mohammad Soleimani](https://openalex.org/A5102862060), [Nabil Khossossi](https://openalex.org/A5023894442), [Stefano Canossa](https://openalex.org/A5001012453), [Ali Kosari](https://openalex.org/A5007501668), [Seyedamirhossein Mohseni Armaki](https://openalex.org/A5106669448), [Majid Ahmadi](https://openalex.org/A5061945130), [Ewout van der Veer](https://openalex.org/A5039124254), [Mahinder Ramdin](https://openalex.org/A5091298778), [Prasaanth Ravi Anusuyadevi](https://openalex.org/A5034762750), [Prasad Gonugunta](https://openalex.org/A5024511684), [J.M.C. Mol](https://openalex.org/A5005758024), [Poulumi Dey](https://openalex.org/A5054711582), [Peyman Taheri](https://openalex.org/A5038962777), Small Structures. None(None)] 2025.https://doi.org/10.1002/sstr.202500235.
+    
+The development of advanced catalysts with innovative nanoarchitectures is critical for addressing energy and environmental challenges such as the electrochemical CO 2 reduction reaction (CO 2 RR). Herein, the synthesis of an innovative copper–sulfur planar structure, Cu–S–BDC, within a metal–organic framework (MOF) catalyst is presented, which demonstrates 100% selectivity toward formate as the sole carbon product. Structural analysis and surface characterizations reveal that Cu–S–BDC exhibits quasi‐2D inorganic building units, with Cu bonded to two S‐CH groups and one BDC linker, while carboxylate groups adopt a bridging coordination mode. This unique arrangement not only imparts remarkable structural stability but also enhances the electronic properties of the MOF, as evidenced by a narrow bandgap of 1.203 eV that facilitates efficient charge transfer and increased electrochemical current density in CORR. Notably, it offers a Faradaic efficiency of 92% for formate at an overpotential as low as −0.4 V versus the reversible hydrogen electrode (RHE) in an aqueous electrolyte of 1 m KOH, as well as a current density of −25.8 mA cm 2 at −0.9 V versus RHE, averaged over 24 h of electrolysis. This study highlights a fresh perspective in the field of MOF electrocatalysts by demonstrating that engineering the metal coordination environment can significantly enhance the electronic properties and consequently improve the electrocatalytic performance of these materials.    
+
+    
+
+## Structure-activity relation of single-atom electrocatalysts for CO2 reduction to CH4   
+
+OpenAlex: https://openalex.org/W4412077601    
+Open access: False
+    
+[Changyan Zhu](https://openalex.org/A5063111573), [Mengxue Wang](https://openalex.org/A5012959921), [Ao Yang](https://openalex.org/A5100741628), [Xiaohui Yao](https://openalex.org/A5029483931), [Guangshan Zhu](https://openalex.org/A5010014663), [Chongyi Ling](https://openalex.org/A5007388482), [Zhongmin Su](https://openalex.org/A5110160312), [Min Zhang](https://openalex.org/A5100402864), Science China Materials. None(None)] 2025.https://doi.org/10.1007/s40843-025-3460-4.
+    
+No abstract    
+
+    
+
+## Microstructure Engineering of Co-MOF Derived MoS2-CoS2/CoSO4 Composite: Synergistic Effects and Ionic Distribution Optimization for Efficient Hydrogen Evolution   
+
+OpenAlex: https://openalex.org/W4412077667    
+Open access: False
+    
+[Yingxuan Cao](https://openalex.org/A5111027433), [Zhuoao Li](https://openalex.org/A5001150621), [Pengbo Ding](https://openalex.org/A5101374682), [Lixiu Guan](https://openalex.org/A5020906798), [Zixiang Bai](https://openalex.org/A5103637946), [Chaoping Yuan](https://openalex.org/A5055266101), [Junguang Tao](https://openalex.org/A5060259971), Electrochimica Acta. None(None)] 2025.https://doi.org/10.1016/j.electacta.2025.146864.
     
 No abstract    
 
@@ -809,6 +820,28 @@ No abstract
 
     
 
+## P-Block Elements Adsorption Induced Shift of Potential of Zero Free Charge of Pt(111)/HClO4 Interface   
+
+OpenAlex: https://openalex.org/W4412071761    
+Open access: False
+    
+[Yu-Jun Xu](https://openalex.org/A5101277373), [Shuo Zhang](https://openalex.org/A5100450395), [Mengke Zhang](https://openalex.org/A5101710096), [Tingting Mao](https://openalex.org/A5076656638), [Jun Cai](https://openalex.org/A5041017754), [Yanxia Chen](https://openalex.org/A5039372448), Electrochimica Acta. None(None)] 2025.https://doi.org/10.1016/j.electacta.2025.146858.
+    
+No abstract    
+
+    
+
+## Competitions between hydrogen evolution reaction and oxygen reduction reaction on an Au surface   
+
+OpenAlex: https://openalex.org/W4412073953    
+Open access: False
+    
+[Yao Yao](https://openalex.org/A5100389437), [Juping Xu](https://openalex.org/A5036084639), [Minhua Shao](https://openalex.org/A5112975177), CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 73(None)] 2025.https://doi.org/10.1016/s1872-2067(25)64650-x.
+    
+No abstract    
+
+    
+
 ## El Agente: An autonomous agent for quantum chemistry   
 
 OpenAlex: https://openalex.org/W4411932316    
@@ -828,16 +861,5 @@ Open access: False
 [Nikolai Mukhin](https://openalex.org/A5028715976), [Pragyan Jha](https://openalex.org/A5110310146), [Milad Abolhasani](https://openalex.org/A5087390873), Matter. 8(7)] 2025.https://doi.org/10.1016/j.matt.2025.102205.
     
 No abstract    
-
-    
-
-## A Computational Framework for Cyclic Steady-State Simulation of Dynamic Catalysis Systems: Application to Ammonia Synthesis   
-
-OpenAlex: https://openalex.org/W4411816096    
-Open access: False
-    
-[Carolina Colombo Tedesco](https://openalex.org/A5109721889), [John R. Kitchin](https://openalex.org/A5003442464), [Carl D. Laird](https://openalex.org/A5109041235), Systems and Control Transactions. 4(None)] 2025.https://doi.org/10.69997/sct.105384.
-    
-Dynamic or Programmable Catalysis is an innovative strategy to improve heterogeneous catalysis processes by modulating the binding energies (BE) of adsorbates on a catalytic surface. The technique enables the periodic favoring of different reaction steps, overcoming limitations imposed by the Sabatier Principle and allowing for higher overall reaction rates, otherwise unattainable. Previously, we implemented a simultaneous simulation approach using the algebraic modeling language Pyomo and the solver IPOPT to obtain cyclic steady state results for a unimolecular reactive system with up to four-order of magnitude increases in computational performance compared to the previously reported sequential approach. The flexibility of the method allowed for the investigation of the influence of forcing signal parameters on system behavior and provided a framework for waveform design. In this study, we use a hybrid framework that combines the sequential and the simultaneous simulation approaches to find the cyclic steady state of a more complex system, of ammonia synthesis, comprising 19 reversible elementary reaction steps. The framework allowed us to investigate sine wave parameters with approximately 220 times less computational effort compared to the sequential approach alone. With the parameters studied, our findings indicate that frequencies exceeding 1000 Hz and compressive strains greater than 2% can negatively impact the system performance. Future work will focus on expanding the model to include lateral interactions between molecules, using other waveform as forcing signals, and integrating systematic mathematical optimization approaches. These advancements pave the way to establishing a general framework for identifying optimal waveforms across diverse dynamic catalysis systems.    
 
     

@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 08 Jul 2025 01:46:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 01:47:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>fastatomstruct: A High-Performance Library for Structural and Dynamical Analysis of Atomic Systems</title>
-      <link>https://doi.org/10.21105/joss.08106</link>
-      <description>Nils Holle, Sebastian Walfort, Riccardo Mazzarello, Martin Salinga, The Journal of Open Source Software. 10(110)] 2025. https://openalex.org/W4411801452
-
-                No abstract</description>
-      <author>Nils Holle, Sebastian Walfort, Riccardo Mazzarello, Martin Salinga</author>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21105/joss.08106</guid>
-    </item>
-    <item>
-      <title>Insight into the oxygen evolution reaction mechanism catalyzed by phosphate-substituted FeCo&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; nanosheets: proton-coupled electron transfer assisted adsorbate evolution mechanism investigated by &lt;i&gt;in situ&lt;/i&gt; NAP-XPS</title>
-      <link>https://doi.org/10.1039/d5ta02093j</link>
-      <description>Nut Thanasuwannakul, Chueh&#8208;Cheng Yang, Pantita Prapamonton, Chia-Hsin Wang, Nguyet N. T. Pham, Yu&#8208;Hsu Chang, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4411809016
-
-                This study explores phosphate-substituted FeCo 2 O 4 as catalysts for the oxygen evolution reaction. In situ NAP-XPS analysis elucidates the reaction pathway, with proton-coupled electron transfer identified as a critical mechanistic step.</description>
-      <author>Nut Thanasuwannakul, Chueh&#8208;Cheng Yang, Pantita Prapamonton, Chia-Hsin Wang, Nguyet N. T. Pham, Yu&#8208;Hsu Chang</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5ta02093j</guid>
-    </item>
-    <item>
-      <title>Exploring the heterointerface of silver nanoparticles and cobalt oxide nanorings toward the oxygen reduction reaction</title>
-      <link>https://doi.org/10.1039/d5ta01457c</link>
-      <description>Fatima Nasim, Hira Malik, Guobao Xu, Huilong Dong, Muhammad Arif Nadeem, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4411813765
-
-                A unique Ag/Co 3 O 4 interface anchored on nitrogen-doped carbon nanosheets was synthesized via a one-pot route. The heterostructure exhibits excellent ORR performance, outperforming Pt-based catalysts due to synergistic interfacial effects.</description>
-      <author>Fatima Nasim, Hira Malik, Guobao Xu, Huilong Dong, Muhammad Arif Nadeem</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5ta01457c</guid>
-    </item>
-    <item>
-      <title>Dual Engineering of Electronic Structure and Lattice Strain via Ce Doping in NiMn&#8208;LDH for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/slct.202502125</link>
-      <description>Shashwat Bishwanathan, Nitash Kaushik, Simran Kaur Oberoi, Prashant Kumar Gupta, ChemistrySelect. 10(25)] 2025. https://openalex.org/W4411848913
-
-                Abstract Water electrolysis is a more sustainable way to produce green hydrogen than steam methanol reforming or coal gasification. Its efficiency is limited by slow oxygen evolution processes at the anode. Highly effective anodic electrocatalysts are difficult to produce. Layered double hydroxide is a promising and thoroughly researched OER material, however, long&#8208;term stability issues arise. In this study, we examine the modification of the electronic structure of NiMn LDH through the introduction of Ce doping. The analysis of the material using XPS and XRD indicates that Ce is effectively integrated into the NiMn crystal structure, resulting in lattice distortion and alterations to the electronic structure when doped at concentrations of up to 5%. Furthermore, various electrochemical characterizations indicated that Ce doping increased the number of electrochemically active sites, improved electronic conductivity, and optimized the electrochemical kinetics. The 5% Ce&#8208;doped NiMn LDH demonstrated a current density of 30 mA/cm 2 at an overpotential of 561 mV, which is significantly lower than the 638 mV overpotential observed for NiMn LDH and considerably superior to that of commercial RuO 2 . The system exhibited complete stability throughout a 15&#8208;h operational duration at a consistent applied current density of 15 mA/cm 2 , with no indications of degradation observed.</description>
-      <author>Shashwat Bishwanathan, Nitash Kaushik, Simran Kaur Oberoi, Prashant Kumar Gupta</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/slct.202502125</guid>
-    </item>
     <item>
       <title>Atomic-Scale Insights into Electrochemical Hydrazine Oxidation on Mo&lt;sub&gt;2&lt;/sub&gt;C MXene</title>
       <link>https://doi.org/10.1021/acs.energyfuels.5c02636</link>
@@ -266,16 +226,6 @@
       <author>Yuan Tian, Tongtong Li, Jianbo Pang, Yumei Zhou, Dezhen Xue, Xiangdong Ding, Turab Lookman</author>
       <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01704-4</guid>
-    </item>
-    <item>
-      <title>How far are volcanologists from volcanoes?</title>
-      <link>https://doi.org/10.1007/s00445-025-01849-6</link>
-      <description>Gilles Seropian, Thomas J. Aubry, Jamie Farquharson, James Hickey, Bulletin of Volcanology. 87(8)] 2025. https://openalex.org/W4411951833
-
-                No abstract</description>
-      <author>Gilles Seropian, Thomas J. Aubry, Jamie Farquharson, James Hickey</author>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s00445-025-01849-6</guid>
     </item>
     <item>
       <title>Abridging the modelling of CO oxidation on single atom catalysts: From microkinetics to descriptor-based analysis</title>
@@ -638,6 +588,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116314</guid>
     </item>
     <item>
+      <title>How far are volcanologists from volcanoes?</title>
+      <link>https://doi.org/10.1007/s00445-025-01849-6</link>
+      <description>Gilles Seropian, Thomas J. Aubry, Jamie Farquharson, James Hickey, Bulletin of Volcanology. 87(8)] 2025. https://openalex.org/W4411951833
+
+                Abstract Volcanoes are not randomly located on Earth, neither are volcanologists. We explored the physical distance between volcanologists and volcanoes by considering two categories of volcanoes: all volcanoes with a confirmed eruption in the Holocene and volcanoes that erupted in the past 50 years (1974&#8211;2024). We computed the distance between these volcanoes and the affiliation addresses from volcanologists, defined here as authors having published in the main volcanology journals. We then investigated the dependence of this distance on further bibliometric parameters, such as the journal published in or the author position. Affiliations were extracted from articles published since 1980 in four of the main English-speaking volcanology-focused journals in the Scopus database. Around 27% of volcanologists are based within 100 km of a Holocene volcano, compared to 14% of the world population. More than 85% of volcanologists are within 1000 km of a Holocene volcano, but 48% need to travel over 1000 km to visit a volcano that erupted in the past 50 years. We tested whether distance to the nearest volcano correlates with author position. We observed that researchers working nearer volcanoes tend to lead articles with more co-authors, which is robustly supported by statistical tests. We also found that authors in further positions tend to be based nearer recently active volcanoes, though this correlation is less significant. Using keywords to identify each article&#8217;s studied volcano, we performed single volcano analysis for the 25 most frequently studied volcanoes in the dataset. We observed significant differences in the distance from authors to the target volcano. For instance, we obtained median author-volcano distances of 9 km for Campi Flegrei and 11,735 km for Merapi. Our analyses also permitted a very simplistic estimate of the carbon footprint from fieldwork travel, yielding CO $$_{\varvec{2}}$$     2     equivalent emissions of about 1 ton per travelling author, with an order of magnitude uncertainty. The database presented is very rich and could serve future efforts in science strategy, equality, diversity and inclusivity, outreach, and sustainability.</description>
+      <author>Gilles Seropian, Thomas J. Aubry, Jamie Farquharson, James Hickey</author>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s00445-025-01849-6</guid>
+    </item>
+    <item>
       <title>Theoretical investigation of electrochemical CO reduction on carbonitrides</title>
       <link>https://doi.org/10.1016/j.mtener.2025.101970</link>
       <description>Muhammad Awais, Younes Abghoui, Materials Today Energy. None(None)] 2025. https://openalex.org/W4412044301
@@ -688,24 +648,74 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.165517</guid>
     </item>
     <item>
-      <title>Model-based Operability and Safety Optimization for PEM Water Electrolysis</title>
-      <link>https://doi.org/10.69997/sct.132227</link>
-      <description>Beatriz Dantas, Sahithi Srijana Akundi, Yuanxing Liu, Austin Braniff, Shayan S. Niknezhad, Systems and Control Transactions. 4(None)] 2025. https://openalex.org/W4411815687
+      <title>Phosphorus&#8208;Doped Highly Crystalline Carbon for High Platinum Stability and Robust Support in Proton&#8208;Exchange Membrane Fuel Cells</title>
+      <link>https://doi.org/10.1002/smtd.202500481</link>
+      <description>Han Seul Kim, Seung Min Woo, Gi-Hwan Kang, Sang&#8208;Hoon You, Sang&#8208;Seok Lee, Su Bin Park, Jae Hyun Park, Y.&#8208;H. Cho, Kyung Rog Lee, Kug&#8208;Seung Lee, Yong&#8208;Tae Kim, Seung&#8208;Ho Yu, Il&#8208;Kyu Park, Sung Jong Yoo, Small Methods. None(None)] 2025. https://openalex.org/W4412066895
 
-                In this paper, we present a systematic approach to quantify the safe operating window of a proton exchange membrane water electrolysis (PEMWE) system considering energy intermittency and varying hydrogen demand. The PEMWE model has been developed based on first principles, with the polarization curve validated against a lab-scale experimental setup. The impact of key operational variables is investigated which include voltage, inlet temperature, and water flowrate (utilized for both feed and system cooling). Emphasis is given on operating temperature, a safety-critical variable, as its elevation can pose significant hydrogen safety risks within both the electrolyzer cells and the storage system. The impact of temperature on process safety is quantified via a risk index considering the fault probability and consequence severity. Process operability analysis is employed to assess the achievability of a safe and feasible region for design and operations. This analysis provides a comprehensive framework to optimize PEMWE systems for enhanced operational flexibility and robust performance with application to modular hydrogen production using renewable energy sources.</description>
-      <author>Beatriz Dantas, Sahithi Srijana Akundi, Yuanxing Liu, Austin Braniff, Shayan S. Niknezhad</author>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.69997/sct.132227</guid>
+                Abstract Proton&#8208;exchange membrane fuel cells (PEMFCs) require durable and efficient catalyst supports to overcome the limitations of Pt&#8208;based catalysts and conventional low&#8208;crystalline carbon (LCC) supports, such as high cost, susceptibility to corrosion, and poor electrochemical durability. While highly crystalline carbon (HCC) offers improved stability, its intrinsic hydrophobicity and low defect density hinder Pt nanoparticles (NPs) nucleation and dispersion. In this study, a spin&#8208;on&#8208;dopant (SOD) approach is employed to synthesize phosphorus&#8208;incorporated HCC (HCC P ) providing stable anchoring sites that facilitate uniform Pt NPs distribution. Compared to commercial Pt/LCC, Pt/HCC P exhibits enhanced thermal stability and oxidation resistance, with an oxidation onset temperature &#8776;90 &#176;C higher. Accelerated durability tests reveal only a 2 mV half&#8208;wave potential shift and a minimal electrochemical surface area (ECSA) loss of 1.9% after 20 000 cycles, significantly lower than the 47.1% ECSA loss observed for Pt/LCC. Single&#8208;cell tests further confirm that Pt/HCC P retains 92.4% of its initial power density, outperforming Pt/LCC. The incorporation of phosphorus improves Pt NPs stabilization on the superhydrophobic HCC surface, enhancing Pt utilization and long&#8208;term durability. This study provides valuable insights into the development of high&#8208;performance carbon supports for PEMFC catalysts.</description>
+      <author>Han Seul Kim, Seung Min Woo, Gi-Hwan Kang, Sang&#8208;Hoon You, Sang&#8208;Seok Lee, Su Bin Park, Jae Hyun Park, Y.&#8208;H. Cho, Kyung Rog Lee, Kug&#8208;Seung Lee, Yong&#8208;Tae Kim, Seung&#8208;Ho Yu, Il&#8208;Kyu Park, Sung Jong Yoo</author>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202500481</guid>
     </item>
     <item>
-      <title>Surface oxidation mechanism and mechanical properties of lightweight high-entropy alloys AlCrMoTi and AlCrMoTiV based on site preference</title>
-      <link>https://doi.org/10.1016/j.surfin.2025.107071</link>
-      <description>Cheng Qian, Xiaoqiong Zhang, Xingyu Chen, Longju Su, Rong Chen, Jiansen Wen, Bo Wu, Surfaces and Interfaces. None(None)] 2025. https://openalex.org/W4411839657
+      <title>Curvature effect of TMN4 sites on carbon nanotube for electrochemical reduction of carbon dioxide revealed by machine learning</title>
+      <link>https://doi.org/10.1016/j.electacta.2025.146862</link>
+      <description>Aling Ma, YuShan Pang, Zongpeng Ding, Guohong Fan, Hong Xu, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4412071431
 
                 No abstract</description>
-      <author>Cheng Qian, Xiaoqiong Zhang, Xingyu Chen, Longju Su, Rong Chen, Jiansen Wen, Bo Wu</author>
+      <author>Aling Ma, YuShan Pang, Zongpeng Ding, Guohong Fan, Hong Xu</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146862</guid>
+    </item>
+    <item>
+      <title>Off-Equilibrium Reactivity of Boron-Enriched Metal Diboride Surfaces in Electroreduction Conditions</title>
+      <link>https://doi.org/10.1021/acscatal.5c04054</link>
+      <description>Zisheng Zhang, Frank Abild&#8208;Pedersen, ACS Catalysis. None(None)] 2025. https://openalex.org/W4412073651
+
+                No abstract</description>
+      <author>Zisheng Zhang, Frank Abild&#8208;Pedersen</author>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c04054</guid>
+    </item>
+    <item>
+      <title>Photocatalytic reduction of CO2 over porous ultrathin NiO nanosheets with oxygen vacancies</title>
+      <link>https://doi.org/10.1016/s1872-2067(25)64687-0</link>
+      <description>Rui Li, Pengfei Feng, Bonan Li, Jiayu Zhu, Yali Zhang, Ze Zhang, Jiangwei Zhang, Yong Ding, CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 73(None)] 2025. https://openalex.org/W4412074891
+
+                No abstract</description>
+      <author>Rui Li, Pengfei Feng, Bonan Li, Jiayu Zhu, Yali Zhang, Ze Zhang, Jiangwei Zhang, Yong Ding</author>
       <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.107071</guid>
+      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(25)64687-0</guid>
+    </item>
+    <item>
+      <title>Planar [Cu&#8211;S]&#8211;Organic Framework for Selective and Low&#8208;Overpotential CO&lt;sub&gt;2&lt;/sub&gt; Reduction to Formate</title>
+      <link>https://doi.org/10.1002/sstr.202500235</link>
+      <description>Khatereh Roohi, Mohammad Soleimani, Nabil Khossossi, Stefano Canossa, Ali Kosari, Seyedamirhossein Mohseni Armaki, Majid Ahmadi, Ewout van der Veer, Mahinder Ramdin, Prasaanth Ravi Anusuyadevi, Prasad Gonugunta, J.M.C. Mol, Poulumi Dey, Peyman Taheri, Small Structures. None(None)] 2025. https://openalex.org/W4412075137
+
+                The development of advanced catalysts with innovative nanoarchitectures is critical for addressing energy and environmental challenges such as the electrochemical CO 2 reduction reaction (CO 2 RR). Herein, the synthesis of an innovative copper&#8211;sulfur planar structure, Cu&#8211;S&#8211;BDC, within a metal&#8211;organic framework (MOF) catalyst is presented, which demonstrates 100% selectivity toward formate as the sole carbon product. Structural analysis and surface characterizations reveal that Cu&#8211;S&#8211;BDC exhibits quasi&#8208;2D inorganic building units, with Cu bonded to two S&#8208;CH groups and one BDC linker, while carboxylate groups adopt a bridging coordination mode. This unique arrangement not only imparts remarkable structural stability but also enhances the electronic properties of the MOF, as evidenced by a narrow bandgap of 1.203 eV that facilitates efficient charge transfer and increased electrochemical current density in CORR. Notably, it offers a Faradaic efficiency of 92% for formate at an overpotential as low as &#8722;0.4 V versus the reversible hydrogen electrode (RHE) in an aqueous electrolyte of 1 m KOH, as well as a current density of &#8722;25.8 mA cm 2 at &#8722;0.9 V versus RHE, averaged over 24 h of electrolysis. This study highlights a fresh perspective in the field of MOF electrocatalysts by demonstrating that engineering the metal coordination environment can significantly enhance the electronic properties and consequently improve the electrocatalytic performance of these materials.</description>
+      <author>Khatereh Roohi, Mohammad Soleimani, Nabil Khossossi, Stefano Canossa, Ali Kosari, Seyedamirhossein Mohseni Armaki, Majid Ahmadi, Ewout van der Veer, Mahinder Ramdin, Prasaanth Ravi Anusuyadevi, Prasad Gonugunta, J.M.C. Mol, Poulumi Dey, Peyman Taheri</author>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/sstr.202500235</guid>
+    </item>
+    <item>
+      <title>Structure-activity relation of single-atom electrocatalysts for CO2 reduction to CH4</title>
+      <link>https://doi.org/10.1007/s40843-025-3460-4</link>
+      <description>Changyan Zhu, Mengxue Wang, Ao Yang, Xiaohui Yao, Guangshan Zhu, Chongyi Ling, Zhongmin Su, Min Zhang, Science China Materials. None(None)] 2025. https://openalex.org/W4412077601
+
+                No abstract</description>
+      <author>Changyan Zhu, Mengxue Wang, Ao Yang, Xiaohui Yao, Guangshan Zhu, Chongyi Ling, Zhongmin Su, Min Zhang</author>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s40843-025-3460-4</guid>
+    </item>
+    <item>
+      <title>Microstructure Engineering of Co-MOF Derived MoS2-CoS2/CoSO4 Composite: Synergistic Effects and Ionic Distribution Optimization for Efficient Hydrogen Evolution</title>
+      <link>https://doi.org/10.1016/j.electacta.2025.146864</link>
+      <description>Yingxuan Cao, Zhuoao Li, Pengbo Ding, Lixiu Guan, Zixiang Bai, Chaoping Yuan, Junguang Tao, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4412077667
+
+                No abstract</description>
+      <author>Yingxuan Cao, Zhuoao Li, Pengbo Ding, Lixiu Guan, Zixiang Bai, Chaoping Yuan, Junguang Tao</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146864</guid>
     </item>
     <item>
       <title>First Principles Evaluation of Platinum Cluster Metal&#8211;Support Interactions on Nitrogen-Doped Carbon Supports</title>
@@ -728,6 +738,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116306</guid>
     </item>
     <item>
+      <title>P-Block Elements Adsorption Induced Shift of Potential of Zero Free Charge of Pt(111)/HClO4 Interface</title>
+      <link>https://doi.org/10.1016/j.electacta.2025.146858</link>
+      <description>Yu-Jun Xu, Shuo Zhang, Mengke Zhang, Tingting Mao, Jun Cai, Yanxia Chen, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4412071761
+
+                No abstract</description>
+      <author>Yu-Jun Xu, Shuo Zhang, Mengke Zhang, Tingting Mao, Jun Cai, Yanxia Chen</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146858</guid>
+    </item>
+    <item>
+      <title>Competitions between hydrogen evolution reaction and oxygen reduction reaction on an Au surface</title>
+      <link>https://doi.org/10.1016/s1872-2067(25)64650-x</link>
+      <description>Yao Yao, Juping Xu, Minhua Shao, CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 73(None)] 2025. https://openalex.org/W4412073953
+
+                No abstract</description>
+      <author>Yao Yao, Juping Xu, Minhua Shao</author>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(25)64650-x</guid>
+    </item>
+    <item>
       <title>El Agente: An autonomous agent for quantum chemistry</title>
       <link>https://doi.org/10.1016/j.matt.2025.102263</link>
       <description>Yushi Zou, Austin H. Cheng, Abdulrahman Aldossary, Jie Bai, Shi Xuan Leong, Jorge A. Campos-Gonzalez-Angulo, Changhyeok Choi, Cher Tian Ser, Gary Tom, Andrew Wang, Zijian Zhang, Ilya Yakavets, Hao Han, Chris Crebolder, Varinia Bernales, Al&#225;n Aspuru&#8208;Guzik, Matter. 8(7)] 2025. https://openalex.org/W4411932316
@@ -746,16 +776,6 @@
       <author>Nikolai Mukhin, Pragyan Jha, Milad Abolhasani</author>
       <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.matt.2025.102205</guid>
-    </item>
-    <item>
-      <title>A Computational Framework for Cyclic Steady-State Simulation of Dynamic Catalysis Systems: Application to Ammonia Synthesis</title>
-      <link>https://doi.org/10.69997/sct.105384</link>
-      <description>Carolina Colombo Tedesco, John R. Kitchin, Carl D. Laird, Systems and Control Transactions. 4(None)] 2025. https://openalex.org/W4411816096
-
-                Dynamic or Programmable Catalysis is an innovative strategy to improve heterogeneous catalysis processes by modulating the binding energies (BE) of adsorbates on a catalytic surface. The technique enables the periodic favoring of different reaction steps, overcoming limitations imposed by the Sabatier Principle and allowing for higher overall reaction rates, otherwise unattainable. Previously, we implemented a simultaneous simulation approach using the algebraic modeling language Pyomo and the solver IPOPT to obtain cyclic steady state results for a unimolecular reactive system with up to four-order of magnitude increases in computational performance compared to the previously reported sequential approach. The flexibility of the method allowed for the investigation of the influence of forcing signal parameters on system behavior and provided a framework for waveform design. In this study, we use a hybrid framework that combines the sequential and the simultaneous simulation approaches to find the cyclic steady state of a more complex system, of ammonia synthesis, comprising 19 reversible elementary reaction steps. The framework allowed us to investigate sine wave parameters with approximately 220 times less computational effort compared to the sequential approach alone. With the parameters studied, our findings indicate that frequencies exceeding 1000 Hz and compressive strains greater than 2% can negatively impact the system performance. Future work will focus on expanding the model to include lateral interactions between molecules, using other waveform as forcing signals, and integrating systematic mathematical optimization approaches. These advancements pave the way to establishing a general framework for identifying optimal waveforms across diverse dynamic catalysis systems.</description>
-      <author>Carolina Colombo Tedesco, John R. Kitchin, Carl D. Laird</author>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.69997/sct.105384</guid>
     </item>
   </channel>
 </rss>
