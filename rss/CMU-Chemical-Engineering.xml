@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 12 Jul 2025 01:50:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 01:57:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Hyperplane decision trees as piecewise linear surrogate models for chemical process design</title>
-      <link>https://doi.org/10.1016/j.compchemeng.2025.109204</link>
-      <description>Ethan M. Sunshine, Carolina Colombo Tedesco, Sneha A. Akhade, Matthew J. McNenly, John R. Kitchin, Carl D. Laird, Computers &amp; Chemical Engineering. None(None)] 2025. https://openalex.org/W4412026572
-
-                No abstract</description>
-      <author>Ethan M. Sunshine, Carolina Colombo Tedesco, Sneha A. Akhade, Matthew J. McNenly, John R. Kitchin, Carl D. Laird</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2025.109204</guid>
-    </item>
     <item>
       <title>On optimal control of hybrid dynamical systems using complementarity constraints</title>
       <link>https://doi.org/10.1016/j.jprocont.2025.103492</link>
@@ -26,6 +16,36 @@
       <author>Saif R. Kazi, Kexin Wang, Lorenz T. Biegler</author>
       <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jprocont.2025.103492</guid>
+    </item>
+    <item>
+      <title>Optimal Operation of Gas Transport Pipelines with Detailed MILP and NLP Models</title>
+      <link>https://doi.org/10.1021/acs.iecr.5c01043</link>
+      <description>Lavinia Marina Paola Ghilardi, Sakshi Naik, Lorenz T. Biegler, Francesco Casella, Roberto Palazzo, Emanuele Martelli, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4412195925
+
+                No abstract</description>
+      <author>Lavinia Marina Paola Ghilardi, Sakshi Naik, Lorenz T. Biegler, Francesco Casella, Roberto Palazzo, Emanuele Martelli</author>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.5c01043</guid>
+    </item>
+    <item>
+      <title>Complex Wave Packet Dynamics Induced by Marangoni Stresses</title>
+      <link>https://doi.org/10.1021/acs.iecr.5c02378</link>
+      <description>Ruizhi Shi, Vignesh Thammanna Gurumurthy, Robert D. Tilton, Stephen Garoff, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4412352520
+
+                No abstract</description>
+      <author>Ruizhi Shi, Vignesh Thammanna Gurumurthy, Robert D. Tilton, Stephen Garoff</author>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.5c02378</guid>
+    </item>
+    <item>
+      <title>Relating CCN activity and oxidation level of a-pinene secondary organic aerosol</title>
+      <link>https://openalex.org/W4412270910</link>
+      <description>Mia Frosch, Merete Bilde, P. F. DeCarlo, Z. Jur&#225;nyi, T. Tritscher, J. Dommen, Neil M. Donahue, M. Gysel, E. Weingartner, Urs Baltensperger, Research Portal Denmark. 116(None)] 2011. https://openalex.org/W4412270910
+
+                No abstract</description>
+      <author>Mia Frosch, Merete Bilde, P. F. DeCarlo, Z. Jur&#225;nyi, T. Tritscher, J. Dommen, Neil M. Donahue, M. Gysel, E. Weingartner, Urs Baltensperger</author>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4412270910</guid>
     </item>
   </channel>
 </rss>

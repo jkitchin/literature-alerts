@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 12 Jul 2025 01:50:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 01:57:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Will It Blend? Mixing Numerical and Machine-Learned Physics Quantities for Accurate on-the-Fly Surrogate Modeling</title>
-      <link>https://doi.org/10.1007/978-3-031-97632-2_19</link>
-      <description>Michael Tynes, Kyle Chard, Ian Foster, Logan Ward, Lecture notes in computer science. None(None)] 2025. https://openalex.org/W4412042152
-
-                No abstract</description>
-      <author>Michael Tynes, Kyle Chard, Ian Foster, Logan Ward</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-97632-2_19</guid>
-    </item>
-    <item>
-      <title>Defect Formation and Electrical Transformation in SiO2 Thin Films via Ti-Induced Interdiffusion</title>
-      <link>https://doi.org/10.1016/j.actamat.2025.121313</link>
-      <description>Soon Joo Yoon, Jeong Woo Jeon, Junho Lee, JungHun Park, Chan&#8208;Woo Lee, Ki Jun Yu, Hyeonhu Bae, Ki&#8208;Hyun Kim, Keun Heo, Cheol Seong Hwang, Deok&#8208;Yong Cho, Taehun Lee, Youn&#8208;Kyoung Lee, Acta Materialia. None(None)] 2025. https://openalex.org/W4412043550
-
-                No abstract</description>
-      <author>Soon Joo Yoon, Jeong Woo Jeon, Junho Lee, JungHun Park, Chan&#8208;Woo Lee, Ki Jun Yu, Hyeonhu Bae, Ki&#8208;Hyun Kim, Keun Heo, Cheol Seong Hwang, Deok&#8208;Yong Cho, Taehun Lee, Youn&#8208;Kyoung Lee</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2025.121313</guid>
-    </item>
-    <item>
-      <title>Computational Modeling of Solid&#8211;Liquid Interfaces: From Ab Initio Methods to Machine-Learning Potentials</title>
-      <link>https://doi.org/10.1007/s41745-025-00475-7</link>
-      <description>Abhinav S. Raman, Journal of the Indian Institute of Science. None(None)] 2025. https://openalex.org/W4412046039
-
-                No abstract</description>
-      <author>Abhinav S. Raman</author>
-      <pubDate>Sat, 05 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s41745-025-00475-7</guid>
-    </item>
-    <item>
-      <title>Chemical Compensation Challenges in Processing Antiferroelectric PbZrO&lt;sub&gt;3&lt;/sub&gt; Thin Films</title>
-      <link>https://doi.org/10.1021/acsomega.5c04818</link>
-      <description>Milan Haddad, &#1042;. &#1040;. &#1051;&#1077;&#1073;&#1077;&#1076;&#1077;&#1074;, Kristina M. Holsgrove, Sergio Rivera-Cruz, Sarah J. Stock, Nikhilesh Maity, S. Lisenkov, I. Ponomareva, Amit Kumar, Lewys Jones, Nazanin Bassiri&#8208;Gharb, ACS Omega. None(None)] 2025. https://openalex.org/W4412047561
-
-                No abstract</description>
-      <author>Milan Haddad, &#1042;. &#1040;. &#1051;&#1077;&#1073;&#1077;&#1076;&#1077;&#1074;, Kristina M. Holsgrove, Sergio Rivera-Cruz, Sarah J. Stock, Nikhilesh Maity, S. Lisenkov, I. Ponomareva, Amit Kumar, Lewys Jones, Nazanin Bassiri&#8208;Gharb</author>
-      <pubDate>Sat, 05 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.5c04818</guid>
-    </item>
-    <item>
-      <title>Utilizing a machine-learned potential to explore enhanced radiation tolerance in the MoNbTaVW high-entropy alloy</title>
-      <link>https://doi.org/10.1016/j.jnucmat.2025.156004</link>
-      <description>Jiahui Liu, Jesper Byggm&#228;star, Zheyong Fan, Bing Bai, Ping Qian, Yanjing Su, Journal of Nuclear Materials. None(None)] 2025. https://openalex.org/W4412048424
-
-                No abstract</description>
-      <author>Jiahui Liu, Jesper Byggm&#228;star, Zheyong Fan, Bing Bai, Ping Qian, Yanjing Su</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jnucmat.2025.156004</guid>
-    </item>
-    <item>
-      <title>Machine Learning-Assisted Activation of Lattice Oxygen in Fe-Co3o4 Catalysts for Boosting Electrocatalytic Oxygen Evolution Reaction in Acidic Conditions</title>
-      <link>https://doi.org/10.2139/ssrn.5340410</link>
-      <description>Yangshuo Liu, Yaotian Yan, Liang Qiao, Yao Meng, Jiehe Sui, Weimin Cai, Xiao Hang Zheng, No host. None(None)] 2025. https://openalex.org/W4412049902
-
-                No abstract</description>
-      <author>Yangshuo Liu, Yaotian Yan, Liang Qiao, Yao Meng, Jiehe Sui, Weimin Cai, Xiao Hang Zheng</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5340410</guid>
-    </item>
-    <item>
-      <title>Strain heterogeneity in RuO2 for efficient acidic oxygen evolution reaction in proton exchange membrane water electrolysis</title>
-      <link>https://doi.org/10.1038/s41467-025-58570-3</link>
-      <description>Xuejie Cao, Licheng Miao, Wenqi Jia, Hongye Qin, Guangliang Lin, Rongpeng Ma, Ting Jin, Lifang Jiao, Nature Communications. 16(1)] 2025. https://openalex.org/W4412050068
-
-                Developing acid-stable and active ruthenium dioxide (RuO2) catalysts for the oxygen evolution reaction (OER) is crucial for facilitating the large-scale applications of proton exchange membrane water electrolysis (PEMWE) for hydrogen production. Here, we propose a strain heterogeneity engineering strategy to simultaneously enhance the OER stability and activity of RuO2 electrocatalysts by introducing single-atom platinum (Pt). In a PEM water electrolyzer, the resultant Pt-RuO2 catalyst archives 3 A cm-2 at a low voltage of 1.791 V and maintains a stable performance for over 500 h at 500 mA cm-2. These performance metrics highlight its potential for practical applications. Experiments and calculations analyses confirm that the bulk tensile strain effectively stabilizes the entire structure of electrocatalysts, while the regions of compressive strain are identified as highly active catalytic sites, where the weakened binding energy of oxo-intermediates improves the catalytic activity.</description>
-      <author>Xuejie Cao, Licheng Miao, Wenqi Jia, Hongye Qin, Guangliang Lin, Rongpeng Ma, Ting Jin, Lifang Jiao</author>
-      <pubDate>Sat, 05 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-58570-3</guid>
-    </item>
-    <item>
-      <title>Gas-phase dispersion engineering of PtCo intermetallic catalysts with enhanced compressive strain for high-performance PEMFCs</title>
-      <link>https://doi.org/10.1016/j.jcat.2025.116314</link>
-      <description>Jun&#8208;Fei Shen, Guiming Wu, Na Tian, Hai&#8208;Wei Liang, Zhi&#8208;You Zhou, Shi&#8208;Gang Sun, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4412053494
-
-                No abstract</description>
-      <author>Jun&#8208;Fei Shen, Guiming Wu, Na Tian, Hai&#8208;Wei Liang, Zhi&#8208;You Zhou, Shi&#8208;Gang Sun</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116314</guid>
-    </item>
-    <item>
-      <title>High-performance Co-doped RuO2 nanoparticles for alkaline hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1039/d5dt01104c</link>
-      <description>Jefferson Zhe Liu, Tao Zhou, Jeong-Hoon Kim, Taekyung Yu, Dalton Transactions. None(None)] 2025. https://openalex.org/W4412035183
-
-                Co doping into RuO 2 lattice modulates its electronic structure, enhancing hydrogen evolution activity in alkaline media with superior stability and low overpotential.</description>
-      <author>Jefferson Zhe Liu, Tao Zhou, Jeong-Hoon Kim, Taekyung Yu</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5dt01104c</guid>
-    </item>
-    <item>
-      <title>Theoretical investigation of electrochemical CO reduction on carbonitrides</title>
-      <link>https://doi.org/10.1016/j.mtener.2025.101970</link>
-      <description>Muhammad Awais, Younes Abghoui, Materials Today Energy. None(None)] 2025. https://openalex.org/W4412044301
-
-                No abstract</description>
-      <author>Muhammad Awais, Younes Abghoui</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2025.101970</guid>
-    </item>
-    <item>
-      <title>Doping or loading: unraveling the optimal anchoring strategy of single metal atom on Co3O4 for electrochemical nitrate reduction reaction</title>
-      <link>https://doi.org/10.1016/j.jechem.2025.06.060</link>
-      <description>Riming Hu, Haoyu Wang, Ruochen Zhu, Xinyuan Yang, Xiuxian Zhao, Fahao Ma, Jiayuan Yu, Xuchuan Jiang, Journal of Energy Chemistry. None(None)] 2025. https://openalex.org/W4412049091
-
-                No abstract</description>
-      <author>Riming Hu, Haoyu Wang, Ruochen Zhu, Xinyuan Yang, Xiuxian Zhao, Fahao Ma, Jiayuan Yu, Xuchuan Jiang</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2025.06.060</guid>
-    </item>
     <item>
       <title>Domain Specific Language for Materials Modeling</title>
       <link>https://doi.org/10.1007/978-3-031-97564-6_18</link>
@@ -146,6 +36,26 @@
       <author>Rui Tian, Lufei Huang, Ying Li, Dewei Zhang, Shenghong Ju, Baowen Zhou, Lin Yao</author>
       <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.165517</guid>
+    </item>
+    <item>
+      <title>Potential applications in metallic TM(OH)2 and TMOH2 monolayers: a first-principles study</title>
+      <link>https://doi.org/10.1016/j.surfin.2025.107090</link>
+      <description>Ziqi Li, Xue Li, Siyu Lu, Zhiyong Tang, Surfaces and Interfaces. None(None)] 2025. https://openalex.org/W4412059402
+
+                No abstract</description>
+      <author>Ziqi Li, Xue Li, Siyu Lu, Zhiyong Tang</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.107090</guid>
+    </item>
+    <item>
+      <title>Two-dimensional Janus BiXY (X = Se, Te; Y I, Br, Cl) for photocatalytic water splitting</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.150113</link>
+      <description>Lina Fan, Kun Han, Qiang L&#252;, Huaijin Zhang, Yuping Tian, Wei&#8208;Jiang Gong, International Journal of Hydrogen Energy. 150(None)] 2025. https://openalex.org/W4412060150
+
+                No abstract</description>
+      <author>Lina Fan, Kun Han, Qiang L&#252;, Huaijin Zhang, Yuping Tian, Wei&#8208;Jiang Gong</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.150113</guid>
     </item>
     <item>
       <title>Phosphorus&#8208;Doped Highly Crystalline Carbon for High Platinum Stability and Robust Support in Proton&#8208;Exchange Membrane Fuel Cells</title>
@@ -308,12 +218,32 @@
       <guid isPermaLink="true">https://doi.org/10.1002/advs.202507849</guid>
     </item>
     <item>
-      <title>Temperature effects on radiation damage in HCP-Zirconium: A molecular dynamics study using a fine-tuned machine-learned potential</title>
-      <link>https://doi.org/10.1016/j.jnucmat.2025.156025</link>
-      <description>J. Jia, Yu Bao, Shuo Cao, Ye Su, Ping Qian, Journal of Nuclear Materials. None(None)] 2025. https://openalex.org/W4412105316
+      <title>Computational screening of perovskite catalysts for low-temperature Cl2/Cl&#8722; redox batteries</title>
+      <link>https://doi.org/10.1063/5.0274368</link>
+      <description>Qiuyao Li, Xiulei Ji, De&#8208;en Jiang, The Journal of Chemical Physics. 163(2)] 2025. https://openalex.org/W4412103081
+
+                There is a growing interest in anionic redox chemistry to improve the energy densities of rechargeable batteries, and the reversible chlorine/chloride reactions are a promising option for low-temperature applications. As such, understanding Cl adsorption on the cathode surfaces is important in revealing the intimate connection between catalysis and charge storage via the reversible surface Cl2/Cl&#8722; redox chemistry. In this work, we investigate the adsorption of Cl on various SrBO3 perovskites, with B being 3d transition metals, by using density functional theory calculations and interpretable machine learning. We identify the electronic structure descriptors crucial for Cl adsorption. Our findings reveal that SrCoO3 exhibits optimal Cl adsorption at the top of the volcano curve for Cl2 evolution, suggesting its potential as a catalyst to enable a low-temperature, liquid Cl2 electrode.</description>
+      <author>Qiuyao Li, Xiulei Ji, De&#8208;en Jiang</author>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0274368</guid>
+    </item>
+    <item>
+      <title>Metal sulfide-based electrocatalysts for water splitting: From rational design to advanced applications</title>
+      <link>https://doi.org/10.1016/j.fuel.2025.136208</link>
+      <description>Yi Liu, Yijun Wu, Xiantuo Chen, Yuet Lee Ying, Jili Wen, Huanan Wang, Le Chen, Yuanju Qu, Min Li, Jiang Wu, Zaiguo Fu, Fuel. 404(None)] 2025. https://openalex.org/W4412103099
 
                 No abstract</description>
-      <author>J. Jia, Yu Bao, Shuo Cao, Ye Su, Ping Qian</author>
+      <author>Yi Liu, Yijun Wu, Xiantuo Chen, Yuet Lee Ying, Jili Wen, Huanan Wang, Le Chen, Yuanju Qu, Min Li, Jiang Wu, Zaiguo Fu</author>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.136208</guid>
+    </item>
+    <item>
+      <title>Temperature effects on radiation damage in HCP-Zirconium: A molecular dynamics study using a fine-tuned machine-learned potential</title>
+      <link>https://doi.org/10.1016/j.jnucmat.2025.156025</link>
+      <description>Xinfang Jia, Yu Bao, Shuo Cao, Ye Su, Ping Qian, Journal of Nuclear Materials. None(None)] 2025. https://openalex.org/W4412105316
+
+                No abstract</description>
+      <author>Xinfang Jia, Yu Bao, Shuo Cao, Ye Su, Ping Qian</author>
       <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jnucmat.2025.156025</guid>
     </item>
@@ -488,6 +418,106 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202500796</guid>
     </item>
     <item>
+      <title>Pursuing spatiotemporal coordination in electrocatalysis</title>
+      <link>https://doi.org/10.1038/s41570-025-00741-3</link>
+      <description>Yuanfu Ren, Kuo&#8208;Wei Huang, Huabin Zhang, Nature Reviews Chemistry. None(None)] 2025. https://openalex.org/W4412195668
+
+                No abstract</description>
+      <author>Yuanfu Ren, Kuo&#8208;Wei Huang, Huabin Zhang</author>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41570-025-00741-3</guid>
+    </item>
+    <item>
+      <title>Regulation of the d band center and geometric distortion &lt;i&gt;via&lt;/i&gt; an axial nitrogen strategy of the Fe&#8211;N&#8211;C oxygen electrocatalyst for a Zn&#8211;air battery</title>
+      <link>https://doi.org/10.1039/d5ta03017j</link>
+      <description>Yao Lu, Xiong Du, Shudong Chen, Hao Cheng, Zheng Li, Mengran Wang, Zhongliang Tian, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4412199309
+
+                The bifunctional catalyst Fe&#8211;N 5 C, with an axial N atom, shows improved oxygen reduction/evolution catalytic performance. The catalyst enables the aqueous rechargeable Zn&#8211;air battery to achieve a 330 h long serving time with only 0.84 V voltage gap.</description>
+      <author>Yao Lu, Xiong Du, Shudong Chen, Hao Cheng, Zheng Li, Mengran Wang, Zhongliang Tian</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ta03017j</guid>
+    </item>
+    <item>
+      <title>Precise Design of D&#8211;A Type Metal Covalent Organic Framework for Regulating Intramolecular-Charge-Transfer toward H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Photosynthesis</title>
+      <link>https://doi.org/10.1021/acs.inorgchem.5c01416</link>
+      <description>Bin Liu, Haiyan Cheng, Yu Xia, Lei Wang, Ning An, Jingwei Huang, Houde She, Qizhao Wang, Inorganic Chemistry. None(None)] 2025. https://openalex.org/W4412349380
+
+                No abstract</description>
+      <author>Bin Liu, Haiyan Cheng, Yu Xia, Lei Wang, Ning An, Jingwei Huang, Houde She, Qizhao Wang</author>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.5c01416</guid>
+    </item>
+    <item>
+      <title>Catalyst for Anodic Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/9781394247653.ch10</link>
+      <description>Soner &#199;akar, Mahmut &#214;zacar, No host. None(None)] 2025. https://openalex.org/W4412350527
+
+                No abstract</description>
+      <author>Soner &#199;akar, Mahmut &#214;zacar</author>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/9781394247653.ch10</guid>
+    </item>
+    <item>
+      <title>Perovskite Electrocatalyst for Water Splitting</title>
+      <link>https://doi.org/10.1002/9781394247653.ch3</link>
+      <description>Nawishta Jabeen, Imtiaz Ahmad Khan, Adeela Naz, Ahmad Hussain, No host. None(None)] 2025. https://openalex.org/W4412350534
+
+                No abstract</description>
+      <author>Nawishta Jabeen, Imtiaz Ahmad Khan, Adeela Naz, Ahmad Hussain</author>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/9781394247653.ch3</guid>
+    </item>
+    <item>
+      <title>Hydrogen Utilization</title>
+      <link>https://doi.org/10.1002/9781394247653.ch9</link>
+      <description>Srijita Basumallick, No host. None(None)] 2025. https://openalex.org/W4412350606
+
+                No abstract</description>
+      <author>Srijita Basumallick</author>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/9781394247653.ch9</guid>
+    </item>
+    <item>
+      <title>Thermodynamics of Electrochemical Water Splitting</title>
+      <link>https://doi.org/10.1002/9781394247653.ch1</link>
+      <description>Manash P. Nath, Manju Kumari Jaiswal, Suvankar Deka, Biswajit Choudhury, No host. None(None)] 2025. https://openalex.org/W4412350697
+
+                No abstract</description>
+      <author>Manash P. Nath, Manju Kumari Jaiswal, Suvankar Deka, Biswajit Choudhury</author>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/9781394247653.ch1</guid>
+    </item>
+    <item>
+      <title>Advances in Electrocatalyst Design for Hydrogen Production by Water Electrolysis</title>
+      <link>https://doi.org/10.1007/978-3-031-88550-1_7</link>
+      <description>Sachin Kumar, Yang Yang, Green energy and technology. None(None)] 2025. https://openalex.org/W4412354569
+
+                No abstract</description>
+      <author>Sachin Kumar, Yang Yang</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-88550-1_7</guid>
+    </item>
+    <item>
+      <title>Efficient and Accurate Machine Learning Interatomic Potential for Graphene: Capturing Stress&#8211;Strain and Vibrational Properties</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c03470</link>
+      <description>Felipe Hawthorne, Paulo R. E. Raulino, Ronaldo Rodrigues Pel&#225;, Cristiano F. Woellner, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4412364943
+
+                No abstract</description>
+      <author>Felipe Hawthorne, Paulo R. E. Raulino, Ronaldo Rodrigues Pel&#225;, Cristiano F. Woellner</author>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c03470</guid>
+    </item>
+    <item>
+      <title>Carbon Capture from Natural Gas Flue Emissions and Air via (Bi)Carbonate Formation in a Cyclodextrin-Based Metal&#8211;Organic Framework</title>
+      <link>https://doi.org/10.1021/jacs.5c07336</link>
+      <description>Seng Lim, Mary E. Zick, Jaehwan Kim, Benjamin J. Rhodes, Joharimanitra Randrianandraina, Tristan A. Pitt, R.T. Jerozal, Jung&#8208;Hoon Lee, Alexander C. Forse, Phillip J. Milner, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4412184735
+
+                Carbon capture and utilization or sequestration (CCUS) from industrial point sources and direct air capture (DAC) are both necessary to curb the rising atmospheric levels of CO2. Amine scrubbers, the current leading carbon capture technology, suffer from poor oxidative and thermal stability, limiting their long-term cycling stability under oxygen-rich streams such as air and the emissions from natural gas combined cycle (NGCC) power plants. Herein, we demonstrate that the hydroxide-based cyclodextrin metal-organic framework (CD-MOF) Rb2CO3 CD-MOF ST possesses high CO2 capacities from dry dilute streams at low temperatures and humid streams at elevated temperatures. Additionally, it displays good thermal, oxidative, and cycling stabilities and selective CO2 capture under mixed gas conditions in dynamic breakthrough experiments. Unexpectedly, under dry, hot conditions, a shift in the CO2 adsorption mechanism&#9472;from reversibly formed bicarbonate to irreversibly formed carbonate&#9472;is observed, as supported by gas sorption and spectroscopic studies coupled with density functional theory (DFT) calculations. This mechanistic switch, akin to urea formation in amine-functionalized sorbents, has not been previously reported in a hydroxide-based material and sheds new light on the interplay between bicarbonate and carbonate species during CO2 capture. Our findings provide valuable insight for the design of next-generation materials containing oxygen-based nucleophiles for carbon capture applications.</description>
+      <author>Seng Lim, Mary E. Zick, Jaehwan Kim, Benjamin J. Rhodes, Joharimanitra Randrianandraina, Tristan A. Pitt, R.T. Jerozal, Jung&#8208;Hoon Lee, Alexander C. Forse, Phillip J. Milner</author>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c07336</guid>
+    </item>
+    <item>
       <title>P-Block Elements Adsorption Induced Shift of Potential of Zero Free Charge of Pt(111)/HClO4 Interface</title>
       <link>https://doi.org/10.1016/j.electacta.2025.146858</link>
       <description>Yu-Jun Xu, Shuo Zhang, Mengke Zhang, Tingting Mao, Jun Cai, Yanxia Chen, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4412071761
@@ -506,6 +536,16 @@
       <author>Yao Yao, Juping Xu, Minhua Shao</author>
       <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(25)64650-x</guid>
+    </item>
+    <item>
+      <title>Antisymmetry rules of response properties in certain chemical spaces</title>
+      <link>https://doi.org/10.1063/5.0271350</link>
+      <description>Takafumi Shiraogawa, Simon Le&#243;n Krug, Masahiro Ehara, O. Anatole von Lilienfeld, The Journal of Chemical Physics. 163(2)] 2025. https://openalex.org/W4412192731
+
+                Understanding chemical compound space (CCS), a set of molecules and materials, is crucial for the rational discovery of molecules and materials. Concepts of symmetry have recently been introduced into CCS to account for near degeneracies and differences in electronic energies between iso-electronic materials. In this work, we present approximate relationships of response properties based on a first-principles view of CCS. They have been derived from perturbation theory and antisymmetry considerations involving nuclear charges. These rules allow approximate predictions of relative response properties of pairs of distinct compounds with opposite nuclear charge variations from a highly symmetric reference material, without the need for experiments or quantum chemical calculations of each compound. We numerically and statistically verified these rules for electric and magnetic response properties (electric dipole moment, polarizabilities, hyperpolarizabilities, and magnetizabilities) among charge-neutral and iso-electronic boron nitride-doped polycyclic aromatic hydrocarbon derivatives of naphthalene, anthracene, and pyrene. Our analysis indicates that, despite their simplicity, antisymmetry rule-based predictions are remarkably accurate, enabling dimensionality reduction of CCS. The rules predict the electric response properties more accurately than the magnetizabilities. The electric response properties in alchemical perturbation density functional theory were investigated to clarify the origin of this predictive power.</description>
+      <author>Takafumi Shiraogawa, Simon Le&#243;n Krug, Masahiro Ehara, O. Anatole von Lilienfeld</author>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0271350</guid>
     </item>
     <item>
       <title>Universally Accurate or Specifically Inadequate? Stress&#8208;Testing General Purpose Machine Learning Interatomic Potentials</title>
