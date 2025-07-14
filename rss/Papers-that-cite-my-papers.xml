@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 13 Jul 2025 01:57:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 01:53:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Domain Specific Language for Materials Modeling</title>
-      <link>https://doi.org/10.1007/978-3-031-97564-6_18</link>
-      <description>Ivan Kondov, Rodrigo Cort&#233;s&#8208;Mej&#237;a, Marvin M&#252;ller, Nikolai Pfisterer, S Sreenivasan, Lecture notes in computer science. None(None)] 2025. https://openalex.org/W4412055324
-
-                No abstract</description>
-      <author>Ivan Kondov, Rodrigo Cort&#233;s&#8208;Mej&#237;a, Marvin M&#252;ller, Nikolai Pfisterer, S Sreenivasan</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-97564-6_18</guid>
-    </item>
-    <item>
-      <title>Partially reduced PdOx nanoparticles strongly interacting with defect-rich ceria via dynamic redox pulse for complete methane oxidation</title>
-      <link>https://doi.org/10.1016/j.apcatb.2025.125672</link>
-      <description>Seung-Hee Ryu, Seokhyun Choung, Yunji Choi, Hyunjoo Lee, Joon&#8208;Hwan Choi, Jeong Woo Han, Hojin Jeong, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4412055487
-
-                No abstract</description>
-      <author>Seung-Hee Ryu, Seokhyun Choung, Yunji Choi, Hyunjoo Lee, Joon&#8208;Hwan Choi, Jeong Woo Han, Hojin Jeong</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125672</guid>
-    </item>
-    <item>
-      <title>Spin-blockade effect of chiral multi-branch Au nanoparticles for mediating oxygen evolution reaction of electro-catalytic water splitting</title>
-      <link>https://doi.org/10.1016/j.cej.2025.165517</link>
-      <description>Rui Tian, Lufei Huang, Ying Li, Dewei Zhang, Shenghong Ju, Baowen Zhou, Lin Yao, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4412055696
-
-                No abstract</description>
-      <author>Rui Tian, Lufei Huang, Ying Li, Dewei Zhang, Shenghong Ju, Baowen Zhou, Lin Yao</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.165517</guid>
-    </item>
-    <item>
-      <title>Potential applications in metallic TM(OH)2 and TMOH2 monolayers: a first-principles study</title>
-      <link>https://doi.org/10.1016/j.surfin.2025.107090</link>
-      <description>Ziqi Li, Xue Li, Siyu Lu, Zhiyong Tang, Surfaces and Interfaces. None(None)] 2025. https://openalex.org/W4412059402
-
-                No abstract</description>
-      <author>Ziqi Li, Xue Li, Siyu Lu, Zhiyong Tang</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.107090</guid>
-    </item>
-    <item>
-      <title>Two-dimensional Janus BiXY (X = Se, Te; Y I, Br, Cl) for photocatalytic water splitting</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.150113</link>
-      <description>Lina Fan, Kun Han, Qiang L&#252;, Huaijin Zhang, Yuping Tian, Wei&#8208;Jiang Gong, International Journal of Hydrogen Energy. 150(None)] 2025. https://openalex.org/W4412060150
-
-                No abstract</description>
-      <author>Lina Fan, Kun Han, Qiang L&#252;, Huaijin Zhang, Yuping Tian, Wei&#8208;Jiang Gong</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.150113</guid>
-    </item>
     <item>
       <title>Phosphorus&#8208;Doped Highly Crystalline Carbon for High Platinum Stability and Robust Support in Proton&#8208;Exchange Membrane Fuel Cells</title>
       <link>https://doi.org/10.1002/smtd.202500481</link>
@@ -442,7 +392,7 @@
       <link>https://doi.org/10.1021/acs.inorgchem.5c01416</link>
       <description>Bin Liu, Haiyan Cheng, Yu Xia, Lei Wang, Ning An, Jingwei Huang, Houde She, Qizhao Wang, Inorganic Chemistry. None(None)] 2025. https://openalex.org/W4412349380
 
-                No abstract</description>
+                For most organic structures, the donor-acceptor (D-A) effect can effectively regulate the separation efficiency of photogenerated carriers, thereby enhancing the photocatalytic performance. However, the internal correlation between the structure and charge transportation, especially at the molecular level, is insufficiently explored. Herein, Cu3(PyCA)3 (PyCA = pyrazolate-4-carboxaldehyde), tris(4-aminophenyl) amine, and [2,2'-bipyridine]-5,5'-diamine were employed to prepare two metal-covalent organic frameworks (MCOFs), namely, Tap-MCOF and Bpy-MCOF, both of which are D-A-type structure. In accordance, Tap-MCOF exhibits improved conversion of H2O and O2 to H2O2 in the absence of sacrificial agent, achieving the H2O2 production rate of 288.58 &#956;mol g-1 h-1, which is approximately 2.7-fold higher than that of Bpy-MCOF. It is considered due to the intensified D-A effect within Tap-MCOF, it presents a narrower band gaps and greater separation of photoinduced carriers, compared with that of Bpy-MCOF. The transient photocurrent response intensity of Tap-MCOF is significantly higher than that of Bpy-MCOF, indicating its superior charge separation and transport efficiency. These results not only provide a strategy for manipulating the carrier separation efficiency of photocatalysts at the molecular level but also furnish insights into the effective photocatalytic ORR and WOR transformations of organic semiconducting catalysts.</description>
       <author>Bin Liu, Haiyan Cheng, Yu Xia, Lei Wang, Ning An, Jingwei Huang, Houde She, Qizhao Wang</author>
       <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.5c01416</guid>
@@ -506,6 +456,16 @@
       <author>Felipe Hawthorne, Paulo R. E. Raulino, Ronaldo Rodrigues Pel&#225;, Cristiano F. Woellner</author>
       <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c03470</guid>
+    </item>
+    <item>
+      <title>Selective Catalytic Conversion of Nitrite to Ammonium by an Oxygen-Tolerant Molecular Cobalt Complex</title>
+      <link>https://doi.org/10.1021/acscatal.5c03677</link>
+      <description>Rajaneesh Kumar Verma, Ankita Kumari, Arpan Bera, Avijit Das, Durgesh Pandey, Dibyajyoti Ghosh, Sayantan Paria, ACS Catalysis. None(None)] 2025. https://openalex.org/W4412365026
+
+                No abstract</description>
+      <author>Rajaneesh Kumar Verma, Ankita Kumari, Arpan Bera, Avijit Das, Durgesh Pandey, Dibyajyoti Ghosh, Sayantan Paria</author>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c03677</guid>
     </item>
     <item>
       <title>Carbon Capture from Natural Gas Flue Emissions and Air via (Bi)Carbonate Formation in a Cyclodextrin-Based Metal&#8211;Organic Framework</title>
