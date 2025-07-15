@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Jul 14 01:53:42 2025
+Created on Tue Jul 15 01:54:00 2025
 
-Found 53 results from 2025-07-07 to 2025-07-14
+Found 48 results from 2025-07-08 to 2025-07-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405)
@@ -16,61 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Phosphorus‐Doped Highly Crystalline Carbon for High Platinum Stability and Robust Support in Proton‐Exchange Membrane Fuel Cells   
-
-OpenAlex: https://openalex.org/W4412066895    
-Open access: True
-    
-[Han Seul Kim](https://openalex.org/A5027070724), [Seung Min Woo](https://openalex.org/A5029148407), [Gi-Hwan Kang](https://openalex.org/A5103165221), [Sang‐Hoon You](https://openalex.org/A5023820275), [Sang‐Seok Lee](https://openalex.org/A5103013974), [Su Bin Park](https://openalex.org/A5101826172), [Jae Hyun Park](https://openalex.org/A5100369517), [Y.‐H. Cho](https://openalex.org/A5053578792), [Kyung Rog Lee](https://openalex.org/A5040437159), [Kug‐Seung Lee](https://openalex.org/A5078186897), [Yong‐Tae Kim](https://openalex.org/A5100658302), [Seung‐Ho Yu](https://openalex.org/A5083133451), [Il‐Kyu Park](https://openalex.org/A5032160372), [Sung Jong Yoo](https://openalex.org/A5066553887), Small Methods. None(None)] 2025.https://doi.org/10.1002/smtd.202500481.
-    
-Abstract Proton‐exchange membrane fuel cells (PEMFCs) require durable and efficient catalyst supports to overcome the limitations of Pt‐based catalysts and conventional low‐crystalline carbon (LCC) supports, such as high cost, susceptibility to corrosion, and poor electrochemical durability. While highly crystalline carbon (HCC) offers improved stability, its intrinsic hydrophobicity and low defect density hinder Pt nanoparticles (NPs) nucleation and dispersion. In this study, a spin‐on‐dopant (SOD) approach is employed to synthesize phosphorus‐incorporated HCC (HCC P ) providing stable anchoring sites that facilitate uniform Pt NPs distribution. Compared to commercial Pt/LCC, Pt/HCC P exhibits enhanced thermal stability and oxidation resistance, with an oxidation onset temperature ≈90 °C higher. Accelerated durability tests reveal only a 2 mV half‐wave potential shift and a minimal electrochemical surface area (ECSA) loss of 1.9% after 20 000 cycles, significantly lower than the 47.1% ECSA loss observed for Pt/LCC. Single‐cell tests further confirm that Pt/HCC P retains 92.4% of its initial power density, outperforming Pt/LCC. The incorporation of phosphorus improves Pt NPs stabilization on the superhydrophobic HCC surface, enhancing Pt utilization and long‐term durability. This study provides valuable insights into the development of high‐performance carbon supports for PEMFC catalysts.    
-
-    
-
-## Curvature effect of TMN4 sites on carbon nanotube for electrochemical reduction of carbon dioxide revealed by machine learning   
-
-OpenAlex: https://openalex.org/W4412071431    
-Open access: False
-    
-[Aling Ma](https://openalex.org/A5009783384), [YuShan Pang](https://openalex.org/A5102634533), [Zongpeng Ding](https://openalex.org/A5012102127), [Guohong Fan](https://openalex.org/A5038934588), [Hong Xu](https://openalex.org/A5017163237), Electrochimica Acta. None(None)] 2025.https://doi.org/10.1016/j.electacta.2025.146862.
-    
-No abstract    
-
-    
-
-## Off-Equilibrium Reactivity of Boron-Enriched Metal Diboride Surfaces in Electroreduction Conditions   
-
-OpenAlex: https://openalex.org/W4412073651    
-Open access: False
-    
-[Zisheng Zhang](https://openalex.org/A5004503548), [Frank Abild‐Pedersen](https://openalex.org/A5014248031), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.5c04054.
-    
-No abstract    
-
-    
-
-## Photocatalytic reduction of CO2 over porous ultrathin NiO nanosheets with oxygen vacancies   
-
-OpenAlex: https://openalex.org/W4412074891    
-Open access: False
-    
-[Rui Li](https://openalex.org/A5100448355), [Pengfei Feng](https://openalex.org/A5102023242), [Bonan Li](https://openalex.org/A5045355553), [Jiayu Zhu](https://openalex.org/A5112126389), [Yali Zhang](https://openalex.org/A5109302680), [Ze Zhang](https://openalex.org/A5100379785), [Jiangwei Zhang](https://openalex.org/A5100771247), [Yong Ding](https://openalex.org/A5101937931), CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 73(None)] 2025.https://doi.org/10.1016/s1872-2067(25)64687-0.
-    
-No abstract    
-
-    
-
-## Planar [Cu–S]–Organic Framework for Selective and Low‐Overpotential CO2 Reduction to Formate   
-
-OpenAlex: https://openalex.org/W4412075137    
-Open access: True
-    
-[Khatereh Roohi](https://openalex.org/A5084439148), [Mohammad Soleimani](https://openalex.org/A5102862060), [Nabil Khossossi](https://openalex.org/A5023894442), [Stefano Canossa](https://openalex.org/A5001012453), [Ali Kosari](https://openalex.org/A5007501668), [Seyedamirhossein Mohseni Armaki](https://openalex.org/A5106669448), [Majid Ahmadi](https://openalex.org/A5061945130), [Ewout van der Veer](https://openalex.org/A5039124254), [Mahinder Ramdin](https://openalex.org/A5091298778), [Prasaanth Ravi Anusuyadevi](https://openalex.org/A5034762750), [Prasad Gonugunta](https://openalex.org/A5024511684), [J.M.C. Mol](https://openalex.org/A5005758024), [Poulumi Dey](https://openalex.org/A5054711582), [Peyman Taheri](https://openalex.org/A5038962777), Small Structures. None(None)] 2025.https://doi.org/10.1002/sstr.202500235.
-    
-The development of advanced catalysts with innovative nanoarchitectures is critical for addressing energy and environmental challenges such as the electrochemical CO 2 reduction reaction (CO 2 RR). Herein, the synthesis of an innovative copper–sulfur planar structure, Cu–S–BDC, within a metal–organic framework (MOF) catalyst is presented, which demonstrates 100% selectivity toward formate as the sole carbon product. Structural analysis and surface characterizations reveal that Cu–S–BDC exhibits quasi‐2D inorganic building units, with Cu bonded to two S‐CH groups and one BDC linker, while carboxylate groups adopt a bridging coordination mode. This unique arrangement not only imparts remarkable structural stability but also enhances the electronic properties of the MOF, as evidenced by a narrow bandgap of 1.203 eV that facilitates efficient charge transfer and increased electrochemical current density in CORR. Notably, it offers a Faradaic efficiency of 92% for formate at an overpotential as low as −0.4 V versus the reversible hydrogen electrode (RHE) in an aqueous electrolyte of 1 m KOH, as well as a current density of −25.8 mA cm 2 at −0.9 V versus RHE, averaged over 24 h of electrolysis. This study highlights a fresh perspective in the field of MOF electrocatalysts by demonstrating that engineering the metal coordination environment can significantly enhance the electronic properties and consequently improve the electrocatalytic performance of these materials.    
-
-    
 
 ## Structure-activity relation of single-atom electrocatalysts for CO2 reduction to CH4   
 
@@ -523,6 +468,28 @@ No abstract
 
     
 
+## Improved ORR Performance of Precious Metal‐Free Fe Single‐Atom Catalysts by Heteroatom Doping   
+
+OpenAlex: https://openalex.org/W4412372629    
+Open access: True
+    
+[Zaifa Pan](https://openalex.org/A5087939576), [Yiming Zhu](https://openalex.org/A5100559157), [Yihong Liu](https://openalex.org/A5101584622), [Wei‐Hsiang Huang](https://openalex.org/A5078062437), [Yujie Cui](https://openalex.org/A5003676721), [Yang Zhao](https://openalex.org/A5026072485), [Menghao Yang](https://openalex.org/A5076450446), [Hongfei Cheng](https://openalex.org/A5051663103), [Nicolás Alonso‐Vante](https://openalex.org/A5085058884), [Jiwei Ma](https://openalex.org/A5060759067), Advanced Materials Interfaces. None(None)] 2025.https://doi.org/10.1002/admi.202500253.
+    
+Abstract The development of platinum group metal (PGM)‐free catalysts is essential to advance the wide application of fuel cells. Single‐atom Fe─N─C catalysts are one type of promising PGM‐free catalysts that can replace the expensive Pt/C catalyst for the electrocatalytic oxygen reduction reaction. However, Fe─N─C catalysts still suffer from poor stability due to the inevitable Fenton reaction. In this work, a doping strategy is demonstrated to alter the electronic structure around the catalytic sites and significantly improve their catalytic activity. In particular, the phosphorous‐doped Fe─N─C catalyst (P─Fe─N─C) achieves a half‐wave potential of 0.885 V versus RHE in 0.1 m KOH and demonstrates excellent stability, with only a 7 mV decay in the half‐wave potential after 10 000 cyclic voltammetry cycles, superior to that of boron‐doped one (B─Fe─N─C). Density functional theory (DFT) calculations further confirm that heteroatom doping favors the ORR process, highlighting the potential of this catalyst for advanced energy applications.    
+
+    
+
+## Plasma‐Assisted Nitridation Modulates the Electronic Structure of the NiSe2/Ni@Ni3N Ternary Heterojunction Enhancing Its Dual‐Function Catalytic Performance and Inhibiting Zn Dendrite Growth in Rechargeable Zinc‐Air Batteries   
+
+OpenAlex: https://openalex.org/W4412372658    
+Open access: False
+    
+[Zejun Xu](https://openalex.org/A5079064162), [Jialong Wu](https://openalex.org/A5082444131), [Weiheng Chen](https://openalex.org/A5037837951), [Zhongqing Jiang](https://openalex.org/A5022429952), [Jun Cao](https://openalex.org/A5101574599), [Guangliang Chen](https://openalex.org/A5101466171), [Zhong‐Jie Jiang](https://openalex.org/A5101774299), Advanced Functional Materials. None(None)] 2025.https://doi.org/10.1002/adfm.202511117.
+    
+Abstract In this work, a novel synthetic strategy to construct a structurally advanced bifunctional electrocatalyst via Ar/NH 3 radio‐frequency plasma‐assisted nitridation and subsequent high‐temperature selenization is proposed. The resulting self‐supporting electrode, denoted as p‐NiSe 2 /Ni@Ni 3 N/NCNT@CC, consists of selenium‐vacancy‐rich NiSe 2 /Ni@Ni 3 N nanoparticles (NPs) uniformly anchored on nitrogen‐doped carbon nanotubes (NCNTs) in situ grown on carbon‐cloth (CC). The formation of this ternary heterostructure is governed by interactions between plasma‐generated reactive species (NH*, NH 2 *, Ar*) and Ni NPs. It demonstrates outstanding bifunctional performance and stability in 0.1 m KOH, featuring a half‐wave potential for oxygen‐reduction reaction (ORR) of 0.80 V, an overpotential of 311 mV for oxygen‐evolution reaction (OER) at 30 mA cm⁻ 2 , and a minimal ΔE of 0.74 V, surpassing commercial Pt/C+RuO 2 . Liquid zinc–air batteries (L‐ZABs) using this catalyst as the air cathode deliver a high peak power‐density of 137.94 mW cm⁻ 2 and stable cycling over 1 000 cycles, with minimal voltage polarization. More impressively, it serves as a competitive self‐supporting electrode in flexible all‐solid‐state ZABs (ASS‐ZABs), achieving 1.49 V open‐circuit voltage (OCV), 106.8 mW cm⁻ 2 peak power‐density, and excellent cycling and low‐temperature performance. DFT calculations confirm that the enhanced activity and durability stem from the synergistic effects of heterostructure engineering, selenium vacancy modulation, and conductive carbon integration.    
+
+    
+
 ## Carbon Capture from Natural Gas Flue Emissions and Air via (Bi)Carbonate Formation in a Cyclodextrin-Based Metal–Organic Framework   
 
 OpenAlex: https://openalex.org/W4412184735    
@@ -531,28 +498,6 @@ Open access: False
 [Seng Lim](https://openalex.org/A5070156352), [Mary E. Zick](https://openalex.org/A5006783787), [Jaehwan Kim](https://openalex.org/A5100447954), [Benjamin J. Rhodes](https://openalex.org/A5038747263), [Joharimanitra Randrianandraina](https://openalex.org/A5023568611), [Tristan A. Pitt](https://openalex.org/A5006613627), [R.T. Jerozal](https://openalex.org/A5077050793), [Jung‐Hoon Lee](https://openalex.org/A5100766459), [Alexander C. Forse](https://openalex.org/A5005354876), [Phillip J. Milner](https://openalex.org/A5002804366), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.5c07336.
     
 Carbon capture and utilization or sequestration (CCUS) from industrial point sources and direct air capture (DAC) are both necessary to curb the rising atmospheric levels of CO2. Amine scrubbers, the current leading carbon capture technology, suffer from poor oxidative and thermal stability, limiting their long-term cycling stability under oxygen-rich streams such as air and the emissions from natural gas combined cycle (NGCC) power plants. Herein, we demonstrate that the hydroxide-based cyclodextrin metal-organic framework (CD-MOF) Rb2CO3 CD-MOF ST possesses high CO2 capacities from dry dilute streams at low temperatures and humid streams at elevated temperatures. Additionally, it displays good thermal, oxidative, and cycling stabilities and selective CO2 capture under mixed gas conditions in dynamic breakthrough experiments. Unexpectedly, under dry, hot conditions, a shift in the CO2 adsorption mechanism─from reversibly formed bicarbonate to irreversibly formed carbonate─is observed, as supported by gas sorption and spectroscopic studies coupled with density functional theory (DFT) calculations. This mechanistic switch, akin to urea formation in amine-functionalized sorbents, has not been previously reported in a hydroxide-based material and sheds new light on the interplay between bicarbonate and carbonate species during CO2 capture. Our findings provide valuable insight for the design of next-generation materials containing oxygen-based nucleophiles for carbon capture applications.    
-
-    
-
-## P-Block Elements Adsorption Induced Shift of Potential of Zero Free Charge of Pt(111)/HClO4 Interface   
-
-OpenAlex: https://openalex.org/W4412071761    
-Open access: False
-    
-[Yu-Jun Xu](https://openalex.org/A5101277373), [Shuo Zhang](https://openalex.org/A5100450395), [Mengke Zhang](https://openalex.org/A5101710096), [Tingting Mao](https://openalex.org/A5076656638), [Jun Cai](https://openalex.org/A5041017754), [Yanxia Chen](https://openalex.org/A5039372448), Electrochimica Acta. None(None)] 2025.https://doi.org/10.1016/j.electacta.2025.146858.
-    
-No abstract    
-
-    
-
-## Competitions between hydrogen evolution reaction and oxygen reduction reaction on an Au surface   
-
-OpenAlex: https://openalex.org/W4412073953    
-Open access: False
-    
-[Yao Yao](https://openalex.org/A5100389437), [Juping Xu](https://openalex.org/A5036084639), [Minhua Shao](https://openalex.org/A5112975177), CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 73(None)] 2025.https://doi.org/10.1016/s1872-2067(25)64650-x.
-    
-No abstract    
 
     
 

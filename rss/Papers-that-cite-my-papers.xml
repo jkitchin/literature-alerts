@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 14 Jul 2025 01:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 01:54:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Phosphorus&#8208;Doped Highly Crystalline Carbon for High Platinum Stability and Robust Support in Proton&#8208;Exchange Membrane Fuel Cells</title>
-      <link>https://doi.org/10.1002/smtd.202500481</link>
-      <description>Han Seul Kim, Seung Min Woo, Gi-Hwan Kang, Sang&#8208;Hoon You, Sang&#8208;Seok Lee, Su Bin Park, Jae Hyun Park, Y.&#8208;H. Cho, Kyung Rog Lee, Kug&#8208;Seung Lee, Yong&#8208;Tae Kim, Seung&#8208;Ho Yu, Il&#8208;Kyu Park, Sung Jong Yoo, Small Methods. None(None)] 2025. https://openalex.org/W4412066895
-
-                Abstract Proton&#8208;exchange membrane fuel cells (PEMFCs) require durable and efficient catalyst supports to overcome the limitations of Pt&#8208;based catalysts and conventional low&#8208;crystalline carbon (LCC) supports, such as high cost, susceptibility to corrosion, and poor electrochemical durability. While highly crystalline carbon (HCC) offers improved stability, its intrinsic hydrophobicity and low defect density hinder Pt nanoparticles (NPs) nucleation and dispersion. In this study, a spin&#8208;on&#8208;dopant (SOD) approach is employed to synthesize phosphorus&#8208;incorporated HCC (HCC P ) providing stable anchoring sites that facilitate uniform Pt NPs distribution. Compared to commercial Pt/LCC, Pt/HCC P exhibits enhanced thermal stability and oxidation resistance, with an oxidation onset temperature &#8776;90 &#176;C higher. Accelerated durability tests reveal only a 2 mV half&#8208;wave potential shift and a minimal electrochemical surface area (ECSA) loss of 1.9% after 20 000 cycles, significantly lower than the 47.1% ECSA loss observed for Pt/LCC. Single&#8208;cell tests further confirm that Pt/HCC P retains 92.4% of its initial power density, outperforming Pt/LCC. The incorporation of phosphorus improves Pt NPs stabilization on the superhydrophobic HCC surface, enhancing Pt utilization and long&#8208;term durability. This study provides valuable insights into the development of high&#8208;performance carbon supports for PEMFC catalysts.</description>
-      <author>Han Seul Kim, Seung Min Woo, Gi-Hwan Kang, Sang&#8208;Hoon You, Sang&#8208;Seok Lee, Su Bin Park, Jae Hyun Park, Y.&#8208;H. Cho, Kyung Rog Lee, Kug&#8208;Seung Lee, Yong&#8208;Tae Kim, Seung&#8208;Ho Yu, Il&#8208;Kyu Park, Sung Jong Yoo</author>
-      <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202500481</guid>
-    </item>
-    <item>
-      <title>Curvature effect of TMN4 sites on carbon nanotube for electrochemical reduction of carbon dioxide revealed by machine learning</title>
-      <link>https://doi.org/10.1016/j.electacta.2025.146862</link>
-      <description>Aling Ma, YuShan Pang, Zongpeng Ding, Guohong Fan, Hong Xu, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4412071431
-
-                No abstract</description>
-      <author>Aling Ma, YuShan Pang, Zongpeng Ding, Guohong Fan, Hong Xu</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146862</guid>
-    </item>
-    <item>
-      <title>Off-Equilibrium Reactivity of Boron-Enriched Metal Diboride Surfaces in Electroreduction Conditions</title>
-      <link>https://doi.org/10.1021/acscatal.5c04054</link>
-      <description>Zisheng Zhang, Frank Abild&#8208;Pedersen, ACS Catalysis. None(None)] 2025. https://openalex.org/W4412073651
-
-                No abstract</description>
-      <author>Zisheng Zhang, Frank Abild&#8208;Pedersen</author>
-      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c04054</guid>
-    </item>
-    <item>
-      <title>Photocatalytic reduction of CO2 over porous ultrathin NiO nanosheets with oxygen vacancies</title>
-      <link>https://doi.org/10.1016/s1872-2067(25)64687-0</link>
-      <description>Rui Li, Pengfei Feng, Bonan Li, Jiayu Zhu, Yali Zhang, Ze Zhang, Jiangwei Zhang, Yong Ding, CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 73(None)] 2025. https://openalex.org/W4412074891
-
-                No abstract</description>
-      <author>Rui Li, Pengfei Feng, Bonan Li, Jiayu Zhu, Yali Zhang, Ze Zhang, Jiangwei Zhang, Yong Ding</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(25)64687-0</guid>
-    </item>
-    <item>
-      <title>Planar [Cu&#8211;S]&#8211;Organic Framework for Selective and Low&#8208;Overpotential CO&lt;sub&gt;2&lt;/sub&gt; Reduction to Formate</title>
-      <link>https://doi.org/10.1002/sstr.202500235</link>
-      <description>Khatereh Roohi, Mohammad Soleimani, Nabil Khossossi, Stefano Canossa, Ali Kosari, Seyedamirhossein Mohseni Armaki, Majid Ahmadi, Ewout van der Veer, Mahinder Ramdin, Prasaanth Ravi Anusuyadevi, Prasad Gonugunta, J.M.C. Mol, Poulumi Dey, Peyman Taheri, Small Structures. None(None)] 2025. https://openalex.org/W4412075137
-
-                The development of advanced catalysts with innovative nanoarchitectures is critical for addressing energy and environmental challenges such as the electrochemical CO 2 reduction reaction (CO 2 RR). Herein, the synthesis of an innovative copper&#8211;sulfur planar structure, Cu&#8211;S&#8211;BDC, within a metal&#8211;organic framework (MOF) catalyst is presented, which demonstrates 100% selectivity toward formate as the sole carbon product. Structural analysis and surface characterizations reveal that Cu&#8211;S&#8211;BDC exhibits quasi&#8208;2D inorganic building units, with Cu bonded to two S&#8208;CH groups and one BDC linker, while carboxylate groups adopt a bridging coordination mode. This unique arrangement not only imparts remarkable structural stability but also enhances the electronic properties of the MOF, as evidenced by a narrow bandgap of 1.203 eV that facilitates efficient charge transfer and increased electrochemical current density in CORR. Notably, it offers a Faradaic efficiency of 92% for formate at an overpotential as low as &#8722;0.4 V versus the reversible hydrogen electrode (RHE) in an aqueous electrolyte of 1 m KOH, as well as a current density of &#8722;25.8 mA cm 2 at &#8722;0.9 V versus RHE, averaged over 24 h of electrolysis. This study highlights a fresh perspective in the field of MOF electrocatalysts by demonstrating that engineering the metal coordination environment can significantly enhance the electronic properties and consequently improve the electrocatalytic performance of these materials.</description>
-      <author>Khatereh Roohi, Mohammad Soleimani, Nabil Khossossi, Stefano Canossa, Ali Kosari, Seyedamirhossein Mohseni Armaki, Majid Ahmadi, Ewout van der Veer, Mahinder Ramdin, Prasaanth Ravi Anusuyadevi, Prasad Gonugunta, J.M.C. Mol, Poulumi Dey, Peyman Taheri</author>
-      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/sstr.202500235</guid>
-    </item>
     <item>
       <title>Structure-activity relation of single-atom electrocatalysts for CO2 reduction to CH4</title>
       <link>https://doi.org/10.1007/s40843-025-3460-4</link>
@@ -468,6 +418,26 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c03677</guid>
     </item>
     <item>
+      <title>Improved ORR Performance of Precious Metal&#8208;Free Fe Single&#8208;Atom Catalysts by Heteroatom Doping</title>
+      <link>https://doi.org/10.1002/admi.202500253</link>
+      <description>Zaifa Pan, Yiming Zhu, Yihong Liu, Wei&#8208;Hsiang Huang, Yujie Cui, Yang Zhao, Menghao Yang, Hongfei Cheng, Nicol&#225;s Alonso&#8208;Vante, Jiwei Ma, Advanced Materials Interfaces. None(None)] 2025. https://openalex.org/W4412372629
+
+                Abstract The development of platinum group metal (PGM)&#8208;free catalysts is essential to advance the wide application of fuel cells. Single&#8208;atom Fe&#9472;N&#9472;C catalysts are one type of promising PGM&#8208;free catalysts that can replace the expensive Pt/C catalyst for the electrocatalytic oxygen reduction reaction. However, Fe&#9472;N&#9472;C catalysts still suffer from poor stability due to the inevitable Fenton reaction. In this work, a doping strategy is demonstrated to alter the electronic structure around the catalytic sites and significantly improve their catalytic activity. In particular, the phosphorous&#8208;doped Fe&#9472;N&#9472;C catalyst (P&#9472;Fe&#9472;N&#9472;C) achieves a half&#8208;wave potential of 0.885 V versus RHE in 0.1 m KOH and demonstrates excellent stability, with only a 7 mV decay in the half&#8208;wave potential after 10 000 cyclic voltammetry cycles, superior to that of boron&#8208;doped one (B&#9472;Fe&#9472;N&#9472;C). Density functional theory (DFT) calculations further confirm that heteroatom doping favors the ORR process, highlighting the potential of this catalyst for advanced energy applications.</description>
+      <author>Zaifa Pan, Yiming Zhu, Yihong Liu, Wei&#8208;Hsiang Huang, Yujie Cui, Yang Zhao, Menghao Yang, Hongfei Cheng, Nicol&#225;s Alonso&#8208;Vante, Jiwei Ma</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/admi.202500253</guid>
+    </item>
+    <item>
+      <title>Plasma&#8208;Assisted Nitridation Modulates the Electronic Structure of the NiSe&lt;sub&gt;2&lt;/sub&gt;/Ni@Ni&lt;sub&gt;3&lt;/sub&gt;N Ternary Heterojunction Enhancing Its Dual&#8208;Function Catalytic Performance and Inhibiting Zn Dendrite Growth in Rechargeable Zinc&#8208;Air Batteries</title>
+      <link>https://doi.org/10.1002/adfm.202511117</link>
+      <description>Zejun Xu, Jialong Wu, Weiheng Chen, Zhongqing Jiang, Jun Cao, Guangliang Chen, Zhong&#8208;Jie Jiang, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4412372658
+
+                Abstract In this work, a novel synthetic strategy to construct a structurally advanced bifunctional electrocatalyst via Ar/NH 3 radio&#8208;frequency plasma&#8208;assisted nitridation and subsequent high&#8208;temperature selenization is proposed. The resulting self&#8208;supporting electrode, denoted as p&#8208;NiSe 2 /Ni@Ni 3 N/NCNT@CC, consists of selenium&#8208;vacancy&#8208;rich NiSe 2 /Ni@Ni 3 N nanoparticles (NPs) uniformly anchored on nitrogen&#8208;doped carbon nanotubes (NCNTs) in situ grown on carbon&#8208;cloth (CC). The formation of this ternary heterostructure is governed by interactions between plasma&#8208;generated reactive species (NH*, NH 2 *, Ar*) and Ni NPs. It demonstrates outstanding bifunctional performance and stability in 0.1 m KOH, featuring a half&#8208;wave potential for oxygen&#8208;reduction reaction (ORR) of 0.80 V, an overpotential of 311 mV for oxygen&#8208;evolution reaction (OER) at 30 mA cm&#8315; 2 , and a minimal &#916;E of 0.74 V, surpassing commercial Pt/C+RuO 2 . Liquid zinc&#8211;air batteries (L&#8208;ZABs) using this catalyst as the air cathode deliver a high peak power&#8208;density of 137.94 mW cm&#8315; 2 and stable cycling over 1 000 cycles, with minimal voltage polarization. More impressively, it serves as a competitive self&#8208;supporting electrode in flexible all&#8208;solid&#8208;state ZABs (ASS&#8208;ZABs), achieving 1.49 V open&#8208;circuit voltage (OCV), 106.8 mW cm&#8315; 2 peak power&#8208;density, and excellent cycling and low&#8208;temperature performance. DFT calculations confirm that the enhanced activity and durability stem from the synergistic effects of heterostructure engineering, selenium vacancy modulation, and conductive carbon integration.</description>
+      <author>Zejun Xu, Jialong Wu, Weiheng Chen, Zhongqing Jiang, Jun Cao, Guangliang Chen, Zhong&#8208;Jie Jiang</author>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202511117</guid>
+    </item>
+    <item>
       <title>Carbon Capture from Natural Gas Flue Emissions and Air via (Bi)Carbonate Formation in a Cyclodextrin-Based Metal&#8211;Organic Framework</title>
       <link>https://doi.org/10.1021/jacs.5c07336</link>
       <description>Seng Lim, Mary E. Zick, Jaehwan Kim, Benjamin J. Rhodes, Joharimanitra Randrianandraina, Tristan A. Pitt, R.T. Jerozal, Jung&#8208;Hoon Lee, Alexander C. Forse, Phillip J. Milner, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4412184735
@@ -476,26 +446,6 @@
       <author>Seng Lim, Mary E. Zick, Jaehwan Kim, Benjamin J. Rhodes, Joharimanitra Randrianandraina, Tristan A. Pitt, R.T. Jerozal, Jung&#8208;Hoon Lee, Alexander C. Forse, Phillip J. Milner</author>
       <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c07336</guid>
-    </item>
-    <item>
-      <title>P-Block Elements Adsorption Induced Shift of Potential of Zero Free Charge of Pt(111)/HClO4 Interface</title>
-      <link>https://doi.org/10.1016/j.electacta.2025.146858</link>
-      <description>Yu-Jun Xu, Shuo Zhang, Mengke Zhang, Tingting Mao, Jun Cai, Yanxia Chen, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4412071761
-
-                No abstract</description>
-      <author>Yu-Jun Xu, Shuo Zhang, Mengke Zhang, Tingting Mao, Jun Cai, Yanxia Chen</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146858</guid>
-    </item>
-    <item>
-      <title>Competitions between hydrogen evolution reaction and oxygen reduction reaction on an Au surface</title>
-      <link>https://doi.org/10.1016/s1872-2067(25)64650-x</link>
-      <description>Yao Yao, Juping Xu, Minhua Shao, CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 73(None)] 2025. https://openalex.org/W4412073953
-
-                No abstract</description>
-      <author>Yao Yao, Juping Xu, Minhua Shao</author>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(25)64650-x</guid>
     </item>
     <item>
       <title>Antisymmetry rules of response properties in certain chemical spaces</title>
