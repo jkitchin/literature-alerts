@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 15 Jul 2025 01:53:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 01:50:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>On optimal control of hybrid dynamical systems using complementarity constraints</title>
-      <link>https://doi.org/10.1016/j.jprocont.2025.103492</link>
-      <description>Saif R. Kazi, Kexin Wang, Lorenz T. Biegler, Journal of Process Control. 153(None)] 2025. https://openalex.org/W4412107103
-
-                No abstract</description>
-      <author>Saif R. Kazi, Kexin Wang, Lorenz T. Biegler</author>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jprocont.2025.103492</guid>
-    </item>
     <item>
       <title>Optimal Operation of Gas Transport Pipelines with Detailed MILP and NLP Models</title>
       <link>https://doi.org/10.1021/acs.iecr.5c01043</link>
