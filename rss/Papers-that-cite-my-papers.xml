@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 17 Jul 2025 01:51:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 01:52:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Constructing Sulfur Vacancy-Rich NiCo2S4@MoS2 Core@shell Heterostructure via Interface Engineering for Enhanced HER Electrocatalysis</title>
-      <link>https://doi.org/10.3390/nano15141061</link>
-      <description>Zhian Song, Yuan Liu, Peng Yin, Jie Dai, Yingying Xu, Rongming Wang, Sibin Duan, Nanomaterials. 15(14)] 2025. https://openalex.org/W4412150083
-
-                The rational design of heterointerfaces with optimized charge dynamics and defect engineering remains pivotal for developing advanced non-noble metal-based electrocatalysts for water splitting. A comparative study of NiCo2S4&#8211;MoS2 heterostructures was conducted to elucidate the impact of interfacial architecture and defect engineering on hydrogen evolution reaction (HER) performance. A core@shell NiCo2S4@MoS2 heterostructure was synthesized via a facile hydrothermal growth method, inducing lattice distortion and strong interfacial coupling, while supported NiCo2S4/MoS2 heterostructures were prepared by ultrasonic-assisted deposition. A detailed structural and spectroscopic characterization and theoretical calculation demonstrated that the core@shell configuration promotes charge redistribution across the NiCo2S4&#8211;MoS2 interface and generates abundant sulfur vacancies, thereby increasing the density of electroactive sites. Electrochemical measurements reveal that NiCo2S4@MoS2 markedly outperforms the supported heterostructure, single-component NiCo2S4, and MoS2 when serving as the HER catalyst in acid solution. These findings establish a dual-optimization strategy&#8212;combining interfacial design with vacancy modulation&#8212;that provides a generalizable paradigm for the deliberate design of high-efficiency non-noble metal-based electrocatalysts for water splitting reactions.</description>
-      <author>Zhian Song, Yuan Liu, Peng Yin, Jie Dai, Yingying Xu, Rongming Wang, Sibin Duan</author>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/nano15141061</guid>
-    </item>
-    <item>
-      <title>Experimental Study as Well as DFT Calculations for Ion Transport in Hydrogen/Platinum/Iridium Electrode of Fuel Cells through h-BN Layers in Proton Exchange Membrane</title>
-      <link>https://doi.org/10.1134/s1990793125700125</link>
-      <description>Majid Monajjemi, F. Mollaamin, Y. Shahverdy, Sara Shahriari, Russian Journal of Physical Chemistry B. 19(2)] 2025. https://openalex.org/W4412151590
-
-                No abstract</description>
-      <author>Majid Monajjemi, F. Mollaamin, Y. Shahverdy, Sara Shahriari</author>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1134/s1990793125700125</guid>
-    </item>
-    <item>
-      <title>Competitive Carbonate Binding Hinders Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction to CO on Cu Surfaces at Low Overpotentials</title>
-      <link>https://doi.org/10.1021/jacs.5c04518</link>
-      <description>Jinhui Meng, Jessica Freeze, Linsey Nowack, Chaoyu Li, Hongsen Wang, H&#233;ctor D. Abru&#241;a, Adam P. Willard, V&#237;ctor S. Batista, Tianquan Lian, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4412158550
-
-                The electrochemical reduction of CO2 to useful chemicals holds promise for a sustainable carbon cycle. However, the key factors that control the pathways to various desired products remain unresolved, partially due to the limited knowledge of reaction intermediates on the electrode surface. To address this, we utilize in situ electrochemical shell-isolated nanoparticle-enhanced Raman spectroscopy in combination with density functional theory calculation to examine the potential-dependent composition of adsorbed species during CO2 reduction on polycrystalline copper. The results reveal that carbonate anion adsorption outcompetes other carbon-containing species, including adsorbed CO2 activation intermediate *COO- and *CO, which has the effect of anodically shifting the onset potential of *CO formation in electrolyte solutions with a lower carbonate concentration. These results suggest that the competitive binding of carbonate impedes the reduction of CO2 on the Cu surface. Monte Carlo simulations show that both potential dependent electrode surface change and electrode-carbonate Coulomb interaction are key to understanding the competitive binding process. Our findings suggest that reducing the competitive binding of carbonate may be a promising route to improve the CO2 reduction on Cu electrodes at low overpotentials.</description>
-      <author>Jinhui Meng, Jessica Freeze, Linsey Nowack, Chaoyu Li, Hongsen Wang, H&#233;ctor D. Abru&#241;a, Adam P. Willard, V&#237;ctor S. Batista, Tianquan Lian</author>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c04518</guid>
-    </item>
-    <item>
-      <title>Bimetallic-GDC Nanowire Catalyst as a Cathode Surface Modifier for Enhancing the Oxygen Reduction Reaction and Suppressing Cation Segregation in Low-Temperature Solid Oxide Fuel Cells</title>
-      <link>https://doi.org/10.1021/acscatal.5c00756</link>
-      <description>Haval Kareem, Yonghyuk Lee, Muhammad Saqib, Dat T. Tran, Anastassia N. Alexandrova, Eric D. Wachsman, Deryn Chu, David R. Baker, ACS Catalysis. None(None)] 2025. https://openalex.org/W4412160595
-
-                No abstract</description>
-      <author>Haval Kareem, Yonghyuk Lee, Muhammad Saqib, Dat T. Tran, Anastassia N. Alexandrova, Eric D. Wachsman, Deryn Chu, David R. Baker</author>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c00756</guid>
-    </item>
-    <item>
-      <title>Effect on Magnetic and Electronic Structure Through Hole Substitution in Pseudo-1-D Spin Chain Compound Nite2o5</title>
-      <link>https://doi.org/10.2139/ssrn.5347022</link>
-      <description>Arvind Maurya, D. Pal, No host. None(None)] 2025. https://openalex.org/W4412165298
-
-                No abstract</description>
-      <author>Arvind Maurya, D. Pal</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5347022</guid>
-    </item>
-    <item>
-      <title>AniSOAP: Machine Learning Representations for Coarse-grained and Non-spherical Systems</title>
-      <link>https://doi.org/10.21105/joss.07954</link>
-      <description>Arthur Lin, Lucas Ortengren, Seok-Hyun Hwang, Yong-Cheol Cho, Jigyasa Nigam, Rose K. Cersonsky, The Journal of Open Source Software. 10(111)] 2025. https://openalex.org/W4412167617
-
-                No abstract</description>
-      <author>Arthur Lin, Lucas Ortengren, Seok-Hyun Hwang, Yong-Cheol Cho, Jigyasa Nigam, Rose K. Cersonsky</author>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21105/joss.07954</guid>
-    </item>
     <item>
       <title>Strain-Engineered Rh Single Atoms on Curved WS&lt;sub&gt;2&lt;/sub&gt; for Hydrogen Production and Coupled Photochemical Water Splitting</title>
       <link>https://doi.org/10.1021/jacs.5c04928</link>
@@ -568,6 +508,86 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s44422-025-00003-9</guid>
     </item>
     <item>
+      <title>High-throughput screening of trimetallic dual-atom alloy catalysts for electrocatalytic nitrate reduction to ammonia</title>
+      <link>https://doi.org/10.1016/j.jechem.2025.07.015</link>
+      <description>Yuanyuan Wang, Chunmei Tang, Ting Xiao, Feng Xiong, Xiaofeng Zhou, Kaixiao Zhang, Jiangfeng Gong, Journal of Energy Chemistry. None(None)] 2025. https://openalex.org/W4412464547
+
+                No abstract</description>
+      <author>Yuanyuan Wang, Chunmei Tang, Ting Xiao, Feng Xiong, Xiaofeng Zhou, Kaixiao Zhang, Jiangfeng Gong</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2025.07.015</guid>
+    </item>
+    <item>
+      <title>Interplay between alkaline water oxidation temperature, composition and performance of electrospun high-entropy non-equimolar (Cr,Mn,Fe,Co,Ni) oxide electrocatalysts</title>
+      <link>https://doi.org/10.1016/j.jpowsour.2025.237887</link>
+      <description>Claudia Triolo, Kaveh Moulaee, Fulvio Bellato, Gioele Pagot, Alessandro Ponti, Susan Maida, Nicola Pinna, G. Neri, Vito Di Noto, S. Santangelo, Journal of Power Sources. 654(None)] 2025. https://openalex.org/W4412467626
+
+                No abstract</description>
+      <author>Claudia Triolo, Kaveh Moulaee, Fulvio Bellato, Gioele Pagot, Alessandro Ponti, Susan Maida, Nicola Pinna, G. Neri, Vito Di Noto, S. Santangelo</author>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.237887</guid>
+    </item>
+    <item>
+      <title>A theoretical study of novel Rh2P2 and their analogs for electrocatalytic hydrogen evolution reactions</title>
+      <link>https://doi.org/10.1016/j.jpcs.2025.113022</link>
+      <description>Chenglin Li, Yinchang Zhao, Zhenhong Dai, Junru Wang, Journal of Physics and Chemistry of Solids. None(None)] 2025. https://openalex.org/W4412468213
+
+                No abstract</description>
+      <author>Chenglin Li, Yinchang Zhao, Zhenhong Dai, Junru Wang</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jpcs.2025.113022</guid>
+    </item>
+    <item>
+      <title>Decoupling the catalytic and degradation mechanisms of cobalt active sites during acidic water oxidation</title>
+      <link>https://doi.org/10.1038/s41560-025-01812-x</link>
+      <description>Darcy Simondson, Marc F. Tesch, Ioannis Spanos, Travis E. Jones, Jining Guo, Brittany V. Kerr, Manjunath Chatti, Shannon A. Bonke, Ronny Golnak, Bernt Johannessen, Jie Xiao, Douglas R. MacFarlane, Rosalie K. Hocking, Alexandr N. Simonov, Nature Energy. None(None)] 2025. https://openalex.org/W4412470602
+
+                No abstract</description>
+      <author>Darcy Simondson, Marc F. Tesch, Ioannis Spanos, Travis E. Jones, Jining Guo, Brittany V. Kerr, Manjunath Chatti, Shannon A. Bonke, Ronny Golnak, Bernt Johannessen, Jie Xiao, Douglas R. MacFarlane, Rosalie K. Hocking, Alexandr N. Simonov</author>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41560-025-01812-x</guid>
+    </item>
+    <item>
+      <title>Implicit neural representations for chemical reaction paths</title>
+      <link>https://doi.org/10.1063/5.0267023</link>
+      <description>Kalyan Ramakrishnan, Lars L. Schaaf, Chen Lin, Guangrun Wang, Philip H. S. Torr, The Journal of Chemical Physics. 163(3)] 2025. https://openalex.org/W4412472088
+
+                We show that neural networks can be optimized to represent minimum energy paths as continuous functions, offering a flexible alternative to discrete path-search methods such as Nudged Elastic Band (NEB). Our approach parameterizes reaction paths with a network trained on a loss function that discards tangential energy gradients and enables instant estimation of the transition state. We first validate the method on two-dimensional potentials and then demonstrate its advantages over NEB on challenging atomistic systems where (i) poor initial guesses yield unphysical paths, (ii) multiple competing paths exist, or (iii) the reaction follows a complex multi-step mechanism. Results highlight the versatility of the method: for instance, a simple adjustment to the sampling strategy during optimization can help escape local-minimum solutions. Finally, in a low-dimensional setting, we demonstrate that a single neural network can learn from existing paths and generalize to unseen systems, showing promise for a universal reaction path representation.</description>
+      <author>Kalyan Ramakrishnan, Lars L. Schaaf, Chen Lin, Guangrun Wang, Philip H. S. Torr</author>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0267023</guid>
+    </item>
+    <item>
+      <title>Five key concepts linking vacancies, structure, and oxygen evolution reaction activity in cobalt-based electrocatalysts</title>
+      <link>https://doi.org/10.1039/d5cc02438b</link>
+      <description>Kenneth Crossley, Thomas J. Schmidt, Emiliana Fabbri, Chemical Communications. None(None)] 2025. https://openalex.org/W4412475511
+
+                Focusing on five key concepts, we review the roles of cation and oxygen vacancies in determining the surface reconstruction pathway, reaction mechanism, and ultimate activity of cobalt-based oxygen evolution reaction (OER) electrocatalysts.</description>
+      <author>Kenneth Crossley, Thomas J. Schmidt, Emiliana Fabbri</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5cc02438b</guid>
+    </item>
+    <item>
+      <title>Strengthened Ru&#8211;O Bonds for Robust Oxygen Evolution in Acid Media</title>
+      <link>https://doi.org/10.1021/acscatal.5c02453</link>
+      <description>Danning Li, Wenrui Ma, Mathan K. Eswaran, Chunfeng Li, Jiayi Chen, Guangxin Sun, Shibo Xi, Sergey M. Kozlov, Chunnian He, Lei Wang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4412479227
+
+                No abstract</description>
+      <author>Danning Li, Wenrui Ma, Mathan K. Eswaran, Chunfeng Li, Jiayi Chen, Guangxin Sun, Shibo Xi, Sergey M. Kozlov, Chunnian He, Lei Wang</author>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c02453</guid>
+    </item>
+    <item>
+      <title>AI for Complex Catalytic Systems: High-Entropy Alloys in Electrocatalytic Acetylene Semihydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.5c04236</link>
+      <description>Zhen Tan, Xinyu Li, Rui Bai, Chang Guo, Xiao Han, Qinfeng Shi, Jian Zhang, Haobo Li, ACS Catalysis. None(None)] 2025. https://openalex.org/W4412479777
+
+                No abstract</description>
+      <author>Zhen Tan, Xinyu Li, Rui Bai, Chang Guo, Xiao Han, Qinfeng Shi, Jian Zhang, Haobo Li</author>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c04236</guid>
+    </item>
+    <item>
       <title>Carbon Capture from Natural Gas Flue Emissions and Air via (Bi)Carbonate Formation in a Cyclodextrin-Based Metal&#8211;Organic Framework</title>
       <link>https://doi.org/10.1021/jacs.5c07336</link>
       <description>Seng Lim, Mary E. Zick, Jaehwan Kim, Benjamin J. Rhodes, Joharimanitra Randrianandraina, Tristan A. Pitt, R.T. Jerozal, Jung&#8208;Hoon Lee, Alexander C. Forse, Phillip J. Milner, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4412184735
@@ -576,6 +596,16 @@
       <author>Seng Lim, Mary E. Zick, Jaehwan Kim, Benjamin J. Rhodes, Joharimanitra Randrianandraina, Tristan A. Pitt, R.T. Jerozal, Jung&#8208;Hoon Lee, Alexander C. Forse, Phillip J. Milner</author>
       <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c07336</guid>
+    </item>
+    <item>
+      <title>Modulating surface properties of catalysts to promote the oxidation of multi-component VOCs</title>
+      <link>https://doi.org/10.1016/j.jece.2025.118118</link>
+      <description>Min Zhang, Liangyu Liu, Ling Ding, Ningjie Fang, Yinghao Chu, Journal of environmental chemical engineering. None(None)] 2025. https://openalex.org/W4412467963
+
+                No abstract</description>
+      <author>Min Zhang, Liangyu Liu, Ling Ding, Ningjie Fang, Yinghao Chu</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2025.118118</guid>
     </item>
     <item>
       <title>Antisymmetry rules of response properties in certain chemical spaces</title>
