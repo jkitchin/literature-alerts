@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Jul 18 01:52:54 2025
+Created on Sat Jul 19 01:47:24 2025
 
-Found 62 results from 2025-07-11 to 2025-07-18
+Found 56 results from 2025-07-12 to 2025-07-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405)
@@ -16,50 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Strain-Engineered Rh Single Atoms on Curved WS2 for Hydrogen Production and Coupled Photochemical Water Splitting   
-
-OpenAlex: https://openalex.org/W4412172437    
-Open access: False
-    
-[Ting Gao](https://openalex.org/A5009630602), [Jie Gu](https://openalex.org/A5062166095), [Chuanguang Yang](https://openalex.org/A5046293929), [Rui Wang](https://openalex.org/A5100431239), [Chan Wang](https://openalex.org/A5104231914), [Pengfei Zhang](https://openalex.org/A5029804956), [Jiatong Li](https://openalex.org/A5101642272), [Xiaoyan Zheng](https://openalex.org/A5089147856), [Yujie Fan](https://openalex.org/A5101916154), [Puheng Yang](https://openalex.org/A5114148873), [Xiufu Hua](https://openalex.org/A5051150313), [Junfeng Hui](https://openalex.org/A5010866538), [Huigang Zhang](https://openalex.org/A5000293700), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.5c04928.
-    
-Hydrogen is a promising clean energy carrier, yet the high energy demand of water electrolysis limits its widespread adoption. Catalysis is crucial to enhance the efficiency of hydrogen production and lower energy costs. However, conventional catalyst design guided by the d-band theory faces inconsistencies in predicting adsorption behavior, and the oxygen evolution reaction (OER) remains a major efficiency bottleneck. To address these challenges, we developed a strain-engineered Rh single-atom catalyst anchored on curved WS2 supported by carbon nanotubes (RhSA/WS2@CNT) to modulate the electronic structure. The resultant catalyst achieves an ultralow overpotential of 17.4 mV at 10 mA cm-2 for the hydrogen evolution reaction (HER) and a mass activity ∼65 times higher than that of commercial Pt/C. Mechanistic analysis reveals that the H* adsorption trend contradicts d-band theory predictions but is explained by orbital symmetry adaptation, where the strain-modulated dxz orbital plays a major role in governing adsorption energetics. Beyond catalyst design, the HER catalyst was coupled with a photocatalytic iodide oxidation reaction (IOR) to replace the OER and reduce the water-splitting voltage to 0.7 V. This study not only introduces a strain-engineering strategy to optimize single-atom catalysts but also demonstrates a coupled electro-photo system that enhances energy efficiency, offering an alternative approach for sustainable hydrogen production.    
-
-    
-
-## Deciphering the Electrocatalytic Potential of Ni‐Metal–Organic Framework: A Synergistic Approach to Electrocatalysis and Theoretical Analysis   
-
-OpenAlex: https://openalex.org/W4412172680    
-Open access: False
-    
-[Debojyoti Kundu](https://openalex.org/A5065912570), [Sanjukta Zamindar](https://openalex.org/A5090904772), [Sandip Kumar Tudu](https://openalex.org/A5118892291), [Swarup Kumar Maji](https://openalex.org/A5037609724), [Abhijit Hazra](https://openalex.org/A5069652156), [Pravat Ghorai](https://openalex.org/A5071618153), [S.K. Samanta](https://openalex.org/A5101414427), [Naresh Chandra Murmu](https://openalex.org/A5023748022), [Priyabrata Banerjee](https://openalex.org/A5014941782), ChemCatChem. None(None)] 2025.https://doi.org/10.1002/cctc.202500796.
-    
-Abstract Hydrogen stands at the forefront of next‐generation clean energy solutions. Specifically, electrochemical water splitting represents a cutting‐edge, environmentally benign approach for sustainable green hydrogen generation. The development of next‐generation highly efficient electrocatalysts with high efficiency and durability is pivotal to overcome the intrinsic kinetic limitations of both the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER). Contextually, metal–organic frameworks (MOFs), owing to their ultrahigh surface area, tuneable nanostructures, and exceptional porosity, have emerged as a versatile class of materials for designing advanced bifunctional electrocatalysts. Herein, a nickel‐metal complex ( NMC ) and a nickel‐metal–organic framework ( NMF ) was rationally synthesized. Electrochemical analyses revealed that the NMF exhibited superior bifunctional activity, with low overpotentials of 144 mV for HER and 347 mV for OER at the current density of 10 mA cm −2 in alkaline media. Remarkably, the NMF || NMF catalyst delivered a low overall water splitting cell voltage of 1.647 V at 10 mA cm −2 , along with outstanding long‐term stability. Comprehensive experimental and in silico insights confirm that NMF dramatically lowers the energy barrier for hydrogen adsorption. These findings highlight the NMF as a state‐of‐the‐art electrocatalyst, underscoring its potential to enable next‐generation, advanced water electrolysis techniques for green hydrogen production.    
-
-    
-
-## Pursuing spatiotemporal coordination in electrocatalysis   
-
-OpenAlex: https://openalex.org/W4412195668    
-Open access: False
-    
-[Yuanfu Ren](https://openalex.org/A5020343764), [Kuo‐Wei Huang](https://openalex.org/A5074334575), [Huabin Zhang](https://openalex.org/A5019144758), Nature Reviews Chemistry. None(None)] 2025.https://doi.org/10.1038/s41570-025-00741-3.
-    
-No abstract    
-
-    
-
-## Regulation of the d band center and geometric distortion via an axial nitrogen strategy of the Fe–N–C oxygen electrocatalyst for a Zn–air battery   
-
-OpenAlex: https://openalex.org/W4412199309    
-Open access: False
-    
-[Yao Lu](https://openalex.org/A5101624800), [Xiong Du](https://openalex.org/A5055871568), [Shudong Chen](https://openalex.org/A5033646900), [Hao Cheng](https://openalex.org/A5100406797), [Zheng Li](https://openalex.org/A5100415019), [Mengran Wang](https://openalex.org/A5101507630), [Zhongliang Tian](https://openalex.org/A5100707806), Journal of Materials Chemistry A. None(None)] 2025.https://doi.org/10.1039/d5ta03017j.
-    
-The bifunctional catalyst Fe–N 5 C, with an axial N atom, shows improved oxygen reduction/evolution catalytic performance. The catalyst enables the aqueous rechargeable Zn–air battery to achieve a 330 h long serving time with only 0.84 V voltage gap.    
-
-    
 
 ## Precise Design of D–A Type Metal Covalent Organic Framework for Regulating Intramolecular-Charge-Transfer toward H2O2 Photosynthesis   
 
@@ -655,17 +611,6 @@ No abstract
 
     
 
-## Carbon Capture from Natural Gas Flue Emissions and Air via (Bi)Carbonate Formation in a Cyclodextrin-Based Metal–Organic Framework   
-
-OpenAlex: https://openalex.org/W4412184735    
-Open access: False
-    
-[Seng Lim](https://openalex.org/A5070156352), [Mary E. Zick](https://openalex.org/A5006783787), [Jaehwan Kim](https://openalex.org/A5100447954), [Benjamin J. Rhodes](https://openalex.org/A5038747263), [Joharimanitra Randrianandraina](https://openalex.org/A5023568611), [Tristan A. Pitt](https://openalex.org/A5006613627), [R.T. Jerozal](https://openalex.org/A5077050793), [Jung‐Hoon Lee](https://openalex.org/A5100766459), [Alexander C. Forse](https://openalex.org/A5005354876), [Phillip J. Milner](https://openalex.org/A5002804366), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.5c07336.
-    
-Carbon capture and utilization or sequestration (CCUS) from industrial point sources and direct air capture (DAC) are both necessary to curb the rising atmospheric levels of CO2. Amine scrubbers, the current leading carbon capture technology, suffer from poor oxidative and thermal stability, limiting their long-term cycling stability under oxygen-rich streams such as air and the emissions from natural gas combined cycle (NGCC) power plants. Herein, we demonstrate that the hydroxide-based cyclodextrin metal-organic framework (CD-MOF) Rb2CO3 CD-MOF ST possesses high CO2 capacities from dry dilute streams at low temperatures and humid streams at elevated temperatures. Additionally, it displays good thermal, oxidative, and cycling stabilities and selective CO2 capture under mixed gas conditions in dynamic breakthrough experiments. Unexpectedly, under dry, hot conditions, a shift in the CO2 adsorption mechanism─from reversibly formed bicarbonate to irreversibly formed carbonate─is observed, as supported by gas sorption and spectroscopic studies coupled with density functional theory (DFT) calculations. This mechanistic switch, akin to urea formation in amine-functionalized sorbents, has not been previously reported in a hydroxide-based material and sheds new light on the interplay between bicarbonate and carbonate species during CO2 capture. Our findings provide valuable insight for the design of next-generation materials containing oxygen-based nucleophiles for carbon capture applications.    
-
-    
-
 ## Modulating surface properties of catalysts to promote the oxidation of multi-component VOCs   
 
 OpenAlex: https://openalex.org/W4412467963    
@@ -674,17 +619,6 @@ Open access: False
 [Min Zhang](https://openalex.org/A5083064421), [Liangyu Liu](https://openalex.org/A5039516569), [Ling Ding](https://openalex.org/A5101844480), [Ningjie Fang](https://openalex.org/A5046533427), [Yinghao Chu](https://openalex.org/A5100689710), Journal of environmental chemical engineering. None(None)] 2025.https://doi.org/10.1016/j.jece.2025.118118.
     
 No abstract    
-
-    
-
-## Antisymmetry rules of response properties in certain chemical spaces   
-
-OpenAlex: https://openalex.org/W4412192731    
-Open access: False
-    
-[Takafumi Shiraogawa](https://openalex.org/A5054884103), [Simon León Krug](https://openalex.org/A5042507611), [Masahiro Ehara](https://openalex.org/A5017816540), [O. Anatole von Lilienfeld](https://openalex.org/A5088793872), The Journal of Chemical Physics. 163(2)] 2025.https://doi.org/10.1063/5.0271350.
-    
-Understanding chemical compound space (CCS), a set of molecules and materials, is crucial for the rational discovery of molecules and materials. Concepts of symmetry have recently been introduced into CCS to account for near degeneracies and differences in electronic energies between iso-electronic materials. In this work, we present approximate relationships of response properties based on a first-principles view of CCS. They have been derived from perturbation theory and antisymmetry considerations involving nuclear charges. These rules allow approximate predictions of relative response properties of pairs of distinct compounds with opposite nuclear charge variations from a highly symmetric reference material, without the need for experiments or quantum chemical calculations of each compound. We numerically and statistically verified these rules for electric and magnetic response properties (electric dipole moment, polarizabilities, hyperpolarizabilities, and magnetizabilities) among charge-neutral and iso-electronic boron nitride-doped polycyclic aromatic hydrocarbon derivatives of naphthalene, anthracene, and pyrene. Our analysis indicates that, despite their simplicity, antisymmetry rule-based predictions are remarkably accurate, enabling dimensionality reduction of CCS. The rules predict the electric response properties more accurately than the magnetizabilities. The electric response properties in alchemical perturbation density functional theory were investigated to clarify the origin of this predictive power.    
 
     
 

@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 18 Jul 2025 01:52:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 01:47:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Strain-Engineered Rh Single Atoms on Curved WS&lt;sub&gt;2&lt;/sub&gt; for Hydrogen Production and Coupled Photochemical Water Splitting</title>
-      <link>https://doi.org/10.1021/jacs.5c04928</link>
-      <description>Ting Gao, Jie Gu, Chuanguang Yang, Rui Wang, Chan Wang, Pengfei Zhang, Jiatong Li, Xiaoyan Zheng, Yujie Fan, Puheng Yang, Xiufu Hua, Junfeng Hui, Huigang Zhang, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4412172437
-
-                Hydrogen is a promising clean energy carrier, yet the high energy demand of water electrolysis limits its widespread adoption. Catalysis is crucial to enhance the efficiency of hydrogen production and lower energy costs. However, conventional catalyst design guided by the d-band theory faces inconsistencies in predicting adsorption behavior, and the oxygen evolution reaction (OER) remains a major efficiency bottleneck. To address these challenges, we developed a strain-engineered Rh single-atom catalyst anchored on curved WS2 supported by carbon nanotubes (RhSA/WS2@CNT) to modulate the electronic structure. The resultant catalyst achieves an ultralow overpotential of 17.4 mV at 10 mA cm-2 for the hydrogen evolution reaction (HER) and a mass activity &#8764;65 times higher than that of commercial Pt/C. Mechanistic analysis reveals that the H* adsorption trend contradicts d-band theory predictions but is explained by orbital symmetry adaptation, where the strain-modulated dxz orbital plays a major role in governing adsorption energetics. Beyond catalyst design, the HER catalyst was coupled with a photocatalytic iodide oxidation reaction (IOR) to replace the OER and reduce the water-splitting voltage to 0.7 V. This study not only introduces a strain-engineering strategy to optimize single-atom catalysts but also demonstrates a coupled electro-photo system that enhances energy efficiency, offering an alternative approach for sustainable hydrogen production.</description>
-      <author>Ting Gao, Jie Gu, Chuanguang Yang, Rui Wang, Chan Wang, Pengfei Zhang, Jiatong Li, Xiaoyan Zheng, Yujie Fan, Puheng Yang, Xiufu Hua, Junfeng Hui, Huigang Zhang</author>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c04928</guid>
-    </item>
-    <item>
-      <title>Deciphering the Electrocatalytic Potential of Ni&#8208;Metal&#8211;Organic Framework: A Synergistic Approach to Electrocatalysis and Theoretical Analysis</title>
-      <link>https://doi.org/10.1002/cctc.202500796</link>
-      <description>Debojyoti Kundu, Sanjukta Zamindar, Sandip Kumar Tudu, Swarup Kumar Maji, Abhijit Hazra, Pravat Ghorai, S.K. Samanta, Naresh Chandra Murmu, Priyabrata Banerjee, ChemCatChem. None(None)] 2025. https://openalex.org/W4412172680
-
-                Abstract Hydrogen stands at the forefront of next&#8208;generation clean energy solutions. Specifically, electrochemical water splitting represents a cutting&#8208;edge, environmentally benign approach for sustainable green hydrogen generation. The development of next&#8208;generation highly efficient electrocatalysts with high efficiency and durability is pivotal to overcome the intrinsic kinetic limitations of both the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER). Contextually, metal&#8211;organic frameworks (MOFs), owing to their ultrahigh surface area, tuneable nanostructures, and exceptional porosity, have emerged as a versatile class of materials for designing advanced bifunctional electrocatalysts. Herein, a nickel&#8208;metal complex ( NMC ) and a nickel&#8208;metal&#8211;organic framework ( NMF ) was rationally synthesized. Electrochemical analyses revealed that the NMF exhibited superior bifunctional activity, with low overpotentials of 144 mV for HER and 347 mV for OER at the current density of 10 mA cm &#8722;2 in alkaline media. Remarkably, the NMF || NMF catalyst delivered a low overall water splitting cell voltage of 1.647 V at 10 mA cm &#8722;2 , along with outstanding long&#8208;term stability. Comprehensive experimental and in silico insights confirm that NMF dramatically lowers the energy barrier for hydrogen adsorption. These findings highlight the NMF as a state&#8208;of&#8208;the&#8208;art electrocatalyst, underscoring its potential to enable next&#8208;generation, advanced water electrolysis techniques for green hydrogen production.</description>
-      <author>Debojyoti Kundu, Sanjukta Zamindar, Sandip Kumar Tudu, Swarup Kumar Maji, Abhijit Hazra, Pravat Ghorai, S.K. Samanta, Naresh Chandra Murmu, Priyabrata Banerjee</author>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202500796</guid>
-    </item>
-    <item>
-      <title>Pursuing spatiotemporal coordination in electrocatalysis</title>
-      <link>https://doi.org/10.1038/s41570-025-00741-3</link>
-      <description>Yuanfu Ren, Kuo&#8208;Wei Huang, Huabin Zhang, Nature Reviews Chemistry. None(None)] 2025. https://openalex.org/W4412195668
-
-                No abstract</description>
-      <author>Yuanfu Ren, Kuo&#8208;Wei Huang, Huabin Zhang</author>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41570-025-00741-3</guid>
-    </item>
-    <item>
-      <title>Regulation of the d band center and geometric distortion &lt;i&gt;via&lt;/i&gt; an axial nitrogen strategy of the Fe&#8211;N&#8211;C oxygen electrocatalyst for a Zn&#8211;air battery</title>
-      <link>https://doi.org/10.1039/d5ta03017j</link>
-      <description>Yao Lu, Xiong Du, Shudong Chen, Hao Cheng, Zheng Li, Mengran Wang, Zhongliang Tian, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4412199309
-
-                The bifunctional catalyst Fe&#8211;N 5 C, with an axial N atom, shows improved oxygen reduction/evolution catalytic performance. The catalyst enables the aqueous rechargeable Zn&#8211;air battery to achieve a 330 h long serving time with only 0.84 V voltage gap.</description>
-      <author>Yao Lu, Xiong Du, Shudong Chen, Hao Cheng, Zheng Li, Mengran Wang, Zhongliang Tian</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5ta03017j</guid>
-    </item>
     <item>
       <title>Precise Design of D&#8211;A Type Metal Covalent Organic Framework for Regulating Intramolecular-Charge-Transfer toward H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Photosynthesis</title>
       <link>https://doi.org/10.1021/acs.inorgchem.5c01416</link>
@@ -588,16 +548,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c04236</guid>
     </item>
     <item>
-      <title>Carbon Capture from Natural Gas Flue Emissions and Air via (Bi)Carbonate Formation in a Cyclodextrin-Based Metal&#8211;Organic Framework</title>
-      <link>https://doi.org/10.1021/jacs.5c07336</link>
-      <description>Seng Lim, Mary E. Zick, Jaehwan Kim, Benjamin J. Rhodes, Joharimanitra Randrianandraina, Tristan A. Pitt, R.T. Jerozal, Jung&#8208;Hoon Lee, Alexander C. Forse, Phillip J. Milner, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4412184735
-
-                Carbon capture and utilization or sequestration (CCUS) from industrial point sources and direct air capture (DAC) are both necessary to curb the rising atmospheric levels of CO2. Amine scrubbers, the current leading carbon capture technology, suffer from poor oxidative and thermal stability, limiting their long-term cycling stability under oxygen-rich streams such as air and the emissions from natural gas combined cycle (NGCC) power plants. Herein, we demonstrate that the hydroxide-based cyclodextrin metal-organic framework (CD-MOF) Rb2CO3 CD-MOF ST possesses high CO2 capacities from dry dilute streams at low temperatures and humid streams at elevated temperatures. Additionally, it displays good thermal, oxidative, and cycling stabilities and selective CO2 capture under mixed gas conditions in dynamic breakthrough experiments. Unexpectedly, under dry, hot conditions, a shift in the CO2 adsorption mechanism&#9472;from reversibly formed bicarbonate to irreversibly formed carbonate&#9472;is observed, as supported by gas sorption and spectroscopic studies coupled with density functional theory (DFT) calculations. This mechanistic switch, akin to urea formation in amine-functionalized sorbents, has not been previously reported in a hydroxide-based material and sheds new light on the interplay between bicarbonate and carbonate species during CO2 capture. Our findings provide valuable insight for the design of next-generation materials containing oxygen-based nucleophiles for carbon capture applications.</description>
-      <author>Seng Lim, Mary E. Zick, Jaehwan Kim, Benjamin J. Rhodes, Joharimanitra Randrianandraina, Tristan A. Pitt, R.T. Jerozal, Jung&#8208;Hoon Lee, Alexander C. Forse, Phillip J. Milner</author>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c07336</guid>
-    </item>
-    <item>
       <title>Modulating surface properties of catalysts to promote the oxidation of multi-component VOCs</title>
       <link>https://doi.org/10.1016/j.jece.2025.118118</link>
       <description>Min Zhang, Liangyu Liu, Ling Ding, Ningjie Fang, Yinghao Chu, Journal of environmental chemical engineering. None(None)] 2025. https://openalex.org/W4412467963
@@ -606,16 +556,6 @@
       <author>Min Zhang, Liangyu Liu, Ling Ding, Ningjie Fang, Yinghao Chu</author>
       <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2025.118118</guid>
-    </item>
-    <item>
-      <title>Antisymmetry rules of response properties in certain chemical spaces</title>
-      <link>https://doi.org/10.1063/5.0271350</link>
-      <description>Takafumi Shiraogawa, Simon Le&#243;n Krug, Masahiro Ehara, O. Anatole von Lilienfeld, The Journal of Chemical Physics. 163(2)] 2025. https://openalex.org/W4412192731
-
-                Understanding chemical compound space (CCS), a set of molecules and materials, is crucial for the rational discovery of molecules and materials. Concepts of symmetry have recently been introduced into CCS to account for near degeneracies and differences in electronic energies between iso-electronic materials. In this work, we present approximate relationships of response properties based on a first-principles view of CCS. They have been derived from perturbation theory and antisymmetry considerations involving nuclear charges. These rules allow approximate predictions of relative response properties of pairs of distinct compounds with opposite nuclear charge variations from a highly symmetric reference material, without the need for experiments or quantum chemical calculations of each compound. We numerically and statistically verified these rules for electric and magnetic response properties (electric dipole moment, polarizabilities, hyperpolarizabilities, and magnetizabilities) among charge-neutral and iso-electronic boron nitride-doped polycyclic aromatic hydrocarbon derivatives of naphthalene, anthracene, and pyrene. Our analysis indicates that, despite their simplicity, antisymmetry rule-based predictions are remarkably accurate, enabling dimensionality reduction of CCS. The rules predict the electric response properties more accurately than the magnetizabilities. The electric response properties in alchemical perturbation density functional theory were investigated to clarify the origin of this predictive power.</description>
-      <author>Takafumi Shiraogawa, Simon Le&#243;n Krug, Masahiro Ehara, O. Anatole von Lilienfeld</author>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0271350</guid>
     </item>
     <item>
       <title>Flow-driven data intensification to accelerate autonomous inorganic materials discovery</title>

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 18 Jul 2025 01:52:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 01:47:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Optimal Operation of Gas Transport Pipelines with Detailed MILP and NLP Models</title>
-      <link>https://doi.org/10.1021/acs.iecr.5c01043</link>
-      <description>Lavinia Marina Paola Ghilardi, Sakshi Naik, Lorenz T. Biegler, Francesco Casella, Roberto Palazzo, Emanuele Martelli, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4412195925
-
-                No abstract</description>
-      <author>Lavinia Marina Paola Ghilardi, Sakshi Naik, Lorenz T. Biegler, Francesco Casella, Roberto Palazzo, Emanuele Martelli</author>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.5c01043</guid>
-    </item>
     <item>
       <title>Complex Wave Packet Dynamics Induced by Marangoni Stresses</title>
       <link>https://doi.org/10.1021/acs.iecr.5c02378</link>
@@ -26,16 +16,6 @@
       <author>Ruizhi Shi, Vignesh Thammanna Gurumurthy, Robert D. Tilton, Stephen Garoff</author>
       <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.5c02378</guid>
-    </item>
-    <item>
-      <title>Relating CCN activity and oxidation level of a-pinene secondary organic aerosol</title>
-      <link>https://openalex.org/W4412270910</link>
-      <description>Mia Frosch, Merete Bilde, P. F. DeCarlo, Z. Jur&#225;nyi, T. Tritscher, J. Dommen, Neil M. Donahue, M. Gysel, E. Weingartner, Urs Baltensperger, Research Portal Denmark. 116(None)] 2011. https://openalex.org/W4412270910
-
-                No abstract</description>
-      <author>Mia Frosch, Merete Bilde, P. F. DeCarlo, Z. Jur&#225;nyi, T. Tritscher, J. Dommen, Neil M. Donahue, M. Gysel, E. Weingartner, Urs Baltensperger</author>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4412270910</guid>
     </item>
   </channel>
 </rss>
