@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 19 Jul 2025 01:47:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 01:59:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Complex Wave Packet Dynamics Induced by Marangoni Stresses</title>
-      <link>https://doi.org/10.1021/acs.iecr.5c02378</link>
-      <description>Ruizhi Shi, Vignesh Thammanna Gurumurthy, Robert D. Tilton, Stephen Garoff, Industrial &amp; Engineering Chemistry Research. None(None)] 2025. https://openalex.org/W4412352520
-
-                No abstract</description>
-      <author>Ruizhi Shi, Vignesh Thammanna Gurumurthy, Robert D. Tilton, Stephen Garoff</author>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.5c02378</guid>
-    </item>
   </channel>
 </rss>

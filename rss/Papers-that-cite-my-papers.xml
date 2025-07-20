@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 19 Jul 2025 01:47:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 01:59:37 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Precise Design of D&#8211;A Type Metal Covalent Organic Framework for Regulating Intramolecular-Charge-Transfer toward H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Photosynthesis</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.5c01416</link>
-      <description>Bin Liu, Haiyan Cheng, Yu Xia, Lei Wang, Ning An, Jingwei Huang, Houde She, Qizhao Wang, Inorganic Chemistry. None(None)] 2025. https://openalex.org/W4412349380
-
-                For most organic structures, the donor-acceptor (D-A) effect can effectively regulate the separation efficiency of photogenerated carriers, thereby enhancing the photocatalytic performance. However, the internal correlation between the structure and charge transportation, especially at the molecular level, is insufficiently explored. Herein, Cu3(PyCA)3 (PyCA = pyrazolate-4-carboxaldehyde), tris(4-aminophenyl) amine, and [2,2'-bipyridine]-5,5'-diamine were employed to prepare two metal-covalent organic frameworks (MCOFs), namely, Tap-MCOF and Bpy-MCOF, both of which are D-A-type structure. In accordance, Tap-MCOF exhibits improved conversion of H2O and O2 to H2O2 in the absence of sacrificial agent, achieving the H2O2 production rate of 288.58 &#956;mol g-1 h-1, which is approximately 2.7-fold higher than that of Bpy-MCOF. It is considered due to the intensified D-A effect within Tap-MCOF, it presents a narrower band gaps and greater separation of photoinduced carriers, compared with that of Bpy-MCOF. The transient photocurrent response intensity of Tap-MCOF is significantly higher than that of Bpy-MCOF, indicating its superior charge separation and transport efficiency. These results not only provide a strategy for manipulating the carrier separation efficiency of photocatalysts at the molecular level but also furnish insights into the effective photocatalytic ORR and WOR transformations of organic semiconducting catalysts.</description>
-      <author>Bin Liu, Haiyan Cheng, Yu Xia, Lei Wang, Ning An, Jingwei Huang, Houde She, Qizhao Wang</author>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.5c01416</guid>
-    </item>
-    <item>
-      <title>Catalyst for Anodic Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/9781394247653.ch10</link>
-      <description>Soner &#199;akar, Mahmut &#214;zacar, No host. None(None)] 2025. https://openalex.org/W4412350527
-
-                No abstract</description>
-      <author>Soner &#199;akar, Mahmut &#214;zacar</author>
-      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/9781394247653.ch10</guid>
-    </item>
-    <item>
-      <title>Perovskite Electrocatalyst for Water Splitting</title>
-      <link>https://doi.org/10.1002/9781394247653.ch3</link>
-      <description>Nawishta Jabeen, Imtiaz Ahmad Khan, Adeela Naz, Ahmad Hussain, No host. None(None)] 2025. https://openalex.org/W4412350534
-
-                No abstract</description>
-      <author>Nawishta Jabeen, Imtiaz Ahmad Khan, Adeela Naz, Ahmad Hussain</author>
-      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/9781394247653.ch3</guid>
-    </item>
-    <item>
-      <title>Hydrogen Utilization</title>
-      <link>https://doi.org/10.1002/9781394247653.ch9</link>
-      <description>Srijita Basumallick, No host. None(None)] 2025. https://openalex.org/W4412350606
-
-                No abstract</description>
-      <author>Srijita Basumallick</author>
-      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/9781394247653.ch9</guid>
-    </item>
-    <item>
-      <title>Thermodynamics of Electrochemical Water Splitting</title>
-      <link>https://doi.org/10.1002/9781394247653.ch1</link>
-      <description>Manash P. Nath, Manju Kumari Jaiswal, Suvankar Deka, Biswajit Choudhury, No host. None(None)] 2025. https://openalex.org/W4412350697
-
-                No abstract</description>
-      <author>Manash P. Nath, Manju Kumari Jaiswal, Suvankar Deka, Biswajit Choudhury</author>
-      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/9781394247653.ch1</guid>
-    </item>
-    <item>
-      <title>Advances in Electrocatalyst Design for Hydrogen Production by Water Electrolysis</title>
-      <link>https://doi.org/10.1007/978-3-031-88550-1_7</link>
-      <description>Sachin Kumar, Yang Yang, Green energy and technology. None(None)] 2025. https://openalex.org/W4412354569
-
-                No abstract</description>
-      <author>Sachin Kumar, Yang Yang</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-88550-1_7</guid>
-    </item>
-    <item>
-      <title>Efficient and Accurate Machine Learning Interatomic Potential for Graphene: Capturing Stress&#8211;Strain and Vibrational Properties</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c03470</link>
-      <description>Felipe Hawthorne, Paulo R. E. Raulino, Ronaldo Rodrigues Pel&#225;, Cristiano F. Woellner, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4412364943
-
-                No abstract</description>
-      <author>Felipe Hawthorne, Paulo R. E. Raulino, Ronaldo Rodrigues Pel&#225;, Cristiano F. Woellner</author>
-      <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c03470</guid>
-    </item>
-    <item>
-      <title>Selective Catalytic Conversion of Nitrite to Ammonium by an Oxygen-Tolerant Molecular Cobalt Complex</title>
-      <link>https://doi.org/10.1021/acscatal.5c03677</link>
-      <description>Rajaneesh Kumar Verma, Ankita Kumari, Arpan Bera, Avijit Das, Durgesh Pandey, Dibyajyoti Ghosh, Sayantan Paria, ACS Catalysis. None(None)] 2025. https://openalex.org/W4412365026
-
-                No abstract</description>
-      <author>Rajaneesh Kumar Verma, Ankita Kumari, Arpan Bera, Avijit Das, Durgesh Pandey, Dibyajyoti Ghosh, Sayantan Paria</author>
-      <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c03677</guid>
-    </item>
     <item>
       <title>Improved ORR Performance of Precious Metal&#8208;Free Fe Single&#8208;Atom Catalysts by Heteroatom Doping</title>
       <link>https://doi.org/10.1002/admi.202500253</link>
@@ -258,6 +178,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c02057</guid>
     </item>
     <item>
+      <title>Suppressing Iridium Over-Oxidation Via Catalyst&#8211;Support Interactions on Tungsten Oxide Nanowires Revealed by In-Situ Xps for Durable, Low-Loaded Pem Water Electrolysis</title>
+      <link>https://doi.org/10.2139/ssrn.5352647</link>
+      <description>Lu&#8208;Yu Chueh, Yu&#8208;Chien Chien, Yu-Wei Hsu, Zun-Wei Wang, Ding&#8208;Huei Tsai, Chang-Ming Wu, Shao&#8208;Chu Huang, Hsiang-Jung Chen, Han&#8208;Yi Chen, Meng&#8208;Hsuan Tsai, Chia&#8208;Hsin Wang, Chueh&#8208;Cheng Yang, Yung&#8208;Tin Pan, No host. None(None)] 2025. https://openalex.org/W4412427364
+
+                No abstract</description>
+      <author>Lu&#8208;Yu Chueh, Yu&#8208;Chien Chien, Yu-Wei Hsu, Zun-Wei Wang, Ding&#8208;Huei Tsai, Chang-Ming Wu, Shao&#8208;Chu Huang, Hsiang-Jung Chen, Han&#8208;Yi Chen, Meng&#8208;Hsuan Tsai, Chia&#8208;Hsin Wang, Chueh&#8208;Cheng Yang, Yung&#8208;Tin Pan</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5352647</guid>
+    </item>
+    <item>
       <title>Multiscale modeling and optimization of proton exchange membrane electrolysis cells: a review</title>
       <link>https://doi.org/10.1016/j.apenergy.2025.126451</link>
       <description>Dongqi Zhao, Jisen Li, Ze Zhou, Liyan Zhang, Zheng Li, Qihong Chen, Xi Li, Applied Energy. 398(None)] 2025. https://openalex.org/W4412427726
@@ -280,11 +210,11 @@
     <item>
       <title>Thermodynamic and microkinetic insights into potential-dependent competition between CO2 reduction and HER on Mo2CTx MXene</title>
       <link>https://doi.org/10.1016/j.cej.2025.165927</link>
-      <description>Caihong Liang, Zhonghan Zhang, Zheng Liu, Liang Wang, Yeng Ming Lam, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4412433324
+      <description>Caihong Liang, Zhonghan Zhang, Zheng Liu, Liang Wang, Yeng Ming Lam, Chemical Engineering Journal. 520(None)] 2025. https://openalex.org/W4412433324
 
                 No abstract</description>
       <author>Caihong Liang, Zhonghan Zhang, Zheng Liu, Liang Wang, Yeng Ming Lam</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.165927</guid>
     </item>
     <item>
