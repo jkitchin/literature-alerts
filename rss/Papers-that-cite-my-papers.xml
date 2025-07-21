@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 20 Jul 2025 01:59:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 01:56:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Improved ORR Performance of Precious Metal&#8208;Free Fe Single&#8208;Atom Catalysts by Heteroatom Doping</title>
-      <link>https://doi.org/10.1002/admi.202500253</link>
-      <description>Zaifa Pan, Yiming Zhu, Yihong Liu, Wei&#8208;Hsiang Huang, Yujie Cui, Yang Zhao, Menghao Yang, Hongfei Cheng, Nicol&#225;s Alonso&#8208;Vante, Jiwei Ma, Advanced Materials Interfaces. None(None)] 2025. https://openalex.org/W4412372629
-
-                Abstract The development of platinum group metal (PGM)&#8208;free catalysts is essential to advance the wide application of fuel cells. Single&#8208;atom Fe&#9472;N&#9472;C catalysts are one type of promising PGM&#8208;free catalysts that can replace the expensive Pt/C catalyst for the electrocatalytic oxygen reduction reaction. However, Fe&#9472;N&#9472;C catalysts still suffer from poor stability due to the inevitable Fenton reaction. In this work, a doping strategy is demonstrated to alter the electronic structure around the catalytic sites and significantly improve their catalytic activity. In particular, the phosphorous&#8208;doped Fe&#9472;N&#9472;C catalyst (P&#9472;Fe&#9472;N&#9472;C) achieves a half&#8208;wave potential of 0.885 V versus RHE in 0.1 m KOH and demonstrates excellent stability, with only a 7 mV decay in the half&#8208;wave potential after 10 000 cyclic voltammetry cycles, superior to that of boron&#8208;doped one (B&#9472;Fe&#9472;N&#9472;C). Density functional theory (DFT) calculations further confirm that heteroatom doping favors the ORR process, highlighting the potential of this catalyst for advanced energy applications.</description>
-      <author>Zaifa Pan, Yiming Zhu, Yihong Liu, Wei&#8208;Hsiang Huang, Yujie Cui, Yang Zhao, Menghao Yang, Hongfei Cheng, Nicol&#225;s Alonso&#8208;Vante, Jiwei Ma</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/admi.202500253</guid>
-    </item>
-    <item>
-      <title>Plasma&#8208;Assisted Nitridation Modulates the Electronic Structure of the NiSe&lt;sub&gt;2&lt;/sub&gt;/Ni@Ni&lt;sub&gt;3&lt;/sub&gt;N Ternary Heterojunction Enhancing Its Dual&#8208;Function Catalytic Performance and Inhibiting Zn Dendrite Growth in Rechargeable Zinc&#8208;Air Batteries</title>
-      <link>https://doi.org/10.1002/adfm.202511117</link>
-      <description>Zejun Xu, Jialong Wu, Weiheng Chen, Zhongqing Jiang, Jun Cao, Guangliang Chen, Zhong&#8208;Jie Jiang, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4412372658
-
-                Abstract In this work, a novel synthetic strategy to construct a structurally advanced bifunctional electrocatalyst via Ar/NH 3 radio&#8208;frequency plasma&#8208;assisted nitridation and subsequent high&#8208;temperature selenization is proposed. The resulting self&#8208;supporting electrode, denoted as p&#8208;NiSe 2 /Ni@Ni 3 N/NCNT@CC, consists of selenium&#8208;vacancy&#8208;rich NiSe 2 /Ni@Ni 3 N nanoparticles (NPs) uniformly anchored on nitrogen&#8208;doped carbon nanotubes (NCNTs) in situ grown on carbon&#8208;cloth (CC). The formation of this ternary heterostructure is governed by interactions between plasma&#8208;generated reactive species (NH*, NH 2 *, Ar*) and Ni NPs. It demonstrates outstanding bifunctional performance and stability in 0.1 m KOH, featuring a half&#8208;wave potential for oxygen&#8208;reduction reaction (ORR) of 0.80 V, an overpotential of 311 mV for oxygen&#8208;evolution reaction (OER) at 30 mA cm&#8315; 2 , and a minimal &#916;E of 0.74 V, surpassing commercial Pt/C+RuO 2 . Liquid zinc&#8211;air batteries (L&#8208;ZABs) using this catalyst as the air cathode deliver a high peak power&#8208;density of 137.94 mW cm&#8315; 2 and stable cycling over 1 000 cycles, with minimal voltage polarization. More impressively, it serves as a competitive self&#8208;supporting electrode in flexible all&#8208;solid&#8208;state ZABs (ASS&#8208;ZABs), achieving 1.49 V open&#8208;circuit voltage (OCV), 106.8 mW cm&#8315; 2 peak power&#8208;density, and excellent cycling and low&#8208;temperature performance. DFT calculations confirm that the enhanced activity and durability stem from the synergistic effects of heterostructure engineering, selenium vacancy modulation, and conductive carbon integration.</description>
-      <author>Zejun Xu, Jialong Wu, Weiheng Chen, Zhongqing Jiang, Jun Cao, Guangliang Chen, Zhong&#8208;Jie Jiang</author>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202511117</guid>
-    </item>
     <item>
       <title>Core&#8211;Shell IrPt Nanoalloy on La/Ni&#8211;Co3O4 for High-Performance Bifunctional PEM Electrolysis with Ultralow Noble Metal Loading</title>
       <link>https://doi.org/10.1007/s40820-025-01845-7</link>
@@ -476,6 +456,26 @@
       <author>Zhen Tan, Xinyu Li, Rui Bai, Chang Guo, Xiao Han, Qinfeng Shi, Jian Zhang, Haobo Li</author>
       <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c04236</guid>
+    </item>
+    <item>
+      <title>Hollow p-n heterostructures with vacancy engineering to enhance Z-scheme photocatalytic CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.cej.2025.165595</link>
+      <description>Zhitao Zou, Yaxin Wang, Tianyi Zhang, Jing L&#252;, V. Z. Turkevich, Yueqin Yu, Jixiang Xu, Haifeng Lin, Yanyan Li, Lei Wang, Chemical Engineering Journal. 520(None)] 2025. https://openalex.org/W4412490038
+
+                No abstract</description>
+      <author>Zhitao Zou, Yaxin Wang, Tianyi Zhang, Jing L&#252;, V. Z. Turkevich, Yueqin Yu, Jixiang Xu, Haifeng Lin, Yanyan Li, Lei Wang</author>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.165595</guid>
+    </item>
+    <item>
+      <title>Modulation the coordination of Fe-Co diatomic sites with boron atom for fuel cells and Zn-Air battery</title>
+      <link>https://doi.org/10.1016/j.apcatb.2025.125679</link>
+      <description>Dai Dang, Lin Zhang, Guifa Long, Chao Liu, Wenjun Fan, Jie Zheng, Tiejun Wang, Quanbing Liu, Xiaopeng Han, Applied Catalysis B Environment and Energy. 379(None)] 2025. https://openalex.org/W4412490061
+
+                No abstract</description>
+      <author>Dai Dang, Lin Zhang, Guifa Long, Chao Liu, Wenjun Fan, Jie Zheng, Tiejun Wang, Quanbing Liu, Xiaopeng Han</author>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125679</guid>
     </item>
     <item>
       <title>Modulating surface properties of catalysts to promote the oxidation of multi-component VOCs</title>
