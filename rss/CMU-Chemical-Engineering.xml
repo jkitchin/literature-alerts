@@ -4,8 +4,28 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Jul 2025 01:51:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 01:52:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Engineering an Electroactive Bacterial Cellulose-Carbon Nanotube Composite Membrane Against Staphylococcus aureus</title>
+      <link>https://doi.org/10.1016/j.bioflm.2025.100305</link>
+      <description>Daniel L. Levin, Camila S. Cu&#233;-Royo, Denis Johnson, Soumalya Gosh, Sricharani Rao Balmuri, Huda Usman, Shakira M. Martinez-Vasquez, David Kumar Yesudoss, Abdoulaye Djire, Mostafa Bedewy, Tagbo H. R. Niepa, Biofilm. None(None)] 2025. https://openalex.org/W4412494346
+
+                No abstract</description>
+      <author>Daniel L. Levin, Camila S. Cu&#233;-Royo, Denis Johnson, Soumalya Gosh, Sricharani Rao Balmuri, Huda Usman, Shakira M. Martinez-Vasquez, David Kumar Yesudoss, Abdoulaye Djire, Mostafa Bedewy, Tagbo H. R. Niepa</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.bioflm.2025.100305</guid>
+    </item>
+    <item>
+      <title>A diagonal volatility basis set to assess the condensation of organic vapors onto particles</title>
+      <link>https://doi.org/10.1039/d5ea00062a</link>
+      <description>Brandon Lopez, Nirvan Bhattacharyya, Jenna DeVivo, Mingyi Wang, Luc&#237;a Caudillo, Mihnea Surdu, Federico Bianchi, Zo&#233; Brasseur, Angela Buchholz, Dexian Chen, Jonathan Duplissy, Xu&#8208;Cheng He, Victoria Hofbauer, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Ruby Marten, Bernhard Mentler, Maxim Philippov, Meredith Schervish, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Imad El Haddad, Katrianne Lehtipalo, Markku Kulmala, Douglas R. Worsnop, J. Kirkby, Roy L. Mauldin, Dominik Stolzenburg, Siegfried Schobesberger, Richard C. Flagan, Neil M. Donahue, Environmental Science Atmospheres. None(None)] 2025. https://openalex.org/W4412539819
+
+                We present a &#8220;diagonal&#8221; Volatility Basis Set (dVBS) comparing gas-phase concentrations of oxygenated organic molecules (OOM) to their condensed-phase mass fractions. This permits closure of vapor concentrations with particle composition...</description>
+      <author>Brandon Lopez, Nirvan Bhattacharyya, Jenna DeVivo, Mingyi Wang, Luc&#237;a Caudillo, Mihnea Surdu, Federico Bianchi, Zo&#233; Brasseur, Angela Buchholz, Dexian Chen, Jonathan Duplissy, Xu&#8208;Cheng He, Victoria Hofbauer, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Ruby Marten, Bernhard Mentler, Maxim Philippov, Meredith Schervish, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Imad El Haddad, Katrianne Lehtipalo, Markku Kulmala, Douglas R. Worsnop, J. Kirkby, Roy L. Mauldin, Dominik Stolzenburg, Siegfried Schobesberger, Richard C. Flagan, Neil M. Donahue</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ea00062a</guid>
+    </item>
   </channel>
 </rss>
