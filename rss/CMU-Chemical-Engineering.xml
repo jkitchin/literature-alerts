@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Jul 2025 01:52:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 01:51:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,16 @@
       <author>Brandon Lopez, Nirvan Bhattacharyya, Jenna DeVivo, Mingyi Wang, Luc&#237;a Caudillo, Mihnea Surdu, Federico Bianchi, Zo&#233; Brasseur, Angela Buchholz, Dexian Chen, Jonathan Duplissy, Xu&#8208;Cheng He, Victoria Hofbauer, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Ruby Marten, Bernhard Mentler, Maxim Philippov, Meredith Schervish, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Imad El Haddad, Katrianne Lehtipalo, Markku Kulmala, Douglas R. Worsnop, J. Kirkby, Roy L. Mauldin, Dominik Stolzenburg, Siegfried Schobesberger, Richard C. Flagan, Neil M. Donahue</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d5ea00062a</guid>
+    </item>
+    <item>
+      <title>Author response for "A diagonal volatility basis set to assess the condensation of organic vapors onto particles"</title>
+      <link>https://doi.org/10.1039/d5ea00062a/v2/response1</link>
+      <description>Brandon Lopez, Nirvan Bhattacharyya, Jenna DeVivo, Mingyi Wang, Luc&#237;a Caudillo, Mihnea Surdu, Federico Bianchi, Zo&#233; Brasseur, Angela Buchholz, Dexian Chen, Jonathan Duplissy, Xu&#8208;Cheng He, Victoria Hofbauer, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Ruby Marten, Bernhard Mentler, Maxim Philippov, Meredith Schervish, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Imad El Haddad, Katrianne Lehtipalo, Markku Kulmala, Douglas R. Worsnop, J. Kirkby, Roy L. Mauldin, Dominik Stolzenburg, Siegfried Schobesberger, Richard C. Flagan, Neil M. Donahue, No host. None(None)] 2025. https://openalex.org/W4412565945
+
+                No abstract</description>
+      <author>Brandon Lopez, Nirvan Bhattacharyya, Jenna DeVivo, Mingyi Wang, Luc&#237;a Caudillo, Mihnea Surdu, Federico Bianchi, Zo&#233; Brasseur, Angela Buchholz, Dexian Chen, Jonathan Duplissy, Xu&#8208;Cheng He, Victoria Hofbauer, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Ruby Marten, Bernhard Mentler, Maxim Philippov, Meredith Schervish, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Imad El Haddad, Katrianne Lehtipalo, Markku Kulmala, Douglas R. Worsnop, J. Kirkby, Roy L. Mauldin, Dominik Stolzenburg, Siegfried Schobesberger, Richard C. Flagan, Neil M. Donahue</author>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ea00062a/v2/response1</guid>
     </item>
   </channel>
 </rss>
