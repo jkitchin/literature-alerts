@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 01:51:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 01:51:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -248,6 +248,36 @@
       <guid isPermaLink="true">https://doi.org/10.1063/5.0278850</guid>
     </item>
     <item>
+      <title>DFT study of transition metal clusters TMn (n: 1&#8211;6) for the hydrogen evolution reaction (HER)</title>
+      <link>https://doi.org/10.1016/j.cplett.2025.142299</link>
+      <description>Yuan Yuan, Yujia Xie, Dengyang Guo, Yang Lv, Na Li, Yirong Zhu, Chemical Physics Letters. None(None)] 2025. https://openalex.org/W4412585369
+
+                No abstract</description>
+      <author>Yuan Yuan, Yujia Xie, Dengyang Guo, Yang Lv, Na Li, Yirong Zhu</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2025.142299</guid>
+    </item>
+    <item>
+      <title>High throughput screening of transition metal anchored C9N10 electrocatalysts for oxygen reduction</title>
+      <link>https://doi.org/10.1016/j.diamond.2025.112673</link>
+      <description>Yuwen Xue, Keyuan Chen, Defa Hou, Fulin Yang, Yi Lu, Can Liu, Xu Lin, Hui Gao, Xiaohua Yu, Zhifeng Zheng, Hao Sun, Yunwu Zheng, Diamond and Related Materials. None(None)] 2025. https://openalex.org/W4412599809
+
+                No abstract</description>
+      <author>Yuwen Xue, Keyuan Chen, Defa Hou, Fulin Yang, Yi Lu, Can Liu, Xu Lin, Hui Gao, Xiaohua Yu, Zhifeng Zheng, Hao Sun, Yunwu Zheng</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2025.112673</guid>
+    </item>
+    <item>
+      <title>Substantial Magnetic Fields Arising from Ballistic Ring Currents in Single-Molecule Junctions</title>
+      <link>https://doi.org/10.1021/jacsau.5c00735</link>
+      <description>William Bro&#8208;J&#248;rgensen, Stephan P. A. Sauer, Gemma C. Solomon, Marc H. Garner, JACS Au. None(None)] 2025. https://openalex.org/W4412604296
+
+                No abstract</description>
+      <author>William Bro&#8208;J&#248;rgensen, Stephan P. A. Sauer, Gemma C. Solomon, Marc H. Garner</author>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacsau.5c00735</guid>
+    </item>
+    <item>
       <title>Developing machine learning for heterogeneous catalysis with experimental and computational data.</title>
       <link>https://doi.org/10.1038/s41570-025-00740-4</link>
       <description>Carlota Bozal&#8208;Ginesta, Sergio Pablo&#8208;Garc&#237;a, Changhyeok Choi, Albert Taranc&#243;n, Al&#225;n Aspuru-Guzik, PubMed. None(None)] 2025. https://openalex.org/W4412520561
@@ -266,6 +296,16 @@
       <author>Zifeng Li, Honglin Gao, Li Che, Aiyi Dong</author>
       <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/slct.202502680</guid>
+    </item>
+    <item>
+      <title>Spin State Differentiated [3Fe&#8211;4S] Cluster Electrocatalyzes Water Oxidation Efficiently</title>
+      <link>https://doi.org/10.1002/cssc.202500812</link>
+      <description>Rong Yan, Qian&#8208;Cheng Luo, Zi&#8208;Han Li, Nana Sun, Wei&#8208;Peng Chen, Yuan&#8208;Qi Zhai, H. Yin, Xiaotai Wang, Xin Tu, Yan&#8208;Zhen Zheng, ChemSusChem. None(None)] 2025. https://openalex.org/W4412602809
+
+                Though there are many synthetic iron&#8211;sulfur clusters that have been reported to show catalytic activity mimicking the natural cofactors in metalloenzymes, the influence of the spin state on the catalytic property is seldom touched. Here, a disulfide&#8208;bridged triiron(II) complex is shown, namely [Fe 3 (Sip) 4 ][CF 3 SO 3 ] 2 ( Fe 3 (Sip) 4 , HSip = sulfanylpropyliminomethyl&#8208;pyridine), can efficiently electrocatalyze water oxidation with a turnover frequency of 932 s &#8722;1 and Faraday efficiency of 86%, better than many iron&#8208;based catalysts. More importantly, the terminal low&#8208;spin ( S = 0) iron(II) sites possessing a N4S2 first coordination environment, along with the synergetic catalysis of ligands, play a crucial role in the catalytic process. This research highlights the unconventional applications of iron&#8211;sulfur clusters in electrocatalytic water oxidation and underlines a promising avenue for developing innovative catalysts.</description>
+      <author>Rong Yan, Qian&#8208;Cheng Luo, Zi&#8208;Han Li, Nana Sun, Wei&#8208;Peng Chen, Yuan&#8208;Qi Zhai, H. Yin, Xiaotai Wang, Xin Tu, Yan&#8208;Zhen Zheng</author>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202500812</guid>
     </item>
   </channel>
 </rss>

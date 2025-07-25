@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Jul 24 01:51:42 2025
+Created on Fri Jul 25 01:51:22 2025
 
-Found 26 results from 2025-07-17 to 2025-07-24
+Found 30 results from 2025-07-18 to 2025-07-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405)
@@ -281,6 +281,39 @@ Real-time pump–probe experiments are powerful tools for monitoring chemical re
 
     
 
+## DFT study of transition metal clusters TMn (n: 1–6) for the hydrogen evolution reaction (HER)   
+
+OpenAlex: https://openalex.org/W4412585369    
+Open access: False
+    
+[Yuan Yuan](https://openalex.org/A5100334757), [Yujia Xie](https://openalex.org/A5039611299), [Dengyang Guo](https://openalex.org/A5065139593), [Yang Lv](https://openalex.org/A5005324162), [Na Li](https://openalex.org/A5100367995), [Yirong Zhu](https://openalex.org/A5041864312), Chemical Physics Letters. None(None)] 2025.https://doi.org/10.1016/j.cplett.2025.142299.
+    
+No abstract    
+
+    
+
+## High throughput screening of transition metal anchored C9N10 electrocatalysts for oxygen reduction   
+
+OpenAlex: https://openalex.org/W4412599809    
+Open access: False
+    
+[Yuwen Xue](https://openalex.org/A5100549232), [Keyuan Chen](https://openalex.org/A5041916689), [Defa Hou](https://openalex.org/A5034304816), [Fulin Yang](https://openalex.org/A5042063495), [Yi Lu](https://openalex.org/A5034132713), [Can Liu](https://openalex.org/A5100447866), [Xu Lin](https://openalex.org/A5084913798), [Hui Gao](https://openalex.org/A5100623133), [Xiaohua Yu](https://openalex.org/A5101538393), [Zhifeng Zheng](https://openalex.org/A5080512995), [Hao Sun](https://openalex.org/A5101507157), [Yunwu Zheng](https://openalex.org/A5013988222), Diamond and Related Materials. None(None)] 2025.https://doi.org/10.1016/j.diamond.2025.112673.
+    
+No abstract    
+
+    
+
+## Substantial Magnetic Fields Arising from Ballistic Ring Currents in Single-Molecule Junctions   
+
+OpenAlex: https://openalex.org/W4412604296    
+Open access: True
+    
+[William Bro‐Jørgensen](https://openalex.org/A5055302168), [Stephan P. A. Sauer](https://openalex.org/A5086252340), [Gemma C. Solomon](https://openalex.org/A5018410685), [Marc H. Garner](https://openalex.org/A5069211255), JACS Au. None(None)] 2025.https://doi.org/10.1021/jacsau.5c00735.
+    
+No abstract    
+
+    
+
 ## Developing machine learning for heterogeneous catalysis with experimental and computational data.   
 
 OpenAlex: https://openalex.org/W4412520561    
@@ -300,5 +333,16 @@ Open access: False
 [Zifeng Li](https://openalex.org/A5023026687), [Honglin Gao](https://openalex.org/A5002338330), [Li Che](https://openalex.org/A5101533541), [Aiyi Dong](https://openalex.org/A5005400426), ChemistrySelect. 10(28)] 2025.https://doi.org/10.1002/slct.202502680.
     
 Abstract Layered double hydroxides (LDH) catalysts are widely used in oxygen evolution reaction (OER), but are limited by their low conductivity, few active sites, and poor stability. For this reason, various modification strategies have emerged. In this review, the mechanistic explanation direction of the OER performance enhancement of modified LDH was elaborated from a mechanistic point of view, which mainly includes the heterostructure‐dominated synergistic effect, doping‐induced lattice distortion and multi‐element electronic interaction. The substantial improvements in OER performance achieved through LDH modification can be considered by focusing on the above three mechanisms. Subsequently, a detailed exploration of the existing shortcomings in the explanation of LDH modification mechanisms for OER was conducted. By addressing these gaps, we aim to offer more effective guidance for the rational design and broad application of LDH‐based catalysts in OER processes in the future.    
+
+    
+
+## Spin State Differentiated [3Fe–4S] Cluster Electrocatalyzes Water Oxidation Efficiently   
+
+OpenAlex: https://openalex.org/W4412602809    
+Open access: False
+    
+[Rong Yan](https://openalex.org/A5012172630), [Qian‐Cheng Luo](https://openalex.org/A5056520904), [Zi‐Han Li](https://openalex.org/A5046785243), [Nana Sun](https://openalex.org/A5101469568), [Wei‐Peng Chen](https://openalex.org/A5110714070), [Yuan‐Qi Zhai](https://openalex.org/A5110921377), [H. Yin](https://openalex.org/A5107860068), [Xiaotai Wang](https://openalex.org/A5044865335), [Xin Tu](https://openalex.org/A5029654757), [Yan‐Zhen Zheng](https://openalex.org/A5015325903), ChemSusChem. None(None)] 2025.https://doi.org/10.1002/cssc.202500812.
+    
+Though there are many synthetic iron–sulfur clusters that have been reported to show catalytic activity mimicking the natural cofactors in metalloenzymes, the influence of the spin state on the catalytic property is seldom touched. Here, a disulfide‐bridged triiron(II) complex is shown, namely [Fe 3 (Sip) 4 ][CF 3 SO 3 ] 2 ( Fe 3 (Sip) 4 , HSip = sulfanylpropyliminomethyl‐pyridine), can efficiently electrocatalyze water oxidation with a turnover frequency of 932 s −1 and Faraday efficiency of 86%, better than many iron‐based catalysts. More importantly, the terminal low‐spin ( S = 0) iron(II) sites possessing a N4S2 first coordination environment, along with the synergetic catalysis of ligands, play a crucial role in the catalytic process. This research highlights the unconventional applications of iron–sulfur clusters in electrocatalytic water oxidation and underlines a promising avenue for developing innovative catalysts.    
 
     

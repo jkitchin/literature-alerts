@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 01:51:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 01:51:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -36,6 +36,16 @@
       <author>Brandon Lopez, Nirvan Bhattacharyya, Jenna DeVivo, Mingyi Wang, Luc&#237;a Caudillo, Mihnea Surdu, Federico Bianchi, Zo&#233; Brasseur, Angela Buchholz, Dexian Chen, Jonathan Duplissy, Xu&#8208;Cheng He, Victoria Hofbauer, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Ruby Marten, Bernhard Mentler, Maxim Philippov, Meredith Schervish, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Imad El Haddad, Katrianne Lehtipalo, Markku Kulmala, Douglas R. Worsnop, J. Kirkby, Roy L. Mauldin, Dominik Stolzenburg, Siegfried Schobesberger, Richard C. Flagan, Neil M. Donahue</author>
       <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d5ea00062a/v2/response1</guid>
+    </item>
+    <item>
+      <title>Optimizing forest planning: Balancing timber production and carbon sequestration through a multi-objective disjunctive formulation</title>
+      <link>https://doi.org/10.1016/j.forpol.2025.103575</link>
+      <description>Frank Piedra-Jim&#233;nez, Diego Broz, Juan M. Novas, Ignacio E. Grossmann, Mar&#237;a Anal&#237;a Rodriguez, Forest Policy and Economics. 178(None)] 2025. https://openalex.org/W4412589428
+
+                No abstract</description>
+      <author>Frank Piedra-Jim&#233;nez, Diego Broz, Juan M. Novas, Ignacio E. Grossmann, Mar&#237;a Anal&#237;a Rodriguez</author>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.forpol.2025.103575</guid>
     </item>
   </channel>
 </rss>
