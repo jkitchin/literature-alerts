@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Jul 2025 01:51:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 01:48:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -46,6 +46,16 @@
       <author>Frank Piedra-Jim&#233;nez, Diego Broz, Juan M. Novas, Ignacio E. Grossmann, Mar&#237;a Anal&#237;a Rodriguez</author>
       <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.forpol.2025.103575</guid>
+    </item>
+    <item>
+      <title>Calibrating Interdependent Photochemistry, Nucleation, and Aerosol Microphysics in Chamber Experiments</title>
+      <link>https://doi.org/10.5194/egusphere-2025-2412</link>
+      <description>Neil M. Donahue, Victoria Hofbauer, Henning Finkenzeller, Dominik Stolzenburg, Paulus S. Bauer, Randall Chiu, Lubna Dada, Jonathan Duplissy, Xu&#8208;Cheng He, Martin Heinritzi, C. R. Hoyle, Andreas K&#252;rten, &#1040;. &#1053;. &#1050;&#1074;&#1072;&#1096;&#1085;&#1080;&#1085;, Katrianne Lehtipalo, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Roy L. Mauldin, Ugo Molteni, Lauriane L. J. Qu&#233;l&#233;ver, Matti Rissanen, Siegfried Schobesberger, Mario Simon, Andrea C. Wagner, Mingyi Wang, Chao Yan, Penglin Ye, Ilona Riipinen, Hamish Gordon, Joachim Curtius, Armin Hansel, Imad El Haddad, Markku Kulmala, Douglas R. Worsnop, Rainer Volkamer, Paul M. Winkler, J. Kirkby, Richard C. Flagan, No host. None(None)] 2025. https://openalex.org/W4412634907
+
+                Abstract. Laboratory experiments addressing complex phenomena such as atmospheric new-particle formation and growth typically involve numerous instruments measuring a range of key coupled variables. In addition to independent calibration, the combined dataset provides not just constraints on the parameters of interest but also on the critical instrument calibrations. Here we find good agreement between production and loss rates of sulfuric acid (H2SO4) in an experiment performed at the CERN CLOUD chamber involving oxidation of sulfur dioxide (SO2) in the presence of ammonia (NH3) at 58 % relative humidity, driving new-particle formation and growth of particles by H2SO4 + NH3 nucleation initiated by O3 photolysis via several light sources. This closure requires consistency across numerous parameters, including: the particle number and size distribution; their condensation sink for H2SO4; the particle growth rates; the concentration of H2SO4; and the nucleation coefficients for both neutral and ion-induced pathways. Our study shows that accurate agreement can be achieved between production and loss of condensable vapors in laboratory chambers under atmospheric conditions, with accuracy ultimately tied to particle number measurement (i.e. a condensation particle counter). This, in turn implies parameters such as the H2SO4 concentration and particle size distributions can be determined to a comparable precision.</description>
+      <author>Neil M. Donahue, Victoria Hofbauer, Henning Finkenzeller, Dominik Stolzenburg, Paulus S. Bauer, Randall Chiu, Lubna Dada, Jonathan Duplissy, Xu&#8208;Cheng He, Martin Heinritzi, C. R. Hoyle, Andreas K&#252;rten, &#1040;. &#1053;. &#1050;&#1074;&#1072;&#1096;&#1085;&#1080;&#1085;, Katrianne Lehtipalo, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Roy L. Mauldin, Ugo Molteni, Lauriane L. J. Qu&#233;l&#233;ver, Matti Rissanen, Siegfried Schobesberger, Mario Simon, Andrea C. Wagner, Mingyi Wang, Chao Yan, Penglin Ye, Ilona Riipinen, Hamish Gordon, Joachim Curtius, Armin Hansel, Imad El Haddad, Markku Kulmala, Douglas R. Worsnop, Rainer Volkamer, Paul M. Winkler, J. Kirkby, Richard C. Flagan</author>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2025-2412</guid>
     </item>
   </channel>
 </rss>

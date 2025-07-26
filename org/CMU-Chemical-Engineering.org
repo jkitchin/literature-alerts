@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Jul 25 01:51:12 2025
+Created on Sat Jul 26 01:48:00 2025
 
-Found 4 results from 2025-07-18 to 2025-07-25
+Found 5 results from 2025-07-19 to 2025-07-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -87,5 +87,26 @@ OpenAlex: https://openalex.org/W4412589428 (Open access: False)
 [[https://openalex.org/A5091201904][Frank Piedra-Jiménez]], [[https://openalex.org/A5019969951][Diego Broz]], [[https://openalex.org/A5039055246][Juan M. Novas]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], [[https://openalex.org/A5103124875][María Analía Rodriguez]], Forest Policy and Economics. 178(None)] 2025. https://doi.org/10.1016/j.forpol.2025.103575 
      
 No abstract    
+
+    
+
+* Calibrating Interdependent Photochemistry, Nucleation, and Aerosol Microphysics in Chamber Experiments  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4412634907
+:TOPICS: nanoparticles nucleation surface interactions
+:PUBLICATION_DATE: 2025-07-24
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5194/egusphere-2025-2412")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412634907"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412634907"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412634907"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4412634907 (Open access: True)
+    
+[[https://openalex.org/A5041685684][Neil M. Donahue]], [[https://openalex.org/A5012274245][Victoria Hofbauer]], [[https://openalex.org/A5081639490][Henning Finkenzeller]], [[https://openalex.org/A5063223340][Dominik Stolzenburg]], [[https://openalex.org/A5056663492][Paulus S. Bauer]], [[https://openalex.org/A5080741963][Randall Chiu]], [[https://openalex.org/A5049539173][Lubna Dada]], [[https://openalex.org/A5088633919][Jonathan Duplissy]], [[https://openalex.org/A5043129752][Xu‐Cheng He]], [[https://openalex.org/A5037408007][Martin Heinritzi]], [[https://openalex.org/A5060987493][C. R. Hoyle]], [[https://openalex.org/A5056657317][Andreas Kürten]], [[https://openalex.org/A5018996508][А. Н. Квашнин]], [[https://openalex.org/A5019559780][Katrianne Lehtipalo]], [[https://openalex.org/A5015886123][Naser G. A. Mahfouz]], [[https://openalex.org/A5036074857][В. С. Махмутов]], [[https://openalex.org/A5006970537][Roy L. Mauldin]], [[https://openalex.org/A5086592925][Ugo Molteni]], [[https://openalex.org/A5058987691][Lauriane L. J. Quéléver]], [[https://openalex.org/A5073788174][Matti Rissanen]], [[https://openalex.org/A5033551265][Siegfried Schobesberger]], [[https://openalex.org/A5086950058][Mario Simon]], [[https://openalex.org/A5024532344][Andrea C. Wagner]], [[https://openalex.org/A5100768996][Mingyi Wang]], [[https://openalex.org/A5049317897][Chao Yan]], [[https://openalex.org/A5087646916][Penglin Ye]], [[https://openalex.org/A5038776980][Ilona Riipinen]], [[https://openalex.org/A5086004922][Hamish Gordon]], [[https://openalex.org/A5031780924][Joachim Curtius]], [[https://openalex.org/A5089489241][Armin Hansel]], [[https://openalex.org/A5080319960][Imad El Haddad]], [[https://openalex.org/A5000471665][Markku Kulmala]], [[https://openalex.org/A5026978286][Douglas R. Worsnop]], [[https://openalex.org/A5018521569][Rainer Volkamer]], [[https://openalex.org/A5042382547][Paul M. Winkler]], [[https://openalex.org/A5009274507][J. Kirkby]], [[https://openalex.org/A5012711441][Richard C. Flagan]], No host. None(None)] 2025. https://doi.org/10.5194/egusphere-2025-2412 
+     
+Abstract. Laboratory experiments addressing complex phenomena such as atmospheric new-particle formation and growth typically involve numerous instruments measuring a range of key coupled variables. In addition to independent calibration, the combined dataset provides not just constraints on the parameters of interest but also on the critical instrument calibrations. Here we find good agreement between production and loss rates of sulfuric acid (H2SO4) in an experiment performed at the CERN CLOUD chamber involving oxidation of sulfur dioxide (SO2) in the presence of ammonia (NH3) at 58 % relative humidity, driving new-particle formation and growth of particles by H2SO4 + NH3 nucleation initiated by O3 photolysis via several light sources. This closure requires consistency across numerous parameters, including: the particle number and size distribution; their condensation sink for H2SO4; the particle growth rates; the concentration of H2SO4; and the nucleation coefficients for both neutral and ion-induced pathways. Our study shows that accurate agreement can be achieved between production and loss of condensable vapors in laboratory chambers under atmospheric conditions, with accuracy ultimately tied to particle number measurement (i.e. a condensation particle counter). This, in turn implies parameters such as the H2SO4 concentration and particle size distributions can be determined to a comparable precision.    
 
     

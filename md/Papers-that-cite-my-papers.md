@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Jul 25 01:51:22 2025
+Created on Sat Jul 26 01:48:09 2025
 
-Found 30 results from 2025-07-18 to 2025-07-25
+Found 37 results from 2025-07-19 to 2025-07-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405)
@@ -309,6 +309,83 @@ OpenAlex: https://openalex.org/W4412604296
 Open access: True
     
 [William Bro‐Jørgensen](https://openalex.org/A5055302168), [Stephan P. A. Sauer](https://openalex.org/A5086252340), [Gemma C. Solomon](https://openalex.org/A5018410685), [Marc H. Garner](https://openalex.org/A5069211255), JACS Au. None(None)] 2025.https://doi.org/10.1021/jacsau.5c00735.
+    
+No abstract    
+
+    
+
+## Regulating the local environment of Ni single-atom catalysts with heteroatoms for efficient CO2 electroreduction   
+
+OpenAlex: https://openalex.org/W4412621719    
+Open access: False
+    
+[Gang Wang](https://openalex.org/A5039005310), [Imran Muhammad](https://openalex.org/A5063336947), [Huimin Yan](https://openalex.org/A5001220614), [Jun Li](https://openalex.org/A5100361956), [Yang‐Gang Wang](https://openalex.org/A5112545234), CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 74(None)] 2025.https://doi.org/10.1016/s1872-2067(25)64679-1.
+    
+No abstract    
+
+    
+
+## Insights into the couple-decouple spin state shifting of graphdiyne-supported d8 state Fe dual-atom catalysts   
+
+OpenAlex: https://openalex.org/W4412621728    
+Open access: False
+    
+[Xinli Zhu](https://openalex.org/A5036620975), [Haoran Xing](https://openalex.org/A5008801949), [Guangyu He](https://openalex.org/A5020055533), [Hai Xiao](https://openalex.org/A5023546157), [Yinjuan Chen](https://openalex.org/A5008921132), [Jun Li](https://openalex.org/A5100361956), CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 74(None)] 2025.https://doi.org/10.1016/s1872-2067(25)64691-2.
+    
+No abstract    
+
+    
+
+## Identifying Adsorption States of OER Intermediates on Single-Atom Catalysts via a Spectral Machine Learning Framework   
+
+OpenAlex: https://openalex.org/W4412626248    
+Open access: False
+    
+[Fan Wu](https://openalex.org/A5028825061), [Ke Ye](https://openalex.org/A5064398982), [Jun Jiang](https://openalex.org/A5100619997), The Journal of Physical Chemistry Letters. None(None)] 2025.https://doi.org/10.1021/acs.jpclett.5c01212.
+    
+No abstract    
+
+    
+
+## Computational Insights into Two-Dimensional M3(HHTP)2 Metal–Organic Frameworks as ORR/OER Electrocatalysts   
+
+OpenAlex: https://openalex.org/W4412638127    
+Open access: False
+    
+[Victor Hoyos-Sinchi](https://openalex.org/A5119067268), [Pedro H. Souza](https://openalex.org/A5030215614), [Walter Orellana](https://openalex.org/A5052977806), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.5c03531.
+    
+No abstract    
+
+    
+
+## Overcoming Barriers in Electrochemical Toluene Hydrogenation for Efficient Hydrogen Storage by Pt3Au Alloy Catalysts   
+
+OpenAlex: https://openalex.org/W4412641719    
+Open access: False
+    
+[Chen‐Hui Chan](https://openalex.org/A5041933409), [Chang‐Kyu Hwang](https://openalex.org/A5053313558), [Nomin Tamir](https://openalex.org/A5043700897), [Hyobin Nam](https://openalex.org/A5110710470), [Sae Yane Paek](https://openalex.org/A5075819985), [Jong Sung Lim](https://openalex.org/A5089593718), [Bayasgalan Ulambayar](https://openalex.org/A5029975450), [Keun Hwa Chae](https://openalex.org/A5063597709), [Wenyu Sun](https://openalex.org/A5028727210), [Sneha A. Akhade](https://openalex.org/A5042139840), [Giovanna Bucci](https://openalex.org/A5077341604), [Seung Yong Lee](https://openalex.org/A5100644298), [Jong Min Kim](https://openalex.org/A5100416706), [So‐Hye Cho](https://openalex.org/A5071271738), [Sang Soo Han](https://openalex.org/A5067470445), ACS Catalysis. None(None)] 2025.https://doi.org/10.1021/acscatal.5c02493.
+    
+No abstract    
+
+    
+
+## Integration of Amorphous/Crystalline CoS/Co3B2 Heterostructure with Coupled Electronic Engineering Toward Efficient and Stable Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4412644376    
+Open access: False
+    
+[Yuxin Gao](https://openalex.org/A5101892882), [Jing Zhao](https://openalex.org/A5074496162), [Jiayu Xiao](https://openalex.org/A5069689204), [Shuai Wan](https://openalex.org/A5112463864), [Hao Wang](https://openalex.org/A5100667659), [Xiaodong Lv](https://openalex.org/A5078545340), [Lihong Bao](https://openalex.org/A5103417881), Journal of Alloys and Compounds. None(None)] 2025.https://doi.org/10.1016/j.jallcom.2025.182443.
+    
+No abstract    
+
+    
+
+## Boronated aromatic ring-fused structure: An efficient electrocatalyst for sustainable ammonia synthesis from nitric oxide pollutant   
+
+OpenAlex: https://openalex.org/W4412646758    
+Open access: False
+    
+[Naga Venkateswara Rao Nulakani](https://openalex.org/A5078644153), [Venkata Surya Kumar Choutipalli](https://openalex.org/A5012639985), [Kevin L. Shuford](https://openalex.org/A5062986163), [Mohamad Akbar Ali](https://openalex.org/A5031647568), Fuel. 404(None)] 2025.https://doi.org/10.1016/j.fuel.2025.136336.
     
 No abstract    
 

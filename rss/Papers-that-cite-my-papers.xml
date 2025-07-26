@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Jul 2025 01:51:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 01:48:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -276,6 +276,76 @@
       <author>William Bro&#8208;J&#248;rgensen, Stephan P. A. Sauer, Gemma C. Solomon, Marc H. Garner</author>
       <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacsau.5c00735</guid>
+    </item>
+    <item>
+      <title>Regulating the local environment of Ni single-atom catalysts with heteroatoms for efficient CO2 electroreduction</title>
+      <link>https://doi.org/10.1016/s1872-2067(25)64679-1</link>
+      <description>Gang Wang, Imran Muhammad, Huimin Yan, Jun Li, Yang&#8208;Gang Wang, CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 74(None)] 2025. https://openalex.org/W4412621719
+
+                No abstract</description>
+      <author>Gang Wang, Imran Muhammad, Huimin Yan, Jun Li, Yang&#8208;Gang Wang</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(25)64679-1</guid>
+    </item>
+    <item>
+      <title>Insights into the couple-decouple spin state shifting of graphdiyne-supported d8 state Fe dual-atom catalysts</title>
+      <link>https://doi.org/10.1016/s1872-2067(25)64691-2</link>
+      <description>Xinli Zhu, Haoran Xing, Guangyu He, Hai Xiao, Yinjuan Chen, Jun Li, CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 74(None)] 2025. https://openalex.org/W4412621728
+
+                No abstract</description>
+      <author>Xinli Zhu, Haoran Xing, Guangyu He, Hai Xiao, Yinjuan Chen, Jun Li</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(25)64691-2</guid>
+    </item>
+    <item>
+      <title>Identifying Adsorption States of OER Intermediates on Single-Atom Catalysts via a Spectral Machine Learning Framework</title>
+      <link>https://doi.org/10.1021/acs.jpclett.5c01212</link>
+      <description>Fan Wu, Ke Ye, Jun Jiang, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4412626248
+
+                No abstract</description>
+      <author>Fan Wu, Ke Ye, Jun Jiang</author>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c01212</guid>
+    </item>
+    <item>
+      <title>Computational Insights into Two-Dimensional M&lt;sub&gt;3&lt;/sub&gt;(HHTP)&lt;sub&gt;2&lt;/sub&gt; Metal&#8211;Organic Frameworks as ORR/OER Electrocatalysts</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c03531</link>
+      <description>Victor Hoyos-Sinchi, Pedro H. Souza, Walter Orellana, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4412638127
+
+                No abstract</description>
+      <author>Victor Hoyos-Sinchi, Pedro H. Souza, Walter Orellana</author>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c03531</guid>
+    </item>
+    <item>
+      <title>Overcoming Barriers in Electrochemical Toluene Hydrogenation for Efficient Hydrogen Storage by Pt&lt;sub&gt;3&lt;/sub&gt;Au Alloy Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.5c02493</link>
+      <description>Chen&#8208;Hui Chan, Chang&#8208;Kyu Hwang, Nomin Tamir, Hyobin Nam, Sae Yane Paek, Jong Sung Lim, Bayasgalan Ulambayar, Keun Hwa Chae, Wenyu Sun, Sneha A. Akhade, Giovanna Bucci, Seung Yong Lee, Jong Min Kim, So&#8208;Hye Cho, Sang Soo Han, ACS Catalysis. None(None)] 2025. https://openalex.org/W4412641719
+
+                No abstract</description>
+      <author>Chen&#8208;Hui Chan, Chang&#8208;Kyu Hwang, Nomin Tamir, Hyobin Nam, Sae Yane Paek, Jong Sung Lim, Bayasgalan Ulambayar, Keun Hwa Chae, Wenyu Sun, Sneha A. Akhade, Giovanna Bucci, Seung Yong Lee, Jong Min Kim, So&#8208;Hye Cho, Sang Soo Han</author>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c02493</guid>
+    </item>
+    <item>
+      <title>Integration of Amorphous/Crystalline CoS/Co3B2 Heterostructure with Coupled Electronic Engineering Toward Efficient and Stable Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1016/j.jallcom.2025.182443</link>
+      <description>Yuxin Gao, Jing Zhao, Jiayu Xiao, Shuai Wan, Hao Wang, Xiaodong Lv, Lihong Bao, Journal of Alloys and Compounds. None(None)] 2025. https://openalex.org/W4412644376
+
+                No abstract</description>
+      <author>Yuxin Gao, Jing Zhao, Jiayu Xiao, Shuai Wan, Hao Wang, Xiaodong Lv, Lihong Bao</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2025.182443</guid>
+    </item>
+    <item>
+      <title>Boronated aromatic ring-fused structure: An efficient electrocatalyst for sustainable ammonia synthesis from nitric oxide pollutant</title>
+      <link>https://doi.org/10.1016/j.fuel.2025.136336</link>
+      <description>Naga Venkateswara Rao Nulakani, Venkata Surya Kumar Choutipalli, Kevin L. Shuford, Mohamad Akbar Ali, Fuel. 404(None)] 2025. https://openalex.org/W4412646758
+
+                No abstract</description>
+      <author>Naga Venkateswara Rao Nulakani, Venkata Surya Kumar Choutipalli, Kevin L. Shuford, Mohamad Akbar Ali</author>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.136336</guid>
     </item>
     <item>
       <title>Developing machine learning for heterogeneous catalysis with experimental and computational data.</title>
