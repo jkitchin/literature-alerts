@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 26 Jul 2025 01:48:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 02:00:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Hollow p-n heterostructures with vacancy engineering to enhance Z-scheme photocatalytic CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.cej.2025.165595</link>
-      <description>Zhitao Zou, Yaxin Wang, Tianyi Zhang, Jing L&#252;, V. Z. Turkevich, Yueqin Yu, Jixiang Xu, Haifeng Lin, Yanyan Li, Lei Wang, Chemical Engineering Journal. 520(None)] 2025. https://openalex.org/W4412490038
-
-                No abstract</description>
-      <author>Zhitao Zou, Yaxin Wang, Tianyi Zhang, Jing L&#252;, V. Z. Turkevich, Yueqin Yu, Jixiang Xu, Haifeng Lin, Yanyan Li, Lei Wang</author>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.165595</guid>
-    </item>
-    <item>
-      <title>Modulation the coordination of Fe-Co diatomic sites with boron atom for fuel cells and Zn-Air battery</title>
-      <link>https://doi.org/10.1016/j.apcatb.2025.125679</link>
-      <description>Dai Dang, Lin Zhang, Guifa Long, Chao Liu, Wenjun Fan, Jie Zheng, Tiejun Wang, Quanbing Liu, Xiaopeng Han, Applied Catalysis B Environment and Energy. 379(None)] 2025. https://openalex.org/W4412490061
-
-                No abstract</description>
-      <author>Dai Dang, Lin Zhang, Guifa Long, Chao Liu, Wenjun Fan, Jie Zheng, Tiejun Wang, Quanbing Liu, Xiaopeng Han</author>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125679</guid>
-    </item>
     <item>
       <title>S-terminally modified V2C MXene single-atom catalyst for efficient CO2 to C1 conversion: A density functional theory study</title>
       <link>https://doi.org/10.1016/j.colsurfa.2025.137808</link>
@@ -302,7 +282,7 @@
       <link>https://doi.org/10.1021/acs.jpclett.5c01212</link>
       <description>Fan Wu, Ke Ye, Jun Jiang, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4412626248
 
-                No abstract</description>
+                Identifying the adsorption states of intermediates in the oxygen evolution reaction (OER) is crucial for revealing the potential-determining step and further optimizing catalytic systems. Infrared (IR) spectroscopy serves as an effective tool for probing oxygen-containing intermediates on electrode surfaces. However, extracting spectral characteristics and establishing a quantitative correlation between these features and the adsorption states of intermediates remains a significant challenge. In this letter, we present a machine learning framework tailored for single-atom catalysts to learn from the infrared spectra of OER intermediates and construct a "spectrum-property" relationship. This enables accurate prediction of the adsorption states, namely adsorption free energy and charge of key intermediates (*OH, *O, and *OOH). Notably, the pretrained model demonstrates efficient transferability across commonly reported single-atom OER systems and provides interpretable attention maps of infrared signals based on vibrational mode analysis. By quantitatively linking spectral features to the adsorption states of oxygen-containing intermediates via machine learning, our framework is expected to provide valuable insights for guiding the optimization of single-atom OER catalysts.</description>
       <author>Fan Wu, Ke Ye, Jun Jiang</author>
       <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c01212</guid>
@@ -346,6 +326,36 @@
       <author>Naga Venkateswara Rao Nulakani, Venkata Surya Kumar Choutipalli, Kevin L. Shuford, Mohamad Akbar Ali</author>
       <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.136336</guid>
+    </item>
+    <item>
+      <title>Dynasor 2: From simulation to experiment through correlation functions</title>
+      <link>https://doi.org/10.1016/j.cpc.2025.109759</link>
+      <description>Esm&#233;e Berger, Erik Fransson, Fredrik Eriksson, Eric Lindgren, G&#1255;ran Wahnstr&#246;m, Thomas H. Rod, Paul Erhart, Computer Physics Communications. 316(None)] 2025. https://openalex.org/W4412651018
+
+                No abstract</description>
+      <author>Esm&#233;e Berger, Erik Fransson, Fredrik Eriksson, Eric Lindgren, G&#1255;ran Wahnstr&#246;m, Thomas H. Rod, Paul Erhart</author>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cpc.2025.109759</guid>
+    </item>
+    <item>
+      <title>Controlling hydrocarbon chain growth and degree of branching in CO2 electroreduction on fluorine-doped nickel catalysts</title>
+      <link>https://doi.org/10.1038/s41929-025-01370-1</link>
+      <description>Yingqing Ou, Lu Liu, Ranga Rohit Seemakurthi, Futian You, Haibin Ma, Javier P&#233;rez&#8208;Ram&#237;rez, N&#250;ria L&#243;pez, Boon Siang Yeo, Nature Catalysis. 8(7)] 2025. https://openalex.org/W4412651021
+
+                No abstract</description>
+      <author>Yingqing Ou, Lu Liu, Ranga Rohit Seemakurthi, Futian You, Haibin Ma, Javier P&#233;rez&#8208;Ram&#237;rez, N&#250;ria L&#243;pez, Boon Siang Yeo</author>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41929-025-01370-1</guid>
+    </item>
+    <item>
+      <title>High entropy alloys as catalysts: A focused review</title>
+      <link>https://doi.org/10.1016/j.matlet.2025.139114</link>
+      <description>Mark J. Mueller, Han K. Chau, Sarah Stofik, Matthew N. Gordon, Rebecca Fushimi, Jochen Lauterbach, Matthew Craps, Dylan D. Rodene, Dilpuneet S. Aidhy, Materials Letters. None(None)] 2025. https://openalex.org/W4412651392
+
+                No abstract</description>
+      <author>Mark J. Mueller, Han K. Chau, Sarah Stofik, Matthew N. Gordon, Rebecca Fushimi, Jochen Lauterbach, Matthew Craps, Dylan D. Rodene, Dilpuneet S. Aidhy</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.matlet.2025.139114</guid>
     </item>
     <item>
       <title>Developing machine learning for heterogeneous catalysis with experimental and computational data.</title>
