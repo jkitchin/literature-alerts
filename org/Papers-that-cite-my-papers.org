@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Jul 27 02:00:31 2025
+Created on Mon Jul 28 01:58:13 2025
 
-Found 38 results from 2025-07-20 to 2025-07-27
+Found 41 results from 2025-07-21 to 2025-07-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405]]
@@ -16,27 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* S-terminally modified V2C MXene single-atom catalyst for efficient CO2 to C1 conversion: A density functional theory study  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412494208
-:TOPICS: MXene and MAX Phase Materials, CO2 Reduction Techniques and Catalysts, Ammonia Synthesis and Nitrogen Reduction
-:PUBLICATION_DATE: 2025-07-19
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.colsurfa.2025.137808")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412494208"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412494208"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412494208"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412494208 (Open access: False)
-    
-[[https://openalex.org/A5102818611][Yibo Sun]], [[https://openalex.org/A5075309034][Xiujuan Tan]], [[https://openalex.org/A5035271390][X.Y. Zhang]], [[https://openalex.org/A5047504462][Yong Wang]], [[https://openalex.org/A5111279697][Zeliang Ju]], [[https://openalex.org/A5019864544][Qingxin Kang]], Colloids and Surfaces A Physicochemical and Engineering Aspects. 726(None)] 2025. https://doi.org/10.1016/j.colsurfa.2025.137808 
-     
-No abstract    
-
-    
 
 * Nitrogen-Passivated germanium carbide nanomeshes as potential catalysts for photocatalytic water splitting  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -752,6 +731,69 @@ No abstract
 
     
 
+* Theory-guided Electron Delocalization Modulation at Cu−O−Ce Sites Boosts CO2 Electroreduction to Ethylene  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4412658024
+:TOPICS: CO2 Reduction Techniques and Catalysts, Ionic liquids properties and applications, Electrochemical Analysis and Applications
+:PUBLICATION_DATE: 2025-07-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2025.125741")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412658024"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412658024"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412658024"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4412658024 (Open access: False)
+    
+[[https://openalex.org/A5025147595][Peng Wei]], [[https://openalex.org/A5109692609][Shilun Wang]], [[https://openalex.org/A5011154516][Yu‐Kun Qian]], [[https://openalex.org/A5086922590][Yongqing Fu]], [[https://openalex.org/A5036188864][Yao Shen]], [[https://openalex.org/A5019327579][Jingkai Zhao]], [[https://openalex.org/A5111036699][Jiexu Ye]], [[https://openalex.org/A5101874492][Qiaoli Wang]], [[https://openalex.org/A5051365489][Pengfei Xie]], [[https://openalex.org/A5049142955][Shihan Zhang]], [[https://openalex.org/A5108053665][Xiang Gao]], Applied Catalysis B Environment and Energy. None(None)] 2025. https://doi.org/10.1016/j.apcatb.2025.125741 
+     
+No abstract    
+
+    
+
+* Recent advances in metal-organic complexes for hydrogen and oxygen evolution reactions: Material design and mechanistic insights  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4412658222
+:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Fuel Cells and Related Materials
+:PUBLICATION_DATE: 2025-07-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ica.2025.122859")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412658222"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412658222"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412658222"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4412658222 (Open access: False)
+    
+[[https://openalex.org/A5083940937][Yingying Gu]], [[https://openalex.org/A5100380084][Chuan Zhang]], [[https://openalex.org/A5101202756][Minfeng Meng]], [[https://openalex.org/A5055512401][Xianlong Ge]], [[https://openalex.org/A5101726860][Shaohua Hu]], [[https://openalex.org/A5080686152][Yankai Song]], Inorganica Chimica Acta. None(None)] 2025. https://doi.org/10.1016/j.ica.2025.122859 
+     
+No abstract    
+
+    
+
+* Topology-Driven Search for Molecular Links in Nanoclusters: Structure Prediction for Au16(SR)14  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4412660378
+:TOPICS: Nanocluster Synthesis and Applications, Advanced Nanomaterials in Catalysis, Topological and Geometric Data Analysis
+:PUBLICATION_DATE: 2025-07-26
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpclett.5c01668")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412660378"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412660378"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412660378"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4412660378 (Open access: False)
+    
+[[https://openalex.org/A5119059860][Jing Qian]], [[https://openalex.org/A5108973408][Jingkuan Lyu]], [[https://openalex.org/A5119059864][Zhucheng Yang]], [[https://openalex.org/A5082806907][Jianping Xie]], The Journal of Physical Chemistry Letters. None(None)] 2025. https://doi.org/10.1021/acs.jpclett.5c01668 
+     
+No abstract    
+
+    
+
 * Developing machine learning for heterogeneous catalysis with experimental and computational data.  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4412520561
@@ -812,5 +854,26 @@ OpenAlex: https://openalex.org/W4412602809 (Open access: False)
 [[https://openalex.org/A5012172630][Rong Yan]], [[https://openalex.org/A5056520904][Qian‐Cheng Luo]], [[https://openalex.org/A5046785243][Zi‐Han Li]], [[https://openalex.org/A5101469568][Nana Sun]], [[https://openalex.org/A5110714070][Wei‐Peng Chen]], [[https://openalex.org/A5110921377][Yuan‐Qi Zhai]], [[https://openalex.org/A5107860068][H. Yin]], [[https://openalex.org/A5044865335][Xiaotai Wang]], [[https://openalex.org/A5029654757][Xin Tu]], [[https://openalex.org/A5015325903][Yan‐Zhen Zheng]], ChemSusChem. None(None)] 2025. https://doi.org/10.1002/cssc.202500812 
      
 Though there are many synthetic iron–sulfur clusters that have been reported to show catalytic activity mimicking the natural cofactors in metalloenzymes, the influence of the spin state on the catalytic property is seldom touched. Here, a disulfide‐bridged triiron(II) complex is shown, namely [Fe 3 (Sip) 4 ][CF 3 SO 3 ] 2 ( Fe 3 (Sip) 4 , HSip = sulfanylpropyliminomethyl‐pyridine), can efficiently electrocatalyze water oxidation with a turnover frequency of 932 s −1 and Faraday efficiency of 86%, better than many iron‐based catalysts. More importantly, the terminal low‐spin ( S = 0) iron(II) sites possessing a N4S2 first coordination environment, along with the synergetic catalysis of ligands, play a crucial role in the catalytic process. This research highlights the unconventional applications of iron–sulfur clusters in electrocatalytic water oxidation and underlines a promising avenue for developing innovative catalysts.    
+
+    
+
+* High-entropy RuO2 catalyst with dual-site oxide path for durable acidic oxygen evolution reaction  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4412670086
+:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Catalytic Processes in Materials Science
+:PUBLICATION_DATE: 2025-07-26
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-025-61763-5")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412670086"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412670086"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412670086"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4412670086 (Open access: True)
+    
+[[https://openalex.org/A5006210903][Fangren Qian]], [[https://openalex.org/A5057686366][Dengfeng Cao]], [[https://openalex.org/A5089250586][Shuangming Chen]], [[https://openalex.org/A5076716548][Yalong Yuan]], [[https://openalex.org/A5049786309][Kai Chen]], [[https://openalex.org/A5051497054][Peter Joseph Chimtali]], [[https://openalex.org/A5005402696][Hengjie Liu]], [[https://openalex.org/A5032826815][Wei Jiang]], [[https://openalex.org/A5062861551][Beibei Sheng]], [[https://openalex.org/A5028694923][Luocai Yi]], [[https://openalex.org/A5027376511][Jiabao Huang]], [[https://openalex.org/A5020760486][Chengsi Hu]], [[https://openalex.org/A5002213510][Huxu Lei]], [[https://openalex.org/A5021767311][Xiaojun Wu]], [[https://openalex.org/A5080926762][Zhenhai Wen]], [[https://openalex.org/A5022137244][Qingjun Chen]], [[https://openalex.org/A5100448217][Li Song]], Nature Communications. 16(1)] 2025. https://doi.org/10.1038/s41467-025-61763-5 
+     
+No abstract    
 
     

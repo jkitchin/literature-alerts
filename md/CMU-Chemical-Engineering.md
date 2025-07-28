@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun Jul 27 02:00:23 2025
+Created on Mon Jul 28 01:58:02 2025
 
-Found 5 results from 2025-07-20 to 2025-07-27
+Found 4 results from 2025-07-21 to 2025-07-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Engineering an Electroactive Bacterial Cellulose-Carbon Nanotube Composite Membrane Against Staphylococcus aureus   
-
-OpenAlex: https://openalex.org/W4412494346    
-Open access: True
-    
-[Daniel L. Levin](https://openalex.org/A5027750308), [Camila S. Cué-Royo](https://openalex.org/A5119014075), [Denis Johnson](https://openalex.org/A5023017337), [Soumalya Gosh](https://openalex.org/A5079754429), [Sricharani Rao Balmuri](https://openalex.org/A5042360668), [Huda Usman](https://openalex.org/A5006410485), [Shakira M. Martinez-Vasquez](https://openalex.org/A5117072205), [David Kumar Yesudoss](https://openalex.org/A5016663999), [Abdoulaye Djire](https://openalex.org/A5112849501), [Mostafa Bedewy](https://openalex.org/A5067322873), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), Biofilm. None(None)] 2025.https://doi.org/10.1016/j.bioflm.2025.100305.
-    
-No abstract    
-
-    
 
 ## A diagonal volatility basis set to assess the condensation of organic vapors onto particles   
 

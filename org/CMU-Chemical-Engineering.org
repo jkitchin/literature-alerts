@@ -1,31 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun Jul 27 02:00:23 2025
+Created on Mon Jul 28 01:58:02 2025
 
-Found 5 results from 2025-07-20 to 2025-07-27
+Found 4 results from 2025-07-21 to 2025-07-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Engineering an Electroactive Bacterial Cellulose-Carbon Nanotube Composite Membrane Against Staphylococcus aureus  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412494346
-:TOPICS: Bacterial biofilms and quorum sensing, Microfluidic and Capillary Electrophoresis Applications, Biosensors and Analytical Detection
-:PUBLICATION_DATE: 2025-07-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.bioflm.2025.100305")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412494346"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412494346"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412494346"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412494346 (Open access: True)
-    
-[[https://openalex.org/A5027750308][Daniel L. Levin]], [[https://openalex.org/A5119014075][Camila S. Cué-Royo]], [[https://openalex.org/A5023017337][Denis Johnson]], [[https://openalex.org/A5079754429][Soumalya Gosh]], [[https://openalex.org/A5042360668][Sricharani Rao Balmuri]], [[https://openalex.org/A5006410485][Huda Usman]], [[https://openalex.org/A5117072205][Shakira M. Martinez-Vasquez]], [[https://openalex.org/A5016663999][David Kumar Yesudoss]], [[https://openalex.org/A5112849501][Abdoulaye Djire]], [[https://openalex.org/A5067322873][Mostafa Bedewy]], [[https://openalex.org/A5044695139][Tagbo H. R. Niepa]], Biofilm. None(None)] 2025. https://doi.org/10.1016/j.bioflm.2025.100305 
-     
-No abstract    
-
-    
 
 * A diagonal volatility basis set to assess the condensation of organic vapors onto particles  :CMU_Chemical_Engineering:
 :PROPERTIES:

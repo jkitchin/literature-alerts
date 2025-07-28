@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Jul 2025 02:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 01:58:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>S-terminally modified V2C MXene single-atom catalyst for efficient CO2 to C1 conversion: A density functional theory study</title>
-      <link>https://doi.org/10.1016/j.colsurfa.2025.137808</link>
-      <description>Yibo Sun, Xiujuan Tan, X.Y. Zhang, Yong Wang, Zeliang Ju, Qingxin Kang, Colloids and Surfaces A Physicochemical and Engineering Aspects. 726(None)] 2025. https://openalex.org/W4412494208
-
-                No abstract</description>
-      <author>Yibo Sun, Xiujuan Tan, X.Y. Zhang, Yong Wang, Zeliang Ju, Qingxin Kang</author>
-      <pubDate>Sat, 19 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2025.137808</guid>
-    </item>
     <item>
       <title>Nitrogen-Passivated germanium carbide nanomeshes as potential catalysts for photocatalytic water splitting</title>
       <link>https://doi.org/10.1038/s41598-025-11711-6</link>
@@ -358,6 +348,36 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.matlet.2025.139114</guid>
     </item>
     <item>
+      <title>Theory-guided Electron Delocalization Modulation at Cu&#8722;O&#8722;Ce Sites Boosts CO2 Electroreduction to Ethylene</title>
+      <link>https://doi.org/10.1016/j.apcatb.2025.125741</link>
+      <description>Peng Wei, Shilun Wang, Yu&#8208;Kun Qian, Yongqing Fu, Yao Shen, Jingkai Zhao, Jiexu Ye, Qiaoli Wang, Pengfei Xie, Shihan Zhang, Xiang Gao, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4412658024
+
+                No abstract</description>
+      <author>Peng Wei, Shilun Wang, Yu&#8208;Kun Qian, Yongqing Fu, Yao Shen, Jingkai Zhao, Jiexu Ye, Qiaoli Wang, Pengfei Xie, Shihan Zhang, Xiang Gao</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125741</guid>
+    </item>
+    <item>
+      <title>Recent advances in metal-organic complexes for hydrogen and oxygen evolution reactions: Material design and mechanistic insights</title>
+      <link>https://doi.org/10.1016/j.ica.2025.122859</link>
+      <description>Yingying Gu, Chuan Zhang, Minfeng Meng, Xianlong Ge, Shaohua Hu, Yankai Song, Inorganica Chimica Acta. None(None)] 2025. https://openalex.org/W4412658222
+
+                No abstract</description>
+      <author>Yingying Gu, Chuan Zhang, Minfeng Meng, Xianlong Ge, Shaohua Hu, Yankai Song</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ica.2025.122859</guid>
+    </item>
+    <item>
+      <title>Topology-Driven Search for Molecular Links in Nanoclusters: Structure Prediction for Au&lt;sub&gt;16&lt;/sub&gt;(SR)&lt;sub&gt;14&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acs.jpclett.5c01668</link>
+      <description>Jing Qian, Jingkuan Lyu, Zhucheng Yang, Jianping Xie, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4412660378
+
+                No abstract</description>
+      <author>Jing Qian, Jingkuan Lyu, Zhucheng Yang, Jianping Xie</author>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c01668</guid>
+    </item>
+    <item>
       <title>Developing machine learning for heterogeneous catalysis with experimental and computational data.</title>
       <link>https://doi.org/10.1038/s41570-025-00740-4</link>
       <description>Carlota Bozal&#8208;Ginesta, Sergio Pablo&#8208;Garc&#237;a, Changhyeok Choi, Albert Taranc&#243;n, Al&#225;n Aspuru-Guzik, PubMed. None(None)] 2025. https://openalex.org/W4412520561
@@ -386,6 +406,16 @@
       <author>Rong Yan, Qian&#8208;Cheng Luo, Zi&#8208;Han Li, Nana Sun, Wei&#8208;Peng Chen, Yuan&#8208;Qi Zhai, H. Yin, Xiaotai Wang, Xin Tu, Yan&#8208;Zhen Zheng</author>
       <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202500812</guid>
+    </item>
+    <item>
+      <title>High-entropy RuO2 catalyst with dual-site oxide path for durable acidic oxygen evolution reaction</title>
+      <link>https://doi.org/10.1038/s41467-025-61763-5</link>
+      <description>Fangren Qian, Dengfeng Cao, Shuangming Chen, Yalong Yuan, Kai Chen, Peter Joseph Chimtali, Hengjie Liu, Wei Jiang, Beibei Sheng, Luocai Yi, Jiabao Huang, Chengsi Hu, Huxu Lei, Xiaojun Wu, Zhenhai Wen, Qingjun Chen, Li Song, Nature Communications. 16(1)] 2025. https://openalex.org/W4412670086
+
+                No abstract</description>
+      <author>Fangren Qian, Dengfeng Cao, Shuangming Chen, Yalong Yuan, Kai Chen, Peter Joseph Chimtali, Hengjie Liu, Wei Jiang, Beibei Sheng, Luocai Yi, Jiabao Huang, Chengsi Hu, Huxu Lei, Xiaojun Wu, Zhenhai Wen, Qingjun Chen, Li Song</author>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-61763-5</guid>
     </item>
   </channel>
 </rss>
