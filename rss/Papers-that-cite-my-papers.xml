@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Jul 2025 02:04:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 01:54:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Theoretical revealing the nitrogen reduction reaction on FeMo dual-atom catalysts and the role of sulfur modification</title>
-      <link>https://doi.org/10.1016/j.mcat.2025.115323</link>
-      <description>Yuan&#8208;Hui Xiao, Ziwei Ma, Tai-Rui Wu, Xinwei Wu, Lai-Ke Chen, Jiande Lin, De&#8208;Yin Wu, Molecular Catalysis. 585(None)] 2025. https://openalex.org/W4412535954
-
-                No abstract</description>
-      <author>Yuan&#8208;Hui Xiao, Ziwei Ma, Tai-Rui Wu, Xinwei Wu, Lai-Ke Chen, Jiande Lin, De&#8208;Yin Wu</author>
-      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2025.115323</guid>
-    </item>
-    <item>
-      <title>Engineering Ru@Ir Core&#8211;Shell Nanoparticles on Titanium Oxynitride&#8211;Graphene Support for a Highly Active and Durable pH-Universal Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.5c02831</link>
-      <description>Aleksandra Popovi&#263;, Ivan Mari&#263;, Marjan Bele, Ervin Rems, Matej Hu&#353;, Luka Pavko, Francisco Ruiz&#8208;Zepeda, Lazar Bijeli&#263;, Branimir Grgur, Nejc Hodnik, Milutin Smiljani&#263;, ACS Catalysis. None(None)] 2025. https://openalex.org/W4412536451
-
-                No abstract</description>
-      <author>Aleksandra Popovi&#263;, Ivan Mari&#263;, Marjan Bele, Ervin Rems, Matej Hu&#353;, Luka Pavko, Francisco Ruiz&#8208;Zepeda, Lazar Bijeli&#263;, Branimir Grgur, Nejc Hodnik, Milutin Smiljani&#263;</author>
-      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c02831</guid>
-    </item>
-    <item>
-      <title>Rational design of MoS&lt;sub&gt;2&lt;/sub&gt;-based dual-atom catalysts for CO&lt;sub&gt;2&lt;/sub&gt;-to-methane conversion: thermodynamic and electronic insights into activity and selectivity</title>
-      <link>https://doi.org/10.1039/d5ta02966j</link>
-      <description>Yuxiang Jin, Zhengtong Ji, Xue Yao, Erhong Song, Yong Zhu, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4412552217
-
-                The rational design of CO 2 electroreduction catalysts requires the establishment of robust structure&#8211;activity relationships through precise electronic descriptors.</description>
-      <author>Yuxiang Jin, Zhengtong Ji, Xue Yao, Erhong Song, Yong Zhu</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5ta02966j</guid>
-    </item>
-    <item>
-      <title>Molybdenum carbide supported metal&#8211;organic framework-derived Ni, Co phosphosulphide heterostructures as efficient OER and HER catalysts</title>
-      <link>https://doi.org/10.1039/d5na00510h</link>
-      <description>Muhammad Ahsan Naseeb, Maida Murtaza, Komal Farooq, Waqas Ali Shah, Amir Waseem, Nanoscale Advances. None(None)] 2025. https://openalex.org/W4412553928
-
-                Designing porous Mo x C (Mo 2 C&#8211;MoC) heterostructures via confined carburization and phosphosulfurization</description>
-      <author>Muhammad Ahsan Naseeb, Maida Murtaza, Komal Farooq, Waqas Ali Shah, Amir Waseem</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5na00510h</guid>
-    </item>
-    <item>
-      <title>Surface Charge in Electrical Double Layer as a Kinetic Descriptor of Electrocatalytic Reactions</title>
-      <link>https://doi.org/10.1021/acsenergylett.5c01589</link>
-      <description>Masao Shibata, Yu Morimoto, Adam Z. Weber, Iryna V. Zenyuk, ACS Energy Letters. None(None)] 2025. https://openalex.org/W4412557084
-
-                No abstract</description>
-      <author>Masao Shibata, Yu Morimoto, Adam Z. Weber, Iryna V. Zenyuk</author>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.5c01589</guid>
-    </item>
     <item>
       <title>In-situ formed metal borates enable industrial-level seawater splitting via corrosion-resistant CoFe-boride nanocatalysts</title>
       <link>https://doi.org/10.1016/j.jcis.2025.138519</link>
@@ -296,6 +246,146 @@
       <author>Yafei Zhao, Liang He</author>
       <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.138564</guid>
+    </item>
+    <item>
+      <title>A high-throughput ab initio study of elemental segregation and cohesion at ferritic-iron grain boundaries</title>
+      <link>https://doi.org/10.1016/j.actamat.2025.121288</link>
+      <description>Lin Han, Xiangyuan Cui, Tilmann Hickel, J&#246;rg Neugebauer, Simon P. Ringer, Acta Materialia. 297(None)] 2025. https://openalex.org/W4412687026
+
+                No abstract</description>
+      <author>Lin Han, Xiangyuan Cui, Tilmann Hickel, J&#246;rg Neugebauer, Simon P. Ringer</author>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2025.121288</guid>
+    </item>
+    <item>
+      <title>Constant-Potential Machine Learning Force Field for the Electrochemical Interface</title>
+      <link>https://doi.org/10.1021/acs.jctc.5c00784</link>
+      <description>Ruoyu Wang, Shaoheng Fang, Qixing Huang, Yuanyue Liu, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4412687597
+
+                No abstract</description>
+      <author>Ruoyu Wang, Shaoheng Fang, Qixing Huang, Yuanyue Liu</author>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c00784</guid>
+    </item>
+    <item>
+      <title>CO&lt;sub&gt;2&lt;/sub&gt; Activation and Electrochemical Reduction to CH&lt;sub&gt;3&lt;/sub&gt;OH via Charge Modulation on Defect-Induced Free-Standing Bilayer Borophene</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c02237</link>
+      <description>Upasana Nath, Manabendra Sarma, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4412687898
+
+                No abstract</description>
+      <author>Upasana Nath, Manabendra Sarma</author>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c02237</guid>
+    </item>
+    <item>
+      <title>Review: machine learning in high-entropy alloys-transformative potential and innovative application</title>
+      <link>https://doi.org/10.1007/s10853-025-11232-7</link>
+      <description>Xudong Hu, Journal of Materials Science. 60(29)] 2025. https://openalex.org/W4412688189
+
+                No abstract</description>
+      <author>Xudong Hu</author>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10853-025-11232-7</guid>
+    </item>
+    <item>
+      <title>Precipitation synthesis and characterization of SnO&lt;sub&gt;2&lt;/sub&gt;@g-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt; heterojunctions for enhanced photocatalytic H&lt;sub&gt;2&lt;/sub&gt; production</title>
+      <link>https://doi.org/10.1039/d5ra03721b</link>
+      <description>Rizwan Hasan Khan, S. Ahmad, Haikal Muhammad Ihsan, S. Nadeem, Syed Zulfiqar, Ferry Anggoro Ardy Nugroho, RSC Advances. 15(33)] 2025. https://openalex.org/W4412694186
+
+                Fabrication of SnO 2 @g-C 3 N 4 heterojunctions via a simple precipitation route, for enhanced photocatalytic H 2 production.</description>
+      <author>Rizwan Hasan Khan, S. Ahmad, Haikal Muhammad Ihsan, S. Nadeem, Syed Zulfiqar, Ferry Anggoro Ardy Nugroho</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ra03721b</guid>
+    </item>
+    <item>
+      <title>Ammonia Evolution in Glycine Pyrolysis via Ionic-Pair Reaction Mechanisms</title>
+      <link>https://doi.org/10.1021/jacs.5c08868</link>
+      <description>Jacopo Lupi, Thantip Roongcharoen, Luca Sementa, Francesca Cicogna, Alessandro Nanni, Alessandro Fortunelli, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4412694448
+
+                No abstract</description>
+      <author>Jacopo Lupi, Thantip Roongcharoen, Luca Sementa, Francesca Cicogna, Alessandro Nanni, Alessandro Fortunelli</author>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c08868</guid>
+    </item>
+    <item>
+      <title>Advances in Stabilizing Spinel Cobalt Oxide&#8208;Based Catalysts for Acidic Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/advs.202509415</link>
+      <description>Chengli Rong, Qian Sun, Jiexin Zhu, Hamidreza Arandiyan, Zongping Shao, Yuan Wang, Yuan Chen, Advanced Science. None(None)] 2025. https://openalex.org/W4412697337
+
+                Abstract Oxygen evolution reaction (OER) is pivotal to sustainable energy storage and conversion technologies. Yet, its sluggish kinetics in acidic media and reliance on expensive noble metal catalysts limit its efficiency in these applications. Spinel cobalt(II, III) oxide (Co 3 O 4 )&#8208;based catalysts are cost&#8208;effective alternatives with high theoretical catalytic activity. However, their practical deployment is hindered by their poor stability in acidic electrolytes. This review critically examines recent advances in enhancing the stability of spinel Co 3 O 4 &#8208;based catalysts for acidic OER. The fundamental reaction mechanisms of acidic OER are first analyzed to illustrate how different catalyst design strategies can be used to improve their stability. Next, five key catalyst design strategies reported in recent studies are summarized: 1) constructing protective surface layers, 2) modulating reaction pathways, 3) controlling cobalt redox dynamics, 4) tuning cobalt&#8208;oxygen covalency, and 5) stabilizing lattice oxygen. Further, recent research progress in understanding the structure&#8208;activity&#8208;stability relationship of spinel Co 3 O 4 &#8208;based catalysts is summarized, with a focus on identifying their catalytically active sites, tracking surface reconstruction, and elucidating degradation mechanisms. This review ends with a discussion of future research directions for addressing key challenges in realizing durable, high&#8208;performance Co 3 O 4 &#8208;based catalysts for acidic OER applications.</description>
+      <author>Chengli Rong, Qian Sun, Jiexin Zhu, Hamidreza Arandiyan, Zongping Shao, Yuan Wang, Yuan Chen</author>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/advs.202509415</guid>
+    </item>
+    <item>
+      <title>Convergence of Body-Orders in Linear Atomic Cluster Expansions</title>
+      <link>https://doi.org/10.1021/acs.jpca.5c01335</link>
+      <description>Apolinario Miguel Tan, Franco Pellegrini, Stefano de Gironcoli, The Journal of Physical Chemistry A. None(None)] 2025. https://openalex.org/W4412699201
+
+                No abstract</description>
+      <author>Apolinario Miguel Tan, Franco Pellegrini, Stefano de Gironcoli</author>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.5c01335</guid>
+    </item>
+    <item>
+      <title>Reversible Structural Oscillation Mediates Stable Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/ange.202509915</link>
+      <description>Qunlei Wen, Tianyang Liu, Danji Huang, Yu Lin, Zhenhong Yang, Ruoou Yang, Youwen Liu, Xiaomeng Ai, Jiakun Fang, Yafei Li, Bao Yu Xia, Shijie Cheng, Tianyou Zhai, Angewandte Chemie. None(None)] 2025. https://openalex.org/W4412702121
+
+                Abstract The dynamic dissolution of active species of electrocatalysts suffers severe durability issues, thus limiting practical sustainable electrochemical application despite the enormous strides in the activity. An atomistic understanding of the dynamic pattern is a fundamental prerequisite for realizing prolonged stability. Herein, modeling on NiFe LDHs, multiple operando spectroscopies revealed the structural oscillation of the local [Ni&#8211;O 2 &#8211;Fe] unit identified a strong dependence on the alternant Fe dissolution and redeposition during the oxygen evolution reaction (OER) process, thus mediating the dynamic stability. At this point, a proof&#8208;of&#8208;concept strategy with S, Co co&#8208;doping was demonstrated to tune structural oscillations. In situ S leaching that alleviates the lattice mismatch suppresses Fe dissolution, while the electron&#8208;withdrawing Co as a deposition site promotes Fe redeposition, thus achieving the reversible oscillation of local [Ni/Co&#8211;O 2 &#8211;Fe] units and dynamic stability. The implementation of the modified NiFe LDH in industrial water electrolysis equipment operated steadily over 800 h (5000&#8208;h lifetime obtained by epitaxial method with 10% attenuation) with an energy consumption of 4.05 kWh Nm &#8722;3 H 2 @ 4000 A m &#8722;2 . The levelized cost of hydrogen of US$ 2.315 per kg H2 overmatches the European Commission's target for the coming decade (&lt;US$ 2.5 per kg H2 ).</description>
+      <author>Qunlei Wen, Tianyang Liu, Danji Huang, Yu Lin, Zhenhong Yang, Ruoou Yang, Youwen Liu, Xiaomeng Ai, Jiakun Fang, Yafei Li, Bao Yu Xia, Shijie Cheng, Tianyou Zhai</author>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202509915</guid>
+    </item>
+    <item>
+      <title>Surface Acidity of Oxygen Evolution Intermediates by Excited State Optical Spectroscopy</title>
+      <link>https://doi.org/10.1021/jacs.5c10001</link>
+      <description>Michael Paolino, Suryansh Singh, C. M. Boyd, Moritz Lang, Tanja Cuk, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4412703094
+
+                No abstract</description>
+      <author>Michael Paolino, Suryansh Singh, C. M. Boyd, Moritz Lang, Tanja Cuk</author>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c10001</guid>
+    </item>
+    <item>
+      <title>Machine-learned bond-order potential for exploring the configuration space of carbon</title>
+      <link>https://doi.org/10.1103/73gp-bm46</link>
+      <description>Ikuma Kohata, Kaoru Hisama, Keigo Otsuka, Shigeo Maruyama, Physical Review Materials. 9(7)] 2025. https://openalex.org/W4412703107
+
+                No abstract</description>
+      <author>Ikuma Kohata, Kaoru Hisama, Keigo Otsuka, Shigeo Maruyama</author>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/73gp-bm46</guid>
+    </item>
+    <item>
+      <title>A density functional theory study on transition metals loaded on antimonene as effective electrocatalysts for oxygen reduction reaction and oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.138577</link>
+      <description>Zhujun Li, Ting Yao, Yang Cai, Xin Chen, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4412703399
+
+                No abstract</description>
+      <author>Zhujun Li, Ting Yao, Yang Cai, Xin Chen</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.138577</guid>
+    </item>
+    <item>
+      <title>Tepkit: A toolkit for measuring and visualizing interatomic force constants and accelerating transport-property calculations</title>
+      <link>https://doi.org/10.1016/j.commatsci.2025.114151</link>
+      <description>Shu-Hao Cao, Xiang-Rong Chen, Zhao-Yi Zeng, Hua-Yun Geng, Computational Materials Science. 259(None)] 2025. https://openalex.org/W4412705306
+
+                No abstract</description>
+      <author>Shu-Hao Cao, Xiang-Rong Chen, Zhao-Yi Zeng, Hua-Yun Geng</author>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2025.114151</guid>
+    </item>
+    <item>
+      <title>Transferring Knowledge from MM to QM: A Graph Neural Network-Based Implicit Solvent Model for Small Organic Molecules</title>
+      <link>https://doi.org/10.1021/acs.jctc.5c00728</link>
+      <description>Paul Katzberger, Felix Pultar, Sereina Riniker, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4412705605
+
+                No abstract</description>
+      <author>Paul Katzberger, Felix Pultar, Sereina Riniker</author>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c00728</guid>
     </item>
     <item>
       <title>Spin State Differentiated [3Fe&#8211;4S] Cluster Electrocatalyzes Water Oxidation Efficiently</title>
