@@ -1,32 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Jul 30 01:54:10 2025
+Created on Thu Jul 31 01:53:48 2025
 
-Found 6 results from 2025-07-23 to 2025-07-30
+Found 5 results from 2025-07-24 to 2025-07-31
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Author response for "A diagonal volatility basis set to assess the condensation of organic vapors onto particles"   
-
-OpenAlex: https://openalex.org/W4412565945    
-Open access: False
-    
-[Brandon Lopez](https://openalex.org/A5019360565), [Nirvan Bhattacharyya](https://openalex.org/A5017157628), [Jenna DeVivo](https://openalex.org/A5092773428), [Mingyi Wang](https://openalex.org/A5100768996), [Lucía Caudillo](https://openalex.org/A5079509898), [Mihnea Surdu](https://openalex.org/A5076044930), [Federico Bianchi](https://openalex.org/A5075179945), [Zoé Brasseur](https://openalex.org/A5066558128), [Angela Buchholz](https://openalex.org/A5031061930), [Dexian Chen](https://openalex.org/A5074831361), [Jonathan Duplissy](https://openalex.org/A5088633919), [Xu‐Cheng He](https://openalex.org/A5043129752), [Victoria Hofbauer](https://openalex.org/A5012274245), [Naser G. A. Mahfouz](https://openalex.org/A5015886123), [В. С. Махмутов](https://openalex.org/A5036074857), [Ruby Marten](https://openalex.org/A5076543442), [Bernhard Mentler](https://openalex.org/A5090590782), [Maxim Philippov](https://openalex.org/A5090585494), [Meredith Schervish](https://openalex.org/A5038957567), [Dongyu Wang](https://openalex.org/A5100764279), [Stefan K. Weber](https://openalex.org/A5041814082), [André Welti](https://openalex.org/A5057462897), [Imad El Haddad](https://openalex.org/A5080319960), [Katrianne Lehtipalo](https://openalex.org/A5019559780), [Markku Kulmala](https://openalex.org/A5000471665), [Douglas R. Worsnop](https://openalex.org/A5026978286), [J. Kirkby](https://openalex.org/A5009274507), [Roy L. Mauldin](https://openalex.org/A5006970537), [Dominik Stolzenburg](https://openalex.org/A5063223340), [Siegfried Schobesberger](https://openalex.org/A5033551265), [Richard C. Flagan](https://openalex.org/A5012711441), [Neil M. Donahue](https://openalex.org/A5041685684), No host. None(None)] 2025.https://doi.org/10.1039/d5ea00062a/v2/response1.
-    
-No abstract    
-
-    
-
-## Optimizing forest planning: Balancing timber production and carbon sequestration through a multi-objective disjunctive formulation   
-
-OpenAlex: https://openalex.org/W4412589428    
-Open access: False
-    
-[Frank Piedra-Jiménez](https://openalex.org/A5091201904), [Diego Broz](https://openalex.org/A5019969951), [Juan M. Novas](https://openalex.org/A5039055246), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [María Analía Rodriguez](https://openalex.org/A5103124875), Forest Policy and Economics. 178(None)] 2025.https://doi.org/10.1016/j.forpol.2025.103575.
-    
-No abstract    
-
-    
 
 ## Calibrating Interdependent Photochemistry, Nucleation, and Aerosol Microphysics in Chamber Experiments   
 
@@ -67,6 +45,17 @@ OpenAlex: https://openalex.org/W4412702394
 Open access: True
     
 [Yash Girish Shah](https://openalex.org/A5038961197), [Amiee Jackson](https://openalex.org/A5058240716), [Costas Tsouris](https://openalex.org/A5032628026), [Charles Finney](https://openalex.org/A5040481477), [Grigorios Panagakos](https://openalex.org/A5028498558), Digital Chemical Engineering. None(None)] 2025.https://doi.org/10.1016/j.dche.2025.100252.
+    
+No abstract    
+
+    
+
+## Multistage Economic MPC for Systems with a Cyclic Steady State: A Gas Network Case Study   
+
+OpenAlex: https://openalex.org/W4412714218    
+Open access: True
+    
+[Sakshi Naik](https://openalex.org/A5054628015), [Lavinia Marina Paola Ghilardi](https://openalex.org/A5022525870), [Robert Parker](https://openalex.org/A5062143627), [Lorenz T. Biegler](https://openalex.org/A5052825722), Chemical Engineering Science. None(None)] 2025.https://doi.org/10.1016/j.ces.2025.122276.
     
 No abstract    
 

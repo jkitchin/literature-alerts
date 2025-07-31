@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Jul 2025 01:54:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 01:53:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>In-situ formed metal borates enable industrial-level seawater splitting via corrosion-resistant CoFe-boride nanocatalysts</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.138519</link>
-      <description>Fakhr uz Zaman, Karim Harrath, Felix Ofori Boakye, Fuhai Zhang, Wenbin Zhang, Fekadu Tsegaye Dajan, Sikandar Iqbal, Fereja Shemsu Ligani, Wei Zhao, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4412564521
-
-                No abstract</description>
-      <author>Fakhr uz Zaman, Karim Harrath, Felix Ofori Boakye, Fuhai Zhang, Wenbin Zhang, Fekadu Tsegaye Dajan, Sikandar Iqbal, Fereja Shemsu Ligani, Wei Zhao</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.138519</guid>
-    </item>
-    <item>
-      <title>Self-Reconstructing Amorphous High-Entropy Oxides for CO2-Free Methanol Electroreforming and Hydrogen Generation</title>
-      <link>https://doi.org/10.1016/j.apcatb.2025.125721</link>
-      <description>Xi Liu, Xueting Zhao, Zhiwen Lu, Kai Chen, Jiyuan Gao, Huibing Wang, Junxiang Chen, Zhenhai Wen, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4412564882
-
-                No abstract</description>
-      <author>Xi Liu, Xueting Zhao, Zhiwen Lu, Kai Chen, Jiyuan Gao, Huibing Wang, Junxiang Chen, Zhenhai Wen</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125721</guid>
-    </item>
-    <item>
-      <title>Rare earths evoked gradient orbital coupling in electrocatalysis: Recent advances and future perspectives</title>
-      <link>https://doi.org/10.1016/j.pmatsci.2025.101539</link>
-      <description>Xuan Wang, Meng Li, Yawen Tang, Hao Li, Gengtao Fu, Progress in Materials Science. None(None)] 2025. https://openalex.org/W4412569579
-
-                No abstract</description>
-      <author>Xuan Wang, Meng Li, Yawen Tang, Hao Li, Gengtao Fu</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.pmatsci.2025.101539</guid>
-    </item>
-    <item>
-      <title>Enhanced Hydrogen Evolution Activity and Durability of Noble Metal Monolayer Catalysts on TiM3 Alloy Substrates: A Density Functional Theory Study</title>
-      <link>https://doi.org/10.1016/j.surfin.2025.107263</link>
-      <description>Suihao Zhang, Zhixiao Liu, Guangdong Liu, Huiqiu Deng, Surfaces and Interfaces. None(None)] 2025. https://openalex.org/W4412569686
-
-                No abstract</description>
-      <author>Suihao Zhang, Zhixiao Liu, Guangdong Liu, Huiqiu Deng</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.107263</guid>
-    </item>
-    <item>
-      <title>Energy&#8208;Efficient and Scalable Joule Heating Synthesis of Self&#8208;Standing Transition Metal Phosphide Electrodes for Full Water Splitting</title>
-      <link>https://doi.org/10.1002/aenm.202502150</link>
-      <description>Liel Abisdris, Muhammad Saad Naeem, Marco Bianchini, Isaac Herr&#227;iz&#8208;Cardona, Jonathan Tzadikov, Adi Azoulay, Rotem Geva, Michael Volokh, Joshua H. Baraban, N&#250;ria L&#243;pez, Menny Shalom, Advanced Energy Materials. None(None)] 2025. https://openalex.org/W4412571001
-
-                Abstract Transition metal phosphides (TMPs) show promise as low&#8208;cost (pre)electrocatalysts for water splitting and other energy&#8208;related applications. However, their traditional synthesis methods face challenges in energy consumption, stability, and reproducibility due to the reaction at high temperatures. Here, the Joule heating (JH) method for the scalable synthesis of TMPs (Ni, Cu, and In) as self&#8208;standing electrodes and powders is presented. The JH synthesis demonstrates substantial economic efficiency and significantly reduces energy consumption and environmental impacts while enhancing reproducibility due to fast processing times. Large&#8208;scale nickel phosphide&#8208;based electrodes are synthesized with various transition metal dopants and assembled into an anion exchange membrane water electrolyzer as anode and cathode, maintaining a cell potential of a maximum of 1.8 V at 200 mA cm&#8315; 2 under 55 &#176;C for 7 days. These results highlight the JH synthesis as a promising approach for the scalable production of high&#8208;performance self&#8208;standing electrodes for energy&#8208;related devices.</description>
-      <author>Liel Abisdris, Muhammad Saad Naeem, Marco Bianchini, Isaac Herr&#227;iz&#8208;Cardona, Jonathan Tzadikov, Adi Azoulay, Rotem Geva, Michael Volokh, Joshua H. Baraban, N&#250;ria L&#243;pez, Menny Shalom</author>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202502150</guid>
-    </item>
-    <item>
-      <title>Photoinduced dynamics of CO on Ru(0001): Understanding experiments by simulations with all degrees of freedom</title>
-      <link>https://doi.org/10.1063/5.0278850</link>
-      <description>Bruno Mladineo, J. I. Juaristi, M. Alducin, Peter Saalfrank, Ivor Lon&#269;ari&#263;, The Journal of Chemical Physics. 163(4)] 2025. https://openalex.org/W4412578065
-
-                Real-time pump&#8211;probe experiments are powerful tools for monitoring chemical reactions but often need parallel theoretical modeling to disentangle different contributions. Monitoring x-ray spectra of photoinduced dynamics of CO on Ru(0001) provided a strong indication for a transient &#8220;precursor state&#8221; of unidentified nature to various subsequent outcomes. So far, the precise nature of the postulated precursor has also remained elusive in state-of-the-art ab initio molecular dynamics models, including single-moving CO molecules. In the present work, we have constructed a density functional theory-based machine learning interatomic potential energy surface that is valid for all ionic degrees of freedom of the system, comprising many molecules at various coverages and moving surface atoms. Our Langevin dynamics with electronic friction based on the new potential energy surface identified the precursor state as dynamically trapped molecules around 6 &#197; from the surface that arise from adsorbate&#8211;adsorbate interactions. We have compared our results to experimental observations and calculated the dependence of reaction probabilities on pump laser fluence and initial surface coverage.</description>
-      <author>Bruno Mladineo, J. I. Juaristi, M. Alducin, Peter Saalfrank, Ivor Lon&#269;ari&#263;</author>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0278850</guid>
-    </item>
-    <item>
-      <title>DFT study of transition metal clusters TMn (n: 1&#8211;6) for the hydrogen evolution reaction (HER)</title>
-      <link>https://doi.org/10.1016/j.cplett.2025.142299</link>
-      <description>Yuan Yuan, Yujia Xie, Dengyang Guo, Yang Lv, Na Li, Yirong Zhu, Chemical Physics Letters. None(None)] 2025. https://openalex.org/W4412585369
-
-                No abstract</description>
-      <author>Yuan Yuan, Yujia Xie, Dengyang Guo, Yang Lv, Na Li, Yirong Zhu</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2025.142299</guid>
-    </item>
-    <item>
-      <title>High throughput screening of transition metal anchored C9N10 electrocatalysts for oxygen reduction</title>
-      <link>https://doi.org/10.1016/j.diamond.2025.112673</link>
-      <description>Yuwen Xue, Keyuan Chen, Defa Hou, Fulin Yang, Yi Lu, Can Liu, Xu Lin, Hui Gao, Xiaohua Yu, Zhifeng Zheng, Hao Sun, Yunwu Zheng, Diamond and Related Materials. None(None)] 2025. https://openalex.org/W4412599809
-
-                No abstract</description>
-      <author>Yuwen Xue, Keyuan Chen, Defa Hou, Fulin Yang, Yi Lu, Can Liu, Xu Lin, Hui Gao, Xiaohua Yu, Zhifeng Zheng, Hao Sun, Yunwu Zheng</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2025.112673</guid>
-    </item>
-    <item>
-      <title>Substantial Magnetic Fields Arising from Ballistic Ring Currents in Single-Molecule Junctions</title>
-      <link>https://doi.org/10.1021/jacsau.5c00735</link>
-      <description>William Bro&#8208;J&#248;rgensen, Stephan P. A. Sauer, Gemma C. Solomon, Marc H. Garner, JACS Au. None(None)] 2025. https://openalex.org/W4412604296
-
-                No abstract</description>
-      <author>William Bro&#8208;J&#248;rgensen, Stephan P. A. Sauer, Gemma C. Solomon, Marc H. Garner</author>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacsau.5c00735</guid>
-    </item>
     <item>
       <title>Regulating the local environment of Ni single-atom catalysts with heteroatoms for efficient CO2 electroreduction</title>
       <link>https://doi.org/10.1016/s1872-2067(25)64679-1</link>
@@ -262,7 +172,7 @@
       <link>https://doi.org/10.1021/acs.jctc.5c00784</link>
       <description>Ruoyu Wang, Shaoheng Fang, Qixing Huang, Yuanyue Liu, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4412687597
 
-                No abstract</description>
+                Better understanding and prediction of the electrochemical interface require large-scale atomistic simulations. Machine learning force fields (MLFFs) have proven to be an effective approach. However, current MLFFs typically do not account for the effect of electrode potential, which requires treating interface electrons with a grand canonical ensemble. Here, we develop a constant potential MLFF (CP-MLFF) based on an equivariant graph neural network and implement it into MACE. Specifically, we design an architecture that can take the number of electrons as the input and accurately predict the Fermi level. The CP-MLFF allows us to examine the convergency of the electrochemical barrier with respect to sampling, which we demonstrate through the example of CO2 reduction on the Ni-N-C catalyst. Our work provides a useful method and tool enabling accurate and efficient large-scale simulation of the electrochemical interface.</description>
       <author>Ruoyu Wang, Shaoheng Fang, Qixing Huang, Yuanyue Liu</author>
       <pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c00784</guid>
@@ -302,7 +212,7 @@
       <link>https://doi.org/10.1021/jacs.5c08868</link>
       <description>Jacopo Lupi, Thantip Roongcharoen, Luca Sementa, Francesca Cicogna, Alessandro Nanni, Alessandro Fortunelli, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4412694448
 
-                No abstract</description>
+                Amino acids are key contributors to nitrogenous emissions during biomass pyrolysis, yet the underlying reaction mechanisms governing their thermal degradation remain only partially understood. In this study, we combine systematic reaction path search algorithms with chemical insight and density functional theory (DFT) simulations to investigate the thermal decomposition of glycine (Gly), the simplest amino acid, with a focus on the formation of ammonia (NH3), a major precursor of environmentally harmful NOx species. We derive a comprehensive reaction network for the thermal decomposition of Gly. Notably, we show that, at variance with water (H2O) that can be generated via simple dimerization in the gas phase, NH3 evolution is kinetically unfavorable at moderate temperatures and low-pressure conditions, while it can proceed with much smaller barriers in the condensed phase via many-body mechanisms involving ionic-pair proton-exchange-driven polymerization pathways. Under such conditions, we predict that NH3 evolution competes with H2O formation, reconciling theoretical predictions with experimental observations.</description>
       <author>Jacopo Lupi, Thantip Roongcharoen, Luca Sementa, Francesca Cicogna, Alessandro Nanni, Alessandro Fortunelli</author>
       <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c08868</guid>
@@ -322,7 +232,7 @@
       <link>https://doi.org/10.1021/acs.jpca.5c01335</link>
       <description>Apolinario Miguel Tan, Franco Pellegrini, Stefano de Gironcoli, The Journal of Physical Chemistry A. None(None)] 2025. https://openalex.org/W4412699201
 
-                No abstract</description>
+                We study the convergence of a linear atomic cluster expansion (ACE) potential with respect to its basis functions, in terms of the effective two-body interactions of elemental carbon and silicon systems. We build ACE potentials with descriptor sets truncated at body-orders K = 2 to K = 5 trained on a diverse carbon data set and on silicon dimers to pentamers. The potentials trained on diverse structures with standard ACE bases are not able to recover the correct dimer curves, much less produce stable curves or solutions. While employing ACE bases removed of self-interactions still does not generalize to the DFT-expected results, properly tailored data sets and basis sets are able to show signs of convergence and stability in the curves and expansions, suggesting a method to build potentials with interpretable bases with respect to the cluster expansion.</description>
       <author>Apolinario Miguel Tan, Franco Pellegrini, Stefano de Gironcoli</author>
       <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.5c01335</guid>
@@ -342,7 +252,7 @@
       <link>https://doi.org/10.1021/jacs.5c10001</link>
       <description>Michael Paolino, Suryansh Singh, C. M. Boyd, Moritz Lang, Tanja Cuk, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4412703094
 
-                No abstract</description>
+                While the protonation of homogeneous metal-oxide catalysts is quite relevant for mechanisms in aqueous solution, the relevance of surface acidity to catalytic mechanisms of heterogeneous metal oxides is far less understood. Without a distinguishing metric ascribed to transient intermediates, invoking surface acidity is limited to rationalizing pH-dependent product evolution. Recently, the emissive population associated with intermediates of electron and proton transfer at a titanium oxide surface demonstrated an isotherm with pH whose half-rise occurred at pH = 11.8. As detected by a time-resolved visible broadband probe, the intermediates formed within &lt;2 ps upon photoexcitation of the oxygen evolution reaction (OER) at an electron-doped (0.1% Nb) SrTiO3/aqueous interface. Here, we demonstrate how the pH dependence of the &lt;2 ps population is preserved such that when the intermediate population finally decays with a time constant of 10 &#956;s, it does so with a pH onset at 11.4. The distinctive pH associated with a metastable population ascribes a surface acidity to the first intermediate of water oxidation, interpreted as favoring Ti-OH&#8226; below and Ti-O&#8226;- above an acid dissociation constant (i.e., pKa). The work shows that the excited state optical spectroscopy is sensitive to protonation over the lifetime of metastable intermediates. Further, it shows that the details of the hydration layer prior to excitation are important for stabilizing intermediate populations of different acidities that then affect the chemical steps of water oxidation catalysis at longer time scales, e.g., bond formation.</description>
       <author>Michael Paolino, Suryansh Singh, C. M. Boyd, Moritz Lang, Tanja Cuk</author>
       <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c10001</guid>
@@ -382,20 +292,80 @@
       <link>https://doi.org/10.1021/acs.jctc.5c00728</link>
       <description>Paul Katzberger, Felix Pultar, Sereina Riniker, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4412705605
 
-                No abstract</description>
+                The conformational ensemble of a molecule is strongly influenced by the surrounding environment. Correctly modeling the effect of any given environment is, hence, of pivotal importance in computational studies. Machine learning (ML) has been shown to be able to model these interactions probabilistically, with successful applications demonstrated for classical molecular dynamics. While first instances of ML implicit solvents for quantum-mechanical (QM) calculations exist, the high computational cost of QM reference calculations hinders the development of a generally applicable ML implicit solvent model for QM calculations. Here, we present a novel way of developing such a general machine-learned QM implicit solvent model by transferring knowledge obtained from classical interactions to QM, emulating a QM/MM setup with electrostatic embedding and a nonpolarizable MM solvent. This has the profound advantages that neither QM/MM reference calculations nor experimental data are required for training and that the obtained graph neural network (GNN)-based implicit solvent model (termed QM-GNNIS) is compatible with any functional and basis set. QM-GNNIS is currently applicable to small organic molecules and describes 39 different organic solvents. The performance of QM-GNNIS is validated on NMR and IR experiments, demonstrating that the approach can reproduce experimentally observed trends unattainable by state-of-the-art implicit-solvent models paired with static QM calculations.</description>
       <author>Paul Katzberger, Felix Pultar, Sereina Riniker</author>
       <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c00728</guid>
     </item>
     <item>
-      <title>Spin State Differentiated [3Fe&#8211;4S] Cluster Electrocatalyzes Water Oxidation Efficiently</title>
-      <link>https://doi.org/10.1002/cssc.202500812</link>
-      <description>Rong Yan, Qian&#8208;Cheng Luo, Zi&#8208;Han Li, Nana Sun, Wei&#8208;Peng Chen, Yuan&#8208;Qi Zhai, H. Yin, Xiaotai Wang, Xin Tu, Yan&#8208;Zhen Zheng, ChemSusChem. None(None)] 2025. https://openalex.org/W4412602809
+      <title>Advances in computational design of van der Waals heterostructures for photocatalytic water splitting</title>
+      <link>https://doi.org/10.1039/d5ta02722e</link>
+      <description>Ramandeep Singh, Pooja Jamdagni, Ashok Kumar, K. Tankeshwar, Ravindra Pandey, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4412706704
 
-                Though there are many synthetic iron&#8211;sulfur clusters that have been reported to show catalytic activity mimicking the natural cofactors in metalloenzymes, the influence of the spin state on the catalytic property is seldom touched. Here, a disulfide&#8208;bridged triiron(II) complex is shown, namely [Fe 3 (Sip) 4 ][CF 3 SO 3 ] 2 ( Fe 3 (Sip) 4 , HSip = sulfanylpropyliminomethyl&#8208;pyridine), can efficiently electrocatalyze water oxidation with a turnover frequency of 932 s &#8722;1 and Faraday efficiency of 86%, better than many iron&#8208;based catalysts. More importantly, the terminal low&#8208;spin ( S = 0) iron(II) sites possessing a N4S2 first coordination environment, along with the synergetic catalysis of ligands, play a crucial role in the catalytic process. This research highlights the unconventional applications of iron&#8211;sulfur clusters in electrocatalytic water oxidation and underlines a promising avenue for developing innovative catalysts.</description>
-      <author>Rong Yan, Qian&#8208;Cheng Luo, Zi&#8208;Han Li, Nana Sun, Wei&#8208;Peng Chen, Yuan&#8208;Qi Zhai, H. Yin, Xiaotai Wang, Xin Tu, Yan&#8208;Zhen Zheng</author>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202500812</guid>
+                Light-driven photocatalytic water splitting is a promising approach to renewable hydrogen production, driven by the increasing global energy demand.</description>
+      <author>Ramandeep Singh, Pooja Jamdagni, Ashok Kumar, K. Tankeshwar, Ravindra Pandey</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ta02722e</guid>
+    </item>
+    <item>
+      <title>Engineering 3D-printed molybdenum carbide catalysts for selective CO2 reduction to CO</title>
+      <link>https://doi.org/10.1016/j.cej.2025.166134</link>
+      <description>Arturo Pajares, Mehmet Tanr&#305;verdi, Eduardo Couti&#241;o&#8208;Gonz&#225;lez, Jacob Andrade&#8208;Arvizu, Maxim Guc, Pablo Guardia, H&#232;ctor Prats, Bart Michielsen, Chemical Engineering Journal. 520(None)] 2025. https://openalex.org/W4412711710
+
+                No abstract</description>
+      <author>Arturo Pajares, Mehmet Tanr&#305;verdi, Eduardo Couti&#241;o&#8208;Gonz&#225;lez, Jacob Andrade&#8208;Arvizu, Maxim Guc, Pablo Guardia, H&#232;ctor Prats, Bart Michielsen</author>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.166134</guid>
+    </item>
+    <item>
+      <title>Rapid carbothermic shock synthesis of high-entropy oxides as highly stable oxygen evolution reaction catalysts</title>
+      <link>https://doi.org/10.1016/j.jpowsour.2025.237967</link>
+      <description>Changyu Hu, Huidong Xie, Cheng Chen, Xiaoyu Liu, Hao Chen, Lingyi Meng, Hu Liu, Journal of Power Sources. 655(None)] 2025. https://openalex.org/W4412711831
+
+                No abstract</description>
+      <author>Changyu Hu, Huidong Xie, Cheng Chen, Xiaoyu Liu, Hao Chen, Lingyi Meng, Hu Liu</author>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.237967</guid>
+    </item>
+    <item>
+      <title>Screening and mechanistic study of transition metal and non-metal mono-/co-doped WS2 with anti-site defects as nitrogen reduction electrocatalysts</title>
+      <link>https://doi.org/10.1016/j.fuel.2025.136349</link>
+      <description>Huaping Xiong, Yue Meng, Bo Xie, Zheming Ni, Shengjie Xia, Fuel. 404(None)] 2025. https://openalex.org/W4412715582
+
+                No abstract</description>
+      <author>Huaping Xiong, Yue Meng, Bo Xie, Zheming Ni, Shengjie Xia</author>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.136349</guid>
+    </item>
+    <item>
+      <title>Transient Surface Degradation of LSCO and LSFO during OER in Alkaline Electrolyte under Dynamic Cycling Conditions</title>
+      <link>https://doi.org/10.1021/acscatal.5c02273</link>
+      <description>Anton Kaus, Bixian Ying, Zhenjie Teng, Muzaffar Maksumov, Lisa Heymann, Michael Merz, S. Schuppler, Peter Nagel, Florian Hausen, Karin Kleiner, Felix Gunkel, ACS Catalysis. None(None)] 2025. https://openalex.org/W4412716932
+
+                No abstract</description>
+      <author>Anton Kaus, Bixian Ying, Zhenjie Teng, Muzaffar Maksumov, Lisa Heymann, Michael Merz, S. Schuppler, Peter Nagel, Florian Hausen, Karin Kleiner, Felix Gunkel</author>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c02273</guid>
+    </item>
+    <item>
+      <title>Machine Learning Estimation of Inter-atomic Potentials in Plasma Material Interaction Molecular Dynamic Modelling</title>
+      <link>https://doi.org/10.1007/978-3-031-97992-7_13</link>
+      <description>Alper Pahsa, Lecture notes in networks and systems. None(None)] 2025. https://openalex.org/W4412719240
+
+                No abstract</description>
+      <author>Alper Pahsa</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-97992-7_13</guid>
+    </item>
+    <item>
+      <title>Review: beyond the surface&#8212;exploring the complexities of 2D materials with density functional theory</title>
+      <link>https://doi.org/10.1007/s10853-025-11190-0</link>
+      <description>Mehedi Hasan, Heider A. Abdulhussein, Journal of Materials Science. None(None)] 2025. https://openalex.org/W4412722169
+
+                No abstract</description>
+      <author>Mehedi Hasan, Heider A. Abdulhussein</author>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10853-025-11190-0</guid>
     </item>
     <item>
       <title>High-entropy RuO2 catalyst with dual-site oxide path for durable acidic oxygen evolution reaction</title>
