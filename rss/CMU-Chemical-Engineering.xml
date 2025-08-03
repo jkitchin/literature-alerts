@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 Aug 2025 01:48:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 02:01:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -66,6 +66,16 @@
       <author>Nadia Ait Labyad, Abdallah El-asri, Moussa Amrani, Andrew J. Gellman, Herv&#233; Mart&#237;nez</author>
       <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2025.113413</guid>
+    </item>
+    <item>
+      <title>Advances on MagLITe: deposition and photocollection efficiency</title>
+      <link>https://doi.org/10.1088/1748-0221/20/08/c08002</link>
+      <description>B. Gelli, Gabriel dos Passos Gomes, Rosa Sol&#224;, V.C. Palav&#233;ri, Paloma L&#243;pez-Reyes, Juan I. Larruquert, P. Schio, F. C. Marques, E. Kemp, Journal of Instrumentation. 20(08)] 2025. https://openalex.org/W4412827379
+
+                Abstract MagLITe (Magnesium Fluoride Light collection Improvement Technique) is a novel approach to enhancing light collection efficiency in liquid argon (LAr) particle detectors while addressing critical limitations of traditional wavelength shifters (WLS). This work presents new results on the development, characterization, and performance of MagLITe. Using a protective thin-film coating of magnesium fluoride (MgF 2 ), MagLITe mitigates issues of WLS degradation and reflection losses while increasing photocollection efficiency. A modified Transfer Matrix Method (TMM) was employed to model and optimize the optical stack, and experimental validation was performed using a custom-designed LAr test setup. A first comparative measurements between bare WLS and MagLITe-coated samples demonstrate a 7.3% increase in photocollection efficiency, validating the potential of MagLITe for future large-scale neutrino experiments.</description>
+      <author>B. Gelli, Gabriel dos Passos Gomes, Rosa Sol&#224;, V.C. Palav&#233;ri, Paloma L&#243;pez-Reyes, Juan I. Larruquert, P. Schio, F. C. Marques, E. Kemp</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1088/1748-0221/20/08/c08002</guid>
     </item>
   </channel>
 </rss>

@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 Aug 2025 01:48:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 02:02:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Theory-guided Electron Delocalization Modulation at Cu&#8722;O&#8722;Ce Sites Boosts CO2 Electroreduction to Ethylene</title>
-      <link>https://doi.org/10.1016/j.apcatb.2025.125741</link>
-      <description>Peng Wei, Shilun Wang, Yu&#8208;Kun Qian, Yongqing Fu, Yao Shen, Jingkai Zhao, Jiexu Ye, Qiaoli Wang, Pengfei Xie, Shihan Zhang, Xiang Gao, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4412658024
-
-                No abstract</description>
-      <author>Peng Wei, Shilun Wang, Yu&#8208;Kun Qian, Yongqing Fu, Yao Shen, Jingkai Zhao, Jiexu Ye, Qiaoli Wang, Pengfei Xie, Shihan Zhang, Xiang Gao</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125741</guid>
-    </item>
-    <item>
-      <title>Recent advances in metal-organic complexes for hydrogen and oxygen evolution reactions: Material design and mechanistic insights</title>
-      <link>https://doi.org/10.1016/j.ica.2025.122859</link>
-      <description>Yingying Gu, Chuan Zhang, Minfeng Meng, Xianlong Ge, Shaohua Hu, Yankai Song, Inorganica Chimica Acta. None(None)] 2025. https://openalex.org/W4412658222
-
-                No abstract</description>
-      <author>Yingying Gu, Chuan Zhang, Minfeng Meng, Xianlong Ge, Shaohua Hu, Yankai Song</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ica.2025.122859</guid>
-    </item>
-    <item>
-      <title>Topology-Driven Search for Molecular Links in Nanoclusters: Structure Prediction for Au&lt;sub&gt;16&lt;/sub&gt;(SR)&lt;sub&gt;14&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acs.jpclett.5c01668</link>
-      <description>Jing Qian, Jingkuan Lyu, Zhucheng Yang, Jianping Xie, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4412660378
-
-                No abstract</description>
-      <author>Jing Qian, Jingkuan Lyu, Zhucheng Yang, Jianping Xie</author>
-      <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c01668</guid>
-    </item>
     <item>
       <title>High-entropy RuO2 catalyst with dual-site oxide path for durable acidic oxygen evolution reaction</title>
       <link>https://doi.org/10.1038/s41467-025-61763-5</link>
@@ -536,6 +506,86 @@
       <author>Haoran Cheng, Hong Seok Kim</author>
       <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/eem2.70103</guid>
+    </item>
+    <item>
+      <title>Surface Reconstruction of PtRhNiMoPd Nanocrystals Facilitates Hydrogen Evolution from Acidic Electrolytic Water</title>
+      <link>https://doi.org/10.1021/acsami.5c05884</link>
+      <description>Ziting Li, Pei Xiong, Min Wei, Jike Wang, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4412818028
+
+                The development and design of Pt-based alloy catalysts with high activity and stability are important for the hydrogen evolution reaction, especially in acidic media. Here, we report a mild acid-impregnated reconfiguration strategy to construct defects and strain effect (PtRhNiMoPd NCs-80&#176;C-6h) by removing unstable Ni atoms in acetic acid treatment. Only 5.6 mV is required to achieve a current density of -10 mA cm-2 for PtRhNiMoPd NCs-80&#176;C-6h in an acid electrolyte. Meanwhile, PtRhNiMoPd NCs-80&#176;C-6h exhibits negligible degradation after 10,000 cycles, which is superior to commercial Pt/C. This suggests that surface reconstruction can expose more efficient active sites and improve the adsorption of intermediates on the active sites, enhancing the catalytic performance. This study provides a new perspective for the rational design of high-entropy alloy nanomaterials with an efficient hydrogen evolution performance.</description>
+      <author>Ziting Li, Pei Xiong, Min Wei, Jike Wang</author>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c05884</guid>
+    </item>
+    <item>
+      <title>Redox chemistry meets semiconductor defect physics</title>
+      <link>https://doi.org/10.1063/5.0270226</link>
+      <description>Jian Gu, Jun Huang, Jun Cheng, The Journal of Chemical Physics. 163(5)] 2025. https://openalex.org/W4412824011
+
+                Understanding how the electronic structure of electrodes influences electrocatalytic reactions has been a longstanding topic in the electrochemistry community, with predominant attention paid to metallic electrodes. In this work, we present a defect physics perspective on the effect of semiconductor band structure on electrochemical redox reactions. Specifically, the Haldane&#8211;Anderson model, originally developed to study multiple charge states of transition-metal defects in semiconductors, is extended to describe electrochemical redox reactions by incorporating the solvent effect, inspired by the Holstein model. The solvent coordinate and the actual charge on the redox species in reduced and oxidized states are assumed to be in instant equilibrium, and the transitions between these states are defined by the framework of Green&#8217;s function. With these treatments, the charge state transitions are handled in a self-consistent manner, and the implications of charge self-consistency (or, equivalently, charge self-regulation) on electrocatalysis can be investigated explicitly. We first confirm that this self-consistent approach is essential to accurately depict the hybridization effect of band structure by comparing the model-calculated ionization potential and electron affinity, as well as the redox potential of the species, with those obtained from density functional theory calculations. Next, we illustrate that the effect of charge self-consistency is key to obtaining a fuller understanding of the catalytic activities of semiconductor electrodes and the source of asymmetry in reorganization energies, which is often observed in prior ab initio molecular dynamics simulations. In addition, we discuss how band structure impacts redox reactions in the strong coupling limit. Finally, we compare our work with other relevant studies in the literature.</description>
+      <author>Jian Gu, Jun Huang, Jun Cheng</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0270226</guid>
+    </item>
+    <item>
+      <title>DPmoire: a tool for constructing accurate machine learning force fields in moir&#233; systems</title>
+      <link>https://doi.org/10.1038/s41524-025-01740-0</link>
+      <description>J.D. Liu, Fang Zhong, Hongming Weng, Quansheng Wu, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4412825031
+
+                No abstract</description>
+      <author>J.D. Liu, Fang Zhong, Hongming Weng, Quansheng Wu</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01740-0</guid>
+    </item>
+    <item>
+      <title>Electrochemical Generation of Chlorine and Hydrogen from Waste Poly(vinyl chloride)</title>
+      <link>https://doi.org/10.1021/acssuschemeng.5c04559</link>
+      <description>Bertrand J. Neyhouse, Grace Cook, Rahul Kant Jha, Anne J. McNeil, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2025. https://openalex.org/W4412826285
+
+                No abstract</description>
+      <author>Bertrand J. Neyhouse, Grace Cook, Rahul Kant Jha, Anne J. McNeil</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.5c04559</guid>
+    </item>
+    <item>
+      <title>Anion-Exchange-Membrane Electrolysis with Alkali-Free Water Feed</title>
+      <link>https://doi.org/10.1021/acs.chemrev.4c00466</link>
+      <description>Mohsin Muhyuddin, Carlo Santoro, Luigi Osmieri, Valerio C.A. Ficca, Ariel Friedman, Karam Yassin, Gioele Pagot, Enrico Negro, Anastasiia Konovalova, Grace Lindquist, Liam Twight, Minkyoung Kwak, Enrico Berretti, Vito Di Noto, Fr&#233;d&#233;ric Jaouen, Lior Elbaz, Dario R. Dekel, Piercarlo Mustarelli, Shannon W. Boettcher, Alessandro Lavacchi, Plamen Atanassov, Chemical Reviews. None(None)] 2025. https://openalex.org/W4412829789
+
+                No abstract</description>
+      <author>Mohsin Muhyuddin, Carlo Santoro, Luigi Osmieri, Valerio C.A. Ficca, Ariel Friedman, Karam Yassin, Gioele Pagot, Enrico Negro, Anastasiia Konovalova, Grace Lindquist, Liam Twight, Minkyoung Kwak, Enrico Berretti, Vito Di Noto, Fr&#233;d&#233;ric Jaouen, Lior Elbaz, Dario R. Dekel, Piercarlo Mustarelli, Shannon W. Boettcher, Alessandro Lavacchi, Plamen Atanassov</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.4c00466</guid>
+    </item>
+    <item>
+      <title>Proton-Relaying Adsorbates Induce Non-Nernstian Behavior in Oxygen Reduction</title>
+      <link>https://doi.org/10.1021/acscatal.5c01767</link>
+      <description>Lulu Zhang, Donghui Zhao, Weiqiang Tang, Yanxia Chen, Jun Huang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4412839552
+
+                No abstract</description>
+      <author>Lulu Zhang, Donghui Zhao, Weiqiang Tang, Yanxia Chen, Jun Huang</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c01767</guid>
+    </item>
+    <item>
+      <title>Proton Exchange Membrane Fuel Cells: Electrocatalysts</title>
+      <link>https://doi.org/10.1007/978-981-96-9845-5_5</link>
+      <description>Yinshi Li, No host. None(None)] 2025. https://openalex.org/W4412845495
+
+                No abstract</description>
+      <author>Yinshi Li</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-981-96-9845-5_5</guid>
+    </item>
+    <item>
+      <title>Experimental and Theoretical Investigations on Magneto&#8208;Electrochemical Oxygen Evolution Reaction of CoFeP Nanorods</title>
+      <link>https://doi.org/10.1002/admi.202500321</link>
+      <description>Mohammed Arkham Belgami, Afsal S. Shajahan, Erdenebayar Baasanjav, Vishwanath Ankalgi, Brahmananda Chakraborty, Sang Mun Jeong, Chandra Sekhar Rout, Advanced Materials Interfaces. None(None)] 2025. https://openalex.org/W4412845647
+
+                Abstract The pursuit of low&#8208;cost, efficient, and durable electrocatalysts for oxygen evolution in alkaline media is vital for water&#8208;splitting applications. Herein, the hydrothermal&#8208;based synthesis of a multiphase ferromagnetic catalyst CoFeP, comprising FeP, CoP, and Fe 2 P is reported. Structural analyses confirm the coexistence of phases, and electrochemical studies reveal excellent OER activity. CoFeP exhibits an overpotential of 335 mV at 50 mA cm &#8722;2 and a Tafel slope of 116 mV dec &#8722;1 without a magnetic field, whereas under the magnetic field of 2000 G, these values lowered to 235 mV and 93 mV dec &#8722;1 , respectively. The enhancement is attributed to magnetic&#8208;field&#8208;induced spin polarization, surface reconstruction, and increased ECSA from 70 to 110 mF cm &#8722;2 , highlighting the potential of magnetic modulation for boosting catalytic performance. Through spin&#8208;polarized Density Functional Theory (DFT) simulations, the structural and electronic features of CoFeP, providing theoretical insights into its role in the Oxygen Evolution Reaction (OER) is elucidated. This investigation demonstrates that the application of an external magnetic field significantly reduces the overpotential required for OER as the adsorption of intermediate species becomes stronger due to more charge transfer, aligning with experimental observations. These findings highlight the interplay between magnetic fields and electrocatalytic performance, offering a pathway to enhance energy conversion efficiency.</description>
+      <author>Mohammed Arkham Belgami, Afsal S. Shajahan, Erdenebayar Baasanjav, Vishwanath Ankalgi, Brahmananda Chakraborty, Sang Mun Jeong, Chandra Sekhar Rout</author>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/admi.202500321</guid>
     </item>
     <item>
       <title>The Enhancement of Charge Transfer and Friction at the Interfaces between Defected h-BN and Water: a Density-Functional-Theory-Based Machine Learning Study</title>
