@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Aug 2025 02:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 02:02:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>High-entropy RuO2 catalyst with dual-site oxide path for durable acidic oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41467-025-61763-5</link>
-      <description>Fangren Qian, Dengfeng Cao, Shuangming Chen, Yalong Yuan, Kai Chen, Peter Joseph Chimtali, Hengjie Liu, Wei Jiang, Beibei Sheng, Luocai Yi, Jiabao Huang, Chengsi Hu, Huxu Lei, Xiaojun Wu, Zhenhai Wen, Qingjun Chen, Li Song, Nature Communications. 16(1)] 2025. https://openalex.org/W4412670086
-
-                No abstract</description>
-      <author>Fangren Qian, Dengfeng Cao, Shuangming Chen, Yalong Yuan, Kai Chen, Peter Joseph Chimtali, Hengjie Liu, Wei Jiang, Beibei Sheng, Luocai Yi, Jiabao Huang, Chengsi Hu, Huxu Lei, Xiaojun Wu, Zhenhai Wen, Qingjun Chen, Li Song</author>
-      <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-61763-5</guid>
-    </item>
-    <item>
-      <title>Rational Design of Transition Metal-Intercalated Ti-Doped WS2 Bilayers for Enhanced Hydrogen Evolution Catalysis: A Synergistic DFT-Machine Learning Approach</title>
-      <link>https://doi.org/10.1016/j.electacta.2025.147011</link>
-      <description>Yingchao Wang, Yi Wang, Teng&#8208;Teng Chen, Lei Li, Guang Wang, Zhengli Zhang, Zhao Ding, Xiang Guo, Zijiang Luo, Xuefei Liu, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4412676134
-
-                No abstract</description>
-      <author>Yingchao Wang, Yi Wang, Teng&#8208;Teng Chen, Lei Li, Guang Wang, Zhengli Zhang, Zhao Ding, Xiang Guo, Zijiang Luo, Xuefei Liu</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.147011</guid>
-    </item>
-    <item>
-      <title>Asymmetric charge polarized heteronuclear nonmetal dual-atom catalysts for efficient electrocatalytic carbon dioxide reduction</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.138564</link>
-      <description>Yafei Zhao, Liang He, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4412678170
-
-                No abstract</description>
-      <author>Yafei Zhao, Liang He</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.138564</guid>
-    </item>
     <item>
       <title>A high-throughput ab initio study of elemental segregation and cohesion at ferritic-iron grain boundaries</title>
       <link>https://doi.org/10.1016/j.actamat.2025.121288</link>
@@ -552,7 +522,7 @@
       <link>https://doi.org/10.1021/acs.chemrev.4c00466</link>
       <description>Mohsin Muhyuddin, Carlo Santoro, Luigi Osmieri, Valerio C.A. Ficca, Ariel Friedman, Karam Yassin, Gioele Pagot, Enrico Negro, Anastasiia Konovalova, Grace Lindquist, Liam Twight, Minkyoung Kwak, Enrico Berretti, Vito Di Noto, Fr&#233;d&#233;ric Jaouen, Lior Elbaz, Dario R. Dekel, Piercarlo Mustarelli, Shannon W. Boettcher, Alessandro Lavacchi, Plamen Atanassov, Chemical Reviews. None(None)] 2025. https://openalex.org/W4412829789
 
-                No abstract</description>
+                Hydrogen is a green and sustainable energy vector that can facilitate the large-scale integration of intermittent renewable energy, renewable fuels for heavy transport, and deep decarbonization of hard-to-abate industries. Anion-exchange-membrane water electrolyzers (AEM-WEs) have several achieved or expected competitive advantages over other electrolysis technologies, including the use of precious metal-free electrocatalysts at both electrodes, fluorine-free hydrocarbon-based ionomeric membranes and bipolar plates based on inexpensive materials. Contrasting the analogous proton-exchange-membrane system (PEM-WE), where pure water is circulated (no support electrolyte), the current generation of AEM-WEs necessitates the circulation of a dilute aqueous alkaline electrolyte for reaching high energy efficiency and durability. For several reasons, including but not limited to lower cost of balance-of-plant, lower operating cost and improved device's lifetime, achieving high cell efficiency and performance using an alkali-free water feed is highly desirable. In this review, we develop and build a foundational understanding of AEM-WEs operating with pure water, as well as discuss the effects of operating with natural water feeds like seawater. After a discussion of the possible advantages of pure-water-fed AEM-WEs, we cover the thermodynamic and kinetic processes involved in AEM-WE, followed by a detailed review of materials and components and their integration in the device. We highlight the influence of electrolyte composition and alkali/electrolyte-free feed on the membrane-electrode assembly, ionomers, electrocatalysts, porous transport layer, bipolar plates and operating configuration. We provide evidence for how the pure water feed engenders several issues related to the degradation of device components and propose mitigation strategies.</description>
       <author>Mohsin Muhyuddin, Carlo Santoro, Luigi Osmieri, Valerio C.A. Ficca, Ariel Friedman, Karam Yassin, Gioele Pagot, Enrico Negro, Anastasiia Konovalova, Grace Lindquist, Liam Twight, Minkyoung Kwak, Enrico Berretti, Vito Di Noto, Fr&#233;d&#233;ric Jaouen, Lior Elbaz, Dario R. Dekel, Piercarlo Mustarelli, Shannon W. Boettcher, Alessandro Lavacchi, Plamen Atanassov</author>
       <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.4c00466</guid>
@@ -586,6 +556,46 @@
       <author>Mohammed Arkham Belgami, Afsal S. Shajahan, Erdenebayar Baasanjav, Vishwanath Ankalgi, Brahmananda Chakraborty, Sang Mun Jeong, Chandra Sekhar Rout</author>
       <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/admi.202500321</guid>
+    </item>
+    <item>
+      <title>Ultrafast synthesis of V8C7 catalysts for efficient chemical hydrogen evolution via decoupled water electrolysis in a dual-circuit redox flow battery</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.150665</link>
+      <description>Ying Ma, Huimei Yuan, Guanghui Zhang, Shengliang Qi, Shumin Liu, Xiaofei Lei, Xu Zong, Weiguang Ma, Xiangkun Ma, International Journal of Hydrogen Energy. 162(None)] 2025. https://openalex.org/W4412848627
+
+                No abstract</description>
+      <author>Ying Ma, Huimei Yuan, Guanghui Zhang, Shengliang Qi, Shumin Liu, Xiaofei Lei, Xu Zong, Weiguang Ma, Xiangkun Ma</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.150665</guid>
+    </item>
+    <item>
+      <title>Asymmetric hydrogenation-driven enhancement of activity and selectivity in V-anchored N3-doped graphene catalysts for nitrogen reduction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.150787</link>
+      <description>Wenming Lu, Kai Guo, Daifei Ye, Xiaxia Gong, Wei Liu, Jing Xu, International Journal of Hydrogen Energy. 162(None)] 2025. https://openalex.org/W4412860694
+
+                No abstract</description>
+      <author>Wenming Lu, Kai Guo, Daifei Ye, Xiaxia Gong, Wei Liu, Jing Xu</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.150787</guid>
+    </item>
+    <item>
+      <title>Enhancing Empirical Energy Functions Using Physics&#8208; and Machine Learning&#8208;Based Extensions: Structure, Dynamics and Spectroscopy of Modified Benzenes</title>
+      <link>https://doi.org/10.1002/jcc.70162</link>
+      <description>Kham Lek Chaton, Markus Meuwly, Journal of Computational Chemistry. 46(21)] 2025. https://openalex.org/W4412861632
+
+                ABSTRACT The effects of replacing individual contributions to an empirical energy function are assessed for halogenated benzenes (X&#8208;Bz, X = H, F, Cl, Br) and chlorinated phenols (Cl&#8208;PhOH). Introducing electrostatic models based on minimal distributed charges (MDCM) instead of usual atom&#8208;centered point charges (PCs) to realistically describe features such as &#963; &#8722;holes yields overestimated hydration free energies unless the van der Waals parameters are reparametrized. Scaling van der Waals ranges by 10% to 20% for three Cl&#8208;PhOH and most X&#8208;Bz yield results within experimental error bars, which is encouraging, whereas for benzene (H&#8208;Bz) PC&#8208;based models are sufficient. Replacing the bonded terms by a neural network&#8208;trained energy function featuring fluctuating atom&#8208;centered PCs also yields qualitatively correct hydration free energies, which can be brought into agreement with experiments within error bars after adaptation of the van der Waals parameters. The infrared spectroscopy of Cl&#8208;PhOH is rather well captured by all models, although the ML&#8208;based energy function performs somewhat better in the region of the framework modes. The present work finds that refinements of empirical energy functions for targeted applications are a meaningful way toward more quantitative and physics&#8208;based simulations. At the same time, empirical energy functions have matured to a remarkable degree, at least for the species considered in the present work.</description>
+      <author>Kham Lek Chaton, Markus Meuwly</author>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/jcc.70162</guid>
+    </item>
+    <item>
+      <title>Simulation of Hydrogen Storage in MOF-5 and Li-MOF-5 by Ring Polymer Molecular Dynamics on Self-Consistently Fine-Tuned Machine-Learned Interatomic Potentials</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c01522</link>
+      <description>Julien Steffen, The Journal of Physical Chemistry C. 129(30)] 2025. https://openalex.org/W4412865197
+
+                No abstract</description>
+      <author>Julien Steffen</author>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c01522</guid>
     </item>
     <item>
       <title>The Enhancement of Charge Transfer and Friction at the Interfaces between Defected h-BN and Water: a Density-Functional-Theory-Based Machine Learning Study</title>

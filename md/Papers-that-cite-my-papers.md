@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Aug  3 02:02:01 2025
+Created on Mon Aug  4 02:02:17 2025
 
-Found 61 results from 2025-07-27 to 2025-08-03
+Found 62 results from 2025-07-28 to 2025-08-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W1976900809](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W1976900809)
@@ -16,39 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
-
-## High-entropy RuO2 catalyst with dual-site oxide path for durable acidic oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4412670086    
-Open access: True
-    
-[Fangren Qian](https://openalex.org/A5006210903), [Dengfeng Cao](https://openalex.org/A5057686366), [Shuangming Chen](https://openalex.org/A5089250586), [Yalong Yuan](https://openalex.org/A5076716548), [Kai Chen](https://openalex.org/A5049786309), [Peter Joseph Chimtali](https://openalex.org/A5051497054), [Hengjie Liu](https://openalex.org/A5005402696), [Wei Jiang](https://openalex.org/A5032826815), [Beibei Sheng](https://openalex.org/A5062861551), [Luocai Yi](https://openalex.org/A5028694923), [Jiabao Huang](https://openalex.org/A5027376511), [Chengsi Hu](https://openalex.org/A5020760486), [Huxu Lei](https://openalex.org/A5002213510), [Xiaojun Wu](https://openalex.org/A5021767311), [Zhenhai Wen](https://openalex.org/A5080926762), [Qingjun Chen](https://openalex.org/A5022137244), [Li Song](https://openalex.org/A5100448217), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-61763-5.
-    
-No abstract    
-
-    
-
-## Rational Design of Transition Metal-Intercalated Ti-Doped WS2 Bilayers for Enhanced Hydrogen Evolution Catalysis: A Synergistic DFT-Machine Learning Approach   
-
-OpenAlex: https://openalex.org/W4412676134    
-Open access: False
-    
-[Yingchao Wang](https://openalex.org/A5059048782), [Yi Wang](https://openalex.org/A5100609620), [Teng‐Teng Chen](https://openalex.org/A5061865238), [Lei Li](https://openalex.org/A5100440358), [Guang Wang](https://openalex.org/A5101897710), [Zhengli Zhang](https://openalex.org/A5003931606), [Zhao Ding](https://openalex.org/A5026119706), [Xiang Guo](https://openalex.org/A5114241861), [Zijiang Luo](https://openalex.org/A5101537056), [Xuefei Liu](https://openalex.org/A5101730836), Electrochimica Acta. None(None)] 2025.https://doi.org/10.1016/j.electacta.2025.147011.
-    
-No abstract    
-
-    
-
-## Asymmetric charge polarized heteronuclear nonmetal dual-atom catalysts for efficient electrocatalytic carbon dioxide reduction   
-
-OpenAlex: https://openalex.org/W4412678170    
-Open access: False
-    
-[Yafei Zhao](https://openalex.org/A5030373380), [Liang He](https://openalex.org/A5062604912), Journal of Colloid and Interface Science. None(None)] 2025.https://doi.org/10.1016/j.jcis.2025.138564.
-    
-No abstract    
-
-    
 
 ## A high-throughput ab initio study of elemental segregation and cohesion at ferritic-iron grain boundaries   
 
@@ -618,7 +585,7 @@ Open access: True
     
 [Mohsin Muhyuddin](https://openalex.org/A5049830375), [Carlo Santoro](https://openalex.org/A5071362248), [Luigi Osmieri](https://openalex.org/A5051215097), [Valerio C.A. Ficca](https://openalex.org/A5057894660), [Ariel Friedman](https://openalex.org/A5067113324), [Karam Yassin](https://openalex.org/A5019382684), [Gioele Pagot](https://openalex.org/A5076172024), [Enrico Negro](https://openalex.org/A5075850519), [Anastasiia Konovalova](https://openalex.org/A5012519089), [Grace Lindquist](https://openalex.org/A5003279671), [Liam Twight](https://openalex.org/A5004141512), [Minkyoung Kwak](https://openalex.org/A5014415643), [Enrico Berretti](https://openalex.org/A5058615059), [Vito Di Noto](https://openalex.org/A5013596615), [Frédéric Jaouen](https://openalex.org/A5015338172), [Lior Elbaz](https://openalex.org/A5018154686), [Dario R. Dekel](https://openalex.org/A5065902234), [Piercarlo Mustarelli](https://openalex.org/A5066954669), [Shannon W. Boettcher](https://openalex.org/A5032458792), [Alessandro Lavacchi](https://openalex.org/A5038183338), [Plamen Atanassov](https://openalex.org/A5080704605), Chemical Reviews. None(None)] 2025.https://doi.org/10.1021/acs.chemrev.4c00466.
     
-No abstract    
+Hydrogen is a green and sustainable energy vector that can facilitate the large-scale integration of intermittent renewable energy, renewable fuels for heavy transport, and deep decarbonization of hard-to-abate industries. Anion-exchange-membrane water electrolyzers (AEM-WEs) have several achieved or expected competitive advantages over other electrolysis technologies, including the use of precious metal-free electrocatalysts at both electrodes, fluorine-free hydrocarbon-based ionomeric membranes and bipolar plates based on inexpensive materials. Contrasting the analogous proton-exchange-membrane system (PEM-WE), where pure water is circulated (no support electrolyte), the current generation of AEM-WEs necessitates the circulation of a dilute aqueous alkaline electrolyte for reaching high energy efficiency and durability. For several reasons, including but not limited to lower cost of balance-of-plant, lower operating cost and improved device's lifetime, achieving high cell efficiency and performance using an alkali-free water feed is highly desirable. In this review, we develop and build a foundational understanding of AEM-WEs operating with pure water, as well as discuss the effects of operating with natural water feeds like seawater. After a discussion of the possible advantages of pure-water-fed AEM-WEs, we cover the thermodynamic and kinetic processes involved in AEM-WE, followed by a detailed review of materials and components and their integration in the device. We highlight the influence of electrolyte composition and alkali/electrolyte-free feed on the membrane-electrode assembly, ionomers, electrocatalysts, porous transport layer, bipolar plates and operating configuration. We provide evidence for how the pure water feed engenders several issues related to the degradation of device components and propose mitigation strategies.    
 
     
 
@@ -652,6 +619,50 @@ Open access: True
 [Mohammed Arkham Belgami](https://openalex.org/A5093346185), [Afsal S. Shajahan](https://openalex.org/A5065249510), [Erdenebayar Baasanjav](https://openalex.org/A5087726702), [Vishwanath Ankalgi](https://openalex.org/A5104941526), [Brahmananda Chakraborty](https://openalex.org/A5087958993), [Sang Mun Jeong](https://openalex.org/A5001167466), [Chandra Sekhar Rout](https://openalex.org/A5060818209), Advanced Materials Interfaces. None(None)] 2025.https://doi.org/10.1002/admi.202500321.
     
 Abstract The pursuit of low‐cost, efficient, and durable electrocatalysts for oxygen evolution in alkaline media is vital for water‐splitting applications. Herein, the hydrothermal‐based synthesis of a multiphase ferromagnetic catalyst CoFeP, comprising FeP, CoP, and Fe 2 P is reported. Structural analyses confirm the coexistence of phases, and electrochemical studies reveal excellent OER activity. CoFeP exhibits an overpotential of 335 mV at 50 mA cm −2 and a Tafel slope of 116 mV dec −1 without a magnetic field, whereas under the magnetic field of 2000 G, these values lowered to 235 mV and 93 mV dec −1 , respectively. The enhancement is attributed to magnetic‐field‐induced spin polarization, surface reconstruction, and increased ECSA from 70 to 110 mF cm −2 , highlighting the potential of magnetic modulation for boosting catalytic performance. Through spin‐polarized Density Functional Theory (DFT) simulations, the structural and electronic features of CoFeP, providing theoretical insights into its role in the Oxygen Evolution Reaction (OER) is elucidated. This investigation demonstrates that the application of an external magnetic field significantly reduces the overpotential required for OER as the adsorption of intermediate species becomes stronger due to more charge transfer, aligning with experimental observations. These findings highlight the interplay between magnetic fields and electrocatalytic performance, offering a pathway to enhance energy conversion efficiency.    
+
+    
+
+## Ultrafast synthesis of V8C7 catalysts for efficient chemical hydrogen evolution via decoupled water electrolysis in a dual-circuit redox flow battery   
+
+OpenAlex: https://openalex.org/W4412848627    
+Open access: False
+    
+[Ying Ma](https://openalex.org/A5053535888), [Huimei Yuan](https://openalex.org/A5110915955), [Guanghui Zhang](https://openalex.org/A5100459824), [Shengliang Qi](https://openalex.org/A5083420586), [Shumin Liu](https://openalex.org/A5101780992), [Xiaofei Lei](https://openalex.org/A5102222625), [Xu Zong](https://openalex.org/A5059076745), [Weiguang Ma](https://openalex.org/A5034271384), [Xiangkun Ma](https://openalex.org/A5005572571), International Journal of Hydrogen Energy. 162(None)] 2025.https://doi.org/10.1016/j.ijhydene.2025.150665.
+    
+No abstract    
+
+    
+
+## Asymmetric hydrogenation-driven enhancement of activity and selectivity in V-anchored N3-doped graphene catalysts for nitrogen reduction   
+
+OpenAlex: https://openalex.org/W4412860694    
+Open access: False
+    
+[Wenming Lu](https://openalex.org/A5101377058), [Kai Guo](https://openalex.org/A5101673579), [Daifei Ye](https://openalex.org/A5075951735), [Xiaxia Gong](https://openalex.org/A5102848158), [Wei Liu](https://openalex.org/A5100431703), [Jing Xu](https://openalex.org/A5089793356), International Journal of Hydrogen Energy. 162(None)] 2025.https://doi.org/10.1016/j.ijhydene.2025.150787.
+    
+No abstract    
+
+    
+
+## Enhancing Empirical Energy Functions Using Physics‐ and Machine Learning‐Based Extensions: Structure, Dynamics and Spectroscopy of Modified Benzenes   
+
+OpenAlex: https://openalex.org/W4412861632    
+Open access: True
+    
+[Kham Lek Chaton](https://openalex.org/A5114658787), [Markus Meuwly](https://openalex.org/A5010154021), Journal of Computational Chemistry. 46(21)] 2025.https://doi.org/10.1002/jcc.70162.
+    
+ABSTRACT The effects of replacing individual contributions to an empirical energy function are assessed for halogenated benzenes (X‐Bz, X = H, F, Cl, Br) and chlorinated phenols (Cl‐PhOH). Introducing electrostatic models based on minimal distributed charges (MDCM) instead of usual atom‐centered point charges (PCs) to realistically describe features such as σ −holes yields overestimated hydration free energies unless the van der Waals parameters are reparametrized. Scaling van der Waals ranges by 10% to 20% for three Cl‐PhOH and most X‐Bz yield results within experimental error bars, which is encouraging, whereas for benzene (H‐Bz) PC‐based models are sufficient. Replacing the bonded terms by a neural network‐trained energy function featuring fluctuating atom‐centered PCs also yields qualitatively correct hydration free energies, which can be brought into agreement with experiments within error bars after adaptation of the van der Waals parameters. The infrared spectroscopy of Cl‐PhOH is rather well captured by all models, although the ML‐based energy function performs somewhat better in the region of the framework modes. The present work finds that refinements of empirical energy functions for targeted applications are a meaningful way toward more quantitative and physics‐based simulations. At the same time, empirical energy functions have matured to a remarkable degree, at least for the species considered in the present work.    
+
+    
+
+## Simulation of Hydrogen Storage in MOF-5 and Li-MOF-5 by Ring Polymer Molecular Dynamics on Self-Consistently Fine-Tuned Machine-Learned Interatomic Potentials   
+
+OpenAlex: https://openalex.org/W4412865197    
+Open access: False
+    
+[Julien Steffen](https://openalex.org/A5054255871), The Journal of Physical Chemistry C. 129(30)] 2025.https://doi.org/10.1021/acs.jpcc.5c01522.
+    
+No abstract    
 
     
 
