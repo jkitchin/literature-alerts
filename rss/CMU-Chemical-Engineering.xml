@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 04 Aug 2025 02:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 01:56:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Low-level direct currents eradicate multi-drug-resistant Candidozyma auris through physiological stress and antifungal permeation</title>
-      <link>https://doi.org/10.1016/j.cej.2025.166070</link>
-      <description>C. Royo, Charles Landis, Michael T. Geraghty, Sricharani Rao Balmuri, Tagbo H. R. Niepa, Chemical Engineering Journal. 520(None)] 2025. https://openalex.org/W4412688025
-
-                No abstract</description>
-      <author>C. Royo, Charles Landis, Michael T. Geraghty, Sricharani Rao Balmuri, Tagbo H. R. Niepa</author>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.166070</guid>
-    </item>
-    <item>
-      <title>50 years of mixed-integer nonlinear and disjunctive programming</title>
-      <link>https://doi.org/10.1016/j.ejor.2025.07.016</link>
-      <description>Jan Kronqvist, David E. Bernal, Ignacio E. Grossmann, European Journal of Operational Research. None(None)] 2025. https://openalex.org/W4412688049
-
-                No abstract</description>
-      <author>Jan Kronqvist, David E. Bernal, Ignacio E. Grossmann</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ejor.2025.07.016</guid>
-    </item>
-    <item>
-      <title>Multiphase computational fluid dynamics modeling of reacting flows in absorption columns for carbon capture</title>
-      <link>https://doi.org/10.1016/j.dche.2025.100252</link>
-      <description>Yash Girish Shah, Amiee Jackson, Costas Tsouris, Charles Finney, Grigorios Panagakos, Digital Chemical Engineering. None(None)] 2025. https://openalex.org/W4412702394
-
-                No abstract</description>
-      <author>Yash Girish Shah, Amiee Jackson, Costas Tsouris, Charles Finney, Grigorios Panagakos</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.dche.2025.100252</guid>
-    </item>
     <item>
       <title>Multistage Economic MPC for Systems with a Cyclic Steady State: A Gas Network Case Study</title>
       <link>https://doi.org/10.1016/j.ces.2025.122276</link>

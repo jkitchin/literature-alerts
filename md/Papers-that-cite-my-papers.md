@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Aug  4 02:02:17 2025
+Created on Tue Aug  5 01:56:42 2025
 
-Found 62 results from 2025-07-28 to 2025-08-04
+Found 52 results from 2025-07-29 to 2025-08-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W1976900809](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W1976900809)
@@ -16,160 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
-
-## A high-throughput ab initio study of elemental segregation and cohesion at ferritic-iron grain boundaries   
-
-OpenAlex: https://openalex.org/W4412687026    
-Open access: True
-    
-[Lin Han](https://openalex.org/A5065923090), [Xiangyuan Cui](https://openalex.org/A5042480081), [Tilmann Hickel](https://openalex.org/A5009822181), [Jörg Neugebauer](https://openalex.org/A5010019307), [Simon P. Ringer](https://openalex.org/A5035524417), Acta Materialia. 297(None)] 2025.https://doi.org/10.1016/j.actamat.2025.121288.
-    
-No abstract    
-
-    
-
-## Constant-Potential Machine Learning Force Field for the Electrochemical Interface   
-
-OpenAlex: https://openalex.org/W4412687597    
-Open access: False
-    
-[Ruoyu Wang](https://openalex.org/A5073959643), [Shaoheng Fang](https://openalex.org/A5000450402), [Qixing Huang](https://openalex.org/A5053640851), [Yuanyue Liu](https://openalex.org/A5084751503), Journal of Chemical Theory and Computation. None(None)] 2025.https://doi.org/10.1021/acs.jctc.5c00784.
-    
-Better understanding and prediction of the electrochemical interface require large-scale atomistic simulations. Machine learning force fields (MLFFs) have proven to be an effective approach. However, current MLFFs typically do not account for the effect of electrode potential, which requires treating interface electrons with a grand canonical ensemble. Here, we develop a constant potential MLFF (CP-MLFF) based on an equivariant graph neural network and implement it into MACE. Specifically, we design an architecture that can take the number of electrons as the input and accurately predict the Fermi level. The CP-MLFF allows us to examine the convergency of the electrochemical barrier with respect to sampling, which we demonstrate through the example of CO2 reduction on the Ni-N-C catalyst. Our work provides a useful method and tool enabling accurate and efficient large-scale simulation of the electrochemical interface.    
-
-    
-
-## CO2 Activation and Electrochemical Reduction to CH3OH via Charge Modulation on Defect-Induced Free-Standing Bilayer Borophene   
-
-OpenAlex: https://openalex.org/W4412687898    
-Open access: False
-    
-[Upasana Nath](https://openalex.org/A5050695292), [Manabendra Sarma](https://openalex.org/A5073745067), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.5c02237.
-    
-No abstract    
-
-    
-
-## Review: machine learning in high-entropy alloys-transformative potential and innovative application   
-
-OpenAlex: https://openalex.org/W4412688189    
-Open access: False
-    
-[Xudong Hu](https://openalex.org/A5101895924), Journal of Materials Science. 60(29)] 2025.https://doi.org/10.1007/s10853-025-11232-7.
-    
-No abstract    
-
-    
-
-## Precipitation synthesis and characterization of SnO2@g-C3N4 heterojunctions for enhanced photocatalytic H2 production   
-
-OpenAlex: https://openalex.org/W4412694186    
-Open access: True
-    
-[Rizwan Hasan Khan](https://openalex.org/A5038188486), [S. Ahmad](https://openalex.org/A5036157865), [Haikal Muhammad Ihsan](https://openalex.org/A5088724394), [S. Nadeem](https://openalex.org/A5017683963), [Syed Zulfiqar](https://openalex.org/A5027406331), [Ferry Anggoro Ardy Nugroho](https://openalex.org/A5072617032), RSC Advances. 15(33)] 2025.https://doi.org/10.1039/d5ra03721b.
-    
-Fabrication of SnO 2 @g-C 3 N 4 heterojunctions via a simple precipitation route, for enhanced photocatalytic H 2 production.    
-
-    
-
-## Ammonia Evolution in Glycine Pyrolysis via Ionic-Pair Reaction Mechanisms   
-
-OpenAlex: https://openalex.org/W4412694448    
-Open access: False
-    
-[Jacopo Lupi](https://openalex.org/A5085844179), [Thantip Roongcharoen](https://openalex.org/A5046045114), [Luca Sementa](https://openalex.org/A5072697989), [Francesca Cicogna](https://openalex.org/A5046137515), [Alessandro Nanni](https://openalex.org/A5117762090), [Alessandro Fortunelli](https://openalex.org/A5034027288), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.5c08868.
-    
-Amino acids are key contributors to nitrogenous emissions during biomass pyrolysis, yet the underlying reaction mechanisms governing their thermal degradation remain only partially understood. In this study, we combine systematic reaction path search algorithms with chemical insight and density functional theory (DFT) simulations to investigate the thermal decomposition of glycine (Gly), the simplest amino acid, with a focus on the formation of ammonia (NH3), a major precursor of environmentally harmful NOx species. We derive a comprehensive reaction network for the thermal decomposition of Gly. Notably, we show that, at variance with water (H2O) that can be generated via simple dimerization in the gas phase, NH3 evolution is kinetically unfavorable at moderate temperatures and low-pressure conditions, while it can proceed with much smaller barriers in the condensed phase via many-body mechanisms involving ionic-pair proton-exchange-driven polymerization pathways. Under such conditions, we predict that NH3 evolution competes with H2O formation, reconciling theoretical predictions with experimental observations.    
-
-    
-
-## Advances in Stabilizing Spinel Cobalt Oxide‐Based Catalysts for Acidic Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4412697337    
-Open access: True
-    
-[Chengli Rong](https://openalex.org/A5016828667), [Qian Sun](https://openalex.org/A5059473992), [Jiexin Zhu](https://openalex.org/A5027375542), [Hamidreza Arandiyan](https://openalex.org/A5047282351), [Zongping Shao](https://openalex.org/A5034744923), [Yuan Wang](https://openalex.org/A5100344858), [Yuan Chen](https://openalex.org/A5100400885), Advanced Science. None(None)] 2025.https://doi.org/10.1002/advs.202509415.
-    
-Abstract Oxygen evolution reaction (OER) is pivotal to sustainable energy storage and conversion technologies. Yet, its sluggish kinetics in acidic media and reliance on expensive noble metal catalysts limit its efficiency in these applications. Spinel cobalt(II, III) oxide (Co 3 O 4 )‐based catalysts are cost‐effective alternatives with high theoretical catalytic activity. However, their practical deployment is hindered by their poor stability in acidic electrolytes. This review critically examines recent advances in enhancing the stability of spinel Co 3 O 4 ‐based catalysts for acidic OER. The fundamental reaction mechanisms of acidic OER are first analyzed to illustrate how different catalyst design strategies can be used to improve their stability. Next, five key catalyst design strategies reported in recent studies are summarized: 1) constructing protective surface layers, 2) modulating reaction pathways, 3) controlling cobalt redox dynamics, 4) tuning cobalt‐oxygen covalency, and 5) stabilizing lattice oxygen. Further, recent research progress in understanding the structure‐activity‐stability relationship of spinel Co 3 O 4 ‐based catalysts is summarized, with a focus on identifying their catalytically active sites, tracking surface reconstruction, and elucidating degradation mechanisms. This review ends with a discussion of future research directions for addressing key challenges in realizing durable, high‐performance Co 3 O 4 ‐based catalysts for acidic OER applications.    
-
-    
-
-## Convergence of Body-Orders in Linear Atomic Cluster Expansions   
-
-OpenAlex: https://openalex.org/W4412699201    
-Open access: True
-    
-[Apolinario Miguel Tan](https://openalex.org/A5036034162), [Franco Pellegrini](https://openalex.org/A5058592328), [Stefano de Gironcoli](https://openalex.org/A5030313940), The Journal of Physical Chemistry A. None(None)] 2025.https://doi.org/10.1021/acs.jpca.5c01335.
-    
-We study the convergence of a linear atomic cluster expansion (ACE) potential with respect to its basis functions, in terms of the effective two-body interactions of elemental carbon and silicon systems. We build ACE potentials with descriptor sets truncated at body-orders K = 2 to K = 5 trained on a diverse carbon data set and on silicon dimers to pentamers. The potentials trained on diverse structures with standard ACE bases are not able to recover the correct dimer curves, much less produce stable curves or solutions. While employing ACE bases removed of self-interactions still does not generalize to the DFT-expected results, properly tailored data sets and basis sets are able to show signs of convergence and stability in the curves and expansions, suggesting a method to build potentials with interpretable bases with respect to the cluster expansion.    
-
-    
-
-## Reversible Structural Oscillation Mediates Stable Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4412702121    
-Open access: False
-    
-[Qunlei Wen](https://openalex.org/A5061424808), [Tianyang Liu](https://openalex.org/A5100627165), [Danji Huang](https://openalex.org/A5055225238), [Yu Lin](https://openalex.org/A5113388140), [Zhenhong Yang](https://openalex.org/A5062376378), [Ruoou Yang](https://openalex.org/A5112810053), [Youwen Liu](https://openalex.org/A5074615382), [Xiaomeng Ai](https://openalex.org/A5000319084), [Jiakun Fang](https://openalex.org/A5027757534), [Yafei Li](https://openalex.org/A5100440730), [Bao Yu Xia](https://openalex.org/A5017108318), [Shijie Cheng](https://openalex.org/A5024186253), [Tianyou Zhai](https://openalex.org/A5018294251), Angewandte Chemie. None(None)] 2025.https://doi.org/10.1002/ange.202509915.
-    
-Abstract The dynamic dissolution of active species of electrocatalysts suffers severe durability issues, thus limiting practical sustainable electrochemical application despite the enormous strides in the activity. An atomistic understanding of the dynamic pattern is a fundamental prerequisite for realizing prolonged stability. Herein, modeling on NiFe LDHs, multiple operando spectroscopies revealed the structural oscillation of the local [Ni–O 2 –Fe] unit identified a strong dependence on the alternant Fe dissolution and redeposition during the oxygen evolution reaction (OER) process, thus mediating the dynamic stability. At this point, a proof‐of‐concept strategy with S, Co co‐doping was demonstrated to tune structural oscillations. In situ S leaching that alleviates the lattice mismatch suppresses Fe dissolution, while the electron‐withdrawing Co as a deposition site promotes Fe redeposition, thus achieving the reversible oscillation of local [Ni/Co–O 2 –Fe] units and dynamic stability. The implementation of the modified NiFe LDH in industrial water electrolysis equipment operated steadily over 800 h (5000‐h lifetime obtained by epitaxial method with 10% attenuation) with an energy consumption of 4.05 kWh Nm −3 H 2 @ 4000 A m −2 . The levelized cost of hydrogen of US$ 2.315 per kg H2 overmatches the European Commission's target for the coming decade (<US$ 2.5 per kg H2 ).    
-
-    
-
-## Surface Acidity of Oxygen Evolution Intermediates by Excited State Optical Spectroscopy   
-
-OpenAlex: https://openalex.org/W4412703094    
-Open access: False
-    
-[Michael Paolino](https://openalex.org/A5012639606), [Suryansh Singh](https://openalex.org/A5082056990), [C. M. Boyd](https://openalex.org/A5015555591), [Moritz Lang](https://openalex.org/A5104210882), [Tanja Cuk](https://openalex.org/A5066895569), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.5c10001.
-    
-While the protonation of homogeneous metal-oxide catalysts is quite relevant for mechanisms in aqueous solution, the relevance of surface acidity to catalytic mechanisms of heterogeneous metal oxides is far less understood. Without a distinguishing metric ascribed to transient intermediates, invoking surface acidity is limited to rationalizing pH-dependent product evolution. Recently, the emissive population associated with intermediates of electron and proton transfer at a titanium oxide surface demonstrated an isotherm with pH whose half-rise occurred at pH = 11.8. As detected by a time-resolved visible broadband probe, the intermediates formed within <2 ps upon photoexcitation of the oxygen evolution reaction (OER) at an electron-doped (0.1% Nb) SrTiO3/aqueous interface. Here, we demonstrate how the pH dependence of the <2 ps population is preserved such that when the intermediate population finally decays with a time constant of 10 μs, it does so with a pH onset at 11.4. The distinctive pH associated with a metastable population ascribes a surface acidity to the first intermediate of water oxidation, interpreted as favoring Ti-OH• below and Ti-O•- above an acid dissociation constant (i.e., pKa). The work shows that the excited state optical spectroscopy is sensitive to protonation over the lifetime of metastable intermediates. Further, it shows that the details of the hydration layer prior to excitation are important for stabilizing intermediate populations of different acidities that then affect the chemical steps of water oxidation catalysis at longer time scales, e.g., bond formation.    
-
-    
-
-## Machine-learned bond-order potential for exploring the configuration space of carbon   
-
-OpenAlex: https://openalex.org/W4412703107    
-Open access: False
-    
-[Ikuma Kohata](https://openalex.org/A5038051094), [Kaoru Hisama](https://openalex.org/A5000424688), [Keigo Otsuka](https://openalex.org/A5012723107), [Shigeo Maruyama](https://openalex.org/A5040691545), Physical Review Materials. 9(7)] 2025.https://doi.org/10.1103/73gp-bm46.
-    
-No abstract    
-
-    
-
-## A density functional theory study on transition metals loaded on antimonene as effective electrocatalysts for oxygen reduction reaction and oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4412703399    
-Open access: False
-    
-[Zhujun Li](https://openalex.org/A5101760789), [Ting Yao](https://openalex.org/A5102006398), [Yang Cai](https://openalex.org/A5049088202), [Xin Chen](https://openalex.org/A5024977426), Journal of Colloid and Interface Science. None(None)] 2025.https://doi.org/10.1016/j.jcis.2025.138577.
-    
-No abstract    
-
-    
-
-## Tepkit: A toolkit for measuring and visualizing interatomic force constants and accelerating transport-property calculations   
-
-OpenAlex: https://openalex.org/W4412705306    
-Open access: False
-    
-[Shu-Hao Cao](https://openalex.org/A5049830800), [Xiang-Rong Chen](https://openalex.org/A5074843339), [Zhao-Yi Zeng](https://openalex.org/A5102816695), [Hua-Yun Geng](https://openalex.org/A5048652521), Computational Materials Science. 259(None)] 2025.https://doi.org/10.1016/j.commatsci.2025.114151.
-    
-No abstract    
-
-    
-
-## Transferring Knowledge from MM to QM: A Graph Neural Network-Based Implicit Solvent Model for Small Organic Molecules   
-
-OpenAlex: https://openalex.org/W4412705605    
-Open access: True
-    
-[Paul Katzberger](https://openalex.org/A5087053476), [Felix Pultar](https://openalex.org/A5028786502), [Sereina Riniker](https://openalex.org/A5019754904), Journal of Chemical Theory and Computation. None(None)] 2025.https://doi.org/10.1021/acs.jctc.5c00728.
-    
-The conformational ensemble of a molecule is strongly influenced by the surrounding environment. Correctly modeling the effect of any given environment is, hence, of pivotal importance in computational studies. Machine learning (ML) has been shown to be able to model these interactions probabilistically, with successful applications demonstrated for classical molecular dynamics. While first instances of ML implicit solvents for quantum-mechanical (QM) calculations exist, the high computational cost of QM reference calculations hinders the development of a generally applicable ML implicit solvent model for QM calculations. Here, we present a novel way of developing such a general machine-learned QM implicit solvent model by transferring knowledge obtained from classical interactions to QM, emulating a QM/MM setup with electrostatic embedding and a nonpolarizable MM solvent. This has the profound advantages that neither QM/MM reference calculations nor experimental data are required for training and that the obtained graph neural network (GNN)-based implicit solvent model (termed QM-GNNIS) is compatible with any functional and basis set. QM-GNNIS is currently applicable to small organic molecules and describes 39 different organic solvents. The performance of QM-GNNIS is validated on NMR and IR experiments, demonstrating that the approach can reproduce experimentally observed trends unattainable by state-of-the-art implicit-solvent models paired with static QM calculations.    
-
-    
 
 ## Advances in computational design of van der Waals heterostructures for photocatalytic water splitting   
 
@@ -245,6 +91,17 @@ Open access: False
 [Mehedi Hasan](https://openalex.org/A5100754615), [Heider A. Abdulhussein](https://openalex.org/A5071913888), Journal of Materials Science. None(None)] 2025.https://doi.org/10.1007/s10853-025-11190-0.
     
 No abstract    
+
+    
+
+## Toward data-driven predictive modeling of electrocatalyst stability and surface reconstruction   
+
+OpenAlex: https://openalex.org/W4412726279    
+Open access: False
+    
+[Jiayu Peng](https://openalex.org/A5042383151), The Journal of Chemical Physics. 163(4)] 2025.https://doi.org/10.1063/5.0271797.
+    
+Catalyst dissolution and surface restructuring are ubiquitous in electrocatalysis, often leading to formidable activity–stability trade-offs and obscure electrochemically induced surface species that severely hinder the understanding and optimization of electrocatalysts under diverse harsh operating conditions. As even state-of-the-art characterization techniques lack the resolution and efficiency for the unambiguous elucidation of decomposition kinetics and reconstruction dynamics at electrocatalytic interfaces, many atomistic modeling approaches—following the recent advances in physics-driven machine learning—have been widely used to facilitate the atom-by-atom understanding and rational engineering of electrocatalyst stability and dynamics. This Perspective systematically assesses classical and data-driven approaches in theoretical surface science and computational catalysis, recognizing their achievements and highlighting their limitations in throughput, efficiency, accuracy, bias, transferability, and scalability toward enabling realistic and predictive modeling of electrocatalyst degradation and reconstruction. By examining different methods spanning first-principle simulations, surface sampling, neural network interatomic potentials, and generative deep learning models, it is underscored how such data-driven computational techniques help elucidate the precise nature of various key interfacial atomistic processes to address existing technical challenges in surface modeling and provide a new paradigm to optimize dissolution kinetics and restructuring dynamics for electrocatalyst design.    
 
     
 
@@ -651,7 +508,7 @@ Open access: True
     
 [Kham Lek Chaton](https://openalex.org/A5114658787), [Markus Meuwly](https://openalex.org/A5010154021), Journal of Computational Chemistry. 46(21)] 2025.https://doi.org/10.1002/jcc.70162.
     
-ABSTRACT The effects of replacing individual contributions to an empirical energy function are assessed for halogenated benzenes (X‐Bz, X = H, F, Cl, Br) and chlorinated phenols (Cl‐PhOH). Introducing electrostatic models based on minimal distributed charges (MDCM) instead of usual atom‐centered point charges (PCs) to realistically describe features such as σ −holes yields overestimated hydration free energies unless the van der Waals parameters are reparametrized. Scaling van der Waals ranges by 10% to 20% for three Cl‐PhOH and most X‐Bz yield results within experimental error bars, which is encouraging, whereas for benzene (H‐Bz) PC‐based models are sufficient. Replacing the bonded terms by a neural network‐trained energy function featuring fluctuating atom‐centered PCs also yields qualitatively correct hydration free energies, which can be brought into agreement with experiments within error bars after adaptation of the van der Waals parameters. The infrared spectroscopy of Cl‐PhOH is rather well captured by all models, although the ML‐based energy function performs somewhat better in the region of the framework modes. The present work finds that refinements of empirical energy functions for targeted applications are a meaningful way toward more quantitative and physics‐based simulations. At the same time, empirical energy functions have matured to a remarkable degree, at least for the species considered in the present work.    
+The effects of replacing individual contributions to an empirical energy function are assessed for halogenated benzenes (X-Bz, X = H, F, Cl, Br) and chlorinated phenols (Cl-PhOH). Introducing electrostatic models based on minimal distributed charges (MDCM) instead of usual atom-centered point charges (PCs) to realistically describe features such as σ-holes yields overestimated hydration free energies unless the van der Waals parameters are reparametrized. Scaling van der Waals ranges by 10% to 20% for three Cl-PhOH and most X-Bz yield results within experimental error bars, which is encouraging, whereas for benzene (H-Bz) PC-based models are sufficient. Replacing the bonded terms by a neural network-trained energy function featuring fluctuating atom-centered PCs also yields qualitatively correct hydration free energies, which can be brought into agreement with experiments within error bars after adaptation of the van der Waals parameters. The infrared spectroscopy of Cl-PhOH is rather well captured by all models, although the ML-based energy function performs somewhat better in the region of the framework modes. The present work finds that refinements of empirical energy functions for targeted applications are a meaningful way toward more quantitative and physics-based simulations. At the same time, empirical energy functions have matured to a remarkable degree, at least for the species considered in the present work.    
 
     
 
@@ -661,6 +518,39 @@ OpenAlex: https://openalex.org/W4412865197
 Open access: False
     
 [Julien Steffen](https://openalex.org/A5054255871), The Journal of Physical Chemistry C. 129(30)] 2025.https://doi.org/10.1021/acs.jpcc.5c01522.
+    
+No abstract    
+
+    
+
+## A sustainable Ru catalyzed aerobic oxidation based on high loading magnetic ionic nanoparticles network   
+
+OpenAlex: https://openalex.org/W4412867463    
+Open access: True
+    
+[Sepideh Asgari](https://openalex.org/A5062976682), [Mina Ghahremani](https://openalex.org/A5031467943), [Sepideh Najafvand-Derikvandi](https://openalex.org/A5009092238), [Hesamodin Moradi](https://openalex.org/A5114067841), [Mina Tavakolian](https://openalex.org/A5015954150), [Fariborz Mansouri](https://openalex.org/A5058114090), [Babak Karimi](https://openalex.org/A5040045684), Scientific Reports. 15(1)] 2025.https://doi.org/10.1038/s41598-025-07505-5.
+    
+No abstract    
+
+    
+
+## Structural Dynamics of Amorphous Phase in Sriro3 Catalyst During Oxygen Evolution Reaction Revealed by Operando Total X-Ray Scattering Measurements and Pair Distribution Function Analysis   
+
+OpenAlex: https://openalex.org/W4412873697    
+Open access: False
+    
+[Kentaro Kobayashi](https://openalex.org/A5018101834), [Satoshi Hiroi](https://openalex.org/A5037082462), [Koji Ohara](https://openalex.org/A5048566624), [Neha Thakur](https://openalex.org/A5116270124), [Mukesh Kumar](https://openalex.org/A5058591739), [Weijie Cao](https://openalex.org/A5075103650), [Kengo Nakada](https://openalex.org/A5014157947), [Jo‐Chi Tseng](https://openalex.org/A5037607416), [Hiroki Yamada](https://openalex.org/A5033807076), [Seiya Shimono](https://openalex.org/A5057388901), [Yu‐Cheng Shao](https://openalex.org/A5038111862), [Hirofumi Ishii](https://openalex.org/A5068439685), [Yoshiharu Uchimoto](https://openalex.org/A5017493428), No host. None(None)] 2025.https://doi.org/10.2139/ssrn.5358492.
+    
+No abstract    
+
+    
+
+## Transition Metal-Doped Mo-Vacancy Defects at MoS2 Basal Plane for Enhanced Hydrogen Evolution Catalysis   
+
+OpenAlex: https://openalex.org/W4412874275    
+Open access: False
+    
+[Donghwi Kim](https://openalex.org/A5101616161), [Sangheon Lee](https://openalex.org/A5100611404), [Hyung‐Kyu Lim](https://openalex.org/A5015927139), Korean Journal of Chemical Engineering. None(None)] 2025.https://doi.org/10.1007/s11814-025-00515-z.
     
 No abstract    
 
