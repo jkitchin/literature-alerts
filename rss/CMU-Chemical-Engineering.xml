@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Aug 2025 01:56:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 01:54:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Multistage Economic MPC for Systems with a Cyclic Steady State: A Gas Network Case Study</title>
-      <link>https://doi.org/10.1016/j.ces.2025.122276</link>
-      <description>Sakshi Naik, Lavinia Marina Paola Ghilardi, Robert Parker, Lorenz T. Biegler, Chemical Engineering Science. None(None)] 2025. https://openalex.org/W4412714218
-
-                No abstract</description>
-      <author>Sakshi Naik, Lavinia Marina Paola Ghilardi, Robert Parker, Lorenz T. Biegler</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2025.122276</guid>
-    </item>
     <item>
       <title>Mapping uncertainty using differentiable programming</title>
       <link>https://doi.org/10.1002/aic.18940</link>
