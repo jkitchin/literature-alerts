@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Aug 2025 01:54:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 01:55:23 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Toward data-driven predictive modeling of electrocatalyst stability and surface reconstruction</title>
-      <link>https://doi.org/10.1063/5.0271797</link>
-      <description>Jiayu Peng, The Journal of Chemical Physics. 163(4)] 2025. https://openalex.org/W4412726279
-
-                Catalyst dissolution and surface restructuring are ubiquitous in electrocatalysis, often leading to formidable activity&#8211;stability trade-offs and obscure electrochemically induced surface species that severely hinder the understanding and optimization of electrocatalysts under diverse harsh operating conditions. As even state-of-the-art characterization techniques lack the resolution and efficiency for the unambiguous elucidation of decomposition kinetics and reconstruction dynamics at electrocatalytic interfaces, many atomistic modeling approaches&#8212;following the recent advances in physics-driven machine learning&#8212;have been widely used to facilitate the atom-by-atom understanding and rational engineering of electrocatalyst stability and dynamics. This Perspective systematically assesses classical and data-driven approaches in theoretical surface science and computational catalysis, recognizing their achievements and highlighting their limitations in throughput, efficiency, accuracy, bias, transferability, and scalability toward enabling realistic and predictive modeling of electrocatalyst degradation and reconstruction. By examining different methods spanning first-principle simulations, surface sampling, neural network interatomic potentials, and generative deep learning models, it is underscored how such data-driven computational techniques help elucidate the precise nature of various key interfacial atomistic processes to address existing technical challenges in surface modeling and provide a new paradigm to optimize dissolution kinetics and restructuring dynamics for electrocatalyst design.</description>
-      <author>Jiayu Peng</author>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0271797</guid>
-    </item>
-    <item>
-      <title>Promising two-dimensional Janus &#946;-PdXO (X = S/Se) for photocatalytic water splitting</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.150617</link>
-      <description>Yue Hao, Shuo Jiang, Xi Sun, Zihan Qu, Zuyu Xu, Yunlai Zhu, Yihong Dai, International Journal of Hydrogen Energy. 161(None)] 2025. https://openalex.org/W4412730454
-
-                No abstract</description>
-      <author>Yue Hao, Shuo Jiang, Xi Sun, Zihan Qu, Zuyu Xu, Yunlai Zhu, Yihong Dai</author>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.150617</guid>
-    </item>
-    <item>
-      <title>A state-of-the-art review of digital twin-enabled human-robot collaboration in smart energy management systems</title>
-      <link>https://doi.org/10.1016/j.rineng.2025.106524</link>
-      <description>S. Q. Fu, Maxwell Fordjour Antwi&#8208;Afari, Shahnawaz Anwer, Zhiqiang Chen, Heng Li, Results in Engineering. None(None)] 2025. https://openalex.org/W4412739116
-
-                No abstract</description>
-      <author>S. Q. Fu, Maxwell Fordjour Antwi&#8208;Afari, Shahnawaz Anwer, Zhiqiang Chen, Heng Li</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.rineng.2025.106524</guid>
-    </item>
-    <item>
-      <title>Surface structural engineering of self-supported HER electrodes: Multiscale micro/nanostructure regulation and their roles in HER process</title>
-      <link>https://doi.org/10.1016/j.susmat.2025.e01570</link>
-      <description>Yaxin Wen, Zhaoyang Zhang, Hao Zhu, Yang Liu, Tian Wen, Lizhuo Ma, Jingtao Wang, Kun Xu, Sustainable materials and technologies. None(None)] 2025. https://openalex.org/W4412739183
-
-                No abstract</description>
-      <author>Yaxin Wen, Zhaoyang Zhang, Hao Zhu, Yang Liu, Tian Wen, Lizhuo Ma, Jingtao Wang, Kun Xu</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.susmat.2025.e01570</guid>
-    </item>
-    <item>
-      <title>Hydrogen evolution reaction by goldene/Janus-MSSe (M=Mo, W) heterostructures</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.150744</link>
-      <description>Kourosh Rahimi, International Journal of Hydrogen Energy. 161(None)] 2025. https://openalex.org/W4412740343
-
-                No abstract</description>
-      <author>Kourosh Rahimi</author>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.150744</guid>
-    </item>
-    <item>
-      <title>Spectro-Microscopy of Individual Pt&#8211;Rh Core&#8211;Shell Nanoparticles during Competing Oxidation and Alloying</title>
-      <link>https://doi.org/10.1021/acsnano.5c07668</link>
-      <description>Jagrati Dwivedi, Lydia J. Bachmann, Arno Jeromin, Satishkumar Kulkarni, Heshmat Noei, Liviu C. T&#259;nase, Aarti Tiwari, Lucas de Souza Caldas, Thomas Schmidt, Beatriz Rold&#225;n Cuenya, Andreas Stierle, Thomas F. Keller, ACS Nano. None(None)] 2025. https://openalex.org/W4412741690
-
-                The surface chemical composition of supported single Pt-Rh core-shell nanoparticles was studied to understand the Rh behavior in oxidizing and reducing gas environments using spectro-microscopy with high spatial resolution. We combined in situ X-ray photoemission electron microscopy with ex situ scanning electron-, atomic force-, and scanning Auger-microscopy to distinguish Rh oxidation-reduction, dewetting-sintering, and alloying-segregation during the course of the experiment. A more than 20% higher Rh 3d5/2 oxide to metal photoemission intensity ratio for the Rh layer on top of the Pt-core was found as compared to the bare strontium titanate (STO) oxide catalyst support in close vicinity, where Rh/RhOx nanoparticles are forming. At elevated temperatures, Rh diffuses into the Pt particle, and this alloying at the Pt metal surface competes with Rh oxidation, whereas the Rh/RhOx nanoparticles on the STO support are observed to sinter under identical oxidizing and temperature environments. A nanoparticle facet-dependent analysis of selected Pt-core nanoparticles suggests that Rh oxidation is most advanced on a small nanoparticle with a low coordination top facet that we indexed by electron backscatter diffraction, demonstrating the strength of our correlative approach.</description>
-      <author>Jagrati Dwivedi, Lydia J. Bachmann, Arno Jeromin, Satishkumar Kulkarni, Heshmat Noei, Liviu C. T&#259;nase, Aarti Tiwari, Lucas de Souza Caldas, Thomas Schmidt, Beatriz Rold&#225;n Cuenya, Andreas Stierle, Thomas F. Keller</author>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.5c07668</guid>
-    </item>
-    <item>
-      <title>Carburization-Assisted Conversion of N-Doped Mo to N-Doped Mo2c for Efficient Electrocatalytic Hydrogen Evolution</title>
-      <link>https://doi.org/10.2139/ssrn.5372834</link>
-      <description>Stefanos Chaitoglou, Subrata Ghosh, Shubhadeep Majumdar, Roger Amade, E. Bertr&#225;n, Carlo S. Casari, No host. None(None)] 2025. https://openalex.org/W4412743023
-
-                No abstract</description>
-      <author>Stefanos Chaitoglou, Subrata Ghosh, Shubhadeep Majumdar, Roger Amade, E. Bertr&#225;n, Carlo S. Casari</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5372834</guid>
-    </item>
-    <item>
-      <title>Stereochemical Control of Cocrystal and Hybrid Salt&#8211;Cocrystal Formation in the Baclofen&#8211;Mandelic Acid System</title>
-      <link>https://doi.org/10.1021/acs.cgd.5c00779</link>
-      <description>Sarita Songsermsawad, Kajjana Boonpalit, Oleksii Shemchuk, Koen Robeyns, Tom Leyssens, Adrian E. Flood, Crystal Growth &amp; Design. None(None)] 2025. https://openalex.org/W4412743394
-
-                No abstract</description>
-      <author>Sarita Songsermsawad, Kajjana Boonpalit, Oleksii Shemchuk, Koen Robeyns, Tom Leyssens, Adrian E. Flood</author>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.cgd.5c00779</guid>
-    </item>
     <item>
       <title>Strain-engineered molybdenum Diboride and tungsten Diboride monolayers as efficient catalysts for sustainable ammonia production via nitric oxide reduction</title>
       <link>https://doi.org/10.1016/j.jcis.2025.138597</link>
@@ -538,6 +458,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202501326</guid>
     </item>
     <item>
+      <title>Quantitative Electron Microscopy of Zeolites Using Aberration Corrected (S)TEM and Machine Learning</title>
+      <link>https://doi.org/10.1093/mam/ozaf048.1064</link>
+      <description>Tahmid Choudhury, Chen Huang, Aakash Varambhia, Alessandro Turrina, Mervyn D. Shannon, Do&#287;an &#214;zkaya, Angus I. Kirkland, Microscopy and Microanalysis. 31(Supplement_1)] 2025. https://openalex.org/W4412909113
+
+                No abstract</description>
+      <author>Tahmid Choudhury, Chen Huang, Aakash Varambhia, Alessandro Turrina, Mervyn D. Shannon, Do&#287;an &#214;zkaya, Angus I. Kirkland</author>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1093/mam/ozaf048.1064</guid>
+    </item>
+    <item>
       <title>Ferroelectric STO? Tilt and Astigmatism May Lead to Misleading Displacements at Atomic Resolution</title>
       <link>https://doi.org/10.1093/mam/ozaf048.580</link>
       <description>Sarah J. Stock, Milan Haddad, Seungwon Shin, N. P. Maity, N. D. SHARMA, &#1042;. &#1040;. &#1051;&#1077;&#1073;&#1077;&#1076;&#1077;&#1074;, Kristina M. Holsgrove, Amit Kumar, Raymond G. P. McQuaid, S. Lisenkov, I. Ponomareva, Nazanin Bassiri&#8208;Gharb, Lewys Jones, Microscopy and Microanalysis. 31(Supplement_1)] 2025. https://openalex.org/W4412910549
@@ -642,10 +572,220 @@
       <link>https://doi.org/10.1038/s41598-025-13769-8</link>
       <description>Hyungju Oh, Chanwoo Noh, Ayoung Cho, Jong Chan Kim, N Kim, Kyoung Hoon Kim, Scientific Reports. 15(1)] 2025. https://openalex.org/W4412941056
 
-                No abstract</description>
+                Lithium manganese iron phosphate (LMFP) is a promising cathode material for lithium-ion batteries due to its enhanced safety and structural stability. However, its ionic conductivity is limited by the 1D channels within its olivine crystal structure. In this study, we investigate the influence of Mn/Fe atomic configurations on LMFP's ionic conductivity by integrating ab initio density-functional theory (DFT) calculations with molecular dynamics (MD) simulations using graph neural network-based interatomic potentials. Our results show that variations in the Mn/Fe environment around Li ions significantly affect the Li-ion migration barrier and transport mechanisms. Specifically, asymmetric Mn/Fe configurations break Li-site degeneracy and induce a low-energy optical (LEO) phonon mode below 50 cm- 1, enhancing ionic conductivity. This study demonstrates that LMFP's ionic conductivity can be improved by more than 60% when this LEO phonon mode is present. These findings highlight the potential to optimize LMFP cathode performance by employing controlled synthesis methods that exploit favorable atomic configurations, laying the groundwork for accelerating the development of safer and more efficient lithium-ion batteries.</description>
       <author>Hyungju Oh, Chanwoo Noh, Ayoung Cho, Jong Chan Kim, N Kim, Kyoung Hoon Kim</author>
       <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41598-025-13769-8</guid>
+    </item>
+    <item>
+      <title>Tailoring of Fe-N-C single atom catalyst's coordination spheres via S-doping for oxygen reduction reaction activity: a DFT study</title>
+      <link>https://doi.org/10.1016/j.inoche.2025.115203</link>
+      <description>Monika Singh, Dipak K. Das, Anuj Kumar, Inorganic Chemistry Communications. 181(None)] 2025. https://openalex.org/W4412950906
+
+                No abstract</description>
+      <author>Monika Singh, Dipak K. Das, Anuj Kumar</author>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.inoche.2025.115203</guid>
+    </item>
+    <item>
+      <title>High entropy alloys: a comprehensive review of synthesis, properties, and characterization for electrochemical energy conversion and storage applications</title>
+      <link>https://doi.org/10.1039/d5ta03746h</link>
+      <description>Selvaganapathy Ganesan, Diksha Bhatt, Divyadharshini Satheesh, Thangavelu Kokulnathan, Pradeep Pant, Devaraj Bharathi, Leena Baskar, Nanda Gopal Sahoo, Arunkumar Palaniappan, Kovendhan Manavalan, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4412951649
+
+                A comprehensive overview of recent developments in catalysis related to HEAs, focusing on critical areas such as the HER, OER, ORR, hydrogen storage, zinc&#8211;air batteries, and supercapacitors.</description>
+      <author>Selvaganapathy Ganesan, Diksha Bhatt, Divyadharshini Satheesh, Thangavelu Kokulnathan, Pradeep Pant, Devaraj Bharathi, Leena Baskar, Nanda Gopal Sahoo, Arunkumar Palaniappan, Kovendhan Manavalan</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ta03746h</guid>
+    </item>
+    <item>
+      <title>Uncertainty in Software Development Projects: A Review of Causes, Types, Challenges, and Future Research Directions</title>
+      <link>https://doi.org/10.3390/systems13080650</link>
+      <description>Mingqi Zhang, Maxwell Fordjour Antwi&#8208;Afari, Chonghui Wang, Weihao Sun, Saeed Reza Mohandes, Sulemana Fatoama Abdulai, Systems. 13(8)] 2025. https://openalex.org/W4412954210
+
+                In a rapidly evolving business landscape, the success of software development (SD) projects is increasingly impacted by uncertainty, which poses significant challenges for project managers. Despite the known influence of uncertainty on project outcomes, its types, causes, and challenges in software remain inadequately understood. This review conducts a systematic analysis of previous related SD projects and related research to clarify these aspects, ultimately identifying key research gaps and proposing future research directions. By adopting a mixed-methods review that integrates scientometric analysis and systematic review methods, this study analysed 60 articles from the Scopus database. The results reported nine causes, six types, and nine challenges associated with uncertainty in SD to provide insights for project managers and researchers in understanding and managing uncertainty more effectively. Additionally, this study proposes four areas for further research to enhance focus and innovation in SD project management.</description>
+      <author>Mingqi Zhang, Maxwell Fordjour Antwi&#8208;Afari, Chonghui Wang, Weihao Sun, Saeed Reza Mohandes, Sulemana Fatoama Abdulai</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/systems13080650</guid>
+    </item>
+    <item>
+      <title>Au&#8208;Modified SrTiO&lt;sub&gt;3&lt;/sub&gt; Nanoarray Featuring Enhanced Ultrasound&#8208;Responsive Mott&#8211;Schottky Heterojunction Speeds Bone Regeneration Through Sonodynamic Antibacterial and Inflammatory Management</title>
+      <link>https://doi.org/10.1002/adfm.202505769</link>
+      <description>Zheng Liu, Hong Ding, Huilun Xu, Hao Yang, Jiangshan Liu, Zhendong Zhang, M. Xiao, Limin Liu, Leizhen Huang, Li Zhang, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4412956225
+
+                Abstract Eradicating the bacteria on the surface of titanium&#8208;based (Ti) implants and optimizing the local immune environment is urgently needed to minimize the clinical implantation failures. Here, an ultrasound (US)&#8208;responsive Ti implant aiming at killing bacteria is prepared by building strontium titanate (SrTiO 3 ) nanoarrays on Ti substrate through a multi&#8208;step hydrothermal method and the subsequent decoration of Au nanoparticles (Au NPs). As an n&#8208;type semiconductor, SrTiO 3 can combine with Au NPs to form a Mott&#8211;Schottky heterostructure. The results reveal that the built&#8208;in electric field of the M&#8211;S heterojunction composed of Au NPs and SrTiO 3 significantly promotes the separation of electrons and holes while reducing the bandgap. Under US irradiation, Au@SrTiO 3 generates a large amount of reactive oxygen species (ROS) to kill bacteria, meanwhile eliminating bacterial biofilms that adhere to the implant surface. Besides, Au NPs accelerate bone remodeling by modulating macrophage polarization toward inflammation&#8208;suppressive orientation. Also, SrTiO 3 and Au NPs synergistically directed the osteogenic differentiation. The implantation in vivo shows that continuously optimizing the osteogenic microenvironment can obviously accelerate the osseointegration of Ti implant. Transcriptomic analysis reveals the in vivo pro&#8208;osteointegration mechanism of heterostructured Au@SrTiO 3 nanoarrays on Ti implant.</description>
+      <author>Zheng Liu, Hong Ding, Huilun Xu, Hao Yang, Jiangshan Liu, Zhendong Zhang, M. Xiao, Limin Liu, Leizhen Huang, Li Zhang</author>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202505769</guid>
+    </item>
+    <item>
+      <title>Axial Ligand Engineering: A Strategy for Promoting Oxygen Reduction Activity of Mn4 Single-Atom Catalysts</title>
+      <link>https://doi.org/10.2139/ssrn.5358180</link>
+      <description>Yamin Wang, Bo Luo, Yumei Yang, Li Chen, Guang&#8208;Jie Xia, No host. None(None)] 2025. https://openalex.org/W4412960577
+
+                No abstract</description>
+      <author>Yamin Wang, Bo Luo, Yumei Yang, Li Chen, Guang&#8208;Jie Xia</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5358180</guid>
+    </item>
+    <item>
+      <title>Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry</title>
+      <link>https://doi.org/10.1038/s41524-025-01742-y</link>
+      <description>Tsz Wai Ko, Bowen Deng, Marcel Nassar, Luis Barroso-Luque, Runze Liu, Ji Qi, Atul C. Thakur, Amiya Kanta Mishra, Eric Hsien Lung Liu, Gerbrand Ceder, Santiago Miret, Shyue Ping Ong, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4412974141
+
+                No abstract</description>
+      <author>Tsz Wai Ko, Bowen Deng, Marcel Nassar, Luis Barroso-Luque, Runze Liu, Ji Qi, Atul C. Thakur, Amiya Kanta Mishra, Eric Hsien Lung Liu, Gerbrand Ceder, Santiago Miret, Shyue Ping Ong</author>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01742-y</guid>
+    </item>
+    <item>
+      <title>Contribuciones, tendencias y metodolog&#237;as de la Agroecolog&#237;a en la adaptaci&#243;n al cambio clim&#225;tico</title>
+      <link>https://doi.org/10.56712/latam.v6i4.4298</link>
+      <description>Gisela Ay&#243;n &#193;vila, Jos&#233; Luis Hern&#225;ndez-Hern&#225;ndez, H&#233;ctor Segura Pacheco, Yan Pallac Maldonado Astudillo, Rayma Ireri Maldonado Astudillo, LATAM Revista Latinoamericana de Ciencias Sociales y Humanidades. 6(4)] 2025. https://openalex.org/W4412975473
+
+                Este estudio realiz&#243; una revisi&#243;n sistem&#225;tica bajo el protocolo PRISMA, con el objetivo de analizar las contribuciones, tendencias y metodolog&#237;as de las investigaciones cient&#237;ficas para identificar la relaci&#243;n entre la agroecolog&#237;a y la adaptaci&#243;n de las comunidades rurales al cambio clim&#225;tico. La revisi&#243;n abarc&#243; el periodo comprendido entre 2015 y 2025. Se analizaron 72 estudios recuperados en Scopus mediante el software Publish or Perish, de los cuales se filtraron 28 art&#237;culos. La metodolog&#237;a integr&#243; criterios de inclusi&#243;n y clasificaci&#243;n tem&#225;tica. Los hallazgos destacan que la agroecolog&#237;a se considera como una ciencia, un movimiento social y un conjunto de pr&#225;cticas. Su implementaci&#243;n mediante pr&#225;cticas agroecol&#243;gicas y conocimientos ind&#237;genas mejor&#243; la resiliencia agroalimentaria, redujo el impacto ambiental y fortaleci&#243; la justicia social. Las metodolog&#237;as identificadas incluyeron la etnograf&#237;a, los estudios de caso y los enfoques experimentales, aunque se observ&#243; una falta de estandarizaci&#243;n. Se identificaron tendencias hacia la integraci&#243;n de la agroecolog&#237;a con otros enfoques, como la agricultura clim&#225;ticamente inteligente. La revisi&#243;n sugiere que la agroecolog&#237;a representa una alternativa transformadora frente al cambio clim&#225;tico, aunque requiere de sistematizaci&#243;n y articulaci&#243;n pol&#237;tica.</description>
+      <author>Gisela Ay&#243;n &#193;vila, Jos&#233; Luis Hern&#225;ndez-Hern&#225;ndez, H&#233;ctor Segura Pacheco, Yan Pallac Maldonado Astudillo, Rayma Ireri Maldonado Astudillo</author>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.56712/latam.v6i4.4298</guid>
+    </item>
+    <item>
+      <title>Structural Dynamics of Amorphous Phase in Sriro3 Catalyst During Oxygen Evolution Reaction Revealed by Operando Total X-Ray Scattering Measurements and Pair Distribution Function Analysis</title>
+      <link>https://doi.org/10.2139/ssrn.5357066</link>
+      <description>Kentaro Kobayashi, Satoshi Hiroi, Koji Ohara, Neha Thakur, Mukesh Kumar, Weijie Cao, Kengo Nakada, Jo&#8208;Chi Tseng, Hiroki Yamada, Seiya Shimono, Yu&#8208;Cheng Shao, Hirofumi Ishii, Yoshiharu Uchimoto, No host. None(None)] 2025. https://openalex.org/W4412978518
+
+                No abstract</description>
+      <author>Kentaro Kobayashi, Satoshi Hiroi, Koji Ohara, Neha Thakur, Mukesh Kumar, Weijie Cao, Kengo Nakada, Jo&#8208;Chi Tseng, Hiroki Yamada, Seiya Shimono, Yu&#8208;Cheng Shao, Hirofumi Ishii, Yoshiharu Uchimoto</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5357066</guid>
+    </item>
+    <item>
+      <title>Protonated and Dehydrogenated Melamine Adsorptions onto Terrace Planes of Pt: A theoretical study</title>
+      <link>https://doi.org/10.1016/j.susc.2025.122817</link>
+      <description>Kohei Tada, Shin&#8208;ichi Yamazaki, Masafumi Asahi, Tsutomu Ioroi, Surface Science. None(None)] 2025. https://openalex.org/W4412978684
+
+                No abstract</description>
+      <author>Kohei Tada, Shin&#8208;ichi Yamazaki, Masafumi Asahi, Tsutomu Ioroi</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2025.122817</guid>
+    </item>
+    <item>
+      <title>A comprehensive review on the MXene-based catalysts for hydrogen generation via water splitting processes</title>
+      <link>https://doi.org/10.1016/j.molstruc.2025.143534</link>
+      <description>Kanika Raj, Ramdevsinh Jhala, S. Sujai, Binayak Pattanayak, Jitendra Singh, Parveen Kumar, M. Kaladhar, Rahul Singh, Yashwant Singh Bisht, Anurag Gautam, Journal of Molecular Structure. None(None)] 2025. https://openalex.org/W4412978759
+
+                No abstract</description>
+      <author>Kanika Raj, Ramdevsinh Jhala, S. Sujai, Binayak Pattanayak, Jitendra Singh, Parveen Kumar, M. Kaladhar, Rahul Singh, Yashwant Singh Bisht, Anurag Gautam</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.molstruc.2025.143534</guid>
+    </item>
+    <item>
+      <title>Unraveling the role of 3d transition metal anchoring on P-termination and doping on Mo-termination of MoP for water splitting catalysis. A DFT investigation</title>
+      <link>https://doi.org/10.1016/j.electacta.2025.146953</link>
+      <description>Muhammad Rafiq, Wenjuan Xu, Godefroid Gahungu, Wenliang Li, Jingping Zhang, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4412978773
+
+                No abstract</description>
+      <author>Muhammad Rafiq, Wenjuan Xu, Godefroid Gahungu, Wenliang Li, Jingping Zhang</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.146953</guid>
+    </item>
+    <item>
+      <title>Engineered surface oxidation of porous metal substrate for simultaneous enhancement of kinetics and durability in electrochemical hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.138624</link>
+      <description>Kang-Min Seo, Gahyeon Lee, J.W. Ra, Hye Ri Kim, Sejin Im, Hyunseob Lim, Changhee Kim, Jong Hoon Joo, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4412978842
+
+                No abstract</description>
+      <author>Kang-Min Seo, Gahyeon Lee, J.W. Ra, Hye Ri Kim, Sejin Im, Hyunseob Lim, Changhee Kim, Jong Hoon Joo</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.138624</guid>
+    </item>
+    <item>
+      <title>Phase-Stabilized Core@Shell NiFe2O4@CoFe2O4 Nanocages for the Integrated Energy and Electroreduction of Nitrate-to-Ammonia</title>
+      <link>https://doi.org/10.1016/j.apcatb.2025.125775</link>
+      <description>Kasiviswanathan Muthusamy, Jayaraman Theerthagiri, Athis Watwiangkham, Ahreum Min, Siriporn Jungsuttiwong, Myong Yong Choi, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4412980661
+
+                No abstract</description>
+      <author>Kasiviswanathan Muthusamy, Jayaraman Theerthagiri, Athis Watwiangkham, Ahreum Min, Siriporn Jungsuttiwong, Myong Yong Choi</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125775</guid>
+    </item>
+    <item>
+      <title>B and Sr co-doping suppressed Pt oxidative passivation enables fast water oxidation in PEMWE</title>
+      <link>https://doi.org/10.1016/j.cclet.2025.111657</link>
+      <description>Jiawei Ge, Hao Wan, Feng Gao, Heyuan Tian, Jiangying Qu, Wang Xian, Junjie Ge, Chinese Chemical Letters. None(None)] 2025. https://openalex.org/W4412981064
+
+                No abstract</description>
+      <author>Jiawei Ge, Hao Wan, Feng Gao, Heyuan Tian, Jiangying Qu, Wang Xian, Junjie Ge</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cclet.2025.111657</guid>
+    </item>
+    <item>
+      <title>Enhancing Formic Acid and Hydrogen Co-electrosynthesis via Engineering Atom Arrangement in Nickel-Boron Interstitials</title>
+      <link>https://doi.org/10.1016/j.apcatb.2025.125773</link>
+      <description>Qiuju Li, Hao Sun, Qiaoyu Liu, Guang Yang, Yijing Pian, Xiaotian Li, Zexuan Zheng, Shurong Li, Zhenyu Li, Jing&#8208;yao Liu, Haibin Chu, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4412988531
+
+                No abstract</description>
+      <author>Qiuju Li, Hao Sun, Qiaoyu Liu, Guang Yang, Yijing Pian, Xiaotian Li, Zexuan Zheng, Shurong Li, Zhenyu Li, Jing&#8208;yao Liu, Haibin Chu</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.125773</guid>
+    </item>
+    <item>
+      <title>Multi-dimensional decoupling local electron spin and inner Helmholtz layer roles in MoS2/MoSe2 superlattice photocatalysts</title>
+      <link>https://doi.org/10.1016/j.cej.2025.166707</link>
+      <description>Guoliang Zhu, Jagadeesh Suriyaprakash, Guangri Chen, Dapeng Hong, Jiajun Gu, Yanyang Zhang, Lianwei Shan, Huanyan Xu, Xiaojing Li, Haitao Wu, Limin Dong, Shuyan Qi, Xinxin Jin, Gang Liu, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4412988940
+
+                No abstract</description>
+      <author>Guoliang Zhu, Jagadeesh Suriyaprakash, Guangri Chen, Dapeng Hong, Jiajun Gu, Yanyang Zhang, Lianwei Shan, Huanyan Xu, Xiaojing Li, Haitao Wu, Limin Dong, Shuyan Qi, Xinxin Jin, Gang Liu</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.166707</guid>
+    </item>
+    <item>
+      <title>Biomimetic design for zinc-based energy storage devices: principles, challenges and opportunities</title>
+      <link>https://doi.org/10.1039/d5cs00093a</link>
+      <description>Jian Song, Qian Zhang, Guangjie Yang, Kai Qi, Xue Li, Zhenlu Liu, Haoqi Yang, Ho Seok Park, Shaohua Jiang, Jingquan Han, Shuijian He, Bao Yu Xia, Chemical Society Reviews. None(None)] 2025. https://openalex.org/W4412995324
+
+                An overview summarizes the research status and progress of biomimetic design for zinc-based energy storage devices, analyzes the challenges and proposes future prospects in this field.</description>
+      <author>Jian Song, Qian Zhang, Guangjie Yang, Kai Qi, Xue Li, Zhenlu Liu, Haoqi Yang, Ho Seok Park, Shaohua Jiang, Jingquan Han, Shuijian He, Bao Yu Xia</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5cs00093a</guid>
+    </item>
+    <item>
+      <title>Theoretical High-Throughput Screening of Single-Atom CO2 Electroreduction Catalysts to Methanol Using Active Learning</title>
+      <link>https://doi.org/10.1016/j.eng.2025.03.039</link>
+      <description>Honghao Chen, Jun Yin, Jiali Li, Xiaonan Wang, Engineering. None(None)] 2025. https://openalex.org/W4412999375
+
+                No abstract</description>
+      <author>Honghao Chen, Jun Yin, Jiali Li, Xiaonan Wang</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.eng.2025.03.039</guid>
+    </item>
+    <item>
+      <title>Design and Optimization of Zero-Dimensional Carbon Allotrope-Encapsulated Ni&#8211;Co Nanoparticles as a Water Splitting Catalyst</title>
+      <link>https://doi.org/10.1021/acsaem.5c01627</link>
+      <description>Adyasa Priyadarsini, Bhabani S. Mallik, ACS Applied Energy Materials. None(None)] 2025. https://openalex.org/W4412999515
+
+                No abstract</description>
+      <author>Adyasa Priyadarsini, Bhabani S. Mallik</author>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.5c01627</guid>
+    </item>
+    <item>
+      <title>Efficient separation of CO2/H2 gas mixtures via hydrate-based method driven by tetrafluoroethane and calcium hydroxide</title>
+      <link>https://doi.org/10.1016/j.seppur.2025.134631</link>
+      <description>Chuanxiao Cheng, Qianhao Zhang, Yanqiu Xiao, Cheng Yan, Haoran Zhu, Hongjin He, Zhi Shang, Yifei Hou, Zihan Li, Jinhai Zhang, Yunpeng Shang, Fan Wang, Wenfeng Hu, Shiquan Zhu, Hongsheng Dong, Wei Zhang, Lunxiang Zhang, Separation and Purification Technology. 378(None)] 2025. https://openalex.org/W4413000671
+
+                No abstract</description>
+      <author>Chuanxiao Cheng, Qianhao Zhang, Yanqiu Xiao, Cheng Yan, Haoran Zhu, Hongjin He, Zhi Shang, Yifei Hou, Zihan Li, Jinhai Zhang, Yunpeng Shang, Fan Wang, Wenfeng Hu, Shiquan Zhu, Hongsheng Dong, Wei Zhang, Lunxiang Zhang</author>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2025.134631</guid>
+    </item>
+    <item>
+      <title>Computational Investigation of Single-Atom Catalysts Anchored on Nitrogen-Doped Two-Dimensional NbSe&lt;sub&gt;2&lt;/sub&gt; for Highly Selective CO&lt;sub&gt;2&lt;/sub&gt; Reduction to Methane</title>
+      <link>https://doi.org/10.1021/acs.langmuir.5c01839</link>
+      <description>Hao Wang, Wei Jin, De-Chuan Sun, Tong Liu, Chang&#8208;Chun Ding, Junshan Hu, Langmuir. None(None)] 2025. https://openalex.org/W4413001881
+
+                No abstract</description>
+      <author>Hao Wang, Wei Jin, De-Chuan Sun, Tong Liu, Chang&#8208;Chun Ding, Junshan Hu</author>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.5c01839</guid>
     </item>
     <item>
       <title>The Enhancement of Charge Transfer and Friction at the Interfaces between Defected h-BN and Water: a Density-Functional-Theory-Based Machine Learning Study</title>
@@ -676,6 +816,16 @@
       <author>Nadia Ait Labyad, Abdallah El-asri, Moussa Amrani, Andrew J. Gellman, Herv&#233; Mart&#237;nez</author>
       <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2025.113413</guid>
+    </item>
+    <item>
+      <title>Vacancy-driven coordination field modulating electron spin state for enhanced bidirectional polysulfide conversion in lithium-sulfur batteries</title>
+      <link>https://doi.org/10.1016/j.jechem.2025.07.065</link>
+      <description>Kangdong Tian, Ruifeng Li, Miaofa Yuan, Jiafeng Li, Chengxiang Wang, Journal of Energy Chemistry. None(None)] 2025. https://openalex.org/W4412980381
+
+                No abstract</description>
+      <author>Kangdong Tian, Ruifeng Li, Miaofa Yuan, Jiafeng Li, Chengxiang Wang</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2025.07.065</guid>
     </item>
   </channel>
 </rss>
