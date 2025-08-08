@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Aug 2025 01:55:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 01:54:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Mapping uncertainty using differentiable programming</title>
-      <link>https://doi.org/10.1002/aic.18940</link>
-      <description>Victor Alves, Carl D. Laird, Fernando V. Lima, John R. Kitchin, AIChE Journal. None(None)] 2025. https://openalex.org/W4412788564
-
-                Abstract Uncertainty quantification (UQ) and propagation is a ubiquitous challenge in science, permeating our field in a general fashion, and its importance cannot be overstated. Recently, the commoditization of differentiable programming, motivated by the development of machine learning, has allowed easier access to tools for evaluating derivatives of complex systems, of implicit and nonlinear nature. Motivated by this, we develop a UQ mapping approach based on differentiable programming principles. The approach is novel, faster, and yields equally accurate results when compared against the current state&#8208;of&#8208;the&#8208;art approaches for the UQ problem, which is to quantify and map uncertainty using linear methods or expensive Monte Carlo simulations. Three case studies&#8212;namely a continuous stirred tank reactor, a membrane reactor, and a fed&#8208;batch bioreactor&#8212;are assessed and compared against typical uncertainty mapping techniques. Lastly, the method allows the use of a single model implementation to perform forward and inverse uncertainty maps, easily switching mapping directions.</description>
-      <author>Victor Alves, Carl D. Laird, Fernando V. Lima, John R. Kitchin</author>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aic.18940</guid>
-    </item>
-    <item>
-      <title>Atomistic modeling of kinetic surface segregation mechanisms in CuAu binary alloys: A first-principles study</title>
-      <link>https://doi.org/10.1016/j.mtcomm.2025.113413</link>
-      <description>Nadia Ait Labyad, Abdallah El-asri, Moussa Amrani, Andrew J. Gellman, Herv&#233; Mart&#237;nez, Materials Today Communications. None(None)] 2025. https://openalex.org/W4412792535
-
-                No abstract</description>
-      <author>Nadia Ait Labyad, Abdallah El-asri, Moussa Amrani, Andrew J. Gellman, Herv&#233; Mart&#237;nez</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2025.113413</guid>
-    </item>
     <item>
       <title>Advances on MagLITe: deposition and photocollection efficiency</title>
       <link>https://doi.org/10.1088/1748-0221/20/08/c08002</link>
