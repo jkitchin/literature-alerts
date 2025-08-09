@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 Aug 2025 01:54:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 01:44:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Surface Electrochemistry of Pt&#8211;Ni Thin-Film Formations</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c03762</link>
-      <description>Alasdair Fairhurst, Benjamin J. Ransom, Dominik Haering, Chaewon Lim, Ethan J. Schoettler, Vojislav R. Stamenkovi&#263;, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4412800488
-
-                No abstract</description>
-      <author>Alasdair Fairhurst, Benjamin J. Ransom, Dominik Haering, Chaewon Lim, Ethan J. Schoettler, Vojislav R. Stamenkovi&#263;</author>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c03762</guid>
-    </item>
-    <item>
-      <title>Tip&#8208;Enhanced Oxygen Reduction on Pt@Ni Cones via Concentrated Electric and Magnetic Fields</title>
-      <link>https://doi.org/10.1002/smtd.202500684</link>
-      <description>Guojun Han, Mohamed Ait Tamerd, Ling Gao, Guo Qingsheng, Cong Feng, Menghao Yang, Guo&#8208;Xing Miao, Jing Fu, Small Methods. None(None)] 2025. https://openalex.org/W4412812727
-
-                Abstract Efficient oxygen reduction reaction (ORR) is crucial for energy conversion technologies, yet its sluggish kinetics remain a significant challenge. Beyond optimizing the catalyst's intrinsic properties, field effects can also profoundly impact the microenvironment at the catalyst/electrolyte interface, thereby affecting electrocatalytic performance. This study explores the tip&#8208;enhanced ORR by leveraging the coupled effects of electric and magnetic fields at the reaction interface. The Pt&#8208;loaded ferromagnetic Ni cone electrode generates strong localized electric fields that reorganize interfacial water molecules into a more ordered structure. This strengthens hydrogen bonding between the electrolyte and reaction intermediates, which in turn facilitates proton&#8208;coupled electron transfer and accelerates the rate&#8208;limiting *OH desorption into interfacial water matrix. Additionally, the amplified electric fields at tips accelerate OH &#8722; electromigration away from the catalyst surface, while the migration current couples with the concentrated magnetic fields near tips to drive strong magnetohydrodynamic flows. These intensified flows effectively enhance O 2 molecule delivery to wider electrode surface and facilitate better OH &#8722; product removal, thus improving the overall reaction efficiency. This strategy of concentrating both E/M fields using the field&#8208;effect catalyst optimizes the ORR kinetics at the interface as well as the mass transport dynamics near interface, offering an effective approach for advancing ORR performance.</description>
-      <author>Guojun Han, Mohamed Ait Tamerd, Ling Gao, Guo Qingsheng, Cong Feng, Menghao Yang, Guo&#8208;Xing Miao, Jing Fu</author>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202500684</guid>
-    </item>
-    <item>
-      <title>Synergistic Amorphous Ni Core&#8211;N&#8208;Doped Carbon Shell Nanoparticles for Efficient Bifunctional Water Splitting</title>
-      <link>https://doi.org/10.1002/eem2.70103</link>
-      <description>Haoran Cheng, Hong Seok Kim, Energy &amp; environment materials. None(None)] 2025. https://openalex.org/W4412812879
-
-                Amorphous metal&#8208;based catalysts are highly promising for water splitting due to their abundance of unsaturated active sites. Herein, we report a one&#8208;step, surfactant&#8208;free synthesis of amorphous nickel nanoparticles (NPs) encapsulated in nitrogen&#8208;doped carbon shells (A&#8208;Ni@NC) via pulsed laser ablation in liquid (PLAL). The synergistic integration of the amorphous Ni core and a defect&#8208;rich N&#8208;doped carbon shell markedly enhanced the catalytic activities for both the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER), with low overpotentials of 182 mV for HER and 288 mV for OER at 10 mA cm &#8722;2 in 1.0 m KOH. Furthermore, the bifunctional catalyst achieved a current density of 10 mA cm &#8722;2 at 1.63 V and retained 98.9% of its initial performance after 100 h of operation. The nitrogen&#8208;rich carbon shell not only offered abundant active sites and structural protection but also promoted charge transport. Density functional theory (DFT) calculations revealed that N&#8208;doping optimized intermediate adsorption energies, while the amorphous Ni core facilitated efficient electron transfer. This green and scalable synthesis strategy provides a promising platform for developing a wide range of transition metal@N&#8208;doped carbon hybrid catalysts for sustainable energy conversion applications.</description>
-      <author>Haoran Cheng, Hong Seok Kim</author>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/eem2.70103</guid>
-    </item>
-    <item>
-      <title>Surface Reconstruction of PtRhNiMoPd Nanocrystals Facilitates Hydrogen Evolution from Acidic Electrolytic Water</title>
-      <link>https://doi.org/10.1021/acsami.5c05884</link>
-      <description>Ziting Li, Pei Xiong, Min Wei, Jike Wang, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4412818028
-
-                The development and design of Pt-based alloy catalysts with high activity and stability are important for the hydrogen evolution reaction, especially in acidic media. Here, we report a mild acid-impregnated reconfiguration strategy to construct defects and strain effect (PtRhNiMoPd NCs-80&#176;C-6h) by removing unstable Ni atoms in acetic acid treatment. Only 5.6 mV is required to achieve a current density of -10 mA cm-2 for PtRhNiMoPd NCs-80&#176;C-6h in an acid electrolyte. Meanwhile, PtRhNiMoPd NCs-80&#176;C-6h exhibits negligible degradation after 10,000 cycles, which is superior to commercial Pt/C. This suggests that surface reconstruction can expose more efficient active sites and improve the adsorption of intermediates on the active sites, enhancing the catalytic performance. This study provides a new perspective for the rational design of high-entropy alloy nanomaterials with an efficient hydrogen evolution performance.</description>
-      <author>Ziting Li, Pei Xiong, Min Wei, Jike Wang</author>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c05884</guid>
-    </item>
-    <item>
-      <title>Redox chemistry meets semiconductor defect physics</title>
-      <link>https://doi.org/10.1063/5.0270226</link>
-      <description>Jian Gu, Jun Huang, Jun Cheng, The Journal of Chemical Physics. 163(5)] 2025. https://openalex.org/W4412824011
-
-                Understanding how the electronic structure of electrodes influences electrocatalytic reactions has been a longstanding topic in the electrochemistry community, with predominant attention paid to metallic electrodes. In this work, we present a defect physics perspective on the effect of semiconductor band structure on electrochemical redox reactions. Specifically, the Haldane&#8211;Anderson model, originally developed to study multiple charge states of transition-metal defects in semiconductors, is extended to describe electrochemical redox reactions by incorporating the solvent effect, inspired by the Holstein model. The solvent coordinate and the actual charge on the redox species in reduced and oxidized states are assumed to be in instant equilibrium, and the transitions between these states are defined by the framework of Green&#8217;s function. With these treatments, the charge state transitions are handled in a self-consistent manner, and the implications of charge self-consistency (or, equivalently, charge self-regulation) on electrocatalysis can be investigated explicitly. We first confirm that this self-consistent approach is essential to accurately depict the hybridization effect of band structure by comparing the model-calculated ionization potential and electron affinity, as well as the redox potential of the species, with those obtained from density functional theory calculations. Next, we illustrate that the effect of charge self-consistency is key to obtaining a fuller understanding of the catalytic activities of semiconductor electrodes and the source of asymmetry in reorganization energies, which is often observed in prior ab initio molecular dynamics simulations. In addition, we discuss how band structure impacts redox reactions in the strong coupling limit. Finally, we compare our work with other relevant studies in the literature.</description>
-      <author>Jian Gu, Jun Huang, Jun Cheng</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0270226</guid>
-    </item>
-    <item>
-      <title>DPmoire: a tool for constructing accurate machine learning force fields in moir&#233; systems</title>
-      <link>https://doi.org/10.1038/s41524-025-01740-0</link>
-      <description>J.D. Liu, Fang Zhong, Hongming Weng, Quansheng Wu, npj Computational Materials. 11(1)] 2025. https://openalex.org/W4412825031
-
-                No abstract</description>
-      <author>J.D. Liu, Fang Zhong, Hongming Weng, Quansheng Wu</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-025-01740-0</guid>
-    </item>
-    <item>
-      <title>Electrochemical Generation of Chlorine and Hydrogen from Waste Poly(vinyl chloride)</title>
-      <link>https://doi.org/10.1021/acssuschemeng.5c04559</link>
-      <description>Bertrand J. Neyhouse, Grace Cook, Rahul Kant Jha, Anne J. McNeil, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2025. https://openalex.org/W4412826285
-
-                No abstract</description>
-      <author>Bertrand J. Neyhouse, Grace Cook, Rahul Kant Jha, Anne J. McNeil</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.5c04559</guid>
-    </item>
-    <item>
-      <title>Anion-Exchange-Membrane Electrolysis with Alkali-Free Water Feed</title>
-      <link>https://doi.org/10.1021/acs.chemrev.4c00466</link>
-      <description>Mohsin Muhyuddin, Carlo Santoro, Luigi Osmieri, Valerio C.A. Ficca, Ariel Friedman, Karam Yassin, Gioele Pagot, Enrico Negro, Anastasiia Konovalova, Grace Lindquist, Liam Twight, Minkyoung Kwak, Enrico Berretti, Vito Di Noto, Fr&#233;d&#233;ric Jaouen, Lior Elbaz, Dario R. Dekel, Piercarlo Mustarelli, Shannon W. Boettcher, Alessandro Lavacchi, Plamen Atanassov, Chemical Reviews. None(None)] 2025. https://openalex.org/W4412829789
-
-                Hydrogen is a green and sustainable energy vector that can facilitate the large-scale integration of intermittent renewable energy, renewable fuels for heavy transport, and deep decarbonization of hard-to-abate industries. Anion-exchange-membrane water electrolyzers (AEM-WEs) have several achieved or expected competitive advantages over other electrolysis technologies, including the use of precious metal-free electrocatalysts at both electrodes, fluorine-free hydrocarbon-based ionomeric membranes and bipolar plates based on inexpensive materials. Contrasting the analogous proton-exchange-membrane system (PEM-WE), where pure water is circulated (no support electrolyte), the current generation of AEM-WEs necessitates the circulation of a dilute aqueous alkaline electrolyte for reaching high energy efficiency and durability. For several reasons, including but not limited to lower cost of balance-of-plant, lower operating cost and improved device's lifetime, achieving high cell efficiency and performance using an alkali-free water feed is highly desirable. In this review, we develop and build a foundational understanding of AEM-WEs operating with pure water, as well as discuss the effects of operating with natural water feeds like seawater. After a discussion of the possible advantages of pure-water-fed AEM-WEs, we cover the thermodynamic and kinetic processes involved in AEM-WE, followed by a detailed review of materials and components and their integration in the device. We highlight the influence of electrolyte composition and alkali/electrolyte-free feed on the membrane-electrode assembly, ionomers, electrocatalysts, porous transport layer, bipolar plates and operating configuration. We provide evidence for how the pure water feed engenders several issues related to the degradation of device components and propose mitigation strategies.</description>
-      <author>Mohsin Muhyuddin, Carlo Santoro, Luigi Osmieri, Valerio C.A. Ficca, Ariel Friedman, Karam Yassin, Gioele Pagot, Enrico Negro, Anastasiia Konovalova, Grace Lindquist, Liam Twight, Minkyoung Kwak, Enrico Berretti, Vito Di Noto, Fr&#233;d&#233;ric Jaouen, Lior Elbaz, Dario R. Dekel, Piercarlo Mustarelli, Shannon W. Boettcher, Alessandro Lavacchi, Plamen Atanassov</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.4c00466</guid>
-    </item>
     <item>
       <title>Proton-Relaying Adsorbates Induce Non-Nernstian Behavior in Oxygen Reduction</title>
       <link>https://doi.org/10.1021/acscatal.5c01767</link>
@@ -662,7 +582,7 @@
       <link>https://doi.org/10.1021/jacs.5c07827</link>
       <description>Yongkang Wang, Haojian Luo, Xavier R. Advincula, Zhengpu Zhao, Ali Esfandiar, Da Wu, Kara D. Fong, Lei Gao, Arsh S. Hazrah, Takashi Taniguchi, Christoph Schran, Yuki Nagata, Lyd&#233;ric Bocquet, Marie&#8208;Laure Bocquet, Ying Jiang, Angelos Michaelides, Mischa Bonn, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4413013444
 
-                No abstract</description>
+                Boron, nitrogen, and carbon are neighbors in the periodic table and can form strikingly similar twin structures&#9472;hexagonal boron nitride (hBN) and graphene&#9472;yet nanofluidic experiments demonstrate drastically different water friction on them. We investigate this discrepancy by probing the interfacial water and atomic-scale properties of hBN using surface-specific vibrational spectroscopy, atomic-resolution atomic force microscopy (AFM), and machine learning-based molecular dynamics. Spectroscopy reveals that pristine hBN acquires significant negative charges upon contacting water at neutral pH, unlike hydrophobic graphene, leading to interfacial water alignment and stronger hydrogen bonding. AFM supports that this charging is not defect-induced. pH-dependent measurements suggest OH- chemisorption and physisorption, which simulations validate as two nearly equally stable states undergoing dynamic exchange. These findings challenge the notion of hBN as chemically inert and hydrophobic, revealing its spontaneous surface charging and Janus nature, and providing molecular insights into its higher water friction compared to carbon surfaces.</description>
       <author>Yongkang Wang, Haojian Luo, Xavier R. Advincula, Zhengpu Zhao, Ali Esfandiar, Da Wu, Kara D. Fong, Lei Gao, Arsh S. Hazrah, Takashi Taniguchi, Christoph Schran, Yuki Nagata, Lyd&#233;ric Bocquet, Marie&#8208;Laure Bocquet, Ying Jiang, Angelos Michaelides, Mischa Bonn</author>
       <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c07827</guid>
@@ -712,7 +632,7 @@
       <link>https://doi.org/10.1038/s41467-025-62665-2</link>
       <description>Deren Yang, Chunyang Zhang, Yufeng Qin, Yue Yang, Yubo Liu, Xiaoyun Shi, Kang Hua, Xuemin An, Lihua Jin, Yipeng Zhang, Shouwei Zuo, Abdullah Tan, Jianguo Liu, Nature Communications. 16(1)] 2025. https://openalex.org/W4413023898
 
-                No abstract</description>
+                Both commercial and laboratory-synthesized IrO2 catalysts typically possess rutile-type structures with multiple facets. Theoretical results predict the (101) facet is the most energetically favorable for oxygen evolution reaction owing to its lowest energy barrier. Achieving monolayer thickness while exposing this desired facet is a significant opportunity for IrO2. Herein, we develop an ammonia-induced facet engineering for the synthesis of single-faceted IrO2(101) monolayer. It achieves 230 mV overpotential at 10 mA cmgeo-2 in a three-electrode system and 1.70 V at 2 A cmgeo-2 in a proton exchange membrane (PEM) electrolyzer. Though facet engineering primarily contributes to modulating the intrinsic activity rather than stability, single-faceted IrO2 monolayer performs over 10,000-hour stability at constant 1.5 A cmgeo-2 (3.95 mV kh-1 decay) and 1000-hour stability at 0.2 mgIr cmgeo-2 under fluctuating conditions. This work proposes that ammonia-induced facet engineering of IrO2 monolayer enables facet-dependent oxygen evolution reaction (OER) performance and high stability in industrial-scale PEM electrolysis.</description>
       <author>Deren Yang, Chunyang Zhang, Yufeng Qin, Yue Yang, Yubo Liu, Xiaoyun Shi, Kang Hua, Xuemin An, Lihua Jin, Yipeng Zhang, Shouwei Zuo, Abdullah Tan, Jianguo Liu</author>
       <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-62665-2</guid>
@@ -788,6 +708,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.164202</guid>
     </item>
     <item>
+      <title>Electron Synergism in Boron Interstitial Doping Ordered Pt&lt;sub&gt;3&lt;/sub&gt;Co Nanoparticles Enhances the Protonation Process: Application to Efficient Oxygen Reduction in Zinc&#8208;Air Batteries</title>
+      <link>https://doi.org/10.1002/aenm.202503590</link>
+      <description>Guangrui Xu, Xinyuan Zhou, Miao Yu, Baolin Jiang, Qiyan Sun, Zexing Wu, Bin Li, Lei Wang, Advanced Energy Materials. None(None)] 2025. https://openalex.org/W4413038207
+
+                Abstract Ordered intermetallic Pt 3 Co compounds are highly promising alloy materials for oxygen electrocatalysis, while the sluggish kinetics and high cost of Pt still hinder their wide use in practical applications. In this work, boron atom gap&#8208;doped Pt 3 Co nanoparticles loaded on carbon nanobowls (B&#8208;Pt 3 Co/CNBs) are obtained to enhance the oxygen reduction reaction (ORR) performance. The introduction of B atoms is responsible for the negative shift of the d&#8208;band center compared to Pt 3 Co, and the subsequent reduction process leads to the uniform loading of B&#8208;Pt 3 Co nanoparticles on hollow carbon nanobowls. It is demonstrated that B&#8208;Pt 3 Co/CNBs exhibit the best electrocatalytic performance for ORR with an onset potential of 1.095 V versus RHE and a half&#8208;wave potential of 0.985 versus RHE, as well as robust electrocatalytic stability with negligible activity decay even after 50 000 cycles. Experimental and theoretical calculations show that the introduction of the highly electronegative metalloid B leads the Pt atoms to lose electrons, which changes the electronic structure of Pt 3 Co that can weaken the bonding strength of Pt&#8208;O and accelerate the protonation and desorption of O* on the surface of the B&#8208;Pt 3 Co/ CNB, reducing the energy barrier of the rate&#8208;determining step during the ORR process.</description>
+      <author>Guangrui Xu, Xinyuan Zhou, Miao Yu, Baolin Jiang, Qiyan Sun, Zexing Wu, Bin Li, Lei Wang</author>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202503590</guid>
+    </item>
+    <item>
+      <title>pH&#8208;Dependent Electroreduction of Nitrate on Fe Single&#8208;Atom Catalyst</title>
+      <link>https://doi.org/10.1002/cssc.202500717</link>
+      <description>Zhen Meng, Adyasa Priyadarsini, Kaige Shi, Zhuanghe Ren, Deepak Prasad Subedi, Daniel W. Israel, William E. Kaden, Xiaofeng Feng, Shyam Kattel, ChemSusChem. None(None)] 2025. https://openalex.org/W4413044311
+
+                Electrochemical nitrate reduction reaction (NO 3 RR) has received considerable attention due to its potential for the denitrification of wastewater and sustainable NH 3 production. Among various catalysts for NO 3 RR, Fe&#8722;N&#8722;C single&#8208;atom catalyst has attracted significant interest due to its well&#8208;defined active sites and high stability across various media. Here, we investigate the pH dependence of NO 3 RR on Fe&#8722;N&#8722;C by combining experiments and density functional theory (DFT) calculations. The Fe&#8722;N&#8722;C catalyst achieves high activity and &gt;80% Faradaic efficiency for NH 3 production in the NO 3 RR across acidic, neutral, and alkaline electrolytes, while the hydrogen evolution reaction (HER) exhibits the strongest competition with NO 3 RR in alkaline electrolyte. DFT calculations identify the NHO*&#8208;mediated pathway as the most favorable for NO 3 RR on Fe&#8722;N&#8722;C and further reveal the pH dependence of the potential&#8208;determining steps for both NO 3 RR and HER, elucidating the origin of the pH&#8208;dependent selectivity. Our studies provide new mechanistic insights into the NO 3 RR on single&#8208;atom catalysts and guide the design of broad pH&#8208;range electrocatalysts for efficient and versatile nitrate recycling.</description>
+      <author>Zhen Meng, Adyasa Priyadarsini, Kaige Shi, Zhuanghe Ren, Deepak Prasad Subedi, Daniel W. Israel, William E. Kaden, Xiaofeng Feng, Shyam Kattel</author>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202500717</guid>
+    </item>
+    <item>
       <title>Influence of carboxymethyl chitosan chain length on its interaction with vitamin C and curcumin: molecular docking and molecular dynamic approach</title>
       <link>https://doi.org/10.1007/s00894-025-06458-w</link>
       <description>Nabela Audryna Amalia Insani, Nurwarrohman Andre Sasongko, Suci Zulaikha Hildayani, Dwi Hudiyanti, Khairul Anam, Daniel Sethio, Vivitri Dewi Prasasty, Parsaoran Siahaan, Journal of Molecular Modeling. 31(9)] 2025. https://openalex.org/W4413029349
@@ -798,6 +738,16 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s00894-025-06458-w</guid>
     </item>
     <item>
+      <title>Enhancing CO&#8322; adsorption kinetics in direct air capture: The role of steam desorption in amine-based anion exchange sorbents</title>
+      <link>https://doi.org/10.1016/j.jcou.2025.103184</link>
+      <description>Florian M. Chimani, Josef Fuchs, Andreas Wallm&#252;ller, Jean Pierre Matriciani, Gerhard Sch&#246;ny, Stefan M&#252;ller, Journal of CO2 Utilization. 100(None)] 2025. https://openalex.org/W4413046267
+
+                No abstract</description>
+      <author>Florian M. Chimani, Josef Fuchs, Andreas Wallm&#252;ller, Jean Pierre Matriciani, Gerhard Sch&#246;ny, Stefan M&#252;ller</author>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcou.2025.103184</guid>
+    </item>
+    <item>
       <title>Vacancy-driven coordination field modulating electron spin state for enhanced bidirectional polysulfide conversion in lithium-sulfur batteries</title>
       <link>https://doi.org/10.1016/j.jechem.2025.07.065</link>
       <description>Kangdong Tian, Ruifeng Li, Miaofa Yuan, Jiafeng Li, Chengxiang Wang, Journal of Energy Chemistry. None(None)] 2025. https://openalex.org/W4412980381
@@ -806,6 +756,16 @@
       <author>Kangdong Tian, Ruifeng Li, Miaofa Yuan, Jiafeng Li, Chengxiang Wang</author>
       <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2025.07.065</guid>
+    </item>
+    <item>
+      <title>The Dual Subsurface Hydrogen (2H&#8217;) Mechanism for Ethylene Hydrogenation on Pd</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c02240</link>
+      <description>Nicholas Golio, Andrew J. Gellman, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4413040709
+
+                No abstract</description>
+      <author>Nicholas Golio, Andrew J. Gellman</author>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c02240</guid>
     </item>
   </channel>
 </rss>
