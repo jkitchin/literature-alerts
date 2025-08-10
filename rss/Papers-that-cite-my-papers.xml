@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Aug 2025 01:44:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 01:58:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Proton-Relaying Adsorbates Induce Non-Nernstian Behavior in Oxygen Reduction</title>
-      <link>https://doi.org/10.1021/acscatal.5c01767</link>
-      <description>Lulu Zhang, Donghui Zhao, Weiqiang Tang, Yanxia Chen, Jun Huang, ACS Catalysis. None(None)] 2025. https://openalex.org/W4412839552
-
-                No abstract</description>
-      <author>Lulu Zhang, Donghui Zhao, Weiqiang Tang, Yanxia Chen, Jun Huang</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c01767</guid>
-    </item>
-    <item>
-      <title>Proton Exchange Membrane Fuel Cells: Electrocatalysts</title>
-      <link>https://doi.org/10.1007/978-981-96-9845-5_5</link>
-      <description>Yinshi Li, No host. None(None)] 2025. https://openalex.org/W4412845495
-
-                No abstract</description>
-      <author>Yinshi Li</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-981-96-9845-5_5</guid>
-    </item>
-    <item>
-      <title>Experimental and Theoretical Investigations on Magneto&#8208;Electrochemical Oxygen Evolution Reaction of CoFeP Nanorods</title>
-      <link>https://doi.org/10.1002/admi.202500321</link>
-      <description>Mohammed Arkham Belgami, Afsal S. Shajahan, Erdenebayar Baasanjav, Vishwanath Ankalgi, Brahmananda Chakraborty, Sang Mun Jeong, Chandra Sekhar Rout, Advanced Materials Interfaces. None(None)] 2025. https://openalex.org/W4412845647
-
-                Abstract The pursuit of low&#8208;cost, efficient, and durable electrocatalysts for oxygen evolution in alkaline media is vital for water&#8208;splitting applications. Herein, the hydrothermal&#8208;based synthesis of a multiphase ferromagnetic catalyst CoFeP, comprising FeP, CoP, and Fe 2 P is reported. Structural analyses confirm the coexistence of phases, and electrochemical studies reveal excellent OER activity. CoFeP exhibits an overpotential of 335 mV at 50 mA cm &#8722;2 and a Tafel slope of 116 mV dec &#8722;1 without a magnetic field, whereas under the magnetic field of 2000 G, these values lowered to 235 mV and 93 mV dec &#8722;1 , respectively. The enhancement is attributed to magnetic&#8208;field&#8208;induced spin polarization, surface reconstruction, and increased ECSA from 70 to 110 mF cm &#8722;2 , highlighting the potential of magnetic modulation for boosting catalytic performance. Through spin&#8208;polarized Density Functional Theory (DFT) simulations, the structural and electronic features of CoFeP, providing theoretical insights into its role in the Oxygen Evolution Reaction (OER) is elucidated. This investigation demonstrates that the application of an external magnetic field significantly reduces the overpotential required for OER as the adsorption of intermediate species becomes stronger due to more charge transfer, aligning with experimental observations. These findings highlight the interplay between magnetic fields and electrocatalytic performance, offering a pathway to enhance energy conversion efficiency.</description>
-      <author>Mohammed Arkham Belgami, Afsal S. Shajahan, Erdenebayar Baasanjav, Vishwanath Ankalgi, Brahmananda Chakraborty, Sang Mun Jeong, Chandra Sekhar Rout</author>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/admi.202500321</guid>
-    </item>
-    <item>
-      <title>Ultrafast synthesis of V8C7 catalysts for efficient chemical hydrogen evolution via decoupled water electrolysis in a dual-circuit redox flow battery</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.150665</link>
-      <description>Ying Ma, Huimei Yuan, Guanghui Zhang, Shengliang Qi, Shumin Liu, Xiaofei Lei, Xu Zong, Weiguang Ma, Xiangkun Ma, International Journal of Hydrogen Energy. 162(None)] 2025. https://openalex.org/W4412848627
-
-                No abstract</description>
-      <author>Ying Ma, Huimei Yuan, Guanghui Zhang, Shengliang Qi, Shumin Liu, Xiaofei Lei, Xu Zong, Weiguang Ma, Xiangkun Ma</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.150665</guid>
-    </item>
-    <item>
-      <title>Asymmetric hydrogenation-driven enhancement of activity and selectivity in V-anchored N3-doped graphene catalysts for nitrogen reduction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.150787</link>
-      <description>Wenming Lu, Kai Guo, Daifei Ye, Xiaxia Gong, Wei Liu, Jing Xu, International Journal of Hydrogen Energy. 162(None)] 2025. https://openalex.org/W4412860694
-
-                No abstract</description>
-      <author>Wenming Lu, Kai Guo, Daifei Ye, Xiaxia Gong, Wei Liu, Jing Xu</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.150787</guid>
-    </item>
-    <item>
-      <title>Enhancing Empirical Energy Functions Using Physics&#8208; and Machine Learning&#8208;Based Extensions: Structure, Dynamics and Spectroscopy of Modified Benzenes</title>
-      <link>https://doi.org/10.1002/jcc.70162</link>
-      <description>Kham Lek Chaton, Markus Meuwly, Journal of Computational Chemistry. 46(21)] 2025. https://openalex.org/W4412861632
-
-                The effects of replacing individual contributions to an empirical energy function are assessed for halogenated benzenes (X-Bz, X = H, F, Cl, Br) and chlorinated phenols (Cl-PhOH). Introducing electrostatic models based on minimal distributed charges (MDCM) instead of usual atom-centered point charges (PCs) to realistically describe features such as &#963;-holes yields overestimated hydration free energies unless the van der Waals parameters are reparametrized. Scaling van der Waals ranges by 10% to 20% for three Cl-PhOH and most X-Bz yield results within experimental error bars, which is encouraging, whereas for benzene (H-Bz) PC-based models are sufficient. Replacing the bonded terms by a neural network-trained energy function featuring fluctuating atom-centered PCs also yields qualitatively correct hydration free energies, which can be brought into agreement with experiments within error bars after adaptation of the van der Waals parameters. The infrared spectroscopy of Cl-PhOH is rather well captured by all models, although the ML-based energy function performs somewhat better in the region of the framework modes. The present work finds that refinements of empirical energy functions for targeted applications are a meaningful way toward more quantitative and physics-based simulations. At the same time, empirical energy functions have matured to a remarkable degree, at least for the species considered in the present work.</description>
-      <author>Kham Lek Chaton, Markus Meuwly</author>
-      <pubDate>Sat, 02 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/jcc.70162</guid>
-    </item>
-    <item>
-      <title>Simulation of Hydrogen Storage in MOF-5 and Li-MOF-5 by Ring Polymer Molecular Dynamics on Self-Consistently Fine-Tuned Machine-Learned Interatomic Potentials</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c01522</link>
-      <description>Julien Steffen, The Journal of Physical Chemistry C. 129(30)] 2025. https://openalex.org/W4412865197
-
-                No abstract</description>
-      <author>Julien Steffen</author>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c01522</guid>
-    </item>
     <item>
       <title>A sustainable Ru catalyzed aerobic oxidation based on high loading magnetic ionic nanoparticles network</title>
       <link>https://doi.org/10.1038/s41598-025-07505-5</link>
@@ -450,11 +380,11 @@
     <item>
       <title>Engineered surface oxidation of porous metal substrate for simultaneous enhancement of kinetics and durability in electrochemical hydrogen evolution reaction</title>
       <link>https://doi.org/10.1016/j.jcis.2025.138624</link>
-      <description>Kang-Min Seo, Gahyeon Lee, J.W. Ra, Hye Ri Kim, Sejin Im, Hyunseob Lim, Changhee Kim, Jong Hoon Joo, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4412978842
+      <description>Kang-Min Seo, Gahyeon Lee, J.W. Ra, Hye Ri Kim, Sejin Im, Hyunseob Lim, Changhee Kim, Jong Hoon Joo, Journal of Colloid and Interface Science. 700(None)] 2025. https://openalex.org/W4412978842
 
                 No abstract</description>
       <author>Kang-Min Seo, Gahyeon Lee, J.W. Ra, Hye Ri Kim, Sejin Im, Hyunseob Lim, Changhee Kim, Jong Hoon Joo</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.138624</guid>
     </item>
     <item>
@@ -726,6 +656,16 @@
       <author>Zhen Meng, Adyasa Priyadarsini, Kaige Shi, Zhuanghe Ren, Deepak Prasad Subedi, Daniel W. Israel, William E. Kaden, Xiaofeng Feng, Shyam Kattel</author>
       <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202500717</guid>
+    </item>
+    <item>
+      <title>Engineering the built-in electric field in two-dimensional p-2H-MSiN3 (M = Cr, Mo, W) for optimized photocarrier dynamics and enhanced overall water splitting activity</title>
+      <link>https://doi.org/10.1016/j.fuel.2025.136468</link>
+      <description>Yanli Chang, Pucun Bai, Xueping Zhao, Xiaoming Cui, Fuel. 405(None)] 2025. https://openalex.org/W4413049265
+
+                No abstract</description>
+      <author>Yanli Chang, Pucun Bai, Xueping Zhao, Xiaoming Cui</author>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.136468</guid>
     </item>
     <item>
       <title>Influence of carboxymethyl chitosan chain length on its interaction with vitamin C and curcumin: molecular docking and molecular dynamic approach</title>
