@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Aug 2025 01:58:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 01:54:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A sustainable Ru catalyzed aerobic oxidation based on high loading magnetic ionic nanoparticles network</title>
-      <link>https://doi.org/10.1038/s41598-025-07505-5</link>
-      <description>Sepideh Asgari, Mina Ghahremani, Sepideh Najafvand-Derikvandi, Hesamodin Moradi, Mina Tavakolian, Fariborz Mansouri, Babak Karimi, Scientific Reports. 15(1)] 2025. https://openalex.org/W4412867463
-
-                In this study, we describe the production of a novel high loading magnetic ionic nanoparticle network (HMINN) encompassing a functionalized imidazolium structure bridging between the core-shell magnetic nanoparticles. The network was constructed through the in situ radical polymerization of tris-vinyl imidazolium moieties on the surface of mercaptopropyl functionalized silica-coated magnetite. The structural and chemical features of the resulting material were comprehensively characterized utilizing various analytical methods such as N2 adsorption-desorption, FTIR, TGA, HRTEM, ICP, XPS, VSM and elemental analysis. This material was then served to produce a Ru-supported catalyst for the oxidation of alcohols and amines under aerobic conditions. The aerobic oxidation of a diverse variety of benzylic, aliphatic, allylic, cyclic, and heterocyclic substrates was efficiently accomplished in the presence of Ru@HMINN under additive-free conditions and excellent E-factor and EcoScale factor, affording good to excellent yields of the related aldehydes and nitriles. Some of the advantages are the highly available active sites, high ionic density and porous high loading network, the outstanding dispersion of the catalyst in organic media, and the superior ability of imidazolium units to stabilize the Ru nanoparticles while allowing convenient separation of the whole system by applying an external magnet.</description>
-      <author>Sepideh Asgari, Mina Ghahremani, Sepideh Najafvand-Derikvandi, Hesamodin Moradi, Mina Tavakolian, Fariborz Mansouri, Babak Karimi</author>
-      <pubDate>Sun, 03 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-025-07505-5</guid>
-    </item>
-    <item>
-      <title>Structural Dynamics of Amorphous Phase in Sriro3 Catalyst During Oxygen Evolution Reaction Revealed by Operando Total X-Ray Scattering Measurements and Pair Distribution Function Analysis</title>
-      <link>https://doi.org/10.2139/ssrn.5358492</link>
-      <description>Kentaro Kobayashi, Satoshi Hiroi, Koji Ohara, Neha Thakur, Mukesh Kumar, Weijie Cao, Kengo Nakada, Jo&#8208;Chi Tseng, Hiroki Yamada, Seiya Shimono, Yu&#8208;Cheng Shao, Hirofumi Ishii, Yoshiharu Uchimoto, No host. None(None)] 2025. https://openalex.org/W4412873697
-
-                No abstract</description>
-      <author>Kentaro Kobayashi, Satoshi Hiroi, Koji Ohara, Neha Thakur, Mukesh Kumar, Weijie Cao, Kengo Nakada, Jo&#8208;Chi Tseng, Hiroki Yamada, Seiya Shimono, Yu&#8208;Cheng Shao, Hirofumi Ishii, Yoshiharu Uchimoto</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5358492</guid>
-    </item>
-    <item>
-      <title>Transition Metal-Doped Mo-Vacancy Defects at MoS2 Basal Plane for Enhanced Hydrogen Evolution Catalysis</title>
-      <link>https://doi.org/10.1007/s11814-025-00515-z</link>
-      <description>Donghwi Kim, Sangheon Lee, Hyung&#8208;Kyu Lim, Korean Journal of Chemical Engineering. None(None)] 2025. https://openalex.org/W4412874275
-
-                No abstract</description>
-      <author>Donghwi Kim, Sangheon Lee, Hyung&#8208;Kyu Lim</author>
-      <pubDate>Sat, 19 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11814-025-00515-z</guid>
-    </item>
     <item>
       <title>GPUMD 4.0: A high&#8208;performance molecular dynamics package for versatile materials simulations with machine&#8208;learned potentials</title>
       <link>https://doi.org/10.1002/mgea.70028</link>
@@ -76,6 +46,26 @@
       <author>Shi&#8208;Nan Zhang, Qianyu Liu, Bing&#8208;Liang Leng, Zhaowu Wang, Zhenfeng Zhang, Zhiyong Zhong, Xi Liu, Jie&#8208;Sheng Chen, Xin&#8208;Hao Li</author>
       <pubDate>Sun, 03 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202512299</guid>
+    </item>
+    <item>
+      <title>An improved guess for the variational calculation of charge-transfer excitations in large systems</title>
+      <link>https://doi.org/10.1039/d5cp01867f</link>
+      <description>Nicola Bogo, Zeyi Zhang, Martin Head&#8208;Gordon, Christopher J. Stein, Physical Chemistry Chemical Physics. None(None)] 2025. https://openalex.org/W4412885704
+
+                Ab initio quantum-chemical methods that perform well for computing the electronic ground state are not straightforwardly transferable to electronically excited states, particularly in large molecular systems. Wave function theory offers high accuracy, but is often prohibitively expensive. Methods based on time-dependent density functional theory (TD-DFT) are crucially sensitive to the chosen exchange-correlation functional (XCF) parameterization, and system-specific tuning protocols were therefore proposed to address the method's robustness. Methods based on the variational relaxation of the excited-state electron density showcased promising results for the calculation of charge-transfer excitations, but the complex shape of the electronic hypersurface makes convergence to a specific excited state much more difficult than for the ground state when standard variational techniques are applied. We address the latter aspect by providing suitable initial guesses, which we obtain by two separate constrained algorithms. Combined with the squared-gradient minimization algorithm for all-electrons relaxation in a freeze-and-release scheme (FRZ-SGM), we demonstrate that orbital-optimized density functional theory (OO-DFT) calculations can reliably converge to the charge-transfer states of interest even for large molecular systems. We test the FRZ-SGM method on a phenothiazine-anthraquinone CT excitation in a supramolecular Pd(II) coordination cage complex as a function of the cage conformation. This compound has been studied experimentally prior to our work. We compare this freeze-and-release scheme to two XCF reparameterizations, which were recently proposed as low-cost TD-DFT-based alternatives to variational methods. Two dye-semiconductor complexes, which were previously investigated in the context of photovoltaic applications, serve as a second example to investigate the convergence and stability of the FRZ-SGM approach. Our results demonstrate that FRZ-SGM provides reliable convergence for charge-transfer excited states and avoids variational collapse to lower-lying electronic states, whereas time-dependent DFT calculations with an adequate tuning procedure for the range-separation parameter provide a computationally efficient initial estimate of the corresponding energies, with a computational cost comparable to that of configuration-interaction singles (CIS) calculations.</description>
+      <author>Nicola Bogo, Zeyi Zhang, Martin Head&#8208;Gordon, Christopher J. Stein</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5cp01867f</guid>
+    </item>
+    <item>
+      <title>Mechanistic Insights into CO2 Reduction to C2 Products on Cu3Zn Surfaces: The Role of Stepped Surfaces and Zn Atoms</title>
+      <link>https://doi.org/10.1039/d5qi01041a</link>
+      <description>Jirapat Santatiwongchai, Pussana Hirunsit, Sarawoot Impeng, Inorganic Chemistry Frontiers. None(None)] 2025. https://openalex.org/W4412885716
+
+                Stepped Cu 3 Zn surfaces enhance selective CO 2 electroreduction to C 2 products. Zn atoms and stepped sites works synergistically to tune the selectivity between ethylene and ethanol.</description>
+      <author>Jirapat Santatiwongchai, Pussana Hirunsit, Sarawoot Impeng</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5qi01041a</guid>
     </item>
     <item>
       <title>Sacrificial Template&#8208;Derived CoMo&#8208;LDH Gas Diffusion Electrode for Anion Exchange Membrane Water Electrolysis</title>
@@ -666,6 +656,46 @@
       <author>Yanli Chang, Pucun Bai, Xueping Zhao, Xiaoming Cui</author>
       <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.136468</guid>
+    </item>
+    <item>
+      <title>Magnetic Field-Driven Interface Hydroxylation via the Vibrational Stark Effect Boosts Alkaline Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/jacsau.5c00585</link>
+      <description>Xiayan Yao, Jianwei Guo, Zhi Wang, Guoyu Qian, X.P. Wang, Dong Wang, Xuzhong Gong, JACS Au. None(None)] 2025. https://openalex.org/W4413052677
+
+                No abstract</description>
+      <author>Xiayan Yao, Jianwei Guo, Zhi Wang, Guoyu Qian, X.P. Wang, Dong Wang, Xuzhong Gong</author>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacsau.5c00585</guid>
+    </item>
+    <item>
+      <title>Unveiling d-band synergy in anti-sandwich dual-atom catalysts for hydrogen evolution reaction: High-throughput DFT screening and machine learning insights</title>
+      <link>https://doi.org/10.1016/j.apsusc.2025.164256</link>
+      <description>Wentao Liang, Wenjun Xiao, Linxing Meng, Jinshun Bi, Abuduwayiti Aierken, Xiaofeng Rong, Degui Wang, Xuefei Liu, Applied Surface Science. None(None)] 2025. https://openalex.org/W4413052776
+
+                No abstract</description>
+      <author>Wentao Liang, Wenjun Xiao, Linxing Meng, Jinshun Bi, Abuduwayiti Aierken, Xiaofeng Rong, Degui Wang, Xuefei Liu</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.164256</guid>
+    </item>
+    <item>
+      <title>Enhancing Activity and Stability of Ba0.5Sr0.5Co0.8Fe0.2O3-&#948; Cathode by Surface Engineering with SrCoO3-&#948; Nanoparticles in Protonic Ceramic Fuel Cells</title>
+      <link>https://doi.org/10.1016/j.ceramint.2025.08.038</link>
+      <description>Chenxiao Wang, Guangjun Zhang, Qiang Xue, Xiaoyu Zhang, Ting Chen, Lang Xu, Shaorong Wang, Ceramics International. None(None)] 2025. https://openalex.org/W4413053103
+
+                No abstract</description>
+      <author>Chenxiao Wang, Guangjun Zhang, Qiang Xue, Xiaoyu Zhang, Ting Chen, Lang Xu, Shaorong Wang</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ceramint.2025.08.038</guid>
+    </item>
+    <item>
+      <title>Cycloaddition of CO2 to epoxides catalyzed by homogeneous metalorganic complexes under ambient conditions: an update</title>
+      <link>https://doi.org/10.1016/j.jorganchem.2025.123799</link>
+      <description>Suthida Kaewsai, Valerio D&#8217;Elia, Journal of Organometallic Chemistry. None(None)] 2025. https://openalex.org/W4413053188
+
+                No abstract</description>
+      <author>Suthida Kaewsai, Valerio D&#8217;Elia</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jorganchem.2025.123799</guid>
     </item>
     <item>
       <title>Influence of carboxymethyl chitosan chain length on its interaction with vitamin C and curcumin: molecular docking and molecular dynamic approach</title>
