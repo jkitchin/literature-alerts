@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Aug 12 01:44:09 2025
+Created on Wed Aug 13 01:45:43 2025
 
-Found 49 results from 2025-08-05 to 2025-08-12
+Found 48 results from 2025-08-06 to 2025-08-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W1976900809]]
@@ -16,279 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257]]
-
-* Enhancing 1D ionic conductivity in lithium manganese iron phosphate with low-energy optical phonons  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412941056
-:TOPICS: Solid-state spectroscopy and crystallography, Advancements in Battery Materials, Advanced Battery Materials and Technologies
-:PUBLICATION_DATE: 2025-08-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41598-025-13769-8")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412941056"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412941056"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412941056"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412941056 (Open access: True)
-    
-[[https://openalex.org/A5016262637][Hyungju Oh]], [[https://openalex.org/A5021097515][Chanwoo Noh]], [[https://openalex.org/A5102868265][Ayoung Cho]], [[https://openalex.org/A5101582627][Jong Chan Kim]], [[https://openalex.org/A5111344269][N Kim]], [[https://openalex.org/A5074887960][Kyoung Hoon Kim]], Scientific Reports. 15(1)] 2025. https://doi.org/10.1038/s41598-025-13769-8 
-     
-Lithium manganese iron phosphate (LMFP) is a promising cathode material for lithium-ion batteries due to its enhanced safety and structural stability. However, its ionic conductivity is limited by the 1D channels within its olivine crystal structure. In this study, we investigate the influence of Mn/Fe atomic configurations on LMFP's ionic conductivity by integrating ab initio density-functional theory (DFT) calculations with molecular dynamics (MD) simulations using graph neural network-based interatomic potentials. Our results show that variations in the Mn/Fe environment around Li ions significantly affect the Li-ion migration barrier and transport mechanisms. Specifically, asymmetric Mn/Fe configurations break Li-site degeneracy and induce a low-energy optical (LEO) phonon mode below 50 cm- 1, enhancing ionic conductivity. This study demonstrates that LMFP's ionic conductivity can be improved by more than 60% when this LEO phonon mode is present. These findings highlight the potential to optimize LMFP cathode performance by employing controlled synthesis methods that exploit favorable atomic configurations, laying the groundwork for accelerating the development of safer and more efficient lithium-ion batteries.    
-
-    
-
-* Tailoring of Fe-N-C single atom catalyst's coordination spheres via S-doping for oxygen reduction reaction activity: a DFT study  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412950906
-:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Advanced battery technologies research
-:PUBLICATION_DATE: 2025-08-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.inoche.2025.115203")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412950906"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412950906"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412950906"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412950906 (Open access: False)
-    
-[[https://openalex.org/A5026186006][Monika Singh]], [[https://openalex.org/A5046559322][Dipak K. Das]], [[https://openalex.org/A5087525540][Anuj Kumar]], Inorganic Chemistry Communications. 181(None)] 2025. https://doi.org/10.1016/j.inoche.2025.115203 
-     
-No abstract    
-
-    
-
-* High entropy alloys: a comprehensive review of synthesis, properties, and characterization for electrochemical energy conversion and storage applications  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412951649
-:TOPICS: High Entropy Alloys Studies, High-Temperature Coating Behaviors, Electrocatalysts for Energy Conversion
-:PUBLICATION_DATE: 2025-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d5ta03746h")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412951649"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412951649"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412951649"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412951649 (Open access: False)
-    
-[[https://openalex.org/A5018509940][Selvaganapathy Ganesan]], [[https://openalex.org/A5020800850][Diksha Bhatt]], [[https://openalex.org/A5003528800][Divyadharshini Satheesh]], [[https://openalex.org/A5014232879][Thangavelu Kokulnathan]], [[https://openalex.org/A5101955230][Pradeep Pant]], [[https://openalex.org/A5040564041][Devaraj Bharathi]], [[https://openalex.org/A5095737877][Leena Baskar]], [[https://openalex.org/A5073972411][Nanda Gopal Sahoo]], [[https://openalex.org/A5027860759][Arunkumar Palaniappan]], [[https://openalex.org/A5055906465][Kovendhan Manavalan]], Journal of Materials Chemistry A. None(None)] 2025. https://doi.org/10.1039/d5ta03746h 
-     
-A comprehensive overview of recent developments in catalysis related to HEAs, focusing on critical areas such as the HER, OER, ORR, hydrogen storage, zinc–air batteries, and supercapacitors.    
-
-    
-
-* Uncertainty in Software Development Projects: A Review of Causes, Types, Challenges, and Future Research Directions  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412954210
-:TOPICS: Software Engineering Techniques and Practices, Software Engineering Research, Software Reliability and Analysis Research
-:PUBLICATION_DATE: 2025-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/systems13080650")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412954210"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412954210"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412954210"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412954210 (Open access: True)
-    
-[[https://openalex.org/A5101492694][Mingqi Zhang]], [[https://openalex.org/A5017641533][Maxwell Fordjour Antwi‐Afari]], [[https://openalex.org/A5039770798][Chonghui Wang]], [[https://openalex.org/A5100550979][Weihao Sun]], [[https://openalex.org/A5019811242][Saeed Reza Mohandes]], [[https://openalex.org/A5093946948][Sulemana Fatoama Abdulai]], Systems. 13(8)] 2025. https://doi.org/10.3390/systems13080650 
-     
-In a rapidly evolving business landscape, the success of software development (SD) projects is increasingly impacted by uncertainty, which poses significant challenges for project managers. Despite the known influence of uncertainty on project outcomes, its types, causes, and challenges in software remain inadequately understood. This review conducts a systematic analysis of previous related SD projects and related research to clarify these aspects, ultimately identifying key research gaps and proposing future research directions. By adopting a mixed-methods review that integrates scientometric analysis and systematic review methods, this study analysed 60 articles from the Scopus database. The results reported nine causes, six types, and nine challenges associated with uncertainty in SD to provide insights for project managers and researchers in understanding and managing uncertainty more effectively. Additionally, this study proposes four areas for further research to enhance focus and innovation in SD project management.    
-
-    
-
-* Au‐Modified SrTiO3 Nanoarray Featuring Enhanced Ultrasound‐Responsive Mott–Schottky Heterojunction Speeds Bone Regeneration Through Sonodynamic Antibacterial and Inflammatory Management  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412956225
-:TOPICS: Bone Tissue Engineering Materials, Nanoplatforms for cancer theranostics, MXene and MAX Phase Materials
-:PUBLICATION_DATE: 2025-08-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adfm.202505769")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412956225"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412956225"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412956225"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412956225 (Open access: False)
-    
-[[https://openalex.org/A5100423704][Zheng Liu]], [[https://openalex.org/A5002921938][Hong Ding]], [[https://openalex.org/A5019917016][Huilun Xu]], [[https://openalex.org/A5088230949][Hao Yang]], [[https://openalex.org/A5085822601][Jiangshan Liu]], [[https://openalex.org/A5115593231][Zhendong Zhang]], [[https://openalex.org/A5108054620][M. Xiao]], [[https://openalex.org/A5100388528][Limin Liu]], [[https://openalex.org/A5101433440][Leizhen Huang]], [[https://openalex.org/A5100425493][Li Zhang]], Advanced Functional Materials. None(None)] 2025. https://doi.org/10.1002/adfm.202505769 
-     
-Abstract Eradicating the bacteria on the surface of titanium‐based (Ti) implants and optimizing the local immune environment is urgently needed to minimize the clinical implantation failures. Here, an ultrasound (US)‐responsive Ti implant aiming at killing bacteria is prepared by building strontium titanate (SrTiO 3 ) nanoarrays on Ti substrate through a multi‐step hydrothermal method and the subsequent decoration of Au nanoparticles (Au NPs). As an n‐type semiconductor, SrTiO 3 can combine with Au NPs to form a Mott–Schottky heterostructure. The results reveal that the built‐in electric field of the M–S heterojunction composed of Au NPs and SrTiO 3 significantly promotes the separation of electrons and holes while reducing the bandgap. Under US irradiation, Au@SrTiO 3 generates a large amount of reactive oxygen species (ROS) to kill bacteria, meanwhile eliminating bacterial biofilms that adhere to the implant surface. Besides, Au NPs accelerate bone remodeling by modulating macrophage polarization toward inflammation‐suppressive orientation. Also, SrTiO 3 and Au NPs synergistically directed the osteogenic differentiation. The implantation in vivo shows that continuously optimizing the osteogenic microenvironment can obviously accelerate the osseointegration of Ti implant. Transcriptomic analysis reveals the in vivo pro‐osteointegration mechanism of heterostructured Au@SrTiO 3 nanoarrays on Ti implant.    
-
-    
-
-* Axial Ligand Engineering: A Strategy for Promoting Oxygen Reduction Activity of Mn4 Single-Atom Catalysts  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412960577
-:TOPICS: Electrocatalysts for Energy Conversion, Catalytic Processes in Materials Science, Nanomaterials for catalytic reactions
-:PUBLICATION_DATE: 2025-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.5358180")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412960577"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412960577"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412960577"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412960577 (Open access: False)
-    
-[[https://openalex.org/A5100777975][Yamin Wang]], [[https://openalex.org/A5103284948][Bo Luo]], [[https://openalex.org/A5102218483][Yumei Yang]], [[https://openalex.org/A5100379302][Li Chen]], [[https://openalex.org/A5066878588][Guang‐Jie Xia]], No host. None(None)] 2025. https://doi.org/10.2139/ssrn.5358180 
-     
-No abstract    
-
-    
-
-* Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412974141
-:TOPICS: Machine Learning in Materials Science, X-ray Diffraction in Crystallography, Electron and X-Ray Spectroscopy Techniques
-:PUBLICATION_DATE: 2025-08-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41524-025-01742-y")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412974141"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412974141"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412974141"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412974141 (Open access: True)
-    
-[[https://openalex.org/A5063684599][Tsz Wai Ko]], [[https://openalex.org/A5101898522][Bowen Deng]], [[https://openalex.org/A5046140934][Marcel Nassar]], [[https://openalex.org/A5044661546][Luis Barroso-Luque]], [[https://openalex.org/A5102769683][Runze Liu]], [[https://openalex.org/A5080546669][Ji Qi]], [[https://openalex.org/A5062896591][Atul C. Thakur]], [[https://openalex.org/A5110862290][Amiya Kanta Mishra]], [[https://openalex.org/A5078551074][Eric Hsien Lung Liu]], [[https://openalex.org/A5014983956][Gerbrand Ceder]], [[https://openalex.org/A5013678286][Santiago Miret]], [[https://openalex.org/A5002723657][Shyue Ping Ong]], npj Computational Materials. 11(1)] 2025. https://doi.org/10.1038/s41524-025-01742-y 
-     
-No abstract    
-
-    
-
-* Contribuciones, tendencias y metodologías de la Agroecología en la adaptación al cambio climático  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412975473
-:TOPICS: Sustainable Agricultural Systems Analysis, Agroforestry and silvopastoral systems, Latin American rural development
-:PUBLICATION_DATE: 2025-08-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56712/latam.v6i4.4298")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412975473"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412975473"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412975473"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412975473 (Open access: False)
-    
-[[https://openalex.org/A5011058559][Gisela Ayón Ávila]], [[https://openalex.org/A5009292430][José Luis Hernández-Hernández]], [[https://openalex.org/A5036281579][Héctor Segura Pacheco]], [[https://openalex.org/A5086208248][Yan Pallac Maldonado Astudillo]], [[https://openalex.org/A5010601794][Rayma Ireri Maldonado Astudillo]], LATAM Revista Latinoamericana de Ciencias Sociales y Humanidades. 6(4)] 2025. https://doi.org/10.56712/latam.v6i4.4298 
-     
-Este estudio realizó una revisión sistemática bajo el protocolo PRISMA, con el objetivo de analizar las contribuciones, tendencias y metodologías de las investigaciones científicas para identificar la relación entre la agroecología y la adaptación de las comunidades rurales al cambio climático. La revisión abarcó el periodo comprendido entre 2015 y 2025. Se analizaron 72 estudios recuperados en Scopus mediante el software Publish or Perish, de los cuales se filtraron 28 artículos. La metodología integró criterios de inclusión y clasificación temática. Los hallazgos destacan que la agroecología se considera como una ciencia, un movimiento social y un conjunto de prácticas. Su implementación mediante prácticas agroecológicas y conocimientos indígenas mejoró la resiliencia agroalimentaria, redujo el impacto ambiental y fortaleció la justicia social. Las metodologías identificadas incluyeron la etnografía, los estudios de caso y los enfoques experimentales, aunque se observó una falta de estandarización. Se identificaron tendencias hacia la integración de la agroecología con otros enfoques, como la agricultura climáticamente inteligente. La revisión sugiere que la agroecología representa una alternativa transformadora frente al cambio climático, aunque requiere de sistematización y articulación política.    
-
-    
-
-* Structural Dynamics of Amorphous Phase in Sriro3 Catalyst During Oxygen Evolution Reaction Revealed by Operando Total X-Ray Scattering Measurements and Pair Distribution Function Analysis  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412978518
-:TOPICS: Electrocatalysts for Energy Conversion, Catalytic Processes in Materials Science, Advanced Battery Materials and Technologies
-:PUBLICATION_DATE: 2025-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.5357066")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412978518"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412978518"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412978518"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412978518 (Open access: False)
-    
-[[https://openalex.org/A5018101834][Kentaro Kobayashi]], [[https://openalex.org/A5037082462][Satoshi Hiroi]], [[https://openalex.org/A5048566624][Koji Ohara]], [[https://openalex.org/A5116270124][Neha Thakur]], [[https://openalex.org/A5058591739][Mukesh Kumar]], [[https://openalex.org/A5075103650][Weijie Cao]], [[https://openalex.org/A5014157947][Kengo Nakada]], [[https://openalex.org/A5037607416][Jo‐Chi Tseng]], [[https://openalex.org/A5033807076][Hiroki Yamada]], [[https://openalex.org/A5057388901][Seiya Shimono]], [[https://openalex.org/A5038111862][Yu‐Cheng Shao]], [[https://openalex.org/A5068439685][Hirofumi Ishii]], [[https://openalex.org/A5017493428][Yoshiharu Uchimoto]], No host. None(None)] 2025. https://doi.org/10.2139/ssrn.5357066 
-     
-No abstract    
-
-    
-
-* Protonated and Dehydrogenated Melamine Adsorptions onto Terrace Planes of Pt: A theoretical study  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412978684
-:TOPICS: Gas Sensing Nanomaterials and Sensors, Advanced Photocatalysis Techniques, Gold and Silver Nanoparticles Synthesis and Applications
-:PUBLICATION_DATE: 2025-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.susc.2025.122817")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412978684"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412978684"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412978684"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412978684 (Open access: False)
-    
-[[https://openalex.org/A5013506973][Kohei Tada]], [[https://openalex.org/A5047854043][Shin‐ichi Yamazaki]], [[https://openalex.org/A5054238738][Masafumi Asahi]], [[https://openalex.org/A5019849187][Tsutomu Ioroi]], Surface Science. None(None)] 2025. https://doi.org/10.1016/j.susc.2025.122817 
-     
-No abstract    
-
-    
-
-* A comprehensive review on the MXene-based catalysts for hydrogen generation via water splitting processes  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412978759
-:TOPICS: MXene and MAX Phase Materials, Advanced Photocatalysis Techniques, Nanomaterials for catalytic reactions
-:PUBLICATION_DATE: 2025-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.molstruc.2025.143534")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412978759"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412978759"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412978759"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412978759 (Open access: False)
-    
-[[https://openalex.org/A5103816449][Kanika Raj]], [[https://openalex.org/A5069702620][Ramdevsinh Jhala]], [[https://openalex.org/A5045233113][S. Sujai]], [[https://openalex.org/A5080254353][Binayak Pattanayak]], [[https://openalex.org/A5100679535][Jitendra Singh]], [[https://openalex.org/A5038630624][Parveen Kumar]], [[https://openalex.org/A5084632597][M. Kaladhar]], [[https://openalex.org/A5044054248][Rahul Singh]], [[https://openalex.org/A5074211354][Yashwant Singh Bisht]], [[https://openalex.org/A5010840445][Anurag Gautam]], Journal of Molecular Structure. None(None)] 2025. https://doi.org/10.1016/j.molstruc.2025.143534 
-     
-No abstract    
-
-    
-
-* Unraveling the role of 3d transition metal anchoring on P-termination and doping on Mo-termination of MoP for water splitting catalysis. A DFT investigation  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412978773
-:TOPICS: Electrocatalysts for Energy Conversion, Catalysis and Hydrodesulfurization Studies, MXene and MAX Phase Materials
-:PUBLICATION_DATE: 2025-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.electacta.2025.146953")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412978773"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412978773"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412978773"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412978773 (Open access: False)
-    
-[[https://openalex.org/A5065237232][Muhammad Rafiq]], [[https://openalex.org/A5110371670][Wenjuan Xu]], [[https://openalex.org/A5037482206][Godefroid Gahungu]], [[https://openalex.org/A5100359871][Wenliang Li]], [[https://openalex.org/A5053537780][Jingping Zhang]], Electrochimica Acta. None(None)] 2025. https://doi.org/10.1016/j.electacta.2025.146953 
-     
-No abstract    
-
-    
-
-* Engineered surface oxidation of porous metal substrate for simultaneous enhancement of kinetics and durability in electrochemical hydrogen evolution reaction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4412978842
-:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Fuel Cells and Related Materials
-:PUBLICATION_DATE: 2025-08-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2025.138624")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4412978842"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4412978842"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4412978842"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4412978842 (Open access: False)
-    
-[[https://openalex.org/A5102106602][Kang-Min Seo]], [[https://openalex.org/A5006367963][Gahyeon Lee]], [[https://openalex.org/A5113905176][J.W. Ra]], [[https://openalex.org/A5101712068][Hye Ri Kim]], [[https://openalex.org/A5048292453][Sejin Im]], [[https://openalex.org/A5074809975][Hyunseob Lim]], [[https://openalex.org/A5101714427][Changhee Kim]], [[https://openalex.org/A5055295779][Jong Hoon Joo]], Journal of Colloid and Interface Science. 700(None)] 2025. https://doi.org/10.1016/j.jcis.2025.138624 
-     
-No abstract    
-
-    
 
 * Phase-Stabilized Core@Shell NiFe2O4@CoFe2O4 Nanocages for the Integrated Energy and Electroreduction of Nitrate-to-Ammonia  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -899,27 +626,6 @@ No abstract
 
     
 
-* Unveiling d-band synergy in anti-sandwich dual-atom catalysts for hydrogen evolution reaction: High-throughput DFT screening and machine learning insights  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4413052776
-:TOPICS: Electrocatalysts for Energy Conversion, Machine Learning in Materials Science, Ammonia Synthesis and Nitrogen Reduction
-:PUBLICATION_DATE: 2025-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2025.164256")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413052776"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413052776"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413052776"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4413052776 (Open access: False)
-    
-[[https://openalex.org/A5010311212][Wentao Liang]], [[https://openalex.org/A5101412949][Wenjun Xiao]], [[https://openalex.org/A5045722539][Linxing Meng]], [[https://openalex.org/A5069723560][Jinshun Bi]], [[https://openalex.org/A5072051258][Abuduwayiti Aierken]], [[https://openalex.org/A5112748648][Xiaofeng Rong]], [[https://openalex.org/A5082240190][Degui Wang]], [[https://openalex.org/A5056992365][Xuefei Liu]], Applied Surface Science. None(None)] 2025. https://doi.org/10.1016/j.apsusc.2025.164256 
-     
-No abstract    
-
-    
-
 * Enhancing Activity and Stability of Ba0.5Sr0.5Co0.8Fe0.2O3-δ Cathode by Surface Engineering with SrCoO3-δ Nanoparticles in Protonic Ceramic Fuel Cells  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4413053103
@@ -957,6 +663,279 @@ No abstract
 OpenAlex: https://openalex.org/W4413053188 (Open access: False)
     
 [[https://openalex.org/A5093890858][Suthida Kaewsai]], [[https://openalex.org/A5083748096][Valerio D’Elia]], Journal of Organometallic Chemistry. None(None)] 2025. https://doi.org/10.1016/j.jorganchem.2025.123799 
+     
+No abstract    
+
+    
+
+* Unveiling d-band synergy in anti-sandwich dual-atom catalysts for hydrogen evolution reaction: High-throughput DFT screening and machine learning insights  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413052776
+:TOPICS: Electrocatalysts for Energy Conversion, Machine Learning in Materials Science, Ammonia Synthesis and Nitrogen Reduction
+:PUBLICATION_DATE: 2025-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2025.164256")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413052776"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413052776"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413052776"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413052776 (Open access: False)
+    
+[[https://openalex.org/A5010311212][Wentao Liang]], [[https://openalex.org/A5101412949][Wenjun Xiao]], [[https://openalex.org/A5045722539][Linxing Meng]], [[https://openalex.org/A5069723560][Jinshun Bi]], [[https://openalex.org/A5072051258][Abuduwayiti Aierken]], [[https://openalex.org/A5112748648][Xiaofeng Rong]], [[https://openalex.org/A5082240190][Degui Wang]], [[https://openalex.org/A5056992365][Xuefei Liu]], Applied Surface Science. None(None)] 2025. https://doi.org/10.1016/j.apsusc.2025.164256 
+     
+No abstract    
+
+    
+
+* Training a Machine Learned Potential on the Cerebras Wafer Scale Engine  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413059244
+:TOPICS: Machine Learning in Materials Science, Advanced Materials Characterization Techniques, Hydrogen embrittlement and corrosion behaviors in metals
+:PUBLICATION_DATE: 2025-07-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1145/3708035.3736081")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413059244"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413059244"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413059244"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413059244 (Open access: False)
+    
+[[https://openalex.org/A5083368985][Dana O’Connor]], [[https://openalex.org/A5054623889][Wissam A. Saidi]], [[https://openalex.org/A5070778782][Paola A. Buitrago]], No host. None(None)] 2025. https://doi.org/10.1145/3708035.3736081 
+     
+No abstract    
+
+    
+
+* Semiempirical and interpretable machine learning of the oxygen interaction barriers in thousands of the two-dimensional materials  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413064406
+:TOPICS: Machine Learning in Materials Science, Advanced Memory and Neural Computing, Electrocatalysts for Energy Conversion
+:PUBLICATION_DATE: 2025-07-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1140/epjb/s10051-025-01001-5")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413064406"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413064406"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413064406"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413064406 (Open access: False)
+    
+[[https://openalex.org/A5102725645][Raphael M. Tromer]], The European Physical Journal B. 98(7)] 2025. https://doi.org/10.1140/epjb/s10051-025-01001-5 
+     
+No abstract    
+
+    
+
+* Literature-Based Machine Learning Framework for Yield Prediction in Cyclohexene Epoxidation: Toward a Digital Catalyst Concept  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413075752
+:TOPICS: Machine Learning in Materials Science, Catalysis and Oxidation Reactions, Catalysis and Hydrodesulfurization Studies
+:PUBLICATION_DATE: 2025-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.5355788")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413075752"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413075752"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413075752"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413075752 (Open access: False)
+    
+[[https://openalex.org/A5005468514][Alfonso Enrique Ramírez Sanabria]], [[https://openalex.org/A5041844365][Fabian Ramirez]], [[https://openalex.org/A5029674220][Julián Muñoz-Ordóñez]], [[https://openalex.org/A5020892995][Cristian Muñoz]], [[https://openalex.org/A5079362548][Nelson J. Castellanos]], No host. None(None)] 2025. https://doi.org/10.2139/ssrn.5355788 
+     
+No abstract    
+
+    
+
+* Core‐Shell Structured V‐Doped CoPx@FeOOH for Efficient Seawater Electrolysis  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413078233
+:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Fuel Cells and Related Materials
+:PUBLICATION_DATE: 2025-07-17
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cctc.202500850")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413078233"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413078233"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413078233"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413078233 (Open access: False)
+    
+[[https://openalex.org/A5071147910][Gai Li]], [[https://openalex.org/A5110846059][Yanhui Yu]], [[https://openalex.org/A5082160987][Chongtai Wang]], [[https://openalex.org/A5053821178][Daoxiong Wu]], [[https://openalex.org/A5033179163][Yingjie Hua]], [[https://openalex.org/A5037156563][Peng Rao]], [[https://openalex.org/A5024069386][Xinlong Tian]], [[https://openalex.org/A5091933666][Jing Li]], ChemCatChem. None(None)] 2025. https://doi.org/10.1002/cctc.202500850 
+     
+Abstract As a renewable energy conversion method, the hydrogen from seawater electrolysis needs to overcome problems such as chlorination reaction and corrosion resistance. Considering these questions, it is vital to design a highly efficient and corrosion‐resistant catalyst. Here, we developed a vanadium‐doped cobalt phosphide encapsulated within an iron oxyhydroxide shell (V‐CoPx@FeOOH) as an efficient core‐shell electrocatalyst for the oxygen evolution reaction (OER) in seawater electrolytes. In particular, the OER overpotential of the V‐CoPx@FeOOH catalyst at 100 mA cm −2 was 270 mV. Notably, V‐CoPx||V‐CoPx@FeOOH was able to operate in alkaline seawater at 500 mA cm −2 for more than 1000 h, showing excellent stability. Density functional theory (DFT) calculations indicate that the enhanced HER activity is attributed to the introduction of V, which strengthens the bonding between Co sites and H atoms, and the optimized OER activity results from the presence of both V and Fe, which together optimize the bonding strength between Co sites and OOH intermediates. The highly efficient catalyst of the core‐shell structure has great prospects for overall water/seawater electrolysis.    
+
+    
+
+* Sustainable H2O2 Production via 2e– ORR on Alkalinized Tubular C3N4 from Melamine Waste Integrating with Fenton Wastewater Treatment  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413084227
+:TOPICS: Advanced Photocatalysis Techniques, Gas Sensing Nanomaterials and Sensors, Copper-based nanomaterials and applications
+:PUBLICATION_DATE: 2025-07-16
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acssusresmgt.5c00228")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413084227"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413084227"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413084227"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413084227 (Open access: False)
+    
+[[https://openalex.org/A5101538546][Hongyu Song]], [[https://openalex.org/A5070934229][Huijing Ma]], [[https://openalex.org/A5039621489][Haifei Wang]], [[https://openalex.org/A5087575548][Yichan Wen]], [[https://openalex.org/A5073373967][Chengcheng Cai]], [[https://openalex.org/A5113190144][Jiyi Sun]], [[https://openalex.org/A5091432278][Xufang Qian]], [[https://openalex.org/A5100344066][Yixin Zhao]], ACS Sustainable Resource Management. None(None)] 2025. https://doi.org/10.1021/acssusresmgt.5c00228 
+     
+No abstract    
+
+    
+
+* Proton‐Driven Multistage System Enables Selective Recovery of Gold and Palladium from Electronic Waste Leachate  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413084471
+:TOPICS: Extraction and Separation Processes, Recycling and Waste Management Techniques, Advancements in Battery Materials
+:PUBLICATION_DATE: 2025-07-17
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/eem2.70085")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413084471"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413084471"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413084471"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413084471 (Open access: True)
+    
+[[https://openalex.org/A5048113531][Ziwen Chang]], [[https://openalex.org/A5100681368][Yingying Zhou]], [[https://openalex.org/A5101190549][Penghui Shao]], [[https://openalex.org/A5037765967][Liming Yang]], [[https://openalex.org/A5100374381][Bo Li]], [[https://openalex.org/A5100650329][Dewei Li]], [[https://openalex.org/A5102226559][Lingrong Zeng]], [[https://openalex.org/A5101577354][Yi Gong]], [[https://openalex.org/A5113352102][Xubiao Luo]], [[https://openalex.org/A5064366948][Shenglian Luo]], Energy & environment materials. None(None)] 2025. https://doi.org/10.1002/eem2.70085 
+     
+Selective extraction of precious metals from urban mines plays a crucial role in mitigating the risk of depletion of precious metal resources and reducing waste pollution. However, a major obstacle in precious metal extraction lies in the difficulty of distinguishing the subtle differences in the physicochemical characteristics between them, especially gold and palladium. Herein, a proton‐driven separation system was presented for cascade recovery of gold and palladium from waste‐printed circuit boards (W‐PCBs) leachate using poly(amidoxime) (PAO) hydrogel. This exhibits an ultra‐high capacity, extra‐fast rate, and excellent selectivity for the extraction of Au(III) and Pd(II). Notably, the separation of Au(III) and Pd(II) can be achieved with high selectivity at pH = 0, resulting in a remarkable separation factor of k Au(III)/Pd(II) = 36.5. This was demonstrated to originate from the differential mechanism of PAO hydrogel for the capture of Au(III) and Pd(II) under proton‐mediated conditions. Drawing inspiration from the mechanism, the proton‐driven cascade recovery system demonstrates remarkable efficiency in sequentially recovering 99.92% of gold and 99.05% of palladium from W‐PCBs acid leachate. This research opens up a strategy to precisely separate and recover precious metals from e‐waste of urban mines.    
+
+    
+
+* Advances and Outlook of Nickel‐Based MOFs–LDHs Materials for Energy Conversion  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413087547
+:TOPICS: Advanced Photocatalysis Techniques, Metal-Organic Frameworks: Synthesis and Applications, Copper-based nanomaterials and applications
+:PUBLICATION_DATE: 2025-07-16
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adsu.202500483")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413087547"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413087547"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413087547"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413087547 (Open access: True)
+    
+[[https://openalex.org/A5117611336][Lincoln Einstein Kengne Fotso]], [[https://openalex.org/A5094228577][Saad Mehmood]], [[https://openalex.org/A5080378871][Vatsala Rani Jetti]], [[https://openalex.org/A5035904005][Joydeep Dutta]], [[https://openalex.org/A5081931935][Ujjwal Pal]], Advanced Sustainable Systems. None(None)] 2025. https://doi.org/10.1002/adsu.202500483 
+     
+Abstract This review focuses on the advances and outlook of integrated Ni‐based MOFs (Metal‐Organic Framework) and LDHs (Layered Double Hydroxides) photo(electro) catalysts, and addresses the pivotal gap in water splitting for sustainable energy generation application. MOFs and LDHs are two classes of materials with high potential for applications in photo(electro)catalytic water splitting reaction. However, challenges such as limited intrinsic activity, low electrical conductivity of a single material, lack of more exposed active sites, weak mass transport ability, and poor crystalline structure remain. State‐of‐the‐art strategies including doping, the development of composites, nano‐structuration are used to solve these issues. Machine learning and artificial intelligence‐assisted advanced in situ characterization techniques are proposed as unavoidable tools to address these challenges and optimize the catalyst design. This review outlines the key parameters involved in the assessment of the electrocatalytic and photocatalytic performance of water‐splitting catalysts. The importance of density functional theory in Ni‐based MOFs and LDHs for electrocatalytic water splitting is emphasized. Details about the balance of high activity along with long‐term stability as a crucial requirement for large‐scale applications are provided. This review will propel the knowledge and know‐how in using Ni‐based MOFs/LDHs as electro(photo)catalysts for hydrogen (H 2 ) production, and guide the researchers in the field.    
+
+    
+
+* Computational screening of chalcogenides for intermediate band solar cells surpassing the Shockley-Queisser limit  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413090529
+:TOPICS: Chalcogenide Semiconductor Thin Films, Semiconductor materials and interfaces, Heusler alloys: electronic and magnetic properties
+:PUBLICATION_DATE: 2025-07-16
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1088/2515-7655/adf095")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413090529"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413090529"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413090529"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413090529 (Open access: True)
+    
+[[https://openalex.org/A5036986063][Matteo Cagnoni]], Journal of Physics Energy. 7(4)] 2025. https://doi.org/10.1088/2515-7655/adf095 
+     
+Abstract Intermediate band solar cells offer a promising avenue to surpass the Shockley–Queisser limit of    ∼  30   %    that constrains conventional single-junction devices, with the potential to approach an efficiency limit of    ∼  45   %    in terrestrial environments by incorporating a metallic band within the valence-conduction gap. Yet, their practical realization is challenged by difficulties in developing suitable intermediate band (IB) materials. Current approaches, which involve adding inclusions or utilizing highly mismatched alloys, often degrade material quality or present significant technological hurdles. A possible solution that remains underexplored, is to identify crystalline materials that inherently possess an IB and fine-tune their properties. In this work, thousands of crystalline chalcogenides are analyzed using a detailed balance model to quantitatively evaluate their expected efficacy as IB materials. Notably, orthorhombic     VB   1     VIA   2     and     IA   4     VIA   6     compounds, such as     Ta   1     Se   2     and     Cs   4     S   6     , are projected to achieve maximum efficiencies exceeding 35%, that is, surpassing the Shockley–Queisser limit. The interplay of IB filling and chemical substitution on the properties of these systems is analyzed, to unravel the impact on performance. This study not only identifies new material candidates for IB solar cells, but also provides insights into efficiency-property relations, hence advancing the understanding of these systems.    
+
+    
+
+* Unveiling the catalytic versatility of transition metal-doped coal char systems for hydrogen evolution reaction: a first-principles approach  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413097198
+:TOPICS: Electrocatalysts for Energy Conversion, Catalytic Processes in Materials Science, Catalysis and Hydrodesulfurization Studies
+:PUBLICATION_DATE: 2025-07-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.chemphys.2025.112882")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413097198"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413097198"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413097198"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413097198 (Open access: False)
+    
+[[https://openalex.org/A5113216575][Abosede A. Badeji]], [[https://openalex.org/A5116386044][Kowthaman Pathmanathan]], [[https://openalex.org/A5032438460][Hewa Y. Abdullah]], [[https://openalex.org/A5101671641][Ismail Hossain]], [[https://openalex.org/A5057204698][Musa Runde]], Chemical Physics. 599(None)] 2025. https://doi.org/10.1016/j.chemphys.2025.112882 
+     
+No abstract    
+
+    
+
+* Statistics in enabling 2D materials: Optimization, predictive modelling, and data-driven discovery  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413097860
+:TOPICS: 2D Materials and Applications, Graphene research and applications, Advanced Photocatalysis Techniques
+:PUBLICATION_DATE: 2025-07-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.mtphys.2025.101814")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413097860"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413097860"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413097860"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413097860 (Open access: True)
+    
+[[https://openalex.org/A5003756709][Johnson Kehinde Abifarin]], [[https://openalex.org/A5012484573][Yuerui Lu]], Materials Today Physics. 57(None)] 2025. https://doi.org/10.1016/j.mtphys.2025.101814 
+     
+No abstract    
+
+    
+
+* Tunability of Carbon Nitrides for Enhanced Photocatalytic Oxygen Evolution Reaction  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413098894
+:TOPICS: Advanced Photocatalysis Techniques, Electrocatalysts for Energy Conversion, Advanced Nanomaterials in Catalysis
+:PUBLICATION_DATE: 2025-07-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.5c04006")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413098894"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413098894"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413098894"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413098894 (Open access: False)
+    
+[[https://openalex.org/A5006958502][Shanping Liu]], [[https://openalex.org/A5080802270][Valentín Diez‐Cabanes]], [[https://openalex.org/A5048608039][Haijian Tong]], [[https://openalex.org/A5027738164][Yuanxing Fang]], [[https://openalex.org/A5075963769][Markus Antonietti]], [[https://openalex.org/A5091024577][Christian Mark Pelicano]], [[https://openalex.org/A5087859676][Guillaume Maurin]], ACS Catalysis. None(None)] 2025. https://doi.org/10.1021/acscatal.5c04006 
+     
+No abstract    
+
+    
+
+* GPR_calculator: An on-the-fly surrogate model to accelerate massive nudged elastic band calculations  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413099346
+:TOPICS: Geophysical Methods and Applications, Nuclear Physics and Applications, Geophysical and Geoelectrical Methods
+:PUBLICATION_DATE: 2025-07-28
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cpc.2025.109781")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413099346"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413099346"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413099346"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413099346 (Open access: True)
+    
+[[https://openalex.org/A5112852675][Isaac G. Onyango]], [[https://openalex.org/A5117698815][Byungkyun Kang]], [[https://openalex.org/A5100776456][Qiang Zhu]], Computer Physics Communications. 316(None)] 2025. https://doi.org/10.1016/j.cpc.2025.109781 
      
 No abstract    
 
