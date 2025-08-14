@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Aug 13 01:45:34 2025
+Created on Thu Aug 14 01:46:17 2025
 
-Found 1 results from 2025-08-06 to 2025-08-13
+Found 2 results from 2025-08-07 to 2025-08-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -14,5 +14,16 @@ Open access: True
 [Nicholas Golio](https://openalex.org/A5032276550), [Andrew J. Gellman](https://openalex.org/A5040842816), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.5c02240.
     
 No abstract    
+
+    
+
+## In Vitro Monitoring of Babesia microti Infection Dynamics in Whole Blood Microenvironments.   
+
+OpenAlex: https://openalex.org/W4413101820    
+Open access: False
+    
+[Chao Li](https://openalex.org/A5004641821), [Emily G. Bache](https://openalex.org/A5117533304), [Amy L. Apgar](https://openalex.org/A5117533305), [Danielle M. Tufts](https://openalex.org/A5089697602), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), PubMed. None(None)] 2025.https://doi.org/10.1002/advs.202508185.
+    
+Babesiosis - a globally emerging tick-borne infectious disease primarily caused by the intraerythrocytic piroplasm parasite, Babesia microti - has traditionally been studied using animal models such as mice. Compared to animal models, microfluidic-based models offer advantages, including direct analysis of human samples (such as patient blood), enhanced assay capacity (including physical/optical access, consistency, and throughput), low costs, and easy adoption. Here, an open microfluidic platform named "µ-Blood" is reported for real-time continuous monitoring B. microti infection dynamics in vitro. Compared to other microfluidic-based models, µ-Blood allows direct examination of infected and uninfected whole blood without preprocessing steps like blood dilution or cell isolation, minimizing observer artifacts and preserving the natural whole blood microenvironment. The system enables extended (72 h) monitoring of infection dynamics, including parasite identification, parasitemia measurement, and parasite-host cell interactions, using label-free phase contrast and fluorescence confocal microscopy. With its open microfluidic configuration, µ-Blood provides an in vitro model for studying blood-borne infection dynamics while maintaining integrity of the whole blood microenvironment.    
 
     
