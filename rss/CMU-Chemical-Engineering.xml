@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 01:46:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 01:46:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>The Dual Subsurface Hydrogen (2H&#8217;) Mechanism for Ethylene Hydrogenation on Pd</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c02240</link>
-      <description>Nicholas Golio, Andrew J. Gellman, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4413040709
-
-                No abstract</description>
-      <author>Nicholas Golio, Andrew J. Gellman</author>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c02240</guid>
-    </item>
     <item>
       <title>In Vitro Monitoring of Babesia microti Infection Dynamics in Whole Blood Microenvironments.</title>
       <link>https://doi.org/10.1002/advs.202508185</link>
@@ -26,6 +16,16 @@
       <author>Chao Li, Emily G. Bache, Amy L. Apgar, Danielle M. Tufts, Tagbo H. R. Niepa</author>
       <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/advs.202508185</guid>
+    </item>
+    <item>
+      <title>Limiting endosomal damage sensing reduces inflammation triggered by lipid nanoparticle endosomal escape.</title>
+      <link>https://doi.org/10.1038/s41565-025-01974-5</link>
+      <description>Serena Omo&#8208;Lamai, Yufei Wang, Manthan N. Patel, Aleksa Milosavljevic, Daniel W. Zuschlag, Subhajit Poddar, Jichuan Wu, Liuqian Wang, Fengyi Dong, Carolann Espy, Aparajeeta Majumder, Eno&#8208;Obong Essien, Mengwen Shen, Breana Channer, Tyler E. Papp, Michael P. Tobin, Rhea Maheshwari, So Yeon Jeong, Sulabh Patel, Anit Shah, Shruthi Murali, Liam S. Chase, Marco E. Zamora, Mariah L. Arral, Oscar A. Marcos&#8208;Contreras, Jacob W. Myerson, Christopher A. Hunter, Dennis E. Discher, Peter J. Gaskill, Andrew Tsourkas, Vladimir R. Muzykantov, Igor E. Brodsky, Sunny Shin, Kathryn A. Whitehead, Hamideh Parhiz, Jeremy Katzen, Jonathan J. Miner, Dirk Trauner, Jacob S. Brenner, PubMed. None(None)] 2025. https://openalex.org/W4413109062
+
+                No abstract</description>
+      <author>Serena Omo&#8208;Lamai, Yufei Wang, Manthan N. Patel, Aleksa Milosavljevic, Daniel W. Zuschlag, Subhajit Poddar, Jichuan Wu, Liuqian Wang, Fengyi Dong, Carolann Espy, Aparajeeta Majumder, Eno&#8208;Obong Essien, Mengwen Shen, Breana Channer, Tyler E. Papp, Michael P. Tobin, Rhea Maheshwari, So Yeon Jeong, Sulabh Patel, Anit Shah, Shruthi Murali, Liam S. Chase, Marco E. Zamora, Mariah L. Arral, Oscar A. Marcos&#8208;Contreras, Jacob W. Myerson, Christopher A. Hunter, Dennis E. Discher, Peter J. Gaskill, Andrew Tsourkas, Vladimir R. Muzykantov, Igor E. Brodsky, Sunny Shin, Kathryn A. Whitehead, Hamideh Parhiz, Jeremy Katzen, Jonathan J. Miner, Dirk Trauner, Jacob S. Brenner</author>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41565-025-01974-5</guid>
     </item>
   </channel>
 </rss>

@@ -4,139 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 01:46:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 01:46:53 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Mechanistic study of C1 product formation from CO2 reduction using transition metal clusters-embedded C2N</title>
-      <link>https://doi.org/10.1016/j.electacta.2025.147061</link>
-      <description>Shuwei Zhang, Jiali Liu, Hui Li, Yang Wu, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4413019478
-
-                No abstract</description>
-      <author>Shuwei Zhang, Jiali Liu, Hui Li, Yang Wu</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.147061</guid>
-    </item>
-    <item>
-      <title>Regulating chemical and electronic structure of Ni-based catalysts via introducing heteroatoms for boosting electrochemical oxidation of borohydride</title>
-      <link>https://doi.org/10.1016/j.cej.2025.166900</link>
-      <description>Ying Yang, Zhihong Cui, Caini Yi, Meilin Chen, Hang Yang, Xiaolong Hou, Guimiao Wang, Shuo Wang, Yuping Liu, Guozhong Cao, Danmei Yu, Xiaoyuan Zhou, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4413020290
-
-                No abstract</description>
-      <author>Ying Yang, Zhihong Cui, Caini Yi, Meilin Chen, Hang Yang, Xiaolong Hou, Guimiao Wang, Shuo Wang, Yuping Liu, Guozhong Cao, Danmei Yu, Xiaoyuan Zhou</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.166900</guid>
-    </item>
-    <item>
-      <title>Statistical Approach to the Free&#8208;Energy Diagram of the Nitrogen Reduction Reaction on Mo&lt;sub&gt;2&lt;/sub&gt;C MXene</title>
-      <link>https://doi.org/10.1002/celc.202500196</link>
-      <description>Diwakar Singh, Ebrahim Tayyebi, Kai S. Exner, ChemElectroChem. None(None)] 2025. https://openalex.org/W4413020893
-
-                Accurate free&#8208;energy landscapes are essential for understanding electrocatalytic processes, especially those involving proton&#8211;coupled electron transfer. While density functional theory (DFT) is widely used to model such reactions, it often introduces significant errors in the computed free energies of gas&#8208;phase reference molecules, leading to inconsistencies in the derivation of the free&#8208;energy changes of the elementary reaction steps. This study presents and compares different correction schemes to address gas&#8208;phase DFT errors. Unlike conventional methods that rely on bond&#8211;order&#8211;based adjustments, this approach reconstructs the formation free energy of target molecules as a linear combination of theoretically determined formation free energies of carefully selected reference molecules. This framework ensures consistency across the reaction network while avoiding dependence on the bond order. This methodology applies to the nitrogen reduction reaction on Mo 2 C(0001) MXene using dispersion&#8211;corrected DFT calculations. The incorporation of gas&#8208;phase corrections significantly reshapes the free&#8208;energy profile and alters catalytic activity descriptors, including the largest free&#8208;energy span of the G max ( U ) descriptor. Findings highlight the importance of thermodynamic accuracy in computational electrocatalysis and provide a generalizable framework that improves the reliability of DFT&#8208;based predictions across a wide range of electrochemical systems for energy conversion and storage.</description>
-      <author>Diwakar Singh, Ebrahim Tayyebi, Kai S. Exner</author>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/celc.202500196</guid>
-    </item>
-    <item>
-      <title>Single-faceted IrO2 monolayer enabling high-performing proton exchange membrane water electrolysis beyond 10,000 h stability at 1.5 A cm-2</title>
-      <link>https://doi.org/10.1038/s41467-025-62665-2</link>
-      <description>Deren Yang, Chunyang Zhang, Yufeng Qin, Yue Yang, Yubo Liu, Xiaoyun Shi, Kang Hua, Xuemin An, Lihua Jin, Yipeng Zhang, Shouwei Zuo, Abdullah Tan, Jianguo Liu, Nature Communications. 16(1)] 2025. https://openalex.org/W4413023898
-
-                Both commercial and laboratory-synthesized IrO2 catalysts typically possess rutile-type structures with multiple facets. Theoretical results predict the (101) facet is the most energetically favorable for oxygen evolution reaction owing to its lowest energy barrier. Achieving monolayer thickness while exposing this desired facet is a significant opportunity for IrO2. Herein, we develop an ammonia-induced facet engineering for the synthesis of single-faceted IrO2(101) monolayer. It achieves 230 mV overpotential at 10 mA cmgeo-2 in a three-electrode system and 1.70 V at 2 A cmgeo-2 in a proton exchange membrane (PEM) electrolyzer. Though facet engineering primarily contributes to modulating the intrinsic activity rather than stability, single-faceted IrO2 monolayer performs over 10,000-hour stability at constant 1.5 A cmgeo-2 (3.95 mV kh-1 decay) and 1000-hour stability at 0.2 mgIr cmgeo-2 under fluctuating conditions. This work proposes that ammonia-induced facet engineering of IrO2 monolayer enables facet-dependent oxygen evolution reaction (OER) performance and high stability in industrial-scale PEM electrolysis.</description>
-      <author>Deren Yang, Chunyang Zhang, Yufeng Qin, Yue Yang, Yubo Liu, Xiaoyun Shi, Kang Hua, Xuemin An, Lihua Jin, Yipeng Zhang, Shouwei Zuo, Abdullah Tan, Jianguo Liu</author>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-62665-2</guid>
-    </item>
-    <item>
-      <title>Volcano&#8208;Type Behavior in Spatially Resolved Electron Transfer and Hydrogen Evolution Reaction Mapping over 2D Electrocatalysts</title>
-      <link>https://doi.org/10.1002/smtd.202501169</link>
-      <description>Septia Kholimatussadiah, Mohammad Qorbani, Yu&#8208;Chen Liu, R. Raman, Ying&#8208;Ren Lai, Chih&#8208;Yang Huang, Mario Hofmann, Michitoshi Hayashi, Kuei&#8208;Hsien Chen, Li&#8208;Chyong Chen, Small Methods. None(None)] 2025. https://openalex.org/W4413024582
-
-                Abstract In situ mapping of interfacial electron transfer dynamics to reveal electrocatalytic activity with high spatial resolution is crucial for developing efficient electrochemical devices. While emerging 2D materials for catalysis have attracted substantial attention, there is still a notable lack of studies examining their electrochemical properties at the nanoscale, particularly in a layer&#8208;by&#8208;layer context. Here, both outer&#8208;sphere and inner&#8208;sphere electron transfer at a 2D semiconducting WSe 2 electrode&#8211;electrolyte interface are spatially resolved and quantified in high resolution. The investigations reveal that WSe 2 exhibits a volcano&#8208;type behavior in its electrochemical activity, with a peak performance observed at a specific thickness of four layers. This phenomenon is attributed to the interplay between the layer&#8208;specific electronic density of states and the tunneling of charge carriers across the interlayer regions. This observation is further exemplified by micro&#8208;electrochemical hydrogen evolution reaction measurements.</description>
-      <author>Septia Kholimatussadiah, Mohammad Qorbani, Yu&#8208;Chen Liu, R. Raman, Ying&#8208;Ren Lai, Chih&#8208;Yang Huang, Mario Hofmann, Michitoshi Hayashi, Kuei&#8208;Hsien Chen, Li&#8208;Chyong Chen</author>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202501169</guid>
-    </item>
-    <item>
-      <title>AMPERE-2: an open-hardware, robotic platform for automated electrodeposition and electrochemical validation</title>
-      <link>https://doi.org/10.1039/d5dd00180c</link>
-      <description>Nis Fisker&#8208;B&#248;dker, Daniel Persaud, Yang Bai, Mark Kozdras, Tejs Vegge, Jason Hattrick&#8208;Simpers, Jin Hyun Chang, Digital Discovery. None(None)] 2025. https://openalex.org/W4413027967
-
-                AMPERE-2 automates electrodeposition and in situ OER catalyst testing. The open-hardware workflow yields reproducible multi-metal catalysts in 65 min per sample.</description>
-      <author>Nis Fisker&#8208;B&#248;dker, Daniel Persaud, Yang Bai, Mark Kozdras, Tejs Vegge, Jason Hattrick&#8208;Simpers, Jin Hyun Chang</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5dd00180c</guid>
-    </item>
-    <item>
-      <title>Copper Single&#8208;Atom Catalyst for Efficient C&#9472;S Coupling in Thioether Synthesis</title>
-      <link>https://doi.org/10.1002/anie.202510632</link>
-      <description>Theodore A. Gazis, Santi R. Palit, Luis A. Cipriano, Nicol&#242; Allasia, Sean M. Collins, Quentin M. Ramasse, Ik Seon Kwon, Martin Sterrer, Giovanni Di Liberto, Gianvito Vil&#233;, Angewandte Chemie International Edition. None(None)] 2025. https://openalex.org/W4413028711
-
-                Abstract Carbon&#8208;heteroatom cross&#8208;coupling reactions have become indispensable tools in synthetic chemistry. However, the formation of carbon&#8211;sulfur (C&#9472;S) bonds, which are essential for producing thioethers used in pharmaceuticals, agrochemicals, and advanced materials, remains significantly underdeveloped. Industrial C&#9472;S coupling methods still rely on expensive, homogeneous catalysts that suffer from poor recyclability and are susceptible to sulfur&#8208;induced deactivation. In this work, we report a copper single&#8208;atom catalyst, where Cu sites are atomically dispersed on mesoporous graphitic carbon nitride, to enable efficient, selective, and recyclable C&#9472;S cross&#8208;coupling reactions under mild conditions and on a gram scale. The catalyst exhibits excellent resistance to thiol poisoning and maintains high performance over multiple catalytic cycles. Advanced characterization techniques, including aberration&#8208;corrected electron microscopy, X&#8208;ray absorption spectroscopy, and single&#8208;atom&#8208;sensitive electron energy loss spectroscopy, confirm the atomic dispersion and stable coordination environment of Cu sites. Combined with density functional theory simulations and radical scavenging experiments, our mechanistic investigations support a concerted oxidative addition pathway, which excludes radical intermediates. These results provide key insights into heterogeneous C&#9472;S coupling and demonstrate the power of single&#8208;atom catalysts in addressing long&#8208;standing challenges in sulfur chemistry, paving the way toward greener and more scalable processes for fine chemical and pharmaceutical synthesis.</description>
-      <author>Theodore A. Gazis, Santi R. Palit, Luis A. Cipriano, Nicol&#242; Allasia, Sean M. Collins, Quentin M. Ramasse, Ik Seon Kwon, Martin Sterrer, Giovanni Di Liberto, Gianvito Vil&#233;</author>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202510632</guid>
-    </item>
-    <item>
-      <title>Copper Single&#8208;Atom Catalyst for Efficient C&#9472;S Coupling in Thioether Synthesis</title>
-      <link>https://doi.org/10.1002/ange.202510632</link>
-      <description>Theodore A. Gazis, Santi R. Palit, Luis A. Cipriano, Nicol&#242; Allasia, Sean M. Collins, Quentin M. Ramasse, Ik Seon Kwon, Martin Sterrer, Giovanni Di Liberto, Gianvito Vil&#233;, Angewandte Chemie. None(None)] 2025. https://openalex.org/W4413028712
-
-                Abstract Carbon&#8208;heteroatom cross&#8208;coupling reactions have become indispensable tools in synthetic chemistry. However, the formation of carbon&#8211;sulfur (C&#9472;S) bonds, which are essential for producing thioethers used in pharmaceuticals, agrochemicals, and advanced materials, remains significantly underdeveloped. Industrial C&#9472;S coupling methods still rely on expensive, homogeneous catalysts that suffer from poor recyclability and are susceptible to sulfur&#8208;induced deactivation. In this work, we report a copper single&#8208;atom catalyst, where Cu sites are atomically dispersed on mesoporous graphitic carbon nitride, to enable efficient, selective, and recyclable C&#9472;S cross&#8208;coupling reactions under mild conditions and on a gram scale. The catalyst exhibits excellent resistance to thiol poisoning and maintains high performance over multiple catalytic cycles. Advanced characterization techniques, including aberration&#8208;corrected electron microscopy, X&#8208;ray absorption spectroscopy, and single&#8208;atom&#8208;sensitive electron energy loss spectroscopy, confirm the atomic dispersion and stable coordination environment of Cu sites. Combined with density functional theory simulations and radical scavenging experiments, our mechanistic investigations support a concerted oxidative addition pathway, which excludes radical intermediates. These results provide key insights into heterogeneous C&#9472;S coupling and demonstrate the power of single&#8208;atom catalysts in addressing long&#8208;standing challenges in sulfur chemistry, paving the way toward greener and more scalable processes for fine chemical and pharmaceutical synthesis.</description>
-      <author>Theodore A. Gazis, Santi R. Palit, Luis A. Cipriano, Nicol&#242; Allasia, Sean M. Collins, Quentin M. Ramasse, Ik Seon Kwon, Martin Sterrer, Giovanni Di Liberto, Gianvito Vil&#233;</author>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202510632</guid>
-    </item>
-    <item>
-      <title>Indirect Heteroatom Doping of TMN4 Single Atom Catalysts for Bifunctional ORR/OER Electrocatalysis: A DFT Study</title>
-      <link>https://doi.org/10.1016/j.mtcomm.2025.113505</link>
-      <description>Zeyu Wang, Lili Sun, Wolong Li, Junda Qin, Yongcun Li, Yong Wang, Materials Today Communications. None(None)] 2025. https://openalex.org/W4413031099
-
-                No abstract</description>
-      <author>Zeyu Wang, Lili Sun, Wolong Li, Junda Qin, Yongcun Li, Yong Wang</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2025.113505</guid>
-    </item>
-    <item>
-      <title>Molecular bridge-reshaped interfacial water configuration on oxygen-deficient silica for robust electrosynthesis of hydrogen peroxide</title>
-      <link>https://doi.org/10.1016/j.cej.2025.166863</link>
-      <description>Minxia Jiang, Yingjie Hu, Jie Zhu, Wen Wei, Shuaifeng Wang, Zhen Yang, Jie Wang, Xiaowan Zhan, Ying Wang, Minhua Cao, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4413031474
-
-                No abstract</description>
-      <author>Minxia Jiang, Yingjie Hu, Jie Zhu, Wen Wei, Shuaifeng Wang, Zhen Yang, Jie Wang, Xiaowan Zhan, Ying Wang, Minhua Cao</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.166863</guid>
-    </item>
-    <item>
-      <title>Theoretical insights into electrocatalytic urea synthesis on graphdiyne-supported transition metal-boron triatomic clusters</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.164202</link>
-      <description>Zongpeng Ding, YuShan Pang, Aling Ma, Yukun Han, Zhenzhen Wang, Guohong Fan, Hong Xu, Applied Surface Science. None(None)] 2025. https://openalex.org/W4413032259
-
-                No abstract</description>
-      <author>Zongpeng Ding, YuShan Pang, Aling Ma, Yukun Han, Zhenzhen Wang, Guohong Fan, Hong Xu</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.164202</guid>
-    </item>
-    <item>
-      <title>Electron Synergism in Boron Interstitial Doping Ordered Pt&lt;sub&gt;3&lt;/sub&gt;Co Nanoparticles Enhances the Protonation Process: Application to Efficient Oxygen Reduction in Zinc&#8208;Air Batteries</title>
-      <link>https://doi.org/10.1002/aenm.202503590</link>
-      <description>Guangrui Xu, Xinyuan Zhou, Miao Yu, Baolin Jiang, Qiyan Sun, Zexing Wu, Bin Li, Lei Wang, Advanced Energy Materials. None(None)] 2025. https://openalex.org/W4413038207
-
-                Abstract Ordered intermetallic Pt 3 Co compounds are highly promising alloy materials for oxygen electrocatalysis, while the sluggish kinetics and high cost of Pt still hinder their wide use in practical applications. In this work, boron atom gap&#8208;doped Pt 3 Co nanoparticles loaded on carbon nanobowls (B&#8208;Pt 3 Co/CNBs) are obtained to enhance the oxygen reduction reaction (ORR) performance. The introduction of B atoms is responsible for the negative shift of the d&#8208;band center compared to Pt 3 Co, and the subsequent reduction process leads to the uniform loading of B&#8208;Pt 3 Co nanoparticles on hollow carbon nanobowls. It is demonstrated that B&#8208;Pt 3 Co/CNBs exhibit the best electrocatalytic performance for ORR with an onset potential of 1.095 V versus RHE and a half&#8208;wave potential of 0.985 versus RHE, as well as robust electrocatalytic stability with negligible activity decay even after 50 000 cycles. Experimental and theoretical calculations show that the introduction of the highly electronegative metalloid B leads the Pt atoms to lose electrons, which changes the electronic structure of Pt 3 Co that can weaken the bonding strength of Pt&#8208;O and accelerate the protonation and desorption of O* on the surface of the B&#8208;Pt 3 Co/ CNB, reducing the energy barrier of the rate&#8208;determining step during the ORR process.</description>
-      <author>Guangrui Xu, Xinyuan Zhou, Miao Yu, Baolin Jiang, Qiyan Sun, Zexing Wu, Bin Li, Lei Wang</author>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202503590</guid>
-    </item>
-    <item>
-      <title>pH&#8208;Dependent Electroreduction of Nitrate on Fe Single&#8208;Atom Catalyst</title>
-      <link>https://doi.org/10.1002/cssc.202500717</link>
-      <description>Zhen Meng, Adyasa Priyadarsini, Kaige Shi, Zhuanghe Ren, Deepak Prasad Subedi, Daniel W. Israel, William E. Kaden, Xiaofeng Feng, Shyam Kattel, ChemSusChem. None(None)] 2025. https://openalex.org/W4413044311
-
-                Electrochemical nitrate reduction reaction (NO 3 RR) has received considerable attention due to its potential for the denitrification of wastewater and sustainable NH 3 production. Among various catalysts for NO 3 RR, Fe&#8722;N&#8722;C single&#8208;atom catalyst has attracted significant interest due to its well&#8208;defined active sites and high stability across various media. Here, we investigate the pH dependence of NO 3 RR on Fe&#8722;N&#8722;C by combining experiments and density functional theory (DFT) calculations. The Fe&#8722;N&#8722;C catalyst achieves high activity and &gt;80% Faradaic efficiency for NH 3 production in the NO 3 RR across acidic, neutral, and alkaline electrolytes, while the hydrogen evolution reaction (HER) exhibits the strongest competition with NO 3 RR in alkaline electrolyte. DFT calculations identify the NHO*&#8208;mediated pathway as the most favorable for NO 3 RR on Fe&#8722;N&#8722;C and further reveal the pH dependence of the potential&#8208;determining steps for both NO 3 RR and HER, elucidating the origin of the pH&#8208;dependent selectivity. Our studies provide new mechanistic insights into the NO 3 RR on single&#8208;atom catalysts and guide the design of broad pH&#8208;range electrocatalysts for efficient and versatile nitrate recycling.</description>
-      <author>Zhen Meng, Adyasa Priyadarsini, Kaige Shi, Zhuanghe Ren, Deepak Prasad Subedi, Daniel W. Israel, William E. Kaden, Xiaofeng Feng, Shyam Kattel</author>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202500717</guid>
-    </item>
     <item>
       <title>Engineering the built-in electric field in two-dimensional p-2H-MSiN3 (M = Cr, Mo, W) for optimized photocarrier dynamics and enhanced overall water splitting activity</title>
       <link>https://doi.org/10.1016/j.fuel.2025.136468</link>
@@ -348,34 +218,14 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c03905</guid>
     </item>
     <item>
-      <title>Influence of carboxymethyl chitosan chain length on its interaction with vitamin C and curcumin: molecular docking and molecular dynamic approach</title>
-      <link>https://doi.org/10.1007/s00894-025-06458-w</link>
-      <description>Nabela Audryna Amalia Insani, Nurwarrohman Andre Sasongko, Suci Zulaikha Hildayani, Dwi Hudiyanti, Khairul Anam, Daniel Sethio, Vivitri Dewi Prasasty, Parsaoran Siahaan, Journal of Molecular Modeling. 31(9)] 2025. https://openalex.org/W4413029349
+      <title>Observation of dendrite formation at Li metal-electrolyte interface by a machine-learning enhanced constant potential framework.</title>
+      <link>https://doi.org/10.1038/s41467-025-62824-5</link>
+      <description>Taiping Hu, Haichao Huang, Guobing Zhou, Xinyan Wang, Jiaxin Zhu, Zheng Cheng, Fangjia Fu, Xiaoxu Wang, Fu&#8208;Zhi Dai, Kuang Yu, Shenzhen Xu, PubMed. 16(1)] 2025. https://openalex.org/W4413108997
 
                 No abstract</description>
-      <author>Nabela Audryna Amalia Insani, Nurwarrohman Andre Sasongko, Suci Zulaikha Hildayani, Dwi Hudiyanti, Khairul Anam, Daniel Sethio, Vivitri Dewi Prasasty, Parsaoran Siahaan</author>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s00894-025-06458-w</guid>
-    </item>
-    <item>
-      <title>Enhancing CO&#8322; adsorption kinetics in direct air capture: The role of steam desorption in amine-based anion exchange sorbents</title>
-      <link>https://doi.org/10.1016/j.jcou.2025.103184</link>
-      <description>Florian M. Chimani, Josef Fuchs, Andreas Wallm&#252;ller, Jean Pierre Matriciani, Gerhard Sch&#246;ny, Stefan M&#252;ller, Journal of CO2 Utilization. 100(None)] 2025. https://openalex.org/W4413046267
-
-                No abstract</description>
-      <author>Florian M. Chimani, Josef Fuchs, Andreas Wallm&#252;ller, Jean Pierre Matriciani, Gerhard Sch&#246;ny, Stefan M&#252;ller</author>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcou.2025.103184</guid>
-    </item>
-    <item>
-      <title>The Dual Subsurface Hydrogen (2H&#8217;) Mechanism for Ethylene Hydrogenation on Pd</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c02240</link>
-      <description>Nicholas Golio, Andrew J. Gellman, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4413040709
-
-                No abstract</description>
-      <author>Nicholas Golio, Andrew J. Gellman</author>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c02240</guid>
+      <author>Taiping Hu, Haichao Huang, Guobing Zhou, Xinyan Wang, Jiaxin Zhu, Zheng Cheng, Fangjia Fu, Xiaoxu Wang, Fu&#8208;Zhi Dai, Kuang Yu, Shenzhen Xu</author>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-62824-5</guid>
     </item>
   </channel>
 </rss>
