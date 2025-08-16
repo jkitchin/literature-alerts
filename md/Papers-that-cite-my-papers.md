@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Aug 15 01:46:53 2025
+Created on Sat Aug 16 01:41:39 2025
 
-Found 22 results from 2025-08-08 to 2025-08-15
+Found 26 results from 2025-08-09 to 2025-08-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W1976900809](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W1976900809)
@@ -16,17 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
-
-## Engineering the built-in electric field in two-dimensional p-2H-MSiN3 (M = Cr, Mo, W) for optimized photocarrier dynamics and enhanced overall water splitting activity   
-
-OpenAlex: https://openalex.org/W4413049265    
-Open access: False
-    
-[Yanli Chang](https://openalex.org/A5109979269), [Pucun Bai](https://openalex.org/A5091289836), [Xueping Zhao](https://openalex.org/A5100936137), [Xiaoming Cui](https://openalex.org/A5104111909), Fuel. 405(None)] 2025.https://doi.org/10.1016/j.fuel.2025.136468.
-    
-No abstract    
-
-    
 
 ## Enhancing Activity and Stability of Ba0.5Sr0.5Co0.8Fe0.2O3-δ Cathode by Surface Engineering with SrCoO3-δ Nanoparticles in Protonic Ceramic Fuel Cells   
 
@@ -69,6 +58,17 @@ Open access: False
 [Suthida Kaewsai](https://openalex.org/A5093890858), [Valerio D’Elia](https://openalex.org/A5083748096), Journal of Organometallic Chemistry. None(None)] 2025.https://doi.org/10.1016/j.jorganchem.2025.123799.
     
 No abstract    
+
+    
+
+## Dynamic Metal–Support Interaction Dictates Cu Nanoparticle Sintering on Al2O3 Surfaces   
+
+OpenAlex: https://openalex.org/W4413054382    
+Open access: True
+    
+[Jiayan Xu](https://openalex.org/A5070298925), [Shreeja Das](https://openalex.org/A5080511593), [Amar Deep Pathak](https://openalex.org/A5003891688), [A. K. Patra](https://openalex.org/A5054389942), [Sharan Shetty](https://openalex.org/A5086238816), [Detlef Hohl](https://openalex.org/A5018028862), [Roberto Car](https://openalex.org/A5007841515), ACS Nano. None(None)] 2025.https://doi.org/10.1021/acsnano.5c04622 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsnano.5c04622?ref=article_openPDF)).
+    
+Nanoparticle sintering remains a critical challenge in heterogeneous catalysis. In this work, we present a unified deep potential (DP) model based on the Perdew-Burke-Ernzerhof approximation of density functional theory for Cu nanoparticles on three Al2O3 surfaces (γ-Al2O3(100), γ-Al2O3(110), and α-Al2O3(0001)). Using DP-accelerated simulations, we reveal that the nanoparticle size-mobility relationship strongly depends on the supporting surface. The diffusion of nanoparticles on the two γ-Al2O3 surfaces is almost independent of the size of the nanoparticle, while the diffusion on α-Al2O3(0001) decreases rapidly with increasing size. Interestingly, nanoparticles with fewer than 55 atoms diffuse several times faster on α-Al2O3(0001) than on γ-Al2O3(100) at 800 K while expected to be more sluggish based on their larger binding energy at 0 K. The diffusion on α-Al2O3(0001) is facilitated by dynamic metal-support interaction (MSI), where Al atoms move out of the surface plane to optimize contact with the nanoparticle and relax back to the plane as the nanoparticle moves away. In contrast, the MSI on γ-Al2O3(100) and on γ-Al2O3(110) is dominated by more stable and directional Cu-O bonds, consistent with the limited diffusion observed on these surfaces. Our extended MD simulations provide insight into the sintering processes, showing that the dispersity of the nanoparticles strongly influences the coalescence driven by nanoparticle diffusion. We observed that the coalescence of Cu13 nanoparticles on α-Al2O3(0001) can occur in a short time (10 ns) at 800 K even with an initial internanoparticle distance increased to 3 nm, while the coalescence on the two γ-Al2O3 surfaces are inhibited significantly by increasing the initial internanoparticle distance. These findings demonstrate that the dynamics of the supporting surface is crucial to understanding the sintering mechanism and offer guidance for designing sinter-resistant catalysts by engineering the support morphology.    
 
     
 
@@ -157,6 +157,17 @@ Open access: True
 [Matteo Cagnoni](https://openalex.org/A5036986063), Journal of Physics Energy. 7(4)] 2025.https://doi.org/10.1088/2515-7655/adf095.
     
 Abstract Intermediate band solar cells offer a promising avenue to surpass the Shockley–Queisser limit of    ∼  30   %    that constrains conventional single-junction devices, with the potential to approach an efficiency limit of    ∼  45   %    in terrestrial environments by incorporating a metallic band within the valence-conduction gap. Yet, their practical realization is challenged by difficulties in developing suitable intermediate band (IB) materials. Current approaches, which involve adding inclusions or utilizing highly mismatched alloys, often degrade material quality or present significant technological hurdles. A possible solution that remains underexplored, is to identify crystalline materials that inherently possess an IB and fine-tune their properties. In this work, thousands of crystalline chalcogenides are analyzed using a detailed balance model to quantitatively evaluate their expected efficacy as IB materials. Notably, orthorhombic     VB   1     VIA   2     and     IA   4     VIA   6     compounds, such as     Ta   1     Se   2     and     Cs   4     S   6     , are projected to achieve maximum efficiencies exceeding 35%, that is, surpassing the Shockley–Queisser limit. The interplay of IB filling and chemical substitution on the properties of these systems is analyzed, to unravel the impact on performance. This study not only identifies new material candidates for IB solar cells, but also provides insights into efficiency-property relations, hence advancing the understanding of these systems.    
+
+    
+
+## Lattice-matched antiperovskite-perovskite system toward all-solid-state batteries   
+
+OpenAlex: https://openalex.org/W4413094259    
+Open access: True
+    
+[Daisuke Itô](https://openalex.org/A5103124585), [Naoaki Kuwata](https://openalex.org/A5081591429), [Seiji Takemoto](https://openalex.org/A5037048090), [Kazuhiro Kamiguchi](https://openalex.org/A5015497491), [Gen Hasegawa](https://openalex.org/A5091607850), [Kazunori Takada](https://openalex.org/A5061845500), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-62860-1 ([pdf](https://www.nature.com/articles/s41467-025-62860-1.pdf)).
+    
+Inorganic solid electrolytes have emerged as promising candidates for realizing all-solid-state batteries because they eliminate flammable, low boiling-point liquids in lithium-ion battery cells, improving safety and cycle life. In this study, we present a highly lattice-matched composite solid electrolyte consisting of an antiperovskite-perovskite system, offering the benefits of both antiperovskites as melt-infiltratable solid electrolytes and perovskites as fast-ion conductors. Atomistic simulations predict significant lithium-ion diffusion at the interface between cubic Li2OHCl and Li0.31La0.56TiO3. The incorporation of fluorine enables room-temperature operation by stabilizing the high-temperature cubic phase of Li2OHCl1-xFx and reduces the lattice mismatch ratio to 0.8% at the interface through lattice contractions. The composite solid electrolyte was synthesized via pressure-assisted melt infiltration. The solid electrolyte effectively infiltrates conventional lithium-ion battery electrodes while maintaining a stable interface structure. Electrochemical testing demonstrates promising charge-discharge characteristics, including long cycle life and rate performance. Intricate infiltration of the solid electrolyte into an electrode structure composed of active materials with microcracks and high surface area enables stable operation by mitigating degradation phenomena typically observed in liquid electrolyte-based lithium-ion batteries. Lithium-ion batteries face safety and capacity limitations. Here, authors develop a composite solid electrolyte combining anti-perovskite and perovskite phases, enabling low-temperature processing and stable interfaces. This advance supports safer, high-performance all-solid-state batteries.    
 
     
 
@@ -254,6 +265,39 @@ OpenAlex: https://openalex.org/W4413108997
 Open access: False
     
 [Taiping Hu](https://openalex.org/A5071475197), [Haichao Huang](https://openalex.org/A5101870455), [Guobing Zhou](https://openalex.org/A5005890948), [Xinyan Wang](https://openalex.org/A5100410977), [Jiaxin Zhu](https://openalex.org/A5046099614), [Zheng Cheng](https://openalex.org/A5101724382), [Fangjia Fu](https://openalex.org/A5049022112), [Xiaoxu Wang](https://openalex.org/A5100626425), [Fu‐Zhi Dai](https://openalex.org/A5004503876), [Kuang Yu](https://openalex.org/A5039306865), [Shenzhen Xu](https://openalex.org/A5034715756), PubMed. 16(1)] 2025.https://doi.org/10.1038/s41467-025-62824-5.
+    
+No abstract    
+
+    
+
+## First-principles study of the electrocatalytic behavior of Hf4C3 MXene   
+
+OpenAlex: https://openalex.org/W4413109650    
+Open access: False
+    
+[Ouarda Azzi](https://openalex.org/A5035594377), [Tarik Ouahrani](https://openalex.org/A5018861168), [Chewki Ougherb](https://openalex.org/A5051538630), [David Dell’Angelo](https://openalex.org/A5079880464), [Ángel Morales‐García](https://openalex.org/A5000483702), [Michaël Badawi](https://openalex.org/A5071072847), Journal of Physics and Chemistry of Solids. 208(None)] 2025.https://doi.org/10.1016/j.jpcs.2025.113070.
+    
+No abstract    
+
+    
+
+## Waste lead paste for high-capacity lead–lithium aqueous batteries: A new method to recover waste lead paste   
+
+OpenAlex: https://openalex.org/W4413109782    
+Open access: False
+    
+[Chunxia Gong](https://openalex.org/A5101482843), [Yosuke Amada](https://openalex.org/A5093729085), [Hiroshi Sakurai](https://openalex.org/A5055827238), [Manabu Takahashi](https://openalex.org/A5101962090), [Kazuma Gotoh](https://openalex.org/A5024315487), Next Materials. 9(None)] 2025.https://doi.org/10.1016/j.nxmate.2025.101038.
+    
+No abstract    
+
+    
+
+## Density functional theory investigation of telluride materials for HER/ORR/OER multifunctional electrocatalysts   
+
+OpenAlex: https://openalex.org/W4413114483    
+Open access: False
+    
+[F. Jia](https://openalex.org/A5066211843), [Zhengrui Li](https://openalex.org/A5101585973), [Xinran Li](https://openalex.org/A5100381223), [Yikang Gu](https://openalex.org/A5102050574), [Ping Li](https://openalex.org/A5107556680), International Journal of Hydrogen Energy. 166(None)] 2025.https://doi.org/10.1016/j.ijhydene.2025.150812.
     
 No abstract    
 

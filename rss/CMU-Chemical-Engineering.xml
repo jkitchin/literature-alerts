@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Aug 2025 01:46:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 01:41:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,16 @@
       <author>Serena Omo&#8208;Lamai, Yufei Wang, Manthan N. Patel, Aleksa Milosavljevic, Daniel W. Zuschlag, Subhajit Poddar, Jichuan Wu, Liuqian Wang, Fengyi Dong, Carolann Espy, Aparajeeta Majumder, Eno&#8208;Obong Essien, Mengwen Shen, Breana Channer, Tyler E. Papp, Michael P. Tobin, Rhea Maheshwari, So Yeon Jeong, Sulabh Patel, Anit Shah, Shruthi Murali, Liam S. Chase, Marco E. Zamora, Mariah L. Arral, Oscar A. Marcos&#8208;Contreras, Jacob W. Myerson, Christopher A. Hunter, Dennis E. Discher, Peter J. Gaskill, Andrew Tsourkas, Vladimir R. Muzykantov, Igor E. Brodsky, Sunny Shin, Kathryn A. Whitehead, Hamideh Parhiz, Jeremy Katzen, Jonathan J. Miner, Dirk Trauner, Jacob S. Brenner</author>
       <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41565-025-01974-5</guid>
+    </item>
+    <item>
+      <title>Marangoni Instability Driven by Adsorption and Association of Oppositely Charged Surfactants at an Oil&#8211;Water Interface</title>
+      <link>https://doi.org/10.1021/acs.iecr.5c01065</link>
+      <description>Brian E. McKenzie, Hayley B. Kilgore, Hongni Teng, Stephen Garoff, Aditya S. Khair, Robert D. Tilton, Industrial &amp; Engineering Chemistry Research. 64(30)] 2025. https://openalex.org/W4413114322
+
+                No abstract</description>
+      <author>Brian E. McKenzie, Hayley B. Kilgore, Hongni Teng, Stephen Garoff, Aditya S. Khair, Robert D. Tilton</author>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.5c01065</guid>
     </item>
   </channel>
 </rss>

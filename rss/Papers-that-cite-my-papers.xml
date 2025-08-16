@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Aug 2025 01:46:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 01:41:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Engineering the built-in electric field in two-dimensional p-2H-MSiN3 (M = Cr, Mo, W) for optimized photocarrier dynamics and enhanced overall water splitting activity</title>
-      <link>https://doi.org/10.1016/j.fuel.2025.136468</link>
-      <description>Yanli Chang, Pucun Bai, Xueping Zhao, Xiaoming Cui, Fuel. 405(None)] 2025. https://openalex.org/W4413049265
-
-                No abstract</description>
-      <author>Yanli Chang, Pucun Bai, Xueping Zhao, Xiaoming Cui</author>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.136468</guid>
-    </item>
     <item>
       <title>Enhancing Activity and Stability of Ba0.5Sr0.5Co0.8Fe0.2O3-&#948; Cathode by Surface Engineering with SrCoO3-&#948; Nanoparticles in Protonic Ceramic Fuel Cells</title>
       <link>https://doi.org/10.1016/j.ceramint.2025.08.038</link>
@@ -56,6 +46,16 @@
       <author>Suthida Kaewsai, Valerio D&#8217;Elia</author>
       <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jorganchem.2025.123799</guid>
+    </item>
+    <item>
+      <title>Dynamic Metal&#8211;Support Interaction Dictates Cu Nanoparticle Sintering on Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Surfaces</title>
+      <link>https://doi.org/10.1021/acsnano.5c04622</link>
+      <description>Jiayan Xu, Shreeja Das, Amar Deep Pathak, A. K. Patra, Sharan Shetty, Detlef Hohl, Roberto Car, ACS Nano. None(None)] 2025. https://openalex.org/W4413054382
+
+                Nanoparticle sintering remains a critical challenge in heterogeneous catalysis. In this work, we present a unified deep potential (DP) model based on the Perdew-Burke-Ernzerhof approximation of density functional theory for Cu nanoparticles on three Al2O3 surfaces (&#947;-Al2O3(100), &#947;-Al2O3(110), and &#945;-Al2O3(0001)). Using DP-accelerated simulations, we reveal that the nanoparticle size-mobility relationship strongly depends on the supporting surface. The diffusion of nanoparticles on the two &#947;-Al2O3 surfaces is almost independent of the size of the nanoparticle, while the diffusion on &#945;-Al2O3(0001) decreases rapidly with increasing size. Interestingly, nanoparticles with fewer than 55 atoms diffuse several times faster on &#945;-Al2O3(0001) than on &#947;-Al2O3(100) at 800 K while expected to be more sluggish based on their larger binding energy at 0 K. The diffusion on &#945;-Al2O3(0001) is facilitated by dynamic metal-support interaction (MSI), where Al atoms move out of the surface plane to optimize contact with the nanoparticle and relax back to the plane as the nanoparticle moves away. In contrast, the MSI on &#947;-Al2O3(100) and on &#947;-Al2O3(110) is dominated by more stable and directional Cu-O bonds, consistent with the limited diffusion observed on these surfaces. Our extended MD simulations provide insight into the sintering processes, showing that the dispersity of the nanoparticles strongly influences the coalescence driven by nanoparticle diffusion. We observed that the coalescence of Cu13 nanoparticles on &#945;-Al2O3(0001) can occur in a short time (10 ns) at 800 K even with an initial internanoparticle distance increased to 3 nm, while the coalescence on the two &#947;-Al2O3 surfaces are inhibited significantly by increasing the initial internanoparticle distance. These findings demonstrate that the dynamics of the supporting surface is crucial to understanding the sintering mechanism and offer guidance for designing sinter-resistant catalysts by engineering the support morphology.</description>
+      <author>Jiayan Xu, Shreeja Das, Amar Deep Pathak, A. K. Patra, Sharan Shetty, Detlef Hohl, Roberto Car</author>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.5c04622</guid>
     </item>
     <item>
       <title>Training a Machine Learned Potential on the Cerebras Wafer Scale Engine</title>
@@ -136,6 +136,16 @@
       <author>Matteo Cagnoni</author>
       <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1088/2515-7655/adf095</guid>
+    </item>
+    <item>
+      <title>Lattice-matched antiperovskite-perovskite system toward all-solid-state batteries</title>
+      <link>https://doi.org/10.1038/s41467-025-62860-1</link>
+      <description>Daisuke It&#244;, Naoaki Kuwata, Seiji Takemoto, Kazuhiro Kamiguchi, Gen Hasegawa, Kazunori Takada, Nature Communications. 16(1)] 2025. https://openalex.org/W4413094259
+
+                Inorganic solid electrolytes have emerged as promising candidates for realizing all-solid-state batteries because they eliminate flammable, low boiling-point liquids in lithium-ion battery cells, improving safety and cycle life. In this study, we present a highly lattice-matched composite solid electrolyte consisting of an antiperovskite-perovskite system, offering the benefits of both antiperovskites as melt-infiltratable solid electrolytes and perovskites as fast-ion conductors. Atomistic simulations predict significant lithium-ion diffusion at the interface between cubic Li2OHCl and Li0.31La0.56TiO3. The incorporation of fluorine enables room-temperature operation by stabilizing the high-temperature cubic phase of Li2OHCl1-xFx and reduces the lattice mismatch ratio to 0.8% at the interface through lattice contractions. The composite solid electrolyte was synthesized via pressure-assisted melt infiltration. The solid electrolyte effectively infiltrates conventional lithium-ion battery electrodes while maintaining a stable interface structure. Electrochemical testing demonstrates promising charge-discharge characteristics, including long cycle life and rate performance. Intricate infiltration of the solid electrolyte into an electrode structure composed of active materials with microcracks and high surface area enables stable operation by mitigating degradation phenomena typically observed in liquid electrolyte-based lithium-ion batteries. Lithium-ion batteries face safety and capacity limitations. Here, authors develop a composite solid electrolyte combining anti-perovskite and perovskite phases, enabling low-temperature processing and stable interfaces. This advance supports safer, high-performance all-solid-state batteries.</description>
+      <author>Daisuke It&#244;, Naoaki Kuwata, Seiji Takemoto, Kazuhiro Kamiguchi, Gen Hasegawa, Kazunori Takada</author>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-62860-1</guid>
     </item>
     <item>
       <title>Unveiling the catalytic versatility of transition metal-doped coal char systems for hydrogen evolution reaction: a first-principles approach</title>
@@ -226,6 +236,36 @@
       <author>Taiping Hu, Haichao Huang, Guobing Zhou, Xinyan Wang, Jiaxin Zhu, Zheng Cheng, Fangjia Fu, Xiaoxu Wang, Fu&#8208;Zhi Dai, Kuang Yu, Shenzhen Xu</author>
       <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-62824-5</guid>
+    </item>
+    <item>
+      <title>First-principles study of the electrocatalytic behavior of Hf&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si17.svg" display="inline" id="d1e433"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;4&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt;C&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si18.svg" display="inline" id="d1e441"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;3&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt; MXene</title>
+      <link>https://doi.org/10.1016/j.jpcs.2025.113070</link>
+      <description>Ouarda Azzi, Tarik Ouahrani, Chewki Ougherb, David Dell&#8217;Angelo, &#193;ngel Morales&#8208;Garc&#237;a, Micha&#235;l Badawi, Journal of Physics and Chemistry of Solids. 208(None)] 2025. https://openalex.org/W4413109650
+
+                No abstract</description>
+      <author>Ouarda Azzi, Tarik Ouahrani, Chewki Ougherb, David Dell&#8217;Angelo, &#193;ngel Morales&#8208;Garc&#237;a, Micha&#235;l Badawi</author>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jpcs.2025.113070</guid>
+    </item>
+    <item>
+      <title>Waste lead paste for high-capacity lead&#8211;lithium aqueous batteries: A new method to recover waste lead paste</title>
+      <link>https://doi.org/10.1016/j.nxmate.2025.101038</link>
+      <description>Chunxia Gong, Yosuke Amada, Hiroshi Sakurai, Manabu Takahashi, Kazuma Gotoh, Next Materials. 9(None)] 2025. https://openalex.org/W4413109782
+
+                No abstract</description>
+      <author>Chunxia Gong, Yosuke Amada, Hiroshi Sakurai, Manabu Takahashi, Kazuma Gotoh</author>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nxmate.2025.101038</guid>
+    </item>
+    <item>
+      <title>Density functional theory investigation of telluride materials for HER/ORR/OER multifunctional electrocatalysts</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.150812</link>
+      <description>F. Jia, Zhengrui Li, Xinran Li, Yikang Gu, Ping Li, International Journal of Hydrogen Energy. 166(None)] 2025. https://openalex.org/W4413114483
+
+                No abstract</description>
+      <author>F. Jia, Zhengrui Li, Xinran Li, Yikang Gu, Ping Li</author>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.150812</guid>
     </item>
   </channel>
 </rss>
