@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sat Aug 16 01:41:39 2025
+Created on Sun Aug 17 01:51:51 2025
 
-Found 26 results from 2025-08-09 to 2025-08-16
+Found 25 results from 2025-08-10 to 2025-08-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W1976900809](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W1976900809)
@@ -16,50 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
-
-## Enhancing Activity and Stability of Ba0.5Sr0.5Co0.8Fe0.2O3-δ Cathode by Surface Engineering with SrCoO3-δ Nanoparticles in Protonic Ceramic Fuel Cells   
-
-OpenAlex: https://openalex.org/W4413053103    
-Open access: False
-    
-[Chenxiao Wang](https://openalex.org/A5102987728), [Guangjun Zhang](https://openalex.org/A5110375089), [Qiang Xue](https://openalex.org/A5082129182), [Xiaoyu Zhang](https://openalex.org/A5100419445), [Ting Chen](https://openalex.org/A5100663544), [Lang Xu](https://openalex.org/A5101197692), [Shaorong Wang](https://openalex.org/A5103246302), Ceramics International. None(None)] 2025.https://doi.org/10.1016/j.ceramint.2025.08.038.
-    
-No abstract    
-
-    
-
-## Magnetic Field-Driven Interface Hydroxylation via the Vibrational Stark Effect Boosts Alkaline Hydrogen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4413052677    
-Open access: True
-    
-[Xiayan Yao](https://openalex.org/A5100817854), [Jianwei Guo](https://openalex.org/A5101643707), [Zhi Wang](https://openalex.org/A5100376424), [Guoyu Qian](https://openalex.org/A5103086308), [X.P. Wang](https://openalex.org/A5109788074), [Dong Wang](https://openalex.org/A5100391555), [Xuzhong Gong](https://openalex.org/A5035723991), JACS Au. None(None)] 2025.https://doi.org/10.1021/jacsau.5c00585 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/jacsau.5c00585?ref=article_openPDF)).
-    
-Tuning interfacial water structures is a fundamental yet underexplored strategy for advancing the hydrogen evolution reaction (HER) and broader electrocatalytic processes. Here, we demonstrate a universal and scalable catalytic optimization strategy via the magnetic field-driven reconfiguration of interfacial water at the molecular level. Unlike conventional magnetohydrodynamic (MHD) strategies focusing on mass transport, this work pioneers a molecular-level interfacial water structure modulation via the vibrational Stark effect (VSE), achieving intrinsic catalytic enhancement for HER. In situ Raman spectroscopy and molecular dynamics (MD) simulations reveal that the permanent magnetic field-induced amplification of the DDAA configuration population is governed by the VSE, leading to a restructured interfacial weak hydrogen bond (HB) network and enhanced charge transfer kinetics. As a result, under a 1 T permanent magnetic field and a controlled flow rate of 100 mL/min, the HER overpotential is reduced by 50 mV at 10 mA·cm–2, with stable performance sustained for over 10 h, a level of enhancement far exceeding previous magnetic field-assisted HER studies. Beyond HER, this strategy offers a generalizable approach for tuning interfacial water structures, which could be extended to other electrocatalytic reactions, where HB networks and interfacial water structuring play a critical role. As a result, the overpotential was reduced by 50 mV at 10 mA·cm–2, and a 15.40% increase in current density was achieved under industrial alkaline electrolysis conditions, demonstrating clear advantages over existing magnetic field-assisted HER strategies. This study provided a scalable, molecular-level catalytic interface engineering approach, offering valuable insights into advanced electrocatalytic processes and significant potential for industrial hydrogen production technologies.    
-
-    
-
-## Unveiling d-band synergy in anti-sandwich dual-atom catalysts for hydrogen evolution reaction: High-throughput DFT screening and machine learning insights   
-
-OpenAlex: https://openalex.org/W4413052776    
-Open access: False
-    
-[Wentao Liang](https://openalex.org/A5010311212), [Wenjun Xiao](https://openalex.org/A5101412949), [Linxing Meng](https://openalex.org/A5045722539), [Jinshun Bi](https://openalex.org/A5069723560), [Abuduwayiti Aierken](https://openalex.org/A5072051258), [Xiaofeng Rong](https://openalex.org/A5112748648), [Degui Wang](https://openalex.org/A5082240190), [Xuefei Liu](https://openalex.org/A5056992365), Applied Surface Science. None(None)] 2025.https://doi.org/10.1016/j.apsusc.2025.164256.
-    
-No abstract    
-
-    
-
-## Cycloaddition of CO2 to epoxides catalyzed by homogeneous metalorganic complexes under ambient conditions: an update   
-
-OpenAlex: https://openalex.org/W4413053188    
-Open access: False
-    
-[Suthida Kaewsai](https://openalex.org/A5093890858), [Valerio D’Elia](https://openalex.org/A5083748096), Journal of Organometallic Chemistry. None(None)] 2025.https://doi.org/10.1016/j.jorganchem.2025.123799.
-    
-No abstract    
-
-    
 
 ## Dynamic Metal–Support Interaction Dictates Cu Nanoparticle Sintering on Al2O3 Surfaces   
 
@@ -289,6 +245,39 @@ Open access: False
 [Chunxia Gong](https://openalex.org/A5101482843), [Yosuke Amada](https://openalex.org/A5093729085), [Hiroshi Sakurai](https://openalex.org/A5055827238), [Manabu Takahashi](https://openalex.org/A5101962090), [Kazuma Gotoh](https://openalex.org/A5024315487), Next Materials. 9(None)] 2025.https://doi.org/10.1016/j.nxmate.2025.101038.
     
 No abstract    
+
+    
+
+## Benchmarking CHGNet Universal Machine Learning Interatomic Potential against DFT and EXAFS: The Case of Layered WS2 and MoS2   
+
+OpenAlex: https://openalex.org/W4413111438    
+Open access: False
+    
+[Pjotrs Žguns](https://openalex.org/A5083164222), [Inga Pudza](https://openalex.org/A5027359101), [Alexei Kuzmin](https://openalex.org/A5037434691), Journal of Chemical Theory and Computation. None(None)] 2025.https://doi.org/10.1021/acs.jctc.5c00955.
+    
+Universal machine learning interatomic potentials (uMLIPs) deliver near ab initio accuracy in energy and force calculations at a low computational cost, making them invaluable for materials modeling. Although uMLIPs are pretrained on vast ab initio data sets, rigorous validation remains essential for their ongoing adoption. In this study, we use the CHGNet uMLIP to model thermal disorder in isostructural layered 2Hc-WS2 and 2Hc-MoS2, benchmarking it against ab initio data and extended X-ray absorption fine structure (EXAFS) spectra, which capture thermal variations in bond lengths and angles. Fine-tuning CHGNet with compound-specific ab initio (density functional theory (DFT)) data mitigates the systematic softening (i.e., force underestimation) typical of uMLIPs and simultaneously improves the alignment between molecular dynamics-derived and experimental EXAFS spectra. While fine-tuning with a single DFT structure is viable, using ∼100 structures is recommended to accurately reproduce EXAFS spectra and achieve DFT-level accuracy. Benchmarking the CHGNet uMLIP against both DFT and experimental EXAFS data reinforces confidence in its performance and provides guidance for determining optimal fine-tuning data set sizes.    
+
+    
+
+## Ligand-Mediated Tailoring of Self-Supported MnxOy@Ni(OH)2 Nanoheterostructures with Enhanced OER Performance   
+
+OpenAlex: https://openalex.org/W4413112253    
+Open access: False
+    
+[Jesús Chacón‐Borrero](https://openalex.org/A5041768328), [Sara Martí‐Sánchez](https://openalex.org/A5044247637), [Xuesong Zhang](https://openalex.org/A5107850233), [Xuan Lu](https://openalex.org/A5010101802), [Guillem Montaña‐Mora](https://openalex.org/A5002662409), [Qian Xue](https://openalex.org/A5101056074), [Armando Berlanga‐Vázquez](https://openalex.org/A5036146838), [Jordi Llorca](https://openalex.org/A5054674351), [María Chiara Spadaro](https://openalex.org/A5082611939), [Jordi Arbiol](https://openalex.org/A5012137737), [Xueqiang Qi](https://openalex.org/A5033779961), [Pablo Guardia](https://openalex.org/A5045239264), [Andreu Cabot](https://openalex.org/A5059565749), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.5c07315.
+    
+We report a colloidal synthesis strategy for producing MnxOy@Ni(OH)2 nanoheterostructures under mild conditions, i.e., low temperature and ambient pressure. The role of carboxylic acid ligands in directing the synthesis is systematically explored, revealing that lower ligand concentrations along with low-molecular weight molecules favor the formation of well-defined MnxOy@Ni(OH)2 heterostructures. Electrochemical characterization demonstrates that the resulting nanocomposites exhibit significantly enhanced electrochemical surface area and oxygen evolution reaction (OER) activity compared to their single-component counterparts. Specifically, MnxOy@Ni(OH)2 achieves a low overpotential of 299 mV at 10 mA cm–2, a Tafel slope of 61 mV dec–1, and a low charge transfer resistance of 9 Ω. The improved OER performance is attributed to the synergistic effect between the Ni(OH)2 nanosheets, which facilitate *OOH intermediate formation, and the MnO2 component, known for its intrinsic catalytic activity. Additionally, Mn3O4 serves as a stabilizing phase and precursor to MnO2, contributing to the overall durability and structural integrity of the catalyst.    
+
+    
+
+## Tailoring Multiple Coordination Environments of Cobalt‐Only Ladder Organic Framework for Bifunctional Oxygen Electrocatalysis   
+
+OpenAlex: https://openalex.org/W4413113618    
+Open access: False
+    
+[Zhen Zhang](https://openalex.org/A5100390167), [Shilong Wen](https://openalex.org/A5111233295), [J.G. Wang](https://openalex.org/A5059804872), [Xianglin Luo](https://openalex.org/A5100653355), [Xikui Liu](https://openalex.org/A5013295106), Small. None(None)] 2025.https://doi.org/10.1002/smll.202507615.
+    
+Abstract Developing efficient oxygen electrocatalysts is crucial for the progress of future energy conversion and storage systems. Herein, a fully conjugated ladder organic framework is designed with densely populated cobalt sites (HATN‐BiSalphen@KB). The molecular characteristics of the catalytic sites provide a trustworthy model for investigating the oxygen catalysis mechanism. Theoretical calculations combined with in situ ATR‐FTIR spectroscopy demonstrate that the electronic interaction of the Co 2 N 4 O 2 and CoN 2 Cl 2 sites shifts the d ‐band center of Co atoms, optimizing oxygen intermediate adsorption/desorption energetics and boosting bifunctional catalytic performance. Consequently, the catalyst exhibits exceptional bifunctional activity, achieving a remarkable oxygen reduction reaction (ORR) half‐wave potential of 0.983 V alongside a low oxygen evolution reaction (OER) overpotential of 310 mV at 10 mA cm −2 . In addition, the assembled rechargeable zinc‐air batteries demonstrate a high peak power density of 254.1 mW cm −2 and outstanding charge–discharge cycling stability for 450 h. This work provides valuable insights into designing advanced bifunctional oxygen electrocatalysts through atomic‐level modulation of the coordination environment.    
 
     
 

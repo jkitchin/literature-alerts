@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Aug 2025 01:41:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 01:51:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enhancing Activity and Stability of Ba0.5Sr0.5Co0.8Fe0.2O3-&#948; Cathode by Surface Engineering with SrCoO3-&#948; Nanoparticles in Protonic Ceramic Fuel Cells</title>
-      <link>https://doi.org/10.1016/j.ceramint.2025.08.038</link>
-      <description>Chenxiao Wang, Guangjun Zhang, Qiang Xue, Xiaoyu Zhang, Ting Chen, Lang Xu, Shaorong Wang, Ceramics International. None(None)] 2025. https://openalex.org/W4413053103
-
-                No abstract</description>
-      <author>Chenxiao Wang, Guangjun Zhang, Qiang Xue, Xiaoyu Zhang, Ting Chen, Lang Xu, Shaorong Wang</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ceramint.2025.08.038</guid>
-    </item>
-    <item>
-      <title>Magnetic Field-Driven Interface Hydroxylation via the Vibrational Stark Effect Boosts Alkaline Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/jacsau.5c00585</link>
-      <description>Xiayan Yao, Jianwei Guo, Zhi Wang, Guoyu Qian, X.P. Wang, Dong Wang, Xuzhong Gong, JACS Au. None(None)] 2025. https://openalex.org/W4413052677
-
-                Tuning interfacial water structures is a fundamental yet underexplored strategy for advancing the hydrogen evolution reaction (HER) and broader electrocatalytic processes. Here, we demonstrate a universal and scalable catalytic optimization strategy via the magnetic field-driven reconfiguration of interfacial water at the molecular level. Unlike conventional magnetohydrodynamic (MHD) strategies focusing on mass transport, this work pioneers a molecular-level interfacial water structure modulation via the vibrational Stark effect (VSE), achieving intrinsic catalytic enhancement for HER. In situ Raman spectroscopy and molecular dynamics (MD) simulations reveal that the permanent magnetic field-induced amplification of the DDAA configuration population is governed by the VSE, leading to a restructured interfacial weak hydrogen bond (HB) network and enhanced charge transfer kinetics. As a result, under a 1 T permanent magnetic field and a controlled flow rate of 100 mL/min, the HER overpotential is reduced by 50 mV at 10 mA&#183;cm&#8211;2, with stable performance sustained for over 10 h, a level of enhancement far exceeding previous magnetic field-assisted HER studies. Beyond HER, this strategy offers a generalizable approach for tuning interfacial water structures, which could be extended to other electrocatalytic reactions, where HB networks and interfacial water structuring play a critical role. As a result, the overpotential was reduced by 50 mV at 10 mA&#183;cm&#8211;2, and a 15.40% increase in current density was achieved under industrial alkaline electrolysis conditions, demonstrating clear advantages over existing magnetic field-assisted HER strategies. This study provided a scalable, molecular-level catalytic interface engineering approach, offering valuable insights into advanced electrocatalytic processes and significant potential for industrial hydrogen production technologies.</description>
-      <author>Xiayan Yao, Jianwei Guo, Zhi Wang, Guoyu Qian, X.P. Wang, Dong Wang, Xuzhong Gong</author>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacsau.5c00585</guid>
-    </item>
-    <item>
-      <title>Unveiling d-band synergy in anti-sandwich dual-atom catalysts for hydrogen evolution reaction: High-throughput DFT screening and machine learning insights</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.164256</link>
-      <description>Wentao Liang, Wenjun Xiao, Linxing Meng, Jinshun Bi, Abuduwayiti Aierken, Xiaofeng Rong, Degui Wang, Xuefei Liu, Applied Surface Science. None(None)] 2025. https://openalex.org/W4413052776
-
-                No abstract</description>
-      <author>Wentao Liang, Wenjun Xiao, Linxing Meng, Jinshun Bi, Abuduwayiti Aierken, Xiaofeng Rong, Degui Wang, Xuefei Liu</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.164256</guid>
-    </item>
-    <item>
-      <title>Cycloaddition of CO2 to epoxides catalyzed by homogeneous metalorganic complexes under ambient conditions: an update</title>
-      <link>https://doi.org/10.1016/j.jorganchem.2025.123799</link>
-      <description>Suthida Kaewsai, Valerio D&#8217;Elia, Journal of Organometallic Chemistry. None(None)] 2025. https://openalex.org/W4413053188
-
-                No abstract</description>
-      <author>Suthida Kaewsai, Valerio D&#8217;Elia</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jorganchem.2025.123799</guid>
-    </item>
     <item>
       <title>Dynamic Metal&#8211;Support Interaction Dictates Cu Nanoparticle Sintering on Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Surfaces</title>
       <link>https://doi.org/10.1021/acsnano.5c04622</link>
@@ -256,6 +216,36 @@
       <author>Chunxia Gong, Yosuke Amada, Hiroshi Sakurai, Manabu Takahashi, Kazuma Gotoh</author>
       <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.nxmate.2025.101038</guid>
+    </item>
+    <item>
+      <title>Benchmarking CHGNet Universal Machine Learning Interatomic Potential against DFT and EXAFS: The Case of Layered WS&lt;sub&gt;2&lt;/sub&gt; and MoS&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acs.jctc.5c00955</link>
+      <description>Pjotrs &#381;guns, Inga Pudza, Alexei Kuzmin, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4413111438
+
+                Universal machine learning interatomic potentials (uMLIPs) deliver near ab initio accuracy in energy and force calculations at a low computational cost, making them invaluable for materials modeling. Although uMLIPs are pretrained on vast ab initio data sets, rigorous validation remains essential for their ongoing adoption. In this study, we use the CHGNet uMLIP to model thermal disorder in isostructural layered 2Hc-WS2 and 2Hc-MoS2, benchmarking it against ab initio data and extended X-ray absorption fine structure (EXAFS) spectra, which capture thermal variations in bond lengths and angles. Fine-tuning CHGNet with compound-specific ab initio (density functional theory (DFT)) data mitigates the systematic softening (i.e., force underestimation) typical of uMLIPs and simultaneously improves the alignment between molecular dynamics-derived and experimental EXAFS spectra. While fine-tuning with a single DFT structure is viable, using &#8764;100 structures is recommended to accurately reproduce EXAFS spectra and achieve DFT-level accuracy. Benchmarking the CHGNet uMLIP against both DFT and experimental EXAFS data reinforces confidence in its performance and provides guidance for determining optimal fine-tuning data set sizes.</description>
+      <author>Pjotrs &#381;guns, Inga Pudza, Alexei Kuzmin</author>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c00955</guid>
+    </item>
+    <item>
+      <title>Ligand-Mediated Tailoring of Self-Supported Mn&lt;sub&gt;&lt;b&gt;&lt;i&gt;x&lt;/i&gt;&lt;/b&gt;&lt;/sub&gt;O&lt;sub&gt;&lt;b&gt;&lt;i&gt;y&lt;/i&gt;&lt;/b&gt;&lt;/sub&gt;@Ni(OH)&lt;sub&gt;&lt;b&gt;2&lt;/b&gt;&lt;/sub&gt; Nanoheterostructures with Enhanced OER Performance</title>
+      <link>https://doi.org/10.1021/acsami.5c07315</link>
+      <description>Jes&#250;s Chac&#243;n&#8208;Borrero, Sara Mart&#237;&#8208;S&#225;nchez, Xuesong Zhang, Xuan Lu, Guillem Monta&#241;a&#8208;Mora, Qian Xue, Armando Berlanga&#8208;V&#225;zquez, Jordi Llorca, Mar&#237;a Chiara Spadaro, Jordi Arbiol, Xueqiang Qi, Pablo Guardia, Andreu Cabot, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4413112253
+
+                We report a colloidal synthesis strategy for producing MnxOy@Ni(OH)2 nanoheterostructures under mild conditions, i.e., low temperature and ambient pressure. The role of carboxylic acid ligands in directing the synthesis is systematically explored, revealing that lower ligand concentrations along with low-molecular weight molecules favor the formation of well-defined MnxOy@Ni(OH)2 heterostructures. Electrochemical characterization demonstrates that the resulting nanocomposites exhibit significantly enhanced electrochemical surface area and oxygen evolution reaction (OER) activity compared to their single-component counterparts. Specifically, MnxOy@Ni(OH)2 achieves a low overpotential of 299 mV at 10 mA cm&#8211;2, a Tafel slope of 61 mV dec&#8211;1, and a low charge transfer resistance of 9 &#937;. The improved OER performance is attributed to the synergistic effect between the Ni(OH)2 nanosheets, which facilitate *OOH intermediate formation, and the MnO2 component, known for its intrinsic catalytic activity. Additionally, Mn3O4 serves as a stabilizing phase and precursor to MnO2, contributing to the overall durability and structural integrity of the catalyst.</description>
+      <author>Jes&#250;s Chac&#243;n&#8208;Borrero, Sara Mart&#237;&#8208;S&#225;nchez, Xuesong Zhang, Xuan Lu, Guillem Monta&#241;a&#8208;Mora, Qian Xue, Armando Berlanga&#8208;V&#225;zquez, Jordi Llorca, Mar&#237;a Chiara Spadaro, Jordi Arbiol, Xueqiang Qi, Pablo Guardia, Andreu Cabot</author>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c07315</guid>
+    </item>
+    <item>
+      <title>Tailoring Multiple Coordination Environments of Cobalt&#8208;Only Ladder Organic Framework for Bifunctional Oxygen Electrocatalysis</title>
+      <link>https://doi.org/10.1002/smll.202507615</link>
+      <description>Zhen Zhang, Shilong Wen, J.G. Wang, Xianglin Luo, Xikui Liu, Small. None(None)] 2025. https://openalex.org/W4413113618
+
+                Abstract Developing efficient oxygen electrocatalysts is crucial for the progress of future energy conversion and storage systems. Herein, a fully conjugated ladder organic framework is designed with densely populated cobalt sites (HATN&#8208;BiSalphen@KB). The molecular characteristics of the catalytic sites provide a trustworthy model for investigating the oxygen catalysis mechanism. Theoretical calculations combined with in situ ATR&#8208;FTIR spectroscopy demonstrate that the electronic interaction of the Co 2 N 4 O 2 and CoN 2 Cl 2 sites shifts the d &#8208;band center of Co atoms, optimizing oxygen intermediate adsorption/desorption energetics and boosting bifunctional catalytic performance. Consequently, the catalyst exhibits exceptional bifunctional activity, achieving a remarkable oxygen reduction reaction (ORR) half&#8208;wave potential of 0.983 V alongside a low oxygen evolution reaction (OER) overpotential of 310 mV at 10 mA cm &#8722;2 . In addition, the assembled rechargeable zinc&#8208;air batteries demonstrate a high peak power density of 254.1 mW cm &#8722;2 and outstanding charge&#8211;discharge cycling stability for 450 h. This work provides valuable insights into designing advanced bifunctional oxygen electrocatalysts through atomic&#8208;level modulation of the coordination environment.</description>
+      <author>Zhen Zhang, Shilong Wen, J.G. Wang, Xianglin Luo, Xikui Liu</author>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202507615</guid>
     </item>
     <item>
       <title>Density functional theory investigation of telluride materials for HER/ORR/OER multifunctional electrocatalysts</title>
