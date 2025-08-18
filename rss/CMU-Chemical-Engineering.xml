@@ -4,23 +4,23 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 01:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 01:52:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>In Vitro Monitoring of Babesia microti Infection Dynamics in Whole Blood Microenvironments.</title>
+      <title>In Vitro Monitoring of &lt;i&gt;Babesia microti&lt;/i&gt; Infection Dynamics in Whole Blood Microenvironments</title>
       <link>https://doi.org/10.1002/advs.202508185</link>
-      <description>Chao Li, Emily G. Bache, Amy L. Apgar, Danielle M. Tufts, Tagbo H. R. Niepa, PubMed. None(None)] 2025. https://openalex.org/W4413101820
+      <description>Chao Li, Emily G. Bache, Amy L. Apgar, Danielle M. Tufts, Tagbo H. R. Niepa, Advanced Science. None(None)] 2025. https://openalex.org/W4413101820
 
-                Babesiosis - a globally emerging tick-borne infectious disease primarily caused by the intraerythrocytic piroplasm parasite, Babesia microti - has traditionally been studied using animal models such as mice. Compared to animal models, microfluidic-based models offer advantages, including direct analysis of human samples (such as patient blood), enhanced assay capacity (including physical/optical access, consistency, and throughput), low costs, and easy adoption. Here, an open microfluidic platform named "&#181;-Blood" is reported for real-time continuous monitoring B. microti infection dynamics in vitro. Compared to other microfluidic-based models, &#181;-Blood allows direct examination of infected and uninfected whole blood without preprocessing steps like blood dilution or cell isolation, minimizing observer artifacts and preserving the natural whole blood microenvironment. The system enables extended (72 h) monitoring of infection dynamics, including parasite identification, parasitemia measurement, and parasite-host cell interactions, using label-free phase contrast and fluorescence confocal microscopy. With its open microfluidic configuration, &#181;-Blood provides an in vitro model for studying blood-borne infection dynamics while maintaining integrity of the whole blood microenvironment.</description>
+                Abstract Babesiosis &#8211; a globally emerging tick&#8208;borne infectious disease primarily caused by the intraerythrocytic piroplasm parasite, Babesia microti &#8211; has traditionally been studied using animal models such as mice. Compared to animal models, microfluidic&#8208;based models offer advantages, including direct analysis of human samples (such as patient blood), enhanced assay capacity (including physical/optical access, consistency, and throughput), low costs, and easy adoption. Here, an open microfluidic platform named &#8220;&#181;&#8208;Blood&#8221; is reported for real&#8208;time continuous monitoring B. microti infection dynamics in vitro. Compared to other microfluidic&#8208;based models, &#181;&#8208;Blood allows direct examination of infected and uninfected whole blood without preprocessing steps like blood dilution or cell isolation, minimizing observer artifacts and preserving the natural whole blood microenvironment. The system enables extended (72 h) monitoring of infection dynamics, including parasite identification, parasitemia measurement, and parasite&#8211;host cell interactions, using label&#8208;free phase contrast and fluorescence confocal microscopy. With its open microfluidic configuration, &#181;&#8208;Blood provides an in vitro model for studying blood&#8208;borne infection dynamics while maintaining integrity of the whole blood microenvironment.</description>
       <author>Chao Li, Emily G. Bache, Amy L. Apgar, Danielle M. Tufts, Tagbo H. R. Niepa</author>
       <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/advs.202508185</guid>
     </item>
     <item>
-      <title>Limiting endosomal damage sensing reduces inflammation triggered by lipid nanoparticle endosomal escape.</title>
+      <title>Limiting endosomal damage sensing reduces inflammation triggered by lipid nanoparticle endosomal escape</title>
       <link>https://doi.org/10.1038/s41565-025-01974-5</link>
-      <description>Serena Omo&#8208;Lamai, Yufei Wang, Manthan N. Patel, Aleksa Milosavljevic, Daniel W. Zuschlag, Subhajit Poddar, Jichuan Wu, Liuqian Wang, Fengyi Dong, Carolann Espy, Aparajeeta Majumder, Eno&#8208;Obong Essien, Mengwen Shen, Breana Channer, Tyler E. Papp, Michael P. Tobin, Rhea Maheshwari, So Yeon Jeong, Sulabh Patel, Anit Shah, Shruthi Murali, Liam S. Chase, Marco E. Zamora, Mariah L. Arral, Oscar A. Marcos&#8208;Contreras, Jacob W. Myerson, Christopher A. Hunter, Dennis E. Discher, Peter J. Gaskill, Andrew Tsourkas, Vladimir R. Muzykantov, Igor E. Brodsky, Sunny Shin, Kathryn A. Whitehead, Hamideh Parhiz, Jeremy Katzen, Jonathan J. Miner, Dirk Trauner, Jacob S. Brenner, PubMed. None(None)] 2025. https://openalex.org/W4413109062
+      <description>Serena Omo&#8208;Lamai, Yufei Wang, Manthan N. Patel, Aleksa Milosavljevic, Daniel W. Zuschlag, Subhajit Poddar, Jichuan Wu, Liuqian Wang, Fengyi Dong, Carolann Espy, Aparajeeta Majumder, Eno&#8208;Obong Essien, Mengwen Shen, Breana Channer, Tyler E. Papp, Michael P. Tobin, Rhea Maheshwari, So Yeon Jeong, Sulabh Patel, Anit Shah, Shruthi Murali, Liam S. Chase, Marco E. Zamora, Mariah L. Arral, Oscar A. Marcos&#8208;Contreras, Jacob W. Myerson, Christopher A. Hunter, Dennis E. Discher, Peter J. Gaskill, Andrew Tsourkas, Vladimir R. Muzykantov, Igor E. Brodsky, Sunny Shin, Kathryn A. Whitehead, Hamideh Parhiz, Jeremy Katzen, Jonathan J. Miner, Dirk Trauner, Jacob S. Brenner, Nature Nanotechnology. None(None)] 2025. https://openalex.org/W4413109062
 
                 No abstract</description>
       <author>Serena Omo&#8208;Lamai, Yufei Wang, Manthan N. Patel, Aleksa Milosavljevic, Daniel W. Zuschlag, Subhajit Poddar, Jichuan Wu, Liuqian Wang, Fengyi Dong, Carolann Espy, Aparajeeta Majumder, Eno&#8208;Obong Essien, Mengwen Shen, Breana Channer, Tyler E. Papp, Michael P. Tobin, Rhea Maheshwari, So Yeon Jeong, Sulabh Patel, Anit Shah, Shruthi Murali, Liam S. Chase, Marco E. Zamora, Mariah L. Arral, Oscar A. Marcos&#8208;Contreras, Jacob W. Myerson, Christopher A. Hunter, Dennis E. Discher, Peter J. Gaskill, Andrew Tsourkas, Vladimir R. Muzykantov, Igor E. Brodsky, Sunny Shin, Kathryn A. Whitehead, Hamideh Parhiz, Jeremy Katzen, Jonathan J. Miner, Dirk Trauner, Jacob S. Brenner</author>
@@ -36,6 +36,26 @@
       <author>Brian E. McKenzie, Hayley B. Kilgore, Hongni Teng, Stephen Garoff, Aditya S. Khair, Robert D. Tilton</author>
       <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.5c01065</guid>
+    </item>
+    <item>
+      <title>Comparison of oxidation products generated from the reaction of &#945;-pinene with hydroxyl radicals, chlorine atoms, and bromine atoms measured using ammonium adduct chemical ionization mass spectrometry</title>
+      <link>https://doi.org/10.26434/chemrxiv-2025-cpdrt</link>
+      <description>Andrew T. Lambe, Jordan Krechmer, Anita M. Avery, Mitchell W. Alton, Neil M. Donahue, Manjula R. Canagaratna, No host. None(None)] 2025. https://openalex.org/W4413187043
+
+                Halogen atoms play important but undercharacterized roles in atmospheric oxidation chemistry. Here, we report laboratory measurements of gas- and condensed-phase products formed from the oxidation of &#945;-pinene by hydroxyl radicals (OH), chlorine atoms (Cl), and bromine atoms (Br) in an oxidation flow reactor (OFR). Products were detected using a Vocus proton-transfer time-of-flight reaction mass spectrometer (PTR-ToF-MS) operated with low-pressure ammonium adduct (NH4+) ionization and a Vaporization Inlet for Aerosols (VIA). We applied Positive Matrix Factorization (PMF) to classify precursor and product ions into early and later-generation oxidation products. While some common products were observed across all oxidants, significant compositional differences were also apparent. Vocus:VIA signal ratios were used to estimate volatility trends, revealing that more highly oxygenated compounds and many halogenated products contributed to SOA formation. Cl and Br oxidation led to the formation of oxygenated volatile organic compounds (OVOCs) and secondary organic aerosol (SOA), which retained halogen atoms, with Br-derived products exhibiting the lowest carbon oxidation state and the highest halogen retention. Halogenated oxidation products were less volatile than their non-halogenated counterparts. Photochemical modeling suggests that the fates of organic peroxy radicals (RO2) were primarily influenced by RO2 + HO2 reactions for &#945;-pinene/OH, RO2 + Cl, RO2 + HO2, and potentially RO2 isomerization/autooxidation reactions for &#945;-pinene/Cl, and RO2 + Br reactions for &#945;-pinene/Br.</description>
+      <author>Andrew T. Lambe, Jordan Krechmer, Anita M. Avery, Mitchell W. Alton, Neil M. Donahue, Manjula R. Canagaratna</author>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2025-cpdrt</guid>
+    </item>
+    <item>
+      <title>Rethinking Environmental Boundaries for Contaminants of Emerging Concern</title>
+      <link>https://doi.org/10.1016/j.atmosenv.2025.121492</link>
+      <description>Ivan Kourtchev, Max R. McGillen, John Wenger, Neil M. Donahue, Atmospheric Environment. None(None)] 2025. https://openalex.org/W4413209924
+
+                No abstract</description>
+      <author>Ivan Kourtchev, Max R. McGillen, John Wenger, Neil M. Donahue</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.atmosenv.2025.121492</guid>
     </item>
   </channel>
 </rss>
