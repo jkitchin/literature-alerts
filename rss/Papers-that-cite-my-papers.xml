@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Aug 2025 01:52:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 01:40:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Literature-Based Machine Learning Framework for Yield Prediction in Cyclohexene Epoxidation: Toward a Digital Catalyst Concept</title>
-      <link>https://doi.org/10.2139/ssrn.5355788</link>
-      <description>Alfonso Enrique Ram&#237;rez Sanabria, Fabian Ramirez, Juli&#225;n Mu&#241;oz-Ord&#243;&#241;ez, Cristian Mu&#241;oz, Nelson J. Castellanos, No host. None(None)] 2025. https://openalex.org/W4413075752
-
-                No abstract</description>
-      <author>Alfonso Enrique Ram&#237;rez Sanabria, Fabian Ramirez, Juli&#225;n Mu&#241;oz-Ord&#243;&#241;ez, Cristian Mu&#241;oz, Nelson J. Castellanos</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5355788</guid>
-    </item>
-    <item>
-      <title>Core&#8208;Shell Structured V&#8208;Doped CoPx@FeOOH for Efficient Seawater Electrolysis</title>
-      <link>https://doi.org/10.1002/cctc.202500850</link>
-      <description>Gai Li, Yanhui Yu, Chongtai Wang, Daoxiong Wu, Yingjie Hua, Peng Rao, Xinlong Tian, Jing Li, ChemCatChem. None(None)] 2025. https://openalex.org/W4413078233
-
-                Abstract As a renewable energy conversion method, the hydrogen from seawater electrolysis needs to overcome problems such as chlorination reaction and corrosion resistance. Considering these questions, it is vital to design a highly efficient and corrosion&#8208;resistant catalyst. Here, we developed a vanadium&#8208;doped cobalt phosphide encapsulated within an iron oxyhydroxide shell (V&#8208;CoPx@FeOOH) as an efficient core&#8208;shell electrocatalyst for the oxygen evolution reaction (OER) in seawater electrolytes. In particular, the OER overpotential of the V&#8208;CoPx@FeOOH catalyst at 100 mA cm &#8722;2 was 270 mV. Notably, V&#8208;CoPx||V&#8208;CoPx@FeOOH was able to operate in alkaline seawater at 500 mA cm &#8722;2 for more than 1000 h, showing excellent stability. Density functional theory (DFT) calculations indicate that the enhanced HER activity is attributed to the introduction of V, which strengthens the bonding between Co sites and H atoms, and the optimized OER activity results from the presence of both V and Fe, which together optimize the bonding strength between Co sites and OOH intermediates. The highly efficient catalyst of the core&#8208;shell structure has great prospects for overall water/seawater electrolysis.</description>
-      <author>Gai Li, Yanhui Yu, Chongtai Wang, Daoxiong Wu, Yingjie Hua, Peng Rao, Xinlong Tian, Jing Li</author>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202500850</guid>
-    </item>
-    <item>
-      <title>Sustainable H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Production via 2e&lt;sup&gt;&#8211;&lt;/sup&gt; ORR on Alkalinized Tubular C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt; from Melamine Waste Integrating with Fenton Wastewater Treatment</title>
-      <link>https://doi.org/10.1021/acssusresmgt.5c00228</link>
-      <description>Hongyu Song, Huijing Ma, Haifei Wang, Yichan Wen, Chengcheng Cai, Jiyi Sun, Xufang Qian, Yixin Zhao, ACS Sustainable Resource Management. None(None)] 2025. https://openalex.org/W4413084227
-
-                No abstract</description>
-      <author>Hongyu Song, Huijing Ma, Haifei Wang, Yichan Wen, Chengcheng Cai, Jiyi Sun, Xufang Qian, Yixin Zhao</author>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssusresmgt.5c00228</guid>
-    </item>
-    <item>
-      <title>Proton&#8208;Driven Multistage System Enables Selective Recovery of Gold and Palladium from Electronic Waste Leachate</title>
-      <link>https://doi.org/10.1002/eem2.70085</link>
-      <description>Ziwen Chang, Yingying Zhou, Penghui Shao, Liming Yang, Bo Li, Dewei Li, Lingrong Zeng, Yi Gong, Xubiao Luo, Shenglian Luo, Energy &amp; environment materials. None(None)] 2025. https://openalex.org/W4413084471
-
-                Selective extraction of precious metals from urban mines plays a crucial role in mitigating the risk of depletion of precious metal resources and reducing waste pollution. However, a major obstacle in precious metal extraction lies in the difficulty of distinguishing the subtle differences in the physicochemical characteristics between them, especially gold and palladium. Herein, a proton&#8208;driven separation system was presented for cascade recovery of gold and palladium from waste&#8208;printed circuit boards (W&#8208;PCBs) leachate using poly(amidoxime) (PAO) hydrogel. This exhibits an ultra&#8208;high capacity, extra&#8208;fast rate, and excellent selectivity for the extraction of Au(III) and Pd(II). Notably, the separation of Au(III) and Pd(II) can be achieved with high selectivity at pH = 0, resulting in a remarkable separation factor of k Au(III)/Pd(II) = 36.5. This was demonstrated to originate from the differential mechanism of PAO hydrogel for the capture of Au(III) and Pd(II) under proton&#8208;mediated conditions. Drawing inspiration from the mechanism, the proton&#8208;driven cascade recovery system demonstrates remarkable efficiency in sequentially recovering 99.92% of gold and 99.05% of palladium from W&#8208;PCBs acid leachate. This research opens up a strategy to precisely separate and recover precious metals from e&#8208;waste of urban mines.</description>
-      <author>Ziwen Chang, Yingying Zhou, Penghui Shao, Liming Yang, Bo Li, Dewei Li, Lingrong Zeng, Yi Gong, Xubiao Luo, Shenglian Luo</author>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/eem2.70085</guid>
-    </item>
-    <item>
-      <title>Advances and Outlook of Nickel&#8208;Based MOFs&#8211;LDHs Materials for Energy Conversion</title>
-      <link>https://doi.org/10.1002/adsu.202500483</link>
-      <description>Lincoln Einstein Kengne Fotso, Saad Mehmood, Vatsala Rani Jetti, Joydeep Dutta, Ujjwal Pal, Advanced Sustainable Systems. None(None)] 2025. https://openalex.org/W4413087547
-
-                Abstract This review focuses on the advances and outlook of integrated Ni&#8208;based MOFs (Metal&#8208;Organic Framework) and LDHs (Layered Double Hydroxides) photo(electro) catalysts, and addresses the pivotal gap in water splitting for sustainable energy generation application. MOFs and LDHs are two classes of materials with high potential for applications in photo(electro)catalytic water splitting reaction. However, challenges such as limited intrinsic activity, low electrical conductivity of a single material, lack of more exposed active sites, weak mass transport ability, and poor crystalline structure remain. State&#8208;of&#8208;the&#8208;art strategies including doping, the development of composites, nano&#8208;structuration are used to solve these issues. Machine learning and artificial intelligence&#8208;assisted advanced in situ characterization techniques are proposed as unavoidable tools to address these challenges and optimize the catalyst design. This review outlines the key parameters involved in the assessment of the electrocatalytic and photocatalytic performance of water&#8208;splitting catalysts. The importance of density functional theory in Ni&#8208;based MOFs and LDHs for electrocatalytic water splitting is emphasized. Details about the balance of high activity along with long&#8208;term stability as a crucial requirement for large&#8208;scale applications are provided. This review will propel the knowledge and know&#8208;how in using Ni&#8208;based MOFs/LDHs as electro(photo)catalysts for hydrogen (H 2 ) production, and guide the researchers in the field.</description>
-      <author>Lincoln Einstein Kengne Fotso, Saad Mehmood, Vatsala Rani Jetti, Joydeep Dutta, Ujjwal Pal</author>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adsu.202500483</guid>
-    </item>
-    <item>
-      <title>Computational screening of chalcogenides for intermediate band solar cells surpassing the Shockley-Queisser limit</title>
-      <link>https://doi.org/10.1088/2515-7655/adf095</link>
-      <description>Matteo Cagnoni, Journal of Physics Energy. 7(4)] 2025. https://openalex.org/W4413090529
-
-                Abstract Intermediate band solar cells offer a promising avenue to surpass the Shockley&#8211;Queisser limit of    &#8764;  30   %    that constrains conventional single-junction devices, with the potential to approach an efficiency limit of    &#8764;  45   %    in terrestrial environments by incorporating a metallic band within the valence-conduction gap. Yet, their practical realization is challenged by difficulties in developing suitable intermediate band (IB) materials. Current approaches, which involve adding inclusions or utilizing highly mismatched alloys, often degrade material quality or present significant technological hurdles. A possible solution that remains underexplored, is to identify crystalline materials that inherently possess an IB and fine-tune their properties. In this work, thousands of crystalline chalcogenides are analyzed using a detailed balance model to quantitatively evaluate their expected efficacy as IB materials. Notably, orthorhombic     VB   1     VIA   2     and     IA   4     VIA   6     compounds, such as     Ta   1     Se   2     and     Cs   4     S   6     , are projected to achieve maximum efficiencies exceeding 35%, that is, surpassing the Shockley&#8211;Queisser limit. The interplay of IB filling and chemical substitution on the properties of these systems is analyzed, to unravel the impact on performance. This study not only identifies new material candidates for IB solar cells, but also provides insights into efficiency-property relations, hence advancing the understanding of these systems.</description>
-      <author>Matteo Cagnoni</author>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1088/2515-7655/adf095</guid>
-    </item>
-    <item>
-      <title>Lattice-matched antiperovskite-perovskite system toward all-solid-state batteries</title>
-      <link>https://doi.org/10.1038/s41467-025-62860-1</link>
-      <description>Daisuke It&#244;, Naoaki Kuwata, Seiji Takemoto, Kazuhiro Kamiguchi, Gen Hasegawa, Kazunori Takada, Nature Communications. 16(1)] 2025. https://openalex.org/W4413094259
-
-                Inorganic solid electrolytes have emerged as promising candidates for realizing all-solid-state batteries because they eliminate flammable, low boiling-point liquids in lithium-ion battery cells, improving safety and cycle life. In this study, we present a highly lattice-matched composite solid electrolyte consisting of an antiperovskite-perovskite system, offering the benefits of both antiperovskites as melt-infiltratable solid electrolytes and perovskites as fast-ion conductors. Atomistic simulations predict significant lithium-ion diffusion at the interface between cubic Li2OHCl and Li0.31La0.56TiO3. The incorporation of fluorine enables room-temperature operation by stabilizing the high-temperature cubic phase of Li2OHCl1-xFx and reduces the lattice mismatch ratio to 0.8% at the interface through lattice contractions. The composite solid electrolyte was synthesized via pressure-assisted melt infiltration. The solid electrolyte effectively infiltrates conventional lithium-ion battery electrodes while maintaining a stable interface structure. Electrochemical testing demonstrates promising charge-discharge characteristics, including long cycle life and rate performance. Intricate infiltration of the solid electrolyte into an electrode structure composed of active materials with microcracks and high surface area enables stable operation by mitigating degradation phenomena typically observed in liquid electrolyte-based lithium-ion batteries. Lithium-ion batteries face safety and capacity limitations. Here, authors develop a composite solid electrolyte combining anti-perovskite and perovskite phases, enabling low-temperature processing and stable interfaces. This advance supports safer, high-performance all-solid-state batteries.</description>
-      <author>Daisuke It&#244;, Naoaki Kuwata, Seiji Takemoto, Kazuhiro Kamiguchi, Gen Hasegawa, Kazunori Takada</author>
-      <pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-62860-1</guid>
-    </item>
     <item>
       <title>Unveiling the catalytic versatility of transition metal-doped coal char systems for hydrogen evolution reaction: a first-principles approach</title>
       <link>https://doi.org/10.1016/j.chemphys.2025.112882</link>
