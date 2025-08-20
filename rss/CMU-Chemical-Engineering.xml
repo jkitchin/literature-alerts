@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Aug 2025 01:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 01:39:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>In Vitro Monitoring of &lt;i&gt;Babesia microti&lt;/i&gt; Infection Dynamics in Whole Blood Microenvironments</title>
-      <link>https://doi.org/10.1002/advs.202508185</link>
-      <description>Chao Li, Emily G. Bache, Amy L. Apgar, Danielle M. Tufts, Tagbo H. R. Niepa, Advanced Science. None(None)] 2025. https://openalex.org/W4413101820
-
-                Abstract Babesiosis &#8211; a globally emerging tick&#8208;borne infectious disease primarily caused by the intraerythrocytic piroplasm parasite, Babesia microti &#8211; has traditionally been studied using animal models such as mice. Compared to animal models, microfluidic&#8208;based models offer advantages, including direct analysis of human samples (such as patient blood), enhanced assay capacity (including physical/optical access, consistency, and throughput), low costs, and easy adoption. Here, an open microfluidic platform named &#8220;&#181;&#8208;Blood&#8221; is reported for real&#8208;time continuous monitoring B. microti infection dynamics in vitro. Compared to other microfluidic&#8208;based models, &#181;&#8208;Blood allows direct examination of infected and uninfected whole blood without preprocessing steps like blood dilution or cell isolation, minimizing observer artifacts and preserving the natural whole blood microenvironment. The system enables extended (72 h) monitoring of infection dynamics, including parasite identification, parasitemia measurement, and parasite&#8211;host cell interactions, using label&#8208;free phase contrast and fluorescence confocal microscopy. With its open microfluidic configuration, &#181;&#8208;Blood provides an in vitro model for studying blood&#8208;borne infection dynamics while maintaining integrity of the whole blood microenvironment.</description>
-      <author>Chao Li, Emily G. Bache, Amy L. Apgar, Danielle M. Tufts, Tagbo H. R. Niepa</author>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/advs.202508185</guid>
-    </item>
     <item>
       <title>Limiting endosomal damage sensing reduces inflammation triggered by lipid nanoparticle endosomal escape</title>
       <link>https://doi.org/10.1038/s41565-025-01974-5</link>
@@ -56,6 +46,16 @@
       <author>Ivan Kourtchev, Max R. McGillen, John Wenger, Neil M. Donahue</author>
       <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.atmosenv.2025.121492</guid>
+    </item>
+    <item>
+      <title>Assessing modifications to the Abdul-Razzak and Ghan aerosol activation parameterization (version ARG2000) to improve simulated aerosol&#8211;cloud radiative effects in the UK Met Office Unified Model (UM version 13.0)</title>
+      <link>https://doi.org/10.5194/gmd-18-4899-2025</link>
+      <description>Pratapaditya Ghosh, Katherine J. Evans, Daniel P. Grosvenor, Hyun&#8208;Gyu Kang, Salil Mahajan, Min Xu, Wei Zhang, Hamish Gordon, Geoscientific model development. 18(15)] 2025. https://openalex.org/W4413228393
+
+                Abstract. The representation of aerosol activation is a key source of uncertainty in global composition-climate model simulations of aerosol&#8211;cloud interactions. The Abdul-Razzak and Ghan (ARG) activation parameterization is used in several global and regional models that employ modal aerosol microphysics schemes. In this study, we investigate the ability of the ARG parameterization to reproduce simulations with a cloud parcel model and find its performance is sensitive to the geometric standard deviations (widths) of the lognormal aerosol modes. We recommend adjustments to three constant parameters in the ARG equations, which improve the performance of the parameterization for small mode widths and its ability to simulate activation in polluted conditions. For the accumulation mode width of 1.4 used in the Met Office Unified Model (UM), the modifications decrease the mean bias in the activated fraction of aerosols compared to a cloud parcel model from &#8722;6.6 % to +1.2 %. We implemented the improvements in the UM and compared simulated global cloud droplet concentrations with satellite observations. The simulated cloud radiative effect changes by &#8722;1.43 W m&#8722;2 (6 %) and aerosol indirect radiative forcing over the industrial period changes by &#8722;0.10 W m&#8722;2 (10 %).</description>
+      <author>Pratapaditya Ghosh, Katherine J. Evans, Daniel P. Grosvenor, Hyun&#8208;Gyu Kang, Salil Mahajan, Min Xu, Wei Zhang, Hamish Gordon</author>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/gmd-18-4899-2025</guid>
     </item>
   </channel>
 </rss>

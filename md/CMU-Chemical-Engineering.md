@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Aug 19 01:40:40 2025
+Created on Wed Aug 20 01:39:10 2025
 
-Found 5 results from 2025-08-12 to 2025-08-19
+Found 5 results from 2025-08-13 to 2025-08-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## In Vitro Monitoring of Babesia microti Infection Dynamics in Whole Blood Microenvironments   
-
-OpenAlex: https://openalex.org/W4413101820    
-Open access: True
-    
-[Chao Li](https://openalex.org/A5004641821), [Emily G. Bache](https://openalex.org/A5117533304), [Amy L. Apgar](https://openalex.org/A5117533305), [Danielle M. Tufts](https://openalex.org/A5089697602), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), Advanced Science. None(None)] 2025.https://doi.org/10.1002/advs.202508185.
-    
-Abstract Babesiosis – a globally emerging tick‐borne infectious disease primarily caused by the intraerythrocytic piroplasm parasite, Babesia microti – has traditionally been studied using animal models such as mice. Compared to animal models, microfluidic‐based models offer advantages, including direct analysis of human samples (such as patient blood), enhanced assay capacity (including physical/optical access, consistency, and throughput), low costs, and easy adoption. Here, an open microfluidic platform named “µ‐Blood” is reported for real‐time continuous monitoring B. microti infection dynamics in vitro. Compared to other microfluidic‐based models, µ‐Blood allows direct examination of infected and uninfected whole blood without preprocessing steps like blood dilution or cell isolation, minimizing observer artifacts and preserving the natural whole blood microenvironment. The system enables extended (72 h) monitoring of infection dynamics, including parasite identification, parasitemia measurement, and parasite–host cell interactions, using label‐free phase contrast and fluorescence confocal microscopy. With its open microfluidic configuration, µ‐Blood provides an in vitro model for studying blood‐borne infection dynamics while maintaining integrity of the whole blood microenvironment.    
-
-    
 
 ## Limiting endosomal damage sensing reduces inflammation triggered by lipid nanoparticle endosomal escape   
 
@@ -58,5 +47,16 @@ Open access: True
 [Ivan Kourtchev](https://openalex.org/A5029339098), [Max R. McGillen](https://openalex.org/A5043418348), [John Wenger](https://openalex.org/A5031616608), [Neil M. Donahue](https://openalex.org/A5041685684), Atmospheric Environment. None(None)] 2025.https://doi.org/10.1016/j.atmosenv.2025.121492.
     
 No abstract    
+
+    
+
+## Assessing modifications to the Abdul-Razzak and Ghan aerosol activation parameterization (version ARG2000) to improve simulated aerosol–cloud radiative effects in the UK Met Office Unified Model (UM version 13.0)   
+
+OpenAlex: https://openalex.org/W4413228393    
+Open access: True
+    
+[Pratapaditya Ghosh](https://openalex.org/A5005781295), [Katherine J. Evans](https://openalex.org/A5079659440), [Daniel P. Grosvenor](https://openalex.org/A5028113214), [Hyun‐Gyu Kang](https://openalex.org/A5015919898), [Salil Mahajan](https://openalex.org/A5023485909), [Min Xu](https://openalex.org/A5014558136), [Wei Zhang](https://openalex.org/A5100441591), [Hamish Gordon](https://openalex.org/A5086004922), Geoscientific model development. 18(15)] 2025.https://doi.org/10.5194/gmd-18-4899-2025.
+    
+Abstract. The representation of aerosol activation is a key source of uncertainty in global composition-climate model simulations of aerosol–cloud interactions. The Abdul-Razzak and Ghan (ARG) activation parameterization is used in several global and regional models that employ modal aerosol microphysics schemes. In this study, we investigate the ability of the ARG parameterization to reproduce simulations with a cloud parcel model and find its performance is sensitive to the geometric standard deviations (widths) of the lognormal aerosol modes. We recommend adjustments to three constant parameters in the ARG equations, which improve the performance of the parameterization for small mode widths and its ability to simulate activation in polluted conditions. For the accumulation mode width of 1.4 used in the Met Office Unified Model (UM), the modifications decrease the mean bias in the activated fraction of aerosols compared to a cloud parcel model from −6.6 % to +1.2 %. We implemented the improvements in the UM and compared simulated global cloud droplet concentrations with satellite observations. The simulated cloud radiative effect changes by −1.43 W m−2 (6 %) and aerosol indirect radiative forcing over the industrial period changes by −0.10 W m−2 (10 %).    
 
     
