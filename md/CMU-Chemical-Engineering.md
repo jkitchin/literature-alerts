@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Aug 20 01:39:10 2025
+Created on Thu Aug 21 01:38:28 2025
 
-Found 5 results from 2025-08-13 to 2025-08-20
+Found 4 results from 2025-08-14 to 2025-08-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Limiting endosomal damage sensing reduces inflammation triggered by lipid nanoparticle endosomal escape   
-
-OpenAlex: https://openalex.org/W4413109062    
-Open access: False
-    
-[Serena Omo‐Lamai](https://openalex.org/A5052806309), [Yufei Wang](https://openalex.org/A5100374832), [Manthan N. Patel](https://openalex.org/A5082931661), [Aleksa Milosavljevic](https://openalex.org/A5016048911), [Daniel W. Zuschlag](https://openalex.org/A5058384539), [Subhajit Poddar](https://openalex.org/A5038084641), [Jichuan Wu](https://openalex.org/A5090929458), [Liuqian Wang](https://openalex.org/A5066751872), [Fengyi Dong](https://openalex.org/A5114127404), [Carolann Espy](https://openalex.org/A5036716063), [Aparajeeta Majumder](https://openalex.org/A5113125621), [Eno‐Obong Essien](https://openalex.org/A5108960245), [Mengwen Shen](https://openalex.org/A5035872050), [Breana Channer](https://openalex.org/A5059058953), [Tyler E. Papp](https://openalex.org/A5013550272), [Michael P. Tobin](https://openalex.org/A5006205638), [Rhea Maheshwari](https://openalex.org/A5009609190), [So Yeon Jeong](https://openalex.org/A5101725602), [Sulabh Patel](https://openalex.org/A5076948205), [Anit Shah](https://openalex.org/A5086419977), [Shruthi Murali](https://openalex.org/A5068425814), [Liam S. Chase](https://openalex.org/A5069041138), [Marco E. Zamora](https://openalex.org/A5013737314), [Mariah L. Arral](https://openalex.org/A5049474410), [Oscar A. Marcos‐Contreras](https://openalex.org/A5074050540), [Jacob W. Myerson](https://openalex.org/A5067701831), [Christopher A. Hunter](https://openalex.org/A5003951398), [Dennis E. Discher](https://openalex.org/A5085597391), [Peter J. Gaskill](https://openalex.org/A5019253024), [Andrew Tsourkas](https://openalex.org/A5027596223), [Vladimir R. Muzykantov](https://openalex.org/A5022924802), [Igor E. Brodsky](https://openalex.org/A5028965776), [Sunny Shin](https://openalex.org/A5059475430), [Kathryn A. Whitehead](https://openalex.org/A5010666650), [Hamideh Parhiz](https://openalex.org/A5073034692), [Jeremy Katzen](https://openalex.org/A5006340629), [Jonathan J. Miner](https://openalex.org/A5002593635), [Dirk Trauner](https://openalex.org/A5042433434), [Jacob S. Brenner](https://openalex.org/A5019182775), Nature Nanotechnology. None(None)] 2025.https://doi.org/10.1038/s41565-025-01974-5.
-    
-No abstract    
-
-    
 
 ## Marangoni Instability Driven by Adsorption and Association of Oppositely Charged Surfactants at an Oil–Water Interface   
 
