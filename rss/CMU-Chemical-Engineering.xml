@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Aug 2025 01:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 01:27:53 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Marangoni Instability Driven by Adsorption and Association of Oppositely Charged Surfactants at an Oil&#8211;Water Interface</title>
-      <link>https://doi.org/10.1021/acs.iecr.5c01065</link>
-      <description>Brian E. McKenzie, Hayley B. Kilgore, Hongni Teng, Stephen Garoff, Aditya S. Khair, Robert D. Tilton, Industrial &amp; Engineering Chemistry Research. 64(30)] 2025. https://openalex.org/W4413114322
-
-                No abstract</description>
-      <author>Brian E. McKenzie, Hayley B. Kilgore, Hongni Teng, Stephen Garoff, Aditya S. Khair, Robert D. Tilton</author>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.5c01065</guid>
-    </item>
     <item>
       <title>Comparison of oxidation products generated from the reaction of &#945;-pinene with hydroxyl radicals, chlorine atoms, and bromine atoms measured using ammonium adduct chemical ionization mass spectrometry</title>
       <link>https://doi.org/10.26434/chemrxiv-2025-cpdrt</link>

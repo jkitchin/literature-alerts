@@ -4,129 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Aug 2025 01:38:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 01:28:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Density functional theory investigation of telluride materials for HER/ORR/OER multifunctional electrocatalysts</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.150812</link>
-      <description>F. Jia, Zhengrui Li, Xinran Li, Yikang Gu, Ping Li, International Journal of Hydrogen Energy. 166(None)] 2025. https://openalex.org/W4413114483
-
-                No abstract</description>
-      <author>F. Jia, Zhengrui Li, Xinran Li, Yikang Gu, Ping Li</author>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.150812</guid>
-    </item>
-    <item>
-      <title>Directly synthesized cobalt oxyhydroxide as an oxygen evolution catalyst in proton exchange membrane water electrolyzers</title>
-      <link>https://doi.org/10.1038/s41467-025-62744-4</link>
-      <description>Jinzhen Huang, Zheyu Zhang, Chiara Spezzati, Adam H. Clark, Natasha Hales, Nina S. Genz, Ni&#233;li Daff&#233;, Radim Skoup&#253;, Lorenz Gubler, Ivano E. Castelli, Thomas J. Schmidt, Emiliana Fabbri, Nature Communications. 16(1)] 2025. https://openalex.org/W4413116188
-
-                Abstract The limited choice of oxygen evolution reaction catalysts for proton exchange membrane water electrolyzers hinders their large-scale commercialization. Cobalt-based catalysts are promising candidates and usually undergo surface reconstruction into CoOOH-like structures. However, the directly synthesized CoOOH has not yet been investigated in acidic environments. Here, we show that the CoOOH is active across the whole pH range, while its redox features are pH dependent. Operando hard X-ray absorption spectroscopy characterizations show a pH-induced change in Co oxidation onset, but no change in the coverage of redox-active Co species before the oxygen evolution reaction. The pH-dependent catalytic performance is connected to the interfacial Co oxidative transformations under electrocatalytic conditions. By combining the kinetic isotope effect and the apparent activation energy with theoretical verification, we offer the mechanistic discussion of the possible reaction pathway for CoOOH. In addition, CoOOH demonstrates a stable cell potential of 100 mA cm &#8722;2 for 400 h in a proton exchange membrane water electrolyzer. These results shed light on both the fundamental electrochemical properties of CoOOH and its potential for practical device applications.</description>
-      <author>Jinzhen Huang, Zheyu Zhang, Chiara Spezzati, Adam H. Clark, Natasha Hales, Nina S. Genz, Ni&#233;li Daff&#233;, Radim Skoup&#253;, Lorenz Gubler, Ivano E. Castelli, Thomas J. Schmidt, Emiliana Fabbri</author>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-62744-4</guid>
-    </item>
-    <item>
-      <title>Tailoring metals, axial ligands, and carbon substrates in TMN4&#8211;graphene for direct seawater electrolysis: A synergistic approach using density functional theory and machine learning algorithms</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.138657</link>
-      <description>Weirong Miao, Qiuling Jiang, Xiuli Hou, Cheng Lin, Shize Liu, Ying Cheng, Ying Wang, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4413118500
-
-                No abstract</description>
-      <author>Weirong Miao, Qiuling Jiang, Xiuli Hou, Cheng Lin, Shize Liu, Ying Cheng, Ying Wang</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.138657</guid>
-    </item>
-    <item>
-      <title>Photocatalytic CO2 reduction to CH4 with near-unity selectivity over CsPbBr3 nanocrystals enabled by the synergetic effect between Au and PANI</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.164299</link>
-      <description>Ziquan Li, Fuwei Chen, Lin Zheng, Zhen Li, Yuan Liu, Qi Pang, Binbin Luo, Applied Surface Science. 713(None)] 2025. https://openalex.org/W4413118634
-
-                No abstract</description>
-      <author>Ziquan Li, Fuwei Chen, Lin Zheng, Zhen Li, Yuan Liu, Qi Pang, Binbin Luo</author>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.164299</guid>
-    </item>
-    <item>
-      <title>Single Fe atom substitutionally doped Janus MoSSe monolayer as a cost-effective electrocatalyst for CO2 reduction to HCOOH</title>
-      <link>https://doi.org/10.1016/j.chemphys.2025.112887</link>
-      <description>Yu-Pu He, Tian-Hao Guo, Ping Zhu, Jihua Zhang, Shao-Yi Wu, Chemical Physics. 599(None)] 2025. https://openalex.org/W4413119728
-
-                No abstract</description>
-      <author>Yu-Pu He, Tian-Hao Guo, Ping Zhu, Jihua Zhang, Shao-Yi Wu</author>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.chemphys.2025.112887</guid>
-    </item>
-    <item>
-      <title>Comprehensive screening of transition metal-C4N4 monolayers for optimized oxygen reduction catalysis</title>
-      <link>https://doi.org/10.1016/j.surfin.2025.107383</link>
-      <description>Hanqing Li, Jinlong Chen, Jueyi Ye, Yongzhi Wu, Li Ma, Keyuan Chen, Ju Rong, Zhaohua Liu, Xiaohua Yu, Surfaces and Interfaces. 72(None)] 2025. https://openalex.org/W4413119746
-
-                No abstract</description>
-      <author>Hanqing Li, Jinlong Chen, Jueyi Ye, Yongzhi Wu, Li Ma, Keyuan Chen, Ju Rong, Zhaohua Liu, Xiaohua Yu</author>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.107383</guid>
-    </item>
-    <item>
-      <title>Axial ligand engineering of MnN&#8324; single-atom catalysts for enhanced ORR and OER performance: A DFT study</title>
-      <link>https://doi.org/10.1016/j.comptc.2025.115421</link>
-      <description>Zeyu Wang, Lili Sun, Wolong Li, Junda Qin, Yongcun Li, Yong Wang, Computational and Theoretical Chemistry. 1253(None)] 2025. https://openalex.org/W4413119747
-
-                No abstract</description>
-      <author>Zeyu Wang, Lili Sun, Wolong Li, Junda Qin, Yongcun Li, Yong Wang</author>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2025.115421</guid>
-    </item>
-    <item>
-      <title>CO&#8322; reduction to C1 products on metal-free carbon nitride&#8211;modified HRG photocatalysts: insights from first-principles calculations</title>
-      <link>https://doi.org/10.1016/j.inoche.2025.115253</link>
-      <description>Abdulraheem K. Bello, Abdulaziz A. Al&#8208;Saadi, Inorganic Chemistry Communications. 181(None)] 2025. https://openalex.org/W4413119818
-
-                No abstract</description>
-      <author>Abdulraheem K. Bello, Abdulaziz A. Al&#8208;Saadi</author>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.inoche.2025.115253</guid>
-    </item>
-    <item>
-      <title>Design of single atom coupled nitrogen doped graphene/molybdenum sulfide interface significantly improves water splitting property</title>
-      <link>https://doi.org/10.1016/j.cej.2025.166979</link>
-      <description>Kai Chen, Sunny Yadav, Elisabetta Inico, Yonghua Cao, Giovanni Di Liberto, Vandung Dao, Periyayya Uthirakumar, Gianfranco Pacchioni, In&#8208;Hwan Lee, Chemical Engineering Journal. 521(None)] 2025. https://openalex.org/W4413121025
-
-                No abstract</description>
-      <author>Kai Chen, Sunny Yadav, Elisabetta Inico, Yonghua Cao, Giovanni Di Liberto, Vandung Dao, Periyayya Uthirakumar, Gianfranco Pacchioni, In&#8208;Hwan Lee</author>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.166979</guid>
-    </item>
-    <item>
-      <title>Enhancing the activity of the Oxygen Evolution Reaction via Single Transition Metal Atoms Embedded on BN/&#945;-In2Se3 Ferroelectric van der Waals Heterostructures</title>
-      <link>https://doi.org/10.1016/j.surfin.2025.107396</link>
-      <description>Zi-Qiang Deng, Xingchen Ding, B. Wang, Jing Xu, Rui Tan, Yulou Ouyang, Zhen&#8208;Kun Tang, Hui Zhang, Surfaces and Interfaces. None(None)] 2025. https://openalex.org/W4413122113
-
-                No abstract</description>
-      <author>Zi-Qiang Deng, Xingchen Ding, B. Wang, Jing Xu, Rui Tan, Yulou Ouyang, Zhen&#8208;Kun Tang, Hui Zhang</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.107396</guid>
-    </item>
-    <item>
-      <title>Durable MRuO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; direct seawater electrolysis enabled by the synergistic effect between p-block dopants and active site Ru</title>
-      <link>https://doi.org/10.1039/d5ta02836a</link>
-      <description>Lu Wang, Ying Wang, Kai Li, Zhijian Wu, Jing&#8208;yao Liu, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4413125422
-
-                Sustainable hydrogen production via durable direct seawater electrolysis enabled by the synergistic effect between p-block M and active site Ru.</description>
-      <author>Lu Wang, Ying Wang, Kai Li, Zhijian Wu, Jing&#8208;yao Liu</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5ta02836a</guid>
-    </item>
-    <item>
-      <title>A Smart Workflow for Performing the Electrochemical Evaluation of Fuel Cell Catalysts in a Precise Way with Ultra-High Reproducibility</title>
-      <link>https://doi.org/10.1021/acselectrochem.5c00245</link>
-      <description>Xinyu Wu, Liuhong Zhang, Deying Kong, Ping He, Tong Zhang, Chao Sun, ACS electrochemistry.. None(None)] 2025. https://openalex.org/W4413128627
-
-                The reproducibility of the rotating disk electrode (RDE) tests has been decisively limited by environmental and process variability in conventional manual sample preparation. To address this challenge, we present autoRDE-film, an automated platform that integrates force-controlled robotic polishing and process-controlled drop-coating to facilitate highly consistent RDE sample preparation. This mechanism reduces the standard deviation of the oxygen reduction reaction (ORR) limiting current from 0.7 mA cm&#8211;2 (traditional scheme) to 0.07 mA cm&#8211;2 and the standard deviation of the ORR half-wave potential (E1/2) from 0.038 to 0.004 V, ensuring exceptional batch-to-batch consistency. With the help of 480 RDE sample datasets generated by autoRDE-film, we have developed a ResNet-18-based deep learning model that correlates the film morphology with their electrochemical performance, enabling rapid quality classification with an accuracy of 96.3%. The combined workflow achieves a success rate of 90% for uniform coatings in batch preparations, far surpassing those of traditional approaches. By quantitatively controlling all preparation parameters, autoRDE-film establishes a universal and high-efficiency framework for evaluating ORR catalysts, which can be extended to the evaluation of fuel cell and water electrolysis catalysts and offers a transformative tool for AI-aided electrocatalyst optimization.</description>
-      <author>Xinyu Wu, Liuhong Zhang, Deying Kong, Ping He, Tong Zhang, Chao Sun</author>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acselectrochem.5c00245</guid>
-    </item>
     <item>
       <title>Unprecedented robustness of physics-informed atomic energy models at and beyond room temperature</title>
       <link>https://doi.org/10.21203/rs.3.rs-7048965/v1</link>
@@ -428,6 +308,16 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-62861-0</guid>
     </item>
     <item>
+      <title>Chemist: A Domain-Specific Language by Chemists for Chemists</title>
+      <link>https://doi.org/10.1021/acs.jpca.5c02993</link>
+      <description>Jonathan M. Waldrop, Wibe A. de Jong, Edward F. Valeev, Theresa L. Windus, Ryan M. Richard, The Journal of Physical Chemistry A. None(None)] 2025. https://openalex.org/W4413258154
+
+                Managing the complexity of quantum chemistry (QC) software is key to ensuring it remains accessible, maintainable, and reusable. Noticeably missing from the QC ecosystem are modules targeting bottleneck routines. Here we argue that this is likely due to the difficulty in defining interfaces for such modules. To that end, we introduce the open-source, publicly available Chemist library https://github.com/NWChemEx/Chemist. Chemist is a domain-specific language targeting the QC domain. Chemist has been developed focusing on performance and user-friendliness. Using Chemist, QC tasks are defined using familiar domain concepts such as molecules, wave functions, and operators. The domain objects are hierarchical to ensure a systematic encapsulation of information. Key features of Chemist include: extensibility, the ability to alias existing data, and the ability to succinctly define many common QC tasks. The usefulness of Chemist is demonstrated by discussing the interface of NWChemEx's Fock build module and by showcasing a proof-of-concept self-consistent field algorithm containing uncertainty propagation.</description>
+      <author>Jonathan M. Waldrop, Wibe A. de Jong, Edward F. Valeev, Theresa L. Windus, Ryan M. Richard</author>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.5c02993</guid>
+    </item>
+    <item>
       <title>Computing anharmonic infrared spectra of polycyclic aromatic hydrocarbons using machine learning molecular dynamics</title>
       <link>https://doi.org/10.1093/mnras/staf1156</link>
       <description>Xinghong Mai, Zhao Wang, Lijun Pan, Johannes Sch&#246;rghuber, P&#233;ter Kov&#225;cs, Jes&#250;s Carrete, Georg K. H. Madsen, Monthly Notices of the Royal Astronomical Society. 541(4)] 2025. https://openalex.org/W4413271010
@@ -706,16 +596,6 @@
       <author>Min&#8208;Ho Kim, Aditya Narayan Singh, Miran Ha, Wang&#8208;Geun Lee, Saeed Pourasad, Abhishek Meena, Haeseong Jang, Jeongwoo Seo, Jaehyun Park, Seok Ju Kang, Kyung&#8208;Wan Nam, Tae Joo Shin, Hyun&#8208;Wook Lee, Kwang S. Kim</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5397423</guid>
-    </item>
-    <item>
-      <title>Revealing the Role of the Electrical Double Layer in Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
-      <link>https://doi.org/10.1021/acscatal.5c03725</link>
-      <description>Alex J. King, Justin C. Bui, Adam Z. Weber, Alexis T. Bell, ACS Catalysis. None(None)] 2025. https://openalex.org/W4413120355
-
-                No abstract</description>
-      <author>Alex J. King, Justin C. Bui, Adam Z. Weber, Alexis T. Bell</author>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c03725</guid>
     </item>
   </channel>
 </rss>
