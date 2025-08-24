@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 23 Aug 2025 01:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 01:48:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -36,6 +36,16 @@
       <author>Pratapaditya Ghosh, Katherine J. Evans, Daniel P. Grosvenor, Hyun&#8208;Gyu Kang, Salil Mahajan, Min Xu, Wei Zhang, Hamish Gordon</author>
       <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5194/gmd-18-4899-2025</guid>
+    </item>
+    <item>
+      <title>New Insights into how Electrolyte pH affects the Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.26434/chemrxiv-2025-qg2sr</link>
+      <description>Jay T. Bender, Rohan Yuri Sanspeur, Nicolas Bueno Ponce, Angel E. Valles, Alyssa K. Uvodich, Delia J. Milliron, John R. Kitchin, Joaquin Resasco, No host. None(None)] 2025. https://openalex.org/W4413367859
+
+                Electrolyte pH is known to affect catalytic activity and selectivity for the oxygen reduction reaction (ORR). But a clear understanding of why ORR rates respond more strongly to pH over certain catalysts than others has not been developed. Here, we propose that pH effects on the ORR result from electric field induced changes in the binding energies of intermediates involved in kinetically relevant elementary steps. For strongly binding metals (Pt, Ir, Ru, Pd), whose rates are limited by the proton-coupled electron transfer (PCET) step to form *OOH or remove adsorbed OH (*OH), ORR rates are weakly affected by electrolyte pH. This behavior is observed because the binding energies of the reaction intermediates in these steps are minimally affected by electric field strength. The weak pH dependence is most pronounced for Pt, which shows essentially identical rates in acidic and alkaline electrolytes. For weakly binding metals (Au, Ag), whose rates are limited by non-PCET O2 adsorption, ORR rates increase significantly when moving from acidic to alkaline electrolytes. This strong pH dependence results from the stabilization of adsorbed O2 by the increasingly negative electric field present at the catalyst surface under alkaline conditions. We argue that modifying electrolyte pH does not change the rate-determining elementary step, but does decrease the apparent activation barrier for O2 adsorption over weakly binding catalysts. These arguments are substantiated by a combination of experimental kinetic studies and atomistic simulations.</description>
+      <author>Jay T. Bender, Rohan Yuri Sanspeur, Nicolas Bueno Ponce, Angel E. Valles, Alyssa K. Uvodich, Delia J. Milliron, John R. Kitchin, Joaquin Resasco</author>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2025-qg2sr</guid>
     </item>
   </channel>
 </rss>
