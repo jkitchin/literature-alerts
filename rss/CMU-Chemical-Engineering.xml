@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 Aug 2025 01:48:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 01:42:48 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Comparison of oxidation products generated from the reaction of &#945;-pinene with hydroxyl radicals, chlorine atoms, and bromine atoms measured using ammonium adduct chemical ionization mass spectrometry</title>
-      <link>https://doi.org/10.26434/chemrxiv-2025-cpdrt</link>
-      <description>Andrew T. Lambe, Jordan Krechmer, Anita M. Avery, Mitchell W. Alton, Neil M. Donahue, Manjula R. Canagaratna, No host. None(None)] 2025. https://openalex.org/W4413187043
-
-                Halogen atoms play important but undercharacterized roles in atmospheric oxidation chemistry. Here, we report laboratory measurements of gas- and condensed-phase products formed from the oxidation of &#945;-pinene by hydroxyl radicals (OH), chlorine atoms (Cl), and bromine atoms (Br) in an oxidation flow reactor (OFR). Products were detected using a Vocus proton-transfer time-of-flight reaction mass spectrometer (PTR-ToF-MS) operated with low-pressure ammonium adduct (NH4+) ionization and a Vaporization Inlet for Aerosols (VIA). We applied Positive Matrix Factorization (PMF) to classify precursor and product ions into early and later-generation oxidation products. While some common products were observed across all oxidants, significant compositional differences were also apparent. Vocus:VIA signal ratios were used to estimate volatility trends, revealing that more highly oxygenated compounds and many halogenated products contributed to SOA formation. Cl and Br oxidation led to the formation of oxygenated volatile organic compounds (OVOCs) and secondary organic aerosol (SOA), which retained halogen atoms, with Br-derived products exhibiting the lowest carbon oxidation state and the highest halogen retention. Halogenated oxidation products were less volatile than their non-halogenated counterparts. Photochemical modeling suggests that the fates of organic peroxy radicals (RO2) were primarily influenced by RO2 + HO2 reactions for &#945;-pinene/OH, RO2 + Cl, RO2 + HO2, and potentially RO2 isomerization/autooxidation reactions for &#945;-pinene/Cl, and RO2 + Br reactions for &#945;-pinene/Br.</description>
-      <author>Andrew T. Lambe, Jordan Krechmer, Anita M. Avery, Mitchell W. Alton, Neil M. Donahue, Manjula R. Canagaratna</author>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2025-cpdrt</guid>
-    </item>
-    <item>
-      <title>Rethinking Environmental Boundaries for Contaminants of Emerging Concern</title>
-      <link>https://doi.org/10.1016/j.atmosenv.2025.121492</link>
-      <description>Ivan Kourtchev, Max R. McGillen, John Wenger, Neil M. Donahue, Atmospheric Environment. None(None)] 2025. https://openalex.org/W4413209924
-
-                No abstract</description>
-      <author>Ivan Kourtchev, Max R. McGillen, John Wenger, Neil M. Donahue</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.atmosenv.2025.121492</guid>
-    </item>
-    <item>
-      <title>Assessing modifications to the Abdul-Razzak and Ghan aerosol activation parameterization (version ARG2000) to improve simulated aerosol&#8211;cloud radiative effects in the UK Met Office Unified Model (UM version 13.0)</title>
-      <link>https://doi.org/10.5194/gmd-18-4899-2025</link>
-      <description>Pratapaditya Ghosh, Katherine J. Evans, Daniel P. Grosvenor, Hyun&#8208;Gyu Kang, Salil Mahajan, Min Xu, Wei Zhang, Hamish Gordon, Geoscientific model development. 18(15)] 2025. https://openalex.org/W4413228393
-
-                Abstract. The representation of aerosol activation is a key source of uncertainty in global composition-climate model simulations of aerosol&#8211;cloud interactions. The Abdul-Razzak and Ghan (ARG) activation parameterization is used in several global and regional models that employ modal aerosol microphysics schemes. In this study, we investigate the ability of the ARG parameterization to reproduce simulations with a cloud parcel model and find its performance is sensitive to the geometric standard deviations (widths) of the lognormal aerosol modes. We recommend adjustments to three constant parameters in the ARG equations, which improve the performance of the parameterization for small mode widths and its ability to simulate activation in polluted conditions. For the accumulation mode width of 1.4 used in the Met Office Unified Model (UM), the modifications decrease the mean bias in the activated fraction of aerosols compared to a cloud parcel model from &#8722;6.6 % to +1.2 %. We implemented the improvements in the UM and compared simulated global cloud droplet concentrations with satellite observations. The simulated cloud radiative effect changes by &#8722;1.43 W m&#8722;2 (6 %) and aerosol indirect radiative forcing over the industrial period changes by &#8722;0.10 W m&#8722;2 (10 %).</description>
-      <author>Pratapaditya Ghosh, Katherine J. Evans, Daniel P. Grosvenor, Hyun&#8208;Gyu Kang, Salil Mahajan, Min Xu, Wei Zhang, Hamish Gordon</author>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/gmd-18-4899-2025</guid>
-    </item>
     <item>
       <title>New Insights into how Electrolyte pH affects the Oxygen Reduction Reaction</title>
       <link>https://doi.org/10.26434/chemrxiv-2025-qg2sr</link>
