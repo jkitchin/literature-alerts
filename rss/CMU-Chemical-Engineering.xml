@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 01:36:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 01:27:52 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Jay T. Bender, Rohan Yuri Sanspeur, Nicolas Bueno Ponce, Angel Valles, Alyssa Uvodich, Delia J. Milliron, John R. Kitchin, Joaquin Resasco</author>
       <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2025-qg2sr</guid>
+    </item>
+    <item>
+      <title>Trees are much better at creating clouds and cooling the climate than we thought</title>
+      <link>https://doi.org/10.64628/ab.fv9q7tsjc</link>
+      <description>Hamish Gordon, Catherine E. Scott, No host. None(None)] 2016. https://openalex.org/W4413666866
+
+                No abstract</description>
+      <author>Hamish Gordon, Catherine E. Scott</author>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.64628/ab.fv9q7tsjc</guid>
     </item>
   </channel>
 </rss>
