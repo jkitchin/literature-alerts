@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Aug 2025 01:28:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 01:36:06 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Mainstream and Sidestream Modeling in Oxygen Evolution Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acs.accounts.5c00439</link>
-      <description>Federico Calle&#8208;Vallejo, Accounts of Chemical Research. None(None)] 2025. https://openalex.org/W4413350643
-
-                No abstract</description>
-      <author>Federico Calle&#8208;Vallejo</author>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.accounts.5c00439</guid>
-    </item>
-    <item>
-      <title>Strain-engineered direct Z-scheme HfS2/Ga2SSe heterostructure for efficient full-range photocatalytic water splitting: A first-principles insight</title>
-      <link>https://doi.org/10.1016/j.mcat.2025.115434</link>
-      <description>Pan Kuang, Qingyi Feng, Bo Li, Peiyu Guo, Zhen Wang, Xia Xiang, Xiaotao Zu, Hongxiang Deng, Molecular Catalysis. 586(None)] 2025. https://openalex.org/W4413352771
-
-                No abstract</description>
-      <author>Pan Kuang, Qingyi Feng, Bo Li, Peiyu Guo, Zhen Wang, Xia Xiang, Xiaotao Zu, Hongxiang Deng</author>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2025.115434</guid>
-    </item>
-    <item>
-      <title>Site proximity effects in FeN4&#8211;embedded graphene on the oxygen reduction reaction</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.138759</link>
-      <description>Jiahang Li, Yizhe He, Benyuan Ma, Donghai Wu, Suhang Li, Chong Yan, Qinzhuang Liu, Zaiping Zeng, Dongwei Ma, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4413355223
-
-                No abstract</description>
-      <author>Jiahang Li, Yizhe He, Benyuan Ma, Donghai Wu, Suhang Li, Chong Yan, Qinzhuang Liu, Zaiping Zeng, Dongwei Ma</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.138759</guid>
-    </item>
-    <item>
-      <title>Gallium modulated tin oxide for continuous production of formic acid via durable acidic CO &lt;sub&gt;2&lt;/sub&gt; electroreduction</title>
-      <link>https://doi.org/10.1126/sciadv.adw7326</link>
-      <description>Bingquan Jia, Zhe Chen, Kaili Zhu, Weili Shi, Zhuang Hu, Tao Wang, Licheng Sun, Biaobiao Zhang, Science Advances. 11(34)] 2025. https://openalex.org/W4413362564
-
-                CO 2 reduction catalyst corrosion and H 2 evolution remain challenging under the strongly acidic electrolyte. Here, Ga-modulated SnO x was investigated to achieve a good Sn &#948;+ oxidation state stability for durable (&gt; 4000 hours) acidic CO 2 reduction to HCOOH. Under pH 1.7, catalysts achieved a partial current density of 440 mA cm &#8722;2 at &#8722;1.63 V RHE and the highest single-pass conversion efficiency (SPCE) of 91.9%. In a 10 cm 2 electrolyzer, a total current of ~986.3 milliampere is exhibited for more than 4000 hours with Faradaic efficiency of HCOOH (FE HCOOH ) higher than 82% and SPCE higher than 50%. Mechanism study indicates that lattice oxygen anchoring effect of Ga due to its strong oxygen affinity establishes a stable framework, reinforcing interface Sn&#9472;O bonds and protecting the Sn &#948;+ from the heavy self-reduction process. The robust structure of catalyst and modulated active Sn &#948;+ sites elevate the CO 2 reduction activity. The durable and highly efficient catalytic system exhibits the potential for industrial applications of the Ga-modulated SnO x .</description>
-      <author>Bingquan Jia, Zhe Chen, Kaili Zhu, Weili Shi, Zhuang Hu, Tao Wang, Licheng Sun, Biaobiao Zhang</author>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adw7326</guid>
-    </item>
-    <item>
-      <title>Accelerated Discovery of Refractory High-Entropy Alloys via Interpretable Machine Learning</title>
-      <link>https://doi.org/10.1021/acs.jpclett.5c01616</link>
-      <description>Jian Cao, Chang Liu, Zian Chen, Haichao Li, Lina Xu, Hong&#8208;Ping Xiao, Shun Wang, Xiao He, Guoyong Fang, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4413370596
-
-                Due to the outstanding thermal stability, inherent high melting points, and elevated temperature strengths, refractory high-entropy alloys (RHEAs) have been widely used for extreme environments in aerospace, nuclear energy, and advanced propulsion systems. Herein, we present an integrated design and simulation framework for RHEAs, combining machine learning potentials, supervised regression models, and multiobjective optimization algorithms. Utilizing a universal neuroevolution potential version 1 (UNEP-v1), the framework significantly enhances the accuracy of atomic-scale simulation while substantially reducing computational cost. High-throughput molecular dynamics simulations generate melting points and ultimate tensile strengths at 1000 K for various alloy compositions. Supervised regression models enable a rapid performance prediction. Integrating Shapley Additive exPlanations, Partial Dependence Plots, Accumulated Local Effects, and Individual Conditional Expectation analysis can provide a comprehensive interpretability toolkit. Validation of the proposed method in the TiVCrZrMo alloy system demonstrates its efficacy in designing high-strength, high-temperature resistant alloys. We not only develop a precise and interpretable predictive modeling paradigm but also establish procedural frameworks, promoting the integration of atomic-scale simulations with data-driven approaches for RHEAs in extreme environments.</description>
-      <author>Jian Cao, Chang Liu, Zian Chen, Haichao Li, Lina Xu, Hong&#8208;Ping Xiao, Shun Wang, Xiao He, Guoyong Fang</author>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c01616</guid>
-    </item>
-    <item>
-      <title>Advances in Atomic Iron Catalysts for Oxygen Electrocatalysis</title>
-      <link>https://doi.org/10.1002/adfm.202513188</link>
-      <description>Qiuyue Lu, Zhenl&#252; Wang, Jingqi Guan, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4413373235
-
-                Abstract The severe environmental issues triggered by the overuse of fossil energy have propelled the development of energy conversion and storage technologies. Oxygen electrocatalysis, including oxygen evolution reaction (OER) and oxygen reduction reaction (ORR), has attracted widespread attention as the key reaction of many energy devices. Increasing research has demonstrated the exceptional potential of atomic iron catalysts in oxygen electrocatalysis, offering promising prospects for advancing these technologies. Building upon an analysis of the mechanisms underlying oxygen electrocatalysis and integrating insights from characterization techniques and theoretical calculations, this paper systematically summarizes the strategies for regulating the electronic structure of atomic iron catalysts, including coordination environment, metal active center, and substrate modulation. Then, given that the stability of Fe&#8211;N&#8211;C catalysts remains a fundamental bottleneck hindering their development, optimization strategies including adjusting the Fe&#9472;N bond length, reducing H 2 O 2 attack, and improving the graphitization degree of the carrier are proposed. Furthermore, the applications in energy storage and conversion devices are reviewed. Finally, the future challenges and opportunities for atomic iron catalysts are discussed, offering insights for the development of more advanced Fe&#8208;based catalysts.</description>
-      <author>Qiuyue Lu, Zhenl&#252; Wang, Jingqi Guan</author>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202513188</guid>
-    </item>
     <item>
       <title>Recent Advances in Improving the Alkaline Oxygen Reduction Performance of Atomically Dispersed Metal&#8211;Nitrogen&#8211;Carbon Catalysts</title>
       <link>https://doi.org/10.3390/nano15161257</link>
@@ -256,26 +196,6 @@
       <author>Stephan Pollitt, Thomas Haunold, Sakiat Hossain, Gereon Behrendt, Michael St&#246;ger&#8208;Pollach, Tokuhisa Kawawaki, Noelia Barrab&#233;s, Malte Behrens, Yuichi Negishi, G&#252;nther Rupprechter</author>
       <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c04165</guid>
-    </item>
-    <item>
-      <title>Bayesian learning-assisted catalyst discovery for efficient iridium utilization in electrochemical water splitting</title>
-      <link>https://doi.org/10.1126/sciadv.adw0894</link>
-      <description>Xiangfu Niu, Yanjun Chen, Mingze Sun, Satoshi Nagao, Yuki Aoki, Zhiqiang Niu, Liang Zhang, Science Advances. 11(34)] 2025. https://openalex.org/W4413362254
-
-                Reducing noble metal dependence in oxygen evolution reaction (OER) catalysts is essential for achieving sustainable and scalable green hydrogen production. Bimetallic oxides, with their potential for high catalytic performance and reduced noble metal content, represent promising alternatives to traditional IrO 2 -based OER catalysts. However, optimizing these materials remains challenging due to the complex interplay of elemental selection, composition, and chemical ordering. In this study, we integrate density functional theory (DFT) calculations with Bayesian learning to accelerate the discovery of high-performance, low-Ir bimetallic oxides, identifying surface Ir-doped TiO 2 as an optimal catalyst. Guided by theoretically optimized surface compositions and oxygen vacancies, we synthesized atomically dispersed Ir on TiO 2 , achieving a 23-fold increase in Ir mass-specific activity and a 115-millivolt reduction in overpotential compared to commercial IrO 2 . This work exemplifies a sustainable, data-driven pathway for electrocatalyst design that minimizes noble metal usage while maximizing efficiency, advancing scalable solutions in renewable energy and hydrogen production.</description>
-      <author>Xiangfu Niu, Yanjun Chen, Mingze Sun, Satoshi Nagao, Yuki Aoki, Zhiqiang Niu, Liang Zhang</author>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adw0894</guid>
-    </item>
-    <item>
-      <title>Structural and dielectric properties of BaTiO&lt;sub&gt;3&lt;/sub&gt; nanoparticles</title>
-      <link>https://doi.org/10.35848/1347-4065/adf564</link>
-      <description>Yuki Sakai, Yoshiki Iwazaki, Japanese Journal of Applied Physics. 64(8)] 2025. https://openalex.org/W4413376237
-
-                Abstract We construct and employ a machine-learning potential to perform molecular dynamics simulations on BaTiO 3 nanoparticles. The potential constructed in this study successfully reproduce rhombohedral, orthorhombic, tetragonal, and cubic phases observed in bulk BaTiO 3 at different simulation temperatures, as well as surface properties. We consider cubic-shaped and spherical nanoparticles to study how the shape and surface structures influence the structural and dielectric properties. Based on our analysis of the displacement vectors of titanium atoms relative to the surrounding oxygen atoms (corresponding to dipole moments), the surface structure strongly affects the order of the displacement vectors even near the center of the particle. A tetragonal-like order appears in cubic-shaped nanoparticles around a diameter of 11.6 nm while a similar order cannot be seen in an 18 nm spherical nanoparticle.</description>
-      <author>Yuki Sakai, Yoshiki Iwazaki</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.35848/1347-4065/adf564</guid>
     </item>
     <item>
       <title>Understanding Strain Effects on IrO&lt;sub&gt;2&lt;/sub&gt; for Oxygen Evolution Electrocatalysis</title>
