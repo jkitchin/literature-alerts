@@ -4,9 +4,29 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Aug 2025 01:35:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 01:23:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Evaluation of UKESM aerosol size and composition using ATom measurements indicates missing marine aerosol formation mechanisms</title>
+      <link>https://doi.org/10.5194/egusphere-2025-3700</link>
+      <description>Xu&#8208;Cheng He, Nathan Luke Abraham, Hanming Ding, M. R. Russo, Daniel P. Grosvenor, Yao Ge, Xuemei Wang, Anthony C. Jones, Pedro Campuzano&#8208;Jost, Benjamin A. Nault, Agnieszka Kupc, D. R. Blake, J. L. Jim&#233;nez, Christina Williamson, K. S. Carslaw, James Weber, A. T. Archibald, Hamish Gordon, No host. None(None)] 2025. https://openalex.org/W4413761189
+
+                Abstract. Atmospheric aerosols influence climate through their interactions with radiation and clouds, yet large uncertainties remain in their simulation by global models. This study evaluates the United Kingdom Earth System Model version 1.1 (UKESM1.1) using global-scale aircraft observations from the. Atmospheric Tomography (ATom) mission, focusing on aerosol lifecycle processes in the remote marine atmosphere. We assess model performance in simulating aerosol precursor vapours, number size distributions, chemical composition, and environmental conditions. Several process improvements are tested, including sulfuric acid&#8211;ammonia nucleation, ammonium nitrate scheme, methanesulfonic acid condensation, and low-temperature isoprene-derived secondary organic aerosol formation. Model biases differ significantly between the upper troposphere (UT) and the marine boundary layer (MBL). In the UT, UKESM1.1 overestimates nucleation and Aitken mode particles while underestimating accumulation mode, indicating insufficient growth. In the MBL, the model overestimates primary aerosols (e.g. seasalt) and precursor gases but underestimates nucleation and Aitken mode particles, even after incorporating updated nucleation and ammonium nitrate scheme. The persistence of low aerosol number concentrations, despite overestimated precursors, suggests missing formation pathways likely involving other species such as iodine, amines, or organic vapours. These limitations result in an unbalanced cloud condensation nuclei budget that over-replies on primary emissions. Sensitivity tests reveal that model outputs are strongly influenced by dimethyl sulfide emissions and vapour condensation schemes. Our results highlight the need for future model development to prioritise mechanistic representation of currently missing aerosol sources, rather than relying on empirical tuning, to improve aerosol&#8211;climate interaction estimates.</description>
+      <author>Xu&#8208;Cheng He, Nathan Luke Abraham, Hanming Ding, M. R. Russo, Daniel P. Grosvenor, Yao Ge, Xuemei Wang, Anthony C. Jones, Pedro Campuzano&#8208;Jost, Benjamin A. Nault, Agnieszka Kupc, D. R. Blake, J. L. Jim&#233;nez, Christina Williamson, K. S. Carslaw, James Weber, A. T. Archibald, Hamish Gordon</author>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2025-3700</guid>
+    </item>
+    <item>
+      <title>Optimization of Direct Air Capture Processes using Reactive Transport Models of Adsorption-Desorption Cycles</title>
+      <link>https://doi.org/10.1016/j.compchemeng.2025.109379</link>
+      <description>H&#233;ctor Pedrozo, Mayra G. Gonzalez-Ramirez, Tiras Y. Lin, Thomas Moore, Thomas Roy, Du T. Nguyen, Pratanu Roy, Sarah E. Baker, Lorenz T. Biegler, Grigorios Panagakos, Computers &amp; Chemical Engineering. None(None)] 2025. https://openalex.org/W4413787348
+
+                No abstract</description>
+      <author>H&#233;ctor Pedrozo, Mayra G. Gonzalez-Ramirez, Tiras Y. Lin, Thomas Moore, Thomas Roy, Du T. Nguyen, Pratanu Roy, Sarah E. Baker, Lorenz T. Biegler, Grigorios Panagakos</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2025.109379</guid>
+    </item>
     <item>
       <title>Trees are much better at creating clouds and cooling the climate than we thought</title>
       <link>https://doi.org/10.64628/ab.fv9q7tsjc</link>
