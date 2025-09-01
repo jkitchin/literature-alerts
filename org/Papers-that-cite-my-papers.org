@@ -1,147 +1,22 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Aug 31 01:40:46 2025
+Created on Mon Sep  1 01:50:15 2025
 
-Found 71 results from 2025-08-24 to 2025-08-31
+Found 64 results from 2025-08-25 to 2025-09-01
 OpenAlex URLS (not including from_created_date or the API key)
-- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302]]
-- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W1976900809]]
-- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4205989106%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4402230343%7Chttps%3A//openalex.org/W2043756370%7Chttps%3A//openalex.org/W2075123250%7Chttps%3A//openalex.org/W2782434877%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W2076603107%7Chttps%3A//openalex.org/W2326319594%7Chttps%3A//openalex.org/W1989887791]]
-- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W2321716361%7Chttps%3A//openalex.org/W3040935211%7Chttps%3A//openalex.org/W4290659046%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W1983211364%7Chttps%3A//openalex.org/W2107588036%7Chttps%3A//openalex.org/W2288114809%7Chttps%3A//openalex.org/W2319547265%7Chttps%3A//openalex.org/W2537005472%7Chttps%3A//openalex.org/W2622772233%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2013291890%7Chttps%3A//openalex.org/W1991992285%7Chttps%3A//openalex.org/W2024117507%7Chttps%3A//openalex.org/W1992013238]]
-- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2321815843%7Chttps%3A//openalex.org/W2004889825%7Chttps%3A//openalex.org/W2036912748%7Chttps%3A//openalex.org/W3149320750%7Chttps%3A//openalex.org/W3209912745%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W4393066436%7Chttps%3A//openalex.org/W4396781988%7Chttps%3A//openalex.org/W4398161548%7Chttps%3A//openalex.org/W4402796790%7Chttps%3A//openalex.org/W2008336692%7Chttps%3A//openalex.org/W2081235356%7Chttps%3A//openalex.org/W1999481271%7Chttps%3A//openalex.org/W2018598173%7Chttps%3A//openalex.org/W2029904786%7Chttps%3A//openalex.org/W2564739126%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W4407089073%7Chttps%3A//openalex.org/W4409276991%7Chttps%3A//openalex.org/W4409366110]]
-- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4409750178%7Chttps%3A//openalex.org/W4409823420%7Chttps%3A//openalex.org/W4409962774%7Chttps%3A//openalex.org/W4411365766%7Chttps%3A//openalex.org/W4411783084%7Chttps%3A//openalex.org/W4411816096%7Chttps%3A//openalex.org/W4411977988%7Chttps%3A//openalex.org/W4412026572%7Chttps%3A//openalex.org/W2062213432%7Chttps%3A//openalex.org/W2038722478%7Chttps%3A//openalex.org/W2583989457%7Chttps%3A//openalex.org/W2794932603%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W1976330930%7Chttps%3A//openalex.org/W4403928590%7Chttps%3A//openalex.org/W4404571293%7Chttps%3A//openalex.org/W4404630758%7Chttps%3A//openalex.org/W2346037593%7Chttps%3A//openalex.org/W3216263093%7Chttps%3A//openalex.org/W2084630051]]
-- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2951947955%7Chttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W2038093538%7Chttps%3A//openalex.org/W1884320396%7Chttps%3A//openalex.org/W2109577840%7Chttps%3A//openalex.org/W2176643401%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W2047252852%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W3216093002%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W2045355650%7Chttps%3A//openalex.org/W4230851681%7Chttps%3A//openalex.org/W2345885390%7Chttps%3A//openalex.org/W4399769525%7Chttps%3A//openalex.org/W4401579937%7Chttps%3A//openalex.org/W2002360200%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1999352645]]
-- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239479870%7Chttps%3A//openalex.org/W2039786021%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4210859464%7Chttps%3A//openalex.org/W4385584015%7Chttps%3A//openalex.org/W2080142003%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W2016865072%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4387438978%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W1988714833]]
-- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313%7Chttps%3A//openalex.org/W4391338155%7Chttps%3A//openalex.org/W4393587488%7Chttps%3A//openalex.org/W4393806444%7Chttps%3A//openalex.org/W4396813915%7Chttps%3A//openalex.org/W4400149477%7Chttps%3A//openalex.org/W4400720071%7Chttps%3A//openalex.org/W4401476302%7Chttps%3A//openalex.org/W4401547089%7Chttps%3A//openalex.org/W4403909596%7Chttps%3A//openalex.org/W4404762044%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2056516494%7Chttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2795250219]]
-- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877]]
-- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289]]
-- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257]]
-
-* Bimetallic electronic coupling engineering in Co-Fe-O heterostructure enabling industrial-grade alkaline hydrogen evolution at 2 A cm−2  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4413472287
-:TOPICS: Electrocatalysts for Energy Conversion, Copper-based nanomaterials and applications, Catalytic Processes in Materials Science
-:PUBLICATION_DATE: 2025-08-18
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s11431-025-2972-8")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413472287"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413472287"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413472287"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4413472287 (Open access: False)
-    
-[[https://openalex.org/A5100319765][Wei Liu]], [[https://openalex.org/A5019909352][Baochai Xu]], [[https://openalex.org/A5108316251][Minqin Mao]], [[https://openalex.org/A5046694754][Lei Yang]], [[https://openalex.org/A5013695290][Chaoqun Shang]], [[https://openalex.org/A5103206429][Yaping Miao]], [[https://openalex.org/A5034476487][Xiang Peng]], [[https://openalex.org/A5071739169][Zhiliang Huang]], Science China Technological Sciences. 68(9)] 2025. https://doi.org/10.1007/s11431-025-2972-8 
-     
-No abstract    
-
-    
-
-* Potential-dependent O–O Coupling Mechanism for Oxygen Evolution Reaction on Ruthenium Dioxide  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4413475477
-:TOPICS: Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials, Electrochemical Analysis and Applications
-:PUBLICATION_DATE: 2025-08-24
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpclett.5c02345")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413475477"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413475477"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413475477"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4413475477 (Open access: False)
-    
-[[https://openalex.org/A5106615508][Congcong Han]], [[https://openalex.org/A5055091695][Y.H. Liu]], [[https://openalex.org/A5100453714][Tao Wang]], The Journal of Physical Chemistry Letters. None(None)] 2025. https://doi.org/10.1021/acs.jpclett.5c02345 
-     
-Designing alternative OER catalysts to IrO2 has been a long-standing and compelling task in proton exchange membrane water electrolysis (PEM-WE). Currently, the more active and less expensive RuO2 has attracted extensive attention, with the primary consideration being how to improve its long-term stability. Thus, disclosing the underlying factors and mechanisms contributing to its high activity and low stability is significant. Herein, we employ Grand Canonical density functional theory (GC-DFT) calculations and microkinetic modeling (MKM) to comprehensively elucidate the potential-dependent oxygen evolution reaction (OER) mechanisms on the RuO2(110) facet. Our results confirm the dominant role of AEM and the less likely occurrence of LOM and OPM on the pristine RuO2(110) surface. This work not only deepens the mechanistic understanding of OER on RuO2 from both thermodynamic and kinetic perspectives but also provides a basis for achieving a rational design of high-performance OER electrocatalysts.    
-
-    
-
-* Operando TEM Study of Partial Oxidation of Methane Over Pd Nanoparticles  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4413475503
-:TOPICS: Catalytic Processes in Materials Science, Catalysis and Oxidation Reactions, Catalysts for Methane Reforming
-:PUBLICATION_DATE: 2025-08-24
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/advs.202507303")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413475503"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413475503"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413475503"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4413475503 (Open access: True)
-    
-[[https://openalex.org/A5101691786][Yingying Jiang]], [[https://openalex.org/A5010290546][Parinya Tangpakonsab]], [[https://openalex.org/A5030851245][Alexander Genest]], [[https://openalex.org/A5088541152][Günther Rupprechter]], [[https://openalex.org/A5049252763][Utkur Mirsaidov]], Advanced Science. None(None)] 2025. https://doi.org/10.1002/advs.202507303 
-     
-Abstract Methane (CH 4 ), which constitutes over 95% of low‐cost and abundantly available natural gas reserves, represents a key feedstock for producing syngas and other value‐added chemicals. Developing catalysts capable of efficiently converting CH 4 into these chemicals is, therefore, crucial for reducing the dependence on limited crude oil resources. Despite the importance of these conversion reactions, the underlying details of catalyst activity remain elusive. Here, using operando gas‐cell transmission electron microscopy, the nanoscale mechanisms of the catalytic partial oxidation of CH 4 over Pd nanoparticles (NPs) are explored. The observations show that the onset of the catalytic reaction directly coincides with the transformation of these NPs into robust fragmented Pd–PdO NPs. Density functional theory calculations reveal that the Pd–PdO interface plays a pivotal role in optimizing the reaction pathway: metallic Pd facilitates CH 4 dehydrogenation, while PdO promotes C oxidation. These insights into the active structures of catalysts under working conditions provide a foundation for the rational design of high‐performance catalysts.    
-
-    
-
-* Oxygen Adsorption on Undercoordinated Sites Modulates Electronic Structure of Pd Metallene for Enhanced Reaction Kinetics in Sulfur Oxidation-Assisted Water Splitting  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4413476109
-:TOPICS: Electrocatalysts for Energy Conversion, Nanomaterials for catalytic reactions, Advanced battery technologies research
-:PUBLICATION_DATE: 2025-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2025.125888")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413476109"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413476109"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413476109"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4413476109 (Open access: False)
-    
-[[https://openalex.org/A5104092201][Hong Sun]], [[https://openalex.org/A5119406188][Chenlu Wangzi]], [[https://openalex.org/A5017878123][Yang Zheng]], [[https://openalex.org/A5058754479][Jiaying Zhang]], [[https://openalex.org/A5101497406][Yujie Liang]], [[https://openalex.org/A5115594304][Jingjing Wang]], [[https://openalex.org/A5042130876][Yingying Zheng]], [[https://openalex.org/A5046494686][Jiaqi Pan]], [[https://openalex.org/A5102753172][Chaorong Li]], [[https://openalex.org/A5101574599][Jun Cao]], Applied Catalysis B Environment and Energy. None(None)] 2025. https://doi.org/10.1016/j.apcatb.2025.125888 
-     
-No abstract    
-
-    
-
-* Synergistic electronic interplay between Co Fe single atom and nitrogen on 2D carbon boosts bifunctional oxygen redox in metal-air batteries  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4413476587
-:TOPICS: Advanced battery technologies research, Electrocatalysts for Energy Conversion, Supercapacitor Materials and Fabrication
-:PUBLICATION_DATE: 2025-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2025.167663")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413476587"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413476587"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413476587"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4413476587 (Open access: False)
-    
-[[https://openalex.org/A5045783210][Saeed Askari]], [[https://openalex.org/A5021797703][Swarit Dwivedi]], [[https://openalex.org/A5109593387][Kang Hui Lim]], [[https://openalex.org/A5010731144][Masood S. Alivand]], [[https://openalex.org/A5014392273][Parisa Biniaz]], [[https://openalex.org/A5014874162][Ali Zavabeti]], [[https://openalex.org/A5108217526][S. Kawi]], [[https://openalex.org/A5038728602][Matthew R. Hill]], [[https://openalex.org/A5077401838][Adri C. T. van Duin]], [[https://openalex.org/A5036838238][Akshat Tanksale]], [[https://openalex.org/A5014298792][Mainak Majumder]], [[https://openalex.org/A5053226382][Parama Chakraborty Banerjee]], Chemical Engineering Journal. None(None)] 2025. https://doi.org/10.1016/j.cej.2025.167663 
-     
-No abstract    
-
-    
-
-* Nitrogen-doped black phosphorus-supported vanadium/niobium single-atom catalysts for high-efficiency electrochemical nitrate reduction to ammonia  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4413479106
-:TOPICS: Ammonia Synthesis and Nitrogen Reduction, Hydrogen Storage and Materials, Advanced Photocatalysis Techniques
-:PUBLICATION_DATE: 2025-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2025.164400")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413479106"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413479106"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413479106"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4413479106 (Open access: False)
-    
-[[https://openalex.org/A5100366008][Lu Lu]], [[https://openalex.org/A5048870302][Chong Wang]], [[https://openalex.org/A5060414525][Siqi Li]], [[https://openalex.org/A5100394717][Song Liu]], Applied Surface Science. None(None)] 2025. https://doi.org/10.1016/j.apsusc.2025.164400 
-     
-No abstract    
-
-    
+- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671]]
+- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802]]
+- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4205989106%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4402230343%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2043756370%7Chttps%3A//openalex.org/W2075123250%7Chttps%3A//openalex.org/W2782434877%7Chttps%3A//openalex.org/W4290659046%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W2076603107%7Chttps%3A//openalex.org/W2326319594]]
+- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2321716361%7Chttps%3A//openalex.org/W3040935211%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W1983211364%7Chttps%3A//openalex.org/W2107588036%7Chttps%3A//openalex.org/W2288114809%7Chttps%3A//openalex.org/W2319547265%7Chttps%3A//openalex.org/W2537005472%7Chttps%3A//openalex.org/W2622772233%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W2013291890%7Chttps%3A//openalex.org/W1991992285%7Chttps%3A//openalex.org/W2024117507%7Chttps%3A//openalex.org/W1992013238%7Chttps%3A//openalex.org/W2321815843]]
+- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2004889825%7Chttps%3A//openalex.org/W2036912748%7Chttps%3A//openalex.org/W3149320750%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2008336692%7Chttps%3A//openalex.org/W2081235356%7Chttps%3A//openalex.org/W1999481271%7Chttps%3A//openalex.org/W2018598173%7Chttps%3A//openalex.org/W2029904786%7Chttps%3A//openalex.org/W2564739126%7Chttps%3A//openalex.org/W3209912745%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W4393066436%7Chttps%3A//openalex.org/W4396781988%7Chttps%3A//openalex.org/W4398161548%7Chttps%3A//openalex.org/W4402796790%7Chttps%3A//openalex.org/W4404571293%7Chttps%3A//openalex.org/W2062213432%7Chttps%3A//openalex.org/W2038722478]]
+- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2583989457%7Chttps%3A//openalex.org/W2794932603%7Chttps%3A//openalex.org/W4406706802%7Chttps%3A//openalex.org/W4409750178%7Chttps%3A//openalex.org/W4411365766%7Chttps%3A//openalex.org/W1976330930%7Chttps%3A//openalex.org/W4407089073%7Chttps%3A//openalex.org/W4409276991%7Chttps%3A//openalex.org/W4409366110%7Chttps%3A//openalex.org/W4409823420%7Chttps%3A//openalex.org/W4409962774%7Chttps%3A//openalex.org/W4411783084%7Chttps%3A//openalex.org/W4411816096%7Chttps%3A//openalex.org/W4411977988%7Chttps%3A//openalex.org/W4412026572%7Chttps%3A//openalex.org/W4412788564%7Chttps%3A//openalex.org/W4413367859%7Chttps%3A//openalex.org/W2346037593%7Chttps%3A//openalex.org/W3216263093%7Chttps%3A//openalex.org/W4403928590]]
+- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4404630758%7Chttps%3A//openalex.org/W2084630051%7Chttps%3A//openalex.org/W2951947955%7Chttps%3A//openalex.org/W2038093538%7Chttps%3A//openalex.org/W1884320396%7Chttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W2109577840%7Chttps%3A//openalex.org/W2176643401%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W2047252852%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W3216093002%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W2045355650%7Chttps%3A//openalex.org/W4230851681%7Chttps%3A//openalex.org/W2345885390%7Chttps%3A//openalex.org/W2002360200%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W4399769525]]
+- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4401579937%7Chttps%3A//openalex.org/W4404762044%7Chttps%3A//openalex.org/W1999352645%7Chttps%3A//openalex.org/W4239479870%7Chttps%3A//openalex.org/W2039786021%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4210859464%7Chttps%3A//openalex.org/W2080142003%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W4385584015%7Chttps%3A//openalex.org/W2016865072%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4387438978]]
+- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4391338155%7Chttps%3A//openalex.org/W4400720071%7Chttps%3A//openalex.org/W4401476302%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W4393587488%7Chttps%3A//openalex.org/W4393806444%7Chttps%3A//openalex.org/W4396813915%7Chttps%3A//openalex.org/W4400149477%7Chttps%3A//openalex.org/W4401547089%7Chttps%3A//openalex.org/W4403909596%7Chttps%3A//openalex.org/W2056516494]]
+- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761]]
+- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894]]
+- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257]]
+- [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605]]
 
 * Chirality-Induced Suppression of Singlet Oxygen in Lithium–Oxygen Batteries with Extended Cycle Life  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -1482,27 +1357,6 @@ Abstract Design and preparation of freestanding bifunctional ordered structural 
 OpenAlex: https://openalex.org/W4413639102 (Open access: False)
     
 [[https://openalex.org/A5052154284][Wenhao Zhang]], [[https://openalex.org/A5084115394][Mariano Forti]], [[https://openalex.org/A5033934890][Runan Xie]], [[https://openalex.org/A5001914161][Céline Barreteau]], [[https://openalex.org/A5027537776][Taichi Abe]], [[https://openalex.org/A5074371911][Jean‐Marc Joubert]], [[https://openalex.org/A5052903842][Thomas Hammerschmidt]], [[https://openalex.org/A5086262542][Jean‐Claude Crivello]], Acta Materialia. None(None)] 2025. https://doi.org/10.1016/j.actamat.2025.121427 
-     
-No abstract    
-
-    
-
-* Electronic structure modulation of Zn-doped Fe5Ni4S8 nanosheet arrays for alkaline overall water splitting  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4413476252
-:TOPICS: Electrocatalysts for Energy Conversion, Copper-based nanomaterials and applications, Advanced Photocatalysis Techniques
-:PUBLICATION_DATE: 2025-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2025.138804")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413476252"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413476252"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413476252"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4413476252 (Open access: False)
-    
-[[https://openalex.org/A5100378838][Yaxin Li]], [[https://openalex.org/A5100449628][Li Zhao]], [[https://openalex.org/A5113929774][Tingyu Yan]], [[https://openalex.org/A5036746330][Huanlu Tu]], [[https://openalex.org/A5020651129][Shansheng Yu]], [[https://openalex.org/A5000672604][Yu Xie]], [[https://openalex.org/A5037428389][Hongwei Tian]], [[https://openalex.org/A5006868699][Jingsan Xu]], Journal of Colloid and Interface Science. None(None)] 2025. https://doi.org/10.1016/j.jcis.2025.138804 
      
 No abstract    
 
