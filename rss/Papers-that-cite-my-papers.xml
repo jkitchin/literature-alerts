@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 01:50:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 01:37:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Chirality-Induced Suppression of Singlet Oxygen in Lithium&#8211;Oxygen Batteries with Extended Cycle Life</title>
-      <link>https://doi.org/10.1007/s40820-025-01885-z</link>
-      <description>Kyunghee Chae, Youngbi Kim, Yoon Seok Oh, H. Hahn, Jaehyun Son, Youngsin Kim, Hyungsub Kim, Hyun Jeong Lee, Dohyub Jang, Jooho Moon, Kisuk Kang, Jeong Woo Han, Filipe Marques Mota, Dong Ha Kim, Nano-Micro Letters. 18(1)] 2025. https://openalex.org/W4413484859
-
-                Abstract Lithium&#8211;oxygen (Li&#8211;O 2 ) batteries are perceived as a promising breakthrough in sustainable electrochemical energy storage, utilizing ambient air as an energy source, eliminating the need for costly cathode materials, and offering the highest theoretical energy density (~ 3.5 kWh kg &#8211;1 ) among discussed candidates. Contributing to the poor cycle life of currently reported Li&#8211;O 2 cells is singlet oxygen ( 1 O 2 ) formation, inducing parasitic reactions, degrading key components, and severely deteriorating cell performance. Here, we harness the chirality-induced spin selectivity effect of chiral cobalt oxide nanosheets (Co 3 O 4 NSs) as cathode materials to suppress 1 O 2 in Li&#8211;O 2 batteries for the first time. Operando photoluminescence spectroscopy reveals a 3.7-fold and 3.23-fold reduction in 1 O 2 during discharge and charge, respectively, compared to conventional carbon paper-based cells, consistent with differential electrochemical mass spectrometry results, which indicate a near-theoretical charge-to-O 2 ratio (2.04 e &#8722; /O 2 ). Density functional theory calculations demonstrate that chirality induces a peak shift near the Fermi level, enhancing Co 3 d &#8211;O 2 p hybridization, stabilizing reaction intermediates, and lowering activation barriers for Li 2 O 2 formation and decomposition. These findings establish a new strategy for improving the stability and energy efficiency of sustainable Li&#8211;O 2 batteries, abridging the current gap to commercialization.</description>
-      <author>Kyunghee Chae, Youngbi Kim, Yoon Seok Oh, H. Hahn, Jaehyun Son, Youngsin Kim, Hyungsub Kim, Hyun Jeong Lee, Dohyub Jang, Jooho Moon, Kisuk Kang, Jeong Woo Han, Filipe Marques Mota, Dong Ha Kim</author>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s40820-025-01885-z</guid>
-    </item>
-    <item>
-      <title>Coupled Pd&lt;sup&gt;&#948;-&lt;/sup&gt;-Cu&lt;sup&gt;&#948;&lt;b&gt;+&lt;/b&gt;&lt;/sup&gt; Dipole for Enhanced Aqueous Nitrate Valorization at Ultralow Potentials</title>
-      <link>https://doi.org/10.1021/acsnano.5c09566</link>
-      <description>Huihuang Chen, Jiayin Li, Runze Shi, Yue Wu, Bing Zhou, Yancai Yao, Zhigang Geng, Lianzhou Wang, Lizhi Zhang, Maohong Fan, Bo Yang, ACS Nano. None(None)] 2025. https://openalex.org/W4413494344
-
-                No abstract</description>
-      <author>Huihuang Chen, Jiayin Li, Runze Shi, Yue Wu, Bing Zhou, Yancai Yao, Zhigang Geng, Lianzhou Wang, Lizhi Zhang, Maohong Fan, Bo Yang</author>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.5c09566</guid>
-    </item>
-    <item>
-      <title>Deep Learning for Computational Heterogeneous Catalysis: Fundamentals and Applications</title>
-      <link>https://doi.org/10.1007/s41745-025-00484-6</link>
-      <description>Gaurav Deshmukh, Pushkar Ghanekar, Jeffrey Greeley, Journal of the Indian Institute of Science. None(None)] 2025. https://openalex.org/W4413509000
-
-                No abstract</description>
-      <author>Gaurav Deshmukh, Pushkar Ghanekar, Jeffrey Greeley</author>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s41745-025-00484-6</guid>
-    </item>
-    <item>
-      <title>Theoretical prediction of WS2-confined metal atoms for highly efficient acetylene hydrogenation to ethylene</title>
-      <link>https://doi.org/10.1016/s1872-2067(25)64734-6</link>
-      <description>Kelechi Uwakwe, Huan Liu, Qiming Bing, Liang Yu, Dehui Deng, CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 76(None)] 2025. https://openalex.org/W4413513429
-
-                No abstract</description>
-      <author>Kelechi Uwakwe, Huan Liu, Qiming Bing, Liang Yu, Dehui Deng</author>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(25)64734-6</guid>
-    </item>
     <item>
       <title>Redox&#8208;Conjugated Co&lt;sup&gt;II&lt;/sup&gt;&#8208;Phthalocyanine&#8211;Phenazine Polymer as a Robust Catalyst for Efficient Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Conversion</title>
       <link>https://doi.org/10.1002/cssc.202501266</link>
@@ -636,6 +596,66 @@
       <author>Anki Reddy Mule, Chandan Chandru Gudal, Jun Ho Seok, Jeong Hwan Byun, Pil J. Yoo, Jung Kyu Kim, Sang Uck Lee, Jae Su Yu, Chan&#8208;Hwa Chung</author>
       <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smtd.202500910</guid>
+    </item>
+    <item>
+      <title>Precisely Bonded Fe&#9472;Cu Diatomic Sites with Nitrogen&#8208;Bridged Coordination on Hollow C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt; Spheres for Efficient C&#9472;N Coupling and Selective Photocatalytic Urea Synthesis</title>
+      <link>https://doi.org/10.1002/anie.202512234</link>
+      <description>Muhammad Irfan Ahmad, Xie Quan, Haokun Bai, Yanming Liu, Shuo Chen, Hongtao Yu, Angewandte Chemie International Edition. None(None)] 2025. https://openalex.org/W4413839734
+
+                Abstract The photocatalytic synthesis of urea from CO 2 and N 2 co&#8208;reduction presents a promising alternative to the conventional energy&#8208;intensive Haber&#8211;Bosch process. However, competitive adsorption on the catalyst surface often limits selectivity and yield. Here, we designed hollow graphitic carbon nitride (g&#8208;C 3 N 4 ) spheres, which serve as a high surface area scaffold for precise anchoring of Fe&#9472;Cu diatomic sites. Hollow architecture enhances light harvesting via inner&#8208;scattering effects and charge separation. Each Fe&#9472;Cu site is coordinated with two nitrogen atoms, forming N 2 &#9472;Fe 1 &#9472;Cu 1 &#9472;N 2 /C 3 N 4 DAC (hereafter referred to as FeCu/CN), which enables cooperative activation of CO 2 and N 2 , in contrast to monodispersed diatomic (Fe+Cu/CN), and single&#8208;atom catalysts (Fe/CN, Cu/CN). The FeCu/CN bonded pairs serve as highly efficient active centers, facilitating the synergistic adsorption and activation of multiple reactants. Specifically, during the co&#8208;reduction of CO 2 and N 2 , the Fe 1 site preferentially adsorbs and activates CO 2 , while bonded Cu 1 sites stabilize N 2 on FeCu/CN and enable synergistic C&#9472;N coupling through the formation of *NCON intermediates. As a result, the FeCu/CN achieves an exceptional urea yield of 7.40 mg&#183;g cat &#8722;1 &#183;h &#8722;1 with a 38.58% selectivity under visible light irradiation. Our findings highlight the crucial role of atomic&#8208;level coordination in multireactants and offer insights into the C&#9472;N coupling for value&#8208;added products using CO 2 and N 2 as feedstock.</description>
+      <author>Muhammad Irfan Ahmad, Xie Quan, Haokun Bai, Yanming Liu, Shuo Chen, Hongtao Yu</author>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202512234</guid>
+    </item>
+    <item>
+      <title>First-principles study on single metal anchored CrSe2 for efficient electrocatalyst</title>
+      <link>https://doi.org/10.1016/s1003-6326(25)66841-5</link>
+      <description>Yadan Sun, Kun Xie, Pei Shi, Zhiyan Feng, Long LIN, Transactions of Nonferrous Metals Society of China. 35(8)] 2025. https://openalex.org/W4413844713
+
+                No abstract</description>
+      <author>Yadan Sun, Kun Xie, Pei Shi, Zhiyan Feng, Long LIN</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/s1003-6326(25)66841-5</guid>
+    </item>
+    <item>
+      <title>DFT Study of Lattice Dynamics and Phase Transitions of Mg2NA (A = F, Cl, Br, I) Compounds in Antichalcopyrite and Anti-LiFeO2 Structures</title>
+      <link>https://doi.org/10.1134/s0022476625080116</link>
+      <description>V. S. Timofeev, A. B. Gordienko, Journal of Structural Chemistry. 66(8)] 2025. https://openalex.org/W4413845007
+
+                No abstract</description>
+      <author>V. S. Timofeev, A. B. Gordienko</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1134/s0022476625080116</guid>
+    </item>
+    <item>
+      <title>O&lt;sub&gt;2&lt;/sub&gt; Electroreduction on Silver and Silver&#8208;Based Nanostructured Cathodes: A Review</title>
+      <link>https://doi.org/10.1155/er/2481690</link>
+      <description>&#1054;. &#1030;. &#1050;untyi, Vasyl Skrypnychuk, Galyna Zozulya, International Journal of Energy Research. 2025(1)] 2025. https://openalex.org/W4413847492
+
+                During the recent decade, the search for catalytically active cathodes of oxygen reduction reaction (ORR) for fuel cells and secondary metal&#8211;air batteries has been one of the priority directions of electrochemical energy applications. Existing highly efficient electrocatalysts based on very expensive and rare platinum (Pt) and Pt group elements need replacement with affordable and scalable electrode materials. In this article, we review the recent trends and progress in the research of ORR catalysts alternative to Pt group elements, namely, silver (Ag)&#8208;based nanostructured cathodes. The following main research directions are presented: (1) the O 2 electroreduction mechanism; (2) nanostructured and nanoporous Ag surfaces; (3) Ag nanoparticles (AgNPs) anchored to a carbon substrate; (4) Ag nanostructures deposited onto M x O y &#8722; carbon nanocomposites; (5) bimetallic Ag&#8211;M nanostructures. The first direction encompasses the analysis of literature data on ORR on Ag surface, which is stable in alkaline electrolytes and provides a four&#8208;electron (4e) pathway for the ORR. In the second direction, we demonstrate the dependence of electroreduction efficiency on the size and shape of AgNPs and their nanoscale porosity. The third direction is based on the enhancement of catalytic activity via designing of fine and ultrafine AgNPs attached to highly porous carbon support nanomaterials such as carbon black, mesoporous carbon (MC), reduced graphene oxide, nitrogen&#8208;doped graphene, multi&#8208;walled carbon nanotubes (MWCNTs) and nitrogen&#8208;doped carbon nanotubes (NCNTs). The fourth direction, hybrid AgNPs&#8211;M x O y /carbon nanocomposites, is one of the most promising for ORR applications. The catalytic activity of these nanocomposites is based on the synergy of the AgNPs&#8211;M x O y couple, and the nanoscale porosity of carbon materials ensures mass transport of dissolved oxygen to the electrode surface. We describe the characteristic features of electrochemical oxygen reduction for the systems of AgNPs with nanoparticles of MnO 2 , ZrO 2 , WO 3 , Fe 3 O 4 and Co 3 O 4 , which can tune Ag surface states. The fifth separate research direction is the use of bimetallic Ag&#8211;M nanostructures for electrocatalytic ORR. The most studied systems are binary, including Ag&#8211;Pd, Ag&#8211;Cu, Ag&#8211;Co and Ag&#8211;Ni. This review outlines the trends and prospects of future development of the Ag&#8208;based nanostructured catalytically active cathodes for oxygen reduction.</description>
+      <author>&#1054;. &#1030;. &#1050;untyi, Vasyl Skrypnychuk, Galyna Zozulya</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1155/er/2481690</guid>
+    </item>
+    <item>
+      <title>Emerging Materials in Electrocatalysis for Fuel Cell-Based Transportation</title>
+      <link>https://doi.org/10.1007/978-981-96-6624-9_14</link>
+      <description>Jennifer Laverde, Nataly Carolina Rosero&#8208;Navarro, Energy, environment, and sustainability. None(None)] 2025. https://openalex.org/W4413860894
+
+                No abstract</description>
+      <author>Jennifer Laverde, Nataly Carolina Rosero&#8208;Navarro</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-981-96-6624-9_14</guid>
+    </item>
+    <item>
+      <title>Regulation Mechanisms of Single-Atom Doped Ti2CO2 MXene for CO2 Reduction: A DFT Study</title>
+      <link>https://doi.org/10.1016/j.electacta.2025.147290</link>
+      <description>Huichun Xue, Yitong Chen, Lin Zhu, An Du, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4413864072
+
+                No abstract</description>
+      <author>Huichun Xue, Yitong Chen, Lin Zhu, An Du</author>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.147290</guid>
     </item>
     <item>
       <title>Prediction and characterization of chemically complex &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e405" altimg="si22.svg"&gt;&lt;mml:mrow&gt;&lt;mml:mi&gt;&#963;&lt;/mml:mi&gt;&lt;mml:mo&gt;&#8722;&lt;/mml:mo&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt;phase intermetallics with graph neural network</title>

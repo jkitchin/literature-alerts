@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Sep  1 01:50:15 2025
+Created on Tue Sep  2 01:37:50 2025
 
-Found 64 results from 2025-08-25 to 2025-09-01
+Found 66 results from 2025-08-26 to 2025-09-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802)
@@ -17,50 +17,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## Chirality-Induced Suppression of Singlet Oxygen in Lithium–Oxygen Batteries with Extended Cycle Life   
-
-OpenAlex: https://openalex.org/W4413484859    
-Open access: True
-    
-[Kyunghee Chae](https://openalex.org/A5078589174), [Youngbi Kim](https://openalex.org/A5029836229), [Yoon Seok Oh](https://openalex.org/A5035250044), [H. Hahn](https://openalex.org/A5111556132), [Jaehyun Son](https://openalex.org/A5000495352), [Youngsin Kim](https://openalex.org/A5043573642), [Hyungsub Kim](https://openalex.org/A5015855655), [Hyun Jeong Lee](https://openalex.org/A5100661586), [Dohyub Jang](https://openalex.org/A5043658261), [Jooho Moon](https://openalex.org/A5109626708), [Kisuk Kang](https://openalex.org/A5073090248), [Jeong Woo Han](https://openalex.org/A5033014275), [Filipe Marques Mota](https://openalex.org/A5081358022), [Dong Ha Kim](https://openalex.org/A5100683717), Nano-Micro Letters. 18(1)] 2025.https://doi.org/10.1007/s40820-025-01885-z ([pdf](https://link.springer.com/content/pdf/10.1007/s40820-025-01885-z.pdf)).
-    
-Abstract Lithium–oxygen (Li–O 2 ) batteries are perceived as a promising breakthrough in sustainable electrochemical energy storage, utilizing ambient air as an energy source, eliminating the need for costly cathode materials, and offering the highest theoretical energy density (~ 3.5 kWh kg –1 ) among discussed candidates. Contributing to the poor cycle life of currently reported Li–O 2 cells is singlet oxygen ( 1 O 2 ) formation, inducing parasitic reactions, degrading key components, and severely deteriorating cell performance. Here, we harness the chirality-induced spin selectivity effect of chiral cobalt oxide nanosheets (Co 3 O 4 NSs) as cathode materials to suppress 1 O 2 in Li–O 2 batteries for the first time. Operando photoluminescence spectroscopy reveals a 3.7-fold and 3.23-fold reduction in 1 O 2 during discharge and charge, respectively, compared to conventional carbon paper-based cells, consistent with differential electrochemical mass spectrometry results, which indicate a near-theoretical charge-to-O 2 ratio (2.04 e − /O 2 ). Density functional theory calculations demonstrate that chirality induces a peak shift near the Fermi level, enhancing Co 3 d –O 2 p hybridization, stabilizing reaction intermediates, and lowering activation barriers for Li 2 O 2 formation and decomposition. These findings establish a new strategy for improving the stability and energy efficiency of sustainable Li–O 2 batteries, abridging the current gap to commercialization.    
-
-    
-
-## Coupled Pdδ--Cuδ+ Dipole for Enhanced Aqueous Nitrate Valorization at Ultralow Potentials   
-
-OpenAlex: https://openalex.org/W4413494344    
-Open access: False
-    
-[Huihuang Chen](https://openalex.org/A5052221074), [Jiayin Li](https://openalex.org/A5049503805), [Runze Shi](https://openalex.org/A5109483721), [Yue Wu](https://openalex.org/A5112688064), [Bing Zhou](https://openalex.org/A5103059387), [Yancai Yao](https://openalex.org/A5080521412), [Zhigang Geng](https://openalex.org/A5043633750), [Lianzhou Wang](https://openalex.org/A5100385100), [Lizhi Zhang](https://openalex.org/A5109765856), [Maohong Fan](https://openalex.org/A5079808010), [Bo Yang](https://openalex.org/A5101624863), ACS Nano. None(None)] 2025.https://doi.org/10.1021/acsnano.5c09566.
-    
-No abstract    
-
-    
-
-## Deep Learning for Computational Heterogeneous Catalysis: Fundamentals and Applications   
-
-OpenAlex: https://openalex.org/W4413509000    
-Open access: False
-    
-[Gaurav Deshmukh](https://openalex.org/A5044919755), [Pushkar Ghanekar](https://openalex.org/A5068144091), [Jeffrey Greeley](https://openalex.org/A5062626839), Journal of the Indian Institute of Science. None(None)] 2025.https://doi.org/10.1007/s41745-025-00484-6.
-    
-No abstract    
-
-    
-
-## Theoretical prediction of WS2-confined metal atoms for highly efficient acetylene hydrogenation to ethylene   
-
-OpenAlex: https://openalex.org/W4413513429    
-Open access: False
-    
-[Kelechi Uwakwe](https://openalex.org/A5011796988), [Huan Liu](https://openalex.org/A5100339072), [Qiming Bing](https://openalex.org/A5049411107), [Liang Yu](https://openalex.org/A5100692990), [Dehui Deng](https://openalex.org/A5022049240), CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 76(None)] 2025.https://doi.org/10.1016/s1872-2067(25)64734-6.
-    
-No abstract    
-
-    
 
 ## Redox‐Conjugated CoII‐Phthalocyanine–Phenazine Polymer as a Robust Catalyst for Efficient Electrochemical CO2 Conversion   
 
@@ -708,6 +664,72 @@ Open access: False
 [Anki Reddy Mule](https://openalex.org/A5004931932), [Chandan Chandru Gudal](https://openalex.org/A5008073362), [Jun Ho Seok](https://openalex.org/A5084364648), [Jeong Hwan Byun](https://openalex.org/A5050206913), [Pil J. Yoo](https://openalex.org/A5008459970), [Jung Kyu Kim](https://openalex.org/A5052472508), [Sang Uck Lee](https://openalex.org/A5083443128), [Jae Su Yu](https://openalex.org/A5103079949), [Chan‐Hwa Chung](https://openalex.org/A5058192555), Small Methods. None(None)] 2025.https://doi.org/10.1002/smtd.202500910.
     
 Abstract Design and preparation of freestanding bifunctional ordered structural catalysts with superior activity, low cost, and good reversibility, are crucial for commercial water‐splitting applications. In this study, a durable and effective NiS 2 /ReS 2 (NRS) electrocatalyst is successfully fabricated using various quantities of Re source on carbon cloth (CC) by a facile solvothermal method. Upon changing the quantities of the Re source, the catalyst dimensions and shape undergo substantial changes, enabling the control of the catalytic activity of NRS. In particular, the optimal NRS‐50@CC displays remarkable catalytic performance for oxygen and hydrogen evolution reactions, revealing small overpotentials of 244 mV at 20 mA cm −2 and 108 mV at 10 mA cm −2 , respectively, as well as notable stability. Moreover, the NRS‐50@CC (+, −) cell device requires a voltage of ≈1.56 V at 10 mA cm −2 . This paper proposes a novel approach for the construction of durable bifunctional electrocatalysts using exceptionally active layered metal chalcogenide materials.    
+
+    
+
+## Precisely Bonded Fe─Cu Diatomic Sites with Nitrogen‐Bridged Coordination on Hollow C3N4 Spheres for Efficient C─N Coupling and Selective Photocatalytic Urea Synthesis   
+
+OpenAlex: https://openalex.org/W4413839734    
+Open access: False
+    
+[Muhammad Irfan Ahmad](https://openalex.org/A5081986733), [Xie Quan](https://openalex.org/A5100679975), [Haokun Bai](https://openalex.org/A5068086517), [Yanming Liu](https://openalex.org/A5100393269), [Shuo Chen](https://openalex.org/A5100366872), [Hongtao Yu](https://openalex.org/A5074138884), Angewandte Chemie International Edition. None(None)] 2025.https://doi.org/10.1002/anie.202512234.
+    
+Abstract The photocatalytic synthesis of urea from CO 2 and N 2 co‐reduction presents a promising alternative to the conventional energy‐intensive Haber–Bosch process. However, competitive adsorption on the catalyst surface often limits selectivity and yield. Here, we designed hollow graphitic carbon nitride (g‐C 3 N 4 ) spheres, which serve as a high surface area scaffold for precise anchoring of Fe─Cu diatomic sites. Hollow architecture enhances light harvesting via inner‐scattering effects and charge separation. Each Fe─Cu site is coordinated with two nitrogen atoms, forming N 2 ─Fe 1 ─Cu 1 ─N 2 /C 3 N 4 DAC (hereafter referred to as FeCu/CN), which enables cooperative activation of CO 2 and N 2 , in contrast to monodispersed diatomic (Fe+Cu/CN), and single‐atom catalysts (Fe/CN, Cu/CN). The FeCu/CN bonded pairs serve as highly efficient active centers, facilitating the synergistic adsorption and activation of multiple reactants. Specifically, during the co‐reduction of CO 2 and N 2 , the Fe 1 site preferentially adsorbs and activates CO 2 , while bonded Cu 1 sites stabilize N 2 on FeCu/CN and enable synergistic C─N coupling through the formation of *NCON intermediates. As a result, the FeCu/CN achieves an exceptional urea yield of 7.40 mg·g cat −1 ·h −1 with a 38.58% selectivity under visible light irradiation. Our findings highlight the crucial role of atomic‐level coordination in multireactants and offer insights into the C─N coupling for value‐added products using CO 2 and N 2 as feedstock.    
+
+    
+
+## First-principles study on single metal anchored CrSe2 for efficient electrocatalyst   
+
+OpenAlex: https://openalex.org/W4413844713    
+Open access: True
+    
+[Yadan Sun](https://openalex.org/A5101281837), [Kun Xie](https://openalex.org/A5051933409), [Pei Shi](https://openalex.org/A5109382809), [Zhiyan Feng](https://openalex.org/A5033838618), [Long LIN](https://openalex.org/A5106764954), Transactions of Nonferrous Metals Society of China. 35(8)] 2025.https://doi.org/10.1016/s1003-6326(25)66841-5.
+    
+No abstract    
+
+    
+
+## DFT Study of Lattice Dynamics and Phase Transitions of Mg2NA (A = F, Cl, Br, I) Compounds in Antichalcopyrite and Anti-LiFeO2 Structures   
+
+OpenAlex: https://openalex.org/W4413845007    
+Open access: False
+    
+[V. S. Timofeev](https://openalex.org/A5059608146), [A. B. Gordienko](https://openalex.org/A5045297189), Journal of Structural Chemistry. 66(8)] 2025.https://doi.org/10.1134/s0022476625080116.
+    
+No abstract    
+
+    
+
+## O2 Electroreduction on Silver and Silver‐Based Nanostructured Cathodes: A Review   
+
+OpenAlex: https://openalex.org/W4413847492    
+Open access: True
+    
+[О. І. Кuntyi](https://openalex.org/A5084819697), [Vasyl Skrypnychuk](https://openalex.org/A5079870447), [Galyna Zozulya](https://openalex.org/A5058734258), International Journal of Energy Research. 2025(1)] 2025.https://doi.org/10.1155/er/2481690.
+    
+During the recent decade, the search for catalytically active cathodes of oxygen reduction reaction (ORR) for fuel cells and secondary metal–air batteries has been one of the priority directions of electrochemical energy applications. Existing highly efficient electrocatalysts based on very expensive and rare platinum (Pt) and Pt group elements need replacement with affordable and scalable electrode materials. In this article, we review the recent trends and progress in the research of ORR catalysts alternative to Pt group elements, namely, silver (Ag)‐based nanostructured cathodes. The following main research directions are presented: (1) the O 2 electroreduction mechanism; (2) nanostructured and nanoporous Ag surfaces; (3) Ag nanoparticles (AgNPs) anchored to a carbon substrate; (4) Ag nanostructures deposited onto M x O y − carbon nanocomposites; (5) bimetallic Ag–M nanostructures. The first direction encompasses the analysis of literature data on ORR on Ag surface, which is stable in alkaline electrolytes and provides a four‐electron (4e) pathway for the ORR. In the second direction, we demonstrate the dependence of electroreduction efficiency on the size and shape of AgNPs and their nanoscale porosity. The third direction is based on the enhancement of catalytic activity via designing of fine and ultrafine AgNPs attached to highly porous carbon support nanomaterials such as carbon black, mesoporous carbon (MC), reduced graphene oxide, nitrogen‐doped graphene, multi‐walled carbon nanotubes (MWCNTs) and nitrogen‐doped carbon nanotubes (NCNTs). The fourth direction, hybrid AgNPs–M x O y /carbon nanocomposites, is one of the most promising for ORR applications. The catalytic activity of these nanocomposites is based on the synergy of the AgNPs–M x O y couple, and the nanoscale porosity of carbon materials ensures mass transport of dissolved oxygen to the electrode surface. We describe the characteristic features of electrochemical oxygen reduction for the systems of AgNPs with nanoparticles of MnO 2 , ZrO 2 , WO 3 , Fe 3 O 4 and Co 3 O 4 , which can tune Ag surface states. The fifth separate research direction is the use of bimetallic Ag–M nanostructures for electrocatalytic ORR. The most studied systems are binary, including Ag–Pd, Ag–Cu, Ag–Co and Ag–Ni. This review outlines the trends and prospects of future development of the Ag‐based nanostructured catalytically active cathodes for oxygen reduction.    
+
+    
+
+## Emerging Materials in Electrocatalysis for Fuel Cell-Based Transportation   
+
+OpenAlex: https://openalex.org/W4413860894    
+Open access: False
+    
+[Jennifer Laverde](https://openalex.org/A5042037789), [Nataly Carolina Rosero‐Navarro](https://openalex.org/A5062791599), Energy, environment, and sustainability. None(None)] 2025.https://doi.org/10.1007/978-981-96-6624-9_14.
+    
+No abstract    
+
+    
+
+## Regulation Mechanisms of Single-Atom Doped Ti2CO2 MXene for CO2 Reduction: A DFT Study   
+
+OpenAlex: https://openalex.org/W4413864072    
+Open access: False
+    
+[Huichun Xue](https://openalex.org/A5000445381), [Yitong Chen](https://openalex.org/A5068991083), [Lin Zhu](https://openalex.org/A5101940174), [An Du](https://openalex.org/A5037785383), Electrochimica Acta. None(None)] 2025.https://doi.org/10.1016/j.electacta.2025.147290.
+    
+No abstract    
 
     
 
