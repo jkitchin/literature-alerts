@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Sep  2 01:37:37 2025
+Created on Wed Sep  3 01:23:58 2025
 
-Found 3 results from 2025-08-26 to 2025-09-02
+Found 3 results from 2025-08-27 to 2025-09-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -20,7 +20,7 @@ Abstract. Atmospheric aerosols influence climate through their interactions with
 ## Optimization of Direct Air Capture Processes using Reactive Transport Models of Adsorption-Desorption Cycles   
 
 OpenAlex: https://openalex.org/W4413787348    
-Open access: False
+Open access: True
     
 [Héctor Pedrozo](https://openalex.org/A5079899169), [Mayra G. Gonzalez-Ramirez](https://openalex.org/A5119461633), [Tiras Y. Lin](https://openalex.org/A5068663944), [Thomas Moore](https://openalex.org/A5061541871), [Thomas Roy](https://openalex.org/A5045383567), [Du T. Nguyen](https://openalex.org/A5073617416), [Pratanu Roy](https://openalex.org/A5001937976), [Sarah E. Baker](https://openalex.org/A5101188452), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Grigorios Panagakos](https://openalex.org/A5028498558), Computers & Chemical Engineering. None(None)] 2025.https://doi.org/10.1016/j.compchemeng.2025.109379.
     
