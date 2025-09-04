@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Sep 2025 01:23:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 01:23:53 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,16 +26,6 @@
       <author>H&#233;ctor Pedrozo, Mayra G. Gonzalez-Ramirez, Tiras Y. Lin, Thomas Moore, Thomas Roy, Du T. Nguyen, Pratanu Roy, Sarah E. Baker, Lorenz T. Biegler, Grigorios Panagakos</author>
       <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2025.109379</guid>
-    </item>
-    <item>
-      <title>Trees are much better at creating clouds and cooling the climate than we thought</title>
-      <link>https://doi.org/10.64628/ab.fv9q7tsjc</link>
-      <description>Hamish Gordon, Catherine E. Scott, No host. None(None)] 2016. https://openalex.org/W4413666866
-
-                No abstract</description>
-      <author>Hamish Gordon, Catherine E. Scott</author>
-      <pubDate>Mon, 10 Oct 2016 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.64628/ab.fv9q7tsjc</guid>
     </item>
   </channel>
 </rss>
