@@ -1,31 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Sep  4 01:23:53 2025
+Created on Fri Sep  5 01:26:18 2025
 
-Found 2 results from 2025-08-28 to 2025-09-04
+Found 4 results from 2025-08-29 to 2025-09-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Evaluation of UKESM aerosol size and composition using ATom measurements indicates missing marine aerosol formation mechanisms  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4413761189
-:TOPICS: Atmospheric chemistry and aerosols
-:PUBLICATION_DATE: 2025-08-27
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5194/egusphere-2025-3700")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413761189"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413761189"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413761189"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4413761189 (Open access: True)
-    
-[[https://openalex.org/A5043129752][Xu‐Cheng He]], [[https://openalex.org/A5078321071][Nathan Luke Abraham]], [[https://openalex.org/A5028462074][Hanming Ding]], [[https://openalex.org/A5039808740][M. R. Russo]], [[https://openalex.org/A5028113214][Daniel P. Grosvenor]], [[https://openalex.org/A5046345910][Yao Ge]], [[https://openalex.org/A5100390606][Xuemei Wang]], [[https://openalex.org/A5025245146][Anthony C. Jones]], [[https://openalex.org/A5025491485][Pedro Campuzano‐Jost]], [[https://openalex.org/A5005329534][Benjamin A. Nault]], [[https://openalex.org/A5023718996][Agnieszka Kupc]], [[https://openalex.org/A5046694694][D. R. Blake]], [[https://openalex.org/A5081595136][J. L. Jiménez]], [[https://openalex.org/A5088165219][Christina Williamson]], [[https://openalex.org/A5061310552][K. S. Carslaw]], [[https://openalex.org/A5045012555][James Weber]], [[https://openalex.org/A5042559521][A. T. Archibald]], [[https://openalex.org/A5086004922][Hamish Gordon]], No host. None(None)] 2025. https://doi.org/10.5194/egusphere-2025-3700 
-     
-Abstract. Atmospheric aerosols influence climate through their interactions with radiation and clouds, yet large uncertainties remain in their simulation by global models. This study evaluates the United Kingdom Earth System Model version 1.1 (UKESM1.1) using global-scale aircraft observations from the. Atmospheric Tomography (ATom) mission, focusing on aerosol lifecycle processes in the remote marine atmosphere. We assess model performance in simulating aerosol precursor vapours, number size distributions, chemical composition, and environmental conditions. Several process improvements are tested, including sulfuric acid–ammonia nucleation, ammonium nitrate scheme, methanesulfonic acid condensation, and low-temperature isoprene-derived secondary organic aerosol formation. Model biases differ significantly between the upper troposphere (UT) and the marine boundary layer (MBL). In the UT, UKESM1.1 overestimates nucleation and Aitken mode particles while underestimating accumulation mode, indicating insufficient growth. In the MBL, the model overestimates primary aerosols (e.g. seasalt) and precursor gases but underestimates nucleation and Aitken mode particles, even after incorporating updated nucleation and ammonium nitrate scheme. The persistence of low aerosol number concentrations, despite overestimated precursors, suggests missing formation pathways likely involving other species such as iodine, amines, or organic vapours. These limitations result in an unbalanced cloud condensation nuclei budget that over-replies on primary emissions. Sensitivity tests reveal that model outputs are strongly influenced by dimethyl sulfide emissions and vapour condensation schemes. Our results highlight the need for future model development to prioritise mechanistic representation of currently missing aerosol sources, rather than relying on empirical tuning, to improve aerosol–climate interaction estimates.    
-
-    
 
 * Optimization of Direct Air Capture Processes using Reactive Transport Models of Adsorption-Desorption Cycles  :CMU_Chemical_Engineering:
 :PROPERTIES:
@@ -45,5 +24,68 @@ OpenAlex: https://openalex.org/W4413787348 (Open access: True)
 [[https://openalex.org/A5079899169][Héctor Pedrozo]], [[https://openalex.org/A5119461633][Mayra G. Gonzalez-Ramirez]], [[https://openalex.org/A5068663944][Tiras Y. Lin]], [[https://openalex.org/A5061541871][Thomas Moore]], [[https://openalex.org/A5045383567][Thomas Roy]], [[https://openalex.org/A5073617416][Du T. Nguyen]], [[https://openalex.org/A5001937976][Pratanu Roy]], [[https://openalex.org/A5101188452][Sarah E. Baker]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], [[https://openalex.org/A5028498558][Grigorios Panagakos]], Computers & Chemical Engineering. None(None)] 2025. https://doi.org/10.1016/j.compchemeng.2025.109379 
      
 No abstract    
+
+    
+
+* Overcoming the Central Line–Associated Bloodstream Infection Plateau through Proactive Safety Methodologies: A Quality Improvement Project  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413901169
+:TOPICS: Quality and Safety in Healthcare, Patient Safety and Medication Errors, Health Systems, Economic Evaluations, Quality of Life
+:PUBLICATION_DATE: 2025-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1097/pq9.0000000000000838")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413901169"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413901169"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413901169"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413901169 (Open access: True)
+    
+[[https://openalex.org/A5119508507][Christine Marigliano]], [[https://openalex.org/A5030843600][Sharon Goodman]], [[https://openalex.org/A5028147543][James Schneider]], [[https://openalex.org/A5082948573][Charlotte Smith]], [[https://openalex.org/A5119508510][Brianna Concannon]], [[https://openalex.org/A5119508511][Aidan Doona]], [[https://openalex.org/A5119508512][Julia Vitucci]], [[https://openalex.org/A5063606897][Lorry G. Rubin]], [[https://openalex.org/A5029945563][Lawrence C. Wolfe]], [[https://openalex.org/A5119508508][Raymond Festa]], [[https://openalex.org/A5119508509][Elan Itschakov]], [[https://openalex.org/A5059236287][Robert Koppel]], [[https://openalex.org/A5026010345][Donna Baranek]], [[https://openalex.org/A5010026773][L. Jendresky]], [[https://openalex.org/A5047409928][Anupama Subramony]], Pediatric Quality and Safety. 10(S1)] 2025. https://doi.org/10.1097/pq9.0000000000000838 
+     
+No abstract    
+
+    
+
+* Domain decomposition preconditioners for Schur complement systems arising in structured nonlinear optimization problems  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413932515
+:TOPICS: Numerical methods for differential equations, Matrix Theory and Algorithms, Advanced Numerical Methods in Computational Mathematics
+:PUBLICATION_DATE: 2025-09-02
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s11081-025-10020-1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413932515"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413932515"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413932515"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413932515 (Open access: True)
+    
+[[https://openalex.org/A5017863327][Laurens R. Lueg]], [[https://openalex.org/A5031357535][Michael Bynum]], [[https://openalex.org/A5109041235][Carl D. Laird]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], Optimization and Engineering. None(None)] 2025. https://doi.org/10.1007/s11081-025-10020-1  ([[https://link.springer.com/content/pdf/10.1007/s11081-025-10020-1.pdf][pdf]])
+     
+Abstract Large-scale nonlinear, nonconvex optimization problems arise in many relevant engineering applications, such as integrated energy systems, public health, or supply-chain logistics. Their solution is often challenging due to problem scale, significant spatio-temporal interactions, or time constraints (e.g. for real-time operations). This work focuses on decomposition strategies for nonlinear problems with distributed structure, where interactions between problem partitions can be defined over sparse graphs. Parallelization is achieved on the linear algebra level within an interior point algorithm using the Schur complement method, and we propose several distributed algebraic preconditioners for the Schur complement system, based on approaches from the field of domain decomposition. We demonstrate promising strong scaling results on large-scale problem instances for parameter estimation of infectious disease models and PDE-constrained optimal control.    
+
+    
+
+* Weak influence of anthropogenic emissions on aerosol, cloud, and rain in the wet season of the Amazon rainforest  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4413961345
+:TOPICS: Atmospheric aerosols and clouds, Atmospheric chemistry and aerosols, Atmospheric Ozone and Climate
+:PUBLICATION_DATE: 2025-09-03
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5194/acp-25-9685-2025")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413961345"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413961345"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413961345"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4413961345 (Open access: True)
+    
+[[https://openalex.org/A5100390606][Xuemei Wang]], [[https://openalex.org/A5061310552][K. S. Carslaw]], [[https://openalex.org/A5028113214][Daniel P. Grosvenor]], [[https://openalex.org/A5086004922][Hamish Gordon]], Atmospheric chemistry and physics. 25(17)] 2025. https://doi.org/10.5194/acp-25-9685-2025  ([[https://acp.copernicus.org/articles/25/9685/2025/acp-25-9685-2025.pdf][pdf]])
+     
+Abstract. Anthropogenic emissions have been shown to affect new particle formation, aerosol concentrations, and clouds. Such effects vary with region, environmental conditions, and cloud types. In the wet season of Amazonia, anthropogenic emissions emitted from Manaus, Brazil, can significantly increase the cloud condensation nuclei (CCN) concentrations compared to the background of mainly natural aerosols. However, the regional response of cloud and rain to anthropogenic emissions in Amazonia remains very uncertain. Here, we aim to quantify how aerosol concentration, cloud, and rain respond to changes in anthropogenic emissions through parameterized new particle formation and primary aerosol emission in the Manaus region and to understand the underlying mechanisms. We ran the atmosphere-only configuration of the HadGEM3 climate model with a nested regional domain that covers most of the rainforest region (720 km by 1200 km with 3 km resolution) under scaled regional emissions. The 7 d simulations show that, in the areas that are affected by anthropogenic emissions, when aerosol and precursor gas emissions are doubled from the baseline emission inventories, aerosol number concentrations increase by 13 %. The nucleation rate that involves sulfuric acid and biogenic compounds generally increases with pollution levels. However, nucleation is suppressed very close to the pollution source, resulting in lower nucleation and soluble Aitken mode aerosol number concentrations. We also found that doubling the anthropogenic emission can increase the cloud droplet number concentrations (Nd) by 9 %, but cloud water and rain mass mixing ratios do not change significantly. Even very strong reductions in aerosol number concentrations by a factor of 4, which is an unrealistic condition, cause only a 4 % increase in rain over the domain. If we assume our simulation has a fine enough grid resolution and an accurate representation of the relevant atmospheric processes, the simulated weak and non-linear response of cloud and rain properties to linearly scaled anthropogenic emissions suggests that the interactions among aerosol, cloud, and precipitation in the Amazonian convective environment are buffered by microphysical processes. It also implies that the convective environment is resilient to the changes in Nd that occur in response to localized anthropogenic aerosol perturbations.    
 
     
