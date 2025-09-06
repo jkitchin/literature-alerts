@@ -4,139 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Sep 2025 01:26:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 01:23:52 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Scalable Sol&#8211;Gel NiFe (Oxy)hydroxide Coatings on Ni Foam Yield Unified Anodes for Robust AEM Water Electrolyzer Modules</title>
-      <link>https://doi.org/10.1021/acssuschemeng.5c03052</link>
-      <description>Sun Young Kang, Ok&#8208;Hee Kim, Hee Ji Choi, Hyunjoo Choi, Hosung Choi, Ilchai La, Gyoo&#8208;Soo Chae, Yong&#8208;Hun Cho, Gilho Kim, Yung&#8208;Eun Sung, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2025. https://openalex.org/W4413787705
-
-                No abstract</description>
-      <author>Sun Young Kang, Ok&#8208;Hee Kim, Hee Ji Choi, Hyunjoo Choi, Hosung Choi, Ilchai La, Gyoo&#8208;Soo Chae, Yong&#8208;Hun Cho, Gilho Kim, Yung&#8208;Eun Sung</author>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.5c03052</guid>
-    </item>
-    <item>
-      <title>Efficient Conversion of Seawater Vapor to Hydrogen Using Cu&#8211;Fe/Al2O3 Catalysts Assisted by Non-thermal Plasma</title>
-      <link>https://doi.org/10.1007/s10562-025-05152-z</link>
-      <description>Yuhang Zhong, Hui Xu, Zhiguo Li, Yuqi Zhang, Jianyuan Hou, Yuan Yuan, Xingang Liu, Renxi Zhang, Catalysis Letters. 155(9)] 2025. https://openalex.org/W4413788794
-
-                No abstract</description>
-      <author>Yuhang Zhong, Hui Xu, Zhiguo Li, Yuqi Zhang, Jianyuan Hou, Yuan Yuan, Xingang Liu, Renxi Zhang</author>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10562-025-05152-z</guid>
-    </item>
-    <item>
-      <title>Unveiling the thermal transport properties of Biphenylene nanotubes: A molecular dynamics study</title>
-      <link>https://doi.org/10.1016/j.ijheatmasstransfer.2025.127729</link>
-      <description>Jhionathan de Lima, Cristiano F. Woellner, International Journal of Heat and Mass Transfer. 255(None)] 2025. https://openalex.org/W4413789149
-
-                No abstract</description>
-      <author>Jhionathan de Lima, Cristiano F. Woellner</author>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijheatmasstransfer.2025.127729</guid>
-    </item>
-    <item>
-      <title>Fining Crystal Facet and Oxygen Vacancy Engineering of Bifunctional BiOBr Facilitates Excellent Photocatalytic Hydrogen Evolution and Phenol Hydroxylation</title>
-      <link>https://doi.org/10.1021/acs.langmuir.5c03072</link>
-      <description>Xue Li, Guangri Chen, Guoliang Zhu, Lianwei Shan, Jagadeesh Suriyaprakash, Haitao Wu, Xuejiao Li, Xiulan He, Limin Dong, Ziqi Shi, Langmuir. None(None)] 2025. https://openalex.org/W4413792927
-
-                The most cost-effective and environmentally benign method of producing hydrogen fuel from water is solar-driven hydrogen production, using efficient photocatalysts with low-energy photons. Engineering such a photocatalyst remains highly challenging. In this work, BiOBr(001) and BiOBr(010) nanosheets were synthesized using the hydrothermal method. Oxygen vacancies (OVs) were engineered in the BiOBr(001) and BiOBr(010) nanosheets by using a UV light-driven strategy. BiOBr(001) with OVs outperforms BiOBr(010) with OVs in photocatalytic activity for hydrogen evolution, producing 219.33 &#956;mol&#183;g-1 within 4 h. So far, this is the highest photocatalytic hydrogen evolution performance of bismuth-based photocatalysts without cocatalysts. The electrochemical study results indicate that OVs considerably lower the overpotential of the hydrogen evolution reaction (HER). Experimental results show that OVs can enhance the reduction ability of photogenerated electrons and extend the lifetime of carriers. Their presence significantly enhances charge carrier separation by breaking the local structural symmetry, as demonstrated by density functional theory. Additionally, phenol hydroxylation is greatly enhanced due to the strong H2O decomposition ability of BiOBr(001) with OVs. OVs increase the carrier concentration of the (010) crystal facet, while theoretical calculations reveal that OVs greatly suppress the carrier recombination probability on the (001) crystal facet. Here, we propose that the "hydroxyl blocking effect" on the (001) crystal facet of BiOBr is responsible for the low HER and phenol hydroxylation activities. By optimizing hydroxyl adsorption free energy via OVs, the conversion rate of phenol hydroxylation over the (001) crystal facet with OVs can be achieved at 99.2%. This work offers the fundamental understanding required to improve the photocatalytic efficiency of BiOBr and related photocatalysts by introducing oxygen vacancies (OVs) and altering the crystal facets.</description>
-      <author>Xue Li, Guangri Chen, Guoliang Zhu, Lianwei Shan, Jagadeesh Suriyaprakash, Haitao Wu, Xuejiao Li, Xiulan He, Limin Dong, Ziqi Shi</author>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.5c03072</guid>
-    </item>
-    <item>
-      <title>Artificial Intelligence in Geomorphology: A Bibliometric Analysis of Trends, Techniques, and Global Research Patterns</title>
-      <link>https://doi.org/10.3390/geosciences15090331</link>
-      <description>Marco Luppichini, Domenico Capolongo, Giovanni Scardino, Giovanni Scicchitano, M&#243;nica Bini, Geosciences. 15(9)] 2025. https://openalex.org/W4413796749
-
-                In recent years, artificial intelligence has gained significant traction in Earth sciences, driving a shift from qualitative approaches to quantitative, data-driven methodologies. In geomorphology, artificial intelligence techniques are now applied at multiple scales and for diverse purposes, leveraging a wide spectrum of methods including supervised and unsupervised machine learning, regression algorithms, classification models, clustering techniques, neural networks, and dimensionality reduction. This study presents a structured bibliometric analysis of the scientific literature indexed in Scopus, analyzing over 2000 articles published between 1990 and 2024. Through a bibliometric approach, we explore temporal trends, the most commonly used artificial intelligence techniques, thematic domains, geographic patterns, and associated keywords. Results reveal the pervasive use of artificial intelligence in key geomorphological areas, particularly in fluvial, coastal, and erosional contexts, alongside the adoption of a rich variety of algorithms. The study also highlights the wide range of AI techniques applied in geomorphological research, spanning from traditional machine learning models to advanced neural architectures. This review provides a critical overview of the current landscape and outlines future directions to support more transparent, equitable, and integrated adoption of artificial intelligence in geomorphological research. The findings of this study are relevant to a wide range of stakeholders. Researchers and Ph.D. candidates can use the results to identify dominant thematic and methodological trajectories and detect underexplored areas. Data scientists and AI specialists may benefit from the mapped applications to implement advanced techniques in geomorphological contexts. The analysis also offers useful insights for funding agencies aiming to support strategic and equitable research development, particularly in underrepresented regions. Finally, journal editors and publishers may use emerging trends to inform the design of thematic issues and research priorities.</description>
-      <author>Marco Luppichini, Domenico Capolongo, Giovanni Scardino, Giovanni Scicchitano, M&#243;nica Bini</author>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/geosciences15090331</guid>
-    </item>
-    <item>
-      <title>Strong Catalyst&#8208;Support Interaction Stabilizes IrO&lt;sub&gt;x&lt;/sub&gt; Nanoclusters for Efficient Acidic Oxygen Evolution</title>
-      <link>https://doi.org/10.1002/adfm.202515920</link>
-      <description>Y. Liu, Haeseong Jang, Xiaoke Xi, Ying Zhong, Ruiguo Cao, Shuhong Jiao, Xiyu Li, Zhanwu Lei, Jing&#8208;Li Luo, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4413796815
-
-                Abstract Low&#8208;loading iridium (Ir) catalysts hold great promise for the acidic oxygen evolution reaction (OER) due to their typically high Ir utilization and reduced cost. However, their practical application is limited by poor stability under the harsh acidic oxidative conditions of proton exchange membrane (PEM) water electrolysis. Here, a controlled structural transformation strategy is presented that converts an unstable LiCoO 2 &#8208;supported Ir single&#8208;atom catalyst (Ir&#8208;LiCoO 2 ) into a corrosion&#8208;resistant Co 3 O 4 &#8208;supported IrO x nanocluster catalyst (IrO x /Co 3 O 4 ), significantly enhancing catalyst durability. Strong catalyst&#8208;support interactions between IrO x and Co 3 O 4 facilitate charge transfer, thereby stabilizing the IrO x nanoclusters against leaching and optimizing the electronic structure of the Ir active sites. As a result, IrO x /Co 3 O 4 exhibits substantially enhanced OER performance compared to Ir&#8208;LiCoO 2 , achieving excellent operational stability over 1200 h and a low overpotential of &#8776;233 mV at 10 mA cm &#8722;2 in 0.5 m H 2 SO 4 . This superior performance is further validated in PEM electrolyzers, confirming its practical applicability. Furthermore, theoretical calculations reveal that Ir sites in IrO x /Co 3 O 4 exhibit higher dissolution potentials and improve charge transfer capabilities with OER intermediates compare to those in Ir&#8208;LiCoO 2 and IrO 2 , which effectively suppresses Ir leaching and lowers the energy barrier of the potential&#8208;determining step.</description>
-      <author>Y. Liu, Haeseong Jang, Xiaoke Xi, Ying Zhong, Ruiguo Cao, Shuhong Jiao, Xiyu Li, Zhanwu Lei, Jing&#8208;Li Luo</author>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202515920</guid>
-    </item>
-    <item>
-      <title>Mechanistic insights into CO2 reduction on C3N3 supported single atom catalysts: A DFT study</title>
-      <link>https://doi.org/10.1016/j.mcat.2025.115439</link>
-      <description>Sajjad Ali, Pir Muhammad Ismail, Muhammad Humayun, Hazem Abu&#8208;Farsakh, M. Bououdina, Faheem Jan, Molecular Catalysis. 586(None)] 2025. https://openalex.org/W4413801420
-
-                No abstract</description>
-      <author>Sajjad Ali, Pir Muhammad Ismail, Muhammad Humayun, Hazem Abu&#8208;Farsakh, M. Bououdina, Faheem Jan</author>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2025.115439</guid>
-    </item>
-    <item>
-      <title>Self-Adaptive Sn&#8211;Fe Electron Pair Centers in Pt/SnFe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; for Anti-Tumor Synergistic Therapy</title>
-      <link>https://doi.org/10.1021/acsami.5c11501</link>
-      <description>Meichun Fu, Zhiyu Shao, Yuan Zhang, Qian Zhu, Kuo He, Mengzhu Zhang, Yuzhu Hou, Laiping Fang, Fei Yan, Shuang Zhang, Jianshi Du, Ping&#8217;an Ma, Keke Huang, Shouhua Feng, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4413802585
-
-                Despite the multiple advantages of high tissue penetration depth, selectivity, and noninvasiveness of photothermal-assisted antitumor synergistic therapy, developing photothermal agents with multifunctional characteristics, desirable tumor therapeutic effects, and biological stability remains a key challenge. Herein, an electronic structure-regulated strategy is proposed to activate self-adaptive Sn&#8211;Fe electron pair centers (Sn2+/Sn4+ and Fe2+/Fe3+) through loading the electron donor Pt (Pt/SFO-1, -2, -3, -4). Experimental and theoretical calculations indicate that abundant dynamic active centers can facilitate the production of reactive oxygen species (ROS), which enables Pt/SFO samples to possess catalase (CAT), peroxidase (POD), and oxidase (OXD) enzyme-like activities. Upon near-infrared (NIR) laser irradiation, Pt/SFO-2 with a Pt load of 0.9% achieves the highest ROS production, showing a 9-fold compared with SnFe2O4 and implements the synergistic therapy of photothermal therapy (PTT), photodynamic therapy (PDT), and chemodynamic therapy (CDT). The electronic state regulation of inorganic photothermal agents not only improves tumor therapeutic effects but also offers a novel strategy to regulate the electron structure of active centers.</description>
-      <author>Meichun Fu, Zhiyu Shao, Yuan Zhang, Qian Zhu, Kuo He, Mengzhu Zhang, Yuzhu Hou, Laiping Fang, Fei Yan, Shuang Zhang, Jianshi Du, Ping&#8217;an Ma, Keke Huang, Shouhua Feng</author>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c11501</guid>
-    </item>
-    <item>
-      <title>AI, agentic models and lab automation for scientific discovery &#8212; the beginning of scAInce</title>
-      <link>https://doi.org/10.3389/frai.2025.1649155</link>
-      <description>Thomas Hartung, Frontiers in Artificial Intelligence. 8(None)] 2025. https://openalex.org/W4413803484
-
-                Until recently, the conversation about generative artificial intelligence in science revolved around the textual prowess of large language models such as GPT-3.5 and the promise that they might one day draft a decent literature review. Since then, progress has been nothing short of breathtaking. We now find ourselves in the era of multimodal, agentic systems that listen, see, speak and act, orchestrating cloud software and physical laboratory hardware with a fluency that would have sounded speculative in early 2023. In this review, I merge the substance of our 2024 white paper for the World Economic Forum Top-10-Technologies Report with the latest advances through mid-2025, charting a course from automated literature synthesis and hypothesis generation to self-driving laboratories, organoid intelligence and climate-scale forecasting. The discussion is grounded in emerging governance regimes&#8212;notably the European Union Artificial Intelligence Act and ISO 42001&#8212;and is written from the dual vantage-point of a toxicologist who has spent a career championing robust, humane science and of a field chief editor charged with safeguarding scholarly standards in Frontiers in Artificial Intelligence . I argue that research is entering a &#8220;co-pilot to lab-pilot&#8221; transition in which AI no longer merely interprets knowledge but increasingly acts upon it . This shift promises dramatic efficiency gains yet simultaneously amplifies concerns about reproducibility, auditability, safety and equitable access.</description>
-      <author>Thomas Hartung</author>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3389/frai.2025.1649155</guid>
-    </item>
-    <item>
-      <title>Computational Chemistry in Zeolite Catalysis</title>
-      <link>https://doi.org/10.1039/9781837676859-00312</link>
-      <description>Alexander A. Kolganov, Evgeny A. Pidko, Zeolites. None(None)] 2025. https://openalex.org/W4413806482
-
-                No abstract</description>
-      <author>Alexander A. Kolganov, Evgeny A. Pidko</author>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/9781837676859-00312</guid>
-    </item>
-    <item>
-      <title>Towards selective Ir/IrO2 electrochemical dissolution of Ir-based electrocatalysts for enhanced proton exchange membrane water electrolyzer sustainability</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2025.238224</link>
-      <description>Jia Du, Matej Zlatar, Damin Zhang, Daniel Escalera&#8208;L&#243;pez, Jonathan Quinson, Serhiy Cherevko, Matthias Arenz, Journal of Power Sources. 657(None)] 2025. https://openalex.org/W4413818446
-
-                No abstract</description>
-      <author>Jia Du, Matej Zlatar, Damin Zhang, Daniel Escalera&#8208;L&#243;pez, Jonathan Quinson, Serhiy Cherevko, Matthias Arenz</author>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.238224</guid>
-    </item>
-    <item>
-      <title>Application of machine learning in high-throughput screening of binary alloys for the hydrogenation of benzene</title>
-      <link>https://doi.org/10.21203/rs.3.rs-7387859/v1</link>
-      <description>Zhili Chang, Guangquan Li, Wei&#8208;Jun Cai, Haolan Liu, Guangcheng Zhang, Wei&#8208;Tao Ou, Research Square (Research Square). None(None)] 2025. https://openalex.org/W4413819549
-
-                Abstract The hydrogenation of benzene is a key reaction in industry, and binary alloys are promising candidates for improving the catalytic efficiency of this process. In this study, the adsorption energies of benzene and hydrogen over random 150 alloys are determined using density functional theory (DFT) calculation, and varied physical properties of alloys are used as descriptors. Four machine learning (ML) models, light gradient boosting machine (LGBM), extreme gradient boosting (XGBT), multilayer perceptron (MLP) and support vector machine (SVM) are employed to predict the adsorption energies. After feature selection and parameter optimization, LGBM model shows the highest prediction accuracy, with correlation coefficient (R2) and root mean square error (RMSE) of 0.813 and 0.415 eV for benzene, as well as 0.874 and 0.176 eV for hydrogen. Therefore, LGBM model is selected to predict the adsorption energies of benzene and hydrogen (&#916;EB and &#916;EH), and Cu2Ni2 has excellent &#916;EB and &#916;EH of -4.97 and &#8722; 1.81 eV.</description>
-      <author>Zhili Chang, Guangquan Li, Wei&#8208;Jun Cai, Haolan Liu, Guangcheng Zhang, Wei&#8208;Tao Ou</author>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-7387859/v1</guid>
-    </item>
-    <item>
-      <title>Aligned d-orbital energy level of dual-atom sites catalysts for oxygen reduction reaction in anion exchange membrane fuel cells</title>
-      <link>https://doi.org/10.1038/s41467-025-63322-4</link>
-      <description>Youze Zeng, Xue Wang, Qi Wei, Changpeng Liu, Lanlu Lu, Meiling Xiao, Kai Li, Fei Xiao, Minhua Shao, Wei Xing, Jianbing Zhu, Nature Communications. 16(1)] 2025. https://openalex.org/W4413819938
-
-                The inherent scaling relationships between adsorption energies of oxygen-containing intermediates impose an intrinsic limitation on the maximum oxygen reduction reaction (ORR) activity, which represents one of the bottlenecks for the practical application of anion exchange membrane fuel cells (AEMFCs). To address this challenge, we align the 3dz2 orbital energy levels of Fe and Co to selectively customize the dissociative ORR pathway without the formation of OOH* intermediates, circumventing the conventional OH*-OOH* scaling relations. This rational design is achieved by atomic phosphorus(P) substitution, which not only optimizes orbital matching towards O-O cis-bridge adsorption, but also stabilizes the spontaneously adsorbed OH ligand as an electronic modifier. Due to these attributes, the well-designed FeCo-N/P-C catalyst demonstrates ORR performance with a current density of 251 mA&#183;cm-2 at 0.9 ViR-free under 1.5 bar H2-O2, showing a competitive performance with state-of-the-art Pt-free electrocatalysts and meeting the 2025 DOE target (44 mA&#183;cm-2). More importantly, the peak power density reaches as high as 0.805 W&#183;cm-2 under 1.5 bar H2-air with negligible degradation observed over 10,000 cycles of voltage accelerated stress testing. This work offers a highly competitive electrocatalyst for AEMFCs and opens an effective avenue to bypass the constraints of linear scaling relations for ORR and beyond. The inherent scaling relationships among the adsorption energies of intermediates limit the efficiency of oxygen electrocatalysis. Here, a dual-atom catalyst with aligned orbital energy level is developed, driving the dissociative pathway to bypass scaling relationships towards enhanced performance.</description>
-      <author>Youze Zeng, Xue Wang, Qi Wei, Changpeng Liu, Lanlu Lu, Meiling Xiao, Kai Li, Fei Xiao, Minhua Shao, Wei Xing, Jianbing Zhu</author>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-63322-4</guid>
-    </item>
     <item>
       <title>Novel Janus XGa&#8211;PbP (X = S, Se) monolayers: excellent photocatalysts for overall water splitting</title>
       <link>https://doi.org/10.1039/d5ra04300j</link>
@@ -536,6 +406,86 @@
       <author>Radhey Shyam Yadav, Haya Kornweitz</author>
       <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c04219</guid>
+    </item>
+    <item>
+      <title>New tertiary phosphane appended Ag&#8544; 3-ethoxycyclobutene-4-thiolates: Insights into phosphane denticity effect on electrocatalytic water splitting properties</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.151343</link>
+      <description>Aparna Kushwaha, Devyani Srivastava, Gabriele Kociok&#8208;K&#246;hn, Yogita Padwal, Suresh Gosavi, Ratna Chauhan, Mohd. Muddassir, Abhinav Kumar, International Journal of Hydrogen Energy. 172(None)] 2025. https://openalex.org/W4413981392
+
+                No abstract</description>
+      <author>Aparna Kushwaha, Devyani Srivastava, Gabriele Kociok&#8208;K&#246;hn, Yogita Padwal, Suresh Gosavi, Ratna Chauhan, Mohd. Muddassir, Abhinav Kumar</author>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.151343</guid>
+    </item>
+    <item>
+      <title>Fundamental Mechanisms, Synthesis Strategies and Key Challenges of Transition Metal Borides for Electrocatalytic Hydrogen Evolution</title>
+      <link>https://doi.org/10.1007/s41918-025-00255-y</link>
+      <description>Tongzhou Hong, Chengzhi Xiao, Jin Jia, Yuanyuan Zhu, Wang Qiang, Liang Yu, Xiao Wang, Bentian Zhang, Guang Zhu, Zhong&#8208;Shuai Wu, Electrochemical Energy Reviews. 8(1)] 2025. https://openalex.org/W4413981838
+
+                No abstract</description>
+      <author>Tongzhou Hong, Chengzhi Xiao, Jin Jia, Yuanyuan Zhu, Wang Qiang, Liang Yu, Xiao Wang, Bentian Zhang, Guang Zhu, Zhong&#8208;Shuai Wu</author>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s41918-025-00255-y</guid>
+    </item>
+    <item>
+      <title>High-throughput screening anisotropic negative thermal expansion framework materials</title>
+      <link>https://doi.org/10.1016/j.actamat.2025.121493</link>
+      <description>Zhikai Gao, Xianteng Zhou, Meng Xu, Yuanji Xu, Fuyang Tian, Acta Materialia. None(None)] 2025. https://openalex.org/W4413983191
+
+                No abstract</description>
+      <author>Zhikai Gao, Xianteng Zhou, Meng Xu, Yuanji Xu, Fuyang Tian</author>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2025.121493</guid>
+    </item>
+    <item>
+      <title>Atomic Origins of Roughness-Enhanced Multicarbon Selectivity in Copper-Catalyzed CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction</title>
+      <link>https://doi.org/10.1021/acsenergylett.5c02126</link>
+      <description>Joakim Halldin Stenlid, Joseph A. Gauthier, Martin Head&#8208;Gordon, Alexis T. Bell, Frank Abild&#8208;Pedersen, ACS Energy Letters. None(None)] 2025. https://openalex.org/W4413991006
+
+                No abstract</description>
+      <author>Joakim Halldin Stenlid, Joseph A. Gauthier, Martin Head&#8208;Gordon, Alexis T. Bell, Frank Abild&#8208;Pedersen</author>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.5c02126</guid>
+    </item>
+    <item>
+      <title>Assessing Efficiencies of Infrared and Visible Active Janus MXenes in CO&lt;sub&gt;2&lt;/sub&gt; to Methane Conversion by Photocatalysis</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c03918</link>
+      <description>Swati Shaw, Subhradip Ghosh, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4413994144
+
+                No abstract</description>
+      <author>Swati Shaw, Subhradip Ghosh</author>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c03918</guid>
+    </item>
+    <item>
+      <title>&#8764;100% enhancement of cryogenic thermoelectric performance of Bi&lt;sub&gt;80&lt;/sub&gt;Sb&lt;sub&gt;20&lt;/sub&gt; alloys by incorporation of Fe&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; nanoparticles</title>
+      <link>https://doi.org/10.1039/d5ta04222d</link>
+      <description>Mengran Chen, Zhendong Mao, Heng Liu, Shun Wan, Xugui Xia, Xuefei Zhang, Chuanrui Zhang, Qingfeng Song, Shengqiang Bai, Peng&#8208;an Zong, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4413994427
+
+                Bi 80 Sb 20 /Fe 3 O 4 nanocomposites, prepared via stearic acid-assisted ball milling and SPS, showed a peak zT of 0.31 at 242 K (&#8764;100% enhancement) and improved hardness, enabling simultaneous TE&#8211;mechanical optimization.</description>
+      <author>Mengran Chen, Zhendong Mao, Heng Liu, Shun Wan, Xugui Xia, Xuefei Zhang, Chuanrui Zhang, Qingfeng Song, Shengqiang Bai, Peng&#8208;an Zong</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ta04222d</guid>
+    </item>
+    <item>
+      <title>Strategic Morphological Engineering of NiP2O6 via g-C3N4 Integration for Boosted Electrocatalytic Activity through a Synergistic Approach toward Advanced Energy Conversion Applications</title>
+      <link>https://doi.org/10.1016/j.jece.2025.119096</link>
+      <description>Bodicherla Naresh, T.V.M. Sreekanth, Chandra Reddy Neeragatti Suma, K. Sunil Kumar, Kisoo Yoo, Jonghoon Kim, Journal of environmental chemical engineering. None(None)] 2025. https://openalex.org/W4413996711
+
+                No abstract</description>
+      <author>Bodicherla Naresh, T.V.M. Sreekanth, Chandra Reddy Neeragatti Suma, K. Sunil Kumar, Kisoo Yoo, Jonghoon Kim</author>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2025.119096</guid>
+    </item>
+    <item>
+      <title>A universal procedure to prepare high density M-N4 sites anchored in nitrogen doped porous carbon as efficient oxygen reduction reaction catalysts for flexible Zn-air batteries</title>
+      <link>https://doi.org/10.1016/j.jcis.2025.138918</link>
+      <description>Yanqiang Li, Ming Cui, Jingli Xu, Zhongzheng Yang, Siru Chen, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4414001153
+
+                No abstract</description>
+      <author>Yanqiang Li, Ming Cui, Jingli Xu, Zhongzheng Yang, Siru Chen</author>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.138918</guid>
     </item>
     <item>
       <title>A comprehensive theoretical study on CuOx/Cu(110) catalyzed water&#8211;gas shift reaction</title>

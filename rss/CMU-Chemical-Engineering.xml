@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Sep 2025 01:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 01:23:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Optimization of Direct Air Capture Processes using Reactive Transport Models of Adsorption-Desorption Cycles</title>
-      <link>https://doi.org/10.1016/j.compchemeng.2025.109379</link>
-      <description>H&#233;ctor Pedrozo, Mayra G. Gonzalez-Ramirez, Tiras Y. Lin, Thomas Moore, Thomas Roy, Du T. Nguyen, Pratanu Roy, Sarah E. Baker, Lorenz T. Biegler, Grigorios Panagakos, Computers &amp; Chemical Engineering. None(None)] 2025. https://openalex.org/W4413787348
-
-                No abstract</description>
-      <author>H&#233;ctor Pedrozo, Mayra G. Gonzalez-Ramirez, Tiras Y. Lin, Thomas Moore, Thomas Roy, Du T. Nguyen, Pratanu Roy, Sarah E. Baker, Lorenz T. Biegler, Grigorios Panagakos</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2025.109379</guid>
-    </item>
     <item>
       <title>Overcoming the Central Line&#8211;Associated Bloodstream Infection Plateau through Proactive Safety Methodologies: A Quality Improvement Project</title>
       <link>https://doi.org/10.1097/pq9.0000000000000838</link>
