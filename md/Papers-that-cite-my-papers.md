@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Sep  7 01:38:46 2025
+Created on Mon Sep  8 01:38:44 2025
 
-Found 59 results from 2025-08-31 to 2025-09-07
+Found 59 results from 2025-09-01 to 2025-09-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802)
@@ -17,28 +17,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## Emerging Materials in Electrocatalysis for Fuel Cell-Based Transportation   
-
-OpenAlex: https://openalex.org/W4413860894    
-Open access: False
-    
-[Jennifer Laverde](https://openalex.org/A5042037789), [Nataly Carolina Rosero‐Navarro](https://openalex.org/A5062791599), Energy, environment, and sustainability. None(None)] 2025.https://doi.org/10.1007/978-981-96-6624-9_14.
-    
-No abstract    
-
-    
-
-## Regulation Mechanisms of Single-Atom Doped Ti2CO2 MXene for CO2 Reduction: A DFT Study   
-
-OpenAlex: https://openalex.org/W4413864072    
-Open access: False
-    
-[Huichun Xue](https://openalex.org/A5000445381), [Yitong Chen](https://openalex.org/A5068991083), [Lin Zhu](https://openalex.org/A5101940174), [An Du](https://openalex.org/A5037785383), Electrochimica Acta. None(None)] 2025.https://doi.org/10.1016/j.electacta.2025.147290.
-    
-No abstract    
-
-    
 
 ## Rational Coordination Engineering of Fe–Co Dual-Atom Catalysts for Enhanced Oxygen Reduction Reaction via Synergistic Electronic Modulation   
 
@@ -298,7 +276,7 @@ Abstract Cobalt spinel (Co 3 O 4 ) is a dynamically restructuring catalyst under
 OpenAlex: https://openalex.org/W4413950047    
 Open access: True
     
-[Yuehui Xian](https://openalex.org/A5093810417), [Li Cheng](https://openalex.org/A5100755222), [Yangyang Xu](https://openalex.org/A5024099548), [Yumei Zhou](https://openalex.org/A5069357722), [Dezhen Xue](https://openalex.org/A5026902132), SusMat. None(None)] 2025.https://doi.org/10.1002/sus2.70030 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sus2.70030)).
+[Yuehui Xian](https://openalex.org/A5093810417), [Li Cheng](https://openalex.org/A5100755222), [Yangyang Xu](https://openalex.org/A5024099548), [Yumei Zhou](https://openalex.org/A5069357722), [Dezhen Xue](https://openalex.org/A5026902132), SusMat. None(None)] 2025.https://doi.org/10.1002/sus2.70030.
     
 ABSTRACT Artificial intelligence (AI) is revolutionizing sustainable materials science, yet a comprehensive and timely evaluation of the rapidly evolving AI techniques applied across the entire materials lifecycle remains lacking. This work reviews AI‐driven advances in sustainable materials, specifically focusing on battery materials, thermal management materials, energy conversion materials, and catalysts. The key patterns, capabilities, and limitations of AI are identified across three interconnected phases: sustainable materials design (leveraging predictive and generative models for accelerated discovery), green processing (integrating adaptive synthesis optimization and autonomous experimentation), and extending to lifecycle management (encompassing real‐time monitoring, predictive maintenance, and intelligent recycling). Then, the persistent challenges, including data sparsity, domain‐specific knowledge integration, and limited model generalizability, are investigated, followed by an exploration of emerging solutions such as federated learning for privacy‐preserving data sharing, physics‐informed neural networks for knowledge integration, and multimodal AI for cross‐modal knowledge transfer. Finally, the computational sustainability challenges of AI methods themselves are also discussed. This review highlights key bottlenecks impeding scalable adoption and discuss pathways for realizing the full potential of AI in sustainable materials development.    
 
@@ -342,7 +320,7 @@ High-entropy alloys (HEAs) have recently emerged as promising electrocatalysts f
 OpenAlex: https://openalex.org/W4413956753    
 Open access: False
     
-[Silvia Favero](https://openalex.org/A5059583865), [Zhe Meng](https://openalex.org/A5101821644), [Henrik H. Kristoffersen](https://openalex.org/A5028337707), [Jan Rossmeisl](https://openalex.org/A5083668074), [Ifan E. L. Stephens](https://openalex.org/A5039064548), [Maria‐Magdalena Titirici](https://openalex.org/A5075732110), [Yu Katayama](https://openalex.org/A5019981027), No host. None(None)] 2025.https://doi.org/10.21203/rs.3.rs-7263225/v1.
+[Silvia Favero](https://openalex.org/A5059583865), [Zhe Meng](https://openalex.org/A5101821644), [Henrik H. Kristoffersen](https://openalex.org/A5028337707), [Jan Rossmeisl](https://openalex.org/A5083668074), [Ifan E. L. Stephens](https://openalex.org/A5039064548), [Maria‐Magdalena Titirici](https://openalex.org/A5075732110), [Yu Katayama](https://openalex.org/A5019981027), Research Square (Research Square). None(None)] 2025.https://doi.org/10.21203/rs.3.rs-7263225/v1.
     
 Abstract Catalyst deactivation due to *CO poisoning is a persistent challenge in the electrochemical oxidation of biomass-derived molecules such as glycerol and glucose. On platinum catalysts, *CO forms readily as a reaction intermediate, blocking active sites and requiring high overpotentials for removal—often leading to undesired overoxidation of valuable products. Understanding the fundamental origins of *CO formation is thus critical for designing more selective and stable catalysts. Since biomass oxidation can be extremely complex and involve a multitude of adsorbates and products, here we use a simplified model system, formate oxidation, to investigate *CO formation on Pt in alkaline pH . Starting from operando surface-enhanced infrared spectroscopy, we show that the adsorption configuration of formate determines if the surface will be poisoned by *CO. Oxygen-bound formate (*OOCH) undergoes direct and stable oxidation to CO₂, while carbon-bound formate (*COOH) disproportionates to form *CO–*OH, initiating poisoning. These insights offer a mechanistic foundation for designing Pt-based catalysts that resist *CO formation by selectively stabilizing *OOCH over *COOH intermediates, with broader implications for improving biomass electrooxidation performance.    
 
@@ -386,9 +364,9 @@ No abstract
 OpenAlex: https://openalex.org/W4413964937    
 Open access: True
     
-[Radhey Shyam Yadav](https://openalex.org/A5041232727), [Haya Kornweitz](https://openalex.org/A5084515228), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.5c04219 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcc.5c04219?ref=article_openPDF)).
+[Radhey Shyam Yadav](https://openalex.org/A5041232727), [Haya Kornweitz](https://openalex.org/A5084515228), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.5c04219.
     
-No abstract    
+The efficiency of formic acid electrooxidation (FAEO) is often hindered by CO poisoning via the indirect pathway, underscoring the need for catalysts that promote the direct (CO-free) oxidation route. Pd-based catalysts are promising, but a limited understanding of surface interactions and catalytic behavior restricts further development. Density functional theory (DFT) combined with Crystal Orbital Hamilton Population (COHP) analysis was employed to investigate the FAEO on Pd3Pb(111) and Pd(111) surfaces, revealing a key insight into their electronic and catalytic behavior. Incorporation of Pb into the Pd lattice enhances the catalytic performance by modifying the electronic structure and introducing new active sites. This study revealed the role of the subsurface Pb atom, which enhances HCOO binding at Pd–Pd bridge sites and strengthens CO and H adsorption at hexagonal closest packed (hcp) hollow sites over face-centered cubic (fcc) sites. The FAEO process proceeds more efficiently on Pd3Pb via O–H bond cleavage, forming an HCOO intermediate with a lower activation energy (0.29 eV) than on Pd (0.35 eV). Pd3Pb favors the HCOO-mediated pathway, while Pd prefers the COOH-mediated route. Additionally, Pb significantly lowers the energy barrier for HCOO rotation (0.51 vs 0.84 eV), enhancing CO-free oxidation.    
 
     
 
@@ -496,7 +474,7 @@ No abstract
 OpenAlex: https://openalex.org/W4414005646    
 Open access: True
     
-[Laura Laverdure](https://openalex.org/A5047700117), [Nisha Mammen](https://openalex.org/A5074664667), [Hannu Häkkinen](https://openalex.org/A5020046323), [Karoliina Honkala](https://openalex.org/A5022884606), ACS electrochemistry.. None(None)] 2025.https://doi.org/10.1021/acselectrochem.5c00260 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acselectrochem.5c00260?ref=article_openPDF)).
+[Laura Laverdure](https://openalex.org/A5047700117), [Nisha Mammen](https://openalex.org/A5074664667), [Hannu Häkkinen](https://openalex.org/A5020046323), [Karoliina Honkala](https://openalex.org/A5022884606), ACS electrochemistry.. None(None)] 2025.https://doi.org/10.1021/acselectrochem.5c00260.
     
 This study examines the effects of charge, dopant type, and hydrogen saturation on the hydrogen evolution reaction (HER) activity of thiolate-protected Au25-based nanoclusters using density functional theory (DFT). By extending the analysis to include up to 10 hydrogen atoms, this work captures the behavior of these nanoclusters under realistic HER reaction conditions, providing a broader understanding of the catalytic properties. Our findings, supported by Pourbaix diagrams, reveal that high hydrogen coverages dominate under HER-relevant potentials. Pt- and Pd-doped clusters exhibit remarkable structural stability, retaining their icosahedral core even at high hydrogen coverage. The detachment of thiol (HSR) and HAu-S(R)H molecules creates more accessible active sites enhancing catalytic efficiency. These clusters also support low H (2H) coverage states at less negative potentials, further contributing to their promising catalytic activity reported in the experimental literature. In contrast, Cu-, Ag-, Zn-, Cd-, and Hg-doped clusters undergo structural collapse of the icosahedral core as hydrogen coverage increases and stabilize only high coverage clusters (>7H), correlating with their lower reactivity observed experimentally. These results highlight the critical role of dopant-induced structural and electronic dynamics in governing HER pathways and provide new insights into designing efficient nanocluster catalysts for sustainable hydrogen production.    
 
@@ -509,7 +487,7 @@ Open access: False
     
 [Yuanbang Wu](https://openalex.org/A5103717351), [Haifeng Wang](https://openalex.org/A5100386408), Journal of Chemical Theory and Computation. None(None)] 2025.https://doi.org/10.1021/acs.jctc.5c01015.
     
-No abstract    
+Efficient transition state location is a central challenge in heterogeneous catalysis. While single-ended methods are more efficient than double-ended methods, their convergence is often highly sensitive to the quality of the initial guess. Here, we propose a Cone-shaped Constrained Quasi-Newton (CCQN) method, which introduces a cone-shaped constraint to restrict the search direction, thereby effectively guiding the system from potential well regions toward saddle regions. After crossing the inflection curve, the optimization switches to the partitioned rational function optimization algorithm for further refinement. This curvature partitioned optimization strategy reduces the sensitivity to the quality of the initial guess while maintaining the efficiency of single-ended methods. Across 150 transition state optimization tasks with varying initial guess qualities, CCQN achieves an overall success rate of 93.3%, requiring only approximately 50 energy-force evaluations on average. The method exhibits strong robustness and convergence efficiency, offering a new tool for high-throughput transition state searches and mechanistic studies of complex catalytic reactions.    
 
     
 
@@ -612,6 +590,28 @@ No abstract
 
     
 
+## Electronic Structure of Ni‐Based Reconstructed Surface for Electrocatalytic Alkaline Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4414034418    
+Open access: False
+    
+[Zichao Shen](https://openalex.org/A5078687361), [Ke Wang](https://openalex.org/A5100360160), [Yang Yuan](https://openalex.org/A5115589192), [Fan Gao](https://openalex.org/A5103546612), [Xinqiang Wang](https://openalex.org/A5101526822), [Wengang Cui](https://openalex.org/A5101757624), [Fulai Qi](https://openalex.org/A5104245881), [Xiangrong Ren](https://openalex.org/A5073189107), [Jian Chen](https://openalex.org/A5101617681), [Chunhui Xiao](https://openalex.org/A5049259092), [Mingxia Gao](https://openalex.org/A5048705186), Small Methods. None(None)] 2025.https://doi.org/10.1002/smtd.202500736.
+    
+The sluggish kinetics of the oxygen evolution reaction (OER) in alkaline water electrolysis lead to high overpotentials, limiting cost-effective green hydrogen production. Ni-based catalysts, recognized as promising OER electrocatalysts, require electronic structure modulation to enhance performance. However, under oxidizing conditions, Ni-based materials undergo surface reconstruction with significant electronic alterations, rendering bulk-phase studies less practical. Recent efforts focus on regulating reconstructed surface electronic structures for improved efficiency, underscoring the need for a systematic review on this critical topic. This review highlights the fundamental progress regarding the electronic structure regulation of reconstructed surface of Ni-based OER electrocatalysts for better understanding the surface reconstruction process and the structure-activity relationship, including the basic understanding of OER mechanism and surface reconstruction of Ni-based materials, the principles and practical applications of key electronic structure descriptors with their respective advantages and limitations, and recent advancements and developing bottle-necks in surface reconstruction chemistry across diverse Ni-based OER catalyst systems. Finally, the challenges facing surface reconstruction of Ni-based OER catalysts are summarized, and several future prospects are proposed to guide the in-depth analysis of the reconstruction mechanism and the rational design of Ni-based OER catalysts.    
+
+    
+
+## Synergies of CoFe-LDH/CoMoP for efficient pH-universal and alkaline seawater electrolysis hydrogen evolution   
+
+OpenAlex: https://openalex.org/W4414038033    
+Open access: False
+    
+[Weichang Li](https://openalex.org/A5047324291), [S Samuel Yang](https://openalex.org/A5100711728), [Xiu-Juan Yan](https://openalex.org/A5101799506), [Lixin Zhang](https://openalex.org/A5115939421), [Jun Wu](https://openalex.org/A5101699884), [Jingjing Wang](https://openalex.org/A5101639555), [Qinyu Tang](https://openalex.org/A5111259668), [Feng Wang](https://openalex.org/A5078554714), [Chunsheng Li](https://openalex.org/A5100440509), [Yanzhi Sun](https://openalex.org/A5006832624), [Huimin Wu](https://openalex.org/A5068732890), Applied Surface Science. None(None)] 2025.https://doi.org/10.1016/j.apsusc.2025.164546.
+    
+No abstract    
+
+    
+
 ## Repurposing polyethylene terephthalate plastic waste to capture carbon dioxide   
 
 OpenAlex: https://openalex.org/W4414010797    
@@ -619,7 +619,7 @@ Open access: True
     
 [Margarita Poderyte](https://openalex.org/A5018938289), [R. J. S. Lima](https://openalex.org/A5085351261), [Peter Illum Golbækdal](https://openalex.org/A5119547146), [Dennis Wilkens Juhl](https://openalex.org/A5089524169), [Kasper V. Olesen](https://openalex.org/A5003048815), [Niels Chr. Nielsen](https://openalex.org/A5018065976), [Arianna Lanza](https://openalex.org/A5010464846), [Jiwoong Lee](https://openalex.org/A5100640468), Science Advances. 11(36)] 2025.https://doi.org/10.1126/sciadv.adv5906 ([pdf](https://www.science.org/doi/pdf/10.1126/sciadv.adv5906?download=true)).
     
-Polyethylene terephthalate (PET) is a ubiquitous polymer with a lack of viable waste management solutions besides mechanical recycling, incineration, and landfilling. Herein, we demonstrate a chemical upcycling of PET waste into materials for CO 2 capture via aminolysis. The aminolysis reaction products—a bis-aminoamide (BAETA) and oligomers—exhibit high CO 2 capture capacity up to 3.4 moles per kilogram as a stand-alone organic solid material. BAETA shows strong chemisorption featuring high selectivity for CO 2 capture from flue gas (5 to 20% CO 2 ) and ambient air (~400 parts per million CO 2 ) under humid conditions. Our thermally stable material (>250°C) enables CO 2 capture at high temperatures (up to 170°C) for multiple cycles. Scalability of the material production was demonstrated by performing aminolysis of untreated consumer waste PET of 1 kilogram. Our approach introduces a simple and straightforward solution that can address both plastic waste and carbon dioxide, offering a potential pathway toward net negative emissions.    
+Polyethylene terephthalate (PET) is a ubiquitous polymer with a lack of viable waste management solutions besides mechanical recycling, incineration, and landfilling. Herein, we demonstrate a chemical upcycling of PET waste into materials for CO2 capture via aminolysis. The aminolysis reaction products-a bis-aminoamide (BAETA) and oligomers-exhibit high CO2 capture capacity up to 3.4 moles per kilogram as a stand-alone organic solid material. BAETA shows strong chemisorption featuring high selectivity for CO2 capture from flue gas (5 to 20% CO2) and ambient air (~400 parts per million CO2) under humid conditions. Our thermally stable material (>250°C) enables CO2 capture at high temperatures (up to 170°C) for multiple cycles. Scalability of the material production was demonstrated by performing aminolysis of untreated consumer waste PET of 1 kilogram. Our approach introduces a simple and straightforward solution that can address both plastic waste and carbon dioxide, offering a potential pathway toward net negative emissions.    
 
     
 

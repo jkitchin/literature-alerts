@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Sep 2025 01:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 01:38:44 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Emerging Materials in Electrocatalysis for Fuel Cell-Based Transportation</title>
-      <link>https://doi.org/10.1007/978-981-96-6624-9_14</link>
-      <description>Jennifer Laverde, Nataly Carolina Rosero&#8208;Navarro, Energy, environment, and sustainability. None(None)] 2025. https://openalex.org/W4413860894
-
-                No abstract</description>
-      <author>Jennifer Laverde, Nataly Carolina Rosero&#8208;Navarro</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-981-96-6624-9_14</guid>
-    </item>
-    <item>
-      <title>Regulation Mechanisms of Single-Atom Doped Ti2CO2 MXene for CO2 Reduction: A DFT Study</title>
-      <link>https://doi.org/10.1016/j.electacta.2025.147290</link>
-      <description>Huichun Xue, Yitong Chen, Lin Zhu, An Du, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4413864072
-
-                No abstract</description>
-      <author>Huichun Xue, Yitong Chen, Lin Zhu, An Du</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.147290</guid>
-    </item>
     <item>
       <title>Rational Coordination Engineering of Fe&#8211;Co Dual-Atom Catalysts for Enhanced Oxygen Reduction Reaction via Synergistic Electronic Modulation</title>
       <link>https://doi.org/10.1021/acs.jpclett.5c02229</link>
@@ -300,7 +280,7 @@
     <item>
       <title>What formate electro-oxidation can teach us about CO poisoning on Pt during biomass oxidation</title>
       <link>https://doi.org/10.21203/rs.3.rs-7263225/v1</link>
-      <description>Silvia Favero, Zhe Meng, Henrik H. Kristoffersen, Jan Rossmeisl, Ifan E. L. Stephens, Maria&#8208;Magdalena Titirici, Yu Katayama, No host. None(None)] 2025. https://openalex.org/W4413956753
+      <description>Silvia Favero, Zhe Meng, Henrik H. Kristoffersen, Jan Rossmeisl, Ifan E. L. Stephens, Maria&#8208;Magdalena Titirici, Yu Katayama, Research Square (Research Square). None(None)] 2025. https://openalex.org/W4413956753
 
                 Abstract Catalyst deactivation due to *CO poisoning is a persistent challenge in the electrochemical oxidation of biomass-derived molecules such as glycerol and glucose. On platinum catalysts, *CO forms readily as a reaction intermediate, blocking active sites and requiring high overpotentials for removal&#8212;often leading to undesired overoxidation of valuable products. Understanding the fundamental origins of *CO formation is thus critical for designing more selective and stable catalysts. Since biomass oxidation can be extremely complex and involve a multitude of adsorbates and products, here we use a simplified model system, formate oxidation, to investigate *CO formation on Pt in alkaline pH . Starting from operando surface-enhanced infrared spectroscopy, we show that the adsorption configuration of formate determines if the surface will be poisoned by *CO. Oxygen-bound formate (*OOCH) undergoes direct and stable oxidation to CO&#8322;, while carbon-bound formate (*COOH) disproportionates to form *CO&#8211;*OH, initiating poisoning. These insights offer a mechanistic foundation for designing Pt-based catalysts that resist *CO formation by selectively stabilizing *OOCH over *COOH intermediates, with broader implications for improving biomass electrooxidation performance.</description>
       <author>Silvia Favero, Zhe Meng, Henrik H. Kristoffersen, Jan Rossmeisl, Ifan E. L. Stephens, Maria&#8208;Magdalena Titirici, Yu Katayama</author>
@@ -342,7 +322,7 @@
       <link>https://doi.org/10.1021/acs.jpcc.5c04219</link>
       <description>Radhey Shyam Yadav, Haya Kornweitz, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4413964937
 
-                No abstract</description>
+                The efficiency of formic acid electrooxidation (FAEO) is often hindered by CO poisoning via the indirect pathway, underscoring the need for catalysts that promote the direct (CO-free) oxidation route. Pd-based catalysts are promising, but a limited understanding of surface interactions and catalytic behavior restricts further development. Density functional theory (DFT) combined with Crystal Orbital Hamilton Population (COHP) analysis was employed to investigate the FAEO on Pd3Pb(111) and Pd(111) surfaces, revealing a key insight into their electronic and catalytic behavior. Incorporation of Pb into the Pd lattice enhances the catalytic performance by modifying the electronic structure and introducing new active sites. This study revealed the role of the subsurface Pb atom, which enhances HCOO binding at Pd&#8211;Pd bridge sites and strengthens CO and H adsorption at hexagonal closest packed (hcp) hollow sites over face-centered cubic (fcc) sites. The FAEO process proceeds more efficiently on Pd3Pb via O&#8211;H bond cleavage, forming an HCOO intermediate with a lower activation energy (0.29 eV) than on Pd (0.35 eV). Pd3Pb favors the HCOO-mediated pathway, while Pd prefers the COOH-mediated route. Additionally, Pb significantly lowers the energy barrier for HCOO rotation (0.51 vs 0.84 eV), enhancing CO-free oxidation.</description>
       <author>Radhey Shyam Yadav, Haya Kornweitz</author>
       <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c04219</guid>
@@ -452,7 +432,7 @@
       <link>https://doi.org/10.1021/acs.jctc.5c01015</link>
       <description>Yuanbang Wu, Haifeng Wang, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4414009387
 
-                No abstract</description>
+                Efficient transition state location is a central challenge in heterogeneous catalysis. While single-ended methods are more efficient than double-ended methods, their convergence is often highly sensitive to the quality of the initial guess. Here, we propose a Cone-shaped Constrained Quasi-Newton (CCQN) method, which introduces a cone-shaped constraint to restrict the search direction, thereby effectively guiding the system from potential well regions toward saddle regions. After crossing the inflection curve, the optimization switches to the partitioned rational function optimization algorithm for further refinement. This curvature partitioned optimization strategy reduces the sensitivity to the quality of the initial guess while maintaining the efficiency of single-ended methods. Across 150 transition state optimization tasks with varying initial guess qualities, CCQN achieves an overall success rate of 93.3%, requiring only approximately 50 energy-force evaluations on average. The method exhibits strong robustness and convergence efficiency, offering a new tool for high-throughput transition state searches and mechanistic studies of complex catalytic reactions.</description>
       <author>Yuanbang Wu, Haifeng Wang</author>
       <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c01015</guid>
@@ -548,11 +528,31 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.5c01172</guid>
     </item>
     <item>
+      <title>Electronic Structure of Ni&#8208;Based Reconstructed Surface for Electrocatalytic Alkaline Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/smtd.202500736</link>
+      <description>Zichao Shen, Ke Wang, Yang Yuan, Fan Gao, Xinqiang Wang, Wengang Cui, Fulai Qi, Xiangrong Ren, Jian Chen, Chunhui Xiao, Mingxia Gao, Small Methods. None(None)] 2025. https://openalex.org/W4414034418
+
+                The sluggish kinetics of the oxygen evolution reaction (OER) in alkaline water electrolysis lead to high overpotentials, limiting cost-effective green hydrogen production. Ni-based catalysts, recognized as promising OER electrocatalysts, require electronic structure modulation to enhance performance. However, under oxidizing conditions, Ni-based materials undergo surface reconstruction with significant electronic alterations, rendering bulk-phase studies less practical. Recent efforts focus on regulating reconstructed surface electronic structures for improved efficiency, underscoring the need for a systematic review on this critical topic. This review highlights the fundamental progress regarding the electronic structure regulation of reconstructed surface of Ni-based OER electrocatalysts for better understanding the surface reconstruction process and the structure-activity relationship, including the basic understanding of OER mechanism and surface reconstruction of Ni-based materials, the principles and practical applications of key electronic structure descriptors with their respective advantages and limitations, and recent advancements and developing bottle-necks in surface reconstruction chemistry across diverse Ni-based OER catalyst systems. Finally, the challenges facing surface reconstruction of Ni-based OER catalysts are summarized, and several future prospects are proposed to guide the in-depth analysis of the reconstruction mechanism and the rational design of Ni-based OER catalysts.</description>
+      <author>Zichao Shen, Ke Wang, Yang Yuan, Fan Gao, Xinqiang Wang, Wengang Cui, Fulai Qi, Xiangrong Ren, Jian Chen, Chunhui Xiao, Mingxia Gao</author>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202500736</guid>
+    </item>
+    <item>
+      <title>Synergies of CoFe-LDH/CoMoP for efficient pH-universal and alkaline seawater electrolysis hydrogen evolution</title>
+      <link>https://doi.org/10.1016/j.apsusc.2025.164546</link>
+      <description>Weichang Li, S Samuel Yang, Xiu-Juan Yan, Lixin Zhang, Jun Wu, Jingjing Wang, Qinyu Tang, Feng Wang, Chunsheng Li, Yanzhi Sun, Huimin Wu, Applied Surface Science. None(None)] 2025. https://openalex.org/W4414038033
+
+                No abstract</description>
+      <author>Weichang Li, S Samuel Yang, Xiu-Juan Yan, Lixin Zhang, Jun Wu, Jingjing Wang, Qinyu Tang, Feng Wang, Chunsheng Li, Yanzhi Sun, Huimin Wu</author>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.164546</guid>
+    </item>
+    <item>
       <title>Repurposing polyethylene terephthalate plastic waste to capture carbon dioxide</title>
       <link>https://doi.org/10.1126/sciadv.adv5906</link>
       <description>Margarita Poderyte, R. J. S. Lima, Peter Illum Golb&#230;kdal, Dennis Wilkens Juhl, Kasper V. Olesen, Niels Chr. Nielsen, Arianna Lanza, Jiwoong Lee, Science Advances. 11(36)] 2025. https://openalex.org/W4414010797
 
-                Polyethylene terephthalate (PET) is a ubiquitous polymer with a lack of viable waste management solutions besides mechanical recycling, incineration, and landfilling. Herein, we demonstrate a chemical upcycling of PET waste into materials for CO 2 capture via aminolysis. The aminolysis reaction products&#8212;a bis-aminoamide (BAETA) and oligomers&#8212;exhibit high CO 2 capture capacity up to 3.4 moles per kilogram as a stand-alone organic solid material. BAETA shows strong chemisorption featuring high selectivity for CO 2 capture from flue gas (5 to 20% CO 2 ) and ambient air (~400 parts per million CO 2 ) under humid conditions. Our thermally stable material (&gt;250&#176;C) enables CO 2 capture at high temperatures (up to 170&#176;C) for multiple cycles. Scalability of the material production was demonstrated by performing aminolysis of untreated consumer waste PET of 1 kilogram. Our approach introduces a simple and straightforward solution that can address both plastic waste and carbon dioxide, offering a potential pathway toward net negative emissions.</description>
+                Polyethylene terephthalate (PET) is a ubiquitous polymer with a lack of viable waste management solutions besides mechanical recycling, incineration, and landfilling. Herein, we demonstrate a chemical upcycling of PET waste into materials for CO2 capture via aminolysis. The aminolysis reaction products-a bis-aminoamide (BAETA) and oligomers-exhibit high CO2 capture capacity up to 3.4 moles per kilogram as a stand-alone organic solid material. BAETA shows strong chemisorption featuring high selectivity for CO2 capture from flue gas (5 to 20% CO2) and ambient air (~400 parts per million CO2) under humid conditions. Our thermally stable material (&gt;250&#176;C) enables CO2 capture at high temperatures (up to 170&#176;C) for multiple cycles. Scalability of the material production was demonstrated by performing aminolysis of untreated consumer waste PET of 1 kilogram. Our approach introduces a simple and straightforward solution that can address both plastic waste and carbon dioxide, offering a potential pathway toward net negative emissions.</description>
       <author>Margarita Poderyte, R. J. S. Lima, Peter Illum Golb&#230;kdal, Dennis Wilkens Juhl, Kasper V. Olesen, Niels Chr. Nielsen, Arianna Lanza, Jiwoong Lee</author>
       <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adv5906</guid>
