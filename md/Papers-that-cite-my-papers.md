@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Sep  8 01:38:44 2025
+Created on Tue Sep  9 01:27:40 2025
 
-Found 59 results from 2025-09-01 to 2025-09-08
+Found 56 results from 2025-09-02 to 2025-09-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802)
@@ -17,61 +17,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## Rational Coordination Engineering of Fe–Co Dual-Atom Catalysts for Enhanced Oxygen Reduction Reaction via Synergistic Electronic Modulation   
-
-OpenAlex: https://openalex.org/W4413873160    
-Open access: False
-    
-[H.P. Wang](https://openalex.org/A5082470232), [Ming-Yuan Yu](https://openalex.org/A5102847784), [Huilong Dong](https://openalex.org/A5033039685), [Erjun Kan](https://openalex.org/A5048140096), [Cheng Zhan](https://openalex.org/A5085997051), [Youyong Li](https://openalex.org/A5035944985), The Journal of Physical Chemistry Letters. None(None)] 2025.https://doi.org/10.1021/acs.jpclett.5c02229.
-    
-The development of efficient dual-atom catalysts (DACs) requires an atomic-level understanding on the microscopic coordination environment that is hard to characterize experimentally. Herein we rationally design DACs with diverse Fe-Co/N3O3 configurations, among which the NNFeOOCoNO-coordinated configuration is identified to exhibit superior stability and oxygen reduction reaction (ORR) catalytic activity based on first-principles calculations. Mechanistic analysis reveals that the ORR is triggered by side-on adsorption of O2 on the Co site, enabled by strong hybridization between Co 3dxz/yz orbitals and O2 π* antibonding states. The high-spin Fe2+ acts as an electron reservoir by transferring charge to Co and lowering its d-band center. The Fe-Co synergy suppresses excessive *OH binding (ΔG4 = +0.107 eV in Fe-free Co@NO3) and positions the system to the ORR volcano apex. In summary, synergistic catalysis could be unlocked by rational coordination environmental design combined with spin-state-modulated charge redistribution.    
-
-    
-
-## Effect of Metal–Metal Distance on the Performance of Dual‐Atom Catalysts for the Oxygen Reduction Reaction: A Density Functional Theory and Micro‐kinetics Study   
-
-OpenAlex: https://openalex.org/W4413875741    
-Open access: True
-    
-[Yu Mao](https://openalex.org/A5100545328), [Yongfang Zhou](https://openalex.org/A5102464918), [Mengjiao Li](https://openalex.org/A5102009597), [Ziyun Wang](https://openalex.org/A5100744706), [Run Shi](https://openalex.org/A5068950543), [Lu Shang](https://openalex.org/A5007039765), [Tierui Zhang](https://openalex.org/A5042712935), [Geoffrey I. N. Waterhouse](https://openalex.org/A5044592235), Small. None(None)] 2025.https://doi.org/10.1002/smll.202507733.
-    
-Abstract Dual‐atom catalysts (DACs) display excellent activity for the oxygen reduction reaction (ORR). The dual‐metal configuration allows for synergistic interactions and tailored adsorption of key intermediates, thereby breaking traditional * OH– * OOH scaling relations and enabling dissociative O 2 activation pathways. Recent studies suggest that the metal–metal (M–M) distance within DACs critically influences their electronic structure and catalytic behavior; however, a deep understanding of M–M distance effects on ORR thermodynamics and kinetics is presently lacking. Herein, density functional theory (DFT) calculations and microkinetic modeling are performed on 108 DACs with varied M–M distances (2.2–3.5 Å). Moderate M–M distances (≈3 Å) are found to weaken * OH binding, lower the * OH– * OOH scaling slope, and promote bridging O 2 adsorption for facile dissociation. The dissociative pathway lowered the effective scaling relation from ≈3.2 to 2.72 eV, approaching the theoretical value of 2.46 eV. Micro‐kinetic simulations identified O 2 activation as the rate‐determining step during ORR, with DACs possessing a M–M distance ≈3 Å exhibiting the highest turnover frequencies, due the effective balancing of active‐site availability and O 2 activation efficiency. These findings highlight the key role of M–M distance in controlling ORR activity, guiding the design of next‐generation DACs with improved efficiency.    
-
-    
-
-## Black Phosphorus Nanosheets as Efficient Ion Navigators at Room Temperature in Polyacrylonitrile‐Based Composite Solid Polymer Electrolyte for Li‐Ion Batteries   
-
-OpenAlex: https://openalex.org/W4413877507    
-Open access: False
-    
-[Swati Jadhav](https://openalex.org/A5052795045), [Laxman Kaulage](https://openalex.org/A5119497195), [Suparna Saha](https://openalex.org/A5083630312), [Amreen Bano](https://openalex.org/A5111452170), [Satishchandra Ogale](https://openalex.org/A5067171566), Small. None(None)] 2025.https://doi.org/10.1002/smll.202504995.
-    
-Abstract Solid polymer electrolytes (SPEs) have garnered significant interest lately for all‐solid‐state batteries (ASSBs) because of their easy processability and flexibility; however, their low ionic conductivity has to be enhanced by forming composite polymer electrolyte (CPE). Herein, a polyacrylonitrile (PAN)‐based triple‐composite solid polymer electrolyte with black phosphorus nanosheets (BPN) and SiO 2 nanoparticles (SO) is reported, which synergistically utilizes the efficient directed Li+ pathways (via BP) while reducing PAN crystallization (by SiO 2 ) and enhancing the dissociation of Li salts. Thus, an impressive ionic conductivity of 4.41 × 10 −4 S cm −1 is realised in PAN‐BPN‐SO‐LiClO4 CPE, which is 65 times higher than that of PAN‐LiClO 4 (6.8 × 10 −6 S cm −1 ). A wider electrochemical stability window (up to 4.68 V vs Li/Li + ) is also realized, enabling compatibility with high‐voltage cathodes. The BPN‐SO CPE exhibited good discharge capacities 146 mAh g −1 at 0.1C and 108 mAh g −1 at 1C rate, with 75% capacity retention after 100 cycles. The graphite/LiFePO 4 full‐cell with PAN‐BPN‐SO‐LIClO4 CPE showed a room‐temperature discharge capacity of 87 mAh g −1 at 0.1 C, which is significantly enhanced to 152 mAh g −1 at 40 °C. A CPE‐based pouch cell (12 cm 2 , 111.29 mAh g −1 at 0.1 C) performed well in folding, puncturing, and cutting performance tests. A computational modelling study is performed to elucidate the mechanism.    
-
-    
-
-## Support-tuned iridium reconstruction with crystalline phase dominating acidic oxygen evolution   
-
-OpenAlex: https://openalex.org/W4413878568    
-Open access: True
-    
-[Kexin Zhang](https://openalex.org/A5100459337), [Xiao Liang](https://openalex.org/A5102001999), [Yucheng Wang](https://openalex.org/A5100410456), [Yongcun Zou](https://openalex.org/A5016241129), [Xiao Zhao](https://openalex.org/A5058184619), [Hui Chen](https://openalex.org/A5100334137), [Xiaoxin Zou](https://openalex.org/A5046104594), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-63541-9 ([pdf](https://www.nature.com/articles/s41467-025-63541-9.pdf)).
-    
-The dynamic reconstruction of oxygen evolution electrocatalysts dictates their performance, yet conventional Ir-based materials face an inherent activity-stability trade-off due to surface amorphization into hydrous IrOx phases accompanied by lattice oxygen mechanisms. Here, we uncover a distinct reconstruction pathway for supported Ir nanoparticles, where a TiOx@Ti substrate drives a bulk phase transition from metallic Ir to crystalline rutile IrO2 during electrocatalysis. Unlike surface-limited amorphization, this support-guided crystallization shifts the reaction mechanism from involving lattice oxygen mechanism to the complete adsorbate evolution mechanism, as confirmed by mechanistic and structural analyses. Consequently, the Ir/TiOx@Ti catalyst achieves both high activity and durability in acidic media, demonstrated in three-electrode systems and proton exchange membrane water electrolyzers. This work redefines support roles in electrocatalyst reconstruction, demonstrating that bulk phase engineering-rather than surface modification-resolves the long-standing efficiency-durability conflict in acidic oxygen evolution.    
-
-    
-
-## Precisely Bonded Fe─Cu Diatomic Sites with Nitrogen‐Bridged Coordination on Hollow C3N4 Spheres for Efficient C─N Coupling and Selective Photocatalytic Urea Synthesis   
-
-OpenAlex: https://openalex.org/W4413886946    
-Open access: False
-    
-[Muhammad Irfan Ahmad](https://openalex.org/A5081986733), [Xie Quan](https://openalex.org/A5100679975), [Haokun Bai](https://openalex.org/A5068086517), [Yanming Liu](https://openalex.org/A5100393269), [Shuo Chen](https://openalex.org/A5100366872), [Hongtao Yu](https://openalex.org/A5074138884), Angewandte Chemie. None(None)] 2025.https://doi.org/10.1002/ange.202512234.
-    
-Abstract The photocatalytic synthesis of urea from CO 2 and N 2 co‐reduction presents a promising alternative to the conventional energy‐intensive Haber–Bosch process. However, competitive adsorption on the catalyst surface often limits selectivity and yield. Here, we designed hollow graphitic carbon nitride (g‐C 3 N 4 ) spheres, which serve as a high surface area scaffold for precise anchoring of Fe─Cu diatomic sites. Hollow architecture enhances light harvesting via inner‐scattering effects and charge separation. Each Fe─Cu site is coordinated with two nitrogen atoms, forming N 2 ─Fe 1 ─Cu 1 ─N 2 /C 3 N 4 DAC (hereafter referred to as FeCu/CN), which enables cooperative activation of CO 2 and N 2 , in contrast to monodispersed diatomic (Fe+Cu/CN), and single‐atom catalysts (Fe/CN, Cu/CN). The FeCu/CN bonded pairs serve as highly efficient active centers, facilitating the synergistic adsorption and activation of multiple reactants. Specifically, during the co‐reduction of CO 2 and N 2 , the Fe 1 site preferentially adsorbs and activates CO 2 , while bonded Cu 1 sites stabilize N 2 on FeCu/CN and enable synergistic C─N coupling through the formation of *NCON intermediates. As a result, the FeCu/CN achieves an exceptional urea yield of 7.40 mg·g cat −1 ·h −1 with a 38.58% selectivity under visible light irradiation. Our findings highlight the crucial role of atomic‐level coordination in multireactants and offer insights into the C─N coupling for value‐added products using CO 2 and N 2 as feedstock.    
-
-    
 
 ## Nanoporous Ti layer encapsulating stainless steel for alkaline water electrolysis: superior electrocatalytic and structural stability under industrially relevant conditions   
 
@@ -612,6 +557,28 @@ No abstract
 
     
 
+## Anharmonic Correction to the Adsorption Free Energy of Oxygen-Containing Intermediates on Pt(111) by Machine-Learned Force Field-Based Thermodynamic Integrations   
+
+OpenAlex: https://openalex.org/W4414039479    
+Open access: True
+    
+[Thanh-Nam Huynh](https://openalex.org/A5042715071), [Bassim Mounssef](https://openalex.org/A5035486964), [Dmitry Sharapa](https://openalex.org/A5029193865), [Felix Studt](https://openalex.org/A5001805046), [Tomáš Bučko](https://openalex.org/A5034219138), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.5c03465.
+    
+Accurate and efficient descriptions of adsorption free energy are of fundamental importance to bringing theoretical findings closer to experiments. The present study introduced a robust combination of machine learning and (un)constrained molecular dynamics-based λ-path thermodynamic integration methods to accurately estimate the anharmonic correction to the free energy of adsorbing systems and, thus, the adsorption free energy. The approach was demonstrated for the adsorptions of the oxygenated species exhibiting different anharmonic behaviors, namely, atomic oxygen (O), hydroxyl (OH), and hydroperoxyl (OOH), on the Pt(111) surface. The corrected adsorption free energies reveal the significant influence of anharmonic effects, which could account for up to 39% of the entropy loss estimated by the conventional harmonic approximation, even at near room temperature. This highlights the limitations of the current harmonic approximation and underscores the need to account for anharmonicity for better descriptions of the adsorption processes. The present method paves the way for the accurate adsorption of free energy calculations to be performed routinely toward more powerful theoretical predictions of heterogeneously catalyzed reactions.    
+
+    
+
+## An excellent-performance electrocatalyst in oxygen reduction reaction: Pt anchored on a bulk-engineered black titania synthesized by nitrogen gliding arc plasma   
+
+OpenAlex: https://openalex.org/W4414044710    
+Open access: False
+    
+[Xuanhe Li](https://openalex.org/A5089411283), [Xiaosong Li](https://openalex.org/A5100689329), [Jinglin Liu](https://openalex.org/A5101844058), [Xiaobing Zhu](https://openalex.org/A5022064077), [Ai‐Min Zhu](https://openalex.org/A5050304281), Chemical Engineering Journal. None(None)] 2025.https://doi.org/10.1016/j.cej.2025.168027.
+    
+No abstract    
+
+    
+
 ## Repurposing polyethylene terephthalate plastic waste to capture carbon dioxide   
 
 OpenAlex: https://openalex.org/W4414010797    
@@ -634,6 +601,17 @@ No abstract
 
     
 
+## Techno-Economic Analysis of Packed Bed and Structured Adsorbent for Direct Air Capture   
+
+OpenAlex: https://openalex.org/W4414043801    
+Open access: True
+    
+[Paul de Joannis](https://openalex.org/A5114757003), [Christophe Castel](https://openalex.org/A5061472778), [Mohamed Kanniche](https://openalex.org/A5039649112), [Éric Favre](https://openalex.org/A5007951485), [Olivier Authier](https://openalex.org/A5057347283), Carbon Capture Science & Technology. None(None)] 2025.https://doi.org/10.1016/j.ccst.2025.100518.
+    
+No abstract    
+
+    
+
 ## A comprehensive theoretical study on CuOx/Cu(110) catalyzed water–gas shift reaction   
 
 OpenAlex: https://openalex.org/W4413890083    
@@ -642,17 +620,6 @@ Open access: False
 [Yu-Bi Huang](https://openalex.org/A5103481141), [Yingqi Wang](https://openalex.org/A5100751767), [Gui‐Chang Wang](https://openalex.org/A5013508325), Journal of Catalysis. None(None)] 2025.https://doi.org/10.1016/j.jcat.2025.116404.
     
 No abstract    
-
-    
-
-## Impact of surface point defects on the electronic and optical properties of GeSi bulk materials   
-
-OpenAlex: https://openalex.org/W4413884569    
-Open access: False
-    
-[Hai Wan](https://openalex.org/A5066936749), [Haijuan Zhang](https://openalex.org/A5073407437), [Hsiaotao T. Bi](https://openalex.org/A5109954449), [Li Liu](https://openalex.org/A5100418889), [Wanyu Zhao](https://openalex.org/A5070859225), [Shuqi Wang](https://openalex.org/A5100439207), [Qiang Lü](https://openalex.org/A5080890611), Physical Chemistry Chemical Physics. None(None)] 2025.https://doi.org/10.1039/d5cp02567b.
-    
-First-principles calculations reveal how surface vacancies, interstitials, and antisite defects reshape the electronic structure and optical response of Ge 0.8 Si 0.2 .    
 
     
 

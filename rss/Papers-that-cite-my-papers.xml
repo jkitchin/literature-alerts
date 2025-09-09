@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 08 Sep 2025 01:38:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 01:27:40 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Rational Coordination Engineering of Fe&#8211;Co Dual-Atom Catalysts for Enhanced Oxygen Reduction Reaction via Synergistic Electronic Modulation</title>
-      <link>https://doi.org/10.1021/acs.jpclett.5c02229</link>
-      <description>H.P. Wang, Ming-Yuan Yu, Huilong Dong, Erjun Kan, Cheng Zhan, Youyong Li, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4413873160
-
-                The development of efficient dual-atom catalysts (DACs) requires an atomic-level understanding on the microscopic coordination environment that is hard to characterize experimentally. Herein we rationally design DACs with diverse Fe-Co/N3O3 configurations, among which the NNFeOOCoNO-coordinated configuration is identified to exhibit superior stability and oxygen reduction reaction (ORR) catalytic activity based on first-principles calculations. Mechanistic analysis reveals that the ORR is triggered by side-on adsorption of O2 on the Co site, enabled by strong hybridization between Co 3dxz/yz orbitals and O2 &#960;* antibonding states. The high-spin Fe2+ acts as an electron reservoir by transferring charge to Co and lowering its d-band center. The Fe-Co synergy suppresses excessive *OH binding (&#916;G4 = +0.107 eV in Fe-free Co@NO3) and positions the system to the ORR volcano apex. In summary, synergistic catalysis could be unlocked by rational coordination environmental design combined with spin-state-modulated charge redistribution.</description>
-      <author>H.P. Wang, Ming-Yuan Yu, Huilong Dong, Erjun Kan, Cheng Zhan, Youyong Li</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c02229</guid>
-    </item>
-    <item>
-      <title>Effect of Metal&#8211;Metal Distance on the Performance of Dual&#8208;Atom Catalysts for the Oxygen Reduction Reaction: A Density Functional Theory and Micro&#8208;kinetics Study</title>
-      <link>https://doi.org/10.1002/smll.202507733</link>
-      <description>Yu Mao, Yongfang Zhou, Mengjiao Li, Ziyun Wang, Run Shi, Lu Shang, Tierui Zhang, Geoffrey I. N. Waterhouse, Small. None(None)] 2025. https://openalex.org/W4413875741
-
-                Abstract Dual&#8208;atom catalysts (DACs) display excellent activity for the oxygen reduction reaction (ORR). The dual&#8208;metal configuration allows for synergistic interactions and tailored adsorption of key intermediates, thereby breaking traditional * OH&#8211; * OOH scaling relations and enabling dissociative O 2 activation pathways. Recent studies suggest that the metal&#8211;metal (M&#8211;M) distance within DACs critically influences their electronic structure and catalytic behavior; however, a deep understanding of M&#8211;M distance effects on ORR thermodynamics and kinetics is presently lacking. Herein, density functional theory (DFT) calculations and microkinetic modeling are performed on 108 DACs with varied M&#8211;M distances (2.2&#8211;3.5 &#197;). Moderate M&#8211;M distances (&#8776;3 &#197;) are found to weaken * OH binding, lower the * OH&#8211; * OOH scaling slope, and promote bridging O 2 adsorption for facile dissociation. The dissociative pathway lowered the effective scaling relation from &#8776;3.2 to 2.72 eV, approaching the theoretical value of 2.46 eV. Micro&#8208;kinetic simulations identified O 2 activation as the rate&#8208;determining step during ORR, with DACs possessing a M&#8211;M distance &#8776;3 &#197; exhibiting the highest turnover frequencies, due the effective balancing of active&#8208;site availability and O 2 activation efficiency. These findings highlight the key role of M&#8211;M distance in controlling ORR activity, guiding the design of next&#8208;generation DACs with improved efficiency.</description>
-      <author>Yu Mao, Yongfang Zhou, Mengjiao Li, Ziyun Wang, Run Shi, Lu Shang, Tierui Zhang, Geoffrey I. N. Waterhouse</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202507733</guid>
-    </item>
-    <item>
-      <title>Black Phosphorus Nanosheets as Efficient Ion Navigators at Room Temperature in Polyacrylonitrile&#8208;Based Composite Solid Polymer Electrolyte for Li&#8208;Ion Batteries</title>
-      <link>https://doi.org/10.1002/smll.202504995</link>
-      <description>Swati Jadhav, Laxman Kaulage, Suparna Saha, Amreen Bano, Satishchandra Ogale, Small. None(None)] 2025. https://openalex.org/W4413877507
-
-                Abstract Solid polymer electrolytes (SPEs) have garnered significant interest lately for all&#8208;solid&#8208;state batteries (ASSBs) because of their easy processability and flexibility; however, their low ionic conductivity has to be enhanced by forming composite polymer electrolyte (CPE). Herein, a polyacrylonitrile (PAN)&#8208;based triple&#8208;composite solid polymer electrolyte with black phosphorus nanosheets (BPN) and SiO 2 nanoparticles (SO) is reported, which synergistically utilizes the efficient directed Li+ pathways (via BP) while reducing PAN crystallization (by SiO 2 ) and enhancing the dissociation of Li salts. Thus, an impressive ionic conductivity of 4.41 &#215; 10 &#8722;4 S cm &#8722;1 is realised in PAN&#8208;BPN&#8208;SO&#8208;LiClO4 CPE, which is 65 times higher than that of PAN&#8208;LiClO 4 (6.8 &#215; 10 &#8722;6 S cm &#8722;1 ). A wider electrochemical stability window (up to 4.68 V vs Li/Li + ) is also realized, enabling compatibility with high&#8208;voltage cathodes. The BPN&#8208;SO CPE exhibited good discharge capacities 146 mAh g &#8722;1 at 0.1C and 108 mAh g &#8722;1 at 1C rate, with 75% capacity retention after 100 cycles. The graphite/LiFePO 4 full&#8208;cell with PAN&#8208;BPN&#8208;SO&#8208;LIClO4 CPE showed a room&#8208;temperature discharge capacity of 87 mAh g &#8722;1 at 0.1 C, which is significantly enhanced to 152 mAh g &#8722;1 at 40 &#176;C. A CPE&#8208;based pouch cell (12 cm 2 , 111.29 mAh g &#8722;1 at 0.1 C) performed well in folding, puncturing, and cutting performance tests. A computational modelling study is performed to elucidate the mechanism.</description>
-      <author>Swati Jadhav, Laxman Kaulage, Suparna Saha, Amreen Bano, Satishchandra Ogale</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202504995</guid>
-    </item>
-    <item>
-      <title>Support-tuned iridium reconstruction with crystalline phase dominating acidic oxygen evolution</title>
-      <link>https://doi.org/10.1038/s41467-025-63541-9</link>
-      <description>Kexin Zhang, Xiao Liang, Yucheng Wang, Yongcun Zou, Xiao Zhao, Hui Chen, Xiaoxin Zou, Nature Communications. 16(1)] 2025. https://openalex.org/W4413878568
-
-                The dynamic reconstruction of oxygen evolution electrocatalysts dictates their performance, yet conventional Ir-based materials face an inherent activity-stability trade-off due to surface amorphization into hydrous IrOx phases accompanied by lattice oxygen mechanisms. Here, we uncover a distinct reconstruction pathway for supported Ir nanoparticles, where a TiOx@Ti substrate drives a bulk phase transition from metallic Ir to crystalline rutile IrO2 during electrocatalysis. Unlike surface-limited amorphization, this support-guided crystallization shifts the reaction mechanism from involving lattice oxygen mechanism to the complete adsorbate evolution mechanism, as confirmed by mechanistic and structural analyses. Consequently, the Ir/TiOx@Ti catalyst achieves both high activity and durability in acidic media, demonstrated in three-electrode systems and proton exchange membrane water electrolyzers. This work redefines support roles in electrocatalyst reconstruction, demonstrating that bulk phase engineering-rather than surface modification-resolves the long-standing efficiency-durability conflict in acidic oxygen evolution.</description>
-      <author>Kexin Zhang, Xiao Liang, Yucheng Wang, Yongcun Zou, Xiao Zhao, Hui Chen, Xiaoxin Zou</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-63541-9</guid>
-    </item>
-    <item>
-      <title>Precisely Bonded Fe&#9472;Cu Diatomic Sites with Nitrogen&#8208;Bridged Coordination on Hollow C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt; Spheres for Efficient C&#9472;N Coupling and Selective Photocatalytic Urea Synthesis</title>
-      <link>https://doi.org/10.1002/ange.202512234</link>
-      <description>Muhammad Irfan Ahmad, Xie Quan, Haokun Bai, Yanming Liu, Shuo Chen, Hongtao Yu, Angewandte Chemie. None(None)] 2025. https://openalex.org/W4413886946
-
-                Abstract The photocatalytic synthesis of urea from CO 2 and N 2 co&#8208;reduction presents a promising alternative to the conventional energy&#8208;intensive Haber&#8211;Bosch process. However, competitive adsorption on the catalyst surface often limits selectivity and yield. Here, we designed hollow graphitic carbon nitride (g&#8208;C 3 N 4 ) spheres, which serve as a high surface area scaffold for precise anchoring of Fe&#9472;Cu diatomic sites. Hollow architecture enhances light harvesting via inner&#8208;scattering effects and charge separation. Each Fe&#9472;Cu site is coordinated with two nitrogen atoms, forming N 2 &#9472;Fe 1 &#9472;Cu 1 &#9472;N 2 /C 3 N 4 DAC (hereafter referred to as FeCu/CN), which enables cooperative activation of CO 2 and N 2 , in contrast to monodispersed diatomic (Fe+Cu/CN), and single&#8208;atom catalysts (Fe/CN, Cu/CN). The FeCu/CN bonded pairs serve as highly efficient active centers, facilitating the synergistic adsorption and activation of multiple reactants. Specifically, during the co&#8208;reduction of CO 2 and N 2 , the Fe 1 site preferentially adsorbs and activates CO 2 , while bonded Cu 1 sites stabilize N 2 on FeCu/CN and enable synergistic C&#9472;N coupling through the formation of *NCON intermediates. As a result, the FeCu/CN achieves an exceptional urea yield of 7.40 mg&#183;g cat &#8722;1 &#183;h &#8722;1 with a 38.58% selectivity under visible light irradiation. Our findings highlight the crucial role of atomic&#8208;level coordination in multireactants and offer insights into the C&#9472;N coupling for value&#8208;added products using CO 2 and N 2 as feedstock.</description>
-      <author>Muhammad Irfan Ahmad, Xie Quan, Haokun Bai, Yanming Liu, Shuo Chen, Hongtao Yu</author>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202512234</guid>
-    </item>
     <item>
       <title>Nanoporous Ti layer encapsulating stainless steel for alkaline water electrolysis: superior electrocatalytic and structural stability under industrially relevant conditions</title>
       <link>https://doi.org/10.1039/d5gc02936h</link>
@@ -548,6 +498,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.164546</guid>
     </item>
     <item>
+      <title>Anharmonic Correction to the Adsorption Free Energy of Oxygen-Containing Intermediates on Pt(111) by Machine-Learned Force Field-Based Thermodynamic Integrations</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c03465</link>
+      <description>Thanh-Nam Huynh, Bassim Mounssef, Dmitry Sharapa, Felix Studt, Tom&#225;&#353; Bu&#269;ko, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4414039479
+
+                Accurate and efficient descriptions of adsorption free energy are of fundamental importance to bringing theoretical findings closer to experiments. The present study introduced a robust combination of machine learning and (un)constrained molecular dynamics-based &#955;-path thermodynamic integration methods to accurately estimate the anharmonic correction to the free energy of adsorbing systems and, thus, the adsorption free energy. The approach was demonstrated for the adsorptions of the oxygenated species exhibiting different anharmonic behaviors, namely, atomic oxygen (O), hydroxyl (OH), and hydroperoxyl (OOH), on the Pt(111) surface. The corrected adsorption free energies reveal the significant influence of anharmonic effects, which could account for up to 39% of the entropy loss estimated by the conventional harmonic approximation, even at near room temperature. This highlights the limitations of the current harmonic approximation and underscores the need to account for anharmonicity for better descriptions of the adsorption processes. The present method paves the way for the accurate adsorption of free energy calculations to be performed routinely toward more powerful theoretical predictions of heterogeneously catalyzed reactions.</description>
+      <author>Thanh-Nam Huynh, Bassim Mounssef, Dmitry Sharapa, Felix Studt, Tom&#225;&#353; Bu&#269;ko</author>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c03465</guid>
+    </item>
+    <item>
+      <title>An excellent-performance electrocatalyst in oxygen reduction reaction: Pt anchored on a bulk-engineered black titania synthesized by nitrogen gliding arc plasma</title>
+      <link>https://doi.org/10.1016/j.cej.2025.168027</link>
+      <description>Xuanhe Li, Xiaosong Li, Jinglin Liu, Xiaobing Zhu, Ai&#8208;Min Zhu, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4414044710
+
+                No abstract</description>
+      <author>Xuanhe Li, Xiaosong Li, Jinglin Liu, Xiaobing Zhu, Ai&#8208;Min Zhu</author>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.168027</guid>
+    </item>
+    <item>
       <title>Repurposing polyethylene terephthalate plastic waste to capture carbon dioxide</title>
       <link>https://doi.org/10.1126/sciadv.adv5906</link>
       <description>Margarita Poderyte, R. J. S. Lima, Peter Illum Golb&#230;kdal, Dennis Wilkens Juhl, Kasper V. Olesen, Niels Chr. Nielsen, Arianna Lanza, Jiwoong Lee, Science Advances. 11(36)] 2025. https://openalex.org/W4414010797
@@ -568,6 +538,16 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s41745-025-00482-8</guid>
     </item>
     <item>
+      <title>Techno-Economic Analysis of Packed Bed and Structured Adsorbent for Direct Air Capture</title>
+      <link>https://doi.org/10.1016/j.ccst.2025.100518</link>
+      <description>Paul de Joannis, Christophe Castel, Mohamed Kanniche, &#201;ric Favre, Olivier Authier, Carbon Capture Science &amp; Technology. None(None)] 2025. https://openalex.org/W4414043801
+
+                No abstract</description>
+      <author>Paul de Joannis, Christophe Castel, Mohamed Kanniche, &#201;ric Favre, Olivier Authier</author>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ccst.2025.100518</guid>
+    </item>
+    <item>
       <title>A comprehensive theoretical study on CuOx/Cu(110) catalyzed water&#8211;gas shift reaction</title>
       <link>https://doi.org/10.1016/j.jcat.2025.116404</link>
       <description>Yu-Bi Huang, Yingqi Wang, Gui&#8208;Chang Wang, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4413890083
@@ -576,16 +556,6 @@
       <author>Yu-Bi Huang, Yingqi Wang, Gui&#8208;Chang Wang</author>
       <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116404</guid>
-    </item>
-    <item>
-      <title>Impact of surface point defects on the electronic and optical properties of GeSi bulk materials</title>
-      <link>https://doi.org/10.1039/d5cp02567b</link>
-      <description>Hai Wan, Haijuan Zhang, Hsiaotao T. Bi, Li Liu, Wanyu Zhao, Shuqi Wang, Qiang L&#252;, Physical Chemistry Chemical Physics. None(None)] 2025. https://openalex.org/W4413884569
-
-                First-principles calculations reveal how surface vacancies, interstitials, and antisite defects reshape the electronic structure and optical response of Ge 0.8 Si 0.2 .</description>
-      <author>Hai Wan, Haijuan Zhang, Hsiaotao T. Bi, Li Liu, Wanyu Zhao, Shuqi Wang, Qiang L&#252;</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5cp02567b</guid>
     </item>
     <item>
       <title>Classification of magnetic ground States and prediction of magnetic moments for ABX3 perovskites utilizing machine learning techniques</title>
