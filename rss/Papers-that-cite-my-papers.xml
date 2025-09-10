@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 09 Sep 2025 01:27:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 01:24:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Nanoporous Ti layer encapsulating stainless steel for alkaline water electrolysis: superior electrocatalytic and structural stability under industrially relevant conditions</title>
-      <link>https://doi.org/10.1039/d5gc02936h</link>
-      <description>P. F. Duan, Kai Zhao, Xiaoyi Jiang, Yu&#8208;Chen Liu, Le Ke, Xiude Wang, Liuyuan Ran, Xian-Zong Wang, Ning Yan, Green Chemistry. None(None)] 2025. https://openalex.org/W4413892285
-
-                Nanoporous Ti coating enables high activity and structural stability of 316L stainless steel in the OER under industrially relevant conditions.</description>
-      <author>P. F. Duan, Kai Zhao, Xiaoyi Jiang, Yu&#8208;Chen Liu, Le Ke, Xiude Wang, Liuyuan Ran, Xian-Zong Wang, Ning Yan</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5gc02936h</guid>
-    </item>
-    <item>
-      <title>Design of bimetallic single-atom catalysts and theoretical study of CO&lt;sub&gt;2&lt;/sub&gt; reduction reaction</title>
-      <link>https://doi.org/10.1039/d5nj02459e</link>
-      <description>Yang Liu, Zhao&#8208;Di Yang, Guiling Zhang, New Journal of Chemistry. None(None)] 2025. https://openalex.org/W4413894406
-
-                Co x Fe 3&#8722; x SACs efficiently produce HCOOH. DFT shows Co 1 Fe 2 has optimal activity/selectivity at Fe sites, with the lowest *CO 2 &#8594; *OCOH barrier (0.51 eV). Fe incorporation tunes electronic structure, suppresses HER, and enhances intermediate adsorption.</description>
-      <author>Yang Liu, Zhao&#8208;Di Yang, Guiling Zhang</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5nj02459e</guid>
-    </item>
-    <item>
-      <title>Comprehensive Approach to Carbon Capture Value Chain Development Challenges and Cost-Effective Solutions</title>
-      <link>https://doi.org/10.2118/226810-ms</link>
-      <description>Lu&#237;s Ferreira Pires, Satyajeet Kawathekar, Peter Dewar, No host. None(None)] 2025. https://openalex.org/W4413897401
-
-                Abstract This paper provides a comprehensive analysis of the carbon capture and storage value chain, focusing on cost optimization strategies and frameworks for successful development. Through systematic evaluation of capture-transport-storage components, we identify critical cost drivers and demonstrate methodologies for economic optimization in early-stage project development. Carbon capture technologies constitute the primary cost component, accounting for 60-80% of total chain (IEA 2024), with post-combustion systems exhibiting energy penalties of 25-35% compared to 15-20% for advanced solvents (Environmental Science &amp; Technology 2024). Transportation costs range from 0.25-55.82 euros per tonne depending on distance and flowrate, while storage costs demonstrate significant variability based on geological conditions and monitoring requirements (MDPI 2024). Cost optimization analysis confirms that cluster and hub models achieve 30-40% cost reductions compared to standalone facilities when maintaining utilization rates above 80% (World Economic Forum 2025). The Northern Lights and Porthos projects early implementation results provide encouraging indicators of successful multi-stakeholder collaboration approaches (Equinor. 2024; Port of Rotterdam. 2024). Digital cost estimation methodologies enable progressive accuracy improvement until final investment decision, supporting systematic project optimization throughout development phases.</description>
-      <author>Lu&#237;s Ferreira Pires, Satyajeet Kawathekar, Peter Dewar</author>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2118/226810-ms</guid>
-    </item>
-    <item>
-      <title>Nanocluster catalyst driving ampere-level current density in direct seawater electrolysis quantum leap towards sustainable energy</title>
-      <link>https://doi.org/10.1016/j.mser.2025.101092</link>
-      <description>Vempuluru Navakoteswara Rao, Yeongjun Yoon, Jyoti Prakash Das, Vijayakumar Elumalai, Anandhan Ayyappan Saj, Hanna Lee, Tae Kyu Kim, Kyeounghak Kim, Arunprasath Sathyaseelan, P. Muthukumar, Sang&#8208;Jae Kim, Materials Science and Engineering R Reports. 167(None)] 2025. https://openalex.org/W4413898788
-
-                No abstract</description>
-      <author>Vempuluru Navakoteswara Rao, Yeongjun Yoon, Jyoti Prakash Das, Vijayakumar Elumalai, Anandhan Ayyappan Saj, Hanna Lee, Tae Kyu Kim, Kyeounghak Kim, Arunprasath Sathyaseelan, P. Muthukumar, Sang&#8208;Jae Kim</author>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mser.2025.101092</guid>
-    </item>
-    <item>
-      <title>Modeling water using multipole response tensors fitted to the monomer geometry</title>
-      <link>https://doi.org/10.1063/5.0279764</link>
-      <description>Jonatan &#214;str&#246;m, Lars G. M. Pettersson, The Journal of Chemical Physics. 163(9)] 2025. https://openalex.org/W4413908830
-
-                The water molecule&#8217;s electronic Cartesian multipole moment and polarizability tensors have been fitted with Gaussian process regression to the internal coordinates and are used to evaluate accurate electrostatic, induction, and dispersion energy components between flexible molecules. The model yields a handful of damping and scaling parameters that were adjusted for the energy components to agree with 2-body symmetry-adapted perturbation theory decomposition and then fine-tuned in order for the total energy to agree with CCSD(T) for small clusters. We present a simple algorithm for rotating symmetric Cartesian tensors and employ a dispersion potential based on multipole polarizabilities. At short range, the 2- and 3-body potential energy was corrected to CCSD(T) accuracy using Gaussian approximation potentials. The radial distribution function and self-diffusion coefficient obtained with molecular dynamics simulations agree well with experiments.</description>
-      <author>Jonatan &#214;str&#246;m, Lars G. M. Pettersson</author>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0279764</guid>
-    </item>
-    <item>
-      <title>Machine learning-guided design of bimetallic alloy catalysts for ethane direct dehydrogenation to ethylene</title>
-      <link>https://doi.org/10.1016/j.ces.2025.122479</link>
-      <description>Tao Xiong, Yawen Tong, Chenghao Ye, Heng Liang, Qi Wang, Xiang&#8208;Kui Gu, Chemical Engineering Science. None(None)] 2025. https://openalex.org/W4413914385
-
-                No abstract</description>
-      <author>Tao Xiong, Yawen Tong, Chenghao Ye, Heng Liang, Qi Wang, Xiang&#8208;Kui Gu</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2025.122479</guid>
-    </item>
-    <item>
-      <title>Tailoring Electrocatalytic Pathways: A Comparative Review of the Electrolyte&#8217;s Effects on Five Key Energy Conversion Reactions</title>
-      <link>https://doi.org/10.3390/catal15090835</link>
-      <description>Goitom K. Gebremariam, Khalid Siraj, Igor A. Pa&#353;ti, Catalysts. 15(9)] 2025. https://openalex.org/W4413915142
-
-                The advancement of efficient energy conversion and storage technologies is fundamentally linked to the development of electrochemical systems, including fuel cells, batteries, and electrolyzers, whose performance depends on key electrocatalytic reactions: hydrogen evolution (HER), oxygen evolution (OER), oxygen reduction (ORR), carbon dioxide reduction (CO2RR), and nitrogen reduction (NRR). Beyond catalyst design, the electrolyte microenvironment significantly influences these reactions by modulating charge transfer, intermediate stabilization, and mass transport, making electrolyte engineering a powerful tool for enhancing performance. This review provides a comprehensive analysis of how fundamental electrolyte properties, including pH, ionic strength, ion identity, and solvent structure, affect the mechanisms and kinetics of these five reactions. We examine in detail how the electrolyte composition and individual ion contributions impact reaction pathways, catalytic activity, and product selectivity. For HER and OER, we discuss the interplay between acidic and alkaline environments, the effects of specific ions, interfacial electric fields, and catalyst stability. In ORR, we highlight pH-dependent activity, selectivity, and the roles of cations and anions in steering 2e&#8722; versus 4e&#8722; pathways. The CO2RR and NRR sections explore how the electrolyte composition, local pH, buffering capacity, and proton sources influence activity and the product distribution. We also address challenges in electrolyte optimization, such as managing competing reactions and maximizing Faradaic efficiency. By comparing the electrolyte&#8217;s effects across these reactions, this review identifies general trends and design guidelines for enhancing electrocatalytic performance and outlines key open questions and future research directions relevant to practical energy technologies.</description>
-      <author>Goitom K. Gebremariam, Khalid Siraj, Igor A. Pa&#353;ti</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/catal15090835</guid>
-    </item>
-    <item>
-      <title>Enhanced Efficiency in Organic Wastewater Treatment by Synergetic Cathodic Produced H2O2 and Anodic Oxidation</title>
-      <link>https://doi.org/10.1016/j.renene.2025.124321</link>
-      <description>Jun Xiao, Shenjie Yu, Haijian Wang, Pan Duo, Tong Li, Juan Yang, Zhenhai Wen, Suqin Ci, Renewable Energy. 256(None)] 2025. https://openalex.org/W4413919000
-
-                No abstract</description>
-      <author>Jun Xiao, Shenjie Yu, Haijian Wang, Pan Duo, Tong Li, Juan Yang, Zhenhai Wen, Suqin Ci</author>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.renene.2025.124321</guid>
-    </item>
-    <item>
-      <title>Trifunctional catalysis for hydrogen evolution reaction, oxygen evolution reaction, and oxygen reduction reaction by transition-metal-substituted goldene</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2025.238274</link>
-      <description>Kourosh Rahimi, Journal of Power Sources. 657(None)] 2025. https://openalex.org/W4413920316
-
-                No abstract</description>
-      <author>Kourosh Rahimi</author>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.238274</guid>
-    </item>
     <item>
       <title>A review on chalcogenides nanomaterials for electrocatalysis: Insights into structural and compositional development</title>
       <link>https://doi.org/10.1016/j.jiec.2025.08.050</link>
@@ -442,7 +352,7 @@
       <link>https://doi.org/10.1007/s41918-025-00252-1</link>
       <description>Yu Zhu, Fei Guo, Shunqiang Zhang, Zichen Wang, Runzhe Chen, Guanjie He, Xueliang Sun, Niancai Cheng, Electrochemical Energy Reviews. 8(1)] 2025. https://openalex.org/W4414025791
 
-                No abstract</description>
+                Abstract Proton exchange membrane water electrolyzers (PEMWEs) are a promising technology for large-scale hydrogen production, yet their industrial deployment is hindered by the harsh acidic conditions and sluggish oxygen evolution reaction (OER) kinetics. This review provides a comprehensive analysis of recent advances in iridium-based electrocatalysts (IBEs), emphasizing novel optimization strategies to enhance both catalytic activity and durability. Specifically, we critically examine the mechanistic insights into OER under acidic conditions, revealing key degradation pathways of Ir species. We further highlight innovative approaches for IBE design, including (i) morphology and support engineering to improve stability, (ii) structure and phase modulation to enhance catalytic efficiency, and (iii) electronic structure tuning for optimizing interactions with reaction intermediates. Additionally, we assess emerging electrode engineering strategies and explore the potential of non-precious metal-based alternatives. Finally, we propose future research directions, focusing on rational catalyst design, mechanistic clarity, and scalable fabrication for industrial applications. By integrating these insights, this review provides a strategic framework for advancing PEMWE technology through highly efficient and durable OER catalysts. Graphical Abstract In order to realize the efficient application of the industrial PEMWEs, material design strategies for stimulating the activity and stability capability of OER electrocatalysts are summarized, including (i) morphology/support effects, (ii) structure/phase engineering, (iii) electronic configuration/interaction. Furthermore, the reaction mechanism is deeply clarified, and electrode engineering and challenges of IBEs in practical PEMWE application are focused.</description>
       <author>Yu Zhu, Fei Guo, Shunqiang Zhang, Zichen Wang, Runzhe Chen, Guanjie He, Xueliang Sun, Niancai Cheng</author>
       <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s41918-025-00252-1</guid>
@@ -546,16 +456,6 @@
       <author>Paul de Joannis, Christophe Castel, Mohamed Kanniche, &#201;ric Favre, Olivier Authier</author>
       <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ccst.2025.100518</guid>
-    </item>
-    <item>
-      <title>A comprehensive theoretical study on CuOx/Cu(110) catalyzed water&#8211;gas shift reaction</title>
-      <link>https://doi.org/10.1016/j.jcat.2025.116404</link>
-      <description>Yu-Bi Huang, Yingqi Wang, Gui&#8208;Chang Wang, Journal of Catalysis. None(None)] 2025. https://openalex.org/W4413890083
-
-                No abstract</description>
-      <author>Yu-Bi Huang, Yingqi Wang, Gui&#8208;Chang Wang</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2025.116404</guid>
     </item>
     <item>
       <title>Classification of magnetic ground States and prediction of magnetic moments for ABX3 perovskites utilizing machine learning techniques</title>

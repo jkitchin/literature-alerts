@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 09 Sep 2025 01:27:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 01:24:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Overcoming the Central Line&#8211;Associated Bloodstream Infection Plateau through Proactive Safety Methodologies: A Quality Improvement Project</title>
-      <link>https://doi.org/10.1097/pq9.0000000000000838</link>
-      <description>Christine Marigliano, Sharon Goodman, James Schneider, Charlotte Smith, Brianna Concannon, Aidan Doona, Julia Vitucci, Lorry G. Rubin, Lawrence C. Wolfe, Raymond Festa, Elan Itschakov, Robert Koppel, Donna Baranek, L. Jendresky, Anupama Subramony, Pediatric Quality and Safety. 10(S1)] 2025. https://openalex.org/W4413901169
-
-                No abstract</description>
-      <author>Christine Marigliano, Sharon Goodman, James Schneider, Charlotte Smith, Brianna Concannon, Aidan Doona, Julia Vitucci, Lorry G. Rubin, Lawrence C. Wolfe, Raymond Festa, Elan Itschakov, Robert Koppel, Donna Baranek, L. Jendresky, Anupama Subramony</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1097/pq9.0000000000000838</guid>
-    </item>
     <item>
       <title>Domain decomposition preconditioners for Schur complement systems arising in structured nonlinear optimization problems</title>
       <link>https://doi.org/10.1007/s11081-025-10020-1</link>

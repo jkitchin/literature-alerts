@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Sep  9 01:27:40 2025
+Created on Wed Sep 10 01:24:39 2025
 
-Found 56 results from 2025-09-02 to 2025-09-09
+Found 46 results from 2025-09-03 to 2025-09-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802)
@@ -17,105 +17,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## Nanoporous Ti layer encapsulating stainless steel for alkaline water electrolysis: superior electrocatalytic and structural stability under industrially relevant conditions   
-
-OpenAlex: https://openalex.org/W4413892285    
-Open access: False
-    
-[P. F. Duan](https://openalex.org/A5110479057), [Kai Zhao](https://openalex.org/A5023119885), [Xiaoyi Jiang](https://openalex.org/A5102774996), [Yu‐Chen Liu](https://openalex.org/A5100373056), [Le Ke](https://openalex.org/A5050241510), [Xiude Wang](https://openalex.org/A5104320574), [Liuyuan Ran](https://openalex.org/A5113290818), [Xian-Zong Wang](https://openalex.org/A5056518588), [Ning Yan](https://openalex.org/A5060681396), Green Chemistry. None(None)] 2025.https://doi.org/10.1039/d5gc02936h.
-    
-Nanoporous Ti coating enables high activity and structural stability of 316L stainless steel in the OER under industrially relevant conditions.    
-
-    
-
-## Design of bimetallic single-atom catalysts and theoretical study of CO2 reduction reaction   
-
-OpenAlex: https://openalex.org/W4413894406    
-Open access: False
-    
-[Yang Liu](https://openalex.org/A5100356054), [Zhao‐Di Yang](https://openalex.org/A5089053681), [Guiling Zhang](https://openalex.org/A5055291760), New Journal of Chemistry. None(None)] 2025.https://doi.org/10.1039/d5nj02459e.
-    
-Co x Fe 3− x SACs efficiently produce HCOOH. DFT shows Co 1 Fe 2 has optimal activity/selectivity at Fe sites, with the lowest *CO 2 → *OCOH barrier (0.51 eV). Fe incorporation tunes electronic structure, suppresses HER, and enhances intermediate adsorption.    
-
-    
-
-## Comprehensive Approach to Carbon Capture Value Chain Development Challenges and Cost-Effective Solutions   
-
-OpenAlex: https://openalex.org/W4413897401    
-Open access: False
-    
-[Luís Ferreira Pires](https://openalex.org/A5053032671), [Satyajeet Kawathekar](https://openalex.org/A5119505362), [Peter Dewar](https://openalex.org/A5119505363), No host. None(None)] 2025.https://doi.org/10.2118/226810-ms.
-    
-Abstract This paper provides a comprehensive analysis of the carbon capture and storage value chain, focusing on cost optimization strategies and frameworks for successful development. Through systematic evaluation of capture-transport-storage components, we identify critical cost drivers and demonstrate methodologies for economic optimization in early-stage project development. Carbon capture technologies constitute the primary cost component, accounting for 60-80% of total chain (IEA 2024), with post-combustion systems exhibiting energy penalties of 25-35% compared to 15-20% for advanced solvents (Environmental Science & Technology 2024). Transportation costs range from 0.25-55.82 euros per tonne depending on distance and flowrate, while storage costs demonstrate significant variability based on geological conditions and monitoring requirements (MDPI 2024). Cost optimization analysis confirms that cluster and hub models achieve 30-40% cost reductions compared to standalone facilities when maintaining utilization rates above 80% (World Economic Forum 2025). The Northern Lights and Porthos projects early implementation results provide encouraging indicators of successful multi-stakeholder collaboration approaches (Equinor. 2024; Port of Rotterdam. 2024). Digital cost estimation methodologies enable progressive accuracy improvement until final investment decision, supporting systematic project optimization throughout development phases.    
-
-    
-
-## Nanocluster catalyst driving ampere-level current density in direct seawater electrolysis quantum leap towards sustainable energy   
-
-OpenAlex: https://openalex.org/W4413898788    
-Open access: False
-    
-[Vempuluru Navakoteswara Rao](https://openalex.org/A5050605617), [Yeongjun Yoon](https://openalex.org/A5019542814), [Jyoti Prakash Das](https://openalex.org/A5054514416), [Vijayakumar Elumalai](https://openalex.org/A5016404657), [Anandhan Ayyappan Saj](https://openalex.org/A5106597472), [Hanna Lee](https://openalex.org/A5100742439), [Tae Kyu Kim](https://openalex.org/A5013893562), [Kyeounghak Kim](https://openalex.org/A5018840226), [Arunprasath Sathyaseelan](https://openalex.org/A5087122773), [P. Muthukumar](https://openalex.org/A5102822155), [Sang‐Jae Kim](https://openalex.org/A5081731391), Materials Science and Engineering R Reports. 167(None)] 2025.https://doi.org/10.1016/j.mser.2025.101092.
-    
-No abstract    
-
-    
-
-## Modeling water using multipole response tensors fitted to the monomer geometry   
-
-OpenAlex: https://openalex.org/W4413908830    
-Open access: True
-    
-[Jonatan Öström](https://openalex.org/A5036012987), [Lars G. M. Pettersson](https://openalex.org/A5061932210), The Journal of Chemical Physics. 163(9)] 2025.https://doi.org/10.1063/5.0279764 ([pdf](https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0279764/20674720/094103_1_5.0279764.pdf)).
-    
-The water molecule’s electronic Cartesian multipole moment and polarizability tensors have been fitted with Gaussian process regression to the internal coordinates and are used to evaluate accurate electrostatic, induction, and dispersion energy components between flexible molecules. The model yields a handful of damping and scaling parameters that were adjusted for the energy components to agree with 2-body symmetry-adapted perturbation theory decomposition and then fine-tuned in order for the total energy to agree with CCSD(T) for small clusters. We present a simple algorithm for rotating symmetric Cartesian tensors and employ a dispersion potential based on multipole polarizabilities. At short range, the 2- and 3-body potential energy was corrected to CCSD(T) accuracy using Gaussian approximation potentials. The radial distribution function and self-diffusion coefficient obtained with molecular dynamics simulations agree well with experiments.    
-
-    
-
-## Machine learning-guided design of bimetallic alloy catalysts for ethane direct dehydrogenation to ethylene   
-
-OpenAlex: https://openalex.org/W4413914385    
-Open access: False
-    
-[Tao Xiong](https://openalex.org/A5100738523), [Yawen Tong](https://openalex.org/A5010429918), [Chenghao Ye](https://openalex.org/A5008389623), [Heng Liang](https://openalex.org/A5069748637), [Qi Wang](https://openalex.org/A5100341342), [Xiang‐Kui Gu](https://openalex.org/A5077195527), Chemical Engineering Science. None(None)] 2025.https://doi.org/10.1016/j.ces.2025.122479.
-    
-No abstract    
-
-    
-
-## Tailoring Electrocatalytic Pathways: A Comparative Review of the Electrolyte’s Effects on Five Key Energy Conversion Reactions   
-
-OpenAlex: https://openalex.org/W4413915142    
-Open access: True
-    
-[Goitom K. Gebremariam](https://openalex.org/A5066258850), [Khalid Siraj](https://openalex.org/A5076368805), [Igor A. Pašti](https://openalex.org/A5079797338), Catalysts. 15(9)] 2025.https://doi.org/10.3390/catal15090835.
-    
-The advancement of efficient energy conversion and storage technologies is fundamentally linked to the development of electrochemical systems, including fuel cells, batteries, and electrolyzers, whose performance depends on key electrocatalytic reactions: hydrogen evolution (HER), oxygen evolution (OER), oxygen reduction (ORR), carbon dioxide reduction (CO2RR), and nitrogen reduction (NRR). Beyond catalyst design, the electrolyte microenvironment significantly influences these reactions by modulating charge transfer, intermediate stabilization, and mass transport, making electrolyte engineering a powerful tool for enhancing performance. This review provides a comprehensive analysis of how fundamental electrolyte properties, including pH, ionic strength, ion identity, and solvent structure, affect the mechanisms and kinetics of these five reactions. We examine in detail how the electrolyte composition and individual ion contributions impact reaction pathways, catalytic activity, and product selectivity. For HER and OER, we discuss the interplay between acidic and alkaline environments, the effects of specific ions, interfacial electric fields, and catalyst stability. In ORR, we highlight pH-dependent activity, selectivity, and the roles of cations and anions in steering 2e− versus 4e− pathways. The CO2RR and NRR sections explore how the electrolyte composition, local pH, buffering capacity, and proton sources influence activity and the product distribution. We also address challenges in electrolyte optimization, such as managing competing reactions and maximizing Faradaic efficiency. By comparing the electrolyte’s effects across these reactions, this review identifies general trends and design guidelines for enhancing electrocatalytic performance and outlines key open questions and future research directions relevant to practical energy technologies.    
-
-    
-
-## Enhanced Efficiency in Organic Wastewater Treatment by Synergetic Cathodic Produced H2O2 and Anodic Oxidation   
-
-OpenAlex: https://openalex.org/W4413919000    
-Open access: False
-    
-[Jun Xiao](https://openalex.org/A5102868178), [Shenjie Yu](https://openalex.org/A5107522279), [Haijian Wang](https://openalex.org/A5101408497), [Pan Duo](https://openalex.org/A5108629282), [Tong Li](https://openalex.org/A5100359036), [Juan Yang](https://openalex.org/A5017002313), [Zhenhai Wen](https://openalex.org/A5080926762), [Suqin Ci](https://openalex.org/A5091534599), Renewable Energy. 256(None)] 2025.https://doi.org/10.1016/j.renene.2025.124321.
-    
-No abstract    
-
-    
-
-## Trifunctional catalysis for hydrogen evolution reaction, oxygen evolution reaction, and oxygen reduction reaction by transition-metal-substituted goldene   
-
-OpenAlex: https://openalex.org/W4413920316    
-Open access: False
-    
-[Kourosh Rahimi](https://openalex.org/A5039190076), Journal of Power Sources. 657(None)] 2025.https://doi.org/10.1016/j.jpowsour.2025.238274.
-    
-No abstract    
-
-    
 
 ## A review on chalcogenides nanomaterials for electrocatalysis: Insights into structural and compositional development   
 
@@ -496,9 +397,9 @@ ABSTRACT Rare‐earth ions (REIs), especially trivalent lanthanides (Ln), are ce
 OpenAlex: https://openalex.org/W4414025791    
 Open access: True
     
-[Yu Zhu](https://openalex.org/A5100678279), [Fei Guo](https://openalex.org/A5038494100), [Shunqiang Zhang](https://openalex.org/A5041448273), [Zichen Wang](https://openalex.org/A5100784342), [Runzhe Chen](https://openalex.org/A5102774588), [Guanjie He](https://openalex.org/A5059197749), [Xueliang Sun](https://openalex.org/A5027533708), [Niancai Cheng](https://openalex.org/A5003139518), Electrochemical Energy Reviews. 8(1)] 2025.https://doi.org/10.1007/s41918-025-00252-1 ([pdf](https://link.springer.com/content/pdf/10.1007/s41918-025-00252-1.pdf)).
+[Yu Zhu](https://openalex.org/A5100678279), [Fei Guo](https://openalex.org/A5038494100), [Shunqiang Zhang](https://openalex.org/A5041448273), [Zichen Wang](https://openalex.org/A5100784342), [Runzhe Chen](https://openalex.org/A5102774588), [Guanjie He](https://openalex.org/A5059197749), [Xueliang Sun](https://openalex.org/A5027533708), [Niancai Cheng](https://openalex.org/A5003139518), Electrochemical Energy Reviews. 8(1)] 2025.https://doi.org/10.1007/s41918-025-00252-1.
     
-No abstract    
+Abstract Proton exchange membrane water electrolyzers (PEMWEs) are a promising technology for large-scale hydrogen production, yet their industrial deployment is hindered by the harsh acidic conditions and sluggish oxygen evolution reaction (OER) kinetics. This review provides a comprehensive analysis of recent advances in iridium-based electrocatalysts (IBEs), emphasizing novel optimization strategies to enhance both catalytic activity and durability. Specifically, we critically examine the mechanistic insights into OER under acidic conditions, revealing key degradation pathways of Ir species. We further highlight innovative approaches for IBE design, including (i) morphology and support engineering to improve stability, (ii) structure and phase modulation to enhance catalytic efficiency, and (iii) electronic structure tuning for optimizing interactions with reaction intermediates. Additionally, we assess emerging electrode engineering strategies and explore the potential of non-precious metal-based alternatives. Finally, we propose future research directions, focusing on rational catalyst design, mechanistic clarity, and scalable fabrication for industrial applications. By integrating these insights, this review provides a strategic framework for advancing PEMWE technology through highly efficient and durable OER catalysts. Graphical Abstract In order to realize the efficient application of the industrial PEMWEs, material design strategies for stimulating the activity and stability capability of OER electrocatalysts are summarized, including (i) morphology/support effects, (ii) structure/phase engineering, (iii) electronic configuration/interaction. Furthermore, the reaction mechanism is deeply clarified, and electrode engineering and challenges of IBEs in practical PEMWE application are focused.    
 
     
 
@@ -607,17 +508,6 @@ OpenAlex: https://openalex.org/W4414043801
 Open access: True
     
 [Paul de Joannis](https://openalex.org/A5114757003), [Christophe Castel](https://openalex.org/A5061472778), [Mohamed Kanniche](https://openalex.org/A5039649112), [Éric Favre](https://openalex.org/A5007951485), [Olivier Authier](https://openalex.org/A5057347283), Carbon Capture Science & Technology. None(None)] 2025.https://doi.org/10.1016/j.ccst.2025.100518.
-    
-No abstract    
-
-    
-
-## A comprehensive theoretical study on CuOx/Cu(110) catalyzed water–gas shift reaction   
-
-OpenAlex: https://openalex.org/W4413890083    
-Open access: False
-    
-[Yu-Bi Huang](https://openalex.org/A5103481141), [Yingqi Wang](https://openalex.org/A5100751767), [Gui‐Chang Wang](https://openalex.org/A5013508325), Journal of Catalysis. None(None)] 2025.https://doi.org/10.1016/j.jcat.2025.116404.
     
 No abstract    
 

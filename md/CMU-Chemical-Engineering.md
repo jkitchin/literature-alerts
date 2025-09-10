@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Sep  9 01:27:28 2025
+Created on Wed Sep 10 01:24:28 2025
 
-Found 3 results from 2025-09-02 to 2025-09-09
+Found 2 results from 2025-09-03 to 2025-09-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Overcoming the Central Line–Associated Bloodstream Infection Plateau through Proactive Safety Methodologies: A Quality Improvement Project   
-
-OpenAlex: https://openalex.org/W4413901169    
-Open access: True
-    
-[Christine Marigliano](https://openalex.org/A5119508507), [Sharon Goodman](https://openalex.org/A5030843600), [James Schneider](https://openalex.org/A5028147543), [Charlotte Smith](https://openalex.org/A5082948573), [Brianna Concannon](https://openalex.org/A5119508510), [Aidan Doona](https://openalex.org/A5119508511), [Julia Vitucci](https://openalex.org/A5119508512), [Lorry G. Rubin](https://openalex.org/A5063606897), [Lawrence C. Wolfe](https://openalex.org/A5029945563), [Raymond Festa](https://openalex.org/A5119508508), [Elan Itschakov](https://openalex.org/A5119508509), [Robert Koppel](https://openalex.org/A5059236287), [Donna Baranek](https://openalex.org/A5026010345), [L. Jendresky](https://openalex.org/A5010026773), [Anupama Subramony](https://openalex.org/A5047409928), Pediatric Quality and Safety. 10(S1)] 2025.https://doi.org/10.1097/pq9.0000000000000838.
-    
-No abstract    
-
-    
 
 ## Domain decomposition preconditioners for Schur complement systems arising in structured nonlinear optimization problems   
 
