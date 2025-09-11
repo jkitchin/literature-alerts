@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 10 Sep 2025 01:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 01:26:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Domain decomposition preconditioners for Schur complement systems arising in structured nonlinear optimization problems</title>
-      <link>https://doi.org/10.1007/s11081-025-10020-1</link>
-      <description>Laurens R. Lueg, Michael Bynum, Carl D. Laird, Lorenz T. Biegler, Optimization and Engineering. None(None)] 2025. https://openalex.org/W4413932515
-
-                Abstract Large-scale nonlinear, nonconvex optimization problems arise in many relevant engineering applications, such as integrated energy systems, public health, or supply-chain logistics. Their solution is often challenging due to problem scale, significant spatio-temporal interactions, or time constraints (e.g. for real-time operations). This work focuses on decomposition strategies for nonlinear problems with distributed structure, where interactions between problem partitions can be defined over sparse graphs. Parallelization is achieved on the linear algebra level within an interior point algorithm using the Schur complement method, and we propose several distributed algebraic preconditioners for the Schur complement system, based on approaches from the field of domain decomposition. We demonstrate promising strong scaling results on large-scale problem instances for parameter estimation of infectious disease models and PDE-constrained optimal control.</description>
-      <author>Laurens R. Lueg, Michael Bynum, Carl D. Laird, Lorenz T. Biegler</author>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11081-025-10020-1</guid>
-    </item>
     <item>
       <title>Weak influence of anthropogenic emissions on aerosol, cloud, and rain in the wet season of the Amazon rainforest</title>
       <link>https://doi.org/10.5194/acp-25-9685-2025</link>

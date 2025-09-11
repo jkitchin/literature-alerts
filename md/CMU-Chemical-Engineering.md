@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Sep 10 01:24:28 2025
+Created on Thu Sep 11 01:26:42 2025
 
-Found 2 results from 2025-09-03 to 2025-09-10
+Found 1 results from 2025-09-04 to 2025-09-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Domain decomposition preconditioners for Schur complement systems arising in structured nonlinear optimization problems   
-
-OpenAlex: https://openalex.org/W4413932515    
-Open access: True
-    
-[Laurens R. Lueg](https://openalex.org/A5017863327), [Michael Bynum](https://openalex.org/A5031357535), [Carl D. Laird](https://openalex.org/A5109041235), [Lorenz T. Biegler](https://openalex.org/A5052825722), Optimization and Engineering. None(None)] 2025.https://doi.org/10.1007/s11081-025-10020-1 ([pdf](https://link.springer.com/content/pdf/10.1007/s11081-025-10020-1.pdf)).
-    
-Abstract Large-scale nonlinear, nonconvex optimization problems arise in many relevant engineering applications, such as integrated energy systems, public health, or supply-chain logistics. Their solution is often challenging due to problem scale, significant spatio-temporal interactions, or time constraints (e.g. for real-time operations). This work focuses on decomposition strategies for nonlinear problems with distributed structure, where interactions between problem partitions can be defined over sparse graphs. Parallelization is achieved on the linear algebra level within an interior point algorithm using the Schur complement method, and we propose several distributed algebraic preconditioners for the Schur complement system, based on approaches from the field of domain decomposition. We demonstrate promising strong scaling results on large-scale problem instances for parameter estimation of infectious disease models and PDE-constrained optimal control.    
-
-    
 
 ## Weak influence of anthropogenic emissions on aerosol, cloud, and rain in the wet season of the Amazon rainforest   
 
