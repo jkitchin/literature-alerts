@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Sep 11 01:26:54 2025
+Created on Fri Sep 12 01:23:46 2025
 
-Found 49 results from 2025-09-04 to 2025-09-11
+Found 39 results from 2025-09-05 to 2025-09-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802)
@@ -17,105 +17,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## AI‐Driven Advances in Sustainable Materials for Green Energy: From Innovation to Lifecycle Management   
-
-OpenAlex: https://openalex.org/W4413950047    
-Open access: True
-    
-[Yuehui Xian](https://openalex.org/A5093810417), [Li Cheng](https://openalex.org/A5100755222), [Yangyang Xu](https://openalex.org/A5024099548), [Yumei Zhou](https://openalex.org/A5069357722), [Dezhen Xue](https://openalex.org/A5026902132), SusMat. None(None)] 2025.https://doi.org/10.1002/sus2.70030.
-    
-ABSTRACT Artificial intelligence (AI) is revolutionizing sustainable materials science, yet a comprehensive and timely evaluation of the rapidly evolving AI techniques applied across the entire materials lifecycle remains lacking. This work reviews AI‐driven advances in sustainable materials, specifically focusing on battery materials, thermal management materials, energy conversion materials, and catalysts. The key patterns, capabilities, and limitations of AI are identified across three interconnected phases: sustainable materials design (leveraging predictive and generative models for accelerated discovery), green processing (integrating adaptive synthesis optimization and autonomous experimentation), and extending to lifecycle management (encompassing real‐time monitoring, predictive maintenance, and intelligent recycling). Then, the persistent challenges, including data sparsity, domain‐specific knowledge integration, and limited model generalizability, are investigated, followed by an exploration of emerging solutions such as federated learning for privacy‐preserving data sharing, physics‐informed neural networks for knowledge integration, and multimodal AI for cross‐modal knowledge transfer. Finally, the computational sustainability challenges of AI methods themselves are also discussed. This review highlights key bottlenecks impeding scalable adoption and discuss pathways for realizing the full potential of AI in sustainable materials development.    
-
-    
-
-## Strain-driven Adsorption Site Modification on Pd-Based Nano Cube for Fuel Cell Application   
-
-OpenAlex: https://openalex.org/W4413950117    
-Open access: False
-    
-[Yeonwoo Do](https://openalex.org/A5075253888), [S. H. Jang](https://openalex.org/A5109267751), [Seokho Lee](https://openalex.org/A5103034149), [Yiyun Yang](https://openalex.org/A5109992827), [Yunjeong Jang](https://openalex.org/A5067067662), [Hyun‐Suk Kim](https://openalex.org/A5100611381), [Kwun‐Bum Chung](https://openalex.org/A5112388153), [Kyung-Wan Nam](https://openalex.org/A5113342608), [Yoon Kee Kim](https://openalex.org/A5008331641), [Kihyun Shin](https://openalex.org/A5017759408), Catalysis Today. None(None)] 2025.https://doi.org/10.1016/j.cattod.2025.115547.
-    
-No abstract    
-
-    
-
-## The strong-weak adsorption pair motif of cu Fe bimetallic composite as an efficient catalyst for CO2 RR toward the C2product ethylene and ethanol   
-
-OpenAlex: https://openalex.org/W4413950505    
-Open access: False
-    
-[Yiman Kang](https://openalex.org/A5101375505), [Honglin Zhu](https://openalex.org/A5047943765), [Miao Shui](https://openalex.org/A5005368514), Journal of Electroanalytical Chemistry. None(None)] 2025.https://doi.org/10.1016/j.jelechem.2025.119450.
-    
-No abstract    
-
-    
-
-## Modeling-Making-Modulating High-Entropy Alloy with Activated Water-Dissociation Centers for Superior Electrocatalysis   
-
-OpenAlex: https://openalex.org/W4413953358    
-Open access: False
-    
-[Ho Ngoc Nam](https://openalex.org/A5019019449), [Ravi Nandan](https://openalex.org/A5051058482), [Lei Fu](https://openalex.org/A5071723684), [Yingji Zhao](https://openalex.org/A5061252299), [Yunqing Kang](https://openalex.org/A5012515854), [Tetsuya Fukushima](https://openalex.org/A5040546892), [Kazunori Satō](https://openalex.org/A5078003161), [Yusuke Asakura](https://openalex.org/A5085415818), [Ovidiu Cretu](https://openalex.org/A5089686985), [Jun Kikkawa](https://openalex.org/A5079941352), [Joel Henzie](https://openalex.org/A5013530203), [Jonathan P. Hill](https://openalex.org/A5004504609), [Takeshi Yanai](https://openalex.org/A5002069874), [Quan Manh Phung](https://openalex.org/A5017511441), [Yusuke Yamauchi](https://openalex.org/A5037509120), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.5c08012.
-    
-High-entropy alloys (HEAs) have recently emerged as promising electrocatalysts for complex reactions owing to their tunable electronic structures and diverse, unique binding sites. However, their vast compositional space, in terms of both elemental variety and atomic ratios, presents a major challenge to the rational design of high-performance catalysts, as experimental efforts are often hindered by ambiguous element selection and inefficient trial-and-error methods. In this work, a bottom-up research strategy using machine learning-assisted first-principles calculations was applied to accelerate the design of quinary HEAs toward efficient multielectron transfer reactions. Here, we report the design of PtPdRhRuMo, which exhibits key physicochemical properties favoring the methanol oxidation reaction. Notably, the incorporation of Mo as the fifth element significantly activates specific binding sites on HEA surfaces, enhancing methanol adsorption and, in particular, the water dissociation ability. This facilitates hydroxyl species formation, which effectively mitigates CO intermediate adherence while promoting the complete oxidation of CH3OH to CO2 via alternative reaction pathways. Guided by theoretical predictions, experimental samples with different morphologies of mesoporous PtPdRhRuMo catalyst (m-HEANP(Mo) nanoparticles and m-HEAF(Mo) thin film) were then synthesized, demonstrating superior electrocatalysis with a large current density of up to 18.20 mA cm-2 and a mass activity of 9.89 A mgPt-1, alongside the long-term durability for efficient methanol electrooxidation applications.    
-
-    
-
-## What formate electro-oxidation can teach us about CO poisoning on Pt during biomass oxidation   
-
-OpenAlex: https://openalex.org/W4413956753    
-Open access: False
-    
-[Silvia Favero](https://openalex.org/A5059583865), [Zhe Meng](https://openalex.org/A5101821644), [Henrik H. Kristoffersen](https://openalex.org/A5028337707), [Jan Rossmeisl](https://openalex.org/A5083668074), [Ifan E. L. Stephens](https://openalex.org/A5039064548), [Maria‐Magdalena Titirici](https://openalex.org/A5075732110), [Yu Katayama](https://openalex.org/A5019981027), Research Square (Research Square). None(None)] 2025.https://doi.org/10.21203/rs.3.rs-7263225/v1.
-    
-Abstract Catalyst deactivation due to *CO poisoning is a persistent challenge in the electrochemical oxidation of biomass-derived molecules such as glycerol and glucose. On platinum catalysts, *CO forms readily as a reaction intermediate, blocking active sites and requiring high overpotentials for removal—often leading to undesired overoxidation of valuable products. Understanding the fundamental origins of *CO formation is thus critical for designing more selective and stable catalysts. Since biomass oxidation can be extremely complex and involve a multitude of adsorbates and products, here we use a simplified model system, formate oxidation, to investigate *CO formation on Pt in alkaline pH . Starting from operando surface-enhanced infrared spectroscopy, we show that the adsorption configuration of formate determines if the surface will be poisoned by *CO. Oxygen-bound formate (*OOCH) undergoes direct and stable oxidation to CO₂, while carbon-bound formate (*COOH) disproportionates to form *CO–*OH, initiating poisoning. These insights offer a mechanistic foundation for designing Pt-based catalysts that resist *CO formation by selectively stabilizing *OOCH over *COOH intermediates, with broader implications for improving biomass electrooxidation performance.    
-
-    
-
-## An Atomistic Study of Reactivity in Solid-State Electrolyte Interphase Formation for Li/Li7P3S11   
-
-OpenAlex: https://openalex.org/W4413957550    
-Open access: True
-    
-[Bryant Li](https://openalex.org/A5026058225), [Vir Karan](https://openalex.org/A5115910895), [Aaron D. Kaplan](https://openalex.org/A5065000056), [Mingjian Wen](https://openalex.org/A5025927897), [Kristin A. Persson](https://openalex.org/A5037535334), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.5c03589.
-    
-No abstract    
-
-    
-
-## Molecular Orbital Level Micro‐Electric Field in Green Fenton‐Like Chemistry for Water Treatment: From Mechanism Understanding to Scale‐Up Applications   
-
-OpenAlex: https://openalex.org/W4413960944    
-Open access: False
-    
-[Qingbai Tian](https://openalex.org/A5081212544), [Qian Li](https://openalex.org/A5107842408), [Tianran Zhang](https://openalex.org/A5013342444), [Weihua Huang](https://openalex.org/A5061500406), [Chuanliang Zhao](https://openalex.org/A5088770008), [Bo Hu](https://openalex.org/A5022196520), [Xing Xu](https://openalex.org/A5101679416), Advanced Materials. None(None)] 2025.https://doi.org/10.1002/adma.202509280.
-    
-Abstract Fenton‐like systems utilizing micro‐electric field‐engineered catalysts have emerged as a promising technology for water remediation, demonstrating distinctive advantages via their efficient electron transport networks. This innovative approach not only significantly reduces oxidant consumption but also enables thorough mineralization of contaminants. However, current research faces critical challenges in fundamental mechanistic understanding, particularly regarding reactor scale‐up strategies and biological synergy mechanisms, where a cohesive theoretical framework remains to be established. This comprehensive review systematically addresses four pivotal aspects: i) Mechanistic elucidation of charge transfer dynamics and pollutant transformation pathways in micro‐electric field‐enhanced Fenton systems; ii) Development of structure‐activity relationship models for system optimization; iii) Implementation of modular scale‐up methodologies with pilot‐scale validation for engineering feasibility assessment; iv) Quantitative environmental impact evaluation using full lifecycle assessment under carbon neutrality objectives. By methodically analyzing technical bottlenecks and advancement pathways, this work establishes a theoretical foundation for advancing micro‐electric field regulation in environmental remediation applications. The insights presented are expected to accelerate the development of sustainable water treatment solutions, offering innovative approaches for pollution control aligned with global carbon emission reduction targets.    
-
-    
-
-## Enhanced degradation of levofloxacin hydrochloride synergistically with hydroxylamine hydrochloride via Fe3O4-loaded Medulla Tetrapanacis residue in a Fenton-like process   
-
-OpenAlex: https://openalex.org/W4413963238    
-Open access: False
-    
-[Ying Qiu](https://openalex.org/A5101699196), [Hong Yuan](https://openalex.org/A5056405812), [Xing-yi Yang](https://openalex.org/A5100972214), [Yongjun Leng](https://openalex.org/A5100414114), [Xin Liu](https://openalex.org/A5060086206), Journal of Water Process Engineering. 77(None)] 2025.https://doi.org/10.1016/j.jwpe.2025.108643.
-    
-No abstract    
-
-    
-
-## Pb-Induced Electronic Structure Modification Enhances Formic Acid Electrooxidation on Pd3Pb   
-
-OpenAlex: https://openalex.org/W4413964937    
-Open access: True
-    
-[Radhey Shyam Yadav](https://openalex.org/A5041232727), [Haya Kornweitz](https://openalex.org/A5084515228), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.5c04219.
-    
-The efficiency of formic acid electrooxidation (FAEO) is often hindered by CO poisoning via the indirect pathway, underscoring the need for catalysts that promote the direct (CO-free) oxidation route. Pd-based catalysts are promising, but a limited understanding of surface interactions and catalytic behavior restricts further development. Density functional theory (DFT) combined with Crystal Orbital Hamilton Population (COHP) analysis was employed to investigate the FAEO on Pd3Pb(111) and Pd(111) surfaces, revealing a key insight into their electronic and catalytic behavior. Incorporation of Pb into the Pd lattice enhances the catalytic performance by modifying the electronic structure and introducing new active sites. This study revealed the role of the subsurface Pb atom, which enhances HCOO binding at Pd–Pd bridge sites and strengthens CO and H adsorption at hexagonal closest packed (hcp) hollow sites over face-centered cubic (fcc) sites. The FAEO process proceeds more efficiently on Pd3Pb via O–H bond cleavage, forming an HCOO intermediate with a lower activation energy (0.29 eV) than on Pd (0.35 eV). Pd3Pb favors the HCOO-mediated pathway, while Pd prefers the COOH-mediated route. Additionally, Pb significantly lowers the energy barrier for HCOO rotation (0.51 vs 0.84 eV), enhancing CO-free oxidation.    
-
-    
 
 ## New tertiary phosphane appended AgⅠ 3-ethoxycyclobutene-4-thiolates: Insights into phosphane denticity effect on electrocatalytic water splitting properties   
 
@@ -541,17 +442,6 @@ OpenAlex: https://openalex.org/W4414061894
 Open access: False
     
 [Ge Yan](https://openalex.org/A5083698974), [Xiaolong Xu](https://openalex.org/A5007818509), [Weixiang Kong](https://openalex.org/A5082642867), [Anqi Qin](https://openalex.org/A5109578520), [Yali Ma](https://openalex.org/A5058991700), [Hui Li](https://openalex.org/A5100423864), [Hongwei Huang](https://openalex.org/A5048638809), [Hua Fan](https://openalex.org/A5101046867), [Xiaodong Sun](https://openalex.org/A5058164162), [Tianyi Ma](https://openalex.org/A5069632856), Applied Catalysis B Environment and Energy. None(None)] 2025.https://doi.org/10.1016/j.apcatb.2025.125941.
-    
-No abstract    
-
-    
-
-## Classification of magnetic ground States and prediction of magnetic moments for ABX3 perovskites utilizing machine learning techniques   
-
-OpenAlex: https://openalex.org/W4413956594    
-Open access: False
-    
-[Yue Hao](https://openalex.org/A5100427150), [Jishun Zhang](https://openalex.org/A5042747824), [Xi Sun](https://openalex.org/A5100915084), [Zihan Qu](https://openalex.org/A5069931715), [Zuyu Xu](https://openalex.org/A5049469312), [Yunlai Zhu](https://openalex.org/A5041234406), [Yuehua Dai](https://openalex.org/A5101698907), Journal of Electroceramics. None(None)] 2025.https://doi.org/10.1007/s10832-025-00424-x.
     
 No abstract    
 

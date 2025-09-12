@@ -1,28 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Sep 11 01:26:42 2025
+Created on Fri Sep 12 01:23:34 2025
 
-Found 1 results from 2025-09-04 to 2025-09-11
+Found 0 results from 2025-09-05 to 2025-09-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
-* Weak influence of anthropogenic emissions on aerosol, cloud, and rain in the wet season of the Amazon rainforest  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4413961345
-:TOPICS: Atmospheric aerosols and clouds, Atmospheric chemistry and aerosols, Atmospheric Ozone and Climate
-:PUBLICATION_DATE: 2025-09-03
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5194/acp-25-9685-2025")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4413961345"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4413961345"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4413961345"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4413961345 (Open access: True)
-    
-[[https://openalex.org/A5100390606][Xuemei Wang]], [[https://openalex.org/A5061310552][K. S. Carslaw]], [[https://openalex.org/A5028113214][Daniel P. Grosvenor]], [[https://openalex.org/A5086004922][Hamish Gordon]], Atmospheric chemistry and physics. 25(17)] 2025. https://doi.org/10.5194/acp-25-9685-2025 
-     
-Abstract. Anthropogenic emissions have been shown to affect new particle formation, aerosol concentrations, and clouds. Such effects vary with region, environmental conditions, and cloud types. In the wet season of Amazonia, anthropogenic emissions emitted from Manaus, Brazil, can significantly increase the cloud condensation nuclei (CCN) concentrations compared to the background of mainly natural aerosols. However, the regional response of cloud and rain to anthropogenic emissions in Amazonia remains very uncertain. Here, we aim to quantify how aerosol concentration, cloud, and rain respond to changes in anthropogenic emissions through parameterized new particle formation and primary aerosol emission in the Manaus region and to understand the underlying mechanisms. We ran the atmosphere-only configuration of the HadGEM3 climate model with a nested regional domain that covers most of the rainforest region (720 km by 1200 km with 3 km resolution) under scaled regional emissions. The 7 d simulations show that, in the areas that are affected by anthropogenic emissions, when aerosol and precursor gas emissions are doubled from the baseline emission inventories, aerosol number concentrations increase by 13 %. The nucleation rate that involves sulfuric acid and biogenic compounds generally increases with pollution levels. However, nucleation is suppressed very close to the pollution source, resulting in lower nucleation and soluble Aitken mode aerosol number concentrations. We also found that doubling the anthropogenic emission can increase the cloud droplet number concentrations (Nd) by 9 %, but cloud water and rain mass mixing ratios do not change significantly. Even very strong reductions in aerosol number concentrations by a factor of 4, which is an unrealistic condition, cause only a 4 % increase in rain over the domain. If we assume our simulation has a fine enough grid resolution and an accurate representation of the relevant atmospheric processes, the simulated weak and non-linear response of cloud and rain properties to linearly scaled anthropogenic emissions suggests that the interactions among aerosol, cloud, and precipitation in the Amazonian convective environment are buffered by microphysical processes. It also implies that the convective environment is resilient to the changes in Nd that occur in response to localized anthropogenic aerosol perturbations.    
-
-    
