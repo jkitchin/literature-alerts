@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 15 Sep 2025 01:39:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 01:24:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>An excellent-performance electrocatalyst in oxygen reduction reaction: Pt anchored on a bulk-engineered black titania synthesized by nitrogen gliding arc plasma</title>
-      <link>https://doi.org/10.1016/j.cej.2025.168027</link>
-      <description>Xuanhe Li, Xiaosong Li, Jinglin Liu, Xiaobing Zhu, Ai&#8208;Min Zhu, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4414044710
-
-                No abstract</description>
-      <author>Xuanhe Li, Xiaosong Li, Jinglin Liu, Xiaobing Zhu, Ai&#8208;Min Zhu</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.168027</guid>
-    </item>
     <item>
       <title>Surface engineering and electronegativity effects on the catalytic performance of Hf&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e874" altimg="si31.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt;CO&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e882" altimg="si31.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt; MXene: An ab initio study</title>
       <link>https://doi.org/10.1016/j.jpcs.2025.113152</link>
@@ -366,16 +356,6 @@
       <author>Gang Wang, Xuguang Guo, Lihua Lyu, Ruihui Gan, Yongping Zheng, Hyoyoung Lee, Xiaodong Shao</author>
       <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cnl2.70048</guid>
-    </item>
-    <item>
-      <title>Techno-Economic Analysis of Packed Bed and Structured Adsorbent for Direct Air Capture</title>
-      <link>https://doi.org/10.1016/j.ccst.2025.100518</link>
-      <description>Paul de Joannis, Christophe Castel, Mohamed Kanniche, &#201;ric Favre, Olivier Authier, Carbon Capture Science &amp; Technology. None(None)] 2025. https://openalex.org/W4414043801
-
-                No abstract</description>
-      <author>Paul de Joannis, Christophe Castel, Mohamed Kanniche, &#201;ric Favre, Olivier Authier</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ccst.2025.100518</guid>
     </item>
     <item>
       <title>Future Perspective On Materials, Electrochemistry, and Cell Concepts for Redox&#8208;Mediated CO&lt;sub&gt;2&lt;/sub&gt; Direct Air Capture Scenarios</title>
