@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 17 Sep 2025 01:24:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 01:24:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Hongliang Xin, John R. Kitchin, Heather J. Kulik</author>
       <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s42256-025-01110-x</guid>
+    </item>
+    <item>
+      <title>Isoprene Aerosol Growth in the Upper Troposphere: Application of the Diagonal Volatility Basis Set to CLOUD Chamber Measurements</title>
+      <link>https://doi.org/10.1021/acsestair.5c00106</link>
+      <description>Nirvan Bhattacharyya, Brandon Lopez, Jenna DeVivo, Douglas M. Russell, Jiali Shen, Eva Sommer, Jo&#227;o Paulo A. Almeida, A. Amorim, H. Beckmann, M. Busato, Manjula R. Canagaratna, Luc&#237;a Caudillo, Anouck Chassaing, T. Christoudias, Lubna Dada, Imad El Haddad, Richard C. Flagan, Hartwig Harder, Bernhard Judmaier, Milin Kaniyodical Sebastian, J. Kirkby, Hannah Klebach, Markku Kulmala, Felix Kunkler, Katrianne Lehtipalo, Lu Liu, Bernhard Mentler, Ottmar M&#246;hler, Aleksandra Morawiec, Tuukka Pet&#228;j&#228;, P. Rato Mendes, Birte R&#246;rup, Samuel Ruhl, Wiebke Scholz, Mario Simon, Ant&#243;nio Tom&#233;, Yandong Tong, Jens Top, Nsikanabasi Silas Umo, Rainer Volkamer, Jakob Weissbacher, Douglas R. Worsnop, Christos Xenofontos, Boxing Yang, Wenjuan Yu, Marcel Zauner-Wieczorek, Imad Zgheib, Jiangyi Zhang, Zhensen Zheng, Xu&#8208;Cheng He, Dominik Stolzenburg, Siegfried Schobesberger, Joachim Curtius, Neil M. Donahue, ACS ES&amp;T Air. None(None)] 2025. https://openalex.org/W4414203041
+
+                No abstract</description>
+      <author>Nirvan Bhattacharyya, Brandon Lopez, Jenna DeVivo, Douglas M. Russell, Jiali Shen, Eva Sommer, Jo&#227;o Paulo A. Almeida, A. Amorim, H. Beckmann, M. Busato, Manjula R. Canagaratna, Luc&#237;a Caudillo, Anouck Chassaing, T. Christoudias, Lubna Dada, Imad El Haddad, Richard C. Flagan, Hartwig Harder, Bernhard Judmaier, Milin Kaniyodical Sebastian, J. Kirkby, Hannah Klebach, Markku Kulmala, Felix Kunkler, Katrianne Lehtipalo, Lu Liu, Bernhard Mentler, Ottmar M&#246;hler, Aleksandra Morawiec, Tuukka Pet&#228;j&#228;, P. Rato Mendes, Birte R&#246;rup, Samuel Ruhl, Wiebke Scholz, Mario Simon, Ant&#243;nio Tom&#233;, Yandong Tong, Jens Top, Nsikanabasi Silas Umo, Rainer Volkamer, Jakob Weissbacher, Douglas R. Worsnop, Christos Xenofontos, Boxing Yang, Wenjuan Yu, Marcel Zauner-Wieczorek, Imad Zgheib, Jiangyi Zhang, Zhensen Zheng, Xu&#8208;Cheng He, Dominik Stolzenburg, Siegfried Schobesberger, Joachim Curtius, Neil M. Donahue</author>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsestair.5c00106</guid>
     </item>
   </channel>
 </rss>
