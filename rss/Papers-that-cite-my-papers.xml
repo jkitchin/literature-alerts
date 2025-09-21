@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Sep 2025 01:23:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 01:40:53 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -592,7 +592,7 @@
       <link>https://doi.org/10.1021/acs.jpclett.5c02424</link>
       <description>Alessandro Bonardi, Shuai Xu, Giovanni Di Liberto, Gianfranco Pacchioni, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4414323102
 
-                No abstract</description>
+                A key challenge in modeling electrocatalysis with single-atom catalysts (SACs) is accurately capturing the redox behavior of transition metals across oxidation states. This is particularly true for iron, a widely used element in such systems. Iron phthalocyanine (FePc) serves as a model compound for graphene-based Fe SACs and is commonly used in reactions like the oxygen evolution reaction (OER). While FePc initially contains Fe(II), the active species under oxidative conditions is Fe(III), with an Fe(II)/Fe(III) transition occurring at intermediate potentials. Density functional theory (DFT) simulations must reflect this redox change. However, standard DFT predicts that oxidation removes an electron from the ligand, leaving the iron in the II state. This limitation arises not from DFT itself, but from an incomplete model. We show that adding at least one (preferably two) water molecules to the axial coordination sites of iron corrects this issue. The water ligands raise the energy of iron orbitals, making electron removal from the metal more favorable. This finding has two key implications: (1) the redox properties of transition metal complexes and graphene-based SACs are strongly influenced by the coordination environment, including solvent molecules; and (2) accurate description of the atomistic structure of the catalyst requires the explicit inclusion of axial water ligands, not just the in-plane ligands, to capture the true redox behavior.</description>
       <author>Alessandro Bonardi, Shuai Xu, Giovanni Di Liberto, Gianfranco Pacchioni</author>
       <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c02424</guid>
@@ -612,7 +612,7 @@
       <link>https://doi.org/10.1021/acsami.5c08232</link>
       <description>Heonjae Jeong, Christopher S. Johnson, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4414323290
 
-                No abstract</description>
+                Silicon (Si) is promising for lithium-ion battery (LIB) anodes due to their high theoretical capacity and low electrochemical potential. However, significant challenges remain, including severe volumetric expansion during cycling and the electrochemical instability of electrolytes, which leads to the formation of a nonuniform solid electrolyte interphase (SEI). To investigate SEI formation mechanisms, computational molecular dynamics simulations offer valuable insights. In this study, we examine the trajectories and charge transfer behavior of lithium hexafluorophosphate (LiPF6) salt with various solvent compositions using density functional theory (DFT) and ab initio molecular dynamics (AIMD). Among the tested electrolyte systems, LiPF6 with vinylene carbonate (VC) added to ethyl methyl carbonate (EMC) exhibits the lowest reactivity with the Si anode. In contrast, the effects of fluoroethylene carbonate (FEC) and VC depend on whether the primary solvent is EMC alone or a mixture of ethylene carbonate (EC) and EMC. Moreover, we show that electrolyte reactivity varies with the degree of lithiation of the Si anode (LiSi vs Li15Si4) and under different charge states. To decouple electrolyte reactivity from surface effects, we analyze the dissociation and formation energies of individual species from solvated configurations. Overall, these first-principles-based findings provide a strategic foundation for electrolyte design to improve cycling stability and extend calendar life in LIBs using Si anodes.</description>
       <author>Heonjae Jeong, Christopher S. Johnson</author>
       <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c08232</guid>
