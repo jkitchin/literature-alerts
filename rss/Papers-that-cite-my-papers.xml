@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 21 Sep 2025 01:40:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 01:41:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Strain-optimized copper dual-atom sites for selective electroreduction of carbon dioxide to ethylene</title>
-      <link>https://doi.org/10.1126/sciadv.ads0609</link>
-      <description>Xuewei Huang, Xinwei Li, Shuhao Yan, Dawei Wang, Chang Long, Ying Yue, Pengfei An, Zhiyu Guo, Qun Li, Caoyu Yang, Sheng Chen, Jianyu Han, Lin Chang, Siyu Lu, Yin Zhang, Science Advances. 11(37)] 2025. https://openalex.org/W4414161983
-
-                Electrocatalytic carbon dioxide (CO2) reduction holds the great potential to convert excess emissions of carbon footprint into high value-added chemicals, but its activity, selectivity, stability, and reproducibility are still far away from satisfactory. The molecular catalysts with precise structures are unique platform to decipher the electrocatalytic mechanism, but they usually suffer from low performance. Herein, we report a strain-optimized dual copper complex immobilized in mesoporous carbon, which exhibits remarkable ethylene (C2H4) Faradaic efficiency (FE) up to 49.9% along with a multicarbon (C2+) product's FE up to 65.2% at -1.19 volts versus reversible hydrogen electrode. Concurrently, the catalyst displays considerable stability for 15 hours at a full cell potential of -3.1 volts. The density functional theory calculation reveals that the strain effect imposed by mesoporous carbon regulates the neighboring dual copper sites in the electrocatalyst to decrease the energy barrier of rate-determining step (*COCO &#8594; *COCOH), thus significantly promoting ethylene production.</description>
-      <author>Xuewei Huang, Xinwei Li, Shuhao Yan, Dawei Wang, Chang Long, Ying Yue, Pengfei An, Zhiyu Guo, Qun Li, Caoyu Yang, Sheng Chen, Jianyu Han, Lin Chang, Siyu Lu, Yin Zhang</author>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.ads0609</guid>
-    </item>
     <item>
       <title>C2N supported single Fe3 cluster for efficient electrocatalytic urea synthesis</title>
       <link>https://doi.org/10.1016/j.cej.2025.168128</link>
