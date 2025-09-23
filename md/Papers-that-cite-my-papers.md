@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Sep 22 01:41:11 2025
+Created on Tue Sep 23 01:25:38 2025
 
-Found 78 results from 2025-09-15 to 2025-09-22
+Found 87 results from 2025-09-16 to 2025-09-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802)
@@ -777,6 +777,94 @@ Abstract Covalent organic frameworks (COFs) are promising photocatalysts for ove
 
     
 
+## MnO2 Crystal Phases Mediate o-Semiquinone Radical Generation for Selective Aniline Contaminant Oxidation   
+
+OpenAlex: https://openalex.org/W4414341411    
+Open access: False
+    
+[Xuewen Luo](https://openalex.org/A5016895294), [Zhuofeng Hu](https://openalex.org/A5086231149), [Han Xiao](https://openalex.org/A5088235742), [Yangjian Zhou](https://openalex.org/A5079140676), [Xin Yang](https://openalex.org/A5067558727), Environmental Science & Technology. None(None)] 2025.https://doi.org/10.1021/acs.est.5c08657.
+    
+Traditional advanced oxidation processes (AOPs) often face significant challenges in contaminant degradation due to strong interference from complex water matrices. In this study, o-semiquinone radicals (o-SQ•-)-driven AOP was established by MnO2-mediated catechol oxidation, achieving selective degradation of aniline contaminants (e.g., sulfamethoxazole (SMX)) in real water matrices. Four MnO2 crystal phases (α-, β-, γ-, and δ-MnO2) were evaluated, and the degradation efficiency of SMX followed the order γ > α > β > δ-MnO2. Both MnO2 surface-bound o-SQ•- and aqueous-phase Mn(II)-o-SQ•- contributed to the SMX degradation. Crystal phases dictated o-SQ•- generation─α-, β-, and γ-MnO2─favored the MnO2 solids surface binding of o-SQ•-, while δ-MnO2 promoted the interaction of o-SQ•- with Mn(II) in the aqueous phase. Higher MnO2 redox potentials and Mn(IV) content correlated with enhanced o-SQ•- generation and faster SMX degradation. Mechanistic studies revealed that o-SQ•- attacks SMX through radical addition, forming low-toxicity products. Given that dihydroxyphenyl is a prevalent component of natural aquatic environments, this work advances the design of selective, eco-friendly AOPs with anti-interference capabilities.    
+
+    
+
+## Copper Sulfide Nanospheres Were Prepared as Efficient Water-Splitting Electrocatalysts   
+
+OpenAlex: https://openalex.org/W4414349285    
+Open access: False
+    
+[Qian Li](https://openalex.org/A5101406955), [Wenpei Wang](https://openalex.org/A5021408177), [Yaqing Weng](https://openalex.org/A5034840178), [Lili Gao](https://openalex.org/A5115781259), [Xihong He](https://openalex.org/A5101835273), [Jinjing Du](https://openalex.org/A5100992445), [Xiaojun Zhao](https://openalex.org/A5108080178), JOM. None(None)] 2025.https://doi.org/10.1007/s11837-025-07737-w.
+    
+No abstract    
+
+    
+
+## Dynamic anion leaching-readsorption in Ni3S2@MoO3 heterostructures boosts the electrocatalytic activity of anion exchange membrane water electrolyzers   
+
+OpenAlex: https://openalex.org/W4414351067    
+Open access: False
+    
+[Jie Han](https://openalex.org/A5028719633), [Shifan Yang](https://openalex.org/A5043115433), [Weiwei Bao](https://openalex.org/A5020354922), [Taotao Ai](https://openalex.org/A5103441728), [Zhifeng Deng](https://openalex.org/A5005955788), [Peng Jiang](https://openalex.org/A5017430213), [Xueling Wei](https://openalex.org/A5107942405), [Xiangyu Zou](https://openalex.org/A5113907611), Journal of Colloid and Interface Science. None(None)] 2025.https://doi.org/10.1016/j.jcis.2025.139055.
+    
+No abstract    
+
+    
+
+## Design of Pt‐Based Bimetallic Active Sites for Efficient Oxygen Reduction Reaction on C6N6 Skeleton   
+
+OpenAlex: https://openalex.org/W4414364710    
+Open access: False
+    
+[Jing Jia](https://openalex.org/A5102172269), [Li‐Ming Yang](https://openalex.org/A5028695621), Advanced Energy Materials. None(None)] 2025.https://doi.org/10.1002/aenm.202503969.
+    
+Abstract In this work, Pt‐based bimetal catalysts PtM@C 6 N 6 (M = 3d, 4d, 5d) for the oxygen reduction reaction (ORR) is systematically investigated by comprehensive consideration of different coordination modes and anchored sites of Pt and M atoms on experimentally synthesized C 6 N 6 substrate, different adsorption configuration of O 2 molecule from both above and below the catalyst surface, different reaction pathway, and structure‐activity relationship via computer‐aided screening and density functional theory (DFT) computations. Comprehensive search and in‐deep analysis reveal that seven representative electrocatalysts (i.e., PtAg@, PtCd@, PtCu@, PtIr@, PtRh@, PtHf@, and PtZr@C 6 N 6 ) demonstrate high ORR catalytic activities under both acidic and basic conditions with favorable overpotentials. Full reaction pathway search demonstrates that the ORR follows a 4‐electron mechanism with the final product H 2 O/OH − . PtCd@, PtCu@, PtIr@, PtRh@, and PtZr@C 6 N 6 exhibit superior activities with low η ORR due to their moderate adsorption strength of *OH, while PtAg@ and PtHf@C 6 N 6 exhibit excellent catalytic performance is attributed to moderate O 2 adsorption Furthermore, a series of descriptors (e.g., ΔG 0 a , ΔG 4 a , ΔG 4 a –d(Pt‐M), and [d(Pt‐O2)×d(M‐O2)]×[d(M‐O2)/d(M‐O1)], etc) are uncovered to unveil the origin of catalyst activity. These findings pave a significant path for the development of efficient ORR catalysts and are expected to stimulate experimental efforts in this direction.    
+
+    
+
+## Energy and Resource Generation via Electrochemical Ammonia Oxidation: From Materials Design to System Integration   
+
+OpenAlex: https://openalex.org/W4414364826    
+Open access: False
+    
+[Mengdi Wang](https://openalex.org/A5100707460), [Haotian Tan](https://openalex.org/A5044338474), [Xiaoqing Liu](https://openalex.org/A5012465576), [Xiao Yan](https://openalex.org/A5048380837), [Ji Liang](https://openalex.org/A5068080851), Advanced Energy Materials. None(None)] 2025.https://doi.org/10.1002/aenm.202503846.
+    
+Abstract Nitrogen is an essential nutrient for all life forms, rendering the nitrogen looping one of the most critical biogeochemical processes on Earth. However, global industrial and agricultural activities have severely disrupted natural nitrogen cycling, causing environmental impact and energy consumption through conventional processes such as the Haber–Bosch and Ostwald method. Addressing this imbalance requires innovative technologies that reconcile efficient nitrogen utilization with environmental sustainability. Electrochemical nitrogen transformation, especially the electrochemical oxidation of ammonia under mild conditions, has emerged as a promising solution, enabling the conversion of reactive nitrogen species into energy and valuable products while mitigating environmental impacts. This review comprehensively examines recent advances in ammonia‐centric nitrogen utilization technologies, focusing on their roles as: 1) carbon‐neutral energy vectors (ammonia fuel cells), 2) efficient hydrogen carriers (ammonia cracking), and 3) precursors for high‐value nitrogenous chemicals via controlled oxidation pathways under mild conditions. The full‐chain design framework, namely, from material innovations to practical system integration, is analyzed, while elucidating fundamental reaction mechanisms, performance benchmarks, and scale‐up methodologies. The review aims to provide a foundational reference for developing sustainable electrochemical solutions for establishing a nitrogen‐based and net‐zero energy/resource economics, and in the meantime, addressing the potential nitrogen pollution control and resource recovery.    
+
+    
+
+## Activating Honeycomb Borophene for Efficient Hydrogen Evolution via Substrate-Induced p-Band Center Modulation   
+
+OpenAlex: https://openalex.org/W4414371432    
+Open access: False
+    
+[Wenjun Tang](https://openalex.org/A5028023634), [Haiyuan Chen](https://openalex.org/A5013407292), [Xiaobin Niu](https://openalex.org/A5070520616), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.5c12479.
+    
+Developing efficient and stable electrocatalysts for the hydrogen evolution reaction (HER) is crucial for enabling sustainable hydrogen production through water electrolysis. Two-dimensional (2D) boron allotropes, particularly honeycomb borophene (hc-B), have emerged as promising candidates due to their electron-deficient nature and rich active sites. However, this same electron deficiency compromises their structural stability, limiting practical applications. In this study, we employ first-principles calculations to investigate a donor–acceptor hc-B/V2CS2 heterostructure, where the V2CS2 substrate plays a dual role in stabilizing hc-B and modulating its catalytic properties. Machine learning-accelerated molecular dynamics simulations in an explicit water environment confirm the heterostructure's exceptional structural integrity and aqueous tolerance over 50 ps. Remarkably, the hc-B side of the heterostructure exhibits hydrogen adsorption Gibbs free energy values near the thermoneutral point, outperforming benchmark catalysts such as Pt and the MoS2 S-edge. Electronic structure analyses reveal that the enhanced HER activity arises from substrate-induced modulation of the boron p-band center, which promotes an optimal binding environment for H intermediates through interfacial orbital hybridization and stabilized B–H coordination. Furthermore, reaction pathway analysis incorporating explicit solvation identifies the Volmer–Tafel mechanism as the kinetically preferred route on hc-B/V2CS2. These findings highlight the synergistic role of substrate engineering and interfacial electronic tuning in activating borophene-based HER catalysts, offering new directions for designing high-performance 2D catalytic systems.    
+
+    
+
+## Rose-like NiFe-LDH/MoS2 Electrocatalysts Achieve 1000 mA cm–2 OER with Enhanced Charge Transfer and Seawater Stability   
+
+OpenAlex: https://openalex.org/W4414373839    
+Open access: False
+    
+[Xin Li](https://openalex.org/A5100353737), [Yue Qin](https://openalex.org/A5062251017), [Boyang Zhang](https://openalex.org/A5100677424), [Boyao Zhang](https://openalex.org/A5103015219), [Rongda Zhao](https://openalex.org/A5101410401), [Jia Li](https://openalex.org/A5100405691), [Depeng Zhao](https://openalex.org/A5004071353), [Lihua Miao](https://openalex.org/A5019618581), Crystal Growth & Design. None(None)] 2025.https://doi.org/10.1021/acs.cgd.5c01006.
+    
+No abstract    
+
+    
+
+## Direct Laser Writing of Bioinspired High‐Entropy Oxide Nanoarrays for Practical Water Electrolysis   
+
+OpenAlex: https://openalex.org/W4414376769    
+Open access: False
+    
+[Lin Cheng](https://openalex.org/A5114348166), [Qi Wang](https://openalex.org/A5061055878), [Haojie Liu](https://openalex.org/A5047516073), [Yi Rao](https://openalex.org/A5086002167), [Junfeng Cui](https://openalex.org/A5063449999), [Hanwen Liu](https://openalex.org/A5100757249), [Jinli Chen](https://openalex.org/A5061741835), [W. Shi](https://openalex.org/A5109948930), [Lei Zhang](https://openalex.org/A5100433837), [Bo Song](https://openalex.org/A5024019320), [Yonggang Yao](https://openalex.org/A5084211576), Advanced Energy Materials. None(None)] 2025.https://doi.org/10.1002/aenm.202503929.
+    
+Abstract Industrial water electrolysis faces a triple challenge at high current densities (≥500 mA cm −2 ): reconciling catalytic activity, stability, and severe gas‐liquid transport. While high‐entropy oxides (HEOs) show catalytic promise, conventional methods predominantly focus on elemental regulation and neglect critical morphological optimization, thus failing to unify composition‐architecture‐transport functionality to prevail at industrial conditions. Here, the morphological HEO electrode is introduced, a bioinspired framework integrating multielement mixing, architectural hierarchy, and surface adaptation. High‐throughput optimization identifies a critical nanosecond laser parameter window where rapid quenching traps metastable FeCoNiMoCrO x HEO nanoparticles foliage while Marangoni flows sculpt Ti microcone trunks. This structure exhibits superaerophobic‐superhydrophilic properties and exceptional oxygen evolution performance (η 10 = 188 mV). In an anion‐exchange membrane electrolyzer, the electrode achieves 1 A cm −2 at 1.82 V (surpassing commercial IrO 2 ‐coated Ti mesh), while maintaining stable operation for 600 h at 500 mA cm −2 (degradation rate: 38.33 µV h −1 ). DFT calculations confirm that Mo/Cr electronically modulates the primary OER active Ni sites via the M‐O‐M network, optimizing the d‐band center and favoring the Adsorbate Evolution Mechanism (AEM). This work establishes a paradigm for industrial electrocatalysts by encoding compositional complexity, structural coherence, and interfacial adaptability through morphological design, where multifunctionality emerges from multiscale synergy rather than isolated optimization.    
+
+    
+
 ## Electronic reconstruction unlocks concurrent ultra-auxeticity and platinum-competing catalysis in MXenes   
 
 OpenAlex: https://openalex.org/W4414220983    
@@ -785,6 +873,17 @@ Open access: False
 [Yucheng Zhu](https://openalex.org/A5062180789), [Miao Pan](https://openalex.org/A5047722991), [Shuaijun Yang](https://openalex.org/A5085410272), [Jianbo Zhu](https://openalex.org/A5069638280), [Ruidong Li](https://openalex.org/A5024339300), [Zhong Chen](https://openalex.org/A5100430399), [Jun Hu](https://openalex.org/A5102560647), Chinese Chemical Letters. None(None)] 2025.https://doi.org/10.1016/j.cclet.2025.111807.
     
 No abstract    
+
+    
+
+## Computational Screening of Single-Atom Anchored All-Boron Cage (B28) for Hydrogen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4414370642    
+Open access: False
+    
+[Kunyang Cheng](https://openalex.org/A5111156195), [Xiujuan Cheng](https://openalex.org/A5102608878), [Mingyang Shi](https://openalex.org/A5111017081), [Xuying Zhou](https://openalex.org/A5109677206), [Jiahao Deng](https://openalex.org/A5091825521), [Gang Jiang](https://openalex.org/A5080750066), [Jiguang Du](https://openalex.org/A5082326462), The Journal of Physical Chemistry C. None(None)] 2025.https://doi.org/10.1021/acs.jpcc.5c04669.
+    
+The electrocatalytic hydrogen evolution reaction (HER) is a crucial step in the production of hydrogen through the electrolysis of H2O. Platinum-based materials are regarded as the most effective catalysts for HER due to their low overpotential and high stability. However, the scarcity and high cost of platinum limit its application on a large scale. In this study, we employed first-principles methods to investigate the HER performance of a series of single-atom catalysts based on the B28 cluster. This cage-like B28 cluster shows instability for only five out of 40 metal atom candidates, which can be attributed to the presence of hexagonal and octagonal holes that allow for effective anchoring of single atoms. We utilized the integrated crystal orbital Hamiltonian population (ICOHP) as a vital descriptor to assess the strength of the interaction between the metal atoms and the B28 cluster, demonstrating a linear correlation with binding energy. By calculating changes in Gibbs free energy (ΔGH*) for hydrogen absorption, we identified four species (Ge@B28, Cu@B28, Ni@B28, and Pt@B28) that exhibit superior HER catalytic activity with |ΔGH*| around 0.2 eV. Moreover, our results indicate that these four species are more likely to produce H2 through the Tafel reaction. This study provides evidence that boron clusters have the potential to serve as single-atom supports and as catalysts for HER. These findings establish a theoretical foundation for the experimental design of novel nanocatalysts.    
 
     
 
