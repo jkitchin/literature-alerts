@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Sep 23 01:25:16 2025
+Created on Wed Sep 24 01:25:44 2025
 
-Found 3 results from 2025-09-16 to 2025-09-23
+Found 4 results from 2025-09-17 to 2025-09-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Isoprene Aerosol Growth in the Upper Troposphere: Application of the Diagonal Volatility Basis Set to CLOUD Chamber Measurements   
-
-OpenAlex: https://openalex.org/W4414203041    
-Open access: True
-    
-[Nirvan Bhattacharyya](https://openalex.org/A5017157628), [Brandon Lopez](https://openalex.org/A5019360565), [Jenna DeVivo](https://openalex.org/A5092773428), [Douglas M. Russell](https://openalex.org/A5113379780), [Jiali Shen](https://openalex.org/A5049005695), [Eva Sommer](https://openalex.org/A5062670207), [João Paulo A. Almeida](https://openalex.org/A5063817933), [A. Amorim](https://openalex.org/A5062064925), [H. Beckmann](https://openalex.org/A5111324500), [M. Busato](https://openalex.org/A5016923070), [Manjula R. Canagaratna](https://openalex.org/A5062166400), [Lucía Caudillo](https://openalex.org/A5079509898), [Anouck Chassaing](https://openalex.org/A5115002638), [T. Christoudias](https://openalex.org/A5068413254), [Lubna Dada](https://openalex.org/A5049539173), [Imad El Haddad](https://openalex.org/A5080319960), [Richard C. Flagan](https://openalex.org/A5012711441), [Hartwig Harder](https://openalex.org/A5023787844), [Bernhard Judmaier](https://openalex.org/A5116631052), [Milin Kaniyodical Sebastian](https://openalex.org/A5113379781), [J. Kirkby](https://openalex.org/A5009274507), [Hannah Klebach](https://openalex.org/A5114989132), [Markku Kulmala](https://openalex.org/A5000471665), [Felix Kunkler](https://openalex.org/A5107158742), [Katrianne Lehtipalo](https://openalex.org/A5019559780), [Lu Liu](https://openalex.org/A5100396524), [Bernhard Mentler](https://openalex.org/A5090590782), [Ottmar Möhler](https://openalex.org/A5102403106), [Aleksandra Morawiec](https://openalex.org/A5115002640), [Tuukka Petäjä](https://openalex.org/A5070326299), [P. Rato Mendes](https://openalex.org/A5004351709), [Birte Rörup](https://openalex.org/A5022780485), [Samuel Ruhl](https://openalex.org/A5107158743), [Wiebke Scholz](https://openalex.org/A5076482580), [Mario Simon](https://openalex.org/A5086950058), [António Tomé](https://openalex.org/A5021102823), [Yandong Tong](https://openalex.org/A5026414990), [Jens Top](https://openalex.org/A5014000962), [Nsikanabasi Silas Umo](https://openalex.org/A5043100376), [Rainer Volkamer](https://openalex.org/A5018521569), [Jakob Weissbacher](https://openalex.org/A5115002642), [Douglas R. Worsnop](https://openalex.org/A5026978286), [Christos Xenofontos](https://openalex.org/A5102960249), [Boxing Yang](https://openalex.org/A5101350413), [Wenjuan Yu](https://openalex.org/A5024928662), [Marcel Zauner-Wieczorek](https://openalex.org/A5017388605), [Imad Zgheib](https://openalex.org/A5094097372), [Jiangyi Zhang](https://openalex.org/A5102767311), [Zhensen Zheng](https://openalex.org/A5082103355), [Xu‐Cheng He](https://openalex.org/A5043129752), [Dominik Stolzenburg](https://openalex.org/A5063223340), [Siegfried Schobesberger](https://openalex.org/A5033551265), [Joachim Curtius](https://openalex.org/A5031780924), [Neil M. Donahue](https://openalex.org/A5041685684), ACS ES&T Air. None(None)] 2025.https://doi.org/10.1021/acsestair.5c00106 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsestair.5c00106?ref=article_openPDF)).
-    
-No abstract    
-
-    
 
 ## Roadmap for Transforming Heterogeneous Catalysis with Artificial Intelligence   
 
@@ -34,6 +23,28 @@ OpenAlex: https://openalex.org/W4414345827
 Open access: False
     
 [Jason K. Kabarowski](https://openalex.org/A5074718951), [Aditya S. Khair](https://openalex.org/A5018420940), [Rahil N. Valani](https://openalex.org/A5016646934), Physical Review Fluids. 10(9)] 2025.https://doi.org/10.1103/sv7r-qjl7.
+    
+No abstract    
+
+    
+
+## Assessing goodness-of-fit for sparse categories using Rényi divergence   
+
+OpenAlex: https://openalex.org/W4414396701    
+Open access: False
+    
+[Raul Matsushita](https://openalex.org/A5058633744), [Gabriel dos Passos Gomes](https://openalex.org/A5048633127), [Regina Da Fonseca](https://openalex.org/A5090000996), [Eduardo Yoshio Nakano](https://openalex.org/A5056660449), [Roberto Vila](https://openalex.org/A5082494780), Journal of Statistical Planning and Inference. 242(None)] 2025.https://doi.org/10.1016/j.jspi.2025.106350.
+    
+No abstract    
+
+    
+
+## Tunable lysis of functionalized nanocultures for efficient microbial and nucleic acid recovery   
+
+OpenAlex: https://openalex.org/W4414412857    
+Open access: True
+    
+[Shanna-Leigh Davidson](https://openalex.org/A5040749266), [Lisa M. Stabryla](https://openalex.org/A5061236168), [Shakira M. Martínez Vásquez](https://openalex.org/A5119697405), [Jennifer Dootz](https://openalex.org/A5085766514), [Monique E. Hunter](https://openalex.org/A5081217258), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), Chemical Engineering Journal. None(None)] 2025.https://doi.org/10.1016/j.cej.2025.168770.
     
 No abstract    
 
