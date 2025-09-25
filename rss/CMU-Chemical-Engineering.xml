@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 24 Sep 2025 01:25:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 01:26:37 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Roadmap for Transforming Heterogeneous Catalysis with Artificial Intelligence</title>
-      <link>https://doi.org/10.26434/chemrxiv-2025-chn4j</link>
-      <description>Hongliang Xin, John R. Kitchin, N&#250;ria L&#243;pez, Neil M. Schweitzer, Nongnuch Artrith, Fanglin Che, Lars C. Grabow, G. T. Kasun Kalhara Gunasooriya, Heather J. Kulik, Teodoro Laino, Suljo Linic, Andrew J. Medford, Randall J. Meyer, Jiayu Peng, C. B. Phillips, Jin Qian, Long Qi, Wendy J. Shaw, Zachary W. Ulissi, Siwen Wang, Xiaonan Wang, No host. None(None)] 2025. https://openalex.org/W4414268454
-
-                Artificial intelligence (AI) is poised to transform heterogeneous catalysis, ushering in a new paradigm for catalytic materials discovery. By uncovering intricate patterns in high-dimensional data, AI has been reshaping our pursuit of sustainable catalytic processes across the energy, environmental, and chemical sectors. This promise, however, hinges on overcoming fundamental barriers including limitations in data availability and quality, challenges in the generalizability and interpretability of data-augmented decisions, and the persistent gap between in silico predictions and experiments. In this Perspective, we outline a forward-looking roadmap for deeply integrating AI into heterogeneous catalysis with an AI-ready data ecosystem, multimodal foundation models, and ultimately agentic future labs to accelerate the development of next-generation catalytic technologies via AI-empowered human&#8211;machine collaboration.</description>
-      <author>Hongliang Xin, John R. Kitchin, N&#250;ria L&#243;pez, Neil M. Schweitzer, Nongnuch Artrith, Fanglin Che, Lars C. Grabow, G. T. Kasun Kalhara Gunasooriya, Heather J. Kulik, Teodoro Laino, Suljo Linic, Andrew J. Medford, Randall J. Meyer, Jiayu Peng, C. B. Phillips, Jin Qian, Long Qi, Wendy J. Shaw, Zachary W. Ulissi, Siwen Wang, Xiaonan Wang</author>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2025-chn4j</guid>
-    </item>
     <item>
       <title>Hydrodynamic memory and Quincke rotation</title>
       <link>https://doi.org/10.1103/sv7r-qjl7</link>
