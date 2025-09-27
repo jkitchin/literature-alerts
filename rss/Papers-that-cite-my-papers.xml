@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 26 Sep 2025 01:26:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 01:23:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>High-capacity, reversible hydrogen storage using H &lt;sup&gt;&#8211;&lt;/sup&gt; -conducting solid electrolytes</title>
-      <link>https://doi.org/10.1126/science.adw1996</link>
-      <description>Takashi Hirose, Naoki Matsui, Takashi Itoh, Yoyo Hinuma, Kazutaka Ikeda, Kazuma Gotoh, Guangzhong Jiang, Kota Suzuki, Masaaki Hirayama, Ryoji Kanno, Science. 389(6766)] 2025. https://openalex.org/W4414321624
-
-                Hydrogen absorption and desorption in solids are pivotal reactions involved in batteries and hydrogen storage devices. However, conventional thermodynamic and electrochemical hydrogen storage using high-capacity materials suffers from high hydrogen-desorption temperatures and instability of electrolytes. In this work, we explored electrochemical hydride ion (H &#8211; )&#8211;driven hydrogen storage and developed a solid electrolyte, anti&#8211;&#945;-AgI&#8211;type Ba 0.5 Ca 0.35 Na 0.15 H 1.85 , which exhibits excellent H &#8211; conductivity and electrochemical stability. This electrolyte is compatible with several metal-hydrogen electrodes, such as titanim hydride and magnesium hydride (MgH 2 ), allowing for high-capacity, reversible hydrogen storage at low temperatures. Specifically, Mg&#8211;H 2 cells operating as hydrogen storage devices (Mg + H 2  &#8644;  MgH 2 ) achieved a reversible capacity of 2030 milliampere hours per gram at 90&#176;C, offering safe and efficient hydrogen-electricity conversion and hydrogen storage devices.</description>
-      <author>Takashi Hirose, Naoki Matsui, Takashi Itoh, Yoyo Hinuma, Kazutaka Ikeda, Kazuma Gotoh, Guangzhong Jiang, Kota Suzuki, Masaaki Hirayama, Ryoji Kanno</author>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/science.adw1996</guid>
-    </item>
-    <item>
-      <title>Role of Water in Modulating the Fe&lt;sup&gt;3+&lt;/sup&gt;/Fe&lt;sup&gt;2+&lt;/sup&gt; Redox Couple in Iron-Based Complexes and Single-Atom Catalysts</title>
-      <link>https://doi.org/10.1021/acs.jpclett.5c02424</link>
-      <description>Alessandro Bonardi, Shuai Xu, Giovanni Di Liberto, Gianfranco Pacchioni, The Journal of Physical Chemistry Letters. None(None)] 2025. https://openalex.org/W4414323102
-
-                A key challenge in modeling electrocatalysis with single-atom catalysts (SACs) is accurately capturing the redox behavior of transition metals across oxidation states. This is particularly true for iron, a widely used element in such systems. Iron phthalocyanine (FePc) serves as a model compound for graphene-based Fe SACs and is commonly used in reactions like the oxygen evolution reaction (OER). While FePc initially contains Fe(II), the active species under oxidative conditions is Fe(III), with an Fe(II)/Fe(III) transition occurring at intermediate potentials. Density functional theory (DFT) simulations must reflect this redox change. However, standard DFT predicts that oxidation removes an electron from the ligand, leaving the iron in the II state. This limitation arises not from DFT itself, but from an incomplete model. We show that adding at least one (preferably two) water molecules to the axial coordination sites of iron corrects this issue. The water ligands raise the energy of iron orbitals, making electron removal from the metal more favorable. This finding has two key implications: (1) the redox properties of transition metal complexes and graphene-based SACs are strongly influenced by the coordination environment, including solvent molecules; and (2) accurate description of the atomistic structure of the catalyst requires the explicit inclusion of axial water ligands, not just the in-plane ligands, to capture the true redox behavior.</description>
-      <author>Alessandro Bonardi, Shuai Xu, Giovanni Di Liberto, Gianfranco Pacchioni</author>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.5c02424</guid>
-    </item>
-    <item>
-      <title>Reactivity of Carbonate Solvent Electrolytes on Lithium Silicon Anodes</title>
-      <link>https://doi.org/10.1021/acsami.5c08232</link>
-      <description>Heonjae Jeong, Christopher S. Johnson, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4414323290
-
-                Silicon (Si) is promising for lithium-ion battery (LIB) anodes due to their high theoretical capacity and low electrochemical potential. However, significant challenges remain, including severe volumetric expansion during cycling and the electrochemical instability of electrolytes, which leads to the formation of a nonuniform solid electrolyte interphase (SEI). To investigate SEI formation mechanisms, computational molecular dynamics simulations offer valuable insights. In this study, we examine the trajectories and charge transfer behavior of lithium hexafluorophosphate (LiPF6) salt with various solvent compositions using density functional theory (DFT) and ab initio molecular dynamics (AIMD). Among the tested electrolyte systems, LiPF6 with vinylene carbonate (VC) added to ethyl methyl carbonate (EMC) exhibits the lowest reactivity with the Si anode. In contrast, the effects of fluoroethylene carbonate (FEC) and VC depend on whether the primary solvent is EMC alone or a mixture of ethylene carbonate (EC) and EMC. Moreover, we show that electrolyte reactivity varies with the degree of lithiation of the Si anode (LiSi vs Li15Si4) and under different charge states. To decouple electrolyte reactivity from surface effects, we analyze the dissociation and formation energies of individual species from solvated configurations. Overall, these first-principles-based findings provide a strategic foundation for electrolyte design to improve cycling stability and extend calendar life in LIBs using Si anodes.</description>
-      <author>Heonjae Jeong, Christopher S. Johnson</author>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c08232</guid>
-    </item>
-    <item>
-      <title>Polytetrafluoroethylene (PTFE) Lubrication of Rolling Point Contacts by Double Transfer Films: Relationships between Friction and Lubricant Film Distribution Revealed by Spacer Layer Imaging and Molecular Dynamics</title>
-      <link>https://doi.org/10.1080/10402004.2025.2513933</link>
-      <description>Thomas Reichenbach, Stephan von Goeldel, Stefan Peeters, Georgios Vokolos, Florian K&#246;nig, Georg Jacobs, Gianpietro Moras, Michael Moseler, Tribology Transactions. 68(5)] 2025. https://openalex.org/W4414325619
-
-                No abstract</description>
-      <author>Thomas Reichenbach, Stephan von Goeldel, Stefan Peeters, Georgios Vokolos, Florian K&#246;nig, Georg Jacobs, Gianpietro Moras, Michael Moseler</author>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/10402004.2025.2513933</guid>
-    </item>
-    <item>
-      <title>Six-dimensional quantum dynamics of dissociation of HCl on bimetallic surfaces: Cu/Ag(111) &lt;i&gt;vs&lt;/i&gt;. Cu/Au(111)</title>
-      <link>https://doi.org/10.1063/1674-0068/cjcp2505062</link>
-      <description>Tianhui Liu, Bina Fu, Dong H. Zhang, Chinese Journal of Chemical Physics. 38(4)] 2025. https://openalex.org/W4414325891
-
-                In this study, six-dimensional (6D) time-dependent wave packet calculations were employed to investigate the dissociation of HCl molecules on two bimetallic surfaces, Cu/Ag(111) and Cu/Au(111). These calculations were based on two accurate potential energy surfaces (PESs) constructed using neural network methodology. Density functional theory (DFT) calculations revealed that the static barrier heights for HCl on Cu/Ag(111) and Cu/Au(111) were 0.32 eV and 0.28 eV, respectively. These values are significantly lower than the barrier height on pure Cu(111) (0.52 eV), primarily due to surface strain effects. However, it was found that the 6D dissociation probability of HCl in (v=0, 1, j=0) states on Cu/Au(111) was considerably lower, despite its barrier height being 0.04 eV lower than that for Cu/Ag(111). The underlying mechanism for this observation was attributed to the non-monotonic dependence of the minimum energy path (MEP) on the molecular orientation, which was induced by charge transfer effect for HCl+Cu/Au(111). In contrast, HCl+Cu/Ag(111) exhibited a monotonic dependence. These contrasting behaviors led to distinct differences in rotational alignment and excitation effects for the two reactions.</description>
-      <author>Tianhui Liu, Bina Fu, Dong H. Zhang</author>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/1674-0068/cjcp2505062</guid>
-    </item>
-    <item>
-      <title>Mixed transition metal phosphides: recent progress and frontiers in secondary batteries and supercapacitors</title>
-      <link>https://doi.org/10.1039/d5nr01892g</link>
-      <description>Chandan Kumar Maity, Sayak Roy, Amrita De Adhikari, Khusboo Kumari, Myung Jong Kim, Sumanta Sahoo, Nanoscale. None(None)] 2025. https://openalex.org/W4414331499
-
-                Metal phosphides, which have been extensively explored for energy storage applications such as batteries and supercapacitors, possess unique physicochemical, morphological, and electrochemical properties.</description>
-      <author>Chandan Kumar Maity, Sayak Roy, Amrita De Adhikari, Khusboo Kumari, Myung Jong Kim, Sumanta Sahoo</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5nr01892g</guid>
-    </item>
-    <item>
-      <title>Molecular Engineering of Zr&#8211;MOFs with Hemin Molecules and Diacetylene Linkages along the Topological Structure for the Tandem Catalysis of Nitrate to Ammonia</title>
-      <link>https://doi.org/10.1002/adfm.202517067</link>
-      <description>Anqi Lv, Jiahao Ma, Kexin Liu, Z.Y. Ma, Yi&#8208;Fei Deng, Qiuyu Zhang, Changhong Wang, Sifei Zhuo, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4414334609
-
-                Abstract A tandem electrocatalyst with dual&#8208;active&#8208;sites is anticipated to organize the coupling reaction between various intermediates from nitrate to ammonia. Herein, by engineering the metal nodes and ligands of Zr&#8208;based metal&#8211;organic frameworks (Zr&#8208;MOFs) with Fe&#8208;porphyrins (Hemins) and diacetylene linkages, respectively, a tandem catalyst of diacetylene&#8208;linked Zr&#8211;MOFs anchored Hemins has been achieved. The key point here is that the diacetylene linkages could serve as cofactors of Hemins to manage the nitrate to ammonia process via NO 2 &#8722; intermediates. In addition, the ultrathin Zr&#8211;MOFs nanosheet with a well&#8208;defined open framework allows it to organize the shuttle diffusion and coupling reaction of various reactants between Hemins and diacetylene linkages in its deep interior. In detail, the NO 2 &#8722; desorbed from the Hemins could diffuse onto the diacetylene linkages to finish the following hydrogenation process to NH 3 . Therefore, such an ultrathin hybrid of diacetylene&#8208;linked Zr&#8211;MOF@Hemin achieves a Faradaic efficiency of 95.6% with an ammonia yield of 240.9 &#181;mol h &#8722;1 cm &#8722;2 at &#8722;0.5 V versus RHE. This work indicates the activity of diacetylene linkage in catalysis independent of graphdiyne&#8208;based 2D structures by organizing it into the topological structure of Zr&#8211;MOFs, which expands the scope of graphdiyne in structure.</description>
-      <author>Anqi Lv, Jiahao Ma, Kexin Liu, Z.Y. Ma, Yi&#8208;Fei Deng, Qiuyu Zhang, Changhong Wang, Sifei Zhuo</author>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202517067</guid>
-    </item>
-    <item>
-      <title>Covalent Organic Frameworks Anchoring Single&#8208;Atom Pt for Three&#8208;Phase Interface&#8208;Assisted Photocatalytic Overall Water Splitting</title>
-      <link>https://doi.org/10.1002/anie.202515397</link>
-      <description>Tingting Sun, Hao Zhang, Ya Wang, Nannan Zhang, Luhua Shao, Hong Dong, Fengming Zhang, Angewandte Chemie International Edition. None(None)] 2025. https://openalex.org/W4414334765
-
-                Abstract Covalent organic frameworks (COFs) are promising photocatalysts for overall water splitting (OWS) due to their high crystallinity, porosity and tunable structures. However, current COF&#8208;based systems rely on cocatalysts, which suffer from low atomic utilization and poor distribution due to aggregation. In addition, the oxygen reduction reaction (ORR) backward reaction severely undermines catalytic efficiency and stability in long time reaction. Herein, we present a strategy that combines atomically dispersed Pt sites anchored via N/O coordination within triazine&#8208;based COFs and a gas&#8208;liquid&#8208;solid three&#8208;phase interface&#8208;assisted photocatalytic system to enhance both performance and durability. As a result, the Pt&#8208;TBPyT&#8208;COF achieves superior OWS performance with H 2 and O 2 evolution rates of 469.8 and 234.9 &#181;mol&#183;g &#8722;1 &#183;h &#8722;1 , respectively, and an apparent quantum yield of 8.91% at 450 nm. Notably, the OWS via gas&#8208;liquid&#8208;solid three&#8208;phase interface&#8208;assisted method effectively suppresses ORR backward reaction and reaches average rates as high as 568.7 and 284.3 &#181;mol&#183;g &#8722;1 &#183;h &#8722;1 for H 2 and O 2 in 5 h, respectively, and maintained stable photocatalytic activity over a 30 h continuous reaction. Further, density functional theory calculations and in situ experiments reveal that the single&#8208;atoms Pt coordination accelerates *H desorption, while the triazine units in COFs benefits charge separation and reduced energy barriers of OER rate&#8208;determining step.</description>
-      <author>Tingting Sun, Hao Zhang, Ya Wang, Nannan Zhang, Luhua Shao, Hong Dong, Fengming Zhang</author>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202515397</guid>
-    </item>
-    <item>
-      <title>Covalent Organic Frameworks Anchoring Single&#8208;Atom Pt for Three&#8208;Phase Interface&#8208;Assisted Photocatalytic Overall Water Splitting</title>
-      <link>https://doi.org/10.1002/ange.202515397</link>
-      <description>Tingting Sun, Hao Zhang, Ya Wang, Nannan Zhang, Luhua Shao, Hong Dong, Fengming Zhang, Angewandte Chemie. None(None)] 2025. https://openalex.org/W4414335263
-
-                Abstract Covalent organic frameworks (COFs) are promising photocatalysts for overall water splitting (OWS) due to their high crystallinity, porosity and tunable structures. However, current COF&#8208;based systems rely on cocatalysts, which suffer from low atomic utilization and poor distribution due to aggregation. In addition, the oxygen reduction reaction (ORR) backward reaction severely undermines catalytic efficiency and stability in long time reaction. Herein, we present a strategy that combines atomically dispersed Pt sites anchored via N/O coordination within triazine&#8208;based COFs and a gas&#8208;liquid&#8208;solid three&#8208;phase interface&#8208;assisted photocatalytic system to enhance both performance and durability. As a result, the Pt&#8208;TBPyT&#8208;COF achieves superior OWS performance with H 2 and O 2 evolution rates of 469.8 and 234.9 &#181;mol&#183;g &#8722;1 &#183;h &#8722;1 , respectively, and an apparent quantum yield of 8.91% at 450 nm. Notably, the OWS via gas&#8208;liquid&#8208;solid three&#8208;phase interface&#8208;assisted method effectively suppresses ORR backward reaction and reaches average rates as high as 568.7 and 284.3 &#181;mol&#183;g &#8722;1 &#183;h &#8722;1 for H 2 and O 2 in 5 h, respectively, and maintained stable photocatalytic activity over a 30 h continuous reaction. Further, density functional theory calculations and in situ experiments reveal that the single&#8208;atoms Pt coordination accelerates *H desorption, while the triazine units in COFs benefits charge separation and reduced energy barriers of OER rate&#8208;determining step.</description>
-      <author>Tingting Sun, Hao Zhang, Ya Wang, Nannan Zhang, Luhua Shao, Hong Dong, Fengming Zhang</author>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202515397</guid>
-    </item>
-    <item>
-      <title>MnO&lt;sub&gt;2&lt;/sub&gt; Crystal Phases Mediate &lt;i&gt;o&lt;/i&gt;-Semiquinone Radical Generation for Selective Aniline Contaminant Oxidation</title>
-      <link>https://doi.org/10.1021/acs.est.5c08657</link>
-      <description>Xuewen Luo, Zhuofeng Hu, Han Xiao, Yangjian Zhou, Xin Yang, Environmental Science &amp; Technology. None(None)] 2025. https://openalex.org/W4414341411
-
-                Traditional advanced oxidation processes (AOPs) often face significant challenges in contaminant degradation due to strong interference from complex water matrices. In this study, o-semiquinone radicals (o-SQ&#8226;-)-driven AOP was established by MnO2-mediated catechol oxidation, achieving selective degradation of aniline contaminants (e.g., sulfamethoxazole (SMX)) in real water matrices. Four MnO2 crystal phases (&#945;-, &#946;-, &#947;-, and &#948;-MnO2) were evaluated, and the degradation efficiency of SMX followed the order &#947; &gt; &#945; &gt; &#946; &gt; &#948;-MnO2. Both MnO2 surface-bound o-SQ&#8226;- and aqueous-phase Mn(II)-o-SQ&#8226;- contributed to the SMX degradation. Crystal phases dictated o-SQ&#8226;- generation&#9472;&#945;-, &#946;-, and &#947;-MnO2&#9472;favored the MnO2 solids surface binding of o-SQ&#8226;-, while &#948;-MnO2 promoted the interaction of o-SQ&#8226;- with Mn(II) in the aqueous phase. Higher MnO2 redox potentials and Mn(IV) content correlated with enhanced o-SQ&#8226;- generation and faster SMX degradation. Mechanistic studies revealed that o-SQ&#8226;- attacks SMX through radical addition, forming low-toxicity products. Given that dihydroxyphenyl is a prevalent component of natural aquatic environments, this work advances the design of selective, eco-friendly AOPs with anti-interference capabilities.</description>
-      <author>Xuewen Luo, Zhuofeng Hu, Han Xiao, Yangjian Zhou, Xin Yang</author>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.est.5c08657</guid>
-    </item>
     <item>
       <title>Copper Sulfide Nanospheres Were Prepared as Efficient Water-Splitting Electrocatalysts</title>
       <link>https://doi.org/10.1007/s11837-025-07737-w</link>
@@ -146,46 +46,6 @@
       <author>Xin Li, Yue Qin, Boyang Zhang, Boyao Zhang, Rongda Zhao, Jia Li, Depeng Zhao, Lihua Miao</author>
       <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.cgd.5c01006</guid>
-    </item>
-    <item>
-      <title>From Prediction to Performance: A Roadmap for Single-Atom Alloy Catalysts</title>
-      <link>https://doi.org/10.1021/acsenergylett.5c02226</link>
-      <description>Dennis Meier, E. Charles H. Sykes, ACS Energy Letters. None(None)] 2025. https://openalex.org/W4414323236
-
-                Single-atom alloy (SAA) catalysts bridge the precision of homogeneous catalysis and the practicality of heterogeneous systems. This Perspective highlights how theory-led approaches, particularly density functional theory and machine learning, enable their rational design. By shifting from combinatorial exploration to targeted prediction, researchers have identified alloy combinations with high activity, selectivity, and stability that would have not been predicted based on conventional catalytic wisdom. The unique geometric and electronic structures of SAAs break scaling relationships and enable bifunctional reactivity. Emerging areas such as dual-atom alloys and plasmon-enhanced and electrochemical catalysis are discussed. As the compositional phase space of bimetallic and trimetallic systems grows exponentially, theoretical guidance is essential to navigate this complexity efficiently. With surface science providing crucial mechanistic insights and AI accelerating screening, we outline a roadmap for predictive catalyst design and advocate for tighter integration between computation and experiment to address pressing challenges in energy and environmental catalysis.</description>
-      <author>Dennis Meier, E. Charles H. Sykes</author>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.5c02226</guid>
-    </item>
-    <item>
-      <title>Production of Isobutylene from Syngas &#8211; Isosynthesis Over Zirconia-Based Catalysts</title>
-      <link>https://doi.org/10.1007/s11244-025-02184-y</link>
-      <description>Niko Heikkinen, Laura Keskiv&#228;li, Krista Kuutti, Rasmus Ikonen, Bhumi A. Baraiya, Ville Korpelin, Manu Lahtinen, Jaana Kanervo, Mikko Heikkil&#228;, Xinwei Ye, Bert M. Weckhuysen, Karoliina Honkala, Juha Lehtonen, Matti Reinikainen, Topics in Catalysis. None(None)] 2025. https://openalex.org/W4414329573
-
-                Abstract This study presents the conversion of syngas (synthesis gas, CO + H 2 ) into isobutylene with monoclinic zirconia ( m- ZrO 2 ), mixed monoclinic/tetragonal zirconia ( m / t -ZrO 2 ), tetragonal zirconia ( t- ZrO 2 ) and Ce/La-doped zirconia samples. The physical and chemical properties of the catalyst samples were characterised with nitrogen physisorption, NH 3 and CO 2 temperature-programmed desorption (TPD) and diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS). Sample material crystal structures were analysed with powder X-ray diffraction (PXRD) analysis. The pure monoclinic ZrO 2 sample showed the best catalytic performance with 66% CO conversion and 44 mol-% C/hydrocarbons isobutylene selectivity at reaction conditions of 450 &#176;C, 45 bar, GHSV = 2000 h &#8722;1 , and CO: H 2 = 1:1. While pure monoclinic ZrO 2 was a highly efficient catalyst for the isosynthesis reaction, pure tetragonal ZrO 2 produced only a minor amount of isobutylene (~ 1 mol-%C/hydrocarbons). Interestingly, Ce/La-doped zirconia had a cubic/tetragonal crystal structure, while showing selectivity and activity comparable to m -ZrO 2 (CO conversion 64% and isobutylene selectivity of 40 mol-% C/hydrocarbons). Although samples with a purely t -ZrO&#8322; crystal phase significantly reduced the desired isobutylene selectivity, catalysts with relatively high Ce/La loadings (17% and 5% of the total catalyst mass) in the cubic/tetragonal crystal structure achieved high isobutylene activity and selectivity, owing to the dopant-induced high base-to-acid site ratio and enhanced synthesis gas adsorption capacity. According to the results from density functional theory (DFT) calculations, the poor selectivity of the t- ZrO 2 phase towards isobutylene was due to the promoted intermediate methanation on the coordinatively saturated sites of t- ZrO 2 . Compared to the t -ZrO 2 sample, m -ZrO 2 showed high isobutylene selectivity and activity related to high base to acid site ratio, high synthesis gas adsorption capacity, and kinetically favourable crystal structure to form C 2+ hydrocarbons from C 1 intermediates. These results are important factors in the future work to prepare intrinsically active and isobutylene selective catalysts for the isosynthesis reaction.</description>
-      <author>Niko Heikkinen, Laura Keskiv&#228;li, Krista Kuutti, Rasmus Ikonen, Bhumi A. Baraiya, Ville Korpelin, Manu Lahtinen, Jaana Kanervo, Mikko Heikkil&#228;, Xinwei Ye, Bert M. Weckhuysen, Karoliina Honkala, Juha Lehtonen, Matti Reinikainen</author>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11244-025-02184-y</guid>
-    </item>
-    <item>
-      <title>Doxorubicin Intercalated Co&#8208;Al Layered Double Hydroxide Nanocarrier With pH&#8208;Responsive Controlled Release and Selective Melanoma Suppression: Toward Next&#8208;Generation Nanotherapeutics</title>
-      <link>https://doi.org/10.1002/smll.202506499</link>
-      <description>Swapan Maity, Akshita Upreti, Shantanu Chowdhury, Dipesh Kumar Dubey, Hitesh Harsukhbhai Chandpa, Jairam Meena, Manas Kumar Santra, Pralay Maiti, Small. None(None)] 2025. https://openalex.org/W4414333095
-
-                Abstract Clinical oncology grapples with persistent challenges, particularly the rapid onset of tumor resistance and the systemic limitations of conventional chemotherapeutics such as doxorubicin (Dox). Despite its potency, Dox suffers from poor solubility, non&#8208;specific distribution, and severe toxicity, often compromising therapeutic efficacy. Addressing these obstacles, this study explores cobalt&#8208;aluminium layered double hydroxides (Co&#8208;Al LDHs) as smart nanocarriers for targeted melanoma therapy. Capitalizing on their tunable structure, high drug&#8208;loading capacity, and biocompatibility, Co&#8208;Al LDHs facilitate enhanced encapsulation, sustained release, and selective tumor accumulation of Dox. Density Functional Theory (DFT) analyses confirm robust molecular interactions between Dox and the LDH matrix, ensuring structural stability and favorable energetics for drug delivery. In vitro assays reveal significant cytotoxicity (&#8776;80%) against melanoma cells and with minimal toxicity (&#8776;8%) to normal muscle cells. Furthermore, in vivo evaluations using luciferase&#8208;tagged B16&#8208;F10 melanoma models demonstrate pronounced tumor inhibition and excellent systemic biocompatibility. Augmented by machine learning&#8208;guided force field modelling, this platform also offers a predictive framework for engineering next&#8208;generation nanotherapeutics. Together, these findings position Co&#8208;Al LDHs as a promising frontier in nanomedicine, merging targeted delivery, controlled release, and computational precision to overcome current therapeutic barriers in melanoma treatment and beyond.</description>
-      <author>Swapan Maity, Akshita Upreti, Shantanu Chowdhury, Dipesh Kumar Dubey, Hitesh Harsukhbhai Chandpa, Jairam Meena, Manas Kumar Santra, Pralay Maiti</author>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202506499</guid>
-    </item>
-    <item>
-      <title>High&#8208;Entropy Perovskite Nanofibers for Bifunctional Air Electrodes in Reversible Protonic Ceramic Electrochemical Cells</title>
-      <link>https://doi.org/10.1002/adfm.202517768</link>
-      <description>Hyeong-Geun Kim, Incheol Jeong, Seeun Oh, Dongyeon Kim, Kang Taek Lee, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4414334495
-
-                Abstract Protonic ceramic electrochemical cells (PCECs) offer a promising platform for efficient energy conversion and storage at reduced temperatures (&lt;650 &#176;C). However, the commercial viability of PCECs remains hindered by the limited durability and sluggish oxygen electrocatalysis at the air electrode. Herein, a high&#8208;entropy perovskite oxide (HEPO), Pr 0.2 Ba 0.2 Sr 0.2 La 0.2 Nd 0.2 CoO 3&#8208;&#948; (PBSLNC), in a nanofiber architecture is presented as a bifunctional air electrode material for reversible PCEC operation. The unique A&#8208;site compositional complexity promotes defect tolerance, abundant oxygen vacancies, rapid surface exchange kinetics while maintaining exceptional phase stability in harsh environments. Density functional theory calculations elucidate the entropically modulated Co environment that enhances hydroperoxide adsorption&#8212;a key step for oxygen electrocatalysis, thereby facilitating both oxygen reduction and evolution reactions. When deployed into a PCEC configuration, the PBSNLC nanofiber electrode achieves a peak power density of 1.4 W cm &#8722;2 at 650 &#176;C and electrolysis current density of 3.98 A cm &#8722;2 at 650 &#176;C, along with outstanding operational stability during continuous operation for over 1000 h. These findings provide valuable guidance for the strategic design of highly efficient and stable bifunctional air electrodes for PCECs.</description>
-      <author>Hyeong-Geun Kim, Incheol Jeong, Seeun Oh, Dongyeon Kim, Kang Taek Lee</author>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202517768</guid>
     </item>
     <item>
       <title>Dynamic anion leaching-readsorption in Ni3S2@MoO3 heterostructures boosts the electrocatalytic activity of anion exchange membrane water electrolyzers</title>

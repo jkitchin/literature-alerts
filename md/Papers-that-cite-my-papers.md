@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Sep 26 01:26:02 2025
+Created on Sat Sep 27 01:23:00 2025
 
-Found 60 results from 2025-09-19 to 2025-09-26
+Found 46 results from 2025-09-20 to 2025-09-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2040082802)
@@ -17,116 +17,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## High-capacity, reversible hydrogen storage using H – -conducting solid electrolytes   
-
-OpenAlex: https://openalex.org/W4414321624    
-Open access: False
-    
-[Takashi Hirose](https://openalex.org/A5043753408), [Naoki Matsui](https://openalex.org/A5026350275), [Takashi Itoh](https://openalex.org/A5111745460), [Yoyo Hinuma](https://openalex.org/A5055066696), [Kazutaka Ikeda](https://openalex.org/A5018284598), [Kazuma Gotoh](https://openalex.org/A5024315487), [Guangzhong Jiang](https://openalex.org/A5059985018), [Kota Suzuki](https://openalex.org/A5046895954), [Masaaki Hirayama](https://openalex.org/A5052056108), [Ryoji Kanno](https://openalex.org/A5049374070), Science. 389(6766)] 2025.https://doi.org/10.1126/science.adw1996.
-    
-Hydrogen absorption and desorption in solids are pivotal reactions involved in batteries and hydrogen storage devices. However, conventional thermodynamic and electrochemical hydrogen storage using high-capacity materials suffers from high hydrogen-desorption temperatures and instability of electrolytes. In this work, we explored electrochemical hydride ion (H – )–driven hydrogen storage and developed a solid electrolyte, anti–α-AgI–type Ba 0.5 Ca 0.35 Na 0.15 H 1.85 , which exhibits excellent H – conductivity and electrochemical stability. This electrolyte is compatible with several metal-hydrogen electrodes, such as titanim hydride and magnesium hydride (MgH 2 ), allowing for high-capacity, reversible hydrogen storage at low temperatures. Specifically, Mg–H 2 cells operating as hydrogen storage devices (Mg + H 2  ⇄  MgH 2 ) achieved a reversible capacity of 2030 milliampere hours per gram at 90°C, offering safe and efficient hydrogen-electricity conversion and hydrogen storage devices.    
-
-    
-
-## Role of Water in Modulating the Fe3+/Fe2+ Redox Couple in Iron-Based Complexes and Single-Atom Catalysts   
-
-OpenAlex: https://openalex.org/W4414323102    
-Open access: True
-    
-[Alessandro Bonardi](https://openalex.org/A5114391493), [Shuai Xu](https://openalex.org/A5049173260), [Giovanni Di Liberto](https://openalex.org/A5087412983), [Gianfranco Pacchioni](https://openalex.org/A5018929838), The Journal of Physical Chemistry Letters. None(None)] 2025.https://doi.org/10.1021/acs.jpclett.5c02424 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jpclett.5c02424?ref=article_openPDF)).
-    
-A key challenge in modeling electrocatalysis with single-atom catalysts (SACs) is accurately capturing the redox behavior of transition metals across oxidation states. This is particularly true for iron, a widely used element in such systems. Iron phthalocyanine (FePc) serves as a model compound for graphene-based Fe SACs and is commonly used in reactions like the oxygen evolution reaction (OER). While FePc initially contains Fe(II), the active species under oxidative conditions is Fe(III), with an Fe(II)/Fe(III) transition occurring at intermediate potentials. Density functional theory (DFT) simulations must reflect this redox change. However, standard DFT predicts that oxidation removes an electron from the ligand, leaving the iron in the II state. This limitation arises not from DFT itself, but from an incomplete model. We show that adding at least one (preferably two) water molecules to the axial coordination sites of iron corrects this issue. The water ligands raise the energy of iron orbitals, making electron removal from the metal more favorable. This finding has two key implications: (1) the redox properties of transition metal complexes and graphene-based SACs are strongly influenced by the coordination environment, including solvent molecules; and (2) accurate description of the atomistic structure of the catalyst requires the explicit inclusion of axial water ligands, not just the in-plane ligands, to capture the true redox behavior.    
-
-    
-
-## Reactivity of Carbonate Solvent Electrolytes on Lithium Silicon Anodes   
-
-OpenAlex: https://openalex.org/W4414323290    
-Open access: False
-    
-[Heonjae Jeong](https://openalex.org/A5022757375), [Christopher S. Johnson](https://openalex.org/A5005922926), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.5c08232.
-    
-Silicon (Si) is promising for lithium-ion battery (LIB) anodes due to their high theoretical capacity and low electrochemical potential. However, significant challenges remain, including severe volumetric expansion during cycling and the electrochemical instability of electrolytes, which leads to the formation of a nonuniform solid electrolyte interphase (SEI). To investigate SEI formation mechanisms, computational molecular dynamics simulations offer valuable insights. In this study, we examine the trajectories and charge transfer behavior of lithium hexafluorophosphate (LiPF6) salt with various solvent compositions using density functional theory (DFT) and ab initio molecular dynamics (AIMD). Among the tested electrolyte systems, LiPF6 with vinylene carbonate (VC) added to ethyl methyl carbonate (EMC) exhibits the lowest reactivity with the Si anode. In contrast, the effects of fluoroethylene carbonate (FEC) and VC depend on whether the primary solvent is EMC alone or a mixture of ethylene carbonate (EC) and EMC. Moreover, we show that electrolyte reactivity varies with the degree of lithiation of the Si anode (LiSi vs Li15Si4) and under different charge states. To decouple electrolyte reactivity from surface effects, we analyze the dissociation and formation energies of individual species from solvated configurations. Overall, these first-principles-based findings provide a strategic foundation for electrolyte design to improve cycling stability and extend calendar life in LIBs using Si anodes.    
-
-    
-
-## Polytetrafluoroethylene (PTFE) Lubrication of Rolling Point Contacts by Double Transfer Films: Relationships between Friction and Lubricant Film Distribution Revealed by Spacer Layer Imaging and Molecular Dynamics   
-
-OpenAlex: https://openalex.org/W4414325619    
-Open access: True
-    
-[Thomas Reichenbach](https://openalex.org/A5043982372), [Stephan von Goeldel](https://openalex.org/A5043780371), [Stefan Peeters](https://openalex.org/A5041011628), [Georgios Vokolos](https://openalex.org/A5119666180), [Florian König](https://openalex.org/A5011784993), [Georg Jacobs](https://openalex.org/A5036474396), [Gianpietro Moras](https://openalex.org/A5030918525), [Michael Moseler](https://openalex.org/A5082229037), Tribology Transactions. 68(5)] 2025.https://doi.org/10.1080/10402004.2025.2513933.
-    
-No abstract    
-
-    
-
-## Six-dimensional quantum dynamics of dissociation of HCl on bimetallic surfaces: Cu/Ag(111) vs. Cu/Au(111)   
-
-OpenAlex: https://openalex.org/W4414325891    
-Open access: False
-    
-[Tianhui Liu](https://openalex.org/A5101464359), [Bina Fu](https://openalex.org/A5004521183), [Dong H. Zhang](https://openalex.org/A5039069280), Chinese Journal of Chemical Physics. 38(4)] 2025.https://doi.org/10.1063/1674-0068/cjcp2505062.
-    
-In this study, six-dimensional (6D) time-dependent wave packet calculations were employed to investigate the dissociation of HCl molecules on two bimetallic surfaces, Cu/Ag(111) and Cu/Au(111). These calculations were based on two accurate potential energy surfaces (PESs) constructed using neural network methodology. Density functional theory (DFT) calculations revealed that the static barrier heights for HCl on Cu/Ag(111) and Cu/Au(111) were 0.32 eV and 0.28 eV, respectively. These values are significantly lower than the barrier height on pure Cu(111) (0.52 eV), primarily due to surface strain effects. However, it was found that the 6D dissociation probability of HCl in (v=0, 1, j=0) states on Cu/Au(111) was considerably lower, despite its barrier height being 0.04 eV lower than that for Cu/Ag(111). The underlying mechanism for this observation was attributed to the non-monotonic dependence of the minimum energy path (MEP) on the molecular orientation, which was induced by charge transfer effect for HCl+Cu/Au(111). In contrast, HCl+Cu/Ag(111) exhibited a monotonic dependence. These contrasting behaviors led to distinct differences in rotational alignment and excitation effects for the two reactions.    
-
-    
-
-## Mixed transition metal phosphides: recent progress and frontiers in secondary batteries and supercapacitors   
-
-OpenAlex: https://openalex.org/W4414331499    
-Open access: False
-    
-[Chandan Kumar Maity](https://openalex.org/A5116154194), [Sayak Roy](https://openalex.org/A5036966968), [Amrita De Adhikari](https://openalex.org/A5103097712), [Khusboo Kumari](https://openalex.org/A5055918867), [Myung Jong Kim](https://openalex.org/A5068359295), [Sumanta Sahoo](https://openalex.org/A5069066187), Nanoscale. None(None)] 2025.https://doi.org/10.1039/d5nr01892g.
-    
-Metal phosphides, which have been extensively explored for energy storage applications such as batteries and supercapacitors, possess unique physicochemical, morphological, and electrochemical properties.    
-
-    
-
-## Molecular Engineering of Zr–MOFs with Hemin Molecules and Diacetylene Linkages along the Topological Structure for the Tandem Catalysis of Nitrate to Ammonia   
-
-OpenAlex: https://openalex.org/W4414334609    
-Open access: False
-    
-[Anqi Lv](https://openalex.org/A5011059515), [Jiahao Ma](https://openalex.org/A5101870618), [Kexin Liu](https://openalex.org/A5109509182), [Z.Y. Ma](https://openalex.org/A5100356309), [Yi‐Fei Deng](https://openalex.org/A5032010578), [Qiuyu Zhang](https://openalex.org/A5110492302), [Changhong Wang](https://openalex.org/A5100427143), [Sifei Zhuo](https://openalex.org/A5068183095), Advanced Functional Materials. None(None)] 2025.https://doi.org/10.1002/adfm.202517067.
-    
-Abstract A tandem electrocatalyst with dual‐active‐sites is anticipated to organize the coupling reaction between various intermediates from nitrate to ammonia. Herein, by engineering the metal nodes and ligands of Zr‐based metal–organic frameworks (Zr‐MOFs) with Fe‐porphyrins (Hemins) and diacetylene linkages, respectively, a tandem catalyst of diacetylene‐linked Zr–MOFs anchored Hemins has been achieved. The key point here is that the diacetylene linkages could serve as cofactors of Hemins to manage the nitrate to ammonia process via NO 2 − intermediates. In addition, the ultrathin Zr–MOFs nanosheet with a well‐defined open framework allows it to organize the shuttle diffusion and coupling reaction of various reactants between Hemins and diacetylene linkages in its deep interior. In detail, the NO 2 − desorbed from the Hemins could diffuse onto the diacetylene linkages to finish the following hydrogenation process to NH 3 . Therefore, such an ultrathin hybrid of diacetylene‐linked Zr–MOF@Hemin achieves a Faradaic efficiency of 95.6% with an ammonia yield of 240.9 µmol h −1 cm −2 at −0.5 V versus RHE. This work indicates the activity of diacetylene linkage in catalysis independent of graphdiyne‐based 2D structures by organizing it into the topological structure of Zr–MOFs, which expands the scope of graphdiyne in structure.    
-
-    
-
-## Covalent Organic Frameworks Anchoring Single‐Atom Pt for Three‐Phase Interface‐Assisted Photocatalytic Overall Water Splitting   
-
-OpenAlex: https://openalex.org/W4414334765    
-Open access: False
-    
-[Tingting Sun](https://openalex.org/A5015632170), [Hao Zhang](https://openalex.org/A5002330627), [Ya Wang](https://openalex.org/A5100341469), [Nannan Zhang](https://openalex.org/A5100693204), [Luhua Shao](https://openalex.org/A5109953288), [Hong Dong](https://openalex.org/A5029766000), [Fengming Zhang](https://openalex.org/A5066058184), Angewandte Chemie International Edition. None(None)] 2025.https://doi.org/10.1002/anie.202515397.
-    
-Abstract Covalent organic frameworks (COFs) are promising photocatalysts for overall water splitting (OWS) due to their high crystallinity, porosity and tunable structures. However, current COF‐based systems rely on cocatalysts, which suffer from low atomic utilization and poor distribution due to aggregation. In addition, the oxygen reduction reaction (ORR) backward reaction severely undermines catalytic efficiency and stability in long time reaction. Herein, we present a strategy that combines atomically dispersed Pt sites anchored via N/O coordination within triazine‐based COFs and a gas‐liquid‐solid three‐phase interface‐assisted photocatalytic system to enhance both performance and durability. As a result, the Pt‐TBPyT‐COF achieves superior OWS performance with H 2 and O 2 evolution rates of 469.8 and 234.9 µmol·g −1 ·h −1 , respectively, and an apparent quantum yield of 8.91% at 450 nm. Notably, the OWS via gas‐liquid‐solid three‐phase interface‐assisted method effectively suppresses ORR backward reaction and reaches average rates as high as 568.7 and 284.3 µmol·g −1 ·h −1 for H 2 and O 2 in 5 h, respectively, and maintained stable photocatalytic activity over a 30 h continuous reaction. Further, density functional theory calculations and in situ experiments reveal that the single‐atoms Pt coordination accelerates *H desorption, while the triazine units in COFs benefits charge separation and reduced energy barriers of OER rate‐determining step.    
-
-    
-
-## Covalent Organic Frameworks Anchoring Single‐Atom Pt for Three‐Phase Interface‐Assisted Photocatalytic Overall Water Splitting   
-
-OpenAlex: https://openalex.org/W4414335263    
-Open access: False
-    
-[Tingting Sun](https://openalex.org/A5015632170), [Hao Zhang](https://openalex.org/A5002330627), [Ya Wang](https://openalex.org/A5100341469), [Nannan Zhang](https://openalex.org/A5100693204), [Luhua Shao](https://openalex.org/A5109953288), [Hong Dong](https://openalex.org/A5029766000), [Fengming Zhang](https://openalex.org/A5066058184), Angewandte Chemie. None(None)] 2025.https://doi.org/10.1002/ange.202515397.
-    
-Abstract Covalent organic frameworks (COFs) are promising photocatalysts for overall water splitting (OWS) due to their high crystallinity, porosity and tunable structures. However, current COF‐based systems rely on cocatalysts, which suffer from low atomic utilization and poor distribution due to aggregation. In addition, the oxygen reduction reaction (ORR) backward reaction severely undermines catalytic efficiency and stability in long time reaction. Herein, we present a strategy that combines atomically dispersed Pt sites anchored via N/O coordination within triazine‐based COFs and a gas‐liquid‐solid three‐phase interface‐assisted photocatalytic system to enhance both performance and durability. As a result, the Pt‐TBPyT‐COF achieves superior OWS performance with H 2 and O 2 evolution rates of 469.8 and 234.9 µmol·g −1 ·h −1 , respectively, and an apparent quantum yield of 8.91% at 450 nm. Notably, the OWS via gas‐liquid‐solid three‐phase interface‐assisted method effectively suppresses ORR backward reaction and reaches average rates as high as 568.7 and 284.3 µmol·g −1 ·h −1 for H 2 and O 2 in 5 h, respectively, and maintained stable photocatalytic activity over a 30 h continuous reaction. Further, density functional theory calculations and in situ experiments reveal that the single‐atoms Pt coordination accelerates *H desorption, while the triazine units in COFs benefits charge separation and reduced energy barriers of OER rate‐determining step.    
-
-    
-
-## MnO2 Crystal Phases Mediate o-Semiquinone Radical Generation for Selective Aniline Contaminant Oxidation   
-
-OpenAlex: https://openalex.org/W4414341411    
-Open access: False
-    
-[Xuewen Luo](https://openalex.org/A5016895294), [Zhuofeng Hu](https://openalex.org/A5086231149), [Han Xiao](https://openalex.org/A5088235742), [Yangjian Zhou](https://openalex.org/A5079140676), [Xin Yang](https://openalex.org/A5067558727), Environmental Science & Technology. None(None)] 2025.https://doi.org/10.1021/acs.est.5c08657.
-    
-Traditional advanced oxidation processes (AOPs) often face significant challenges in contaminant degradation due to strong interference from complex water matrices. In this study, o-semiquinone radicals (o-SQ•-)-driven AOP was established by MnO2-mediated catechol oxidation, achieving selective degradation of aniline contaminants (e.g., sulfamethoxazole (SMX)) in real water matrices. Four MnO2 crystal phases (α-, β-, γ-, and δ-MnO2) were evaluated, and the degradation efficiency of SMX followed the order γ > α > β > δ-MnO2. Both MnO2 surface-bound o-SQ•- and aqueous-phase Mn(II)-o-SQ•- contributed to the SMX degradation. Crystal phases dictated o-SQ•- generation─α-, β-, and γ-MnO2─favored the MnO2 solids surface binding of o-SQ•-, while δ-MnO2 promoted the interaction of o-SQ•- with Mn(II) in the aqueous phase. Higher MnO2 redox potentials and Mn(IV) content correlated with enhanced o-SQ•- generation and faster SMX degradation. Mechanistic studies revealed that o-SQ•- attacks SMX through radical addition, forming low-toxicity products. Given that dihydroxyphenyl is a prevalent component of natural aquatic environments, this work advances the design of selective, eco-friendly AOPs with anti-interference capabilities.    
-
-    
 
 ## Copper Sulfide Nanospheres Were Prepared as Efficient Water-Splitting Electrocatalysts   
 
@@ -169,50 +59,6 @@ Open access: False
 [Xin Li](https://openalex.org/A5100353737), [Yue Qin](https://openalex.org/A5062251017), [Boyang Zhang](https://openalex.org/A5100677424), [Boyao Zhang](https://openalex.org/A5103015219), [Rongda Zhao](https://openalex.org/A5101410401), [Jia Li](https://openalex.org/A5100405691), [Depeng Zhao](https://openalex.org/A5004071353), [Lihua Miao](https://openalex.org/A5019618581), Crystal Growth & Design. None(None)] 2025.https://doi.org/10.1021/acs.cgd.5c01006.
     
 No abstract    
-
-    
-
-## From Prediction to Performance: A Roadmap for Single-Atom Alloy Catalysts   
-
-OpenAlex: https://openalex.org/W4414323236    
-Open access: False
-    
-[Dennis Meier](https://openalex.org/A5025248370), [E. Charles H. Sykes](https://openalex.org/A5078222261), ACS Energy Letters. None(None)] 2025.https://doi.org/10.1021/acsenergylett.5c02226.
-    
-Single-atom alloy (SAA) catalysts bridge the precision of homogeneous catalysis and the practicality of heterogeneous systems. This Perspective highlights how theory-led approaches, particularly density functional theory and machine learning, enable their rational design. By shifting from combinatorial exploration to targeted prediction, researchers have identified alloy combinations with high activity, selectivity, and stability that would have not been predicted based on conventional catalytic wisdom. The unique geometric and electronic structures of SAAs break scaling relationships and enable bifunctional reactivity. Emerging areas such as dual-atom alloys and plasmon-enhanced and electrochemical catalysis are discussed. As the compositional phase space of bimetallic and trimetallic systems grows exponentially, theoretical guidance is essential to navigate this complexity efficiently. With surface science providing crucial mechanistic insights and AI accelerating screening, we outline a roadmap for predictive catalyst design and advocate for tighter integration between computation and experiment to address pressing challenges in energy and environmental catalysis.    
-
-    
-
-## Production of Isobutylene from Syngas – Isosynthesis Over Zirconia-Based Catalysts   
-
-OpenAlex: https://openalex.org/W4414329573    
-Open access: True
-    
-[Niko Heikkinen](https://openalex.org/A5075759273), [Laura Keskiväli](https://openalex.org/A5046998082), [Krista Kuutti](https://openalex.org/A5118384425), [Rasmus Ikonen](https://openalex.org/A5079286829), [Bhumi A. Baraiya](https://openalex.org/A5031272993), [Ville Korpelin](https://openalex.org/A5087472557), [Manu Lahtinen](https://openalex.org/A5001914224), [Jaana Kanervo](https://openalex.org/A5089855914), [Mikko Heikkilä](https://openalex.org/A5083082970), [Xinwei Ye](https://openalex.org/A5071390657), [Bert M. Weckhuysen](https://openalex.org/A5053188243), [Karoliina Honkala](https://openalex.org/A5022884606), [Juha Lehtonen](https://openalex.org/A5013155206), [Matti Reinikainen](https://openalex.org/A5087551422), Topics in Catalysis. None(None)] 2025.https://doi.org/10.1007/s11244-025-02184-y ([pdf](https://link.springer.com/content/pdf/10.1007/s11244-025-02184-y.pdf)).
-    
-Abstract This study presents the conversion of syngas (synthesis gas, CO + H 2 ) into isobutylene with monoclinic zirconia ( m- ZrO 2 ), mixed monoclinic/tetragonal zirconia ( m / t -ZrO 2 ), tetragonal zirconia ( t- ZrO 2 ) and Ce/La-doped zirconia samples. The physical and chemical properties of the catalyst samples were characterised with nitrogen physisorption, NH 3 and CO 2 temperature-programmed desorption (TPD) and diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS). Sample material crystal structures were analysed with powder X-ray diffraction (PXRD) analysis. The pure monoclinic ZrO 2 sample showed the best catalytic performance with 66% CO conversion and 44 mol-% C/hydrocarbons isobutylene selectivity at reaction conditions of 450 °C, 45 bar, GHSV = 2000 h −1 , and CO: H 2 = 1:1. While pure monoclinic ZrO 2 was a highly efficient catalyst for the isosynthesis reaction, pure tetragonal ZrO 2 produced only a minor amount of isobutylene (~ 1 mol-%C/hydrocarbons). Interestingly, Ce/La-doped zirconia had a cubic/tetragonal crystal structure, while showing selectivity and activity comparable to m -ZrO 2 (CO conversion 64% and isobutylene selectivity of 40 mol-% C/hydrocarbons). Although samples with a purely t -ZrO₂ crystal phase significantly reduced the desired isobutylene selectivity, catalysts with relatively high Ce/La loadings (17% and 5% of the total catalyst mass) in the cubic/tetragonal crystal structure achieved high isobutylene activity and selectivity, owing to the dopant-induced high base-to-acid site ratio and enhanced synthesis gas adsorption capacity. According to the results from density functional theory (DFT) calculations, the poor selectivity of the t- ZrO 2 phase towards isobutylene was due to the promoted intermediate methanation on the coordinatively saturated sites of t- ZrO 2 . Compared to the t -ZrO 2 sample, m -ZrO 2 showed high isobutylene selectivity and activity related to high base to acid site ratio, high synthesis gas adsorption capacity, and kinetically favourable crystal structure to form C 2+ hydrocarbons from C 1 intermediates. These results are important factors in the future work to prepare intrinsically active and isobutylene selective catalysts for the isosynthesis reaction.    
-
-    
-
-## Doxorubicin Intercalated Co‐Al Layered Double Hydroxide Nanocarrier With pH‐Responsive Controlled Release and Selective Melanoma Suppression: Toward Next‐Generation Nanotherapeutics   
-
-OpenAlex: https://openalex.org/W4414333095    
-Open access: False
-    
-[Swapan Maity](https://openalex.org/A5064921100), [Akshita Upreti](https://openalex.org/A5037267766), [Shantanu Chowdhury](https://openalex.org/A5086098906), [Dipesh Kumar Dubey](https://openalex.org/A5046821931), [Hitesh Harsukhbhai Chandpa](https://openalex.org/A5092712067), [Jairam Meena](https://openalex.org/A5013669562), [Manas Kumar Santra](https://openalex.org/A5060631437), [Pralay Maiti](https://openalex.org/A5005379720), Small. None(None)] 2025.https://doi.org/10.1002/smll.202506499.
-    
-Abstract Clinical oncology grapples with persistent challenges, particularly the rapid onset of tumor resistance and the systemic limitations of conventional chemotherapeutics such as doxorubicin (Dox). Despite its potency, Dox suffers from poor solubility, non‐specific distribution, and severe toxicity, often compromising therapeutic efficacy. Addressing these obstacles, this study explores cobalt‐aluminium layered double hydroxides (Co‐Al LDHs) as smart nanocarriers for targeted melanoma therapy. Capitalizing on their tunable structure, high drug‐loading capacity, and biocompatibility, Co‐Al LDHs facilitate enhanced encapsulation, sustained release, and selective tumor accumulation of Dox. Density Functional Theory (DFT) analyses confirm robust molecular interactions between Dox and the LDH matrix, ensuring structural stability and favorable energetics for drug delivery. In vitro assays reveal significant cytotoxicity (≈80%) against melanoma cells and with minimal toxicity (≈8%) to normal muscle cells. Furthermore, in vivo evaluations using luciferase‐tagged B16‐F10 melanoma models demonstrate pronounced tumor inhibition and excellent systemic biocompatibility. Augmented by machine learning‐guided force field modelling, this platform also offers a predictive framework for engineering next‐generation nanotherapeutics. Together, these findings position Co‐Al LDHs as a promising frontier in nanomedicine, merging targeted delivery, controlled release, and computational precision to overcome current therapeutic barriers in melanoma treatment and beyond.    
-
-    
-
-## High‐Entropy Perovskite Nanofibers for Bifunctional Air Electrodes in Reversible Protonic Ceramic Electrochemical Cells   
-
-OpenAlex: https://openalex.org/W4414334495    
-Open access: True
-    
-[Hyeong-Geun Kim](https://openalex.org/A5103252774), [Incheol Jeong](https://openalex.org/A5080676390), [Seeun Oh](https://openalex.org/A5056859581), [Dongyeon Kim](https://openalex.org/A5101708370), [Kang Taek Lee](https://openalex.org/A5100398157), Advanced Functional Materials. None(None)] 2025.https://doi.org/10.1002/adfm.202517768 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202517768)).
-    
-Abstract Protonic ceramic electrochemical cells (PCECs) offer a promising platform for efficient energy conversion and storage at reduced temperatures (<650 °C). However, the commercial viability of PCECs remains hindered by the limited durability and sluggish oxygen electrocatalysis at the air electrode. Herein, a high‐entropy perovskite oxide (HEPO), Pr 0.2 Ba 0.2 Sr 0.2 La 0.2 Nd 0.2 CoO 3‐δ (PBSLNC), in a nanofiber architecture is presented as a bifunctional air electrode material for reversible PCEC operation. The unique A‐site compositional complexity promotes defect tolerance, abundant oxygen vacancies, rapid surface exchange kinetics while maintaining exceptional phase stability in harsh environments. Density functional theory calculations elucidate the entropically modulated Co environment that enhances hydroperoxide adsorption—a key step for oxygen electrocatalysis, thereby facilitating both oxygen reduction and evolution reactions. When deployed into a PCEC configuration, the PBSNLC nanofiber electrode achieves a peak power density of 1.4 W cm −2 at 650 °C and electrolysis current density of 3.98 A cm −2 at 650 °C, along with outstanding operational stability during continuous operation for over 1000 h. These findings provide valuable guidance for the strategic design of highly efficient and stable bifunctional air electrodes for PCECs.    
 
     
 

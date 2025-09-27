@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 26 Sep 2025 01:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 01:22:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Hydrodynamic memory and Quincke rotation</title>
-      <link>https://doi.org/10.1103/sv7r-qjl7</link>
-      <description>Jason K. Kabarowski, Aditya S. Khair, Rahil N. Valani, Physical Review Fluids. 10(9)] 2025. https://openalex.org/W4414345827
-
-                No abstract</description>
-      <author>Jason K. Kabarowski, Aditya S. Khair, Rahil N. Valani</author>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/sv7r-qjl7</guid>
-    </item>
     <item>
       <title>Assessing goodness-of-fit for sparse categories using R&#233;nyi divergence</title>
       <link>https://doi.org/10.1016/j.jspi.2025.106350</link>
