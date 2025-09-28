@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 27 Sep 2025 01:22:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 01:41:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -46,6 +46,26 @@
       <author>Pratapaditya Ghosh, Ian Boutle, Paul R. Field, A.H. Hill, Marie Mazoyer, Katherine J. Evans, Salil Mahajan, Hyun&#8208;Gyu Kang, Min Xu, Wei Zhang, Hamish Gordon</author>
       <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5194/acp-25-11157-2025</guid>
+    </item>
+    <item>
+      <title>Uncertainty quantification in graph neural networks with shallow ensembles</title>
+      <link>https://doi.org/10.1088/2632-2153/ae0bf0</link>
+      <description>Tirtha Vinchurkar, Kareem Abdelmaqsoud, John R. Kitchin, Machine Learning Science and Technology. None(None)] 2025. https://openalex.org/W4414495884
+
+                Abstract Machine-learned potentials (MLPs) have revolutionized materials discovery by providing accurate and efficient predictions of molecular and material properties. Graph Neural Networks (GNNs) have emerged as a state-of-the-art approach due to their ability to capture complex atomic interactions. However, GNNs often produce unreliable predictions when encountering out-of-domain data and it is difficult to identify when that happens. To address this challenge, we explore Uncertainty Quantification (UQ) techniques, focusing on Direct Propagation of Shallow Ensembles (DPOSE) as a computationally efficient alternative to deep ensembles. By integrating DPOSE into the SchNet model, we assess its ability to provide reliable uncertainty estimates across several Density Functional Theory datasets, including QM9, OC20, and Gold dataset. Our findings often demonstrate that DPOSE successfully distinguishes between in-domain and out-of-domain samples, exhibiting higher uncertainty for unobserved molecule and material classes. This work highlights the potential of lightweight UQ methods in improving the robustness of GNN-based materials modeling and lays the foundation for future integration with active learning strategies.</description>
+      <author>Tirtha Vinchurkar, Kareem Abdelmaqsoud, John R. Kitchin</author>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1088/2632-2153/ae0bf0</guid>
+    </item>
+    <item>
+      <title>Impact of Reliability Formulations on the Optimal Planning and Operation of Power Systems</title>
+      <link>https://doi.org/10.1109/tpwrs.2025.3614510</link>
+      <description>Seolhee Cho, Javier Tovar-Facio, Ignacio E. Grossmann, IEEE Transactions on Power Systems. None(None)] 2025. https://openalex.org/W4414499402
+
+                No abstract</description>
+      <author>Seolhee Cho, Javier Tovar-Facio, Ignacio E. Grossmann</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1109/tpwrs.2025.3614510</guid>
     </item>
   </channel>
 </rss>
