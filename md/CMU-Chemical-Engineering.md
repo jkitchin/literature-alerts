@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun Sep 28 01:41:42 2025
+Created on Mon Sep 29 01:36:32 2025
 
-Found 6 results from 2025-09-21 to 2025-09-28
+Found 7 results from 2025-09-22 to 2025-09-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -67,6 +67,17 @@ OpenAlex: https://openalex.org/W4414499402
 Open access: False
     
 [Seolhee Cho](https://openalex.org/A5060951641), [Javier Tovar-Facio](https://openalex.org/A5040511658), [Ignacio E. Grossmann](https://openalex.org/A5056017028), IEEE Transactions on Power Systems. None(None)] 2025.https://doi.org/10.1109/tpwrs.2025.3614510.
+    
+No abstract    
+
+    
+
+## Dielectrophoretic Profiling of Candidozyma auris: the Effect of Glucose on Cellular Polarizability   
+
+OpenAlex: https://openalex.org/W4414556170    
+Open access: True
+    
+[Negar Farhang-Doost](https://openalex.org/A5119745646), [C. Royo](https://openalex.org/A5023468365), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), [Soumya K. Srivastava](https://openalex.org/A5061543632), ACS Measurement Science Au. None(None)] 2025.https://doi.org/10.1021/acsmeasuresciau.5c00084.
     
 No abstract    
 

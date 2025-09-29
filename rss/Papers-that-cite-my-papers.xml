@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 Sep 2025 01:41:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 01:36:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Rose-like NiFe-LDH/MoS&lt;sub&gt;2&lt;/sub&gt; Electrocatalysts Achieve 1000 mA cm&lt;sup&gt;&#8211;2&lt;/sup&gt; OER with Enhanced Charge Transfer and Seawater Stability</title>
-      <link>https://doi.org/10.1021/acs.cgd.5c01006</link>
-      <description>Xin Li, Yue Qin, Boyang Zhang, Boyao Zhang, Rongda Zhao, Jia Li, Depeng Zhao, Lihua Miao, Crystal Growth &amp; Design. None(None)] 2025. https://openalex.org/W4414373839
-
-                No abstract</description>
-      <author>Xin Li, Yue Qin, Boyang Zhang, Boyao Zhang, Rongda Zhao, Jia Li, Depeng Zhao, Lihua Miao</author>
-      <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.cgd.5c01006</guid>
-    </item>
-    <item>
-      <title>Direct Laser Writing of Bioinspired High&#8208;Entropy Oxide Nanoarrays for Practical Water Electrolysis</title>
-      <link>https://doi.org/10.1002/aenm.202503929</link>
-      <description>Lin Cheng, Qi Wang, Haojie Liu, Yi Rao, Junfeng Cui, Hanwen Liu, Jinli Chen, W. Shi, Lei Zhang, Bo Song, Yonggang Yao, Advanced Energy Materials. None(None)] 2025. https://openalex.org/W4414376769
-
-                Abstract Industrial water electrolysis faces a triple challenge at high current densities (&#8805;500 mA cm &#8722;2 ): reconciling catalytic activity, stability, and severe gas&#8208;liquid transport. While high&#8208;entropy oxides (HEOs) show catalytic promise, conventional methods predominantly focus on elemental regulation and neglect critical morphological optimization, thus failing to unify composition&#8208;architecture&#8208;transport functionality to prevail at industrial conditions. Here, the morphological HEO electrode is introduced, a bioinspired framework integrating multielement mixing, architectural hierarchy, and surface adaptation. High&#8208;throughput optimization identifies a critical nanosecond laser parameter window where rapid quenching traps metastable FeCoNiMoCrO x HEO nanoparticles foliage while Marangoni flows sculpt Ti microcone trunks. This structure exhibits superaerophobic&#8208;superhydrophilic properties and exceptional oxygen evolution performance (&#951; 10 = 188 mV). In an anion&#8208;exchange membrane electrolyzer, the electrode achieves 1 A cm &#8722;2 at 1.82 V (surpassing commercial IrO 2 &#8208;coated Ti mesh), while maintaining stable operation for 600 h at 500 mA cm &#8722;2 (degradation rate: 38.33 &#181;V h &#8722;1 ). DFT calculations confirm that Mo/Cr electronically modulates the primary OER active Ni sites via the M&#8208;O&#8208;M network, optimizing the d&#8208;band center and favoring the Adsorbate Evolution Mechanism (AEM). This work establishes a paradigm for industrial electrocatalysts by encoding compositional complexity, structural coherence, and interfacial adaptability through morphological design, where multifunctionality emerges from multiscale synergy rather than isolated optimization.</description>
-      <author>Lin Cheng, Qi Wang, Haojie Liu, Yi Rao, Junfeng Cui, Hanwen Liu, Jinli Chen, W. Shi, Lei Zhang, Bo Song, Yonggang Yao</author>
-      <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202503929</guid>
-    </item>
     <item>
       <title>Thermal transport in amorphous carbon nanotubes</title>
       <link>https://doi.org/10.1103/klhj-x3f2</link>
@@ -492,7 +472,7 @@
       <link>https://doi.org/10.1038/s41467-025-63365-7</link>
       <description>Xiaoxi Guo, Tongwei Wu, Hengfeng Li, Yanning Zhang, Chao Ma, Hongmei Li, Liyuan Chai, Haitao Zhao, Min Liu, Nature Communications. 16(1)] 2025. https://openalex.org/W4414533656
 
-                No abstract</description>
+                Electrosynthesis of NH3 from low-concentration NO (NORR) in neutral media offers a sustainable nitrogen fixation strategy but is hindered by weak NO adsorption, slow water dissociation, and sluggish hydrogenation kinetics. Herein, we propose an intriguing strategy that successfully overcomes these limitations through using an electron-donating motif to modulate NO-affinitive catalysts, thereby creating dual active site with synergistic functionality. Specifically, we integrate electron-donating nanoparticles into a Fe single-atom catalyst (FeSAC), where Fe sites ensure strong NO adsorption, while electron-donating motifs promote water dissociation and NO hydrogenation. In situ X-ray absorption spectroscopy (XAS), in situ attenuated total reflection-infrared spectroscopy (ATR-IR), and theoretical calculations reveal that electron-donating motifs increase Fe site electron density, strengthening NO adsorption. Additionally, these motifs also promote water dissociation, supplying protons to lower the NO hydrogenation barrier. This synergistic interplay enables a cascade reaction mechanism, delivering a remarkable Faradaic efficiency (FE) of 90.3% and a NH3 yield rate of 709.7 &#181;g h&#8722;1 mgcat.&#8722;1 under 1.0 vol% NO in neutral media, outperforming pure FeSAC (NH3 yield rate: 444.2 &#181;g h&#8722;1 mgcat.&#8722;1, FE: 56.6%) and prior to systems operating under high NO concentrations. Notably, the high NH3 yield of 3207.7 &#956;g h&#8722;1 mgcat.&#8722;1 is achieved in a membrane electrode assembly (MEA) electrolyzer under a 1.0 vol% NO. This work establishes an inspirational paradigm in NORR by simultaneously enhancing NO adsorption, water dissociation, and hydrogenation kinetics, providing a scalable route for efficient NH3 electrosynthesis from dilute NO sources. Weak NO adsorption, slow water dissociation, and sluggish hydrogenation hinder neutral-media NH3 electrosynthesis from low-concentration NO. Here, the authors report an electron-donating motif modulating a NO-affinitive catalyst to create dual active sites, thus facilitating NO-to-NH3 conversion.</description>
       <author>Xiaoxi Guo, Tongwei Wu, Hengfeng Li, Yanning Zhang, Chao Ma, Hongmei Li, Liyuan Chai, Haitao Zhao, Min Liu</author>
       <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-63365-7</guid>
@@ -518,6 +498,126 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.joc.5c01313</guid>
     </item>
     <item>
+      <title>Pr-induced dual-site oxide pathway in BiFeO&lt;sub&gt;3&lt;/sub&gt; for enhanced alkaline water oxidation</title>
+      <link>https://doi.org/10.1039/d5tc02862k</link>
+      <description>Rongrong Jia, Y. H. Zheng, Zhe Su, Zhijie Yang, Guoli Chen, Wanting Yang, Xiaoxuan Ma, Yidan Liu, Shoushuang Huang, Lei Huang, Wei Ren, Shixun Cao, Rongrong Jia, Journal of Materials Chemistry C. None(None)] 2025. https://openalex.org/W4414541340
+
+                Pr doping in BiFeO 3 induces lattice distortion, tunes electronic structure and the d-band center, boosting intermediate adsorption and OPM-driven *O&#8211;O* coupling. Bi 0.6 Pr 0.4 FeO 3 @NF shows &#951; 10 = 228 mV and stable 100 mA cm &#8722;2 for 100 h in 1 M KOH.</description>
+      <author>Rongrong Jia, Y. H. Zheng, Zhe Su, Zhijie Yang, Guoli Chen, Wanting Yang, Xiaoxuan Ma, Yidan Liu, Shoushuang Huang, Lei Huang, Wei Ren, Shixun Cao, Rongrong Jia</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5tc02862k</guid>
+    </item>
+    <item>
+      <title>Decoding pH-dependent electrocatalysis through electric field models and microkinetic volcanoes</title>
+      <link>https://doi.org/10.1039/d5ta06105a</link>
+      <description>Songbo Ye, Yuhang Wang, Heng Liu, Di Zhang, Xue Jia, Linda Zhang, Yizhou Zhang, Akichika Kumatani, Hitoshi Shiku, Hao Li, Journal of Materials Chemistry A. None(None)] 2025. https://openalex.org/W4414542010
+
+                This perspective highlights advances in capturing pH-dependent surface structures, reactivity, and mechanisms via electric field-based methods.</description>
+      <author>Songbo Ye, Yuhang Wang, Heng Liu, Di Zhang, Xue Jia, Linda Zhang, Yizhou Zhang, Akichika Kumatani, Hitoshi Shiku, Hao Li</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ta06105a</guid>
+    </item>
+    <item>
+      <title>High-Throughput Screening of 2D Photocatalyst Heterostructures with Suppressed Electron&#8211;Hole Recombination for Solar Water Splitting</title>
+      <link>https://doi.org/10.1021/acsaem.5c02326</link>
+      <description>Shalini S. Yadav, Jigisha Modi, Raihan Ahammed, B. S. Bhadoria, Yogesh Singh Chauhan, Amit Agarwal, Somnath Bhowmick, ACS Applied Energy Materials. None(None)] 2025. https://openalex.org/W4414542604
+
+                No abstract</description>
+      <author>Shalini S. Yadav, Jigisha Modi, Raihan Ahammed, B. S. Bhadoria, Yogesh Singh Chauhan, Amit Agarwal, Somnath Bhowmick</author>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.5c02326</guid>
+    </item>
+    <item>
+      <title>Research on Quantum Circuit Learning Models for Molecular Dynamics Simulation</title>
+      <link>https://doi.org/10.1021/acs.jpca.5c03624</link>
+      <description>Yasutaka Nishida, The Journal of Physical Chemistry A. None(None)] 2025. https://openalex.org/W4414543782
+
+                In the past decade, many hybrid quantum-classical algorithms have been applied to various industrial fields, reflecting the growing interest in NISQ devices. For example, in the field of chemistry, many studies were conducted to calculate the energies of eigenstates with high precision. However, there is still little research on molecular dynamics using quantum computers, because traditional approaches based on variational quantum algorithms are not suitable for the long-time steps of molecular dynamics. In this study, we propose a quantum circuit learning model that estimates the eigenvalues of a given molecular Hamiltonian for an arbitrary molecular configuration. Our model must first be costly to train; however, once trained, the resulting trained model can eliminate procedures that required variational optimization each time the molecular coordinates are updated in the previous variational approach. By using the proposed model, we demonstrate that the proposed model can be used to perform simple molecular dynamics simulations, such as Langevin dynamics and NVE simulation. We also show several applications of our model inspired by classical machine learning.</description>
+      <author>Yasutaka Nishida</author>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.5c03624</guid>
+    </item>
+    <item>
+      <title>Autonomous Droplet Microfluidic Design Framework with Large Language Models</title>
+      <link>https://doi.org/10.1021/acsomega.5c06253</link>
+      <description>Duc Minh Nguyen, Raymond Kai-YuTong, Ngoc&#8208;Duy Dinh, ACS Omega. None(None)] 2025. https://openalex.org/W4414554088
+
+                Droplet-based microfluidic devices have substantial promise as cost-effective alternatives to current assessment tools in biological research. Moreover, machine learning models that leverage tabular data, including input design parameters and their corresponding efficiency outputs, are increasingly utilized to automate the design process of these devices and to predict their performance. However, these models fail to fully leverage the data presented in the tables, neglecting crucial contextual information, including column headings and their associated descriptions. This study presents &#956;-Fluidic-LLMs, a framework designed for processing and feature extraction, which effectively captures contextual information from tabular data formats. &#956;-Fluidic-LLMs overcomes processing challenges by transforming the content into a linguistic format and leveraging pretrained large language models (LLMs) for analysis. We evaluate our &#956;-Fluidic-LLMs framework on prediction tasks utilizing publicly available data sets on droplet microfluidics. We demonstrate that our &#956;-Fluidic-LLMs framework can empower deep neural network models to be highly effective and straightforward while minimizing the need for extensive data preprocessing. When combined with LLMs like LLAMA3.1 and DEEPSEEK-R1, deep neural networks achieve marked improvements, lowering the mean absolute error in generation rate by nearly 40%, reducing the root mean squared error in droplet diameter by around 26%, and enhancing regime classification accuracy by over 3% in comparison with prior results. This study lays the foundation for the huge potential applications of LLMs and machine learning in a wider spectrum of microfluidic applications.</description>
+      <author>Duc Minh Nguyen, Raymond Kai-YuTong, Ngoc&#8208;Duy Dinh</author>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.5c06253</guid>
+    </item>
+    <item>
+      <title>Enhancing Oxygen Reduction Reaction on Mn-Doped ZnO Catalysts: Structural, Electronic, and Mechanistic Insights for Selective Peroxide Production</title>
+      <link>https://doi.org/10.21203/rs.3.rs-7518552/v1</link>
+      <description>Cristina Mart&#305;&#769;nez, Alannisse M. Santos-Rivera, N&#233;stor Pardo Garc&#237;a, Horacio Gonz&#225;lez, Joshua A. Ortiz-Fernandez, Joesene J. Soto, Anton&#237; Torres, Juan A. Santana, Christopher J. Pollock, H&#233;ctor D. Abru&#241;a, M. Santiago-Berrios, Research Square (Research Square). None(None)] 2025. https://openalex.org/W4414556981
+
+                Abstract In this work, we investigate manganese-doped ZnO catalysts for the oxygen reduction reaction (ORR) in alkaline media, combining structural characterization, electrochemical analysis, and density functional theory (DFT) calculations. XRD confirms that Mn doping preserves the wurtzite ZnO structure while inducing lattice distortions and vibrational shifts indicative of manganese incorporation. XPS analysis reveals that Mn3&#8314; is the dominant surface species, which is confirmed by x-ray absorption and emission spectroscopic measurements. Electrochemically, Mn-doped ZnO exhibits enhanced catalytic performance, with increased limiting current density and slight improvements in onset potential compared to pure ZnO. DFT calculations indicate that, while the overall thermodynamics of peroxide formation remain similar, the incorporation of Mn significantly stabilizes the *&#8211;OOH intermediate, thereby reducing the energy requirement for this key step. Together, these findings demonstrate that manganese doping improves ORR activity by modifying the electronic structure and enhancing reaction kinetics, offering valuable insights for the design of efficient ZnO-based electrocatalysts for selective H&#8322;O&#8322; production.</description>
+      <author>Cristina Mart&#305;&#769;nez, Alannisse M. Santos-Rivera, N&#233;stor Pardo Garc&#237;a, Horacio Gonz&#225;lez, Joshua A. Ortiz-Fernandez, Joesene J. Soto, Anton&#237; Torres, Juan A. Santana, Christopher J. Pollock, H&#233;ctor D. Abru&#241;a, M. Santiago-Berrios</author>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-7518552/v1</guid>
+    </item>
+    <item>
+      <title>Adsorption Dynamics and Electric Double Layer Properties at Pt(100) Electrodes</title>
+      <link>https://doi.org/10.1002/admi.202500680</link>
+      <description>Haiting Yu, Renata Sechi, Qingdian Liao, M.S. Nissen, Arghya Bhowmik, Elena L. Gubanova, Kun&#8208;Ting Song, Heine Anton Hansen, Aliaksandr S. Bandarenka, Advanced Materials Interfaces. None(None)] 2025. https://openalex.org/W4414560056
+
+                Abstract The electrode&#8208;electrolyte interface governs many functional properties and processes, such as reaction rates, efficiency, and selectivity in electrochemical systems, with its structure and physicochemical phenomena being crucial for optimizing energy conversion and storage technologies. Platinum (Pt) is a state&#8208;of&#8208;the&#8208;art catalyst for numerous electrocatalytic reactions. While Pt(111) is extensively studied, atomic&#8208;level insights into interfacial properties of another basic surface, Pt(100), remain unresolved. Here, experimental techniques and first&#8208;principles calculations are utilized to investigate adsorption behavior and adsorbate coverage at varying potentials as well as interfacial entropy in acidic media. The results reveal four voltammetric peak features: below peak I, hydrogen is the predominant adsorbate; between peak II and peak III, a mixed adsorption region with 22% hydroxide and 44% hydrogen forms, while at higher potentials, hydroxide coverage increases. The double&#8208;layer structure is also explored, finding sensitivity of the double&#8208;layer capacitance to electrode surface structure. For the first time, by combining in situ laser&#8208;induced current transient and Raman spectroscopy, two potential values of maximum entropy are identified, indicating enhanced disorder and facilitated charge transfer, supported by disruption of the hydrogen&#8208;bond network due to increased dangling bonds. These insights guide the rational design of efficient electrode&#8208;electrolyte interfaces in Pt&#8208;based nanostructured materials.</description>
+      <author>Haiting Yu, Renata Sechi, Qingdian Liao, M.S. Nissen, Arghya Bhowmik, Elena L. Gubanova, Kun&#8208;Ting Song, Heine Anton Hansen, Aliaksandr S. Bandarenka</author>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/admi.202500680</guid>
+    </item>
+    <item>
+      <title>Computational Design of Pt&#63743;m (M = Au, Ir, Pd, Rh, and Ru) Binary Alloys for Enhanced Ammonia Oxidation Electrocatalysis</title>
+      <link>https://doi.org/10.1002/celc.202500288</link>
+      <description>Brendan J. R. Laframboise, Julia Coveny, Jingwen Zhou, Leanne D. Chen, ChemElectroChem. None(None)] 2025. https://openalex.org/W4414565031
+
+                The electrochemical ammonia oxidation reaction (AOR) shows considerable potential for its applications in waste removal and the production of clean energy. While Pt remains the most investigated catalyst for this reaction, its limitations have prompted research into Pt&#8208;based bimetallic alloys. This study investigates both uniform and mixed PtM (M = Au, Ir, Pd, Rh, and Ru) alloys as catalysts for the AOR using density functional theory (DFT). A systematic selection method is used to choose suitable surfaces for testing. The findings indicate that the Oswin&#8211;Salomon mechanism is preferred across all surfaces for N 2 (g) formation. Additionally, the results demonstrate that mixed alloys exhibit superior catalytic activity compared to uniform alloys for the AOR. It is found that the atoms in the topmost layer of the alloy are the most significant factor in influencing catalytic activity. Furthermore, the linear relationship between the &#8208;band center and adsorption energy of key intermediate *NH 2 is confirmed in this work, highlighting the effect of the secondary metal on the electronic structure of the catalyst. The findings provide theoretical insights for the design of high&#8208;performance Pt alloys for AOR and serve as a general guideline for modulating the reactivity of binary alloys for electrocatalysis.</description>
+      <author>Brendan J. R. Laframboise, Julia Coveny, Jingwen Zhou, Leanne D. Chen</author>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/celc.202500288</guid>
+    </item>
+    <item>
+      <title>Layer-Dependent Nitrate Reduction on 2D Bismuth: p-Orbital Delocalization Breaks the &#8220;Thinner-is-Better&#8221; Paradigm</title>
+      <link>https://doi.org/10.2139/ssrn.5536732</link>
+      <description>Xiaorong Zhu, Jiayu Gu, Xiaolei Yuan, Ming Ge, Yanfeng Tang, No host. None(None)] 2025. https://openalex.org/W4414569322
+
+                No abstract</description>
+      <author>Xiaorong Zhu, Jiayu Gu, Xiaolei Yuan, Ming Ge, Yanfeng Tang</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5536732</guid>
+    </item>
+    <item>
+      <title>STEMDiff: A Wavelet&#8208;Enhanced Diffusion Model for Physics&#8208;Informed STEM Image Generation</title>
+      <link>https://doi.org/10.1002/advs.202508266</link>
+      <description>Yihui Bao, Xinyi Lu, Yanyan Xia, Zhencheng Ye, Houyang Chen, Advanced Science. None(None)] 2025. https://openalex.org/W4414570643
+
+                Abstract Machine learning has emerged as a powerful tool for analyzing scanning transmission electron microscopy (STEM) images, yet its widespread application remains constrained by the scarcity of annotated training data. While deep generative models offer a promising solution, they typically struggle to reproduce the complex high&#8208;frequency components that define experimental STEM images. Here, STEMDiff, a conditional diffusion model that transforms simple binary labels derived from crystal structures into realistic STEM images through a physical information embedding strategy, is proposed. By developing a novel Discrete Wavelet Transform&#8208;based skip&#8208;connection architecture, the high&#8208;frequency bias inherent in diffusion models are addressed, enabling the preservation of experimental noise characteristics. This approach generates images that are quantitatively nearly indistinguishable from experimental data (17 fold improvement over previous methods) while retaining ground truth structural information. Fully convolutional networks trained exclusively on these synthetic images achieve high&#8208;precision atomic column detection in experimental STEM images of WSe 2 and graphene, despite the presence of substantial background noise and contamination. This approach effectively eliminates the need for laborious manual annotation, providing a scalable solution to the data bottleneck in STEM image analysis. The principles underlying STEMDiff can extend to other scientific imaging modalities, accelerating advancements in materials design for water treatment.</description>
+      <author>Yihui Bao, Xinyi Lu, Yanyan Xia, Zhencheng Ye, Houyang Chen</author>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/advs.202508266</guid>
+    </item>
+    <item>
+      <title>Catalytic resonance theory for parametric uncertainty of programmable catalysis</title>
+      <link>https://doi.org/10.1016/j.checat.2025.101523</link>
+      <description>Sallye R. Gathmann, Seongjoo Jung, Paul J. Dauenhauer, Chem Catalysis. None(None)] 2025. https://openalex.org/W4414571673
+
+                No abstract</description>
+      <author>Sallye R. Gathmann, Seongjoo Jung, Paul J. Dauenhauer</author>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.checat.2025.101523</guid>
+    </item>
+    <item>
+      <title>Synthesis, Alloying Process, and Enhanced Oxygen Evolution Activity of Highly Stable Ni&#8211;Fe&#8211;Mo Nanoparticles with a Face&#8208;Centered Cubic Phase</title>
+      <link>https://doi.org/10.1002/smll.202505716</link>
+      <description>Yan Jia, Xiao Ma, Yibin Yang, Rui Chao, Ji&#8208;Kai Li, Pengfei Guo, Bing Zhu, Qian&#8208;Nan Yang, Weitao Wang, Lu Liu, Zhao&#8208;Tie Liu, Yang Yang, Small. None(None)] 2025. https://openalex.org/W4414575903
+
+                Abstract Real&#8208;time visualization of alloying evolution is crucial yet challenging for designing and synthesizing face&#8208;centered cubic (fcc) nanoalloy catalysts for the alkaline oxygen evolution reaction (OER). Here, a trimetallic fcc NiFeMo nanoalloy is synthesized via topological reduction of NiFeMo layered double hydroxide (LDH) under an Ar/H 2 atmosphere. In situ heating transmission electron microscopy reveals the transforamtion of non&#8208;hexagonal NiFeMo LDH nanosheets into irregular inverse&#8208;spinel Ni 1&#8208;x Mo x Fe 2 O 4 nanoparticles, eventually forming spherical fcc NiFeMo nanoalloy particles. Furthermore, the NiFeMo nanoalloy demonstrates a Faradaic efficiency of 99.3% and superior intrinsic OER activity compared to NiFe and Ni nanoalloys at a consistent mass loading, due to synergistic metal interactions. The NiFeMo nanoalloy&#8208;modified nickel foam electrode exhibits excellent electrochemical stability, with structural and elemental analyses confirming that the original fcc structure remains intact after long&#8208;term OER testing. Operando differential electrochemical mass spectrometry coupled with isotope labelling experiment illustrates that the OER on NiFeMo nanoalloy proceeds via an adsorbate evolution mechanism pathway. Theoretical calculations suggest that Mo species reduce the potential barriers for *OH intermediate formation, thereby enhancing the inherent activity of Ni active sites in the NiFeMo nanoalloy. This work presents a novel approach for developing advanced trimetallic and high&#8208;entropy nanoalloy OER catalysts.</description>
+      <author>Yan Jia, Xiao Ma, Yibin Yang, Rui Chao, Ji&#8208;Kai Li, Pengfei Guo, Bing Zhu, Qian&#8208;Nan Yang, Weitao Wang, Lu Liu, Zhao&#8208;Tie Liu, Yang Yang</author>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202505716</guid>
+    </item>
+    <item>
       <title>Theoretical Nanoarchitectonics: DFT Calculation of the Adsorption Energy of Oxygen Atoms on Platinum Nanowires Formed on One-Dimensionally Polymerized Fullerene Molecules</title>
       <link>https://doi.org/10.1007/s11244-025-02187-9</link>
       <description>Kun&#8217;ichi Miyazawa, Yumi Tanaka, Topics in Catalysis. None(None)] 2025. https://openalex.org/W4414445371
@@ -526,6 +626,26 @@
       <author>Kun&#8217;ichi Miyazawa, Yumi Tanaka</author>
       <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s11244-025-02187-9</guid>
+    </item>
+    <item>
+      <title>Surface-Dependent Interfacial Concentration of Oxygen Confined within Pd Interlayers: Molecular Dynamics with a Neural Network Potential</title>
+      <link>https://doi.org/10.1021/acsami.5c15915</link>
+      <description>Feicheng Huan, Feng Shi, Gaoyang Luo, Xiang Pan, Jingnan Zheng, Jianguo Wang, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4414542564
+
+                Obtaining a detailed understanding of the interfacial dynamics of oxygen on palladium surfaces is crucial for industrial applications. However, it remains challenging to develop reaction&#8211;transport coupling mechanisms to enhance the activity and stability of Pd-based catalysts in confined environments. Herein, by integrating the established global neural network (G-NN) potential and molecular dynamics (MD) simulations, the interfacial concentrations of confined O2 molecules within Pd interlayers were investigated systematically under various conditions. The developed reactive NN potential, rigorously validated against DFT benchmarks with an average error of 0.026 eV/atom, demonstrated precise structural discrimination capabilities among three Pd surfaces and subsequently produced reasonable catalytic structures. The Pd(100) surface exhibited the highest reactivity, followed by Pd(211), with the lowest on Pd(111). These differences show strong correlations with a reduced interlayer distance (approximately 1 nm) and the degree of surface reconstruction patterns through a comprehensive analysis of mean square displacement and reaction rate. Density distribution, in conjunction with radial distribution function analyses, further demonstrates how the interlayer confinement effect, as well as surface-specific atomic arrangements, remarkably regulate the interfacial concentration of oxygen. This work provides universal guidance for elucidating the macroscopic mechanism linking the bulk and interfacial concentrations in confined systems through large-scale simulations.</description>
+      <author>Feicheng Huan, Feng Shi, Gaoyang Luo, Xiang Pan, Jingnan Zheng, Jianguo Wang</author>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c15915</guid>
+    </item>
+    <item>
+      <title>Boosting the HER performance of binary MnO2&#8211;CdSe heterostructure via interface engineering with g-C3N4</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.151729</link>
+      <description>Tauseef Munawar, Ambreen Bashir, Zhida Wang, Zhiming Tu, Lisha Shen, Muhammad Rafaqat, Jueshuo Fan, Muammer Ko&#231;&#8236;, Faisal Iqbal, Chang-Feng Yan, International Journal of Hydrogen Energy. 179(None)] 2025. https://openalex.org/W4414567339
+
+                No abstract</description>
+      <author>Tauseef Munawar, Ambreen Bashir, Zhida Wang, Zhiming Tu, Lisha Shen, Muhammad Rafaqat, Jueshuo Fan, Muammer Ko&#231;&#8236;, Faisal Iqbal, Chang-Feng Yan</author>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.151729</guid>
     </item>
     <item>
       <title>Schottky-Type Oxygen Defect and Orbital Engineering of Bismuth Oxide for Boosting Sulfur Redox Kinetics</title>
