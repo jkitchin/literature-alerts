@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 29 Sep 2025 01:36:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 01:26:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -76,6 +76,16 @@
       <author>Negar Farhang-Doost, C. Royo, Tagbo H. R. Niepa, Soumya K. Srivastava</author>
       <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsmeasuresciau.5c00084</guid>
+    </item>
+    <item>
+      <title>Coordinated guidance and control for multiple parafoil system landing</title>
+      <link>https://doi.org/10.48550/arxiv.2505.18691</link>
+      <description>Zhenyu Wei, Zhijiang Shao, Lorenz T. Biegler, arXiv (Cornell University). None(None)] 2025. https://openalex.org/W4414581602
+
+                Multiple parafoil landing is an enabling technology for massive supply delivery missions. However, it is still an open question to design a collision-free, computation-efficient guidance and control method for unpowered parafoils. To address this issue, this paper proposes a coordinated guidance and control method for multiple parafoil landing. First, the multiple parafoil landing process is formulated as a trajectory optimization problem. Then, the landing point allocation algorithm is designed to assign the landing point to each parafoil. In order to guarantee flight safety, the collision-free trajectory replanning algorithm is designed. On this basis, the nonlinear model predictive control algorithm is adapted to leverage the nonlinear dynamics model for trajectory tracking. Finally, the parafoil kinematic model is utilized to reduce the computational burden of trajectory calculation, and kinematic model is updated by the moving horizon correction algorithm to improve the trajectory accuracy. Simulation results demonstrate the effectiveness and computational efficiency of the proposed coordinated guidance and control method for the multiple parafoil landing.</description>
+      <author>Zhenyu Wei, Zhijiang Shao, Lorenz T. Biegler</author>
+      <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2505.18691</guid>
     </item>
   </channel>
 </rss>

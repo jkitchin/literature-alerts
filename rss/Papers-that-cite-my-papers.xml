@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 29 Sep 2025 01:36:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 01:26:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Thermal transport in amorphous carbon nanotubes</title>
-      <link>https://doi.org/10.1103/klhj-x3f2</link>
-      <description>Nianjie Liang, Alfredo Fiorentino, Bai Song, Physical review. B./Physical review. B. 112(9)] 2025. https://openalex.org/W4414383199
-
-                No abstract</description>
-      <author>Nianjie Liang, Alfredo Fiorentino, Bai Song</author>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/klhj-x3f2</guid>
-    </item>
-    <item>
-      <title>Advances in Structure Manipulation of Cobalt-Based Oxides for Catalytic Oxidation of Exhaust Gas</title>
-      <link>https://doi.org/10.1021/acs.est.5c05635</link>
-      <description>Kun Hou, Z. Zhao, Ganggang Li, Bingzhi Li, Ziyi Shui, Boyi Hao, Dong Sui, Xingyun Li, Jie Cheng, Zhengping Hao, Environmental Science &amp; Technology. None(None)] 2025. https://openalex.org/W4414383998
-
-                Catalytic oxidation technologies for industrial exhaust emissions (e.g., VOCs, CO, and NOx) have gained significant attention due to the severe environmental and public health impacts. Recent advances highlight cobalt-based oxides as superior catalytic materials owing to excellent physicochemical properties, but the diverse compositions of industrial exhaust gases present significant obstacles in their practical applications. To develop rational design strategies for efficient cobalt-based oxides, exploring the structure&#8211;activity relationship (SAR) provides guidance for engineering structural properties to enhance performance. In this context, this review delves into how SAR impacts catalytic performance in exhaust gas purification through geometric structure modulation (size effects, morphology, and surface defect structures) and electronic structure modulation (Co&#8211;O bond strengths, d-band centers, coordination environments, and constrained structures). Furthermore, special attention is given to mechanistic studies combining reaction kinetic modeling, in situ spectroscopic characterization, and the effects of water vapor and SO2 on catalytic oxidation processes. We further outline emerging synthetic strategies and ongoing challenges for the design of next-generation cobalt-based catalysts. This review provides guidance and inspiration for the development of high-performance cobalt-based oxides for exhaust gas purification.</description>
-      <author>Kun Hou, Z. Zhao, Ganggang Li, Bingzhi Li, Ziyi Shui, Boyi Hao, Dong Sui, Xingyun Li, Jie Cheng, Zhengping Hao</author>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.est.5c05635</guid>
-    </item>
-    <item>
-      <title>Synthesis of Hollow Spherical Phosphide Catalysts with Industrial-Scale Potential for Alkaline Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acsami.5c11704</link>
-      <description>M. Stre&#269;kov&#225;, Alena Fedoro&#269;kov&#225;, A. Gub&#243;ov&#225;, Gabriel Su&#269;&#237;k, Vladim&#237;r Girman, Akbar Hussain, Michael Vorochta, Jozef Stre&#269;ka, Tom&#225;&#353; Bystro&#328;, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4414384757
-
-                The competitiveness of hydrogen as a fuel of the future relies on the development of low-cost, readily available, and efficient catalysts. Transition metal phosphides (TMP), mainly in multimetallic compositions, are recognized as an excellent alternative to platinum-based catalysts in electrolyzers and fuel cells. Herein, for the first time, the connection of the spray drying method as a user-friendly technique for the large-scale production of TMP as hydrogen evolution reaction (HER) catalysts is presented. Three types of catalysts based on MoFeP modified with Co and Ni as third elements were compared by electrochemical methods in an alkaline medium of 1 M KOH. Among the studied materials, the as-prepared MoFeCoP electrocatalysts exhibited the lowest reaction overpotentials (&#951;10) of &#8722;285 mV, with Tafel slopes of 83 mV dec&#8211;1, low activation energy for the HER and sufficient durability in long-term stability tests. The high value of differential capacitance for both trimetallic materials MoFeNiP and MoFeCoP indicates a large surface area, resulting in excellent features for hydrogen production and application.</description>
-      <author>M. Stre&#269;kov&#225;, Alena Fedoro&#269;kov&#225;, A. Gub&#243;ov&#225;, Gabriel Su&#269;&#237;k, Vladim&#237;r Girman, Akbar Hussain, Michael Vorochta, Jozef Stre&#269;ka, Tom&#225;&#353; Bystro&#328;</author>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c11704</guid>
-    </item>
     <item>
       <title>Spatial Configuration Modulation of 2D Pd&#8208;Pt Heterostructures for Boosting Electrochemical Oxygen Reduction</title>
       <link>https://doi.org/10.1002/adfm.202522126</link>
