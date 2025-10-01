@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 30 Sep 2025 01:26:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 01:43:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Assessing goodness-of-fit for sparse categories using R&#233;nyi divergence</title>
-      <link>https://doi.org/10.1016/j.jspi.2025.106350</link>
-      <description>Raul Matsushita, Gabriel dos Passos Gomes, Regina Da Fonseca, Eduardo Yoshio Nakano, Roberto Vila, Journal of Statistical Planning and Inference. 242(None)] 2025. https://openalex.org/W4414396701
-
-                No abstract</description>
-      <author>Raul Matsushita, Gabriel dos Passos Gomes, Regina Da Fonseca, Eduardo Yoshio Nakano, Roberto Vila</author>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jspi.2025.106350</guid>
-    </item>
-    <item>
-      <title>Tunable lysis of functionalized nanocultures for efficient microbial and nucleic acid recovery</title>
-      <link>https://doi.org/10.1016/j.cej.2025.168770</link>
-      <description>Shanna-Leigh Davidson, Lisa M. Stabryla, Shakira M. Mart&#237;nez V&#225;squez, Jennifer Dootz, Monique E. Hunter, Tagbo H. R. Niepa, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4414412857
-
-                No abstract</description>
-      <author>Shanna-Leigh Davidson, Lisa M. Stabryla, Shakira M. Mart&#237;nez V&#225;squez, Jennifer Dootz, Monique E. Hunter, Tagbo H. R. Niepa</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.168770</guid>
-    </item>
     <item>
       <title>High sensitivity of simulated fog properties to parameterized aerosol activation in case studies from ParisFog</title>
       <link>https://doi.org/10.5194/acp-25-11129-2025</link>
@@ -86,6 +66,16 @@
       <author>Zhenyu Wei, Zhijiang Shao, Lorenz T. Biegler</author>
       <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2505.18691</guid>
+    </item>
+    <item>
+      <title>Isoprene chemistry under upper-tropospheric conditions</title>
+      <link>https://doi.org/10.1038/s41467-025-64229-w</link>
+      <description>Douglas M. Russell, Felix Kunkler, Jiali Shen, Matthias Kohl, Jenna DeVivo, Nirvan Bhattacharyya, Christos Xenofontos, Hannah Klebach, Luc&#237;a Caudillo-Plath, Mario Simon, Emelda Ahongshangbam, J. Almeida, A. Amorim, H. Beckmann, M. Busato, Manjula R. Canagaratna, Anouck Chassaing, R&#243;mulo Cruz-Simbr&#243;n, Lubna Dada, Philip Holzbeck, Bernhard Judmaier, Milin Kaniyodical Sebastian, Paap Koemets, Thinus F. Kruger, Lu Liu, M&#243;nica Mart&#237;nez, Bernhard Mentler, Aleksandra Morawiec, Antti Onnela, Tuukka Pet&#228;j&#228;, Pedro Rato, Mago Reza, Samuel Ruhl, Wiebke Scholz, Eva Sommer, Ant&#243;nio Tom&#233;, Yandong Tong, Jens Top, Nsikanabasi Silas Umo, Gabriela Rosalino Unfer, Ryan X. Ward, Jakob Weissbacher, Boxing Yang, Wenjuan Yu, Marcel Zauner-Wieczorek, Imad Zgheib, Jiangyi Zhang, Zhensen Zheng, Imad El Haddad, Richard C. Flagan, Armin Hansel, Heikki Junninen, Markku Kulmala, Katrianne Lehtipalo, Jos Lelieveld, Ottmar M&#246;hler, Siegfried Schobesberger, Rainer Volkamer, Paul M. Winkler, Douglas R. Worsnop, T. Christoudias, Andrea Pozzer, Neil M. Donahue, Hartwig Harder, J. Kirkby, Xu&#8208;Cheng He, Joachim Curtius, Nature Communications. 16(1)] 2025. https://openalex.org/W4414602749
+
+                No abstract</description>
+      <author>Douglas M. Russell, Felix Kunkler, Jiali Shen, Matthias Kohl, Jenna DeVivo, Nirvan Bhattacharyya, Christos Xenofontos, Hannah Klebach, Luc&#237;a Caudillo-Plath, Mario Simon, Emelda Ahongshangbam, J. Almeida, A. Amorim, H. Beckmann, M. Busato, Manjula R. Canagaratna, Anouck Chassaing, R&#243;mulo Cruz-Simbr&#243;n, Lubna Dada, Philip Holzbeck, Bernhard Judmaier, Milin Kaniyodical Sebastian, Paap Koemets, Thinus F. Kruger, Lu Liu, M&#243;nica Mart&#237;nez, Bernhard Mentler, Aleksandra Morawiec, Antti Onnela, Tuukka Pet&#228;j&#228;, Pedro Rato, Mago Reza, Samuel Ruhl, Wiebke Scholz, Eva Sommer, Ant&#243;nio Tom&#233;, Yandong Tong, Jens Top, Nsikanabasi Silas Umo, Gabriela Rosalino Unfer, Ryan X. Ward, Jakob Weissbacher, Boxing Yang, Wenjuan Yu, Marcel Zauner-Wieczorek, Imad Zgheib, Jiangyi Zhang, Zhensen Zheng, Imad El Haddad, Richard C. Flagan, Armin Hansel, Heikki Junninen, Markku Kulmala, Katrianne Lehtipalo, Jos Lelieveld, Ottmar M&#246;hler, Siegfried Schobesberger, Rainer Volkamer, Paul M. Winkler, Douglas R. Worsnop, T. Christoudias, Andrea Pozzer, Neil M. Donahue, Hartwig Harder, J. Kirkby, Xu&#8208;Cheng He, Joachim Curtius</author>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-64229-w</guid>
     </item>
   </channel>
 </rss>

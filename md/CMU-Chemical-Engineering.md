@@ -1,32 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Sep 30 01:26:04 2025
+Created on Wed Oct  1 01:43:29 2025
 
-Found 8 results from 2025-09-23 to 2025-09-30
+Found 7 results from 2025-09-24 to 2025-10-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Assessing goodness-of-fit for sparse categories using Rényi divergence   
-
-OpenAlex: https://openalex.org/W4414396701    
-Open access: False
-    
-[Raul Matsushita](https://openalex.org/A5058633744), [Gabriel dos Passos Gomes](https://openalex.org/A5048633127), [Regina Da Fonseca](https://openalex.org/A5090000996), [Eduardo Yoshio Nakano](https://openalex.org/A5056660449), [Roberto Vila](https://openalex.org/A5082494780), Journal of Statistical Planning and Inference. 242(None)] 2025.https://doi.org/10.1016/j.jspi.2025.106350.
-    
-No abstract    
-
-    
-
-## Tunable lysis of functionalized nanocultures for efficient microbial and nucleic acid recovery   
-
-OpenAlex: https://openalex.org/W4414412857    
-Open access: True
-    
-[Shanna-Leigh Davidson](https://openalex.org/A5040749266), [Lisa M. Stabryla](https://openalex.org/A5061236168), [Shakira M. Martínez Vásquez](https://openalex.org/A5119697405), [Jennifer Dootz](https://openalex.org/A5085766514), [Monique E. Hunter](https://openalex.org/A5081217258), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), Chemical Engineering Journal. None(None)] 2025.https://doi.org/10.1016/j.cej.2025.168770.
-    
-No abstract    
-
-    
 
 ## High sensitivity of simulated fog properties to parameterized aerosol activation in case studies from ParisFog   
 
@@ -91,5 +69,16 @@ Open access: True
 [Zhenyu Wei](https://openalex.org/A5054103149), [Zhijiang Shao](https://openalex.org/A5100886581), [Lorenz T. Biegler](https://openalex.org/A5052825722), arXiv (Cornell University). None(None)] 2025.https://doi.org/10.48550/arxiv.2505.18691 ([pdf](http://arxiv.org/pdf/2505.18691)).
     
 Multiple parafoil landing is an enabling technology for massive supply delivery missions. However, it is still an open question to design a collision-free, computation-efficient guidance and control method for unpowered parafoils. To address this issue, this paper proposes a coordinated guidance and control method for multiple parafoil landing. First, the multiple parafoil landing process is formulated as a trajectory optimization problem. Then, the landing point allocation algorithm is designed to assign the landing point to each parafoil. In order to guarantee flight safety, the collision-free trajectory replanning algorithm is designed. On this basis, the nonlinear model predictive control algorithm is adapted to leverage the nonlinear dynamics model for trajectory tracking. Finally, the parafoil kinematic model is utilized to reduce the computational burden of trajectory calculation, and kinematic model is updated by the moving horizon correction algorithm to improve the trajectory accuracy. Simulation results demonstrate the effectiveness and computational efficiency of the proposed coordinated guidance and control method for the multiple parafoil landing.    
+
+    
+
+## Isoprene chemistry under upper-tropospheric conditions   
+
+OpenAlex: https://openalex.org/W4414602749    
+Open access: True
+    
+[Douglas M. Russell](https://openalex.org/A5113379780), [Felix Kunkler](https://openalex.org/A5107158742), [Jiali Shen](https://openalex.org/A5049005695), [Matthias Kohl](https://openalex.org/A5078813162), [Jenna DeVivo](https://openalex.org/A5092773428), [Nirvan Bhattacharyya](https://openalex.org/A5017157628), [Christos Xenofontos](https://openalex.org/A5102960249), [Hannah Klebach](https://openalex.org/A5114989132), [Lucía Caudillo-Plath](https://openalex.org/A5092936143), [Mario Simon](https://openalex.org/A5086950058), [Emelda Ahongshangbam](https://openalex.org/A5114588782), [J. Almeida](https://openalex.org/A5101612939), [A. Amorim](https://openalex.org/A5062064925), [H. Beckmann](https://openalex.org/A5111324500), [M. Busato](https://openalex.org/A5016923070), [Manjula R. Canagaratna](https://openalex.org/A5062166400), [Anouck Chassaing](https://openalex.org/A5115002638), [Rómulo Cruz-Simbrón](https://openalex.org/A5056585425), [Lubna Dada](https://openalex.org/A5049539173), [Philip Holzbeck](https://openalex.org/A5021902174), [Bernhard Judmaier](https://openalex.org/A5116631052), [Milin Kaniyodical Sebastian](https://openalex.org/A5113379781), [Paap Koemets](https://openalex.org/A5003476839), [Thinus F. Kruger](https://openalex.org/A5109252760), [Lu Liu](https://openalex.org/A5100396524), [Mónica Martínez](https://openalex.org/A5043206674), [Bernhard Mentler](https://openalex.org/A5090590782), [Aleksandra Morawiec](https://openalex.org/A5115002640), [Antti Onnela](https://openalex.org/A5089192083), [Tuukka Petäjä](https://openalex.org/A5070326299), [Pedro Rato](https://openalex.org/A5115002641), [Mago Reza](https://openalex.org/A5094114338), [Samuel Ruhl](https://openalex.org/A5107158743), [Wiebke Scholz](https://openalex.org/A5076482580), [Eva Sommer](https://openalex.org/A5062670207), [António Tomé](https://openalex.org/A5021102823), [Yandong Tong](https://openalex.org/A5026414990), [Jens Top](https://openalex.org/A5014000962), [Nsikanabasi Silas Umo](https://openalex.org/A5043100376), [Gabriela Rosalino Unfer](https://openalex.org/A5092262549), [Ryan X. Ward](https://openalex.org/A5042065311), [Jakob Weissbacher](https://openalex.org/A5115002642), [Boxing Yang](https://openalex.org/A5101350413), [Wenjuan Yu](https://openalex.org/A5024928662), [Marcel Zauner-Wieczorek](https://openalex.org/A5017388605), [Imad Zgheib](https://openalex.org/A5094097372), [Jiangyi Zhang](https://openalex.org/A5102767311), [Zhensen Zheng](https://openalex.org/A5082103355), [Imad El Haddad](https://openalex.org/A5080319960), [Richard C. Flagan](https://openalex.org/A5012711441), [Armin Hansel](https://openalex.org/A5089489241), [Heikki Junninen](https://openalex.org/A5076912331), [Markku Kulmala](https://openalex.org/A5000471665), [Katrianne Lehtipalo](https://openalex.org/A5019559780), [Jos Lelieveld](https://openalex.org/A5027329208), [Ottmar Möhler](https://openalex.org/A5089697844), [Siegfried Schobesberger](https://openalex.org/A5033551265), [Rainer Volkamer](https://openalex.org/A5018521569), [Paul M. Winkler](https://openalex.org/A5042382547), [Douglas R. Worsnop](https://openalex.org/A5026978286), [T. Christoudias](https://openalex.org/A5068413254), [Andrea Pozzer](https://openalex.org/A5081741117), [Neil M. Donahue](https://openalex.org/A5041685684), [Hartwig Harder](https://openalex.org/A5023787844), [J. Kirkby](https://openalex.org/A5009274507), [Xu‐Cheng He](https://openalex.org/A5043129752), [Joachim Curtius](https://openalex.org/A5031780924), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-64229-w ([pdf](https://www.nature.com/articles/s41467-025-64229-w.pdf)).
+    
+No abstract    
 
     
