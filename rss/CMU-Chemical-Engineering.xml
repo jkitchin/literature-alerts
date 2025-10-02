@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Oct 2025 01:43:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 01:24:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -72,10 +72,20 @@
       <link>https://doi.org/10.1038/s41467-025-64229-w</link>
       <description>Douglas M. Russell, Felix Kunkler, Jiali Shen, Matthias Kohl, Jenna DeVivo, Nirvan Bhattacharyya, Christos Xenofontos, Hannah Klebach, Luc&#237;a Caudillo-Plath, Mario Simon, Emelda Ahongshangbam, J. Almeida, A. Amorim, H. Beckmann, M. Busato, Manjula R. Canagaratna, Anouck Chassaing, R&#243;mulo Cruz-Simbr&#243;n, Lubna Dada, Philip Holzbeck, Bernhard Judmaier, Milin Kaniyodical Sebastian, Paap Koemets, Thinus F. Kruger, Lu Liu, M&#243;nica Mart&#237;nez, Bernhard Mentler, Aleksandra Morawiec, Antti Onnela, Tuukka Pet&#228;j&#228;, Pedro Rato, Mago Reza, Samuel Ruhl, Wiebke Scholz, Eva Sommer, Ant&#243;nio Tom&#233;, Yandong Tong, Jens Top, Nsikanabasi Silas Umo, Gabriela Rosalino Unfer, Ryan X. Ward, Jakob Weissbacher, Boxing Yang, Wenjuan Yu, Marcel Zauner-Wieczorek, Imad Zgheib, Jiangyi Zhang, Zhensen Zheng, Imad El Haddad, Richard C. Flagan, Armin Hansel, Heikki Junninen, Markku Kulmala, Katrianne Lehtipalo, Jos Lelieveld, Ottmar M&#246;hler, Siegfried Schobesberger, Rainer Volkamer, Paul M. Winkler, Douglas R. Worsnop, T. Christoudias, Andrea Pozzer, Neil M. Donahue, Hartwig Harder, J. Kirkby, Xu&#8208;Cheng He, Joachim Curtius, Nature Communications. 16(1)] 2025. https://openalex.org/W4414602749
 
-                No abstract</description>
+                Abstract Isoprene (C 5 H 8 ) is the non-methane hydrocarbon with the highest emissions to the atmosphere. It is mainly produced by vegetation, especially broad-leaved trees, and efficiently transported to the upper troposphere in deep convective clouds, where it is mixed with lightning NO x . Isoprene oxidation products drive rapid formation and growth of new particles in the tropical upper troposphere. However, isoprene oxidation pathways at low temperatures are not well understood. Here, in experiments at the CERN CLOUD chamber at 223 K and 243 K, we find that isoprene oxygenated organic molecules (IP-OOM) all involve two successive $${{{\rm{OH}}}}^{\bullet}$$    OH   &#8729;    oxidations. However, depending on the ambient concentrations of the termination radicals ( $${{{{\rm{HO}}}}_{2}}^{\bullet},\,{{{\rm{NO}}}}^{\bullet}$$      HO   2     &#8729;   ,    NO   &#8729;    , and $${{{\rm{NO}}}}_{2}^{\bullet}$$    NO   2   &#8729;    ), vastly-different IP-OOM emerge, comprising compounds with zero, one or two nitrogen atoms. Our findings indicate high IP-OOM production rates for the tropical upper troposphere, mainly resulting in nitrate IP-OOM but with an increasing non-nitrate fraction around midday, in close agreement with aircraft observations.</description>
       <author>Douglas M. Russell, Felix Kunkler, Jiali Shen, Matthias Kohl, Jenna DeVivo, Nirvan Bhattacharyya, Christos Xenofontos, Hannah Klebach, Luc&#237;a Caudillo-Plath, Mario Simon, Emelda Ahongshangbam, J. Almeida, A. Amorim, H. Beckmann, M. Busato, Manjula R. Canagaratna, Anouck Chassaing, R&#243;mulo Cruz-Simbr&#243;n, Lubna Dada, Philip Holzbeck, Bernhard Judmaier, Milin Kaniyodical Sebastian, Paap Koemets, Thinus F. Kruger, Lu Liu, M&#243;nica Mart&#237;nez, Bernhard Mentler, Aleksandra Morawiec, Antti Onnela, Tuukka Pet&#228;j&#228;, Pedro Rato, Mago Reza, Samuel Ruhl, Wiebke Scholz, Eva Sommer, Ant&#243;nio Tom&#233;, Yandong Tong, Jens Top, Nsikanabasi Silas Umo, Gabriela Rosalino Unfer, Ryan X. Ward, Jakob Weissbacher, Boxing Yang, Wenjuan Yu, Marcel Zauner-Wieczorek, Imad Zgheib, Jiangyi Zhang, Zhensen Zheng, Imad El Haddad, Richard C. Flagan, Armin Hansel, Heikki Junninen, Markku Kulmala, Katrianne Lehtipalo, Jos Lelieveld, Ottmar M&#246;hler, Siegfried Schobesberger, Rainer Volkamer, Paul M. Winkler, Douglas R. Worsnop, T. Christoudias, Andrea Pozzer, Neil M. Donahue, Hartwig Harder, J. Kirkby, Xu&#8208;Cheng He, Joachim Curtius</author>
       <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-64229-w</guid>
+    </item>
+    <item>
+      <title>Protein corona formed on lipid nanoparticles compromises delivery efficiency of mRNA cargo</title>
+      <link>https://doi.org/10.1038/s41467-025-63726-2</link>
+      <description>Elizabeth Voke, Mariah L. Arral, Henry Squire, Teng-Jui Lin, Lining Zheng, Roxana Coreas, Alison Lui, Anthony T. Iavarone, Rebecca L. Pinals, Kathryn A. Whitehead, Markita P. Landry, Nature Communications. 16(1)] 2025. https://openalex.org/W4414650697
+
+                No abstract</description>
+      <author>Elizabeth Voke, Mariah L. Arral, Henry Squire, Teng-Jui Lin, Lining Zheng, Roxana Coreas, Alison Lui, Anthony T. Iavarone, Rebecca L. Pinals, Kathryn A. Whitehead, Markita P. Landry</author>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-63726-2</guid>
     </item>
   </channel>
 </rss>

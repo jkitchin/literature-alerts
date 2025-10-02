@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Oct 2025 01:43:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 01:24:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Transition metal atoms supported by Janus NbSSe monolayer for overall water splitting and oxygen reduction: A computational study</title>
-      <link>https://doi.org/10.1016/j.cplett.2025.142432</link>
-      <description>Wen&#8208;Jing Hu, Aiyu Yang, Caixia Zhong, Xingxing Yu, Chemical Physics Letters. None(None)] 2025. https://openalex.org/W4414436057
-
-                No abstract</description>
-      <author>Wen&#8208;Jing Hu, Aiyu Yang, Caixia Zhong, Xingxing Yu</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2025.142432</guid>
-    </item>
-    <item>
-      <title>Cu dual-site doping: synergistic enhancement of OER activity through LDH and nickel foam interface engineering</title>
-      <link>https://doi.org/10.1039/d5nj03068d</link>
-      <description>Jinhui Li, Yuming Wei, Laixi Zou, Yaozong Liu, Shuaidong Li, Luo Yue, New Journal of Chemistry. None(None)] 2025. https://openalex.org/W4414438157
-
-                Novel Cu dual-site doping via the urea hydrothermal method: simultaneous incorporation into LDH lattice and NF substrate enhances OER activity through optimized NF electronic structure and facilitated intermediate adsorption.</description>
-      <author>Jinhui Li, Yuming Wei, Laixi Zou, Yaozong Liu, Shuaidong Li, Luo Yue</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5nj03068d</guid>
-    </item>
-    <item>
-      <title>Cobalt oxide-based catalysts for acidic oxygen evolution reactions</title>
-      <link>https://doi.org/10.1071/ch25104</link>
-      <description>Huihui Li, Shuhao Wang, Chuan Zhao, Australian Journal of Chemistry. 78(10)] 2025. https://openalex.org/W4414443067
-
-                Proton exchange membrane water electrolysis (PEMWE) is a cornerstone technology for green hydrogen production, yet the sluggish oxygen evolution reaction (OER) in acidic media remains a major bottleneck. Noble metal oxides such as IrO2 and RuO2 are effective but suffer from high cost and scarcity. As a non-precious alternative, spinel cobalt oxide (Co3O4) has attracted attention due to its promising performance results from its mixed-valence structure, tunable electronic properties and catalytic potential. However, its practical application is challenged by poor conductivity, moderate activity and instability under acidic conditions due to proton attack and lattice degradation. This review summarises recent advances in Co3O4-based electrocatalysts for acidic OER. We first introduce three key OER pathways: adsorbate evolution mechanism (AEM), lattice oxygen mechanism (LOM) and oxide path mechanism (OPM) and their relevance to Co3O4 performance. Then, we introduce the structural and electronic characteristics of Co3O4 that influence its catalytic behaviour. Next, we review a range of engineering strategies, including element doping, heterostructure construction, surface modification and defect engineering, all aimed at enhancing the activity and durability of Co3O4. Finally, we highlight critical challenges and offer perspectives for advancing Co3O4 as a viable acidic OER catalyst.</description>
-      <author>Huihui Li, Shuhao Wang, Chuan Zhao</author>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1071/ch25104</guid>
-    </item>
-    <item>
-      <title>How Plasma Reaction Conditions Affect the Optimal Catalyst: A Microkinetic Study of Plasma-catalytic CO2 Splitting</title>
-      <link>https://doi.org/10.1007/s11090-025-10599-4</link>
-      <description>Bj&#246;rn Loenders, Roel Michiels, Annemie Bogaerts, Plasma Chemistry and Plasma Processing. None(None)] 2025. https://openalex.org/W4414447693
-
-                No abstract</description>
-      <author>Bj&#246;rn Loenders, Roel Michiels, Annemie Bogaerts</author>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11090-025-10599-4</guid>
-    </item>
-    <item>
-      <title>Interfacial Engineering Induced Charge Accumulation for Enhanced Solar Water Splitting</title>
-      <link>https://doi.org/10.1002/adfm.202519825</link>
-      <description>Xiu&#8208;Shuang Xing, Qianyu Gao, Chengyang Feng, Zhongyuan Zhou, Xiyang Liu, Yao Guo, Jingchao Zhang, Jimin Du, Huabin Zhang, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4414451774
-
-                Abstract Efficient separation and extraction of charge carriers at the surface of semiconductor photoanodes play a pivotal role in enhancing the performance of solar&#8208;driven photoelectrochemical (PEC) devices. Herein, a general strategy is presented to promote charge carrier migration by introducing a hole extraction layer, which enables dual&#8208;interface engineering between the photoanode and the catalytic sites. This design enhances the transfer and accumulation of photogenerated holes from the semiconductor to the oxygen evolution cocatalyst (OEC). Specifically, FeNi&#8208;LDH is inserted between &#945;&#8208;Fe 2 O 3 and a Ru&#8208;based OEC, forming a cascaded &#945;&#8208;Fe 2 O 3 /FeNi&#8208;LDH/Ru structure. This dual&#8208;interface configuration facilitates directional charge transport, accelerates hole accumulation at Ru active sites, and suppresses carrier recombination. The optimized photoanode achieves a photocurrent density of 2.51 mA cm &#8722;2 at 1.23 V versus RHE, which is 3.8 times higher than that of pristine &#945;&#8208;Fe 2 O 3 . This work highlights the crucial role of rational interface engineering in regulating carrier dynamics and provides a broadly applicable strategy for constructing high&#8208;efficiency PEC water&#8208;splitting systems.</description>
-      <author>Xiu&#8208;Shuang Xing, Qianyu Gao, Chengyang Feng, Zhongyuan Zhou, Xiyang Liu, Yao Guo, Jingchao Zhang, Jimin Du, Huabin Zhang</author>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202519825</guid>
-    </item>
-    <item>
-      <title>Electron Spin Polarization Facilitates the Urea Oxidation Reaction</title>
-      <link>https://doi.org/10.1002/cctc.202501142</link>
-      <description>Aravind Vadakkayil, Ulrich Pototschnig, Meera Joy, Elizabeth Shiby, Keerthana Govindaraj, Susheng Tan, Carmen Herrmann, Brian P. Bloom, David H. Waldeck, ChemCatChem. None(None)] 2025. https://openalex.org/W4414454311
-
-                Abstract This work reports on the role of electron spin in the urea oxidation reaction (UOR), which is important for wastewater treatment and for hydrogen production in energy applications, as it possesses a lower thermodynamic equilibrium potential to produce hydrogen than does direct water splitting. We demonstrate that spin&#8208;polarized catalysts facilitate the UOR, leading to a decrease in reaction overpotential and an improved product distribution compared to analogous unpolarized catalysts. Computational studies attribute the improved performance to a stabilization of the desired reaction pathway upon spin polarization. This work underscores the importance of electron spin considerations for multistep, multielectron and multiproton, electrochemical reactions.</description>
-      <author>Aravind Vadakkayil, Ulrich Pototschnig, Meera Joy, Elizabeth Shiby, Keerthana Govindaraj, Susheng Tan, Carmen Herrmann, Brian P. Bloom, David H. Waldeck</author>
-      <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202501142</guid>
-    </item>
-    <item>
-      <title>Advancing chemical engineering technology with artificial intelligence</title>
-      <link>https://doi.org/10.1093/ce/zkaf036</link>
-      <description>Chao Ding, Xin Gui, Jun Jiang, Clean Energy. 9(5)] 2025. https://openalex.org/W4414458705
-
-                Abstract Artificial intelligence is fundamentally transforming chemical engineering by redefining how materials are discovered, processes are optimized, and innovations are deployed at scale. This review provides a unique perspective on artificial intelligence&#8217;s role as a catalyst for chemical engineering&#8217;s evolution, emphasizing its ability to synergize computational intelligence with experimental workflows. Key contributions include artificial intelligence-enabled breakthroughs in structure&#8211;property relationship modeling, retrosynthetic analysis, and computational chemistry for rapid material optimization, followed by artificial intelligence&#8217;s impact on industrial translation through smart process control, digital twins, and automated laboratories, which facilitates seamless scaling from laboratory innovation to industrial production. Specific applications in energy, catalysis, batteries, and water treatment demonstrate artificial intelligence&#8217;s potential to address critical global challenges. By critically evaluating limitations and offering a roadmap for future advancements, this review highlights artificial intelligence not just as a tool but as a transformative force driving a more adaptive, intelligent, and sustainable chemical engineering paradigm.</description>
-      <author>Chao Ding, Xin Gui, Jun Jiang</author>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1093/ce/zkaf036</guid>
-    </item>
     <item>
       <title>Dual-Level Engineering of MOF-Derived Hierarchical Porous Carbon Nanofibers with Low-Coordinated Cobalt Single-Atom Catalysts for High-Performance Lithium&#8211;Sulfur Batteries</title>
       <link>https://doi.org/10.1007/s42765-025-00614-w</link>
@@ -462,7 +392,7 @@
       <link>https://doi.org/10.1038/s41467-025-63693-8</link>
       <description>Tongtong Lu, Zhiya Dang, Yuqing Luo, Li Yang, Xiaobin Rao, Zhe Zhang, Yuecheng Hu, Zelong Chen, Zihao Li, Urko Petralanda, Jiangsheng Xie, Jiancan Yu, Pingqi Gao, Nature Communications. 16(1)] 2025. https://openalex.org/W4414601641
 
-                No abstract</description>
+                One of the primary challenges for halide perovskite technology lies in its instability. Water is a ubiquitous environmental factor known to induce lattice expansion to perovskite. Lattice expansion has been proven beneficial to perovskite solar cell, but little is known about its role in lattice stability. In this work, we expose perovskites with pre-adsorbed water to vacuum and investigate the evolution of their structure. Our results show that vacuum induces water desorption and results in the removal of lattice expansion. This lattice recovery leads to an increasing lattice distortion, ultimately favoring the formation of halogen trimers in the case of hybrid perovskites. We thus find that the lack of lattice expansion facilitates the generation of defects detrimental to hybrid perovskite devices. Here, we report the crucial role of lattice expansion in preventing degradation of hybrid halide perovskites, which is of critical importance in the context of solar cell fabrication. Water adsorption is known to induce lattice expansion to perovskite. This work reveals that the elimination of lattice expansion causes formation of detrimental defects in hybrid perovskite, highlighting its critical role in lattice stability.</description>
       <author>Tongtong Lu, Zhiya Dang, Yuqing Luo, Li Yang, Xiaobin Rao, Zhe Zhang, Yuecheng Hu, Zelong Chen, Zihao Li, Urko Petralanda, Jiangsheng Xie, Jiancan Yu, Pingqi Gao</author>
       <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-63693-8</guid>
@@ -518,14 +448,24 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.136978</guid>
     </item>
     <item>
-      <title>Theoretical Nanoarchitectonics: DFT Calculation of the Adsorption Energy of Oxygen Atoms on Platinum Nanowires Formed on One-Dimensionally Polymerized Fullerene Molecules</title>
-      <link>https://doi.org/10.1007/s11244-025-02187-9</link>
-      <description>Kun&#8217;ichi Miyazawa, Yumi Tanaka, Topics in Catalysis. None(None)] 2025. https://openalex.org/W4414445371
+      <title>Boron and Nitrogen Bridged Mn Single&#8208;Atom Catalyst for Highly Efficient Nitrogen Electroreduction to Ammonia</title>
+      <link>https://doi.org/10.1002/smll.202507387</link>
+      <description>Hansaem Choi, Siraj Sultan, Mahdi Zafari, Aram Yoon, Hojeong Lee, Miran Ha, Beomgyun Jeong, HyungKuk Ju, Hyung Chul Yoon, Kwang S. Kim, Zonghoon Lee, Geunsik Lee, Youngkook Kwon, Small. None(None)] 2025. https://openalex.org/W4414647449
+
+                Abstract Ammonia (NH 3 ) is a globally important commodity for energy storage, carbon&#8208;free energy carrier, and fertilizer production, but its synthesis through the Haber&#8208;Bosch process is energy&#8208;intensive and emits significant amounts of CO 2 . Electrochemical reduction of N 2 under ambient conditions is a green and potentially promising approach for NH 3 synthesis, but is limited by a high energy barrier of the first *N 2 protonation step, competitive hydrogen evolution reaction, and lack of efficient electrocatalysts. Herein, a newly designed electrocatalyst is reported by bridging B 2 N 2 with an Mn single atom in B/N co&#8208;doped carbon (denoted MnB 2 N 2 /C), which exhibits a highly efficient N 2 reduction reaction (N 2 RR) activity with NH 3 Faradaic efficiency (FE NH3 ) of &#8776;37.15% in the aqueous phase system and good electrocatalytic and material stability. The FE NH3 of the MnB 2 N 2 /C catalyst is &#8776;2.1 times higher than that of the as&#8208;synthesized MnN 4 /C counterpart under the same conditions. In the gas phase system, this MnB 2 N 2 /C catalyst shows a remarkably high NH 3 production rate (87.54 &#181;g mg cat. &#8722;1 h &#8722;1 ) and FE NH3 (45.66%). The density functional theory (DFT) calculations revealed that the high N 2 RR to NH 3 performance arising from the Mn site and the neighboring B site suppresses the parasitic HER on the Mn sites.</description>
+      <author>Hansaem Choi, Siraj Sultan, Mahdi Zafari, Aram Yoon, Hojeong Lee, Miran Ha, Beomgyun Jeong, HyungKuk Ju, Hyung Chul Yoon, Kwang S. Kim, Zonghoon Lee, Geunsik Lee, Youngkook Kwon</author>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202507387</guid>
+    </item>
+    <item>
+      <title>Direct generation of nitrogen-centered radicals via non-covalent interaction between Cu complexes and BiVO4 photoanodes</title>
+      <link>https://doi.org/10.1038/s41467-025-63670-1</link>
+      <description>Lei Wu, Kun Dang, Qiaozhen Li, Yi Xu, Yuchao Zhang, Jincai Zhao, Nature Communications. 16(1)] 2025. https://openalex.org/W4414652534
 
                 No abstract</description>
-      <author>Kun&#8217;ichi Miyazawa, Yumi Tanaka</author>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11244-025-02187-9</guid>
+      <author>Lei Wu, Kun Dang, Qiaozhen Li, Yi Xu, Yuchao Zhang, Jincai Zhao</author>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-63670-1</guid>
     </item>
     <item>
       <title>Surface-Dependent Interfacial Concentration of Oxygen Confined within Pd Interlayers: Molecular Dynamics with a Neural Network Potential</title>
