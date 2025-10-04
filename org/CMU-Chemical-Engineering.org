@@ -1,94 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Oct  2 01:24:31 2025
+Created on Sat Oct  4 01:22:05 2025
 
-Found 8 results from 2025-09-25 to 2025-10-02
+Found 7 results from 2025-09-27 to 2025-10-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* High sensitivity of simulated fog properties to parameterized aerosol activation in case studies from ParisFog  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4414475342
-:TOPICS: Atmospheric chemistry and aerosols, Atmospheric aerosols and clouds, Wind and Air Flow Studies
-:PUBLICATION_DATE: 2025-09-24
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5194/acp-25-11129-2025")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4414475342"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4414475342"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4414475342"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4414475342 (Open access: True)
-    
-[[https://openalex.org/A5005781295][Pratapaditya Ghosh]], [[https://openalex.org/A5039593473][Ian Boutle]], [[https://openalex.org/A5113916135][Paul Field]], [[https://openalex.org/A5082191095][A.H. Hill]], [[https://openalex.org/A5025245146][Anthony C. Jones]], [[https://openalex.org/A5007998967][Marie Mazoyer]], [[https://openalex.org/A5079659440][Katherine J. Evans]], [[https://openalex.org/A5023485909][Salil Mahajan]], [[https://openalex.org/A5015919898][Hyun‐Gyu Kang]], [[https://openalex.org/A5103056228][Min Xu]], [[https://openalex.org/A5100441591][Wei Zhang]], [[https://openalex.org/A10000106048][Noah Asch]], [[https://openalex.org/A5086004922][Hamish Gordon]], Atmospheric chemistry and physics. 25(18)] 2025. https://doi.org/10.5194/acp-25-11129-2025  ([[https://acp.copernicus.org/articles/25/11129/2025/acp-25-11129-2025.pdf][pdf]])
-     
-Abstract. Aerosols influence fog properties such as visibility and lifetime by affecting fog droplet number concentrations (Nd). Numerical weather prediction (NWP) models often represent aerosol–fog interactions using highly simplified approaches. Incorporating prognostic size-resolved aerosol microphysics from climate models could allow them to simulate Nd and aerosol–fog interactions without incurring excessive computational expense. However, microphysics code designed for coarse spatial resolution may struggle with sub-kilometer-scale grid spacings. Here, we test the ability of the UK Met Office Unified Model to simulate aerosol and fog properties during case studies from the ParisFog field campaign in 2011. We examine the sensitivity of fog properties to variations in Nd caused by modifications to simulated aerosol activation. Our model, with a 500 m horizontal resolution and interactive aerosol and cloud microphysics, significantly underpredicts Nd, although it only slightly underestimates the cloud condensation nuclei concentration. With an updated version of the Abdul-Razzak and Ghan (2000) activation scheme, we produce Nd that are more consistent with those predicted by a cloud parcel model under fog-like conditions. We activate droplets only by adiabatic cooling. We incorporate more realistic hygroscopicities for sulfate and organic aerosols and explore the sensitivity of simulated Nd to unresolved updrafts. We find that both Nd and simulated fog liquid water content are very sensitive to the updated activation scheme but remain less affected by the update to hygroscopicities. Our improvements offer insights into the physical processes regulating Nd in stable conditions, potentially laying foundations for improved operational fog forecasts that incorporate interactive aerosol simulations or aerosol climatologies.    
-
-    
-
-* Adiabatic and radiative cooling are both important causes of aerosol activation in simulated fog events in Europe  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4414475449
-:TOPICS: Atmospheric aerosols and clouds, Atmospheric chemistry and aerosols, Atmospheric Ozone and Climate
-:PUBLICATION_DATE: 2025-09-24
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5194/acp-25-11157-2025")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4414475449"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4414475449"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4414475449"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4414475449 (Open access: True)
-    
-[[https://openalex.org/A5005781295][Pratapaditya Ghosh]], [[https://openalex.org/A5039593473][Ian Boutle]], [[https://openalex.org/A5114374113][Paul R. Field]], [[https://openalex.org/A5082191095][A.H. Hill]], [[https://openalex.org/A5007998967][Marie Mazoyer]], [[https://openalex.org/A5079659440][Katherine J. Evans]], [[https://openalex.org/A5023485909][Salil Mahajan]], [[https://openalex.org/A5015919898][Hyun‐Gyu Kang]], [[https://openalex.org/A5016240965][Min Xu]], [[https://openalex.org/A5100441591][Wei Zhang]], [[https://openalex.org/A5086004922][Hamish Gordon]], Atmospheric chemistry and physics. 25(18)] 2025. https://doi.org/10.5194/acp-25-11157-2025  ([[https://acp.copernicus.org/articles/25/11157/2025/acp-25-11157-2025.pdf][pdf]])
-     
-Abstract. Aerosol–fog interactions affect the visibility in, and life cycle of, fog and are difficult to represent in weather and climate models. Here we explore processes that impact the simulation of fog droplet number concentrations (Nd) at sub-kilometer scale horizontal grid resolutions in the UK Met Office Unified Model. We modify the parameterization of aerosol activation to include droplet activation by radiative cooling in addition to adiabatic cooling and determine the relative importance of the two cooling mechanisms. We further test the sensitivity of simulated Nd to: (a) interception of droplets by trees and buildings, (b) overestimation of updrafts in temperature inversions (which leads to artificially high Nd values), and (c) potential mechanisms for droplet deactivation due to downward fluctuations in supersaturation. We evaluate our model against observations from the ParisFog and LANFEX field campaigns, building on evaluation described in the companion paper. Including radiative cooling in the activation mechanism improves how accurately we represent the liquid water path and the vertical structure of the fog in our LANFEX case study. However, with radiative cooling, the Nd are overestimated for most of the ParisFog cases and for the LANFEX case. The time-averaged overestimate exceeds a factor of three (the normalized mean bias factor exceeds 2.0) in 4 out of 11 ParisFog cases. Our sensitivity studies demonstrate how these overestimates can be mitigated. Assuming the overestimate affects both radiative and adiabatic cooling, we find that although radiative cooling is more often the dominant source, both cooling sources can sometimes dominate activation.    
-
-    
-
-* Uncertainty quantification in graph neural networks with shallow ensembles  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4414495884
-:TOPICS: Neural Networks and Applications, Advanced Data Processing Techniques
-:PUBLICATION_DATE: 2025-09-25
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1088/2632-2153/ae0bf0")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4414495884"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4414495884"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4414495884"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4414495884 (Open access: True)
-    
-[[https://openalex.org/A5119725711][Tirtha Vinchurkar]], [[https://openalex.org/A5106436405][Kareem Abdelmaqsoud]], [[https://openalex.org/A5003442464][John R. Kitchin]], Machine Learning Science and Technology. None(None)] 2025. https://doi.org/10.1088/2632-2153/ae0bf0 
-     
-Abstract Machine-learned potentials (MLPs) have revolutionized materials discovery by providing accurate and efficient predictions of molecular and material properties. Graph Neural Networks (GNNs) have emerged as a state-of-the-art approach due to their ability to capture complex atomic interactions. However, GNNs often produce unreliable predictions when encountering out-of-domain data and it is difficult to identify when that happens. To address this challenge, we explore Uncertainty Quantification (UQ) techniques, focusing on Direct Propagation of Shallow Ensembles (DPOSE) as a computationally efficient alternative to deep ensembles. By integrating DPOSE into the SchNet model, we assess its ability to provide reliable uncertainty estimates across several Density Functional Theory datasets, including QM9, OC20, and Gold dataset. Our findings often demonstrate that DPOSE successfully distinguishes between in-domain and out-of-domain samples, exhibiting higher uncertainty for unobserved molecule and material classes. This work highlights the potential of lightweight UQ methods in improving the robustness of GNN-based materials modeling and lays the foundation for future integration with active learning strategies.    
-
-    
-
-* Impact of Reliability Formulations on the Optimal Planning and Operation of Power Systems  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4414499402
-:TOPICS: Power System Reliability and Maintenance
-:PUBLICATION_DATE: 2025-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1109/tpwrs.2025.3614510")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4414499402"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4414499402"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4414499402"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4414499402 (Open access: False)
-    
-[[https://openalex.org/A5060951641][Seolhee Cho]], [[https://openalex.org/A5040511658][Javier Tovar-Facio]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], IEEE Transactions on Power Systems. None(None)] 2025. https://doi.org/10.1109/tpwrs.2025.3614510 
-     
-No abstract    
-
-    
 
 * Dielectrophoretic Profiling of Candidozyma auris: the Effect of Glucose on Cellular Polarizability  :CMU_Chemical_Engineering:
 :PROPERTIES:
@@ -156,7 +72,7 @@ Abstract Isoprene (C 5 H 8 ) is the non-methane hydrocarbon with the highest emi
 * Protein corona formed on lipid nanoparticles compromises delivery efficiency of mRNA cargo  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :UUID: https://openalex.org/W4414650697
-:TOPICS: RNA Interference and Gene Delivery, Membrane Separation Technologies, Nanoparticle-Based Drug Delivery
+:TOPICS: RNA Interference and Gene Delivery, RNA Research and Splicing, Nanopore and Nanochannel Transport Studies
 :PUBLICATION_DATE: 2025-09-30
 :END:    
     
@@ -168,8 +84,71 @@ Abstract Isoprene (C 5 H 8 ) is the non-methane hydrocarbon with the highest emi
 
 OpenAlex: https://openalex.org/W4414650697 (Open access: True)
     
-[[https://openalex.org/A5043095118][Elizabeth Voke]], [[https://openalex.org/A5049474410][Mariah L. Arral]], [[https://openalex.org/A5083360462][Henry Squire]], [[https://openalex.org/A5015542317][Teng-Jui Lin]], [[https://openalex.org/A5046925443][Lining Zheng]], [[https://openalex.org/A5018682157][Roxana Coreas]], [[https://openalex.org/A5041219650][Alison Lui]], [[https://openalex.org/A5025340342][Anthony T. Iavarone]], [[https://openalex.org/A5019626105][Rebecca L. Pinals]], [[https://openalex.org/A5010666650][Kathryn A. Whitehead]], [[https://openalex.org/A5045437202][Markita P. Landry]], Nature Communications. 16(1)] 2025. https://doi.org/10.1038/s41467-025-63726-2  ([[https://www.nature.com/articles/s41467-025-63726-2.pdf][pdf]])
+[[https://openalex.org/A5043095118][Elizabeth Voke]], [[https://openalex.org/A5049474410][Mariah L. Arral]], [[https://openalex.org/A5083360462][Henry Squire]], [[https://openalex.org/A5015542317][Teng-Jui Lin]], [[https://openalex.org/A5046925443][Lining Zheng]], [[https://openalex.org/A5018682157][Roxana Coreas]], [[https://openalex.org/A5041219650][Alison Lui]], [[https://openalex.org/A5025340342][Anthony T. Iavarone]], [[https://openalex.org/A5019626105][Rebecca L. Pinals]], [[https://openalex.org/A5010666650][Kathryn A. Whitehead]], [[https://openalex.org/A5045437202][Markita P. Landry]], Nature Communications. 16(1)] 2025. https://doi.org/10.1038/s41467-025-63726-2 
      
 No abstract    
+
+    
+
+* Spectral Manifold Harmonization for Graph Imbalanced Regression  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4414688037
+:TOPICS: Face and Expression Recognition, Data-Driven Disease Surveillance
+:PUBLICATION_DATE: 2025-07-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.48550/arxiv.2507.01132")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4414688037"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4414688037"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4414688037"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4414688037 (Open access: True)
+    
+[[https://openalex.org/A5043247629][Brenda Nogueira]], [[https://openalex.org/A5048633127][Gabriel dos Passos Gomes]], [[https://openalex.org/A5074821819][Meng Jiang]], [[https://openalex.org/A5068157871][Nitesh V. Chawla]], [[https://openalex.org/A5047689411][Nuno Moniz]], arXiv (Cornell University). None(None)] 2025. https://doi.org/10.48550/arxiv.2507.01132  ([[http://arxiv.org/pdf/2507.01132][pdf]])
+     
+Graph-structured data is ubiquitous in scientific domains, where models often face imbalanced learning settings. In imbalanced regression, domain preferences focus on specific target value ranges that represent the most scientifically valuable cases; however, we observe a significant lack of research regarding this challenge. In this paper, we present Spectral Manifold Harmonization (SMH), a novel approach to address imbalanced regression challenges on graph-structured data by generating synthetic graph samples that preserve topological properties while focusing on the most relevant target distribution regions. Conventional methods fail in this context because they either ignore graph topology in case generation or do not target specific domain ranges, resulting in models biased toward average target values. Experimental results demonstrate the potential of SMH on chemistry and drug discovery benchmark datasets, showing consistent improvements in predictive performance for target domain ranges. Code is available at https://github.com/brendacnogueira/smh-graph-imbalance.git.    
+
+    
+
+* Connecting chemical and protein sequence space to predict biocatalytic reactions  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4414690409
+:TOPICS: Microbial Metabolic Engineering and Bioproduction, Metabolomics and Mass Spectrometry Studies, Computational Drug Discovery Methods
+:PUBLICATION_DATE: 2025-10-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41586-025-09519-5")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4414690409"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4414690409"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4414690409"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4414690409 (Open access: True)
+    
+[[https://openalex.org/A5039244003][Alan Paton]], [[https://openalex.org/A5065327102][Daniil A. Boiko]], [[https://openalex.org/A5062326194][Jonathan C. Perkins]], [[https://openalex.org/A5096130111][Nicholas Cemalovic]], [[https://openalex.org/A5081625865][Thiago Reschützegger]], [[https://openalex.org/A5048633127][Gabriel dos Passos Gomes]], [[https://openalex.org/A5002907157][Alison R. H. Narayan]], Nature. 646(8083)] 2025. https://doi.org/10.1038/s41586-025-09519-5 
+     
+No abstract    
+
+    
+
+* How Electrolyte pH Affects the Oxygen Reduction Reaction  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4414731738
+:TOPICS: Fuel Cells and Related Materials, Electrochemical sensors and biosensors, Advanced battery technologies research
+:PUBLICATION_DATE: 2025-10-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacs.5c14208")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4414731738"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4414731738"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4414731738"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4414731738 (Open access: False)
+    
+[[https://openalex.org/A5030622040][Jay T. Bender]], [[https://openalex.org/A5071284998][Rohan Yuri Sanspeur]], [[https://openalex.org/A5119366206][Nicolas Bueno Ponce]], [[https://openalex.org/A5106990669][Angel E. Valles]], [[https://openalex.org/A5106990670][Alyssa K. Uvodich]], [[https://openalex.org/A5077085087][Delia J. Milliron]], [[https://openalex.org/A5003442464][John R. Kitchin]], [[https://openalex.org/A5018687349][Joaquin Resasco]], Journal of the American Chemical Society. None(None)] 2025. https://doi.org/10.1021/jacs.5c14208 
+     
+Electrolyte pH is known to affect catalytic activity and selectivity for the oxygen reduction reaction (ORR). But a clear understanding of why ORR rates respond more strongly to pH over certain catalysts than others has not been developed. Here, we propose that pH effects on the ORR result from electric field induced changes in the binding energies of intermediates involved in kinetically relevant elementary steps. For strongly binding metals (Pt, Ir, Ru, and Pd), whose rates are limited by the proton-coupled electron transfer (PCET) step to form *OOH or remove adsorbed OH (*OH), ORR rates are weakly affected by electrolyte pH. This behavior is observed because the binding energies of the reaction intermediates in these steps are minimally affected by electric field strength. The weak pH dependence is most pronounced for Pt, which shows essentially identical rates in acidic and alkaline electrolytes. For weakly binding metals (Au, Ag), whose rates are limited by non-PCET O2 adsorption, ORR rates increase significantly when moving from acidic to alkaline electrolytes. This strong pH dependence results from the stabilization of adsorbed O2 by the increasingly negative electric field present at the catalyst surface under alkaline conditions. We argue that modifying electrolyte pH does not change the rate-determining elementary step for the ORR, but does decrease the apparent activation barrier for O2 adsorption over weakly binding catalysts. These arguments are substantiated by a combination of experimental kinetic studies and atomistic simulations.    
 
     
