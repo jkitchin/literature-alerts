@@ -1,31 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sat Oct  4 01:22:05 2025
+Created on Sun Oct  5 01:40:49 2025
 
-Found 7 results from 2025-09-27 to 2025-10-04
+Found 6 results from 2025-09-28 to 2025-10-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Dielectrophoretic Profiling of Candidozyma auris: the Effect of Glucose on Cellular Polarizability  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4414556170
-:TOPICS: Microfluidic and Bio-sensing Technologies, Magnetic and Electromagnetic Effects, Microbial Inactivation Methods
-:PUBLICATION_DATE: 2025-09-26
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsmeasuresciau.5c00084")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4414556170"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4414556170"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4414556170"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4414556170 (Open access: True)
-    
-[[https://openalex.org/A5119745646][Negar Farhang-Doost]], [[https://openalex.org/A5023468365][C. Royo]], [[https://openalex.org/A5044695139][Tagbo H. R. Niepa]], [[https://openalex.org/A5061543632][Soumya K. Srivastava]], ACS Measurement Science Au. None(None)] 2025. https://doi.org/10.1021/acsmeasuresciau.5c00084 
-     
-No abstract    
-
-    
 
 * Coordinated guidance and control for multiple parafoil system landing  :CMU_Chemical_Engineering:
 :PROPERTIES:

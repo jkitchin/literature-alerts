@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sat Oct  4 01:22:12 2025
+Created on Sun Oct  5 01:40:57 2025
 
-Found 46 results from 2025-09-27 to 2025-10-04
+Found 36 results from 2025-09-28 to 2025-10-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4402230343%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4402230343%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120)
@@ -17,94 +17,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Pr-induced dual-site oxide pathway in BiFeO3 for enhanced alkaline water oxidation   
-
-OpenAlex: https://openalex.org/W4414541340    
-Open access: False
-    
-[Rongrong Jia](https://openalex.org/A5003626878), [Y. H. Zheng](https://openalex.org/A5006131147), [Zhe Su](https://openalex.org/A5103653571), [Zhijie Yang](https://openalex.org/A5029978547), [Guoli Chen](https://openalex.org/A5101500914), [Wanting Yang](https://openalex.org/A5034068069), [Xiaoxuan Ma](https://openalex.org/A5057297741), [Yidan Liu](https://openalex.org/A5101888940), [Shoushuang Huang](https://openalex.org/A5038897688), [Lei Huang](https://openalex.org/A5115603185), [Wei Ren](https://openalex.org/A5007265691), [Shixun Cao](https://openalex.org/A5100684797), [Rongrong Jia](https://openalex.org/A5003626878), Journal of Materials Chemistry C. None(None)] 2025.https://doi.org/10.1039/d5tc02862k.
-    
-Pr doping in BiFeO 3 induces lattice distortion, tunes electronic structure and the d-band center, boosting intermediate adsorption and OPM-driven *O–O* coupling. Bi 0.6 Pr 0.4 FeO 3 @NF shows η 10 = 228 mV and stable 100 mA cm −2 for 100 h in 1 M KOH.    
-
-    
-
-## Decoding pH-dependent electrocatalysis through electric field models and microkinetic volcanoes   
-
-OpenAlex: https://openalex.org/W4414542010    
-Open access: True
-    
-[Songbo Ye](https://openalex.org/A5050097157), [Yuhang Wang](https://openalex.org/A5100449558), [Heng Liu](https://openalex.org/A5031879384), [Di Zhang](https://openalex.org/A5100366363), [Xue Jia](https://openalex.org/A5062034767), [Linda Zhang](https://openalex.org/A5052046431), [Yizhou Zhang](https://openalex.org/A5017932163), [Akichika Kumatani](https://openalex.org/A5056211024), [Hitoshi Shiku](https://openalex.org/A5025127822), [Hao Li](https://openalex.org/A5100348631), Journal of Materials Chemistry A. None(None)] 2025.https://doi.org/10.1039/d5ta06105a.
-    
-This perspective highlights advances in capturing pH-dependent surface structures, reactivity, and mechanisms via electric field-based methods.    
-
-    
-
-## High-Throughput Screening of 2D Photocatalyst Heterostructures with Suppressed Electron–Hole Recombination for Solar Water Splitting   
-
-OpenAlex: https://openalex.org/W4414542604    
-Open access: False
-    
-[Shalini S. Yadav](https://openalex.org/A5047330975), [Jigisha Modi](https://openalex.org/A5047411833), [Raihan Ahammed](https://openalex.org/A5036953516), [B. S. Bhadoria](https://openalex.org/A5049479069), [Yogesh Singh Chauhan](https://openalex.org/A5077371510), [Amit Agarwal](https://openalex.org/A5030359577), [Somnath Bhowmick](https://openalex.org/A5004606172), ACS Applied Energy Materials. None(None)] 2025.https://doi.org/10.1021/acsaem.5c02326.
-    
-No abstract    
-
-    
-
-## Research on Quantum Circuit Learning Models for Molecular Dynamics Simulation   
-
-OpenAlex: https://openalex.org/W4414543782    
-Open access: False
-    
-[Yasutaka Nishida](https://openalex.org/A5022576123), The Journal of Physical Chemistry A. None(None)] 2025.https://doi.org/10.1021/acs.jpca.5c03624.
-    
-In the past decade, many hybrid quantum-classical algorithms have been applied to various industrial fields, reflecting the growing interest in NISQ devices. For example, in the field of chemistry, many studies were conducted to calculate the energies of eigenstates with high precision. However, there is still little research on molecular dynamics using quantum computers, because traditional approaches based on variational quantum algorithms are not suitable for the long-time steps of molecular dynamics. In this study, we propose a quantum circuit learning model that estimates the eigenvalues of a given molecular Hamiltonian for an arbitrary molecular configuration. Our model must first be costly to train; however, once trained, the resulting trained model can eliminate procedures that required variational optimization each time the molecular coordinates are updated in the previous variational approach. By using the proposed model, we demonstrate that the proposed model can be used to perform simple molecular dynamics simulations, such as Langevin dynamics and NVE simulation. We also show several applications of our model inspired by classical machine learning.    
-
-    
-
-## Autonomous Droplet Microfluidic Design Framework with Large Language Models   
-
-OpenAlex: https://openalex.org/W4414554088    
-Open access: True
-    
-[Duc Minh Nguyen](https://openalex.org/A5082210240), [Raymond Kai-YuTong](https://openalex.org/A5119744873), [Ngoc‐Duy Dinh](https://openalex.org/A5049251836), ACS Omega. None(None)] 2025.https://doi.org/10.1021/acsomega.5c06253 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsomega.5c06253?ref=article_openPDF)).
-    
-Droplet-based microfluidic devices have substantial promise as cost-effective alternatives to current assessment tools in biological research. Moreover, machine learning models that leverage tabular data, including input design parameters and their corresponding efficiency outputs, are increasingly utilized to automate the design process of these devices and to predict their performance. However, these models fail to fully leverage the data presented in the tables, neglecting crucial contextual information, including column headings and their associated descriptions. This study presents μ-Fluidic-LLMs, a framework designed for processing and feature extraction, which effectively captures contextual information from tabular data formats. μ-Fluidic-LLMs overcomes processing challenges by transforming the content into a linguistic format and leveraging pretrained large language models (LLMs) for analysis. We evaluate our μ-Fluidic-LLMs framework on prediction tasks utilizing publicly available data sets on droplet microfluidics. We demonstrate that our μ-Fluidic-LLMs framework can empower deep neural network models to be highly effective and straightforward while minimizing the need for extensive data preprocessing. When combined with LLMs like LLAMA3.1 and DEEPSEEK-R1, deep neural networks achieve marked improvements, lowering the mean absolute error in generation rate by nearly 40%, reducing the root mean squared error in droplet diameter by around 26%, and enhancing regime classification accuracy by over 3% in comparison with prior results. This study lays the foundation for the huge potential applications of LLMs and machine learning in a wider spectrum of microfluidic applications.    
-
-    
-
-## Enhancing Oxygen Reduction Reaction on Mn-Doped ZnO Catalysts: Structural, Electronic, and Mechanistic Insights for Selective Peroxide Production   
-
-OpenAlex: https://openalex.org/W4414556981    
-Open access: True
-    
-[Cristina Martı́nez](https://openalex.org/A5014236130), [Alannisse M. Santos-Rivera](https://openalex.org/A5117499791), [Néstor Pardo García](https://openalex.org/A5005897787), [Horacio González](https://openalex.org/A5101719715), [Joshua A. Ortiz-Fernandez](https://openalex.org/A5117499792), [Joesene J. Soto](https://openalex.org/A5083274744), [Antoní Torres](https://openalex.org/A5100752902), [Juan A. Santana](https://openalex.org/A5068845345), [Christopher J. Pollock](https://openalex.org/A5020585665), [Héctor D. Abruña](https://openalex.org/A5042053197), [M. Santiago-Berrios](https://openalex.org/A5010328804), Research Square (Research Square). None(None)] 2025.https://doi.org/10.21203/rs.3.rs-7518552/v1 ([pdf](https://www.researchsquare.com/article/rs-7518552/latest.pdf)).
-    
-Abstract In this work, we investigate manganese-doped ZnO catalysts for the oxygen reduction reaction (ORR) in alkaline media, combining structural characterization, electrochemical analysis, and density functional theory (DFT) calculations. XRD confirms that Mn doping preserves the wurtzite ZnO structure while inducing lattice distortions and vibrational shifts indicative of manganese incorporation. XPS analysis reveals that Mn3⁺ is the dominant surface species, which is confirmed by x-ray absorption and emission spectroscopic measurements. Electrochemically, Mn-doped ZnO exhibits enhanced catalytic performance, with increased limiting current density and slight improvements in onset potential compared to pure ZnO. DFT calculations indicate that, while the overall thermodynamics of peroxide formation remain similar, the incorporation of Mn significantly stabilizes the *–OOH intermediate, thereby reducing the energy requirement for this key step. Together, these findings demonstrate that manganese doping improves ORR activity by modifying the electronic structure and enhancing reaction kinetics, offering valuable insights for the design of efficient ZnO-based electrocatalysts for selective H₂O₂ production.    
-
-    
-
-## Adsorption Dynamics and Electric Double Layer Properties at Pt(100) Electrodes   
-
-OpenAlex: https://openalex.org/W4414560056    
-Open access: True
-    
-[Haiting Yu](https://openalex.org/A5000605779), [Renata Sechi](https://openalex.org/A5059804594), [Qingdian Liao](https://openalex.org/A5020359832), [M.S. Nissen](https://openalex.org/A5083361673), [Arghya Bhowmik](https://openalex.org/A5023121476), [Elena L. Gubanova](https://openalex.org/A5067906129), [Kun‐Ting Song](https://openalex.org/A5021982220), [Heine Anton Hansen](https://openalex.org/A5015539284), [Aliaksandr S. Bandarenka](https://openalex.org/A5082470409), Advanced Materials Interfaces. None(None)] 2025.https://doi.org/10.1002/admi.202500680 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/admi.202500680)).
-    
-Abstract The electrode‐electrolyte interface governs many functional properties and processes, such as reaction rates, efficiency, and selectivity in electrochemical systems, with its structure and physicochemical phenomena being crucial for optimizing energy conversion and storage technologies. Platinum (Pt) is a state‐of‐the‐art catalyst for numerous electrocatalytic reactions. While Pt(111) is extensively studied, atomic‐level insights into interfacial properties of another basic surface, Pt(100), remain unresolved. Here, experimental techniques and first‐principles calculations are utilized to investigate adsorption behavior and adsorbate coverage at varying potentials as well as interfacial entropy in acidic media. The results reveal four voltammetric peak features: below peak I, hydrogen is the predominant adsorbate; between peak II and peak III, a mixed adsorption region with 22% hydroxide and 44% hydrogen forms, while at higher potentials, hydroxide coverage increases. The double‐layer structure is also explored, finding sensitivity of the double‐layer capacitance to electrode surface structure. For the first time, by combining in situ laser‐induced current transient and Raman spectroscopy, two potential values of maximum entropy are identified, indicating enhanced disorder and facilitated charge transfer, supported by disruption of the hydrogen‐bond network due to increased dangling bonds. These insights guide the rational design of efficient electrode‐electrolyte interfaces in Pt‐based nanostructured materials.    
-
-    
-
-## Computational Design of Ptm (M = Au, Ir, Pd, Rh, and Ru) Binary Alloys for Enhanced Ammonia Oxidation Electrocatalysis   
-
-OpenAlex: https://openalex.org/W4414565031    
-Open access: True
-    
-[Brendan J. R. Laframboise](https://openalex.org/A5093124850), [Julia Coveny](https://openalex.org/A5119260823), [Jingwen Zhou](https://openalex.org/A5011448167), [Leanne D. Chen](https://openalex.org/A5064220412), ChemElectroChem. None(None)] 2025.https://doi.org/10.1002/celc.202500288 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/celc.202500288)).
-    
-The electrochemical ammonia oxidation reaction (AOR) shows considerable potential for its applications in waste removal and the production of clean energy. While Pt remains the most investigated catalyst for this reaction, its limitations have prompted research into Pt‐based bimetallic alloys. This study investigates both uniform and mixed PtM (M = Au, Ir, Pd, Rh, and Ru) alloys as catalysts for the AOR using density functional theory (DFT). A systematic selection method is used to choose suitable surfaces for testing. The findings indicate that the Oswin–Salomon mechanism is preferred across all surfaces for N 2 (g) formation. Additionally, the results demonstrate that mixed alloys exhibit superior catalytic activity compared to uniform alloys for the AOR. It is found that the atoms in the topmost layer of the alloy are the most significant factor in influencing catalytic activity. Furthermore, the linear relationship between the ‐band center and adsorption energy of key intermediate *NH 2 is confirmed in this work, highlighting the effect of the secondary metal on the electronic structure of the catalyst. The findings provide theoretical insights for the design of high‐performance Pt alloys for AOR and serve as a general guideline for modulating the reactivity of binary alloys for electrocatalysis.    
-
-    
 
 ## Layer-Dependent Nitrate Reduction on 2D Bismuth: p-Orbital Delocalization Breaks the “Thinner-is-Better” Paradigm   
 
@@ -465,7 +377,7 @@ Open access: True
     
 [Tobias Hainer](https://openalex.org/A5119178693), [Erik Fransson](https://openalex.org/A5039387793), [Sangita Dutta](https://openalex.org/A5073987848), [Julia Wiktor](https://openalex.org/A5081702682), [Paul Erhart](https://openalex.org/A5062333252), Nature Communications. 16(1)] 2025.https://doi.org/10.1038/s41467-025-64526-4.
     
-No abstract    
+Abstract Understanding the phase behavior of mixed-cation halide perovskites is critical for optimizing their structural stability and optoelectronic performance. Here, we map the phase diagram of MA 1− x FA x PbI 3 using a machine-learned interatomic potential in molecular dynamics simulations. We identify a morphotropic phase boundary (MPB) at approximately 27% FA content, delineating the transition between out-of-phase and in-phase octahedral tilt patterns. Phonon mode projections reveal that this transition coincides with a mode crossover composition, where the free energy landscapes of the M and R phonon modes become nearly degenerate. This results in nanoscale layered structures with alternating tilt patterns, suggesting minimal interface energy between competing phases. Our results provide a systematic and consistent description of this important system, complementing earlier partial and sometimes conflicting experimental assessments. Furthermore, density functional theory calculations show that band edge fluctuations peak near the MPB, indicating an enhancement of electron-phonon coupling and dynamic disorder effects. These findings establish a direct link between phonon dynamics, phase behavior, and electronic structure, providing a further composition-driven pathway for tailoring the optoelectronic properties of perovskite materials. By demonstrating that phonon overdamping serves as a hallmark of the MPB, our study offers insights into the design principles for stable, high-performance perovskite solar cells.    
 
     
 
@@ -497,28 +409,6 @@ OpenAlex: https://openalex.org/W4414767807
 Open access: False
     
 [R.J. Zhang](https://openalex.org/A5070040215), [Siwei Dong](https://openalex.org/A5101957772), [Nan Mu](https://openalex.org/A5057745808), [R. R. Xu](https://openalex.org/A5075490921), [Yanyu Liu](https://openalex.org/A5052363865), [Wei Zhou](https://openalex.org/A5111050866), Applied Surface Science. None(None)] 2025.https://doi.org/10.1016/j.apsusc.2025.164791.
-    
-No abstract    
-
-    
-
-## Surface-Dependent Interfacial Concentration of Oxygen Confined within Pd Interlayers: Molecular Dynamics with a Neural Network Potential   
-
-OpenAlex: https://openalex.org/W4414542564    
-Open access: False
-    
-[Feicheng Huan](https://openalex.org/A5092596896), [Feng Shi](https://openalex.org/A5103136359), [Gaoyang Luo](https://openalex.org/A5111059777), [Xiang Pan](https://openalex.org/A5101686821), [Jingnan Zheng](https://openalex.org/A5036675747), [Jianguo Wang](https://openalex.org/A5100336346), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.5c15915.
-    
-Obtaining a detailed understanding of the interfacial dynamics of oxygen on palladium surfaces is crucial for industrial applications. However, it remains challenging to develop reaction–transport coupling mechanisms to enhance the activity and stability of Pd-based catalysts in confined environments. Herein, by integrating the established global neural network (G-NN) potential and molecular dynamics (MD) simulations, the interfacial concentrations of confined O2 molecules within Pd interlayers were investigated systematically under various conditions. The developed reactive NN potential, rigorously validated against DFT benchmarks with an average error of 0.026 eV/atom, demonstrated precise structural discrimination capabilities among three Pd surfaces and subsequently produced reasonable catalytic structures. The Pd(100) surface exhibited the highest reactivity, followed by Pd(211), with the lowest on Pd(111). These differences show strong correlations with a reduced interlayer distance (approximately 1 nm) and the degree of surface reconstruction patterns through a comprehensive analysis of mean square displacement and reaction rate. Density distribution, in conjunction with radial distribution function analyses, further demonstrates how the interlayer confinement effect, as well as surface-specific atomic arrangements, remarkably regulate the interfacial concentration of oxygen. This work provides universal guidance for elucidating the macroscopic mechanism linking the bulk and interfacial concentrations in confined systems through large-scale simulations.    
-
-    
-
-## Boosting the HER performance of binary MnO2–CdSe heterostructure via interface engineering with g-C3N4   
-
-OpenAlex: https://openalex.org/W4414567339    
-Open access: False
-    
-[Tauseef Munawar](https://openalex.org/A5056104466), [Ambreen Bashir](https://openalex.org/A5015371105), [Zhida Wang](https://openalex.org/A5056379902), [Zhiming Tu](https://openalex.org/A5072998693), [Lisha Shen](https://openalex.org/A5077247093), [Muhammad Rafaqat](https://openalex.org/A5102887947), [Jueshuo Fan](https://openalex.org/A5016224292), [Muammer Koç‬](https://openalex.org/A5060990652), [Faisal Iqbal](https://openalex.org/A5004262523), [Chang-Feng Yan](https://openalex.org/A5100780634), International Journal of Hydrogen Energy. 179(None)] 2025.https://doi.org/10.1016/j.ijhydene.2025.151729.
     
 No abstract    
 

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 04 Oct 2025 01:22:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 01:40:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Dielectrophoretic Profiling of &lt;i&gt;Candidozyma auris&lt;/i&gt;: the Effect of Glucose on Cellular Polarizability</title>
-      <link>https://doi.org/10.1021/acsmeasuresciau.5c00084</link>
-      <description>Negar Farhang-Doost, C. Royo, Tagbo H. R. Niepa, Soumya K. Srivastava, ACS Measurement Science Au. None(None)] 2025. https://openalex.org/W4414556170
-
-                No abstract</description>
-      <author>Negar Farhang-Doost, C. Royo, Tagbo H. R. Niepa, Soumya K. Srivastava</author>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsmeasuresciau.5c00084</guid>
-    </item>
     <item>
       <title>Coordinated guidance and control for multiple parafoil system landing</title>
       <link>https://doi.org/10.48550/arxiv.2505.18691</link>
