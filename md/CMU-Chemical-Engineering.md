@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun Oct  5 01:40:49 2025
+Created on Mon Oct  6 01:26:52 2025
 
-Found 6 results from 2025-09-28 to 2025-10-05
+Found 6 results from 2025-09-29 to 2025-10-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Coordinated guidance and control for multiple parafoil system landing   
-
-OpenAlex: https://openalex.org/W4414581602    
-Open access: True
-    
-[Zhenyu Wei](https://openalex.org/A5054103149), [Zhijiang Shao](https://openalex.org/A5100886581), [Lorenz T. Biegler](https://openalex.org/A5052825722), arXiv (Cornell University). None(None)] 2025.https://doi.org/10.48550/arxiv.2505.18691 ([pdf](http://arxiv.org/pdf/2505.18691)).
-    
-Multiple parafoil landing is an enabling technology for massive supply delivery missions. However, it is still an open question to design a collision-free, computation-efficient guidance and control method for unpowered parafoils. To address this issue, this paper proposes a coordinated guidance and control method for multiple parafoil landing. First, the multiple parafoil landing process is formulated as a trajectory optimization problem. Then, the landing point allocation algorithm is designed to assign the landing point to each parafoil. In order to guarantee flight safety, the collision-free trajectory replanning algorithm is designed. On this basis, the nonlinear model predictive control algorithm is adapted to leverage the nonlinear dynamics model for trajectory tracking. Finally, the parafoil kinematic model is utilized to reduce the computational burden of trajectory calculation, and kinematic model is updated by the moving horizon correction algorithm to improve the trajectory accuracy. Simulation results demonstrate the effectiveness and computational efficiency of the proposed coordinated guidance and control method for the multiple parafoil landing.    
-
-    
 
 ## Isoprene chemistry under upper-tropospheric conditions   
 
@@ -69,5 +58,16 @@ Open access: False
 [Jay T. Bender](https://openalex.org/A5030622040), [Rohan Yuri Sanspeur](https://openalex.org/A5071284998), [Nicolas Bueno Ponce](https://openalex.org/A5119366206), [Angel E. Valles](https://openalex.org/A5106990669), [Alyssa K. Uvodich](https://openalex.org/A5106990670), [Delia J. Milliron](https://openalex.org/A5077085087), [John R. Kitchin](https://openalex.org/A5003442464), [Joaquin Resasco](https://openalex.org/A5018687349), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.5c14208.
     
 Electrolyte pH is known to affect catalytic activity and selectivity for the oxygen reduction reaction (ORR). But a clear understanding of why ORR rates respond more strongly to pH over certain catalysts than others has not been developed. Here, we propose that pH effects on the ORR result from electric field induced changes in the binding energies of intermediates involved in kinetically relevant elementary steps. For strongly binding metals (Pt, Ir, Ru, and Pd), whose rates are limited by the proton-coupled electron transfer (PCET) step to form *OOH or remove adsorbed OH (*OH), ORR rates are weakly affected by electrolyte pH. This behavior is observed because the binding energies of the reaction intermediates in these steps are minimally affected by electric field strength. The weak pH dependence is most pronounced for Pt, which shows essentially identical rates in acidic and alkaline electrolytes. For weakly binding metals (Au, Ag), whose rates are limited by non-PCET O2 adsorption, ORR rates increase significantly when moving from acidic to alkaline electrolytes. This strong pH dependence results from the stabilization of adsorbed O2 by the increasingly negative electric field present at the catalyst surface under alkaline conditions. We argue that modifying electrolyte pH does not change the rate-determining elementary step for the ORR, but does decrease the apparent activation barrier for O2 adsorption over weakly binding catalysts. These arguments are substantiated by a combination of experimental kinetic studies and atomistic simulations.    
+
+    
+
+## Long-term measurements of wind and turbulence from a calibrated 1290 MHz radar wind profiler at the Eastern North Atlantic atmospheric observatory   
+
+OpenAlex: https://openalex.org/W4414822723    
+Open access: True
+    
+[August Mikkelsen](https://openalex.org/A5115775480), [Virendra P. Ghate](https://openalex.org/A5048715153), [Daniel T. McCoy](https://openalex.org/A5052404448), [Hamish Gordon](https://openalex.org/A5086004922), No host. None(None)] 2025.https://doi.org/10.5194/egusphere-2025-4434.
+    
+Abstract. Turbulence in the marine boundary layer is closely coupled with the physical properties of marine boundary layer clouds. However, these turbulent motions are difficult to observe, resulting in very few observations of turbulence properties over the open oceans. In this work data collected by the 1290 MHz Radar Wind Profiler (RWP) part of the Atmospheric Radiation Measurement (ARM) Eastern North Atlantic (ENA) site are used to characterize winds and boundary layer turbulence. The RWP wind, precipitation long pulse and precipitation short pulse modes were calibrated using the surface laser disdrometer. Over the 10 years of data analyzed here, the RWP wind mode calibration constant, sensitivity, and dynamic range fluctuated between -84 to -44 dB, -15 to 9 dBZ, and 12 to 21 dBZ, respectively. The clear-air RWP echoes were used to derive structure function of the refractive index (Cn2) and dissipation rates of turbulence kinetic energy (ε). Both Cn2 and ε decreased from surface upwards with higher values in the winter months and lower values in the summer months consistent with previous studies. Despite the marine location, the ε was affected by island heating during southerly wind conditions. The results reported herein have implications for RWP operational research and climatological studies at the ARM ENA site.    
 
     

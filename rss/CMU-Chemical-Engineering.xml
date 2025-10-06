@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 05 Oct 2025 01:40:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 01:26:52 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Coordinated guidance and control for multiple parafoil system landing</title>
-      <link>https://doi.org/10.48550/arxiv.2505.18691</link>
-      <description>Zhenyu Wei, Zhijiang Shao, Lorenz T. Biegler, arXiv (Cornell University). None(None)] 2025. https://openalex.org/W4414581602
-
-                Multiple parafoil landing is an enabling technology for massive supply delivery missions. However, it is still an open question to design a collision-free, computation-efficient guidance and control method for unpowered parafoils. To address this issue, this paper proposes a coordinated guidance and control method for multiple parafoil landing. First, the multiple parafoil landing process is formulated as a trajectory optimization problem. Then, the landing point allocation algorithm is designed to assign the landing point to each parafoil. In order to guarantee flight safety, the collision-free trajectory replanning algorithm is designed. On this basis, the nonlinear model predictive control algorithm is adapted to leverage the nonlinear dynamics model for trajectory tracking. Finally, the parafoil kinematic model is utilized to reduce the computational burden of trajectory calculation, and kinematic model is updated by the moving horizon correction algorithm to improve the trajectory accuracy. Simulation results demonstrate the effectiveness and computational efficiency of the proposed coordinated guidance and control method for the multiple parafoil landing.</description>
-      <author>Zhenyu Wei, Zhijiang Shao, Lorenz T. Biegler</author>
-      <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2505.18691</guid>
-    </item>
     <item>
       <title>Isoprene chemistry under upper-tropospheric conditions</title>
       <link>https://doi.org/10.1038/s41467-025-64229-w</link>
@@ -66,6 +56,16 @@
       <author>Jay T. Bender, Rohan Yuri Sanspeur, Nicolas Bueno Ponce, Angel E. Valles, Alyssa K. Uvodich, Delia J. Milliron, John R. Kitchin, Joaquin Resasco</author>
       <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c14208</guid>
+    </item>
+    <item>
+      <title>Long-term measurements of wind and turbulence from a calibrated 1290 MHz radar wind profiler at the Eastern North Atlantic atmospheric observatory</title>
+      <link>https://doi.org/10.5194/egusphere-2025-4434</link>
+      <description>August Mikkelsen, Virendra P. Ghate, Daniel T. McCoy, Hamish Gordon, No host. None(None)] 2025. https://openalex.org/W4414822723
+
+                Abstract. Turbulence in the marine boundary layer is closely coupled with the physical properties of marine boundary layer clouds. However, these turbulent motions are difficult to observe, resulting in very few observations of turbulence properties over the open oceans. In this work data collected by the 1290 MHz Radar Wind Profiler (RWP) part of the Atmospheric Radiation Measurement (ARM) Eastern North Atlantic (ENA) site are used to characterize winds and boundary layer turbulence. The RWP wind, precipitation long pulse and precipitation short pulse modes were calibrated using the surface laser disdrometer. Over the 10 years of data analyzed here, the RWP wind mode calibration constant, sensitivity, and dynamic range fluctuated between -84 to -44 dB, -15 to 9 dBZ, and 12 to 21 dBZ, respectively. The clear-air RWP echoes were used to derive structure function of the refractive index (Cn2) and dissipation rates of turbulence kinetic energy (&#949;). Both Cn2 and &#949; decreased from surface upwards with higher values in the winter months and lower values in the summer months consistent with previous studies. Despite the marine location, the &#949; was affected by island heating during southerly wind conditions. The results reported herein have implications for RWP operational research and climatological studies at the ARM ENA site.</description>
+      <author>August Mikkelsen, Virendra P. Ghate, Daniel T. McCoy, Hamish Gordon</author>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2025-4434</guid>
     </item>
   </channel>
 </rss>
