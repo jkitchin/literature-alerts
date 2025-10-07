@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 06 Oct 2025 01:27:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 01:25:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Machine Learning the Energetics of Electrified Solid-Liquid Interfaces</title>
-      <link>https://doi.org/10.1103/lm64-m3bn</link>
-      <description>Nicolas Bergmann, Nic&#233;phore Bonnet, Nicola Marzari, Karsten Reuter, Nicolas G. H&#246;rmann, Physical Review Letters. 135(14)] 2025. https://openalex.org/W4414596235
-
-                We present a response-augmented machine-learning (ML) approach to the energetics of electrified metal surfaces. We leverage local descriptors to learn the work function as the first-order energy change to introduced bias charges and stabilize this learning through Born effective charges. This permits the efficient extension of ML interatomic potential architectures to include finite bias effects up to second order. Application to OH at Cu(100) rationalizes the experimentally observed pH dependence of the preferred adsorption site in terms of a non-Nernstian charge-induced site switching.</description>
-      <author>Nicolas Bergmann, Nic&#233;phore Bonnet, Nicola Marzari, Karsten Reuter, Nicolas G. H&#246;rmann</author>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/lm64-m3bn</guid>
-    </item>
-    <item>
-      <title>Enhanced Hydrogen Evolution Using &#946;-MnO&lt;sub&gt;2&lt;/sub&gt; Monolayer on Ni Electrode with Engineered Oxygen Vacancies</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c03585</link>
-      <description>Farah Rahman, Abdul Ahad Mamun, Auronno Ovid Hussain, Muhammad Anisuzzaman Talukder, The Journal of Physical Chemistry C. 129(38)] 2025. https://openalex.org/W4414596781
-
-                Developing cost-effective and high-performance electrodes is critical for advancing hydrogen (H2) production through electrochemical water splitting. In this study, we present a novel electrode design by integrating a &#946;-MnO2 monolayer onto a conventional Ni(100) substrate (MnO2(110)/Ni(100)). This work uniquely explores the influence of oxygen vacancies (OVs) at distinct sites&#9472;Osub-top and bridge sites&#9472;on both the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER). Our findings reveal that the Osub-top vacancy (OOV-MnO2(110)/Ni(100)) significantly enhances HER activity, achieving a hydrogen Gibbs free energy (&#916;GH) of &#8722;0.015 eV, which surpasses the performance of noble metals such as Pt/C (&#8722;0.082 eV) and Ir (&#8722;0.08 eV). Additionally, the cathodic exchange current density (J0,c) of OOV-MnO2(110)/Ni(100) reaches 10&#8211;0.774 Acm&#8211;2, outperforming Pt/C (10&#8211;0.92 Acm&#8211;2) and Ir (10&#8211;1.44 Acm&#8211;2). Electrochemical analysis confirms a cathodic activation overpotential (&#951;a,c) of 0.141 V at 10 mAcm&#8211;2 in a 0.5 M H2SO4 solution, achieving a hydrogen production rate (HPR) of 0.91 mmolh&#8211;1cm&#8211;2 at an applied voltage (Vapp) of 1.60 V. This study provides the first comprehensive analysis of site-specific oxygen vacancy effects on bifunctional MnO2-based electrodes, demonstrating superior HER activity while maintaining dual functionality for both cathodic and anodic processes. Our results highlight the potential of engineered oxygen vacancies to develop low-cost, high-efficiency electrodes for sustainable hydrogen production, offering a competitive alternative to precious metal-based catalysts.</description>
-      <author>Farah Rahman, Abdul Ahad Mamun, Auronno Ovid Hussain, Muhammad Anisuzzaman Talukder</author>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c03585</guid>
-    </item>
     <item>
       <title>Lattice expansion of hybrid perovskite inhibits halogen interstitial generation and enhances solar cell performance</title>
       <link>https://doi.org/10.1038/s41467-025-63693-8</link>
