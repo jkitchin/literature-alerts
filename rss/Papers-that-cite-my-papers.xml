@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 07 Oct 2025 01:25:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 01:25:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Lattice expansion of hybrid perovskite inhibits halogen interstitial generation and enhances solar cell performance</title>
-      <link>https://doi.org/10.1038/s41467-025-63693-8</link>
-      <description>Tongtong Lu, Zhiya Dang, Yuqing Luo, Li Yang, Xiaobin Rao, Zhe Zhang, Yuecheng Hu, Zelong Chen, Zihao Li, Urko Petralanda, Jiangsheng Xie, Jiancan Yu, Pingqi Gao, Nature Communications. 16(1)] 2025. https://openalex.org/W4414601641
-
-                One of the primary challenges for halide perovskite technology lies in its instability. Water is a ubiquitous environmental factor known to induce lattice expansion to perovskite. Lattice expansion has been proven beneficial to perovskite solar cell, but little is known about its role in lattice stability. In this work, we expose perovskites with pre-adsorbed water to vacuum and investigate the evolution of their structure. Our results show that vacuum induces water desorption and results in the removal of lattice expansion. This lattice recovery leads to an increasing lattice distortion, ultimately favoring the formation of halogen trimers in the case of hybrid perovskites. We thus find that the lack of lattice expansion facilitates the generation of defects detrimental to hybrid perovskite devices. Here, we report the crucial role of lattice expansion in preventing degradation of hybrid halide perovskites, which is of critical importance in the context of solar cell fabrication. Water adsorption is known to induce lattice expansion to perovskite. This work reveals that the elimination of lattice expansion causes formation of detrimental defects in hybrid perovskite, highlighting its critical role in lattice stability.</description>
-      <author>Tongtong Lu, Zhiya Dang, Yuqing Luo, Li Yang, Xiaobin Rao, Zhe Zhang, Yuecheng Hu, Zelong Chen, Zihao Li, Urko Petralanda, Jiangsheng Xie, Jiancan Yu, Pingqi Gao</author>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-63693-8</guid>
-    </item>
-    <item>
-      <title>Gas-phase fluorination of boron nitride nanotubes</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.164744</link>
-      <description>Sadeepa Amarathunga, Dan Villamanca, Nicolas Batisse, Chengyi Liu, Dong Jun Kim, Alister J. Page, Marc Dubois, Xianjue Chen, Applied Surface Science. None(None)] 2025. https://openalex.org/W4414606467
-
-                No abstract</description>
-      <author>Sadeepa Amarathunga, Dan Villamanca, Nicolas Batisse, Chengyi Liu, Dong Jun Kim, Alister J. Page, Marc Dubois, Xianjue Chen</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.164744</guid>
-    </item>
-    <item>
-      <title>Single-atom cobalt on N-doped reduced graphene oxide pushes the oxygen reduction reaction toward 4-electron pathway</title>
-      <link>https://doi.org/10.1038/s41699-025-00604-x</link>
-      <description>Francesca Risplendi, Nadia Garino, Juqin Zeng, Adriano Sacco, Shweta Mehta, Chiara Deriu, Laura Fabris, M. Fontana, Angelica Chiodoni, Giancarlo Cicero, Micaela Castellino, npj 2D Materials and Applications. 9(1)] 2025. https://openalex.org/W4414607158
-
-                No abstract</description>
-      <author>Francesca Risplendi, Nadia Garino, Juqin Zeng, Adriano Sacco, Shweta Mehta, Chiara Deriu, Laura Fabris, M. Fontana, Angelica Chiodoni, Giancarlo Cicero, Micaela Castellino</author>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41699-025-00604-x</guid>
-    </item>
-    <item>
-      <title>Atomically Dispersed Zr&#8208;N Moieties Modulate Fe Coordination for Robust Oxygen Reduction Electrocatalysis</title>
-      <link>https://doi.org/10.1002/advs.202512381</link>
-      <description>Shujun Qiu, Hao Wan, Yuechao Yao, Xiao Xu, Zhangjian Li, Yongbiao Mu, Biaolin Peng, Hongliang Wu, Jizhao Zou, Lin Zeng, Advanced Science. None(None)] 2025. https://openalex.org/W4414609666
-
-                Abstract Iron&#8208;nitrogen&#8208;carbon (Fe&#8208;N&#8208;C) materials are promising non&#8208;precious metal catalysts for the oxygen reduction reaction (ORR), yet their long&#8208;term stability remains a critical challenge due to the dissolution of Fe&#8208;based active sites and corrosion of the carbon support. Here, a Fe&#8208;Zr dual&#8208;atom carbon&#8208;based catalyst (Fe,Zr&#8208;NC) via a one&#8208;step solid&#8208;state synthesis method is reported. The introduction of atomically dispersed Zr&#8211;N units adjacent to Fe&#8211;N 4 centers creates a dual&#8208;metal coordination structure that modulates the local electronic environment of Fe and weakens * OH adsorption, which is the rate&#8208;limiting step in the ORR process. Density functional theory (DFT) calculations reveal that the Fe&#8211;Zr synergy positions the catalyst near the apex of the ORR activity volcano. Extended experimental EXAFS confirms a Fe&#8211;Zr distance of &#8776;3.30 &#197;, closely matching the theoretical optimum (&#8776;3.39 &#197;). As a result, Fe, Zr&#8208;NC achieves a high half&#8208;wave potential (0.891 V vs reversible hydrogen electrode (RHE)) with negligible activity loss over 5000 cyclic voltammetry cycles, outperforming commercial Pt/C. In zinc&#8211;air batteries, the catalyst delivers a peak power density of 185.7 mW cm &#8722;2 and operates stably for over 453 h. This work highlights the importance of dual&#8208;atom synergy in tuning intermediate binding energies and provides design principles for next&#8208;generation ORR electrocatalysts.</description>
-      <author>Shujun Qiu, Hao Wan, Yuechao Yao, Xiao Xu, Zhangjian Li, Yongbiao Mu, Biaolin Peng, Hongliang Wu, Jizhao Zou, Lin Zeng</author>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/advs.202512381</guid>
-    </item>
-    <item>
-      <title>Colloidal synthesis of low-dispersity high entropy rock-salt oxide nanoparticles</title>
-      <link>https://doi.org/10.1039/d5cc03836g</link>
-      <description>Jonathan L. Rowell, Aditya A. Joshi, H. S. Tan, Dasol Yoon, David A. Muller, Richard D. Robinson, Chemical Communications. None(None)] 2025. https://openalex.org/W4414616310
-
-                A novel synthesis route torwards small (&lt;5 nm), low-dispersity (&lt;20%) high entropy and multi-metal rock-salt oxide nanoparticles is described.</description>
-      <author>Jonathan L. Rowell, Aditya A. Joshi, H. S. Tan, Dasol Yoon, David A. Muller, Richard D. Robinson</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5cc03836g</guid>
-    </item>
-    <item>
-      <title>Interface electronic coupling engineering of Ni(OH)x/Mo-Ni3S2 nanosheet heterostructure for enhanced alkaline hydrogen evolution</title>
-      <link>https://doi.org/10.1016/j.fuel.2025.136978</link>
-      <description>Xin Zhang, Xiangyun Sun, Li Li, Xinli Zhang, Ao-Bing Wang, Huijuan Xu, Lijun Gao, Yaohui Gao, Hui Liu, Fuel. 406(None)] 2025. https://openalex.org/W4414620898
-
-                No abstract</description>
-      <author>Xin Zhang, Xiangyun Sun, Li Li, Xinli Zhang, Ao-Bing Wang, Huijuan Xu, Lijun Gao, Yaohui Gao, Hui Liu</author>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.136978</guid>
-    </item>
     <item>
       <title>Boron and Nitrogen Bridged Mn Single&#8208;Atom Catalyst for Highly Efficient Nitrogen Electroreduction to Ammonia</title>
       <link>https://doi.org/10.1002/smll.202507387</link>
@@ -398,6 +338,96 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adma.202511220</guid>
     </item>
     <item>
+      <title>Selective Carbon Dioxide-to-Formic Acid Conversion via Composition and Vacancy Engineering of MoxNbyV1-(x+y)Se2 Alloys</title>
+      <link>https://doi.org/10.1007/s11814-025-00555-5</link>
+      <description>Getasew Mulualem Zewdie, Hong Seok Kang, Hyeyoung Shin, Korean Journal of Chemical Engineering. None(None)] 2025. https://openalex.org/W4414827683
+
+                No abstract</description>
+      <author>Getasew Mulualem Zewdie, Hong Seok Kang, Hyeyoung Shin</author>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11814-025-00555-5</guid>
+    </item>
+    <item>
+      <title>Strained-Induced Morphological Reconstruction of RuO&lt;sub&gt;2&lt;/sub&gt;(110) Thin-Film Electrocatalysts</title>
+      <link>https://doi.org/10.1021/jacs.5c08607</link>
+      <description>Jacob Som, Austin Jerad Reese, Luka Mitrovic, R. Soyoung Kim, Shay McBride, Swapnil Nalawade, Shyam Aravamudhan, Geoffroy Hautier, Junko Yano, Darrell G. Schlom, Jin Suntivich, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4414843702
+
+                Strain is a widely used strategy for electrocatalyst engineering. Overstraining, however, can lead to unintentional materials transformation. We investigate the impact of strain on the surface morphology of a rutile RuO2(110) film grown on a symmetry-matching rutile TiO2(110) substrate. When the film thickness exceeds 9 nm, the RuO2 surface relaxes by forming step edges that expose the {011} plane. Density functional theory (DFT) calculation shows that the (011) facet is among the lower energy surfaces of rutile RuO2, suggesting that this formation incurs minimal energetic penalties. In situ atomic force microscopy (AFM) shows that the film maintains the (110) structure of the terrace during electrochemistry. Inductively coupled plasma-mass spectrometry (ICP-MS) further reveals the insensitivity of the Ru dissolution to strain. Our findings show a strain-relieving pathway via surface reconstruction in RuO2(110) and provide an example of a strain-relieving mechanism that does not affect dissolution.</description>
+      <author>Jacob Som, Austin Jerad Reese, Luka Mitrovic, R. Soyoung Kim, Shay McBride, Swapnil Nalawade, Shyam Aravamudhan, Geoffroy Hautier, Junko Yano, Darrell G. Schlom, Jin Suntivich</author>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c08607</guid>
+    </item>
+    <item>
+      <title>Spin&#8208;State Reconfiguration and Lattice Oxygen Activation Co&#8208;Mediated Oxygen Evolution Catalysis Pathway via Artificial Hetero&#8208;Sites for Rechargeable Zn&#8211;Air Batteries</title>
+      <link>https://doi.org/10.1002/adfm.202514933</link>
+      <description>Hongmei Tang, Maohong Fan, Lin Lv, Gang Cheng, Fei Han, Junhua Zou, Qing Gong, Zhenxiong Huang, Xiaoping Chen, Bohong Chen, Houzhao Wan, Hao Wang, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4414845333
+
+                Abstract It is desirable but challenging to develop low&#8208;cost and high&#8208;performance electrocatalysts for the oxygen evolution reaction (OER) in zinc&#8211;air batteries (ZABs) applications. In this work, a series of cerium oxide&#8208;coated cobalt vanadium oxide nanoplates (denoted as CVO@CeO 2 ) are prepared using different CeO 2 loadings through a facile two&#8208;step method. Compared to bare CVO, CeO 2, and commercial RuO 2 , the CVO@CeO 2 &#8208;0.20 catalyst presents much higher activity toward OER in alkaline solutions. Moreover, the CVO@CeO 2 &#8208;0.20 also exhibits superior open&#8208;circuit voltage and durability when utilized as the cathode in ZABs. Both theoretical calculations and experimental results disclose that the decoration of CeO 2 on CVO not only regulates the formation of high&#8208;spin state Co 3+ , optimizing the absorbate evolution mechanism (AEM) pathway, but also activates lattice oxygen, enhancing the lattice oxide oxidation mechanism (LOM) pathway. This research presents the CVO@CeO 2 heterojunction as an excellent catalyst for the OER and proposes a promising interface&#8208;regulated strategy for developing catalysts based on the reinforcement of AEM and LOM mechanisms.</description>
+      <author>Hongmei Tang, Maohong Fan, Lin Lv, Gang Cheng, Fei Han, Junhua Zou, Qing Gong, Zhenxiong Huang, Xiaoping Chen, Bohong Chen, Houzhao Wan, Hao Wang</author>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202514933</guid>
+    </item>
+    <item>
+      <title>Enhancing hydrogen evolution reaction performance of ZnIn2S4-Based single atom catalysts via surface vacancies and interlayer charge transfer</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.151790</link>
+      <description>Wenli Xie, Bin Cui, Desheng Liu, Haicai Huang, Chuan&#8208;Lu Yang, International Journal of Hydrogen Energy. 183(None)] 2025. https://openalex.org/W4414860439
+
+                No abstract</description>
+      <author>Wenli Xie, Bin Cui, Desheng Liu, Haicai Huang, Chuan&#8208;Lu Yang</author>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.151790</guid>
+    </item>
+    <item>
+      <title>Mechanistic Understanding of Laser&#8208;Induced Defect Engineering of Anisotropic Cobalt Oxide Spinel Platelets in Water</title>
+      <link>https://doi.org/10.1002/cctc.202501054</link>
+      <description>Dana Schellenburg, Thomas Bihnam, Carsten Placke&#8208;Yan, Georg Bendt, Oleg Prymak, Takuma Sato, Dylan Jennings, Catalina Leiva&#8208;Leroy, Dongsheng Zhang, Milen Nachev, Kapil Dhaka, F.B.S. Nkou, Ulrich Hagemann, Markus Heidelmann, St&#233;phane Kenmoe, Kai S. Exner, Bernd Sures, Martin Muhler, Christian H. Liebscher, Alexander Schnegg, Stephan Schulz, Stephan Barcikowski, Sven Reichenberger, ChemCatChem. None(None)] 2025. https://openalex.org/W4414866193
+
+                Abstract In this study, we employ the pulsed laser defect engineering in liquid (PUDEL) to tailor the surface properties of cobalt (II, III) oxide (Co 3 O 4 ) platelets grown in the &lt; 111 &gt; direction. By varying the laser intensity and pulse number, we systematically investigate the relationship between defect formation and catalytic performance in the oxygen evolution reaction (OER) and selective oxidation of two alcohols. Our results reveal that the PUDEL processing leads to the formation of lattice distortions, the gradual alteration of three different paramagnetic defect sites, a partial reduction of Co 3 O 4 , and enrichment of the Co 3 O 4 (111) surface with hydroxyl groups (*OH), which significantly enhances OER activity. Theoretical investigations confirm that optimized hydroxyl coverage is critical for determining OER activity. The observed trends in selectivity and conversion efficiency for the selective oxidation of cinnamyl alcohol (CA) and ethylene glycol (EG) suggest different reaction mechanisms. The activity trend of the selective oxidation of CA appears to follow the trend of a defect&#8208;attributed paramagnetic species that was assigned to a surface&#8208;near, distorted high&#8208;spin (S = 3/2) Co 2+ . In turn, the catalytic activity and OER activity trends for the EG oxidation showed similar trends, which followed the density of a paramagnetic CoO x species observed during EPR spectroscopy. In particular, the highest OER activity and EG conversion were both found for moderate (2 PPV, ), yet not too intense PUDEL processing. Our findings establish PUDEL as a precise method for catalyst optimization, both for thermal and electro&#8208;catalytic oxidation over defect&#8208;enriched cobalt oxides, which enables the correlation of specific laser&#8208;induced defects with catalytic activity trends.</description>
+      <author>Dana Schellenburg, Thomas Bihnam, Carsten Placke&#8208;Yan, Georg Bendt, Oleg Prymak, Takuma Sato, Dylan Jennings, Catalina Leiva&#8208;Leroy, Dongsheng Zhang, Milen Nachev, Kapil Dhaka, F.B.S. Nkou, Ulrich Hagemann, Markus Heidelmann, St&#233;phane Kenmoe, Kai S. Exner, Bernd Sures, Martin Muhler, Christian H. Liebscher, Alexander Schnegg, Stephan Schulz, Stephan Barcikowski, Sven Reichenberger</author>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202501054</guid>
+    </item>
+    <item>
+      <title>Facet-Specific Nitrogen Vacancy Engineering in BaMO2N (M = Ta, Nb) for Enhanced Electrochemical Ammonia Production: Insights from First-Principles Calculations</title>
+      <link>https://doi.org/10.1016/j.mtcata.2025.100125</link>
+      <description>Santhanamoorthi Nachimuthu, Chenglin Chu, Zhong-Lun Li, Kenta Hongo, Ryo Maezono, Yuji Masubuchi, Jyh&#8208;Chiang Jiang, Materials Today Catalysis. None(None)] 2025. https://openalex.org/W4414871685
+
+                No abstract</description>
+      <author>Santhanamoorthi Nachimuthu, Chenglin Chu, Zhong-Lun Li, Kenta Hongo, Ryo Maezono, Yuji Masubuchi, Jyh&#8208;Chiang Jiang</author>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcata.2025.100125</guid>
+    </item>
+    <item>
+      <title>Superparamagnetic Fe&#8211;Ni mixed oxides-based electrocatalysts for enhanced alkaline oxygen evolution</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.151026</link>
+      <description>Tabassum Taspya, Tanvir Ahmed, Md. Mominul Islam, International Journal of Hydrogen Energy. None(None)] 2025. https://openalex.org/W4414872926
+
+                No abstract</description>
+      <author>Tabassum Taspya, Tanvir Ahmed, Md. Mominul Islam</author>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.151026</guid>
+    </item>
+    <item>
+      <title>Determining the Potential of Maximum Entropy from Ab Initio Molecular Dynamics</title>
+      <link>https://doi.org/10.1002/adts.202500958</link>
+      <description>Amanda Schramm Petersen, T. Madsen, Theophilus Kobina Sarpey, Christian M. Schott, Elena L. Gubanova, Adrian V. Himmelreich, Aliaksandr S. Bandarenka, Jan Rossmeisl, Advanced Theory and Simulations. None(None)] 2025. https://openalex.org/W4414874714
+
+                Abstract Understanding electrochemical interfaces at the atomic level is essential for optimizing catalytic performance in energy conversion and storage technologies. This study introduces a computational framework based on ab initio molecular dynamics (AIMD) simulations to predict the potential of maximum entropy (PME) a descriptor of electric double layer disorder and charge transfer efficiency. By integrating AIMD with the generalized computational hydrogen electrode, it is systematically investigated how electrolyte composition, cation identity, and pH effect the position of PME. The approach reproduces experimental shifts in PME for Au and Pt electrodes and provides unprecedented insights into the emergence of multiple PME values in mixed&#8208;cation systems. The findings challenge conventional models of electrolyte structuring by revealing the presence of multiple PME values within mixed&#8208;cation systems. This suggests a more complex interplay between cations, adsorbates, and interfacial disorder than previously assumed. The computational framework developed in this study provides a predictive tool for understanding these interactions, offering new strategies for tuning electrocatalytic activity.</description>
+      <author>Amanda Schramm Petersen, T. Madsen, Theophilus Kobina Sarpey, Christian M. Schott, Elena L. Gubanova, Adrian V. Himmelreich, Aliaksandr S. Bandarenka, Jan Rossmeisl</author>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adts.202500958</guid>
+    </item>
+    <item>
+      <title>Harnessing Supercooled Liquid Sulfur for Enhanced Electrochemical Performance in Nanoporous Metal-Based Lithium&#8211;Sulfur Batteries</title>
+      <link>https://doi.org/10.1021/acsmaterialslett.5c01173</link>
+      <description>Cong Xi, Shuo Hao, Xiaotong Wang, Lei Bi, Zejing Lin, Chunchen Zhang, Jiuhui Han, ACS Materials Letters. None(None)] 2025. https://openalex.org/W4414857526
+
+                No abstract</description>
+      <author>Cong Xi, Shuo Hao, Xiaotong Wang, Lei Bi, Zejing Lin, Chunchen Zhang, Jiuhui Han</author>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.5c01173</guid>
+    </item>
+    <item>
       <title>Interpretable machine learning-guided plasma catalysis for hydrogen production</title>
       <link>https://doi.org/10.1038/s44286-025-00287-7</link>
       <description>Saleh Ahmat Ibrahim, Shengyan Meng, Charles Milhans, Magda H. Barecka, Yilang Liu, Qiang Li, Jiaqi Yang, Yabing Sha, Yanhui Yi, Fanglin Che, Nature Chemical Engineering. None(None)] 2025. https://openalex.org/W4414777625
@@ -416,6 +446,16 @@
       <author>Jacob Toney, Aaron Garrison, Weiliang Luo, R. Michel, Sukrit Mukhopadhyay, Heather J. Kulik</author>
       <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.coche.2025.101189</guid>
+    </item>
+    <item>
+      <title>Graph neural networks for predicting metal&#8211;ligand coordination of transition metal complexes</title>
+      <link>https://doi.org/10.1073/pnas.2415658122</link>
+      <description>Jacob Toney, R. Michel, Aaron Garrison, Ilia Kevlishvili, Heather J. Kulik, Proceedings of the National Academy of Sciences. 122(41)] 2025. https://openalex.org/W4414857994
+
+                High-throughput virtual screening campaigns are invaluable for surveying the combinatorial space of possible transition metal complexes (TMCs), but they rely on accurate metal&#8211;ligand connectivity for meaningful results. Here, we curate a dataset of 70,069 unique ligands of known coordination from experimental structures of TMCs deposited in the Cambridge Structural Database. Using this dataset, we train separate graph neural network models to predict the total number and individual identities of ligand coordinating atoms with high accuracy and precision. Interpreting each model in terms of the learned molecular representations uncovers trends aligned with our understanding of coordination chemistry as well as chemical insights. Next, we integrate the trained models with the high-throughput screening software molSimplify and illustrate their utility by generating 1,175 TMCs and validating their geometries with density functional theory calculations. We anticipate these models will accelerate computational screening of TMCs with de novo combinations of metals and ligands in physically realistic coordination.</description>
+      <author>Jacob Toney, R. Michel, Aaron Garrison, Ilia Kevlishvili, Heather J. Kulik</author>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2415658122</guid>
     </item>
   </channel>
 </rss>
