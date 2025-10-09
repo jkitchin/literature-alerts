@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 08 Oct 2025 01:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 01:26:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Boron and Nitrogen Bridged Mn Single&#8208;Atom Catalyst for Highly Efficient Nitrogen Electroreduction to Ammonia</title>
-      <link>https://doi.org/10.1002/smll.202507387</link>
-      <description>Hansaem Choi, Siraj Sultan, Mahdi Zafari, Aram Yoon, Hojeong Lee, Miran Ha, Beomgyun Jeong, HyungKuk Ju, Hyung Chul Yoon, Kwang S. Kim, Zonghoon Lee, Geunsik Lee, Youngkook Kwon, Small. None(None)] 2025. https://openalex.org/W4414647449
-
-                Abstract Ammonia (NH 3 ) is a globally important commodity for energy storage, carbon&#8208;free energy carrier, and fertilizer production, but its synthesis through the Haber&#8208;Bosch process is energy&#8208;intensive and emits significant amounts of CO 2 . Electrochemical reduction of N 2 under ambient conditions is a green and potentially promising approach for NH 3 synthesis, but is limited by a high energy barrier of the first *N 2 protonation step, competitive hydrogen evolution reaction, and lack of efficient electrocatalysts. Herein, a newly designed electrocatalyst is reported by bridging B 2 N 2 with an Mn single atom in B/N co&#8208;doped carbon (denoted MnB 2 N 2 /C), which exhibits a highly efficient N 2 reduction reaction (N 2 RR) activity with NH 3 Faradaic efficiency (FE NH3 ) of &#8776;37.15% in the aqueous phase system and good electrocatalytic and material stability. The FE NH3 of the MnB 2 N 2 /C catalyst is &#8776;2.1 times higher than that of the as&#8208;synthesized MnN 4 /C counterpart under the same conditions. In the gas phase system, this MnB 2 N 2 /C catalyst shows a remarkably high NH 3 production rate (87.54 &#181;g mg cat. &#8722;1 h &#8722;1 ) and FE NH3 (45.66%). The density functional theory (DFT) calculations revealed that the high N 2 RR to NH 3 performance arising from the Mn site and the neighboring B site suppresses the parasitic HER on the Mn sites.</description>
-      <author>Hansaem Choi, Siraj Sultan, Mahdi Zafari, Aram Yoon, Hojeong Lee, Miran Ha, Beomgyun Jeong, HyungKuk Ju, Hyung Chul Yoon, Kwang S. Kim, Zonghoon Lee, Geunsik Lee, Youngkook Kwon</author>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202507387</guid>
-    </item>
-    <item>
-      <title>Direct generation of nitrogen-centered radicals via non-covalent interaction between Cu complexes and BiVO4 photoanodes</title>
-      <link>https://doi.org/10.1038/s41467-025-63670-1</link>
-      <description>Lei Wu, Kun Dang, Qiaozhen Li, Yi Xu, Yuchao Zhang, Jincai Zhao, Nature Communications. 16(1)] 2025. https://openalex.org/W4414652534
-
-                No abstract</description>
-      <author>Lei Wu, Kun Dang, Qiaozhen Li, Yi Xu, Yuchao Zhang, Jincai Zhao</author>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-63670-1</guid>
-    </item>
-    <item>
-      <title>Cluster expansion-accelerated exploration of the surface structure properties of a PdPtAg ternary alloy for the oxygen reduction reaction across the compositional space</title>
-      <link>https://doi.org/10.1039/d5ra05089h</link>
-      <description>Minghao Hua, Shuo Li, Xuelei Tian, Xiaohang Lin, Guoxiang Li, RSC Advances. 15(43)] 2025. https://openalex.org/W4414673957
-
-                The amount and distribution of dopant metals Pt and Pd in the ternary alloy Pd/Pt/Ag can be controlled by adjusting the temperature; the atomic distribution can be observed using the cluster expansion with Monte Carlo simulations.</description>
-      <author>Minghao Hua, Shuo Li, Xuelei Tian, Xiaohang Lin, Guoxiang Li</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5ra05089h</guid>
-    </item>
-    <item>
-      <title>Cl-adsorbed Cu(111)/H2O interface selectively realizes electrochemical CO2 reduction towards C2H4 product: Mechanistic understanding</title>
-      <link>https://doi.org/10.1016/j.cclet.2025.111920</link>
-      <description>Lihui Ou, Z. Y. Liu, Dai&#8208;Huo Liu, Zhi Zhang, Chinese Chemical Letters. None(None)] 2025. https://openalex.org/W4414674832
-
-                No abstract</description>
-      <author>Lihui Ou, Z. Y. Liu, Dai&#8208;Huo Liu, Zhi Zhang</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cclet.2025.111920</guid>
-    </item>
-    <item>
-      <title>Design of MOF-derived porous N-doped carbon-supported Co-RuSe2 via microwave-triggered in situ foaming for efficient alkaline oxygen evolution</title>
-      <link>https://doi.org/10.1016/j.apsusc.2025.164759</link>
-      <description>Xinyu Zhu, Minghao Fang, M.K. Han, Shujie Yang, Yanghong Li, Meiling Zhan, Bozhi Yang, Shaorou Ke, Xin Li, Minghao Fang, Applied Surface Science. None(None)] 2025. https://openalex.org/W4414679663
-
-                No abstract</description>
-      <author>Xinyu Zhu, Minghao Fang, M.K. Han, Shujie Yang, Yanghong Li, Meiling Zhan, Bozhi Yang, Shaorou Ke, Xin Li, Minghao Fang</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2025.164759</guid>
-    </item>
-    <item>
-      <title>Cu Nanoclusters and Rh Single-Atom-Modified N-Doped Carbon for Electroreduction of Nitrate to Ammonia</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.5c03508</link>
-      <description>W. H. Dai, Yahan Fang, Junfeng Huang, Zhongwei Wang, Jian Li, Mudong Tu, Huijiao Wang, Jun Yang, Cailing Xu, Hua Li, Inorganic Chemistry. None(None)] 2025. https://openalex.org/W4414689140
-
-                To tackle the pressing issue of nitrate (NO3&#8211;) pollution in wastewater and simultaneously convert it into ammonia (NH3), Cu nanocluster-modified Rhodium (Rh) single atoms anchored on N-doped carbon were synthesized via pyrolysis of a zeolitic imidazolate framework-8 (ZIF-8) precursor and applied to the electrochemical reduction of nitrate at a low concentration. Structural characterizations (X-ray powder diffractometer (XRD), high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM), and X-ray photoelectron spectroscopy (XPS)) confirmed the coexistence of Rh single atoms and Cu nanoclusters as well as their strong electronic interactions. Mechanistic investigations revealed that Rh sites enhanced *H generation via water dissociation and promoted NO3&#8211; adsorption, thereby facilitating *H transfer and subsequent hydrogenation steps. As a result, the optimized Cu97.5Rh2.5/NC catalyst exhibited outstanding NO3&#8211;RR performance, with a Faradaic efficiency (FE) of 84.53%, an NH3 yield rate of 1252.22 &#956;g&#183;h&#8211;1 mgcat&#8211;1 at &#8722;1.0 V vs reversible hydrogen electrode (RHE), an NH3 selectivity of 89.13% at &#8722;1.0 V vs RHE, and a NO3&#8211; conversion rate of 93.34% at &#8722;1.1 V vs RHE. This work presents a rational design for atom-economical catalysts, enabling sustainable NH3 electrosynthesis from nitrate-laden wastewater and reducing effluent NO3&#8211;&#8211;N to meet World Health Organization (WHO) drinking water standards.</description>
-      <author>W. H. Dai, Yahan Fang, Junfeng Huang, Zhongwei Wang, Jian Li, Mudong Tu, Huijiao Wang, Jun Yang, Cailing Xu, Hua Li</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.5c03508</guid>
-    </item>
-    <item>
-      <title>Rational Pathways Tuning Facilitates Photoelectrochemical Upcycling of Nitrite to Ammonia Using CuPd Nanoalloy on GaN/Si Photocathode</title>
-      <link>https://doi.org/10.1021/acs.est.5c04038</link>
-      <description>Kejian Li, Tianyin Qiu, Bingxing Zhang, Zhengwei Ye, Jan Paul Menzel, Wan Jae Dong, Yuyang Pan, Songtao Tang, Zhuoran Long, V&#237;ctor S. Batista, Zetian Mi, Environmental Science &amp; Technology. None(None)] 2025. https://openalex.org/W4414689575
-
-                Solar-driven photoelectrochemical conversion of nitrite to ammonia represents a sustainable yet unexplored approach for environmental remediation and resource recovery. Here, we demonstrate that Cu5Pd1 alloy nanoparticles, integrated with vertically grown GaN nanowires on an n+-p Si photocathode (Cu5Pd1/GaN/Si), enable highly efficient and selective nitrite reduction to ammonia. This photoelectrode achieves a Faradaic efficiency of 99.7% for NH3, with a yield rate of 162.2 &#956;mol h&#8211;1 cm&#8211;2 and a nearly 100% selectivity. Additionally, the Cu5Pd1/GaN/Si photoelectrode maintains robust performance in the presence of various anions and can effectively remove &#8764;98% of nitrite even at low concentrations. Density functional theory calculations, supported by in situ spectroscopic techniques, reveal that Cu&#8211;Pd alloying fundamentally alters the nitrite reduction mechanisms. Unlike the *NOH-mediated pathway on Cu and Pd, which can lead to competing N2 formation, the CuPd alloy preferentially stabilizes the *NHO intermediate, making NH3 production thermodynamically preferred and highly selective. These findings highlight that a rational electrocatalyst design can effectively tune reaction pathways to enhance both the efficiency and selectivity of photoelectrocatalytic nitrite upcycling.</description>
-      <author>Kejian Li, Tianyin Qiu, Bingxing Zhang, Zhengwei Ye, Jan Paul Menzel, Wan Jae Dong, Yuyang Pan, Songtao Tang, Zhuoran Long, V&#237;ctor S. Batista, Zetian Mi</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.est.5c04038</guid>
-    </item>
-    <item>
-      <title>Photocatalytic water splitting for hydrogen generation</title>
-      <link>https://doi.org/10.1016/b978-0-443-34088-8.00009-4</link>
-      <description>Alexandra C. Iacoban, Florentina Nea&#355;u, &#350;tefan Nea&#355;u, Mihaela Florea, Elsevier eBooks. None(None)] 2025. https://openalex.org/W4414697017
-
-                No abstract</description>
-      <author>Alexandra C. Iacoban, Florentina Nea&#355;u, &#350;tefan Nea&#355;u, Mihaela Florea</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-34088-8.00009-4</guid>
-    </item>
-    <item>
-      <title>Iron&#8211;Water Interface at Different Electrochemical Conditions</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c04170</link>
-      <description>Adenilson Felipe Sousa Silva, D&#237;dac A. Fenoll, Mariona Sodupe, Luis Rodr&#237;guez&#8208;Santiago, Xavier Solans&#8208;Monfort, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4414697622
-
-                No abstract</description>
-      <author>Adenilson Felipe Sousa Silva, D&#237;dac A. Fenoll, Mariona Sodupe, Luis Rodr&#237;guez&#8208;Santiago, Xavier Solans&#8208;Monfort</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c04170</guid>
-    </item>
-    <item>
-      <title>Grain boundary segregation engineering in high-entropy multiphase alloys for overall water splitting at ultra-high current density</title>
-      <link>https://doi.org/10.1016/j.apcatb.2025.126035</link>
-      <description>Yifan Cui, Yonghui Wang, Bo Li, Yu Sui, Gang Wang, Juntao Huo, Jianhua Li, Jia&#8208;Qi Huang, Yan Du, Zhen&#8208;Qiang Yu, Jianfei Sun, Sida Jiang, Applied Catalysis B Environment and Energy. None(None)] 2025. https://openalex.org/W4414698900
-
-                No abstract</description>
-      <author>Yifan Cui, Yonghui Wang, Bo Li, Yu Sui, Gang Wang, Juntao Huo, Jianhua Li, Jia&#8208;Qi Huang, Yan Du, Zhen&#8208;Qiang Yu, Jianfei Sun, Sida Jiang</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2025.126035</guid>
-    </item>
     <item>
       <title>Topological Luttinger-semimetal CoAs3 dye-sensitized photocatalyst for efficient solar hydrogen evolution</title>
       <link>https://doi.org/10.1038/s41467-025-63843-y</link>
@@ -416,6 +316,86 @@
       <author>Amanda Schramm Petersen, T. Madsen, Theophilus Kobina Sarpey, Christian M. Schott, Elena L. Gubanova, Adrian V. Himmelreich, Aliaksandr S. Bandarenka, Jan Rossmeisl</author>
       <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adts.202500958</guid>
+    </item>
+    <item>
+      <title>Interfacial Electrostatic Engineering for Chlorine Ions Blocking Toward Long&#8208;Lasting Alkaline Seawater Oxidation</title>
+      <link>https://doi.org/10.1002/smll.202509149</link>
+      <description>Yafeng Guan, Haolin Lu, Lipeng Zhao, Shengli Zhu, Zhenduo Cui, Zhaoyang Li, Wence Xu, Zhonghui Gao, Te Ba, Yanqin Liang, Guankui Long, Hui Jiang, Small. None(None)] 2025. https://openalex.org/W4414885363
+
+                Abstract The existence of Cl &#8722; in seawater electrolysis weakens the selectivity of the oxygen evolution reaction (OER) via the chlorine evolution reaction (CER) and causes material failure by chlorine pitting. Introducing anion layers not only repels the transition of Cl &#8722; without retarding the diffusion of oxygen&#8208;containing anions but also can be generated in situ on the outer surface. Here, a hierarchical catalyst consisting of a MnO 2 layer formed on a Ni foam substrate covered uniformly by a nickel&#8208;iron layered double hydroxide (NiFe&#8208;LDH) active layer is developed through interfacial electrostatic engineering. It was found that the introduced Lewis acid layer (MnO 2 ) can spontaneously generate OH &#8722; groups on the outer surface in situ to repel Cl &#8722; by electrostatic repulsion force. Meanwhile, Ni&#8208;active sites anchored inside the MnO 2 matrix can improve the low activity of MnO 2 . The multilayer NiFe&#8208;LDH@MnO 2 /NF anode can operate steadily at the current density of 100 mA cm &#8722;2 at 70 &#176;C for 100 h and maintain 97.9% OER selectivity. Furthermore, the OER overpotential was reduced by 136 mV, superior to the state&#8208;of&#8208;the&#8208;art commercial Ni mesh in industrial environments, especially the device can be powered by wind energy. The work offers an efficient strategy for designing high&#8208;performance seawater electrolysis with low cost and high stability.</description>
+      <author>Yafeng Guan, Haolin Lu, Lipeng Zhao, Shengli Zhu, Zhenduo Cui, Zhaoyang Li, Wence Xu, Zhonghui Gao, Te Ba, Yanqin Liang, Guankui Long, Hui Jiang</author>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202509149</guid>
+    </item>
+    <item>
+      <title>Activating C&#8211;C Coupling on Copper during CO&lt;sub&gt;2&lt;/sub&gt;RR: Charge-Controlled Design of Alloy Catalysts</title>
+      <link>https://doi.org/10.1021/acselectrochem.5c00297</link>
+      <description>Wei Wang, Mattia Salomone, Michele Re Fiorentin, Francesca Risplendi, Giancarlo Cicero, ACS electrochemistry.. None(None)] 2025. https://openalex.org/W4414901745
+
+                No abstract</description>
+      <author>Wei Wang, Mattia Salomone, Michele Re Fiorentin, Francesca Risplendi, Giancarlo Cicero</author>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acselectrochem.5c00297</guid>
+    </item>
+    <item>
+      <title>Synergistic effects in FeP4-NPC-CP Nanocomposites electrocatalysts for Boosted nitrate reduction to ammonia</title>
+      <link>https://doi.org/10.1016/j.fuel.2025.137067</link>
+      <description>Yafei Guo, Sajid Mahmood, Anum Bilal, Ali Bahadur, Shahid Iqbal, Ali Hussain, Muhammad T. Sajjad, Syed Kashif Ali, Salah Knani, Fuel. 406(None)] 2025. https://openalex.org/W4414903045
+
+                No abstract</description>
+      <author>Yafei Guo, Sajid Mahmood, Anum Bilal, Ali Bahadur, Shahid Iqbal, Ali Hussain, Muhammad T. Sajjad, Syed Kashif Ali, Salah Knani</author>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.137067</guid>
+    </item>
+    <item>
+      <title>Tuning electrical conductivity in lithium-doped sodium titanate via sonochemical synthesis</title>
+      <link>https://doi.org/10.1016/j.mseb.2025.118836</link>
+      <description>J. Silva, Juliana Pereira da Silva, Rita Santos, Salom&#227;o dos Santos Costa, Francisco Xavier Nobre, M&#243;nica Tirado, Angsula Ghosh, Lianet Aguilera Dom&#237;nguez, Y. Leyet, Materials Science and Engineering B. 323(None)] 2025. https://openalex.org/W4414904817
+
+                No abstract</description>
+      <author>J. Silva, Juliana Pereira da Silva, Rita Santos, Salom&#227;o dos Santos Costa, Francisco Xavier Nobre, M&#243;nica Tirado, Angsula Ghosh, Lianet Aguilera Dom&#237;nguez, Y. Leyet</author>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mseb.2025.118836</guid>
+    </item>
+    <item>
+      <title>Impact of surface phonons on the thermal conductivity of triply periodic minimal surface silicon</title>
+      <link>https://doi.org/10.1103/ctfs-fx4m</link>
+      <description>Peng Bi, Yakun Wan, Yong Yi, Songhu Bi, Physical review. B./Physical review. B. 112(15)] 2025. https://openalex.org/W4414912749
+
+                No abstract</description>
+      <author>Peng Bi, Yakun Wan, Yong Yi, Songhu Bi</author>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/ctfs-fx4m</guid>
+    </item>
+    <item>
+      <title>Powering the Future: A Cobalt&#8208;Based Catalyst for Longer&#8208;Lasting Zinc&#8211;Air Batteries</title>
+      <link>https://doi.org/10.1002/adfm.202519329</link>
+      <description>Manami Banerjee, Peng Ren, Greesh Kumar, Lucie M. Lindenbeck, Byoung Joon Park, Anna Rokici&#324;ska, Piotr Ku&#347;trowski, Adam Slabon, Francesco Ciucci, Ramendra Sundar Dey, Shoubhik Das, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4414914133
+
+                Abstract The development of cost&#8208;effective catalysts for zinc&#8211;air batteries (ZABs) remain challenging due to the sluggish kinetics of oxygen reduction (ORR) and evolution (OER) at the cathode. In this context, a novel N&#8208;doped graphitic shell&#8208;encapsulated cobalt catalyst is presented as an air electrode with exceptional bifunctional activity, achieving an ORR half&#8208;wave potential ( E 1/2 ) of 0.81 V and an OER overpotential of 349 mV in an alkaline medium. The catalyst demonstrated excellent cycling durability and delivered superior power density in both liquid and solid&#8208;state ZABs. Furthermore, a quasi&#8208;solid&#8208;state ZAB is assembled with the catalyst, and it maintained a stable open&#8208;circuit voltage (OCV) of 1.360 V for &gt;10 000 s. The catalyst achieved a peak power density of 127 mW cm &#8722;2 &#8212;significantly outperforming the benchmark Pt/C + RuO 2 system (74 mW cm &#8722;2 ). When two tandem&#8208;junction ZABs are connected in series, they achieved an OCV of 2.75 V and powering a &#8220;ZAB&#8221; LED strip and a mini fan. Furthermore, Density Functional Theory (DFT) calculations revealed that the enhanced performance resulted from optimized binding energies between the Co@N(py) active sites and reaction intermediates. An in situ Raman study is carried out to understand the catalytic mechanism through transient intermediate detection.</description>
+      <author>Manami Banerjee, Peng Ren, Greesh Kumar, Lucie M. Lindenbeck, Byoung Joon Park, Anna Rokici&#324;ska, Piotr Ku&#347;trowski, Adam Slabon, Francesco Ciucci, Ramendra Sundar Dey, Shoubhik Das</author>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202519329</guid>
+    </item>
+    <item>
+      <title>Python Library for Monte Carlo Simulations with Ab Initio and Machine-Learned Interatomic Potentials</title>
+      <link>https://doi.org/10.1021/acs.jctc.5c01148</link>
+      <description>Woodrow N. Wilson, Vivek S. Bharadwaj, Neeraj Rai, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4414914434
+
+                No abstract</description>
+      <author>Woodrow N. Wilson, Vivek S. Bharadwaj, Neeraj Rai</author>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c01148</guid>
+    </item>
+    <item>
+      <title>Modeling Bifunctional Electrocatalysts Through p&#8208;Block Metal Incorporation in Transition Metal Doped N&#8208;Graphene for Oxygen Evolution and Reduction Reactions</title>
+      <link>https://doi.org/10.1002/smll.202507111</link>
+      <description>Sougata Saha, K. Vipin Raj, Swapan K. Pati, Small. None(None)] 2025. https://openalex.org/W4414917841
+
+                Abstract Development of efficient bifunctional electrocatalysts for the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) is essential for renewable energy storage and conversion technologies. While transition metal (TM) co&#8208;doped N&#8208;doped graphene systems (TM&#8208;N&#8208;G) are well&#8208;known for their electrocatalytic performance, their bifunctional activity for both OER and ORR remains limited and inefficient. In this work, bifunctional electrocatalytic performance of TM&#8208;N 6 &#8208;G systems (TM = Fe, Co, and Ni) is investigated by incorporating p&#8208;block metals (PM = Al, Ga, In, Sn, and Bi) into an N 4 cavity, resulting in TM&#8208;PM&#8208;N 6 &#8208;G structures. Systematic DFT calculations reveal that among all the system configurations, Co&#8208;Ga&#8208;N 6 &#8208;G and Co&#8208;Sn&#8208;N 6 &#8208;G emerge as highly efficient bifunctional catalysts. The enhanced catalytic activity of Co centres is attributed to optimal interactions with reaction intermediates, as elucidated by scaling relations, volcano plots, and contour maps. These optimal interactions are explained by changes in electronic structure of catalysts and charge redistribution at the TM sites, induced by incorporated PMs. A new descriptor &#978; is proposed to describe the catalytic activity, performing better than conventional d&#8208;band center. Additionally, several unifunctional catalysts are identified. This detailed analysis provides key insights and design strategies for developing high&#8208;performance bifunctional catalysts via PM doping in TM&#8208;N&#8208;G systems.</description>
+      <author>Sougata Saha, K. Vipin Raj, Swapan K. Pati</author>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202507111</guid>
     </item>
     <item>
       <title>Harnessing Supercooled Liquid Sulfur for Enhanced Electrochemical Performance in Nanoporous Metal-Based Lithium&#8211;Sulfur Batteries</title>

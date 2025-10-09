@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 08 Oct 2025 01:25:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 01:26:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Protein corona formed on lipid nanoparticles compromises delivery efficiency of mRNA cargo</title>
-      <link>https://doi.org/10.1038/s41467-025-63726-2</link>
-      <description>Elizabeth Voke, Mariah L. Arral, Henry Squire, Teng-Jui Lin, Lining Zheng, Roxana Coreas, Alison Lui, Anthony T. Iavarone, Rebecca L. Pinals, Kathryn A. Whitehead, Markita P. Landry, Nature Communications. 16(1)] 2025. https://openalex.org/W4414650697
-
-                No abstract</description>
-      <author>Elizabeth Voke, Mariah L. Arral, Henry Squire, Teng-Jui Lin, Lining Zheng, Roxana Coreas, Alison Lui, Anthony T. Iavarone, Rebecca L. Pinals, Kathryn A. Whitehead, Markita P. Landry</author>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-63726-2</guid>
-    </item>
-    <item>
-      <title>Spectral Manifold Harmonization for Graph Imbalanced Regression</title>
-      <link>https://doi.org/10.48550/arxiv.2507.01132</link>
-      <description>Brenda Nogueira, Gabriel dos Passos Gomes, Meng Jiang, Nitesh V. Chawla, Nuno Moniz, arXiv (Cornell University). None(None)] 2025. https://openalex.org/W4414688037
-
-                Graph-structured data is ubiquitous in scientific domains, where models often face imbalanced learning settings. In imbalanced regression, domain preferences focus on specific target value ranges that represent the most scientifically valuable cases; however, we observe a significant lack of research regarding this challenge. In this paper, we present Spectral Manifold Harmonization (SMH), a novel approach to address imbalanced regression challenges on graph-structured data by generating synthetic graph samples that preserve topological properties while focusing on the most relevant target distribution regions. Conventional methods fail in this context because they either ignore graph topology in case generation or do not target specific domain ranges, resulting in models biased toward average target values. Experimental results demonstrate the potential of SMH on chemistry and drug discovery benchmark datasets, showing consistent improvements in predictive performance for target domain ranges. Code is available at https://github.com/brendacnogueira/smh-graph-imbalance.git.</description>
-      <author>Brenda Nogueira, Gabriel dos Passos Gomes, Meng Jiang, Nitesh V. Chawla, Nuno Moniz</author>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2507.01132</guid>
-    </item>
-    <item>
-      <title>Connecting chemical and protein sequence space to predict biocatalytic reactions</title>
-      <link>https://doi.org/10.1038/s41586-025-09519-5</link>
-      <description>Alan Paton, Daniil A. Boiko, Jonathan C. Perkins, Nicholas Cemalovic, Thiago Resch&#252;tzegger, Gabriel dos Passos Gomes, Alison R. H. Narayan, Nature. 646(8083)] 2025. https://openalex.org/W4414690409
-
-                No abstract</description>
-      <author>Alan Paton, Daniil A. Boiko, Jonathan C. Perkins, Nicholas Cemalovic, Thiago Resch&#252;tzegger, Gabriel dos Passos Gomes, Alison R. H. Narayan</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41586-025-09519-5</guid>
-    </item>
     <item>
       <title>How Electrolyte pH Affects the Oxygen Reduction Reaction</title>
       <link>https://doi.org/10.1021/jacs.5c14208</link>
