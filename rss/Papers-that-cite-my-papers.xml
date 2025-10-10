@@ -4,139 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Oct 2025 01:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 01:26:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Topological Luttinger-semimetal CoAs3 dye-sensitized photocatalyst for efficient solar hydrogen evolution</title>
-      <link>https://doi.org/10.1038/s41467-025-63843-y</link>
-      <description>Yuan Cao, Han Zhuo, Rui Song, Yuqi Liu, Shucai Xia, Xinlei Zhang, Jing Leng, Changhao Wang, Wenliang Zhu, Yin Yu, Xiaomin Tian, Jiaqi He, Yu Zou, Yi Ma, Jianzhi Gao, Chuanyao Zhou, Feng Song, Wei Huang, Minghu Pan, Nature Communications. 16(1)] 2025. https://openalex.org/W4414700634
-
-                Solar-driven photocatalytic water splitting is a process for hydrogen production from a renewable source. The practical implementation of this technology is limited by the low conversion efficiency of the hydrogen evolution reaction under visible light and the insufficient long-term stability of photocatalysts. Here we demonstrate a dye (Eosin Y)-sensitized photocatalyst for efficient hydrogen production. The topological semimetal CoAs3 achieves a hydrogen production rate of 2688 &#956;mol h&#8722;1 g&#8722;1 (&#955; &#8805; 420 nm) and an apparent quantum efficiency of 15.2% at &#955; = 500 nm. Efficient photocatalytic activity is attributed to the electronic properties of CoAs3, which facilitate electron transfer at the Eosin Y/CoAs3 interface, determined by transient absorption spectroscopy. Density functional theory calculations predict that CoAs3 is a Luttinger semimetal, exhibiting a quadratic band touching point near the Fermi level and an associated topological insulator gap. The carrier mobility of the material facilitates the transfer of injected electrons from the dye to active sites. Herein, we report a topological photocatalyst that exhibits enhanced stability and efficiency for solar hydrogen production. Developing photocatalysts from earth-abundant materials is crucial for sustainable solar hydrogen production, yet challenges in efficiency and stability persist. Here, the authors report that the topological semimetal cobalt triarsenide functions as an active and durable platform for this reaction.</description>
-      <author>Yuan Cao, Han Zhuo, Rui Song, Yuqi Liu, Shucai Xia, Xinlei Zhang, Jing Leng, Changhao Wang, Wenliang Zhu, Yin Yu, Xiaomin Tian, Jiaqi He, Yu Zou, Yi Ma, Jianzhi Gao, Chuanyao Zhou, Feng Song, Wei Huang, Minghu Pan</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-63843-y</guid>
-    </item>
-    <item>
-      <title>Lost Data in Electron Microscopy</title>
-      <link>https://doi.org/10.3390/chemistry7050160</link>
-      <description>&#1053;. &#1052;. &#1048;&#1074;&#1072;&#1085;&#1086;&#1074;&#1072;, Alexey S. Kashin, Valentine P. Ananikov, Chemistry. 7(5)] 2025. https://openalex.org/W4414701117
-
-                The goal of this study is to estimate the amount of lost data in electron microscopy and to analyze the extent to which experimentally acquired images are utilized in peer-reviewed scientific publications. Analysis of the number of images taken on electron microscopes at a core user facility and the number of images subsequently included in peer-reviewed scientific journals revealed low efficiency of data utilization. Up to around 90% of electron microscopy data generated during routine instrument operation can remain unused. Of the more than 150,000 electron microscopy images evaluated in this study, only approximately 3500 (just over 2%) were made available in publications. For the analyzed dataset, the amount of lost data in electron microscopy can be estimated as &gt;90% (in terms of data being recorded but not being published in peer-reviewed literature). On the one hand, these results highlight a shortcoming in the optimal use of microscopy images; on the other hand, they indicate the existence of a large pool of electron microscopy data that can facilitate research in data science and the development of AI-based projects. The considerations important to unlock the potential of lost data are discussed in the present article.</description>
-      <author>&#1053;. &#1052;. &#1048;&#1074;&#1072;&#1085;&#1086;&#1074;&#1072;, Alexey S. Kashin, Valentine P. Ananikov</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/chemistry7050160</guid>
-    </item>
-    <item>
-      <title>Synergistic Enhancement of &#946;-NiOOH Electrocatalytic Oxygen Evolution Reaction Performance through Transition Metal Atom Doping and Vacancy Modulating</title>
-      <link>https://doi.org/10.1016/j.electacta.2025.147485</link>
-      <description>Chenghuan Zhong, Dawei Li, Shimao Xie, Pengcheng Yang, Jiao Teng, Yeyun Kang, Jianfeng Tang, Hua Lin, Chunmei Li, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4414706162
-
-                No abstract</description>
-      <author>Chenghuan Zhong, Dawei Li, Shimao Xie, Pengcheng Yang, Jiao Teng, Yeyun Kang, Jianfeng Tang, Hua Lin, Chunmei Li</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.147485</guid>
-    </item>
-    <item>
-      <title>Strain-modulated photocatalytic hydrogen production and storage capacity analysis of Li2S monolayer: A DFT approach</title>
-      <link>https://doi.org/10.1016/j.surfin.2025.107772</link>
-      <description>Abdul Rehman, Ghulam Nabi, S.S.A. Gillani, &#8207;Abdullah K. Alanazi, M. Shakil&#8206;, Surfaces and Interfaces. None(None)] 2025. https://openalex.org/W4414706471
-
-                No abstract</description>
-      <author>Abdul Rehman, Ghulam Nabi, S.S.A. Gillani, &#8207;Abdullah K. Alanazi, M. Shakil&#8206;</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2025.107772</guid>
-    </item>
-    <item>
-      <title>Hammett-Inspired Product Baseline for Data-Efficient &#916;-ML in Chemical Space</title>
-      <link>https://doi.org/10.1021/acs.jctc.5c00848</link>
-      <description>V. Diana Rakotonirina, Marco Bragato, Guido Falk von Rudorff, O. Anatole von Lilienfeld, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4414706768
-
-                Data-hungry machine learning methods have become a new standard to efficiently navigate chemical compound space for molecular and materials design and discovery. Due to the severe scarcity and cost of high-quality experimental or synthetic simulated training data, however, data-acquisition costs can be considerable. Relying on reasonably accurate approximate legacy baseline labels with low computational complexity represents one of the most effective strategies to curb data-needs, e.g. through &#916;-, transfer-, or multifidelity learning. A surprisingly effective and data-efficient baseline model is presented in the form of a generic coarse-graining Hammett-inspired product (HIP) Ansatz, generalizing the empirical Hammett equation toward arbitrary systems and properties. Numerical evidence for the applicability of HIP includes solvation free energies of molecules, formation energies of quaternary elpasolite crystals, carbon adsorption energies on heterogeneous catalytic surfaces, HOMO-LUMO gaps of metallorganic complexes, activation energies for SN2 reactions, and catalyst-substrate binding energies in cross-coupling reactions. After calibration on the same training sets, HIP yields an effective baseline for improved &#916;-machine learning models with superior data-efficiency when compared to previously introduced specialized domain-specific models.</description>
-      <author>V. Diana Rakotonirina, Marco Bragato, Guido Falk von Rudorff, O. Anatole von Lilienfeld</author>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c00848</guid>
-    </item>
-    <item>
-      <title>Cracking the code of CO2 Photoreduction: Band engineering in BN for methane selectivity</title>
-      <link>https://doi.org/10.1016/j.cej.2025.169071</link>
-      <description>Zhen Ge, Pengxin Pu, Haisong Feng, Mengjie Yu, Guanyi Zhang, Tianyong Liu, Xin Song, Shiquan Zhao, Lei Wang, Yusen Yang, Yibo Dou, Min Wei, Xin Zhang, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4414711805
-
-                No abstract</description>
-      <author>Zhen Ge, Pengxin Pu, Haisong Feng, Mengjie Yu, Guanyi Zhang, Tianyong Liu, Xin Song, Shiquan Zhao, Lei Wang, Yusen Yang, Yibo Dou, Min Wei, Xin Zhang</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.169071</guid>
-    </item>
-    <item>
-      <title>Synergistic Enhancement of Hydrogen Evolution Reaction by Bio-surfactant and Visible Light in Alkaline Water Electrolysis</title>
-      <link>https://doi.org/10.1016/j.cep.2025.110567</link>
-      <description>Mardi Santoso, Azizan Ahmad, David Fernando Sinurat, Nurkholis Hamidi, Purnami Purnami, Chemical Engineering and Processing - Process Intensification. None(None)] 2025. https://openalex.org/W4414715324
-
-                No abstract</description>
-      <author>Mardi Santoso, Azizan Ahmad, David Fernando Sinurat, Nurkholis Hamidi, Purnami Purnami</author>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cep.2025.110567</guid>
-    </item>
-    <item>
-      <title>Ligand modulation of active interfaces to promote photoelectrochemical water splitting</title>
-      <link>https://doi.org/10.1016/j.jcis.2025.139126</link>
-      <description>Meihua Li, Lan Yao, Xu Li, Jingjing Quan, Saqib Mujtaba, Chenglong Li, Xingming Ning, Pei Chen, Zhongwei An, Xinbing Chen, Journal of Colloid and Interface Science. None(None)] 2025. https://openalex.org/W4414723458
-
-                No abstract</description>
-      <author>Meihua Li, Lan Yao, Xu Li, Jingjing Quan, Saqib Mujtaba, Chenglong Li, Xingming Ning, Pei Chen, Zhongwei An, Xinbing Chen</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.139126</guid>
-    </item>
-    <item>
-      <title>Enhanced catalytic activity by topological flat bands at the charge neutrality point</title>
-      <link>https://doi.org/10.1103/56zz-7kwp</link>
-      <description>Yang Song, Wen&#8208;Han Dong, Jie Yang, Ziyuan Liu, Mengxi Liu, Jia Zhu, Shixuan Du, Feng Liu, Lizhi Zhang, Physical review. B./Physical review. B. 112(15)] 2025. https://openalex.org/W4414727590
-
-                No abstract</description>
-      <author>Yang Song, Wen&#8208;Han Dong, Jie Yang, Ziyuan Liu, Mengxi Liu, Jia Zhu, Shixuan Du, Feng Liu, Lizhi Zhang</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/56zz-7kwp</guid>
-    </item>
-    <item>
-      <title>How Electrolyte pH Affects the Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/jacs.5c14208</link>
-      <description>Jay T. Bender, Rohan Yuri Sanspeur, Nicolas Bueno Ponce, Angel E. Valles, Alyssa K. Uvodich, Delia J. Milliron, John R. Kitchin, Joaquin Resasco, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4414731738
-
-                Electrolyte pH is known to affect catalytic activity and selectivity for the oxygen reduction reaction (ORR). But a clear understanding of why ORR rates respond more strongly to pH over certain catalysts than others has not been developed. Here, we propose that pH effects on the ORR result from electric field induced changes in the binding energies of intermediates involved in kinetically relevant elementary steps. For strongly binding metals (Pt, Ir, Ru, and Pd), whose rates are limited by the proton-coupled electron transfer (PCET) step to form *OOH or remove adsorbed OH (*OH), ORR rates are weakly affected by electrolyte pH. This behavior is observed because the binding energies of the reaction intermediates in these steps are minimally affected by electric field strength. The weak pH dependence is most pronounced for Pt, which shows essentially identical rates in acidic and alkaline electrolytes. For weakly binding metals (Au, Ag), whose rates are limited by non-PCET O2 adsorption, ORR rates increase significantly when moving from acidic to alkaline electrolytes. This strong pH dependence results from the stabilization of adsorbed O2 by the increasingly negative electric field present at the catalyst surface under alkaline conditions. We argue that modifying electrolyte pH does not change the rate-determining elementary step for the ORR, but does decrease the apparent activation barrier for O2 adsorption over weakly binding catalysts. These arguments are substantiated by a combination of experimental kinetic studies and atomistic simulations.</description>
-      <author>Jay T. Bender, Rohan Yuri Sanspeur, Nicolas Bueno Ponce, Angel E. Valles, Alyssa K. Uvodich, Delia J. Milliron, John R. Kitchin, Joaquin Resasco</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c14208</guid>
-    </item>
-    <item>
-      <title>A morphotropic phase boundary in MA1&#8722;xFAxPbI3: linking structure, dynamics, and electronic properties</title>
-      <link>https://doi.org/10.1038/s41467-025-64526-4</link>
-      <description>Tobias Hainer, Erik Fransson, Sangita Dutta, Julia Wiktor, Paul Erhart, Nature Communications. 16(1)] 2025. https://openalex.org/W4414746328
-
-                Abstract Understanding the phase behavior of mixed-cation halide perovskites is critical for optimizing their structural stability and optoelectronic performance. Here, we map the phase diagram of MA 1&#8722; x FA x PbI 3 using a machine-learned interatomic potential in molecular dynamics simulations. We identify a morphotropic phase boundary (MPB) at approximately 27% FA content, delineating the transition between out-of-phase and in-phase octahedral tilt patterns. Phonon mode projections reveal that this transition coincides with a mode crossover composition, where the free energy landscapes of the M and R phonon modes become nearly degenerate. This results in nanoscale layered structures with alternating tilt patterns, suggesting minimal interface energy between competing phases. Our results provide a systematic and consistent description of this important system, complementing earlier partial and sometimes conflicting experimental assessments. Furthermore, density functional theory calculations show that band edge fluctuations peak near the MPB, indicating an enhancement of electron-phonon coupling and dynamic disorder effects. These findings establish a direct link between phonon dynamics, phase behavior, and electronic structure, providing a further composition-driven pathway for tailoring the optoelectronic properties of perovskite materials. By demonstrating that phonon overdamping serves as a hallmark of the MPB, our study offers insights into the design principles for stable, high-performance perovskite solar cells.</description>
-      <author>Tobias Hainer, Erik Fransson, Sangita Dutta, Julia Wiktor, Paul Erhart</author>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-64526-4</guid>
-    </item>
-    <item>
-      <title>Separation-free artificial photosynthesis of concentrated hydrogen peroxide and value-added fuels over Ta atomic sites</title>
-      <link>https://doi.org/10.1038/s41467-025-63838-9</link>
-      <description>Hao Tan, Peng Zhou, Yu Gu, Youxing Liu, Wenxing Chen, Hongyu Guo, Fangxu Lin, Heng Luo, Xiaoqing Cao, Lingyou Zeng, Mingchuan Luo, Shaojun Guo, Nature Communications. 16(1)] 2025. https://openalex.org/W4414747567
-
-                No abstract</description>
-      <author>Hao Tan, Peng Zhou, Yu Gu, Youxing Liu, Wenxing Chen, Hongyu Guo, Fangxu Lin, Heng Luo, Xiaoqing Cao, Lingyou Zeng, Mingchuan Luo, Shaojun Guo</author>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-63838-9</guid>
-    </item>
-    <item>
-      <title>Density-Potential Functional Theoretic (DPFT) Schemes of Modeling Reactive Solid&#8211;Liquid Interfaces</title>
-      <link>https://doi.org/10.1021/acsphyschemau.5c00071</link>
-      <description>X. Wang, Jun Huang, ACS Physical Chemistry Au. None(None)] 2025. https://openalex.org/W4414757050
-
-                No abstract</description>
-      <author>X. Wang, Jun Huang</author>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsphyschemau.5c00071</guid>
-    </item>
     <item>
       <title>Enhanced water splitting performance in passivated Co-doping of LNS-TiO2 homojunctions</title>
       <link>https://doi.org/10.1016/j.apsusc.2025.164791</link>
@@ -398,6 +268,76 @@
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202507111</guid>
     </item>
     <item>
+      <title>Predicting paint resistance to pull-off by first principles calculations: The case of acrylic acid on (oxidised) metals</title>
+      <link>https://doi.org/10.1016/j.matdes.2025.114898</link>
+      <description>Manuel Montebelli, Paolo Restuccia, Maria Clelia Righi, Materials &amp; Design. None(None)] 2025. https://openalex.org/W4414926842
+
+                No abstract</description>
+      <author>Manuel Montebelli, Paolo Restuccia, Maria Clelia Righi</author>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.matdes.2025.114898</guid>
+    </item>
+    <item>
+      <title>Low&#8208;Voltage Driven Co&#8208;Production of Ammonia, Formate, and Hydrogen From Nitrite Reduction Coupled Formaldehyde Oxidation System on Ultra&#8208;Stable AuCuRh Nanowires under Illumination</title>
+      <link>https://doi.org/10.1002/adma.202513320</link>
+      <description>Ze&#8208;Nong Zhang, Xiaohui Wang, Wei Zhong, Xuan Ai, Xin Wang, Shu&#8208;Ni Li, Bao Yu Xia, Yu Chen, Advanced Materials. None(None)] 2025. https://openalex.org/W4414930241
+
+                The nitrite electroreduction reaction (NO2RR) offers a green and sustainable pathway for environmental wastewater treatment and ammonia (NH3) generation. Herein, defect-rich trimetallic AuCuRh nanowires (AuCuRh NWs) with a large number of grain boundaries, twin boundaries, and atomic steps are successfully synthesized by galvanic replacement reaction. Due to its self-stability and high activity, AuCuRh NWs can efficiently drive the stable NO2RR at 0 V potential (Faradaic efficiency: 98.32%, NH3 yield rate: 20.49 mg h-1 mgcat -1). Moreover, AuCuRh NWs also reveal excellent electrocatalytic activity for the formaldehyde electrooxidation reaction (FOR), which can reach 10 mA cm-2 at only 0.35 V potential. The NO2RR||FOR electrolysis system assembled with AuCuRh NWs requires only the electrolysis voltage of 0.38 V to achieve the co-production of NH3, formate, and hydrogen and ultra-stable continuous electrolysis for 300 hours. The NO2RR||FOR electrolysis system can be further decreased to only 0.29 V under illumination due to plasmon-enhanced activity. This study provides an energy-efficient coupling strategy for the stable co-production of value-added chemicals.</description>
+      <author>Ze&#8208;Nong Zhang, Xiaohui Wang, Wei Zhong, Xuan Ai, Xin Wang, Shu&#8208;Ni Li, Bao Yu Xia, Yu Chen</author>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202513320</guid>
+    </item>
+    <item>
+      <title>Exploration of the electrocatalytic activity of nonlinear optically active CuWO&lt;sub&gt;4&lt;/sub&gt;/g-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt; nanocomposites</title>
+      <link>https://doi.org/10.1039/d5dt01694k</link>
+      <description>Bankim J. Sanghavi, K. Aravinth, Manikandan Kandasamy, P. Balaji Bhargav, Brahmananda Chakraborty, Dalton Transactions. None(None)] 2025. https://openalex.org/W4414936464
+
+                CuWO 4 /g-C 3 N 4 nanocomposites were synthesized via microwave assistance, showing enhanced capacitance, 85% stability, and superior bifunctional electrocatalytic activity with lower Tafel slopes. DFT confirmed synergistic effects driving catalytic efficiency.</description>
+      <author>Bankim J. Sanghavi, K. Aravinth, Manikandan Kandasamy, P. Balaji Bhargav, Brahmananda Chakraborty</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5dt01694k</guid>
+    </item>
+    <item>
+      <title>Tuning axial ligand coordination for enhanced activity and selectivity in metal&#8211;nitrogen&#8211;carbon single-atom catalysts for the oxygen reduction reaction</title>
+      <link>https://doi.org/10.1063/5.0288918</link>
+      <description>H.T. Wang, Mingjie Liu, The Journal of Chemical Physics. 163(14)] 2025. https://openalex.org/W4414966260
+
+                Axial ligand coordination plays a critical role in modulating the catalytic activity and selectivity of metal&#8211;nitrogen&#8211;carbon (M&#8211;N&#8211;C) single-atom catalysts (SACs) for the oxygen reduction reaction (ORR). In this study, we systematically investigate FeN4, CoN4, and NiN4 active sites coordinated with a broad range of axial ligands to elucidate how ligand environments influence reaction energetics across different metal centers. Free energy analyses reveal that axial ligands can substantially modify key steps in the ORR pathway, including *OOH formation and *OH desorption, with distinct effects observed for each metal. FeN4 exhibits tunable activity and selectivity depending on the ligand, balancing between 4e&#8722; and 2e&#8722; pathways. CoN4 shows a pronounced preference toward the 2e&#8722; pathway under specific ligand environments, highlighting its potential for selective H2O2 production. In contrast, NiN4 displays generally high energy barriers and limited ORR activity across all axial ligands. These results establish a comparative framework for understanding how axial ligand coordination governs ORR performance and provide guidance for the rational design of M&#8211;N&#8211;C SACs with tailored activity and selectivity.</description>
+      <author>H.T. Wang, Mingjie Liu</author>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0288918</guid>
+    </item>
+    <item>
+      <title>Improving the electrocatalytic activity of Fe/co-8-16-4 graphyne through sulfur or phosphorus doping for water splitting</title>
+      <link>https://doi.org/10.1016/j.jpowsour.2025.238579</link>
+      <description>Ghazaleh Jafari, Adel Reisi&#8208;Vanani, Journal of Power Sources. 660(None)] 2025. https://openalex.org/W4414967546
+
+                No abstract</description>
+      <author>Ghazaleh Jafari, Adel Reisi&#8208;Vanani</author>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2025.238579</guid>
+    </item>
+    <item>
+      <title>Partitioning adsorption energy: An electronegativity-based descriptor for hydrogen adsorption on group IV and III&#8211;V 2D honeycombs</title>
+      <link>https://doi.org/10.1063/5.0295089</link>
+      <description>Yi Sheng Ng, Jin&#8208;Cheng Zheng, The Journal of Chemical Physics. 163(14)] 2025. https://openalex.org/W4414969325
+
+                Understanding and predicting hydrogen adsorption energy is key to designing effective electrocatalysts. In this study, we develop a physically interpretable descriptor within a framework that decomposes atomic hydrogen adsorption energy into intuitive contributions, applied to 22 group IV and III&#8211;V 2D honeycomb materials. The density functional theory (DFT) calculated adsorption energy is decomposed into two components: bond energy, approximated by the integrated crystal orbital Hamilton population (ICOHP), and the energy cost of forming the additional bond, termed distortion energy Ed. This decomposition facilitates analysis of adsorption trends beyond treating adsorption energy as a single quantity. We find that ICOHP correlates strongly with the adsorption site electronegativity (R2 = 0.86), improving to R2 = 0.91 when electronegativity differences and structural parameters are included. Ed shows moderate correlation with the unrelaxed vacancy energy Evac (R2 = 0.60) and can be accurately modeled (R2 = 0.92) using similar dependences on electronegativity and structural parameters. Notably, Evac can be expressed in terms of the sum of electronegativities, enabling a DFT-free formulation. Combining both components into an Eads descriptor, we achieve an R2 score of 0.82 across both group IV and III&#8211;V systems. Further analysis reveals that increasing the adsorption site electronegativity weakens adsorption unless the lattice constant is sufficiently large. In addition, we identify a linear relationship between ICOHP and the zero-point energy change, allowing the descriptor to be extended to the free energy of hydrogen adsorption, a key indicator of hydrogen evolution reaction activity.</description>
+      <author>Yi Sheng Ng, Jin&#8208;Cheng Zheng</author>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0295089</guid>
+    </item>
+    <item>
+      <title>Grand-Canonical Equivariant Neural Potentials for Electrochemical Interfaces</title>
+      <link>https://doi.org/10.1021/acs.jctc.5c01381</link>
+      <description>Jia-Lan Chen, Xin&#8208;Rui Qi, Jinze Zhu, Jin Li, Xuechun Jiang, Wei&#8208;Xue Li, Jin&#8208;Xun Liu, Journal of Chemical Theory and Computation. None(None)] 2025. https://openalex.org/W4414970226
+
+                No abstract</description>
+      <author>Jia-Lan Chen, Xin&#8208;Rui Qi, Jinze Zhu, Jin Li, Xuechun Jiang, Wei&#8208;Xue Li, Jin&#8208;Xun Liu</author>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.5c01381</guid>
+    </item>
+    <item>
       <title>Harnessing Supercooled Liquid Sulfur for Enhanced Electrochemical Performance in Nanoporous Metal-Based Lithium&#8211;Sulfur Batteries</title>
       <link>https://doi.org/10.1021/acsmaterialslett.5c01173</link>
       <description>Cong Xi, Shuo Hao, Xiaotong Wang, Lei Bi, Zejing Lin, Chunchen Zhang, Jiuhui Han, ACS Materials Letters. None(None)] 2025. https://openalex.org/W4414857526
@@ -406,6 +346,16 @@
       <author>Cong Xi, Shuo Hao, Xiaotong Wang, Lei Bi, Zejing Lin, Chunchen Zhang, Jiuhui Han</author>
       <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.5c01173</guid>
+    </item>
+    <item>
+      <title>Are we there yet? Adventures on a road trip through machine learning as a computational chemist</title>
+      <link>https://doi.org/10.1063/5.0297853</link>
+      <description>Heather J. Kulik, No host. 1(2)] 2025. https://openalex.org/W4414936445
+
+                Over the past two decades, the integration of machine learning (ML) into theoretical and computational chemistry has transformed the scale and scope of discovery that is possible on a computer. In this Perspective, I share my personal journey from early density functional theory method development for small transition metal complexes to the building of automated workflows and ML models for catalysis, redox chemistry, and materials design. I will describe my unlikely path toward machine learning starting from minimal models of catalysts and the use of structural databases to gain data-driven insights. I will then describe our experiences in training machine learning models for discovery, including active learning and descriptor-based approaches that enabled data-driven exploration despite limited experimental reference data for open-shell transition metal complexes. As an example of overcoming these limitations, I will describe our more recent efforts that culminated in experimental validation of our computational predictions. Along the way, challenges in data curation, DFT method sensitivity, and synthetic realism have shaped the trajectory of the field. I conclude with reflections on the rapid rise of generative AI, agentic workflows, and the enduring need to ask questions that truly advance molecular discovery.</description>
+      <author>Heather J. Kulik</author>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0297853</guid>
     </item>
     <item>
       <title>Interpretable machine learning-guided plasma catalysis for hydrogen production</title>
