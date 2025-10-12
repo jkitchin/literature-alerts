@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 Oct 2025 01:23:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 01:37:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>The Integration of Magnetic Fields and Catalysts for Clean Energy Conversion</title>
-      <link>https://doi.org/10.1002/smll.202501973</link>
-      <description>Ziyong Zhang, Bo Feng, Junting Sun, Guowei Li, Zunming Lu, Junqiang Wang, Juntao Huo, Small. None(None)] 2025. https://openalex.org/W4414793182
-
-                Abstract Electrocatalysis is a crucial approach for achieving clean energy transitions, requiring highly efficient catalytic materials to expedite this process. However, overcoming the thermodynamic and kinetic constraints is key to discovering next&#8208;generation materials that are both cost&#8208;effective and efficient. The introduction of magnetic fields offers new opportunities for modulating the electronic structures of catalytic materials, optimizing the adsorption/desorption behavior of key intermediates, and enhancing catalytic efficiency. This review starts with the fundamental principles of classical electrocatalytic reactions, and revisits the main mechanisms by which magnetic fields affect magnetic catalytic materials and electrocatalytic systems, including magneto&#8208;thermal effects, magnetohydrodynamic effects, and spin&#8208;selective effects. Focusing on amorphous materials, topological materials, and metal oxides, the review highlights the design of magnetic catalytic materials, the control of magnetic structures, and their response behaviors to external fields. Finally, it discusses the major bottlenecks facing magnetic catalysis and its potential applications in other important small molecule catalytic transformations. This review provides a new perspective for understanding the essence of magnetic field chemistry and accelerating the development of catalytic materials aimed at applications.</description>
-      <author>Ziyong Zhang, Bo Feng, Junting Sun, Guowei Li, Zunming Lu, Junqiang Wang, Juntao Huo</author>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202501973</guid>
-    </item>
-    <item>
-      <title>Surface microenvironment regulation of nitrogen-doped carbon via deep eutectic solvent for enhanced oxygen reaction kinetics in zinc-air batteries</title>
-      <link>https://doi.org/10.1016/j.ces.2025.122738</link>
-      <description>Guowei Hao, Peng Wang, D. Yuhui Deng, Wei Zhang, Suqin Wu, Wenhao Zhang, Henan Li, Li Xu, Chemical Engineering Science. None(None)] 2025. https://openalex.org/W4414797360
-
-                No abstract</description>
-      <author>Guowei Hao, Peng Wang, D. Yuhui Deng, Wei Zhang, Suqin Wu, Wenhao Zhang, Henan Li, Li Xu</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2025.122738</guid>
-    </item>
-    <item>
-      <title>Revealing How Acid Sites Enhance the Electrocatalytic Glycerol Oxidation Performance on Pt Loaded Zeolite&#8208;Carbon Composite Materials</title>
-      <link>https://doi.org/10.1002/adma.202511220</link>
-      <description>Ju Ye Kim, S.Y. No, Jinwoo Hwang, M.H. Yoo, Hak&#8208;Ju Lee, Youngbi Kim, Youngmin Kim, Yong Tae Kim, Jeong&#8208;Chul Kim, Jeong Woo Han, Kyoungsoo Kim, Hyung Ju Kim, Advanced Materials. None(None)] 2025. https://openalex.org/W4414812358
-
-                Abstract The catalytic role and function of acid sites in solid acid catalysts, such as zeolites, are well understood in the context of heterogeneous catalytic reactions. But although many studies have highlighted the importance of acid sites, their catalytic effects in electrocatalytic reactions have rarely been investigated. In this work, a novel catalyst synthesis strategy is developed, integrating metal sites with acid sites for application in the electrocatalytic glycerol oxidation reaction (EGOR). Specifically, an ordered microporous carbon support containing acidic aluminum sites (AlYTC) is prepared through a nanocasting approach using a sacrificial zeolite template. Platinum (Pt) nanoclusters are then deposited onto the AlYTC support, forming a structure that exposes both acid sites and Pt nanoclusters on a zeolite&#8208;templated 3D carbon framework (PtAlYTC). The prepared PtAlYTC catalyst demonstrates a turnover frequency (TOF, s &#8722;1 ) 30 times higher and a reaction rate () 17 times greater than those of a Pt catalyst lacking acid sites (PtYTC) in the EGOR. First&#8208;principles density functional theory (DFT) calculations indicate that the combination of Pt sites and acidic Al sites lowers the Gibbs free energy of key reaction steps, improves charge transfer, and strengthens hydrogen adsorption, thereby significantly enhancing the catalytic performance in EGOR.</description>
-      <author>Ju Ye Kim, S.Y. No, Jinwoo Hwang, M.H. Yoo, Hak&#8208;Ju Lee, Youngbi Kim, Youngmin Kim, Yong Tae Kim, Jeong&#8208;Chul Kim, Jeong Woo Han, Kyoungsoo Kim, Hyung Ju Kim</author>
-      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202511220</guid>
-    </item>
     <item>
       <title>Selective Carbon Dioxide-to-Formic Acid Conversion via Composition and Vacancy Engineering of MoxNbyV1-(x+y)Se2 Alloys</title>
       <link>https://doi.org/10.1007/s11814-025-00555-5</link>
