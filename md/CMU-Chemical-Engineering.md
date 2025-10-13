@@ -1,18 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun Oct 12 01:37:10 2025
+Created on Mon Oct 13 01:40:29 2025
 
-Found 1 results from 2025-10-05 to 2025-10-12
+Found 0 results from 2025-10-06 to 2025-10-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
-## Long-term measurements of wind and turbulence from a calibrated 1290 MHz radar wind profiler at the Eastern North Atlantic atmospheric observatory   
-
-OpenAlex: https://openalex.org/W4414822723    
-Open access: True
-    
-[August Mikkelsen](https://openalex.org/A5115775480), [Virendra P. Ghate](https://openalex.org/A5048715153), [Daniel T. McCoy](https://openalex.org/A5052404448), [Hamish Gordon](https://openalex.org/A5086004922), No host. None(None)] 2025.https://doi.org/10.5194/egusphere-2025-4434.
-    
-Abstract. Turbulence in the marine boundary layer is closely coupled with the physical properties of marine boundary layer clouds. However, these turbulent motions are difficult to observe, resulting in very few observations of turbulence properties over the open oceans. In this work data collected by the 1290 MHz Radar Wind Profiler (RWP) part of the Atmospheric Radiation Measurement (ARM) Eastern North Atlantic (ENA) site are used to characterize winds and boundary layer turbulence. The RWP wind, precipitation long pulse and precipitation short pulse modes were calibrated using the surface laser disdrometer. Over the 10 years of data analyzed here, the RWP wind mode calibration constant, sensitivity, and dynamic range fluctuated between -84 to -44 dB, -15 to 9 dBZ, and 12 to 21 dBZ, respectively. The clear-air RWP echoes were used to derive structure function of the refractive index (Cn2) and dissipation rates of turbulence kinetic energy (ε). Both Cn2 and ε decreased from surface upwards with higher values in the winter months and lower values in the summer months consistent with previous studies. Despite the marine location, the ε was affected by island heating during southerly wind conditions. The results reported herein have implications for RWP operational research and climatological studies at the ARM ENA site.    
-
-    
