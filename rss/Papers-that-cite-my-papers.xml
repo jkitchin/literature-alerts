@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Oct 2025 01:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 01:26:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Strained-Induced Morphological Reconstruction of RuO&lt;sub&gt;2&lt;/sub&gt;(110) Thin-Film Electrocatalysts</title>
-      <link>https://doi.org/10.1021/jacs.5c08607</link>
-      <description>Jacob Som, Austin Jerad Reese, Luka Mitrovic, R. Soyoung Kim, Shay McBride, Swapnil Nalawade, Shyam Aravamudhan, Geoffroy Hautier, Junko Yano, Darrell G. Schlom, Jin Suntivich, Journal of the American Chemical Society. None(None)] 2025. https://openalex.org/W4414843702
-
-                Strain is a widely used strategy for electrocatalyst engineering. Overstraining, however, can lead to unintentional materials transformation. We investigate the impact of strain on the surface morphology of a rutile RuO2(110) film grown on a symmetry-matching rutile TiO2(110) substrate. When the film thickness exceeds 9 nm, the RuO2 surface relaxes by forming step edges that expose the {011} plane. Density functional theory (DFT) calculation shows that the (011) facet is among the lower energy surfaces of rutile RuO2, suggesting that this formation incurs minimal energetic penalties. In situ atomic force microscopy (AFM) shows that the film maintains the (110) structure of the terrace during electrochemistry. Inductively coupled plasma-mass spectrometry (ICP-MS) further reveals the insensitivity of the Ru dissolution to strain. Our findings show a strain-relieving pathway via surface reconstruction in RuO2(110) and provide an example of a strain-relieving mechanism that does not affect dissolution.</description>
-      <author>Jacob Som, Austin Jerad Reese, Luka Mitrovic, R. Soyoung Kim, Shay McBride, Swapnil Nalawade, Shyam Aravamudhan, Geoffroy Hautier, Junko Yano, Darrell G. Schlom, Jin Suntivich</author>
-      <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.5c08607</guid>
-    </item>
-    <item>
-      <title>Spin&#8208;State Reconfiguration and Lattice Oxygen Activation Co&#8208;Mediated Oxygen Evolution Catalysis Pathway via Artificial Hetero&#8208;Sites for Rechargeable Zn&#8211;Air Batteries</title>
-      <link>https://doi.org/10.1002/adfm.202514933</link>
-      <description>Hongmei Tang, Maohong Fan, Lin Lv, Gang Cheng, Fei Han, Junhua Zou, Qing Gong, Zhenxiong Huang, Xiaoping Chen, Bohong Chen, Houzhao Wan, Hao Wang, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4414845333
-
-                Abstract It is desirable but challenging to develop low&#8208;cost and high&#8208;performance electrocatalysts for the oxygen evolution reaction (OER) in zinc&#8211;air batteries (ZABs) applications. In this work, a series of cerium oxide&#8208;coated cobalt vanadium oxide nanoplates (denoted as CVO@CeO 2 ) are prepared using different CeO 2 loadings through a facile two&#8208;step method. Compared to bare CVO, CeO 2, and commercial RuO 2 , the CVO@CeO 2 &#8208;0.20 catalyst presents much higher activity toward OER in alkaline solutions. Moreover, the CVO@CeO 2 &#8208;0.20 also exhibits superior open&#8208;circuit voltage and durability when utilized as the cathode in ZABs. Both theoretical calculations and experimental results disclose that the decoration of CeO 2 on CVO not only regulates the formation of high&#8208;spin state Co 3+ , optimizing the absorbate evolution mechanism (AEM) pathway, but also activates lattice oxygen, enhancing the lattice oxide oxidation mechanism (LOM) pathway. This research presents the CVO@CeO 2 heterojunction as an excellent catalyst for the OER and proposes a promising interface&#8208;regulated strategy for developing catalysts based on the reinforcement of AEM and LOM mechanisms.</description>
-      <author>Hongmei Tang, Maohong Fan, Lin Lv, Gang Cheng, Fei Han, Junhua Zou, Qing Gong, Zhenxiong Huang, Xiaoping Chen, Bohong Chen, Houzhao Wan, Hao Wang</author>
-      <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202514933</guid>
-    </item>
-    <item>
-      <title>Enhancing hydrogen evolution reaction performance of ZnIn2S4-Based single atom catalysts via surface vacancies and interlayer charge transfer</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.151790</link>
-      <description>Wenli Xie, Bin Cui, Desheng Liu, Haicai Huang, Chuan&#8208;Lu Yang, International Journal of Hydrogen Energy. 183(None)] 2025. https://openalex.org/W4414860439
-
-                No abstract</description>
-      <author>Wenli Xie, Bin Cui, Desheng Liu, Haicai Huang, Chuan&#8208;Lu Yang</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.151790</guid>
-    </item>
     <item>
       <title>Mechanistic Understanding of Laser&#8208;Induced Defect Engineering of Anisotropic Cobalt Oxide Spinel Platelets in Water</title>
       <link>https://doi.org/10.1002/cctc.202501054</link>
@@ -588,14 +558,24 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c04625</guid>
     </item>
     <item>
-      <title>Harnessing Supercooled Liquid Sulfur for Enhanced Electrochemical Performance in Nanoporous Metal-Based Lithium&#8211;Sulfur Batteries</title>
-      <link>https://doi.org/10.1021/acsmaterialslett.5c01173</link>
-      <description>Cong Xi, Shuo Hao, Xiaotong Wang, Lei Bi, Zejing Lin, Chunchen Zhang, Jiuhui Han, ACS Materials Letters. None(None)] 2025. https://openalex.org/W4414857526
+      <title>Water Oxidation in Medium-Entropy Spinel Oxides via Lattice Oxygen Activation</title>
+      <link>https://doi.org/10.1021/acsenergylett.5c02570</link>
+      <description>Mao Sun, Yu Tang, Jike Wang, ACS Energy Letters. None(None)] 2025. https://openalex.org/W4415094215
+
+                The development of efficient oxygen evolution reaction (OER) catalysts requires advancements in both the mechanism understanding and material design. The lattice oxygen oxidation mechanism (LOM) typically has a lower thermodynamic barrier than the absorbate evolution mechanism (AEM), yet controlling the OER pathway from the AEM to the LOM remains challenging. Here, we demonstrate efficient lattice oxygen activation in a spinel-structured CoFeMoRu medium-entropy oxide (CoFeMoRuMEO) catalyst through strategic octahedral engineering. The introduction of Mo increases the electron density at the Co sites, thereby weakening OH adsorption and suppressing CoOOH formation via the AEM pathway. Meanwhile, compressed RuO6 octahedra create shortened Ru&#8211;O bonds, enhancing Ru&#8211;O covalency and facilitating the critical O&#8211;O coupling step. As a result, the CoFeMoRuMEO catalyst achieves a remarkable overpotential of 168 mV at 10 mA cm&#8211;2, setting a new benchmark for medium-to-high-entropy OER catalysts. Our work provides valuable insights into the transformation of the OER mechanism and performance optimization.</description>
+      <author>Mao Sun, Yu Tang, Jike Wang</author>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.5c02570</guid>
+    </item>
+    <item>
+      <title>Suppression of Fe loss to promote reconstructed surface via black phosphorus over NiFeB nanosheets for efficient water oxidation</title>
+      <link>https://doi.org/10.1016/j.cej.2025.169571</link>
+      <description>Zehao Wang, Huayu Chen, Yesheng Fu, Yin Hang, Dandan Yu, Junhui Liang, Yuexiang Huang, Liuqi Wang, Wei Gao, Da Chen, Yang Hou, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4415094324
 
                 No abstract</description>
-      <author>Cong Xi, Shuo Hao, Xiaotong Wang, Lei Bi, Zejing Lin, Chunchen Zhang, Jiuhui Han</author>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.5c01173</guid>
+      <author>Zehao Wang, Huayu Chen, Yesheng Fu, Yin Hang, Dandan Yu, Junhui Liang, Yuexiang Huang, Liuqi Wang, Wei Gao, Da Chen, Yang Hou</author>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.169571</guid>
     </item>
     <item>
       <title>Are we there yet? Adventures on a road trip through machine learning as a computational chemist</title>
@@ -626,16 +606,6 @@
       <author>Mingyi Zhang, A. Salvador, Gregory S. Rohrer</author>
       <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1111/jace.70296</guid>
-    </item>
-    <item>
-      <title>Graph neural networks for predicting metal&#8211;ligand coordination of transition metal complexes</title>
-      <link>https://doi.org/10.1073/pnas.2415658122</link>
-      <description>Jacob Toney, R. Michel, Aaron Garrison, Ilia Kevlishvili, Heather J. Kulik, Proceedings of the National Academy of Sciences. 122(41)] 2025. https://openalex.org/W4414857994
-
-                High-throughput virtual screening campaigns are invaluable for surveying the combinatorial space of possible transition metal complexes (TMCs), but they rely on accurate metal&#8211;ligand connectivity for meaningful results. Here, we curate a dataset of 70,069 unique ligands of known coordination from experimental structures of TMCs deposited in the Cambridge Structural Database. Using this dataset, we train separate graph neural network models to predict the total number and individual identities of ligand coordinating atoms with high accuracy and precision. Interpreting each model in terms of the learned molecular representations uncovers trends aligned with our understanding of coordination chemistry as well as chemical insights. Next, we integrate the trained models with the high-throughput screening software molSimplify and illustrate their utility by generating 1,175 TMCs and validating their geometries with density functional theory calculations. We anticipate these models will accelerate computational screening of TMCs with de novo combinations of metals and ligands in physically realistic coordination.</description>
-      <author>Jacob Toney, R. Michel, Aaron Garrison, Ilia Kevlishvili, Heather J. Kulik</author>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2415658122</guid>
     </item>
   </channel>
 </rss>

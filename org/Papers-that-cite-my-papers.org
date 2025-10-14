@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Oct 13 01:40:40 2025
+Created on Tue Oct 14 01:26:13 2025
 
-Found 63 results from 2025-10-06 to 2025-10-13
+Found 60 results from 2025-10-07 to 2025-10-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4402230343%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120]]
@@ -17,69 +17,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* Strained-Induced Morphological Reconstruction of RuO2(110) Thin-Film Electrocatalysts  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4414843702
-:TOPICS: Electrocatalysts for Energy Conversion, Machine Learning in Materials Science, Electrochemical Analysis and Applications
-:PUBLICATION_DATE: 2025-10-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacs.5c08607")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4414843702"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4414843702"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4414843702"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4414843702 (Open access: False)
-    
-[[https://openalex.org/A5085076901][Jacob Som]], [[https://openalex.org/A5011427692][Austin Jerad Reese]], [[https://openalex.org/A5114618073][Luka Mitrovic]], [[https://openalex.org/A5014991224][R. Soyoung Kim]], [[https://openalex.org/A5109626388][Shay McBride]], [[https://openalex.org/A5080926709][Swapnil Nalawade]], [[https://openalex.org/A5023215980][Shyam Aravamudhan]], [[https://openalex.org/A5027208775][Geoffroy Hautier]], [[https://openalex.org/A5087040660][Junko Yano]], [[https://openalex.org/A5066447005][Darrell G. Schlom]], [[https://openalex.org/A5065854437][Jin Suntivich]], Journal of the American Chemical Society. None(None)] 2025. https://doi.org/10.1021/jacs.5c08607 
-     
-Strain is a widely used strategy for electrocatalyst engineering. Overstraining, however, can lead to unintentional materials transformation. We investigate the impact of strain on the surface morphology of a rutile RuO2(110) film grown on a symmetry-matching rutile TiO2(110) substrate. When the film thickness exceeds 9 nm, the RuO2 surface relaxes by forming step edges that expose the {011} plane. Density functional theory (DFT) calculation shows that the (011) facet is among the lower energy surfaces of rutile RuO2, suggesting that this formation incurs minimal energetic penalties. In situ atomic force microscopy (AFM) shows that the film maintains the (110) structure of the terrace during electrochemistry. Inductively coupled plasma-mass spectrometry (ICP-MS) further reveals the insensitivity of the Ru dissolution to strain. Our findings show a strain-relieving pathway via surface reconstruction in RuO2(110) and provide an example of a strain-relieving mechanism that does not affect dissolution.    
-
-    
-
-* Spin‐State Reconfiguration and Lattice Oxygen Activation Co‐Mediated Oxygen Evolution Catalysis Pathway via Artificial Hetero‐Sites for Rechargeable Zn–Air Batteries  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4414845333
-:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Advanced Photocatalysis Techniques
-:PUBLICATION_DATE: 2025-10-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adfm.202514933")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4414845333"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4414845333"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4414845333"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4414845333 (Open access: False)
-    
-[[https://openalex.org/A5066612669][Hongmei Tang]], [[https://openalex.org/A5079808010][Maohong Fan]], [[https://openalex.org/A5108909482][Lin Lv]], [[https://openalex.org/A5111676086][Gang Cheng]], [[https://openalex.org/A5083427232][Fei Han]], [[https://openalex.org/A5067816479][Junhua Zou]], [[https://openalex.org/A5054685218][Qing Gong]], [[https://openalex.org/A5057778151][Zhenxiong Huang]], [[https://openalex.org/A5100462214][Xiaoping Chen]], [[https://openalex.org/A5055701920][Bohong Chen]], [[https://openalex.org/A5007052387][Houzhao Wan]], [[https://openalex.org/A5100746692][Hao Wang]], Advanced Functional Materials. None(None)] 2025. https://doi.org/10.1002/adfm.202514933 
-     
-Abstract It is desirable but challenging to develop low‐cost and high‐performance electrocatalysts for the oxygen evolution reaction (OER) in zinc–air batteries (ZABs) applications. In this work, a series of cerium oxide‐coated cobalt vanadium oxide nanoplates (denoted as CVO@CeO 2 ) are prepared using different CeO 2 loadings through a facile two‐step method. Compared to bare CVO, CeO 2, and commercial RuO 2 , the CVO@CeO 2 ‐0.20 catalyst presents much higher activity toward OER in alkaline solutions. Moreover, the CVO@CeO 2 ‐0.20 also exhibits superior open‐circuit voltage and durability when utilized as the cathode in ZABs. Both theoretical calculations and experimental results disclose that the decoration of CeO 2 on CVO not only regulates the formation of high‐spin state Co 3+ , optimizing the absorbate evolution mechanism (AEM) pathway, but also activates lattice oxygen, enhancing the lattice oxide oxidation mechanism (LOM) pathway. This research presents the CVO@CeO 2 heterojunction as an excellent catalyst for the OER and proposes a promising interface‐regulated strategy for developing catalysts based on the reinforcement of AEM and LOM mechanisms.    
-
-    
-
-* Enhancing hydrogen evolution reaction performance of ZnIn2S4-Based single atom catalysts via surface vacancies and interlayer charge transfer  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4414860439
-:TOPICS: Electrocatalysts for Energy Conversion, Chalcogenide Semiconductor Thin Films, Advanced Photocatalysis Techniques
-:PUBLICATION_DATE: 2025-10-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2025.151790")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4414860439"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4414860439"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4414860439"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4414860439 (Open access: False)
-    
-[[https://openalex.org/A5100909732][Wenli Xie]], [[https://openalex.org/A5030856510][Bin Cui]], [[https://openalex.org/A5100627726][Desheng Liu]], [[https://openalex.org/A5103783994][Haicai Huang]], [[https://openalex.org/A5083167888][Chuan‐Lu Yang]], International Journal of Hydrogen Energy. 183(None)] 2025. https://doi.org/10.1016/j.ijhydene.2025.151790 
-     
-No abstract    
-
-    
 
 * Mechanistic Understanding of Laser‐Induced Defect Engineering of Anisotropic Cobalt Oxide Spinel Platelets in Water  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -1236,22 +1173,43 @@ The formulation of a structured framework dedicated to the systematic review of 
 
     
 
-* Harnessing Supercooled Liquid Sulfur for Enhanced Electrochemical Performance in Nanoporous Metal-Based Lithium–Sulfur Batteries  :Papers_that_cite_my_papers:
+* Water Oxidation in Medium-Entropy Spinel Oxides via Lattice Oxygen Activation  :Papers_that_cite_my_papers:
 :PROPERTIES:
-:UUID: https://openalex.org/W4414857526
-:TOPICS: Advanced Battery Materials and Technologies, Advancements in Battery Materials, Supercapacitor Materials and Fabrication
-:PUBLICATION_DATE: 2025-10-06
+:UUID: https://openalex.org/W4415094215
+:TOPICS: Electrocatalysts for Energy Conversion, Advancements in Solid Oxide Fuel Cells, Electronic and Structural Properties of Oxides
+:PUBLICATION_DATE: 2025-10-12
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsmaterialslett.5c01173")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsenergylett.5c02570")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4414857526"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4414857526"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4414857526"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4415094215"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4415094215"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4415094215"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4414857526 (Open access: False)
+OpenAlex: https://openalex.org/W4415094215 (Open access: False)
     
-[[https://openalex.org/A5103895886][Cong Xi]], [[https://openalex.org/A5066240034][Shuo Hao]], [[https://openalex.org/A5100320454][Xiaotong Wang]], [[https://openalex.org/A5017738174][Lei Bi]], [[https://openalex.org/A5080721664][Zejing Lin]], [[https://openalex.org/A5104324332][Chunchen Zhang]], [[https://openalex.org/A5048924452][Jiuhui Han]], ACS Materials Letters. None(None)] 2025. https://doi.org/10.1021/acsmaterialslett.5c01173 
+[[https://openalex.org/A5044320178][Mao Sun]], [[https://openalex.org/A5085618081][Yu Tang]], [[https://openalex.org/A5065805707][Jike Wang]], ACS Energy Letters. None(None)] 2025. https://doi.org/10.1021/acsenergylett.5c02570 
+     
+The development of efficient oxygen evolution reaction (OER) catalysts requires advancements in both the mechanism understanding and material design. The lattice oxygen oxidation mechanism (LOM) typically has a lower thermodynamic barrier than the absorbate evolution mechanism (AEM), yet controlling the OER pathway from the AEM to the LOM remains challenging. Here, we demonstrate efficient lattice oxygen activation in a spinel-structured CoFeMoRu medium-entropy oxide (CoFeMoRuMEO) catalyst through strategic octahedral engineering. The introduction of Mo increases the electron density at the Co sites, thereby weakening OH adsorption and suppressing CoOOH formation via the AEM pathway. Meanwhile, compressed RuO6 octahedra create shortened Ru–O bonds, enhancing Ru–O covalency and facilitating the critical O–O coupling step. As a result, the CoFeMoRuMEO catalyst achieves a remarkable overpotential of 168 mV at 10 mA cm–2, setting a new benchmark for medium-to-high-entropy OER catalysts. Our work provides valuable insights into the transformation of the OER mechanism and performance optimization.    
+
+    
+
+* Suppression of Fe loss to promote reconstructed surface via black phosphorus over NiFeB nanosheets for efficient water oxidation  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4415094324
+:TOPICS: Electrocatalysts for Energy Conversion, Copper-based nanomaterials and applications, Nanomaterials for catalytic reactions
+:PUBLICATION_DATE: 2025-10-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2025.169571")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4415094324"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4415094324"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4415094324"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4415094324 (Open access: False)
+    
+[[https://openalex.org/A5100769599][Zehao Wang]], [[https://openalex.org/A5005985350][Huayu Chen]], [[https://openalex.org/A5109792691][Yesheng Fu]], [[https://openalex.org/A5100387956][Yin Hang]], [[https://openalex.org/A5112878192][Dandan Yu]], [[https://openalex.org/A5067392495][Junhui Liang]], [[https://openalex.org/A5046942532][Yuexiang Huang]], [[https://openalex.org/A5101392288][Liuqi Wang]], [[https://openalex.org/A5100732618][Wei Gao]], [[https://openalex.org/A5100392719][Da Chen]], [[https://openalex.org/A5074169832][Yang Hou]], Chemical Engineering Journal. None(None)] 2025. https://doi.org/10.1016/j.cej.2025.169571 
      
 No abstract    
 
@@ -1317,26 +1275,5 @@ OpenAlex: https://openalex.org/W4415019979 (Open access: True)
 [[https://openalex.org/A5100654911][Mingyi Zhang]], [[https://openalex.org/A5011571372][A. Salvador]], [[https://openalex.org/A5029524832][Gregory S. Rohrer]], Journal of the American Ceramic Society. None(None)] 2025. https://doi.org/10.1111/jace.70296 
      
 Abstract Determining suitable dopants with optimized doping concentration is critical to design efficient water splitting photocatalysts. However, there is currently a lack of fundamental knowledge to guide this process. Herein, we examine the impact of Al 3+ , Mg 2+ , and Ga 3+ on the photocatalytic performance of SrTiO 3 and propose a defect compensation model to understand the doping effect. Doped SrTiO 3 crystals were grown hydrothermally and treated in molten SrCl 2 . The hydrogen production rates from 50 catalysts produced in this way were measured with a high‐throughput parallelized and automated photochemical reactor (PAPCR). The investigation revealed that all three dopants significantly enhance the photocatalytic reactivity. According to Brouwer diagrams computed using available reaction constants, the optimum reactivity is achieved when the concentration of acceptor dopants fully compensates the oxygen vacancy donors. The improved reactivity can be attributed to the reduction in free electron concentration, resulting in a space charge layer that is 1000 times longer. Consequently, this situation enhances the number of photogenerated charge carriers capable of being separated by the band bending and transported to the surface.    
-
-    
-
-* Graph neural networks for predicting metal–ligand coordination of transition metal complexes  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4414857994
-:TOPICS: Computational Drug Discovery Methods, Machine Learning in Materials Science, Crystallography and molecular interactions
-:PUBLICATION_DATE: 2025-10-06
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1073/pnas.2415658122")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4414857994"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4414857994"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4414857994"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4414857994 (Open access: True)
-    
-[[https://openalex.org/A5070530038][Jacob Toney]], [[https://openalex.org/A5114911072][R. Michel]], [[https://openalex.org/A5053568386][Aaron Garrison]], [[https://openalex.org/A5009462742][Ilia Kevlishvili]], [[https://openalex.org/A5050671822][Heather J. Kulik]], Proceedings of the National Academy of Sciences. 122(41)] 2025. https://doi.org/10.1073/pnas.2415658122 
-     
-High-throughput virtual screening campaigns are invaluable for surveying the combinatorial space of possible transition metal complexes (TMCs), but they rely on accurate metal–ligand connectivity for meaningful results. Here, we curate a dataset of 70,069 unique ligands of known coordination from experimental structures of TMCs deposited in the Cambridge Structural Database. Using this dataset, we train separate graph neural network models to predict the total number and individual identities of ligand coordinating atoms with high accuracy and precision. Interpreting each model in terms of the learned molecular representations uncovers trends aligned with our understanding of coordination chemistry as well as chemical insights. Next, we integrate the trained models with the high-throughput screening software molSimplify and illustrate their utility by generating 1,175 TMCs and validating their geometries with density functional theory calculations. We anticipate these models will accelerate computational screening of TMCs with de novo combinations of metals and ligands in physically realistic coordination.    
 
     
