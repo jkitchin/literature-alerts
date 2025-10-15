@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 14 Oct 2025 01:26:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 01:37:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Mechanistic Understanding of Laser&#8208;Induced Defect Engineering of Anisotropic Cobalt Oxide Spinel Platelets in Water</title>
-      <link>https://doi.org/10.1002/cctc.202501054</link>
-      <description>Dana Schellenburg, Thomas Bihnam, Carsten Placke&#8208;Yan, Georg Bendt, Oleg Prymak, Takuma Sato, Dylan Jennings, Catalina Leiva&#8208;Leroy, Dongsheng Zhang, Milen Nachev, Kapil Dhaka, F.B.S. Nkou, Ulrich Hagemann, Markus Heidelmann, St&#233;phane Kenmoe, Kai S. Exner, Bernd Sures, Martin Muhler, Christian H. Liebscher, Alexander Schnegg, Stephan Schulz, Stephan Barcikowski, Sven Reichenberger, ChemCatChem. None(None)] 2025. https://openalex.org/W4414866193
-
-                Abstract In this study, we employ the pulsed laser defect engineering in liquid (PUDEL) to tailor the surface properties of cobalt (II, III) oxide (Co 3 O 4 ) platelets grown in the &lt; 111 &gt; direction. By varying the laser intensity and pulse number, we systematically investigate the relationship between defect formation and catalytic performance in the oxygen evolution reaction (OER) and selective oxidation of two alcohols. Our results reveal that the PUDEL processing leads to the formation of lattice distortions, the gradual alteration of three different paramagnetic defect sites, a partial reduction of Co 3 O 4 , and enrichment of the Co 3 O 4 (111) surface with hydroxyl groups (*OH), which significantly enhances OER activity. Theoretical investigations confirm that optimized hydroxyl coverage is critical for determining OER activity. The observed trends in selectivity and conversion efficiency for the selective oxidation of cinnamyl alcohol (CA) and ethylene glycol (EG) suggest different reaction mechanisms. The activity trend of the selective oxidation of CA appears to follow the trend of a defect&#8208;attributed paramagnetic species that was assigned to a surface&#8208;near, distorted high&#8208;spin (S = 3/2) Co 2+ . In turn, the catalytic activity and OER activity trends for the EG oxidation showed similar trends, which followed the density of a paramagnetic CoO x species observed during EPR spectroscopy. In particular, the highest OER activity and EG conversion were both found for moderate (2 PPV, ), yet not too intense PUDEL processing. Our findings establish PUDEL as a precise method for catalyst optimization, both for thermal and electro&#8208;catalytic oxidation over defect&#8208;enriched cobalt oxides, which enables the correlation of specific laser&#8208;induced defects with catalytic activity trends.</description>
-      <author>Dana Schellenburg, Thomas Bihnam, Carsten Placke&#8208;Yan, Georg Bendt, Oleg Prymak, Takuma Sato, Dylan Jennings, Catalina Leiva&#8208;Leroy, Dongsheng Zhang, Milen Nachev, Kapil Dhaka, F.B.S. Nkou, Ulrich Hagemann, Markus Heidelmann, St&#233;phane Kenmoe, Kai S. Exner, Bernd Sures, Martin Muhler, Christian H. Liebscher, Alexander Schnegg, Stephan Schulz, Stephan Barcikowski, Sven Reichenberger</author>
-      <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202501054</guid>
-    </item>
-    <item>
-      <title>Facet-Specific Nitrogen Vacancy Engineering in BaMO2N (M = Ta, Nb) for Enhanced Electrochemical Ammonia Production: Insights from First-Principles Calculations</title>
-      <link>https://doi.org/10.1016/j.mtcata.2025.100125</link>
-      <description>Santhanamoorthi Nachimuthu, Chenglin Chu, Zhong-Lun Li, Kenta Hongo, Ryo Maezono, Yuji Masubuchi, Jyh&#8208;Chiang Jiang, Materials Today Catalysis. None(None)] 2025. https://openalex.org/W4414871685
-
-                No abstract</description>
-      <author>Santhanamoorthi Nachimuthu, Chenglin Chu, Zhong-Lun Li, Kenta Hongo, Ryo Maezono, Yuji Masubuchi, Jyh&#8208;Chiang Jiang</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcata.2025.100125</guid>
-    </item>
-    <item>
-      <title>Superparamagnetic Fe&#8211;Ni mixed oxides-based electrocatalysts for enhanced alkaline oxygen evolution</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2025.151026</link>
-      <description>Tabassum Taspya, Tanvir Ahmed, Md. Mominul Islam, International Journal of Hydrogen Energy. None(None)] 2025. https://openalex.org/W4414872926
-
-                No abstract</description>
-      <author>Tabassum Taspya, Tanvir Ahmed, Md. Mominul Islam</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2025.151026</guid>
-    </item>
-    <item>
-      <title>Determining the Potential of Maximum Entropy from Ab Initio Molecular Dynamics</title>
-      <link>https://doi.org/10.1002/adts.202500958</link>
-      <description>Amanda Schramm Petersen, T. Madsen, Theophilus Kobina Sarpey, Christian M. Schott, Elena L. Gubanova, Adrian V. Himmelreich, Aliaksandr S. Bandarenka, Jan Rossmeisl, Advanced Theory and Simulations. None(None)] 2025. https://openalex.org/W4414874714
-
-                Abstract Understanding electrochemical interfaces at the atomic level is essential for optimizing catalytic performance in energy conversion and storage technologies. This study introduces a computational framework based on ab initio molecular dynamics (AIMD) simulations to predict the potential of maximum entropy (PME) a descriptor of electric double layer disorder and charge transfer efficiency. By integrating AIMD with the generalized computational hydrogen electrode, it is systematically investigated how electrolyte composition, cation identity, and pH effect the position of PME. The approach reproduces experimental shifts in PME for Au and Pt electrodes and provides unprecedented insights into the emergence of multiple PME values in mixed&#8208;cation systems. The findings challenge conventional models of electrolyte structuring by revealing the presence of multiple PME values within mixed&#8208;cation systems. This suggests a more complex interplay between cations, adsorbates, and interfacial disorder than previously assumed. The computational framework developed in this study provides a predictive tool for understanding these interactions, offering new strategies for tuning electrocatalytic activity.</description>
-      <author>Amanda Schramm Petersen, T. Madsen, Theophilus Kobina Sarpey, Christian M. Schott, Elena L. Gubanova, Adrian V. Himmelreich, Aliaksandr S. Bandarenka, Jan Rossmeisl</author>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adts.202500958</guid>
-    </item>
-    <item>
-      <title>Interfacial Electrostatic Engineering for Chlorine Ions Blocking Toward Long&#8208;Lasting Alkaline Seawater Oxidation</title>
-      <link>https://doi.org/10.1002/smll.202509149</link>
-      <description>Yafeng Guan, Haolin Lu, Lipeng Zhao, Shengli Zhu, Zhenduo Cui, Zhaoyang Li, Wence Xu, Zhonghui Gao, Te Ba, Yanqin Liang, Guankui Long, Hui Jiang, Small. None(None)] 2025. https://openalex.org/W4414885363
-
-                Abstract The existence of Cl &#8722; in seawater electrolysis weakens the selectivity of the oxygen evolution reaction (OER) via the chlorine evolution reaction (CER) and causes material failure by chlorine pitting. Introducing anion layers not only repels the transition of Cl &#8722; without retarding the diffusion of oxygen&#8208;containing anions but also can be generated in situ on the outer surface. Here, a hierarchical catalyst consisting of a MnO 2 layer formed on a Ni foam substrate covered uniformly by a nickel&#8208;iron layered double hydroxide (NiFe&#8208;LDH) active layer is developed through interfacial electrostatic engineering. It was found that the introduced Lewis acid layer (MnO 2 ) can spontaneously generate OH &#8722; groups on the outer surface in situ to repel Cl &#8722; by electrostatic repulsion force. Meanwhile, Ni&#8208;active sites anchored inside the MnO 2 matrix can improve the low activity of MnO 2 . The multilayer NiFe&#8208;LDH@MnO 2 /NF anode can operate steadily at the current density of 100 mA cm &#8722;2 at 70 &#176;C for 100 h and maintain 97.9% OER selectivity. Furthermore, the OER overpotential was reduced by 136 mV, superior to the state&#8208;of&#8208;the&#8208;art commercial Ni mesh in industrial environments, especially the device can be powered by wind energy. The work offers an efficient strategy for designing high&#8208;performance seawater electrolysis with low cost and high stability.</description>
-      <author>Yafeng Guan, Haolin Lu, Lipeng Zhao, Shengli Zhu, Zhenduo Cui, Zhaoyang Li, Wence Xu, Zhonghui Gao, Te Ba, Yanqin Liang, Guankui Long, Hui Jiang</author>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202509149</guid>
-    </item>
-    <item>
-      <title>Activating C&#8211;C Coupling on Copper during CO&lt;sub&gt;2&lt;/sub&gt;RR: Charge-Controlled Design of Alloy Catalysts</title>
-      <link>https://doi.org/10.1021/acselectrochem.5c00297</link>
-      <description>Wei Wang, Mattia Salomone, Michele Re Fiorentin, Francesca Risplendi, Giancarlo Cicero, ACS electrochemistry.. None(None)] 2025. https://openalex.org/W4414901745
-
-                No abstract</description>
-      <author>Wei Wang, Mattia Salomone, Michele Re Fiorentin, Francesca Risplendi, Giancarlo Cicero</author>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acselectrochem.5c00297</guid>
-    </item>
-    <item>
-      <title>Synergistic effects in FeP4-NPC-CP Nanocomposites electrocatalysts for Boosted nitrate reduction to ammonia</title>
-      <link>https://doi.org/10.1016/j.fuel.2025.137067</link>
-      <description>Yafei Guo, Sajid Mahmood, Anum Bilal, Ali Bahadur, Shahid Iqbal, Ali Hussain, Muhammad T. Sajjad, Syed Kashif Ali, Salah Knani, Fuel. 406(None)] 2025. https://openalex.org/W4414903045
-
-                No abstract</description>
-      <author>Yafei Guo, Sajid Mahmood, Anum Bilal, Ali Bahadur, Shahid Iqbal, Ali Hussain, Muhammad T. Sajjad, Syed Kashif Ali, Salah Knani</author>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.137067</guid>
-    </item>
     <item>
       <title>Tuning electrical conductivity in lithium-doped sodium titanate via sonochemical synthesis</title>
       <link>https://doi.org/10.1016/j.mseb.2025.118836</link>
