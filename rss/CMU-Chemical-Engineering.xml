@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Oct 2025 01:37:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 01:27:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>SAD-RCPC Measurements, SGP, June 6th Event 2024</title>
+      <link>https://doi.org/10.5439/2526608</link>
+      <description>Dominic Casalnuovo, Coty N. Jen, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2025. https://openalex.org/W4415098475
+
+                No abstract</description>
+      <author>Dominic Casalnuovo, Coty N. Jen</author>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5439/2526608</guid>
+    </item>
   </channel>
 </rss>
