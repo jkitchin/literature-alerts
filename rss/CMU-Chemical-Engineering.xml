@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Oct 2025 01:27:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 01:27:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,26 @@
       <author>Dominic Casalnuovo, Coty N. Jen</author>
       <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5439/2526608</guid>
+    </item>
+    <item>
+      <title>Nonlinear model predictive control with an infinite horizon approximation</title>
+      <link>https://doi.org/10.1016/j.jprocont.2025.103565</link>
+      <description>San Dinh, Yao Tong, Zhenyu Wei, Owen Gerdes, Lorenz T. Biegler, Journal of Process Control. 155(None)] 2025. https://openalex.org/W4415195110
+
+                No abstract</description>
+      <author>San Dinh, Yao Tong, Zhenyu Wei, Owen Gerdes, Lorenz T. Biegler</author>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jprocont.2025.103565</guid>
+    </item>
+    <item>
+      <title>Designing around immune memory to counter PEG immunogenicity</title>
+      <link>https://doi.org/10.1038/s41563-025-02383-8</link>
+      <description>Namit Chaudhary, Kathryn A. Whitehead, Nature Materials. None(None)] 2025. https://openalex.org/W4415208806
+
+                No abstract</description>
+      <author>Namit Chaudhary, Kathryn A. Whitehead</author>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41563-025-02383-8</guid>
     </item>
   </channel>
 </rss>
