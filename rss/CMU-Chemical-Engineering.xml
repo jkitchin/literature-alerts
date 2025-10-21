@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 Oct 2025 01:42:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 01:37:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>SAD-RCPC Measurements, SGP, June 6th Event 2024</title>
-      <link>https://doi.org/10.5439/2526608</link>
-      <description>Dominic Casalnuovo, Coty N. Jen, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2025. https://openalex.org/W4415098475
-
-                No abstract</description>
-      <author>Dominic Casalnuovo, Coty N. Jen</author>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5439/2526608</guid>
-    </item>
     <item>
       <title>Nonlinear model predictive control with an infinite horizon approximation</title>
       <link>https://doi.org/10.1016/j.jprocont.2025.103565</link>
@@ -36,6 +26,16 @@
       <author>Namit Chaudhary, Kathryn A. Whitehead</author>
       <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41563-025-02383-8</guid>
+    </item>
+    <item>
+      <title>Beyond Force Metrics: Pre-Training MLFFs for Stable MD Simulations</title>
+      <link>https://doi.org/10.48550/arxiv.2506.14850</link>
+      <description>Shriram Maheshwari, Janghoon Ock, Adeesh Kolluru, Amir Barati Farimani, John R. Kitchin, arXiv (Cornell University). None(None)] 2025. https://openalex.org/W4415332979
+
+                Machine-learning force fields (MLFFs) have emerged as a promising solution for speeding up ab initio molecular dynamics (MD) simulations, where accurate force predictions are critical but often computationally expensive. In this work, we employ GemNet-T, a graph neural network model, as an MLFF and investigate two training strategies: (1) direct training on MD17 (10K samples) without pre-training, and (2) pre-training on the large-scale OC20 dataset followed by fine-tuning on MD17 (10K). While both approaches achieve low force mean absolute errors (MAEs), reaching 5 meV/A per atom, we find that lower force errors do not necessarily guarantee stable MD simulations. Notably, the pre-trained GemNet-T model yields significantly improved simulation stability, sustaining trajectories up to three times longer than the model trained from scratch. These findings underscore the value of pre-training on large, diverse datasets to capture complex molecular interactions and highlight that force MAE alone is not always a sufficient metric of MD simulation stability.</description>
+      <author>Shriram Maheshwari, Janghoon Ock, Adeesh Kolluru, Amir Barati Farimani, John R. Kitchin</author>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2506.14850</guid>
     </item>
   </channel>
 </rss>

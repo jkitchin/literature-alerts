@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Oct 20 01:42:59 2025
+Created on Tue Oct 21 01:37:58 2025
 
-Found 62 results from 2025-10-13 to 2025-10-20
+Found 57 results from 2025-10-14 to 2025-10-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4402230343%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4402230343%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120)
@@ -17,61 +17,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Water Oxidation in Medium-Entropy Spinel Oxides via Lattice Oxygen Activation   
-
-OpenAlex: https://openalex.org/W4415094215    
-Open access: False
-    
-[Mao Sun](https://openalex.org/A5044320178), [Yu Tang](https://openalex.org/A5085618081), [Jike Wang](https://openalex.org/A5065805707), ACS Energy Letters. None(None)] 2025.https://doi.org/10.1021/acsenergylett.5c02570.
-    
-The development of efficient oxygen evolution reaction (OER) catalysts requires advancements in both the mechanism understanding and material design. The lattice oxygen oxidation mechanism (LOM) typically has a lower thermodynamic barrier than the absorbate evolution mechanism (AEM), yet controlling the OER pathway from the AEM to the LOM remains challenging. Here, we demonstrate efficient lattice oxygen activation in a spinel-structured CoFeMoRu medium-entropy oxide (CoFeMoRuMEO) catalyst through strategic octahedral engineering. The introduction of Mo increases the electron density at the Co sites, thereby weakening OH adsorption and suppressing CoOOH formation via the AEM pathway. Meanwhile, compressed RuO6 octahedra create shortened Ru–O bonds, enhancing Ru–O covalency and facilitating the critical O–O coupling step. As a result, the CoFeMoRuMEO catalyst achieves a remarkable overpotential of 168 mV at 10 mA cm–2, setting a new benchmark for medium-to-high-entropy OER catalysts. Our work provides valuable insights into the transformation of the OER mechanism and performance optimization.    
-
-    
-
-## Suppression of Fe loss to promote reconstructed surface via black phosphorus over NiFeB nanosheets for efficient water oxidation   
-
-OpenAlex: https://openalex.org/W4415094324    
-Open access: False
-    
-[Zehao Wang](https://openalex.org/A5100769599), [Huayu Chen](https://openalex.org/A5005985350), [Yesheng Fu](https://openalex.org/A5109792691), [Yin Hang](https://openalex.org/A5100387956), [Dandan Yu](https://openalex.org/A5112878192), [Junhui Liang](https://openalex.org/A5067392495), [Yuexiang Huang](https://openalex.org/A5046942532), [Liuqi Wang](https://openalex.org/A5101392288), [Wei Gao](https://openalex.org/A5100732618), [Da Chen](https://openalex.org/A5100392719), [Yang Hou](https://openalex.org/A5074169832), Chemical Engineering Journal. None(None)] 2025.https://doi.org/10.1016/j.cej.2025.169571.
-    
-No abstract    
-
-    
-
-## Unraveling the spin-lattice-band coupling driven photocatalytic selectivity in CuFeO2 single crystals   
-
-OpenAlex: https://openalex.org/W4415098485    
-Open access: False
-    
-[Sz‐Chian Liou](https://openalex.org/A5028930638), [Xianglin Huang](https://openalex.org/A5059973993), [Yucheng Lan](https://openalex.org/A5085599446), [Shih‐Yun Chen](https://openalex.org/A5014329900), [Ting-Rong Ko](https://openalex.org/A5003645021), [Heng‐Liang Wu](https://openalex.org/A5061472836), [Hsiang‐Lin Liu](https://openalex.org/A5089674652), [Hsin‐An Chen](https://openalex.org/A5036042183), [Guo‐Jiun Shu](https://openalex.org/A5071615318), Journal of Alloys and Compounds. 1043(None)] 2025.https://doi.org/10.1016/j.jallcom.2025.184295.
-    
-No abstract    
-
-    
-
-## Advances in Bifunctional Electrocatalysts for Efficient Electrochemical Water Splitting: Strategies, Mechanisms, and Applications   
-
-OpenAlex: https://openalex.org/W4415100124    
-Open access: False
-    
-[Zhiwei Tao](https://openalex.org/A5041306301), [Xinxia Ma](https://openalex.org/A5112680470), [Jiang Wu](https://openalex.org/A5114028921), [Zhenzhen Guan](https://openalex.org/A5051100169), [Kui Li](https://openalex.org/A5100396636), [Yumin Qi](https://openalex.org/A5110365688), [Jiaqi Zheng](https://openalex.org/A5112088116), [J.J. Xue](https://openalex.org/A5108763643), [Guoqiang Wang](https://openalex.org/A5100318648), Journal of Alloys and Compounds. None(None)] 2025.https://doi.org/10.1016/j.jallcom.2025.183643.
-    
-No abstract    
-
-    
-
-## Boosting the Electrocatalytic Nitrogen Reduction Reaction Activity on Two-Dimensional Conductive Metal–Organic Frameworks: A Theoretical Study   
-
-OpenAlex: https://openalex.org/W4415101802    
-Open access: False
-    
-[Xiaoping Gao](https://openalex.org/A5015391587), [Yanan Zhou](https://openalex.org/A5054752593), [Wenhua Zhang](https://openalex.org/A5100443657), [Jinlong Yang](https://openalex.org/A5100458442), ACS Applied Materials & Interfaces. None(None)] 2025.https://doi.org/10.1021/acsami.5c13688.
-    
-Electrocatalytic nitrogen reduction reaction (NRR) is a promising alternative to the traditional Haber–Bosch process to generate ammonia (NH3). Exploring NRR electrocatalysts with efficient performance and stability is crucial for NH3 production. In this work, on the basis of density functional theory (DFT) calculations, we systematically studied various TMO4–HTP and TMN4–HTP (TM refers to V, Cr, Mn, Fe, Co, Ni, Nb, Mo, Ru, Rh, Pd, Ta, W, Re, Os, Ir, and Pt; HTP refers to hexatriphenylene) of conductive two-dimensional (2D) metal–organic frameworks (MOFs) as potential electrocatalysts for the NRR. The strong interaction between TM atoms and the O4–HTP/N4–HTP substrates could guarantee the thermodynamic and electrochemical stabilities of the designed TMO4–HTP and TMN4–HTP. The calculated results suggest that ReO4–HTP, MoO4–HTP, and MoN4–HTP could serve as promising electrocatalysts. Moreover, ReO4–HTP possesses the highest activity with a calculated limiting potential value of −0.34 V. Notably, ReO4–HTP exhibits good NRR selectivity with the effective suppression of the hydrogen evolution reaction (HER). Our results contribute to searching for NRR electrocatalysts and highlight a potentially efficient class of catalysts based on 2D MOF materials for electrochemical reactions.    
-
-    
 
 ## Improved hydrogen evolution activity descriptors from first-principles electrochemical kinetics   
 

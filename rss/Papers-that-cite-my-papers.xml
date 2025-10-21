@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 Oct 2025 01:42:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 01:37:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Water Oxidation in Medium-Entropy Spinel Oxides via Lattice Oxygen Activation</title>
-      <link>https://doi.org/10.1021/acsenergylett.5c02570</link>
-      <description>Mao Sun, Yu Tang, Jike Wang, ACS Energy Letters. None(None)] 2025. https://openalex.org/W4415094215
-
-                The development of efficient oxygen evolution reaction (OER) catalysts requires advancements in both the mechanism understanding and material design. The lattice oxygen oxidation mechanism (LOM) typically has a lower thermodynamic barrier than the absorbate evolution mechanism (AEM), yet controlling the OER pathway from the AEM to the LOM remains challenging. Here, we demonstrate efficient lattice oxygen activation in a spinel-structured CoFeMoRu medium-entropy oxide (CoFeMoRuMEO) catalyst through strategic octahedral engineering. The introduction of Mo increases the electron density at the Co sites, thereby weakening OH adsorption and suppressing CoOOH formation via the AEM pathway. Meanwhile, compressed RuO6 octahedra create shortened Ru&#8211;O bonds, enhancing Ru&#8211;O covalency and facilitating the critical O&#8211;O coupling step. As a result, the CoFeMoRuMEO catalyst achieves a remarkable overpotential of 168 mV at 10 mA cm&#8211;2, setting a new benchmark for medium-to-high-entropy OER catalysts. Our work provides valuable insights into the transformation of the OER mechanism and performance optimization.</description>
-      <author>Mao Sun, Yu Tang, Jike Wang</author>
-      <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.5c02570</guid>
-    </item>
-    <item>
-      <title>Suppression of Fe loss to promote reconstructed surface via black phosphorus over NiFeB nanosheets for efficient water oxidation</title>
-      <link>https://doi.org/10.1016/j.cej.2025.169571</link>
-      <description>Zehao Wang, Huayu Chen, Yesheng Fu, Yin Hang, Dandan Yu, Junhui Liang, Yuexiang Huang, Liuqi Wang, Wei Gao, Da Chen, Yang Hou, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4415094324
-
-                No abstract</description>
-      <author>Zehao Wang, Huayu Chen, Yesheng Fu, Yin Hang, Dandan Yu, Junhui Liang, Yuexiang Huang, Liuqi Wang, Wei Gao, Da Chen, Yang Hou</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.169571</guid>
-    </item>
-    <item>
-      <title>Unraveling the spin-lattice-band coupling driven photocatalytic selectivity in CuFeO2 single crystals</title>
-      <link>https://doi.org/10.1016/j.jallcom.2025.184295</link>
-      <description>Sz&#8208;Chian Liou, Xianglin Huang, Yucheng Lan, Shih&#8208;Yun Chen, Ting-Rong Ko, Heng&#8208;Liang Wu, Hsiang&#8208;Lin Liu, Hsin&#8208;An Chen, Guo&#8208;Jiun Shu, Journal of Alloys and Compounds. 1043(None)] 2025. https://openalex.org/W4415098485
-
-                No abstract</description>
-      <author>Sz&#8208;Chian Liou, Xianglin Huang, Yucheng Lan, Shih&#8208;Yun Chen, Ting-Rong Ko, Heng&#8208;Liang Wu, Hsiang&#8208;Lin Liu, Hsin&#8208;An Chen, Guo&#8208;Jiun Shu</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2025.184295</guid>
-    </item>
-    <item>
-      <title>Advances in Bifunctional Electrocatalysts for Efficient Electrochemical Water Splitting: Strategies, Mechanisms, and Applications</title>
-      <link>https://doi.org/10.1016/j.jallcom.2025.183643</link>
-      <description>Zhiwei Tao, Xinxia Ma, Jiang Wu, Zhenzhen Guan, Kui Li, Yumin Qi, Jiaqi Zheng, J.J. Xue, Guoqiang Wang, Journal of Alloys and Compounds. None(None)] 2025. https://openalex.org/W4415100124
-
-                No abstract</description>
-      <author>Zhiwei Tao, Xinxia Ma, Jiang Wu, Zhenzhen Guan, Kui Li, Yumin Qi, Jiaqi Zheng, J.J. Xue, Guoqiang Wang</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2025.183643</guid>
-    </item>
-    <item>
-      <title>Boosting the Electrocatalytic Nitrogen Reduction Reaction Activity on Two-Dimensional Conductive Metal&#8211;Organic Frameworks: A Theoretical Study</title>
-      <link>https://doi.org/10.1021/acsami.5c13688</link>
-      <description>Xiaoping Gao, Yanan Zhou, Wenhua Zhang, Jinlong Yang, ACS Applied Materials &amp; Interfaces. None(None)] 2025. https://openalex.org/W4415101802
-
-                Electrocatalytic nitrogen reduction reaction (NRR) is a promising alternative to the traditional Haber&#8211;Bosch process to generate ammonia (NH3). Exploring NRR electrocatalysts with efficient performance and stability is crucial for NH3 production. In this work, on the basis of density functional theory (DFT) calculations, we systematically studied various TMO4&#8211;HTP and TMN4&#8211;HTP (TM refers to V, Cr, Mn, Fe, Co, Ni, Nb, Mo, Ru, Rh, Pd, Ta, W, Re, Os, Ir, and Pt; HTP refers to hexatriphenylene) of conductive two-dimensional (2D) metal&#8211;organic frameworks (MOFs) as potential electrocatalysts for the NRR. The strong interaction between TM atoms and the O4&#8211;HTP/N4&#8211;HTP substrates could guarantee the thermodynamic and electrochemical stabilities of the designed TMO4&#8211;HTP and TMN4&#8211;HTP. The calculated results suggest that ReO4&#8211;HTP, MoO4&#8211;HTP, and MoN4&#8211;HTP could serve as promising electrocatalysts. Moreover, ReO4&#8211;HTP possesses the highest activity with a calculated limiting potential value of &#8722;0.34 V. Notably, ReO4&#8211;HTP exhibits good NRR selectivity with the effective suppression of the hydrogen evolution reaction (HER). Our results contribute to searching for NRR electrocatalysts and highlight a potentially efficient class of catalysts based on 2D MOF materials for electrochemical reactions.</description>
-      <author>Xiaoping Gao, Yanan Zhou, Wenhua Zhang, Jinlong Yang</author>
-      <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.5c13688</guid>
-    </item>
     <item>
       <title>Improved hydrogen evolution activity descriptors from first-principles electrochemical kinetics</title>
       <link>https://doi.org/10.1016/j.electacta.2025.147476</link>
