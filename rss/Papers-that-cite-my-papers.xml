@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 21 Oct 2025 01:37:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 01:40:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Improved hydrogen evolution activity descriptors from first-principles electrochemical kinetics</title>
-      <link>https://doi.org/10.1016/j.electacta.2025.147476</link>
-      <description>Dipam Manish Patel, Simiam Ghan, Andreas Lynge Vishart, Georg Kastlunger, Electrochimica Acta. None(None)] 2025. https://openalex.org/W4415122012
-
-                No abstract</description>
-      <author>Dipam Manish Patel, Simiam Ghan, Andreas Lynge Vishart, Georg Kastlunger</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2025.147476</guid>
-    </item>
-    <item>
-      <title>Direct Deoxygenation of Phenol over Fe-Based Bimetallic Surfaces Using On-the-Fly Surrogate Models</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c05436</link>
-      <description>Isaac Onyango, Qiang Zhu, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4415141532
-
-                No abstract</description>
-      <author>Isaac Onyango, Qiang Zhu</author>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c05436</guid>
-    </item>
-    <item>
-      <title>Cathode Catalyst Layer Degradation in Proton Exchange Membrane Fuel Cells under Idle and Load Cycling Conditions</title>
-      <link>https://doi.org/10.1021/acsaem.5c01392</link>
-      <description>Matthew Coats, Svitlana Pylypenko, ACS Applied Energy Materials. None(None)] 2025. https://openalex.org/W4415143977
-
-                No abstract</description>
-      <author>Matthew Coats, Svitlana Pylypenko</author>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.5c01392</guid>
-    </item>
-    <item>
-      <title>Narrowing the Kinetic Gap Between Alkaline and Acidic Hydrogen Oxidation Reactions Through Intermediate Behaviors Regulated on D&#8208;p Hybridized Pd&#8208;Based Catalysts</title>
-      <link>https://doi.org/10.1002/advs.202513616</link>
-      <description>Lixin Su, Hao Wu, Shengnan Zhou, R. Qian, Chenxi Cui, Shaokun Zhang, Liqing Wu, Wenting Li, Huan Pang, Advanced Science. None(None)] 2025. https://openalex.org/W4415152029
-
-                Abstract The kinetics of hydrogen oxidation reaction (HOR) decline by orders of magnitude when varying from acidic to alkaline environments. Consequently, narrowing the kinetic gap between alkaline and acidic HOR (acid&#8211;base kinetic gap) and identifying the prominent reaction intermediates under varying pH conditions remain significant yet challenging. Herein, through introducing p&#8208;block Ga and Sn elements, the HOR behaviors of the constructed d&#8208;p hybridized Pd&#8208;based catalysts are investigated under different electrolyte pH, particularly in alkaline and acidic conditions. Remarkably, the specific activity of PdGa/C alloy surpasses that of other prepared Pd&#8208;based catalysts in both alkaline and acidic electrolytes. Additionally, the PdGa/C alloy exhibits the smallest acid&#8211;base kinetic gap among these catalysts. Combining experimental results and theoretical calculations, it is determined that the incorporation of Ga optimizes the electronic structure of Pd via d&#8208;p orbital hybridization, thereby enhancing the adsorption behaviors of reaction intermediates, facilitating the HOR process, and narrowing the acid&#8211;base kinetic gap. More critically, it can be inferred that the decisive reaction species for HOR vary with increasing pH, namely, it transitions from H/H 2 O species in acidic conditions to OH/H 2 O species in alkaline conditions, which accounts for the observed trends in alkaline/acidic activity as well as acid&#8211;base kinetic gap.</description>
-      <author>Lixin Su, Hao Wu, Shengnan Zhou, R. Qian, Chenxi Cui, Shaokun Zhang, Liqing Wu, Wenting Li, Huan Pang</author>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/advs.202513616</guid>
-    </item>
-    <item>
-      <title>Au&#8211;Pd core&#8211;shell nanoparticles for enhanced catalytic performance in liquid-phase selective hydrogenation</title>
-      <link>https://doi.org/10.1039/d5cy00889a</link>
-      <description>Marta Perx&#233;s Perich, Kristiaan H. Helfferich, Petra E. de Jongh, Jessi E. S. van der Hoeven, Catalysis Science &amp; Technology. None(None)] 2025. https://openalex.org/W4415153541
-
-                Au&#8211;Pd core&#8211;shell nanoparticles outperform monometallic and alloyed counterparts in the liquid-phase selective hydrogenation of MBY.</description>
-      <author>Marta Perx&#233;s Perich, Kristiaan H. Helfferich, Petra E. de Jongh, Jessi E. S. van der Hoeven</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d5cy00889a</guid>
-    </item>
     <item>
       <title>Rational Design of Metal-Doped Graphitic Materials for Enhanced Lithium&#8211;Sulfur Batteries</title>
       <link>https://doi.org/10.1021/acsnano.5c10546</link>
@@ -518,6 +468,66 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2025.139301</guid>
     </item>
     <item>
+      <title>Oxygen evolution electrocatalysis resilient to voltage fluctuations</title>
+      <link>https://doi.org/10.1038/s41893-025-01665-y</link>
+      <description>Ailong Li, Hideshi Ooka, Shuang Kong, Kiyohiro Adachi, Yuchen Zhang, Kazuna Fushimi, Satoru Hamamoto, Masaki Oura, Sun Hee Kim, Daisuke Hashizume, Ryuhei Nakamura, Nature Sustainability. None(None)] 2025. https://openalex.org/W4415349311
+
+                No abstract</description>
+      <author>Ailong Li, Hideshi Ooka, Shuang Kong, Kiyohiro Adachi, Yuchen Zhang, Kazuna Fushimi, Satoru Hamamoto, Masaki Oura, Sun Hee Kim, Daisuke Hashizume, Ryuhei Nakamura</author>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41893-025-01665-y</guid>
+    </item>
+    <item>
+      <title>1D Mo&lt;sub&gt;&lt;i&gt;n&lt;/i&gt;&lt;/sub&gt;S&lt;sub&gt;&lt;i&gt;n&lt;/i&gt;&lt;/sub&gt; Nanowires for Sustainable Hydrogen Evolution: Size and Fermi-Level Driven Catalysis</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c05646</link>
+      <description>Xiaoqing Shang, Lingxiao Zhu, He Ma, Yue Liu, Yan Liu, Tian Cui, Da Li, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4415352692
+
+                No abstract</description>
+      <author>Xiaoqing Shang, Lingxiao Zhu, He Ma, Yue Liu, Yan Liu, Tian Cui, Da Li</author>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c05646</guid>
+    </item>
+    <item>
+      <title>Synergistic NiO-Pt heterostructure for enhanced hydrogen evolution: Boosting charge transfer and catalytic efficiency in alkaline media</title>
+      <link>https://doi.org/10.1016/j.fuel.2025.137226</link>
+      <description>Faria Rafique, Shahzad Ameen, Muhammad Ali, Aleena Tahir, Aashaq Shah, A. U. Bhatti, Tanveer ul Haq, Mira Tul Zubaida Butt, Ammar Ahmed Khan, Saleh A. Ahmed, Irshad Hussain, Habib ur Rehman, Fuel. 406(None)] 2025. https://openalex.org/W4415355028
+
+                No abstract</description>
+      <author>Faria Rafique, Shahzad Ameen, Muhammad Ali, Aleena Tahir, Aashaq Shah, A. U. Bhatti, Tanveer ul Haq, Mira Tul Zubaida Butt, Ammar Ahmed Khan, Saleh A. Ahmed, Irshad Hussain, Habib ur Rehman</author>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2025.137226</guid>
+    </item>
+    <item>
+      <title>dpdata: A Scalable Python Toolkit for Atomistic Machine Learning Data Sets</title>
+      <link>https://doi.org/10.1021/acs.jcim.5c01767</link>
+      <description>Jinzhe Zeng, Xulong Peng, Yong&#8208;Bin Zhuang, Haidi Wang, Fengbo Yuan, Duo Zhang, Renxi Liu, Yingze Wang, Ping Tuo, Yuzhi Zhang, Yixiao Chen, Yifan Li, Cao Thang Nguyen, Jiameng Huang, Anyang Peng, Mari&#225;n Rynik, Weihong Xu, Zezhong Zhang, Xuyuan Zhou, Tao Chen, Jiahao Fan, Wanrun Jiang, Bowen Li, Denan Li, Haoxi Li, Wenshuo Liang, Rundong Liao, Liping Liu, Chenxing Luo, Logan Ward, Kaiwei Wan, Junjie Wang, Pan Xiang, Chengqian Zhang, Jinchao Zhang, R. Zhou, Jiaxin Zhu, Linfeng Zhang, Han Wang, Journal of Chemical Information and Modeling. None(None)] 2025. https://openalex.org/W4415356660
+
+                Seamless management of atomistic data sets is a critical prerequisite for the successful development and deployment of machine learning potentials (MLPs). Here, we present dpdata, an open-source Python library designed to streamline every aspect of MLP data handling. Built upon a flexible, plugin-based architecture, dpdata supports reading, writing, and converting between a broad range of file formats&#9472;from popular quantum-chemistry packages and molecular-dynamics engines to specialized MLP frameworks. Users may define custom data types, formats, drivers, and minimizers, enabling effortless extension to emerging software. Key utilities include automated train-test splitting, coordinate perturbation for active learning, outlier-energy removal, &#916;-learning data set generation, error-metric computation, and unit conversion. Through efficient NumPy-backed storage and system-level operations, dpdata achieves significant memory saving and inference speedups over configuration-by-configuration tools such as ASE. We also highlight practical impact, with dpdata used across published studies, for format conversion, data storage, coordinate perturbation, and utilization in other projects for data processing.</description>
+      <author>Jinzhe Zeng, Xulong Peng, Yong&#8208;Bin Zhuang, Haidi Wang, Fengbo Yuan, Duo Zhang, Renxi Liu, Yingze Wang, Ping Tuo, Yuzhi Zhang, Yixiao Chen, Yifan Li, Cao Thang Nguyen, Jiameng Huang, Anyang Peng, Mari&#225;n Rynik, Weihong Xu, Zezhong Zhang, Xuyuan Zhou, Tao Chen, Jiahao Fan, Wanrun Jiang, Bowen Li, Denan Li, Haoxi Li, Wenshuo Liang, Rundong Liao, Liping Liu, Chenxing Luo, Logan Ward, Kaiwei Wan, Junjie Wang, Pan Xiang, Chengqian Zhang, Jinchao Zhang, R. Zhou, Jiaxin Zhu, Linfeng Zhang, Han Wang</author>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.5c01767</guid>
+    </item>
+    <item>
+      <title>Temperature-dependent mechanism evolution on RhRu3Ox for acidic water oxidation</title>
+      <link>https://doi.org/10.1038/s41467-025-64286-1</link>
+      <description>Ming&#8208;Rong Qu, Heng Liu, Sihua Feng, Xiaozhi Su, Jie Xu, Hengli Duan, Ruiqi Liu, Yingkang Qin, Wensheng Yan, Sheng Zhu, Rui Wu, Hao Li, Shu&#8208;Hong Yu, Nature Communications. 16(1)] 2025. https://openalex.org/W4415358253
+
+                No abstract</description>
+      <author>Ming&#8208;Rong Qu, Heng Liu, Sihua Feng, Xiaozhi Su, Jie Xu, Hengli Duan, Ruiqi Liu, Yingkang Qin, Wensheng Yan, Sheng Zhu, Rui Wu, Hao Li, Shu&#8208;Hong Yu</author>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-025-64286-1</guid>
+    </item>
+    <item>
+      <title>Enhancing oxygen evolution performances of NiO-based electrocatalysts through synergistic plasma processing and laser treatment</title>
+      <link>https://doi.org/10.1039/d5ya00273g</link>
+      <description>Davide Barreca, Alessandro Bellucci, Matteo Mastellone, D.M. Trucchi, Chiara Maccato, Elisa Sefora Pierobon, Alberto Gasparotto, Gian Andrea Rizzi, Energy Advances. None(None)] 2025. https://openalex.org/W4415369965
+
+                Engineering of NiO-based electrocatalysts for enhanced oxygen evolution has been demonstrated by a combined plasma synthesis and ex situ laser treatment.</description>
+      <author>Davide Barreca, Alessandro Bellucci, Matteo Mastellone, D.M. Trucchi, Chiara Maccato, Elisa Sefora Pierobon, Alberto Gasparotto, Gian Andrea Rizzi</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d5ya00273g</guid>
+    </item>
+    <item>
       <title>Machine learning (ML)-assisted development of 2D green catalysts to support sustainability</title>
       <link>https://doi.org/10.1039/d5mh01739d</link>
       <description>Manshu Dhillon, Sadhan Mahapatra, Adreeja Basu, Shyam S. Pandey, Manpreet Singh Manna, Shantanu Bhattacharya, Basab Chakraborty, Ajeet Kaushik, Aviru Kumar Basu, Materials Horizons. None(None)] 2025. https://openalex.org/W4415209188
@@ -546,6 +556,16 @@
       <author>Min&#8208;Ho Kim, Aditya Narayan Singh, Miran Ha, Wang&#8208;Geun Lee, Saeed Pourasad, Abhishek Meena, Haeseong Jang, Jeongwoo Seo, Jaehyun Park, Seok Ju Kang, Kyung&#8208;Wan Nam, Tae Joo Shin, Hyun&#8208;Wook Lee, Kwang S. Kim</author>
       <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.169609</guid>
+    </item>
+    <item>
+      <title>Comparative evaluation of isotherm and kinetic models for optimizing fixed-bed direct air capture systems</title>
+      <link>https://doi.org/10.1016/j.cej.2025.169895</link>
+      <description>Dana Marini&#269;, &#381;an Lavri&#269;, Matej Hu&#353;, Janvit Ter&#382;an, Bla&#382; Likozar, Chemical Engineering Journal. None(None)] 2025. https://openalex.org/W4415370898
+
+                No abstract</description>
+      <author>Dana Marini&#269;, &#381;an Lavri&#269;, Matej Hu&#353;, Janvit Ter&#382;an, Bla&#382; Likozar</author>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2025.169895</guid>
     </item>
     <item>
       <title>Bibliography</title>
