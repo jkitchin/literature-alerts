@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 22 Oct 2025 01:40:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 01:36:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Nonlinear model predictive control with an infinite horizon approximation</title>
-      <link>https://doi.org/10.1016/j.jprocont.2025.103565</link>
-      <description>San Dinh, Yao Tong, Zhenyu Wei, Owen Gerdes, Lorenz T. Biegler, Journal of Process Control. 155(None)] 2025. https://openalex.org/W4415195110
-
-                No abstract</description>
-      <author>San Dinh, Yao Tong, Zhenyu Wei, Owen Gerdes, Lorenz T. Biegler</author>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jprocont.2025.103565</guid>
-    </item>
     <item>
       <title>Designing around immune memory to counter PEG immunogenicity</title>
       <link>https://doi.org/10.1038/s41563-025-02383-8</link>
