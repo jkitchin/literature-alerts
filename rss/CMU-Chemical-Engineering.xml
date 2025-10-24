@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Oct 2025 01:36:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 01:25:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Designing around immune memory to counter PEG immunogenicity</title>
-      <link>https://doi.org/10.1038/s41563-025-02383-8</link>
-      <description>Namit Chaudhary, Kathryn A. Whitehead, Nature Materials. None(None)] 2025. https://openalex.org/W4415208806
-
-                No abstract</description>
-      <author>Namit Chaudhary, Kathryn A. Whitehead</author>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41563-025-02383-8</guid>
-    </item>
     <item>
       <title>Beyond Force Metrics: Pre-Training MLFFs for Stable MD Simulations</title>
       <link>https://doi.org/10.48550/arxiv.2506.14850</link>
@@ -26,6 +16,16 @@
       <author>Shriram Maheshwari, Janghoon Ock, Adeesh Kolluru, Amir Barati Farimani, John R. Kitchin</author>
       <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2506.14850</guid>
+    </item>
+    <item>
+      <title>Long&#8208;Read, High&#8208;Resolution Sanger Sequencing by Micelle&#8208;Tagging Electrophoresis</title>
+      <link>https://doi.org/10.1002/elps.70047</link>
+      <description>R. Gamble, H. Michael Wenz, Bashar Mullah, James Schneider, Electrophoresis. None(None)] 2025. https://openalex.org/W4415411534
+
+                ABSTRACT We demonstrate a gel&#8208;free electrophoretic separation of Sanger sequencing fragments up to 782 bases in length using nonionic wormlike micelles as drag&#8208;tags in micelle&#8208;tagging electrophoresis (MTE). This is an increase of 280 bases over previous MTE methods and a nearly three&#8208;fold improvement over end&#8208;labeled free&#8208;solution electrophoresis (ELFSE) methods that use covalently attached drag&#8208;tags. For MTE, C18 alkane groups are attached to primers prior to their enzymatic extension. This alkane group provides a binding site for wormlike micelles composed of CiEj&#8208;type nonionic surfactants in the running buffer. Transient attachment of micelles to the C18 alkane group provides a highly uniform drag, equal to that of an ssDNA fragment 309 bases long. To account for slight mobility differences among the BigDye chain terminators, we developed a two&#8208;parameter time&#8208;shifting procedure to align the electropherograms for each termination chemistry. The increase in read length for this low&#8208;viscosity buffer (2.1 cP) is attributed to the alignment procedure, the large yet uniform drag, and the small degree of adsorption&#8208;based band broadening.</description>
+      <author>R. Gamble, H. Michael Wenz, Bashar Mullah, James Schneider</author>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/elps.70047</guid>
     </item>
   </channel>
 </rss>
