@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Oct 24 01:25:26 2025
+Created on Sat Oct 25 01:27:10 2025
 
-Found 59 results from 2025-10-17 to 2025-10-24
+Found 50 results from 2025-10-18 to 2025-10-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W4409768533%7Chttps%3A//openalex.org/W4408448357%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2034249671)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4402230343%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4402230343%7Chttps%3A//openalex.org/W4407310889%7Chttps%3A//openalex.org/W2949437120)
@@ -17,94 +17,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Floating zone growth of large tetragonal Ruddlesden-Popper bilayer nickelate YySr3−yNi2−xAlxO7−δ single crystals   
-
-OpenAlex: https://openalex.org/W4415260984    
-Open access: True
-    
-[Hasan Yilmaz](https://openalex.org/A5103218353), [Pablo Sosa-Lizama](https://openalex.org/A5105067823), [M. Knauft](https://openalex.org/A5093487481), [Kathrin Küster](https://openalex.org/A5052444822), [Ulrich Starke](https://openalex.org/A5025940416), [Masahiko Isobe](https://openalex.org/A5063142575), [Oliver Clemens](https://openalex.org/A5089347876), [Peter A. van Aken](https://openalex.org/A5020457775), [Y. Eren Suyolcu](https://openalex.org/A5068483331), [Pascal Puphal](https://openalex.org/A5070789663), Communications Physics. 8(1)] 2025.https://doi.org/10.1038/s42005-025-02340-6.
-    
-No abstract    
-
-    
-
-## Oxygen evolution reaction electrocatalysts for green hydrogen production in seawater: enhancement mechanism in catalytic activity and durability   
-
-OpenAlex: https://openalex.org/W4415262798    
-Open access: False
-    
-[Bingxu Wang](https://openalex.org/A5065643676), [Xiao Tang](https://openalex.org/A5102936401), [F.W. Sun](https://openalex.org/A5101549265), [Sailong Wang](https://openalex.org/A5001000228), [Xiaobin Liu](https://openalex.org/A5115590521), [Jianping Lai](https://openalex.org/A5072157142), [Jingqi Chi](https://openalex.org/A5032135658), [Lei Wang](https://openalex.org/A5058772567), Green Chemistry. None(None)] 2025.https://doi.org/10.1039/d5gc03577e.
-    
-This study focuses on MSOEs as electrocatalysts for seawater oxygen evolution reaction (OER), summarizes strategies for improving the OER activity and durability, and discusses OER in seawater its improvement strategies based on sustainability.    
-
-    
-
-## NiCo₂O₄-Co₂P Interfaces Inducing High-Spin Co²⁺ for Boosted Overall Water Splitting   
-
-OpenAlex: https://openalex.org/W4415269448    
-Open access: False
-    
-[Xu Fang](https://openalex.org/A5092205723), [Zhonghai Zhang](https://openalex.org/A5052047680), [Chen Hu](https://openalex.org/A5060539755), [Lingjie Xuan](https://openalex.org/A5083244396), [Bingbing Hong](https://openalex.org/A5104431484), [Mengxue Sun](https://openalex.org/A5065646584), [Yuhang Song](https://openalex.org/A5043079039), [Jiang Wu](https://openalex.org/A5033136963), [Jia Lin](https://openalex.org/A5047815001), Electrochimica Acta. None(None)] 2025.https://doi.org/10.1016/j.electacta.2025.147591.
-    
-No abstract    
-
-    
-
-## Ultralow Ru Loading on Spinel Oxide Enhances Oxygen Coupling for Efficient Acidic Water Oxidation   
-
-OpenAlex: https://openalex.org/W4415272613    
-Open access: False
-    
-[Mingxin Cai](https://openalex.org/A5089886120), [Guopu Cai](https://openalex.org/A5104297152), [Ke Liu](https://openalex.org/A5100349852), [Degao Wang](https://openalex.org/A5084430513), [Hongbin Zhao](https://openalex.org/A5102018883), [Peilei He](https://openalex.org/A5026599083), Journal of the American Chemical Society. None(None)] 2025.https://doi.org/10.1021/jacs.5c15539.
-    
-The development of proton-exchange membrane water electrolysis (PEMWE) technologies urgently demands electrocatalytic systems capable of maintaining exceptional activity and durability under harsh acidic oxygen evolution reaction (OER) conditions. Here, we present ultralow Ru loading on cobalt–manganese oxides (Ru–Co2MnO4.5) through a facile synthetic strategy. Ru and Co sites facilitate the direct coupling of the oxygen radicals, thereby exceeding the limitations of the scaling relation and triggering the oxide pathway mechanism. Structural characterizations and theoretical calculations demonstrate that the incorporation of Ru single atoms suppresses both lattice oxygen and metal dissolution while maintaining good coordination environments and crystal structures. Furthermore, Ru single-atom loading enhances the hydroxyl adsorption on the catalyst surface and promotes the OER kinetics. Consequently, the Ru–Co2MnO4.5 catalyst achieves an optimal trade-off between catalytic efficiency and structural durability. In 0.5 M H2SO4, the Ru–Co2MnO4.5 demonstrates a minimal overpotential of 176 mV at 10 mA cm–2 and exhibits excellent stability during 600 h. In the PEMWE device, the Ru–Co2MnO4.5 catalyst requires merely a voltage of 1.638 V to achieve 1 A cm–2, with an ultralow Ru loading of 20 μg cm–2. The system can operate for over 100 h under a high current density of 1 A cm–2, showcasing its potential in a practical hydrogen production device. This work presents an innovative strategy for advancing the development of high-efficiency and large-scale green hydrogen production systems while elucidating the underlying reaction mechanisms.    
-
-    
-
-## Fabrication of Superhydrophobic Ni-W/GrPTFE by Reinforcing Ni-W with Graphene and Polytetrafluoroethylene to Enhance Fouling and Corrosion Resistance   
-
-OpenAlex: https://openalex.org/W4415274215    
-Open access: False
-    
-[Muhammad Zafar Ullah](https://openalex.org/A5010527028), [Ashfaq Ahmad](https://openalex.org/A5101563484), [Mingyan Liu](https://openalex.org/A5083047932), Heat Transfer Engineering. None(None)] 2025.https://doi.org/10.1080/01457632.2025.2571271.
-    
-Fouling and corrosion are critical challenges in heat transfer equipment. This study developed nickel-tungsten (Ni-W) composite coatings reinforced with micro- and nano-graphene (Gr) and polytetrafluoroethylene (PTFE) particles (Ni-W/Gr and Ni-W/GrPTFE) to enhance resistance to fouling and corrosion. The Ni-W/GrPTFE superhydrophobic coating exhibited a significantly greater water contact angle (152.1°) compared to bare Q235 carbon steel (90.1°) and a notably lower surface free energy of 3.48 mJ/m2, compared to 31.36 mJ/m2 for bare Q235 carbon steel. Surface roughness, chemical composition, and micromorphology were analyzed using atomic force microscopy, X-ray photoelectron spectroscopy, energy-dispersive X-ray spectroscopy, and scanning electron microscopy. The electrochemical impedance spectroscopy results revealed superior corrosion resistance for the Ni-W/GrPTFE coating, with a minimal corrosion current density of 2.25 × 10−5 µA/cm2, a higher impedance modulus of 8.8 × 104 Ω·cm2 at low frequencies, and substantial charge transfer resistance of 5.49 × 104 Ω·cm2. Tafel polarization further confirmed a lower corrosion rate of 2.12x10−3 mm/a. Furthermore, fouling tests at various temperatures showed that the Ni-W/GrPTFE coating achieved a 90.74% fouling inhibition rate. Additionally, self-cleaning tests confirmed the absence of surface contaminants. These results indicate that the Ni-W/GrPTFE composite superhydrophobic coating offers exceptional durability, making it a promising solution for harsh conditions in heat transfer systems, geothermal applications, and chemical industries.    
-
-    
-
-## A survey of AI-supported materials informatics   
-
-OpenAlex: https://openalex.org/W4415278663    
-Open access: True
-    
-[Sanjay Chakraborty](https://openalex.org/A5101917881), [Jonas Björk](https://openalex.org/A5006279877), [Martin Dahlqvist](https://openalex.org/A5077596121), [Johanna Rosen](https://openalex.org/A5110907245), [Fredrik Heintz](https://openalex.org/A5014042891), Computer Science Review. 59(None)] 2025.https://doi.org/10.1016/j.cosrev.2025.100845.
-    
-No abstract    
-
-    
-
-## Cavity‐Networked Copper Nanocatalysts with Acid‐Tolerant Microenvironments for Efficient CO2 Electroreduction to Ethylene   
-
-OpenAlex: https://openalex.org/W4415279076    
-Open access: True
-    
-[Zhongshuang Xu](https://openalex.org/A5011042055), [Qikui Fan](https://openalex.org/A5110702441), [Huanran Miao](https://openalex.org/A5052758458), [Xinwei Zhang](https://openalex.org/A5100639542), [Hongyu Zhang](https://openalex.org/A5100412598), [Xi Cao](https://openalex.org/A5100330023), [Pengxu Yan](https://openalex.org/A5069327413), [Xiai Zhang](https://openalex.org/A5008008349), [Zhimao Yang](https://openalex.org/A5060695941), [Jian Yang](https://openalex.org/A5102918065), [Chuncai Kong](https://openalex.org/A5046460108), Advanced Functional Materials. None(None)] 2025.https://doi.org/10.1002/adfm.202520743 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202520743)).
-    
-Abstract Gasophilic/hydrophobic microstructured Cu nanomaterials address the multi‐carbon (C 2+ ) selectivity bottleneck in electrocatalytic CO 2 reduction reaction (CO 2 RR), yet their morphological control is hindered by low reduction potentials and high surface atomic mobility. This study reports a bioinspired gas‐trapping hydrophobic Cu nanostructure (BGH‐Cu) via in situ electrochemical reconstruction, forming an interconnected cavity network that confers gasophilic/hydrophobic properties. Mechanistic studies reveal cavities act as dynamic electrolyte reservoirs, selectively retaining OH − /K + to suppress proton transport and create a local micro‐alkaline environment, while cavity‐enhanced cation enrichment synergizes with C─C coupling. BGH‐Cu achieves C 2 H 4 Faradaic efficiency of 54.7% at current density of 600 mA cm −2 in strongly acidic conditions (pH 1), with 63.7% single‐pass carbon efficiency and 40 h stability in a membrane electrode assembly configuration. This work provides a non‐extreme synthesis strategy for gasophilic/hydrophobic Cu nanomaterials, elucidates the “cavity microenvironment modulation” mechanism for C 2+ selectivity, and offers a new paradigm for high‐current‐density acidic CO 2 RR to C 2+ products.    
-
-    
-
-## TorchANI 2.0: An Extensible, High-Performance Library for the Design, Training, and Use of NN-IPs   
-
-OpenAlex: https://openalex.org/W4415285772    
-Open access: False
-    
-[Ignacio Pickering](https://openalex.org/A5081400876), [Jiangeng Xue](https://openalex.org/A5029118605), [Kate Huddleston](https://openalex.org/A5020984877), [Nicholas Terrel](https://openalex.org/A5115762094), [Adrián E. Roitberg](https://openalex.org/A5048973716), Journal of Chemical Information and Modeling. None(None)] 2025.https://doi.org/10.1021/acs.jcim.5c01853.
-    
-In this work, we introduce TorchANI 2.0, a significantly improved version of the free and open source TorchANI software package for training and evaluation of ANI (ANAKIN-ME) deep learning models. TorchANI 2.0 builds upon the foundation of its predecessor, while addressing its limitations and introducing new features. These changes greatly enhance its extensibility, performance, and suitability as a framework for developing models ready for molecular dynamics applications. These improvements include the introduction of a modular system to add arbitrary pairwise potentials to models, CUDA-accelerated optimization for faster and more memory-efficient calculation of local atomic features, and a batched system for better performance of network ensembles, among others. Our benchmarks demonstrate that TorchANI 2.0 achieves significant speedup over previous versions in both training and inference, and the library enhancements allow users to train physically constrained models that better represent important qualities of chemical systems. We demonstrate this by introducing three new ANI models that incorporate these features and evaluating their capabilities.    
-
-    
 
 ## Computational Modeling of Defects in Nanomaterials   
 
@@ -542,7 +454,7 @@ Open access: False
     
 [Haoran Yuan](https://openalex.org/A5112376080), [Yizhen Wu](https://openalex.org/A5060741158), [Ruinan Di](https://openalex.org/A5116928913), [Hui Shi](https://openalex.org/A5079477222), [Jishu Li](https://openalex.org/A5010183660), [Qiang Wang](https://openalex.org/A5100366919), Langmuir. None(None)] 2025.https://doi.org/10.1021/acs.langmuir.5c03879.
     
-No abstract    
+A design strategy of metal-boron (M-B) hybrid dual-atom catalysts (HDACs) anchored on g-C2N (M-B@C2N) and a mechanism of protonated N≡N bond breaking promoting C-N coupling has been proposed for electrocatalytic reduction of N2 to urea with CO (NCR). Using density functional theory calculations, the stability, activity, and selectivity of 13 M-B@C2N HDACs are systematically evaluated. V-B@C2N has been screened as an excellent HDAC using a four-step screening strategy. N2 can be adsorbed on V and B atoms of V-B@C2N with a side-on configuration, and it can be activated by reversible dynamic evolution of the interatomic distance between the V and B atoms and by charge transport differences between the two N atoms and V-B sites. The inert N≡N bond is gradually weakened by two successive protonation steps until broken to form 2*NH with a kinetic energy barrier of 0.72 eV, further promoting two-step C-N coupling of 2*NH and *CO coadsorbed on V-B sites to form *NHCONH with kinetic energy barriers of 0.08 and 0.03 eV. V-B@C2N not only exhibits excellent activity and selectivity for urea electrosynthesis with a limiting potential of only -0.44 V but also suppresses the competitive N2 reduction (NRR) and hydrogen evolution reactions.    
 
     
 
@@ -653,16 +565,5 @@ Open access: False
 [G.S. Ladde](https://openalex.org/A5051299147), [Emmanuel A. Appiah](https://openalex.org/A5028438585), [Jay G. Ladde](https://openalex.org/A5047166370), Elsevier eBooks. None(None)] 2025.https://doi.org/10.1016/b978-0-44-322343-3.00007-2.
     
 No abstract    
-
-    
-
-## A Simple and Scalable Kernel Density Approach for Reliable Uncertainty Quantification in Atomistic Machine Learning   
-
-OpenAlex: https://openalex.org/W4415262246    
-Open access: True
-    
-[Daniel Willimetz](https://openalex.org/A5107492711), [Lukáš Grajciar](https://openalex.org/A5056495241), The Journal of Physical Chemistry Letters. None(None)] 2025.https://doi.org/10.1021/acs.jpclett.5c02595 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jpclett.5c02595?ref=article_openPDF)).
-    
-Machine learning models are increasingly used to predict material properties and accelerate atomistic simulations, but the reliability of their predictions depends on the representativeness of the training data. We present a scalable, GPU-accelerated uncertainty quantification framework based on k-nearest-neighbor kernel density estimation (KDE) in a PCA-reduced descriptor space. This method efficiently detects sparsely sampled regions in large, high-dimensional data sets and provides a transferable, model-agnostic uncertainty metric without requiring retraining costly model ensembles. The framework is validated across diverse case studies varying in (i) chemistry, (ii) prediction models (including foundational neural network), (iii) descriptors used for KDE estimation, and (iv) properties whose uncertainty is sought. In all cases, the KDE-based score reliably flags extrapolative configurations, correlates well with conventional ensemble-based uncertainties, and highlights regions of reduced prediction trustworthiness. The approach offers a practical route for improving the interpretability, robustness, and deployment readiness of ML models in materials science.    
 
     
