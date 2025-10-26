@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 25 Oct 2025 01:27:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 01:42:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Computational Modeling of Defects in Nanomaterials</title>
-      <link>https://doi.org/10.1002/9783527850273.ch7</link>
-      <description>C.M. Ramos-Castillo, J. Hern&#225;ndez-Tecorralco, No host. None(None)] 2025. https://openalex.org/W4415289901
-
-                No abstract</description>
-      <author>C.M. Ramos-Castillo, J. Hern&#225;ndez-Tecorralco</author>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/9783527850273.ch7</guid>
-    </item>
-    <item>
-      <title>Defect and Interface Engineering in Electrolyzers</title>
-      <link>https://doi.org/10.1002/9783527850273.ch15</link>
-      <description>J.C. Cruz, Blandy Pamplona-Solis, K. Garc&#237;a Uitz, M.P. Gurrola, No host. None(None)] 2025. https://openalex.org/W4415290180
-
-                No abstract</description>
-      <author>J.C. Cruz, Blandy Pamplona-Solis, K. Garc&#237;a Uitz, M.P. Gurrola</author>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/9783527850273.ch15</guid>
-    </item>
-    <item>
-      <title>Optimized Synthesis and Device Integration of Long 17-Atom-Wide Armchair Graphene Nanoribbons</title>
-      <link>https://doi.org/10.1021/acsnano.5c11981</link>
-      <description>Jeong Ha Hwang, Nicol&#242; Bassi, Mayada Fadel, Oliver Braun, Tim Dumslaff, Carlo A. Pignedoli, Michael Stiefel, Roman Furrer, Hironobu Hayashi, Hiroko Yamada, Akimitsu Narita, Kl&#228;us M&#252;llen, Michel Calame, Mickael L. Perrin, Rom&#225;n Fasel, Pascal Ruffieux, Vincent Meunier, Gabriela Borin Barin, ACS Nano. None(None)] 2025. https://openalex.org/W4415297053
-
-                Seventeen-carbon-atom-wide armchair graphene nanoribbons (17-AGNRs) are promising candidates for high-performance electronic devices due to their narrow electronic bandgap. Atomic precision in edge structure and width control is achieved through a bottom-up on-surface synthesis (OSS) approach from tailored molecular precursors in ultrahigh vacuum (UHV). This synthetic protocol must be optimized to meet the structural requirements for device integration, with the ribbon length being the most critical parameter. Here, we report optimized OSS conditions that produce 17-AGNRs with an average length of &#8764;17 nm. This length enhancement is achieved through a gradual temperature ramping during an extended annealing period, combined with a template-like effect driven by monomer assembly at high surface coverage. The resulting 17-AGNRs are comprehensively characterized in UHV by using scanning probe techniques and Raman spectroscopy. Raman measurements following substrate transfer enabled the characterization of GNRs' length distribution on the device substrate and confirmed their stability under ambient conditions and harsh chemical environments, including acid vapors and etchants. The increased length and ambient stability of the 17-AGNRs led to their reliable integration into device architectures. As a proof of concept, we integrate 17-AGNRs into field-effect transistors (FETs) with graphene electrodes and confirm that electronic transport occurs through the GNRs. This work demonstrates the feasibility of integrating narrow bandgap GNRs into functional devices and contributes to advancing the development of carbon-based nanoelectronics.</description>
-      <author>Jeong Ha Hwang, Nicol&#242; Bassi, Mayada Fadel, Oliver Braun, Tim Dumslaff, Carlo A. Pignedoli, Michael Stiefel, Roman Furrer, Hironobu Hayashi, Hiroko Yamada, Akimitsu Narita, Kl&#228;us M&#252;llen, Michel Calame, Mickael L. Perrin, Rom&#225;n Fasel, Pascal Ruffieux, Vincent Meunier, Gabriela Borin Barin</author>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.5c11981</guid>
-    </item>
-    <item>
-      <title>Locking the Lattice Oxygen in Commercial RuO&lt;sub&gt;2&lt;/sub&gt; for High Stable Proton Exchange Membrane Water Electrolysis</title>
-      <link>https://doi.org/10.1002/adfm.202523636</link>
-      <description>Yanhui Yu, G. S. Huang, Wenjun Fan, Zihao Fan, Hanqing Gao, Daoxiong Wu, Tianjiao Wang, Jing Li, Xinlong Tian, Zhenye Kang, Peilin Deng, Ying Liang, Xinlong Tian, Peng Rao, Advanced Functional Materials. None(None)] 2025. https://openalex.org/W4415304115
-
-                Abstract Efficient and sustainable hydrogen production via proton exchange membrane water electrolysis (PEMWE) requires the development of robust low&#8208;cost oxygen evolution reaction catalysts. A robust acidic oxygen evolution reaction (OER) catalyst is fabricated, featuring single Co atoms incorporated into commercial RuO 2 (Co SA /RuO 2 ) and demonstrate that the Co sites suppress the mobility of lattice oxygen in commercial RuO 2 , thereby eliminating the stability&#8208;limited lattice oxygen oxidation mechanism and improving the catalyst stability. The theoretical calculations reveal that the atomically dispersed Co sites shifts the &#949;d&#8208;dn of RuO 2 downward, optimizing the adsorption of O * and * OOH, thereby changing the rate&#8208;determining step and improving the catalytic performance. In addition, atomically dispersed Co enhances the strength of the Ru&#8211;O lattice interaction, thereby alleviating the dissolution of Ru and effectively improving the stability of the catalyst under OER conditions. Specifically, the Co SA /RuO 2 &#8208;promoted PEMWE requires a voltage of 1.662 V to achieve a current density of 1 A cm &#8722;2 and can be stably performed for &gt;550 h at 200 mA cm &#8722;2 with negligible performance decay. Thus, this work paves the way for the fabrication of highly active and stable ruthenium oxide&#8211;based OER catalysts and their use as alternatives to the costly Ir&#8208;based counterparts.</description>
-      <author>Yanhui Yu, G. S. Huang, Wenjun Fan, Zihao Fan, Hanqing Gao, Daoxiong Wu, Tianjiao Wang, Jing Li, Xinlong Tian, Zhenye Kang, Peilin Deng, Ying Liang, Xinlong Tian, Peng Rao</author>
-      <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202523636</guid>
-    </item>
-    <item>
-      <title>Pyridinic-N Dominates ORR Performance: Decoding Configuration-Sensitive Electrocatalysis of N-Doped Graphene Quantum Dots</title>
-      <link>https://doi.org/10.1021/acscatal.5c04899</link>
-      <description>Jiayu Yuan, Xiao&#8208;Bao Yang, Haofan Wang, Yonghai Cao, Hongjuan Wang, Guangxing Yang, Hao Yu, ACS Catalysis. None(None)] 2025. https://openalex.org/W4415309445
-
-                Developing low-cost, high-performance metal-free oxygen reduction catalysts demands precise quantification of structure-performance relationships in nitrogen-doped carbons. Structural search algorithms combined with density functional theory (DFT) enable comprehensive analysis of catalytic performance versus structural features. Using nitrogen-doped graphene quantum dots (NGQDs) as models, we computationally resolve how nitrogen species types (pyridinic-N, graphitic-N) and substitution positions influence the stability and intrinsic activity. Boltzmann statistics quantify the contributions of all configurations to the current density during oxygen reduction. Furthermore, we identify dominant configurations grouping NGQDs into configuration lumps. Thermodynamically, nitrogen atoms preferentially occupy carbon atoms at defect-adjacent sites as pyridinic-N. Their spatial distribution controls local atomic charge redistribution and adsorption environments, thereby modulating intrinsic activity. These materials exhibit extreme configuration sensitivity: thermodynamically stable dominant configurations may contribute minimally to current density. Crucially, lumped pyridinic-N configurations dominate ORR performance. This work provides theoretical insights supporting carbon adjacent to pyridinic-N as the primary active site in N-doped carbon ORR catalysts. It establishes a universal framework for analyzing structure&#8211;activity relationships in nonmodel catalytic systems.</description>
-      <author>Jiayu Yuan, Xiao&#8208;Bao Yang, Haofan Wang, Yonghai Cao, Hongjuan Wang, Guangxing Yang, Hao Yu</author>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.5c04899</guid>
-    </item>
-    <item>
-      <title>Path-integral molecular dynamics with actively-trained and universal machine learning force fields</title>
-      <link>https://doi.org/10.1016/j.cpc.2025.109902</link>
-      <description>&#1040;. &#1040;. &#1057;&#1086;&#1083;&#1086;&#1074;&#1099;&#1093;, Nikita Rybin, Ivan Novikov, Alexander V. Shapeev, Computer Physics Communications. None(None)] 2025. https://openalex.org/W4415313398
-
-                No abstract</description>
-      <author>&#1040;. &#1040;. &#1057;&#1086;&#1083;&#1086;&#1074;&#1099;&#1093;, Nikita Rybin, Ivan Novikov, Alexander V. Shapeev</author>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cpc.2025.109902</guid>
-    </item>
-    <item>
-      <title>Hybrid Fe&#8208;N&#8208;C Catalyst Integrating Single&#8208;Atom Fe and Nanoscale CeO&lt;sub&gt;2&lt;/sub&gt; towards Efficient Oxygen Reduction Reaction for Zinc&#8208;Air Batteries&lt;sup&gt;&#8224;&lt;/sup&gt;</title>
-      <link>https://doi.org/10.1002/cjoc.70315</link>
-      <description>Yukui Pei, Jianfeng Zuo, Xiannong Tang, Longbin Li, Ting Hu, Dirk L&#252;tzenkirchen&#8208;Hecht, Kai Yuan, Yiwang Chen, Chinese Journal of Chemistry. None(None)] 2025. https://openalex.org/W4415313625
-
-                Comprehensive Summary Developing high&#8208;performance, durable, and cost&#8208;effective oxygen reduction reaction (ORR) catalysts is essential for advancing next&#8208;generation energy devices like zinc&#8208;air batteries (ZABs). Herein, we engineer a hybrid Fe&#8208;N&#8208;C catalyst (FeSA&#8208;Fe NP /CeO 2 @NC) integrating atomically dispersed Fe&#8208;N x sites, Fe nanoparticles, and oxygen vacancy&#8208;rich CeO 2 nanoparticles within a nitrogen&#8208;doped carbon matrix. Interfacial charge transfer and oxygen vacancy&#8208;mediated electron redistribution, synergistically enhanced by strong metal&#8208;support interactions (SMSI), optimize the electronic configuration of Fe&#8208;N x sites and reduce their electron density. The resulting catalyst exhibits exceptional ORR activity and stability, featuring a half&#8208;wave potential of 0.925 V (vs. RHE) in alkaline media and minimal degradation (1% and 2.8% negative shifts after 10,000/20,000 cycles). In ZABs, it achieves a peak power density of 310.29 mW&#183;cm &#8211;2 while sustaining stable operation for over 600 h. This work demonstrates dual role of CeO 2 in enhancing activity and stability, establishing a design principle for high&#8208;performance electrocatalysts in energy conversion systems.</description>
-      <author>Yukui Pei, Jianfeng Zuo, Xiannong Tang, Longbin Li, Ting Hu, Dirk L&#252;tzenkirchen&#8208;Hecht, Kai Yuan, Yiwang Chen</author>
-      <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cjoc.70315</guid>
-    </item>
-    <item>
-      <title>Influence of Aluminum Distribution in Cu-MOR Systems on Methane-to-Methanol Conversion: A Combined Experimental and Theoretical Study</title>
-      <link>https://doi.org/10.1021/acs.jpcc.5c06045</link>
-      <description>Peter N. Njoroge, Bj&#248;rn Gading Solemsli, Asanka Wijerathne, Izar Capel Berdiell, Agnieszka Seremak, Mario Chiesa, Yu&#8208;Kai Liao, Beatrice Garetto, Nishant N. Patel, Karoline Kvande, Elisa Borfecchia, Christopher Paolucci, Unni Olsbye, Pablo Beato, Stian Svelle, Sebastian Prodinger, The Journal of Physical Chemistry C. None(None)] 2025. https://openalex.org/W4415313906
-
-                No abstract</description>
-      <author>Peter N. Njoroge, Bj&#248;rn Gading Solemsli, Asanka Wijerathne, Izar Capel Berdiell, Agnieszka Seremak, Mario Chiesa, Yu&#8208;Kai Liao, Beatrice Garetto, Nishant N. Patel, Karoline Kvande, Elisa Borfecchia, Christopher Paolucci, Unni Olsbye, Pablo Beato, Stian Svelle, Sebastian Prodinger</author>
-      <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.5c06045</guid>
-    </item>
-    <item>
-      <title>AI-Accelerated Discovery of Electrocatalyst Materials</title>
-      <link>https://doi.org/10.1021/acsmaterialsau.5c00135</link>
-      <description>Yifan Zeng, Jun Wang, Fengwang Li, Tongliang Liu, Aoni Xu, ACS Materials Au. None(None)] 2025. https://openalex.org/W4415317511
-
-                The rational exploration and design of high-performance, stable electrocatalysts are crucial for efficient renewable energy storage, conversion, and utilization. Artificial intelligence (AI) is revolutionizing this field by significantly reducing the time and cost associated with conventional trial-and-error experimentation and density functional theory (DFT) calculations. Advancements in data quality, computing power, and algorithms have positioned AI as a key enabler in understanding electrocatalytic mechanisms, designing advanced materials, analyzing structures, and predicting performance. This review highlights the pivotal role of AI in electrocatalyst discovery, focusing on the critical aspects of data, descriptors, and machine learning models. We discuss various AI approaches, including their applications in accelerating DFT calculations, exploring reaction mechanisms, designing electrocatalysts, and predicting performance, providing a comprehensive overview of the current state-of-the-art. We also address the challenges and opportunities in leveraging AI for electrocatalyst development, emphasizing the importance of data quality, model selection, and collaborative research. This review aims to guide researchers in effectively utilizing AI to accelerate the discovery and optimization of electrocatalysts for a renewable energy future.</description>
-      <author>Yifan Zeng, Jun Wang, Fengwang Li, Tongliang Liu, Aoni Xu</author>
-      <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialsau.5c00135</guid>
-    </item>
     <item>
       <title>Characterizing Infrared Spectra of OH&lt;sup&gt;&#8211;&lt;/sup&gt;&#183;(H&lt;sub&gt;2&lt;/sub&gt;O)&lt;sub&gt;2&lt;/sub&gt;and OH&lt;sup&gt;&#8211;&lt;/sup&gt;&#183;(H&lt;sub&gt;2&lt;/sub&gt;O)&lt;sub&gt;3&lt;/sub&gt; with Constrained Nuclear-Electronic Orbital Molecular Dynamics</title>
       <link>https://doi.org/10.1021/acs.jpca.5c04334</link>
@@ -486,26 +396,6 @@
       <author>O. Anatole von Lilienfeld, Giorgio Domenichini</author>
       <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0283286</guid>
-    </item>
-    <item>
-      <title>Bibliography</title>
-      <link>https://doi.org/10.1016/b978-0-44-322343-3.00016-3</link>
-      <description>, Elsevier eBooks. None(None)] 2025. https://openalex.org/W4415297692
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-44-322343-3.00016-3</guid>
-    </item>
-    <item>
-      <title>Linear deterministic hybrid dynamic modeling of time-to-event processes (LDHDM)</title>
-      <link>https://doi.org/10.1016/b978-0-44-322343-3.00007-2</link>
-      <description>G.S. Ladde, Emmanuel A. Appiah, Jay G. Ladde, Elsevier eBooks. None(None)] 2025. https://openalex.org/W4415298230
-
-                No abstract</description>
-      <author>G.S. Ladde, Emmanuel A. Appiah, Jay G. Ladde</author>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-44-322343-3.00007-2</guid>
     </item>
   </channel>
 </rss>
