@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 26 Oct 2025 01:42:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 01:45:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Beyond Force Metrics: Pre-Training MLFFs for Stable MD Simulations</title>
-      <link>https://doi.org/10.48550/arxiv.2506.14850</link>
-      <description>Shriram Maheshwari, Janghoon Ock, Adeesh Kolluru, Amir Barati Farimani, John R. Kitchin, arXiv (Cornell University). None(None)] 2025. https://openalex.org/W4415332979
-
-                Machine-learning force fields (MLFFs) have emerged as a promising solution for speeding up ab initio molecular dynamics (MD) simulations, where accurate force predictions are critical but often computationally expensive. In this work, we employ GemNet-T, a graph neural network model, as an MLFF and investigate two training strategies: (1) direct training on MD17 (10K samples) without pre-training, and (2) pre-training on the large-scale OC20 dataset followed by fine-tuning on MD17 (10K). While both approaches achieve low force mean absolute errors (MAEs), reaching 5 meV/A per atom, we find that lower force errors do not necessarily guarantee stable MD simulations. Notably, the pre-trained GemNet-T model yields significantly improved simulation stability, sustaining trajectories up to three times longer than the model trained from scratch. These findings underscore the value of pre-training on large, diverse datasets to capture complex molecular interactions and highlight that force MAE alone is not always a sufficient metric of MD simulation stability.</description>
-      <author>Shriram Maheshwari, Janghoon Ock, Adeesh Kolluru, Amir Barati Farimani, John R. Kitchin</author>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2506.14850</guid>
-    </item>
     <item>
       <title>Long&#8208;Read, High&#8208;Resolution Sanger Sequencing by Micelle&#8208;Tagging Electrophoresis</title>
       <link>https://doi.org/10.1002/elps.70047</link>
@@ -26,6 +16,16 @@
       <author>R. Gamble, H. Michael Wenz, Bashar Mullah, James Schneider</author>
       <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/elps.70047</guid>
+    </item>
+    <item>
+      <title>Modelica2Pyomo: a tool to translate Modelica models into Pyomo optimization models</title>
+      <link>https://doi.org/10.3384/ecp218117</link>
+      <description>Matteo Luigi De Pascali, Lorenz T. Biegler, Emanuele Martelli, Francesco Casella, Link&#246;ping electronic conference proceedings. 218(None)] 2025. https://openalex.org/W4415503485
+
+                No abstract</description>
+      <author>Matteo Luigi De Pascali, Lorenz T. Biegler, Emanuele Martelli, Francesco Casella</author>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3384/ecp218117</guid>
     </item>
   </channel>
 </rss>
