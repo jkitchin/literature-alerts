@@ -1,0 +1,56 @@
+# queries.yml
+#
+# Each entry in queries should have a label and decription. These are used for
+# filenames and feed descriptions. The filter is a list of queries to perform.
+
+queries:
+  - label: Emacs and org-mode
+    description: Emacs and org-mode
+    filter:
+      - default.search:("emacs" OR "orgmode" OR "org-mode") NOT "emac"
+  - label: water splitting
+    description: water splitting papers
+    filter:
+      # this concept is Oxygen Evolution
+      - concepts.id:https://openalex.org/C135473242
+      - title-and-abstract.search:oxygen evolution
+  - label: authors
+    description: List of authors
+    filter:
+      # John Kitchin
+      - author.id:https://openalex.org/A5003442464
+  - label: CO2RR
+    description: Electrochemical reduction of carbon dioxide
+    filter:
+      # Electrochemical reduction of carbon dioxide"
+      - concepts.id:https://openalex.org/C24596552
+      - title-and-abstract.search:((carbon dioxide reduction) OR (co2 reduction)) NOT (photocatalysis OR photocatalytic)
+  - label: liquid-metal
+    description: low temperature liquid metals
+    filter:
+      - title-and-abstract.search:"liquid metal" AND (catalyst OR catalysis)
+  - label: high-entropy-oxides
+    description: high entropy oxides in catalysis
+    filter:
+      - title-and-abstract.search:high entropy oxide catalysis
+  - label: ACS Catalysis
+    description: Articles from ACS Catalysis
+    filter:
+      - primary_location.source.id:https://openalex.org/S37391459
+  - label: CMU Chemical Engineering
+    description: Papers by people in the Department of Chemical Engineering at CMU
+    filter:
+      - author.id:https://openalex.org/A5063320716|https://openalex.org/A5052825722|https://openalex.org/A5010387303|https://openalex.org/A5041685684|https://openalex.org/A5040842816|https://openalex.org/A5048633127|https://openalex.org/A5048485981|https://openalex.org/A5086004922|https://openalex.org/A5056017028|https://openalex.org/A5018420940|https://openalex.org/A5003442464|https://openalex.org/A5055700187|https://openalex.org/A5030631754|https://openalex.org/A5044695139|https://openalex.org/A5028498558|https://openalex.org/A5053252662|https://openalex.org/A5028147543|https://openalex.org/A5037506064|https://openalex.org/A5027983186|https://openalex.org/A5010666650
+
+
+  - label: Dynamic catalysis - citing and related
+    description: papers related to dynamic catalysis
+    filter:
+      - related_to:https://openalex.org/W2945032606|https://openalex.org/W2969923410|https://openalex.org/W3010067097|https://openalex.org/W3041061357|https://openalex.org/W3093929595
+      - cites:https://openalex.org/W2945032606|https://openalex.org/W2969923410|https://openalex.org/W3010067097|https://openalex.org/W3041061357|https://openalex.org/W3093929595
+
+  - label: Digital Discovery
+    tag: digital_discovery
+    description: Articles in Digital Discovery
+    filter:
+      - primary_location.source.id:https://openalex.org/S4210202120

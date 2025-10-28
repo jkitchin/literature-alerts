@@ -2,6 +2,8 @@
 #+author: John Kitchin
 #+date: [2024-01-15 Mon]
 
+[2025-10-27 Mon] I have disabled all the actions but the ones that feed Zotero. I am mostly using litdb these days.
+
 This is a project to use https://openalex.org to create literature alerts. It creates an RSS feed and a results file with recently created entries. It also creates a GitHUB issue assigned to me, which notifies me when new entries are added.
 
 You specify queries in this yaml file: [[./queries.yml]]
@@ -17,10 +19,10 @@ Here are some examples of what you might do with this:
 3. Find out when a group of people publish something new (e.g. the CMU Chemical Engineering Department https://github.com/jkitchin/literature-alerts/blob/main/org/CMU-Chemical-Engineering.org)
 4. Get all new articles from a specific journal (see https://github.com/jkitchin/literature-alerts/blob/main/org/ACS-Catalysis.org)
 
-How do you use this? I have not developed the best way to use this myself yet. Here are some ways I think you could do it. 
+How do you use this? I have not developed the best way to use this myself yet. Here are some ways I think you could do it.
 
 1. You could probably subscribe to the repo and get notified of updates.
-2. In your browser go to one of the org-files, e.g. https://github.com/jkitchin/literature-alerts/blob/main/org/water-splitting.org, and see if you want to do anything with the results. They get replaced every time the script runs. 
+2. In your browser go to one of the org-files, e.g. https://github.com/jkitchin/literature-alerts/blob/main/org/water-splitting.org, and see if you want to do anything with the results. They get replaced every time the script runs.
 3. Subscribe to the rss feed and consume it as you see fit.
 4. Clone the repo and open [[./org/water-splitting.org]] in Emacs. Interact with it as you see fit, e.g. refile entries, etc. It might be tricky to add notes, keep it running etc. There might be some git-fu, e.g. branching, etc. that makes it practical. I am still working out these kinds of details.
 
@@ -70,7 +72,7 @@ In your repo, go to something like  https://github.com/jkitchin/literature-alert
 
 - Figure out how to assign issues to specific users that are indicated in the queries.yml file. Maybe make an actions.sh file and then execute it later.
 - Add delivery methods to yml, email, rss, org, etc.
-- Consider pull-requests for other people to make their own queries? Would some constraints be needed? 
+- Consider pull-requests for other people to make their own queries? Would some constraints be needed?
 
 * Generating filters
 
@@ -86,7 +88,7 @@ Whenever you have new papers that OpenAlex knows about, just rerun this to gener
 		    (request works-url
 		      :sync t
 		      :parser 'oa--response-parser)))
-       (meta (plist-get works-data :meta)) 
+       (meta (plist-get works-data :meta))
        (per-page (plist-get meta :per_page))
        (count (plist-get meta :count))
        (pages (/ count per-page))
@@ -94,7 +96,7 @@ Whenever you have new papers that OpenAlex knows about, just rerun this to gener
        purl)
   ;; if there is a remainder we need to get the rest
   (when (> (mod count per-page) 0) (cl-incf pages))
-  
+
   ;; Now we have to loop through the pages
   (cl-loop for i from 1 to pages
 	   do
@@ -157,7 +159,7 @@ First highlight the region, then run the function below. That will copy the nece
 					:sync t
 					:parser 'oa--response-parser))))
 			  (pushnew (plist-get data :id) oa-ids))))
-     
+
       (setq s (kill-new (string-join oa-ids "|")))
       (message s))))
 #+END_SRC
@@ -168,7 +170,7 @@ First highlight the region, then run the function below. That will copy the nece
 
 ** Open Alex Integration with Zotero
 
-You can integrate this with Zotero. A proof of concept script is located at [[./src/litalerts/zotero.py]] and a corresponding yaml file at [[./cmu.yml]]. The only difference in this yaml file is the inclusion of a Zotero id for the user/group to act as, and a tag to add to the created Zotero items. 
+You can integrate this with Zotero. A proof of concept script is located at [[./src/litalerts/zotero.py]] and a corresponding yaml file at [[./cmu.yml]]. The only difference in this yaml file is the inclusion of a Zotero id for the user/group to act as, and a tag to add to the created Zotero items.
 
 You have to go to https://www.zotero.org/settings/keys and create an API key, and save that key as a GitHUB secret called `ZOTERO_API_KEY` for Actions. If you run it locally, you need that environment variable defined.
 
