@@ -37,8 +37,10 @@ def write_zotero_results(zot, results, today, tags=()):
     urls = {item['data'].get('url', None): True for item in items}
 
     for result in results:
-        if not result['type_crossref'] == 'journal-article':
-            print(f'skipping {result["id"]}, {result["type_crossref"]}')
+        result_type = result.get('type', 'unknown')
+        if result_type != 'article':
+            print(f'skipping {result["id"]}, type={result_type}')
+            continue
 
         if result['id'] in urls:
             print(f'we already got {result["id"]}.')
